@@ -49,14 +49,21 @@
 
 | 归档 | 线索 |
 |---|---|
+| Zenodo（CERN 运营） | DOI **10.5281/zenodo.22977632** — 永久指向最新版 |
+| Zenodo | 本版 DOI 10.5281/zenodo.22977633（2026-09-26） |
 | Software Heritage | `swh:1:snp:4d50816b258eaceab3602a15755d59b97af48413` |
 | Software Heritage | 或直接检索来源地址 `github.com/abulang/tipitaka-zh` |
-| Internet Archive | https://web.archive.org/ 检索 `tipitaka.cn` |
+| Internet Archive | https://archive.org/details/tipitaka-zh-20260926 （40 卷 PDF + EPUB） |
+| Internet Archive | 或 https://web.archive.org/ 检索 `tipitaka.cn` |
 
-Software Heritage 由法国 INRIA 运营、UNESCO 支持，使命为永久保存
-人类公开源代码。上面那串 SWHID 不是谁指派的编号，而是从内容本身
-算出的指纹——只要还留有一份副本，任何人都能重新算出同一串码，
-也能据此验证文本未被篡改。
+这四处彼此独立：分属欧洲核子研究中心（Zenodo）、法国 INRIA 与 UNESCO
+（Software Heritage）、美国 Internet Archive，均为非营利机构，
+不因本站域名到期、账号停用或维护者不在而消失。
+
+其中 DOI 与 SWHID 是**不依赖任何域名的永久标识**：
+DOI 可在 https://doi.org/ 解析，SWHID 则是从内容本身算出的指纹——
+只要世上还留有一份副本，任何人都能重新算出同一串码，也能据此
+验证文本未被篡改。
 
 **恳请转载、镜像、结缘流通者一并保留此节。** 它是这份译本在无人看管之后
 仍能被后人寻回的凭据。
