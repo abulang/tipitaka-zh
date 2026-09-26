@@ -1,0 +1,5323 @@
+{
+ "uid": 13,
+ "title": "行藏",
+ "nik": "KN",
+ "segs": [
+  {
+   "idx": "s0512m.mul0.json:3",
+   "pali": "1. Akittivaggo",
+   "zh": "1. 阿吉提品"
+  },
+  {
+   "idx": "s0512m.mul0.json:4",
+   "pali": "1. Akitticariyā",
+   "zh": "1. 阿吉提所行"
+  },
+  {
+   "idx": "s0512m.mul0.json:5",
+   "pali": "‘‘Kappe ca satasahasse, caturo ca asaṅkhiye;",
+   "zh": "百千劫中，四无数劫，",
+   "type": "verse",
+   "n": "1"
+  },
+  {
+   "idx": "s0512m.mul0.json:6",
+   "pali": "Etthantare yaṃ caritaṃ, sabbaṃ taṃ bodhipācanaṃ.",
+   "zh": "其间所修，一切咸成熟菩提。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:7",
+   "pali": "‘‘Atītakappe caritaṃ, ṭhapayitvā bhavābhave;",
+   "zh": "“在过去的劫中，于一次次生命里我所奉行的，暂且不表；",
+   "type": "verse",
+   "n": "2"
+  },
+  {
+   "idx": "s0512m.mul0.json:8",
+   "pali": "Imamhi kappe caritaṃ, pavakkhissaṃ suṇohi me.",
+   "zh": "我将宣说于此劫中所行的，请听我说。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:9",
+   "pali": "‘‘Yadā ahaṃ brahāraññe, suññe vipinakānane;",
+   "zh": "“那时，我住在广大的森林中，在空旷的密林深处；",
+   "type": "verse",
+   "n": "3"
+  },
+  {
+   "idx": "s0512m.mul0.json:10",
+   "pali": "Ajjhogāhetvā viharāmi, akitti nāma tāpaso.",
+   "zh": "我深入其中而安住，名为阿吉提苦行者。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:11",
+   "pali": "‘‘Tadā maṃ tapatejena, santatto tidivābhibhū;",
+   "zh": "“那时，三十三天之主帝释，被我的苦行热焰所灼，焦热难耐，",
+   "type": "verse",
+   "n": "4"
+  },
+  {
+   "idx": "s0512m.mul0.json:12",
+   "pali": "Dhārento brāhmaṇavaṇṇaṃ, bhikkhāya maṃ upāgami.",
+   "zh": "他化作婆罗门的模样，前来向我乞食。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:13",
+   "pali": "‘‘Pavanā ābhataṃ paṇṇaṃ, atelañca aloṇikaṃ;",
+   "zh": "林中采得叶，无油复无盐；",
+   "type": "verse",
+   "n": "5"
+  },
+  {
+   "idx": "s0512m.mul0.json:14",
+   "pali": "Mama dvāre ṭhitaṃ disvā, sakaṭāhena ākiriṃ.",
+   "zh": "见立我门前，连器俱倾赠。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:15",
+   "pali": "‘‘Tassa datvānahaṃ paṇṇaṃ, nikkujjitvāna bhājanaṃ;",
+   "zh": "叶菜施彼竟，覆钵不复求；",
+   "type": "verse",
+   "n": "6"
+  },
+  {
+   "idx": "s0512m.mul0.json:16",
+   "pali": "Punesanaṃ jahitvāna, pāvisiṃ paṇṇasālakaṃ.",
+   "zh": "更觅之心断，我入叶屋中。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:17",
+   "pali": "‘‘Dutiyampi tatiyampi, upagañchi mamantikaṃ;",
+   "zh": "“第二次、第三次，他也来到我面前。",
+   "type": "verse",
+   "n": "7"
+  },
+  {
+   "idx": "s0512m.mul0.json:18",
+   "pali": "Akampito anolaggo, evamevamadāsahaṃ.",
+   "zh": "我不动摇，不执著，就这样布施了。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:19",
+   "pali": "‘‘Na me tappaccayā atthi, sarīrasmiṃ vivaṇṇiyaṃ;",
+   "zh": "“我并未因此而身体变得憔悴失色；",
+   "type": "verse",
+   "n": "8"
+  },
+  {
+   "idx": "s0512m.mul0.json:20",
+   "pali": "Pītisukhena ratiyā, vītināmemi taṃ divaṃ.",
+   "zh": "我以喜悦、快乐与满足，度过了那一天。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:21",
+   "pali": "‘‘Yadi māsampi dvemāsaṃ, dakkhiṇeyyaṃ varaṃ labhe;",
+   "zh": "“即使是一个月、两个月，若我能值遇最值得供养的圣者，",
+   "type": "verse",
+   "n": "9"
+  },
+  {
+   "idx": "s0512m.mul0.json:22",
+   "pali": "Akampito anolīno, dadeyyaṃ dānamuttamaṃ.",
+   "zh": "我便毫不动摇、毫不退缩，行此最上的布施。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:23",
+   "pali": "‘‘Na tassa dānaṃ dadamāno, yasaṃ lābhañca patthayiṃ;",
+   "zh": "“我向他布施时，决非为了渴求名声与利养；",
+   "type": "verse",
+   "n": "10"
+  },
+  {
+   "idx": "s0512m.mul0.json:24",
+   "pali": "Sabbaññutaṃ patthayāno, tāni kammāni ācari’’nti.",
+   "zh": "为求一切知智，我行持了那些业。”",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:25",
+   "pali": "Akitticariyaṃ paṭhamaṃ.",
+   "zh": "一、阿吉提之行"
+  },
+  {
+   "idx": "s0512m.mul0.json:26",
+   "pali": "2. Saṅkhacariyā",
+   "zh": "2. 桑卡之行"
+  },
+  {
+   "idx": "s0512m.mul0.json:27",
+   "pali": "‘‘Punāparaṃ yadā homi, brāhmaṇo saṅkhasavhayo;",
+   "zh": "“复次，我曾是一位名叫桑卡的婆罗门，",
+   "type": "verse",
+   "n": "11"
+  },
+  {
+   "idx": "s0512m.mul0.json:28",
+   "pali": "Mahāsamuddaṃ taritukāmo, upagacchāmi paṭṭanaṃ.",
+   "zh": "我欲渡大海，来到了港口。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:29",
+   "pali": "‘‘Tatthaddasaṃ paṭipathe, sayambhuṃ aparājitaṃ;",
+   "zh": "“在那里，于路途中，我看见了无败的独觉佛，",
+   "type": "verse",
+   "n": "12"
+  },
+  {
+   "idx": "s0512m.mul0.json:30",
+   "pali": "Kantāraddhānaṃ paṭipannaṃ , tattāya kaṭhinabhūmiyā.",
+   "zh": "他正行于一条荒漠险道，地面灼热而粗硬。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:31",
+   "pali": "‘‘Tamahaṃ paṭipathe disvā, imamatthaṃ vicintayiṃ;",
+   "zh": "“我见他在路那一边，心中便这样思惟：",
+   "type": "verse",
+   "n": "13"
+  },
+  {
+   "idx": "s0512m.mul0.json:32",
+   "pali": "‘Idaṃ khettaṃ anuppattaṃ, puññakāmassa jantuno.",
+   "zh": "“渴求福德的人，如今遇到了这块福田。”",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:33",
+   "pali": "‘‘‘Yathā kassako puriso, khettaṃ disvā mahāgamaṃ;",
+   "zh": "“犹如农夫，见到一片肥沃的田地，",
+   "type": "verse",
+   "n": "14"
+  },
+  {
+   "idx": "s0512m.mul0.json:34",
+   "pali": "Tattha bījaṃ na ropeti, na so dhaññena atthiko.",
+   "zh": "若不在那里播种，便说明他并不希求谷物。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:35",
+   "pali": "‘‘‘Evamevāhaṃ puññakāmo, disvā khettavaruttamaṃ;",
+   "zh": "“同样地，我渴望福德，既见到这最殊胜的福田，",
+   "type": "verse",
+   "n": "15"
+  },
+  {
+   "idx": "s0512m.mul0.json:36",
+   "pali": "Yadi tattha kāraṃ na karomi, nāhaṃ puññena atthiko.",
+   "zh": "如果我不在那里提供服务，便说明我并不希求福德。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:37",
+   "pali": "‘‘‘Yathā amacco muddikāmo, rañño antepure jane;",
+   "zh": "“正如一位大臣，渴望取得掌管宫廷众人的王印，",
+   "type": "verse",
+   "n": "16"
+  },
+  {
+   "idx": "s0512m.mul0.json:38",
+   "pali": "Na deti tesaṃ dhanadhaññaṃ, muddito parihāyati.",
+   "zh": "如果他不给予他们钱财与谷物，其权威便会衰败。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:39",
+   "pali": "‘‘‘Evamevāhaṃ puññakāmo, vipulaṃ disvāna dakkhiṇaṃ;",
+   "zh": "‘我亦如是希求福，观见广大之供施；",
+   "type": "verse",
+   "n": "17"
+  },
+  {
+   "idx": "s0512m.mul0.json:40",
+   "pali": "Yadi tassa dānaṃ na dadāmi, parihāyissāmi puññato’.",
+   "zh": "若我不施彼财施，我必于福而退减。’",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:41",
+   "pali": "‘‘Evāhaṃ cintayitvāna, orohitvā upāhanā;",
+   "zh": "“我这样思惟后，便脱下鞋，",
+   "type": "verse",
+   "n": "18"
+  },
+  {
+   "idx": "s0512m.mul0.json:42",
+   "pali": "Tassa pādāni vanditvā, adāsiṃ chattupāhanaṃ.",
+   "zh": "顶礼了他的双足后，将伞与鞋供养给他。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:43",
+   "pali": "‘‘Tenevāhaṃ sataguṇato, sukhumālo sukhedhito;",
+   "zh": "“正由宿世布施果报，我身百倍娇柔，备受乐养；",
+   "type": "verse",
+   "n": "19"
+  },
+  {
+   "idx": "s0512m.mul0.json:44",
+   "pali": "Api ca dānaṃ paripūrento, evaṃ tassa adāsaha’’nti.",
+   "zh": "然为圆满布施故，我如是奉施于彼。”",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:45",
+   "pali": "Saṅkhacariyaṃ dutiyaṃ.",
+   "zh": "桑卡所行第二"
+  },
+  {
+   "idx": "s0512m.mul0.json:46",
+   "pali": "3. Kururājacariyā",
+   "zh": "3. 古儒王所行"
+  },
+  {
+   "idx": "s0512m.mul0.json:47",
+   "pali": "‘‘Punāparaṃ yadā homi, indapatthe puruttame;",
+   "zh": "“复次，当我统御最胜的因陀跋陀城时，",
+   "type": "verse",
+   "n": "20"
+  },
+  {
+   "idx": "s0512m.mul0.json:48",
+   "pali": "Rājā dhanañcayo nāma, kusale dasahupāgato.",
+   "zh": "我曾是名为财胜的国王，圆满具足十种善业。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:49",
+   "pali": "‘‘Kaliṅgaraṭṭhavisayā, brāhmaṇā upagañchu maṃ;",
+   "zh": "“来自羯陵伽国境内的婆罗门们，来到我的面前。",
+   "type": "verse",
+   "n": "21"
+  },
+  {
+   "idx": "s0512m.mul0.json:50",
+   "pali": "Āyācuṃ maṃ hatthināgaṃ, dhaññaṃ maṅgalasammataṃ.",
+   "zh": "他们向我求取那头具福吉祥、被尊为祥瑞的象王。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:51",
+   "pali": "‘‘‘Avuṭṭhiko janapado, dubbhikkho chātako mahā;",
+   "zh": "“国土久旱不雨，饥馑蔓延，大饥荒生起。",
+   "type": "verse",
+   "n": "22"
+  },
+  {
+   "idx": "s0512m.mul0.json:52",
+   "pali": "Dadāhi pavaraṃ nāgaṃ, nīlaṃ añjanasavhayaṃ.",
+   "zh": "请将那头顶级、深色如蓝宝石般，名为安阇那的大象赐予我。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:53",
+   "pali": "‘‘‘Na me yācakamanuppatte, paṭikkhepo anucchavo;",
+   "zh": "“乞者来到我面前时，拒绝于我实在不相应。",
+   "type": "verse",
+   "n": "23"
+  },
+  {
+   "idx": "s0512m.mul0.json:54",
+   "pali": "Mā me bhijji samādānaṃ, dassāmi vipulaṃ gajaṃ’.",
+   "zh": "愿我的誓愿不坏失，我将布施这头大象。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:55",
+   "pali": "‘‘Nāgaṃ gahetvā soṇḍāya, bhiṅgāre ratanāmaye;",
+   "zh": "牵彼象鼻，捧宝水瓶，",
+   "type": "verse",
+   "n": "24"
+  },
+  {
+   "idx": "s0512m.mul0.json:56",
+   "pali": "Jalaṃ hatthe ākiritvā, brāhmaṇānaṃ adaṃ gajaṃ.",
+   "zh": "倾水于婆罗门掌中，遂以此象施之。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:57",
+   "pali": "‘‘Tassa nāge padinnamhi, amaccā etadabravuṃ;",
+   "zh": "“当我把那头大象布施出去时，大臣们说道：",
+   "type": "verse",
+   "n": "25"
+  },
+  {
+   "idx": "s0512m.mul0.json:58",
+   "pali": "‘Kiṃ nu tuyhaṃ varaṃ nāgaṃ, yācakānaṃ padassasi.",
+   "zh": "“你为何将你那殊胜的大象，布施给乞讨者呢？”",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:59",
+   "pali": "‘‘‘Dhaññaṃ maṅgalasampannaṃ, saṅgāmavijayuttamaṃ;",
+   "zh": "“它吉祥、瑞相具足，是战场上的无上胜利者。",
+   "type": "verse",
+   "n": "26"
+  },
+  {
+   "idx": "s0512m.mul0.json:60",
+   "pali": "Tasmiṃ nāge padinnamhi, kiṃ te rajjaṃ karissati.",
+   "zh": "既然你已将这大象布施，王位江山对你又有何用？",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:61",
+   "pali": "‘‘‘Rajjampi me dade sabbaṃ, sarīraṃ dajjamattano;",
+   "zh": "“整个王国，我都可以献出，连同自己这具身体，我也能舍；",
+   "type": "verse",
+   "n": "27"
+  },
+  {
+   "idx": "s0512m.mul0.json:62",
+   "pali": "Sabbaññutaṃ piyaṃ mayhaṃ, tasmā nāgaṃ adāsaha’’’nti.",
+   "zh": "于我而言，一切知智方为至爱，因此我才布施了这头大象。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:63",
+   "pali": "Kururājacariyaṃ tatiyaṃ.",
+   "zh": "古儒王之行，第三"
+  },
+  {
+   "idx": "s0512m.mul0.json:64",
+   "pali": "4. Mahāsudassanacariyā",
+   "zh": "4. [[mahāsudassana|大善见王]]之所行"
+  },
+  {
+   "idx": "s0512m.mul0.json:65",
+   "pali": "‘‘Kusāvatimhi nagare, yadā āsiṃ mahīpati;",
+   "zh": "“当在拘舍婆提城中，我为大地之主时，",
+   "type": "verse",
+   "n": "28"
+  },
+  {
+   "idx": "s0512m.mul0.json:66",
+   "pali": "Mahāsudassano nāma, cakkavattī mahabbalo.",
+   "zh": "名叫[[mahāsudassana|大善见]]，是一位具大威力的转轮王。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:67",
+   "pali": "‘‘Tatthāhaṃ divase tikkhattuṃ, ghosāpemi tahiṃ tahiṃ;",
+   "zh": "“在那里，我每日三次，到各处宣告：",
+   "type": "verse",
+   "n": "29"
+  },
+  {
+   "idx": "s0512m.mul0.json:68",
+   "pali": "‘Ko kiṃ icchati pattheti, kassa kiṃ dīyatū dhanaṃ.",
+   "zh": "“谁需要什么？想要什么？该把什么财富给予谁？”",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:69",
+   "pali": "‘‘‘Ko chātako ko tasito, ko mālaṃ ko vilepanaṃ;",
+   "zh": "“谁正感饥饿？谁正感口渴？谁想要花环？谁想要涂香？",
+   "type": "verse",
+   "n": "30"
+  },
+  {
+   "idx": "s0512m.mul0.json:70",
+   "pali": "Nānārattāni vatthāni, ko naggo paridahissati.",
+   "zh": "种种色彩的衣物，谁赤身无衣而将着用？",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:71",
+   "pali": "‘‘‘Ko pathe chattamādeti, kopāhanā mudū subhā’;",
+   "zh": "“谁在路上拿起伞具？谁需要柔软悦目的鞋子？",
+   "type": "verse",
+   "n": "31"
+  },
+  {
+   "idx": "s0512m.mul0.json:72",
+   "pali": "Iti sāyañca pāto ca, ghosāpemi tahiṃ tahiṃ.",
+   "zh": "就这样，我令人于清晨与傍晚，处处宣告此事。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:73",
+   "pali": "‘‘Na taṃ dasasu ṭhānesu, napi ṭhānasatesu vā;",
+   "zh": "“‘我所布施的财物，并非只备于十处，也非只备于百处，",
+   "type": "verse",
+   "n": "32"
+  },
+  {
+   "idx": "s0512m.mul0.json:74",
+   "pali": "Anekasataṭhānesu, paṭiyattaṃ yācake dhanaṃ.",
+   "zh": "而是在数百处地方，为乞求者备好了财富。’",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:75",
+   "pali": "‘‘Divā vā yadi vā rattiṃ, yadi eti vanibbako;",
+   "zh": "“无论白昼还是夜晚，若有乞讨者前来，",
+   "type": "verse",
+   "n": "33"
+  },
+  {
+   "idx": "s0512m.mul0.json:76",
+   "pali": "Laddhā yadicchakaṃ bhogaṃ, pūrahatthova gacchati.",
+   "zh": "得到他想要的任何财物后，便双手满载而去。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:77",
+   "pali": "‘‘Evarūpaṃ mahādānaṃ, adāsiṃ yāvajīvikaṃ;",
+   "zh": "“我终其一生，行了这般大布施。",
+   "type": "verse",
+   "n": "34"
+  },
+  {
+   "idx": "s0512m.mul0.json:78",
+   "pali": "Napāhaṃ dessaṃ dhanaṃ dammi, napi natthi nicayo mayi.",
+   "zh": "我并非因厌恶财物而行布施，也并非我没有积蓄。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:79",
+   "pali": "‘‘Yathāpi āturo nāma, rogato parimuttiyā;",
+   "zh": "“犹如病人，为从疾病中解脱，",
+   "type": "verse",
+   "n": "35"
+  },
+  {
+   "idx": "s0512m.mul0.json:80",
+   "pali": "Dhanena vejjaṃ tappetvā, rogato parimuccati.",
+   "zh": "以财物令医师满意，便得以脱离病苦。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:81",
+   "pali": "‘‘Tathevāhaṃ jānamāno, paripūretumasesato;",
+   "zh": "“同样地，我如是了知，为求无余之圆满，",
+   "type": "verse",
+   "n": "36"
+  },
+  {
+   "idx": "s0512m.mul0.json:82",
+   "pali": "Ūnamanaṃ pūrayituṃ, demi dānaṃ vanibbake;",
+   "zh": "为弥补那匮乏，我向乞者施与布施；",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:83",
+   "pali": "Nirālayo apaccāso, sambodhimanupattiyā’’ti.",
+   "zh": "心无执著，亦无所希求，只为证得菩提。”",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:84",
+   "pali": "Mahāsudassanacariyaṃ catutthaṃ.",
+   "zh": "第四：[[mahāsudassana|大善见]]之行"
+  },
+  {
+   "idx": "s0512m.mul0.json:85",
+   "pali": "5. Mahāgovindacariyā",
+   "zh": "5. 大典尊之行"
+  },
+  {
+   "idx": "s0512m.mul0.json:86",
+   "pali": "‘‘Punāparaṃ yadā homi, sattarājapurohito;",
+   "zh": "“而后，当我成为七位国王的国师时，",
+   "type": "verse",
+   "n": "37"
+  },
+  {
+   "idx": "s0512m.mul0.json:87",
+   "pali": "Pūjito naradevehi, mahāgovindabrāhmaṇo.",
+   "zh": "我，婆罗门大典尊，曾受人天礼敬。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:88",
+   "pali": "‘‘Tadāhaṃ sattarajjesu, yaṃ me āsi upāyanaṃ;",
+   "zh": "那时我在七国之中所得的一切供献，",
+   "type": "verse",
+   "n": "38"
+  },
+  {
+   "idx": "s0512m.mul0.json:89",
+   "pali": "Tena demi mahādānaṃ, akkhobbhaṃ sāgarūpamaṃ.",
+   "zh": "悉数施作大布施，如大海般不可倾动。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:90",
+   "pali": "‘‘Na me dessaṃ dhanaṃ dhaññaṃ, napi natthi nicayo mayi;",
+   "zh": "“并非我厌恶财富与谷物，也并非我毫无积蓄；",
+   "type": "verse",
+   "n": "39"
+  },
+  {
+   "idx": "s0512m.mul0.json:91",
+   "pali": "Sabbaññutaṃ piyaṃ mayhaṃ, tasmā demi varaṃ dhana’’nti.",
+   "zh": "一切知为我所珍爱，所以我施与最殊胜的财富。”",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:92",
+   "pali": "Mahāgovindacariyaṃ pañcamaṃ.",
+   "zh": "大典尊所行第五"
+  },
+  {
+   "idx": "s0512m.mul0.json:93",
+   "pali": "6. Nimirājacariyā",
+   "zh": "6. 尼弥王所行"
+  },
+  {
+   "idx": "s0512m.mul0.json:94",
+   "pali": "‘‘Punāparaṃ yadā homi, mithilāyaṃ puruttame;",
+   "zh": "“又有一时，我转生于殊胜的弥提罗城，",
+   "type": "verse",
+   "n": "40"
+  },
+  {
+   "idx": "s0512m.mul0.json:95",
+   "pali": "Nimi nāma mahārājā, paṇḍito kusalatthiko.",
+   "zh": "我名为尼弥大王，具足智慧，志求善法。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:96",
+   "pali": "‘‘Tadāhaṃ māpayitvāna, catussālaṃ catummukhaṃ;",
+   "zh": "“那时，我建造了四厅四面的大堂；",
+   "type": "verse",
+   "n": "41"
+  },
+  {
+   "idx": "s0512m.mul0.json:97",
+   "pali": "Tattha dānaṃ pavattesiṃ, migapakkhinarādinaṃ.",
+   "zh": "在那里，我对走兽、飞鸟及众人行布施。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:98",
+   "pali": "‘‘Acchādanañca sayanaṃ, annaṃ pānañca bhojanaṃ;",
+   "zh": "“衣服、卧具，以及种种饮食：",
+   "type": "verse",
+   "n": "42"
+  },
+  {
+   "idx": "s0512m.mul0.json:99",
+   "pali": "Abbocchinnaṃ karitvāna, mahādānaṃ pavattayiṃ.",
+   "zh": "我无间息地行持了广大布施。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:100",
+   "pali": "‘‘Yathāpi sevako sāmiṃ, dhanahetumupāgato;",
+   "zh": "“犹如仆人为求财富，而去承事主人；",
+   "type": "verse",
+   "n": "43"
+  },
+  {
+   "idx": "s0512m.mul0.json:101",
+   "pali": "Kāyena vācā manasā, ārādhanīyamesati.",
+   "zh": "便以身体、言语和心意，设法令其欢喜。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:102",
+   "pali": "‘‘Tathevāhaṃ sabbabhave, pariyesissāmi bodhijaṃ;",
+   "zh": "“正如那样，我于一切有中，将寻求从觉悟而生的智慧；",
+   "type": "verse",
+   "n": "44"
+  },
+  {
+   "idx": "s0512m.mul0.json:103",
+   "pali": "Dānena satte tappetvā, icchāmi bodhimuttama’’nti.",
+   "zh": "以布施令众生欢喜之后，我志求那无上的菩提。”",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:104",
+   "pali": "Nimirājacariyaṃ chaṭṭhaṃ.",
+   "zh": "尼弥王所行第六"
+  },
+  {
+   "idx": "s0512m.mul0.json:105",
+   "pali": "7. Candakumāracariyā",
+   "zh": "7. 月王子所行"
+  },
+  {
+   "idx": "s0512m.mul0.json:106",
+   "pali": "‘‘Punāparaṃ yadā homi, ekarājassa atrajo;",
+   "zh": "复次我昔为独王亲子，",
+   "type": "verse",
+   "n": "45"
+  },
+  {
+   "idx": "s0512m.mul0.json:107",
+   "pali": "Nagare pupphavatiyā, kumāro candasavhayo.",
+   "zh": "具花城中号月之童子。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:108",
+   "pali": "‘‘Tadāhaṃ yajanā mutto, nikkhanto yaññavāṭato;",
+   "zh": "“那时，我从祭礼中解脱，逃离了祭祀的场地；",
+   "type": "verse",
+   "n": "46"
+  },
+  {
+   "idx": "s0512m.mul0.json:109",
+   "pali": "Saṃvegaṃ janayitvāna, mahādānaṃ pavattayiṃ.",
+   "zh": "生起深切的悚惧后，我便行了大布施。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:110",
+   "pali": "‘‘Nāhaṃ pivāmi khādāmi, napi bhuñjāmi bhojanaṃ;",
+   "zh": "我不饮不食，亦不啖饭食；",
+   "type": "verse",
+   "n": "47"
+  },
+  {
+   "idx": "s0512m.mul0.json:111",
+   "pali": "Dakkhiṇeyye adatvāna, api chappañcarattiyo.",
+   "zh": "未施应供者，纵历五六夜。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:112",
+   "pali": "‘‘Yathāpi vāṇijo nāma, katvāna bhaṇḍasañcayaṃ;",
+   "zh": "“譬如商人，囤积了成批的货物之后，",
+   "type": "verse",
+   "n": "48"
+  },
+  {
+   "idx": "s0512m.mul0.json:113",
+   "pali": "Yattha lābho mahā hoti, tattha taṃ harati bhaṇḍakaṃ.",
+   "zh": "便将货物运往能获大利之处。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:114",
+   "pali": "‘‘Tatheva sakabhuttāpi, pare dinnaṃ mahapphalaṃ;",
+   "zh": "“同样地，比起自己受用，施与他人能获得大果报。",
+   "type": "verse",
+   "n": "49"
+  },
+  {
+   "idx": "s0512m.mul0.json:115",
+   "pali": "Tasmā parassa dātabbaṃ, satabhāgo bhavissati.",
+   "zh": "因此，应当布施他人，这样的布施将增长百倍的果报。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:116",
+   "pali": "‘‘Etamatthavasaṃ ñatvā, demi dānaṃ bhavābhave;",
+   "zh": "“了知这个道理后，我便在一生又一生中修习布施；",
+   "type": "verse",
+   "n": "50"
+  },
+  {
+   "idx": "s0512m.mul0.json:117",
+   "pali": "Na paṭikkamāmi dānato, sambodhimanupattiyā’’ti.",
+   "zh": "为证正觉，我于布施未尝退转。”",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:118",
+   "pali": "Candakumāracariyaṃ sattamaṃ.",
+   "zh": "第七 旃德童子所行"
+  },
+  {
+   "idx": "s0512m.mul0.json:119",
+   "pali": "8. Sivirājacariyā",
+   "zh": "8. [[Sivi|尸毗]]王所行"
+  },
+  {
+   "idx": "s0512m.mul0.json:120",
+   "pali": "‘‘Ariṭṭhasavhaye nagare, sivināmāsi khattiyo;",
+   "zh": "“在名为阿利吒的城市，有一位名叫[[Sivi|尸毗]]的刹帝利。",
+   "type": "verse",
+   "n": "51"
+  },
+  {
+   "idx": "s0512m.mul0.json:121",
+   "pali": "Nisajja pāsādavare, evaṃ cintesahaṃ tadā.",
+   "zh": "那时我坐在殊胜的宫殿里，这样思惟：",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:122",
+   "pali": "‘‘‘Yaṃ kiñci mānusaṃ dānaṃ, adinnaṃ me na vijjati;",
+   "zh": "“‘凡是人间所有的布施，没有一样是我未曾施与的；’",
+   "type": "verse",
+   "n": "52"
+  },
+  {
+   "idx": "s0512m.mul0.json:123",
+   "pali": "Yopi yāceyya maṃ cakkhuṃ, dadeyyaṃ avikampito’.",
+   "zh": "纵使有人向我乞讨眼睛，我也心无动摇，亦当施与。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:124",
+   "pali": "‘‘Mama saṅkappamaññāya, sakko devānamissaro;",
+   "zh": "“了知我心念已，天人之主帝释天神",
+   "type": "verse",
+   "n": "53"
+  },
+  {
+   "idx": "s0512m.mul0.json:125",
+   "pali": "Nisinno devaparisāya, idaṃ vacanamabravi.",
+   "zh": "于天众会中坐，作如是说。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:126",
+   "pali": "‘‘‘Nisajja pāsādavare, sivirājā mahiddhiko;",
+   "zh": "“‘有大威德的[[Sivi|尸毗]]王，端坐在华美的宫殿中，’",
+   "type": "verse",
+   "n": "54"
+  },
+  {
+   "idx": "s0512m.mul0.json:127",
+   "pali": "Cintento vividhaṃ dānaṃ, adeyyaṃ so na passati.",
+   "zh": "他思量种种布施，不见一物不能施舍。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:128",
+   "pali": "‘‘‘Tathaṃ nu vitathaṃ netaṃ, handa vīmaṃsayāmi taṃ;",
+   "zh": "“‘这是真，还是假？来，让我考验他。’",
+   "type": "verse",
+   "n": "55"
+  },
+  {
+   "idx": "s0512m.mul0.json:129",
+   "pali": "Muhuttaṃ āgameyyātha, yāva jānāmi taṃ manaṃ’.",
+   "zh": "请稍候片刻，待我知晓他的心意。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:130",
+   "pali": "‘‘Pavedhamāno palitasiro, valigatto jarāturo;",
+   "zh": "“他颤颤巍巍，白发苍苍，皮肤皱缩，为衰老所折磨；",
+   "type": "verse",
+   "n": "56"
+  },
+  {
+   "idx": "s0512m.mul0.json:131",
+   "pali": "Andhavaṇṇova hutvāna, rājānaṃ upasaṅkami.",
+   "zh": "他化作盲人的模样，走到国王面前。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:132",
+   "pali": "‘‘So tadā paggahetvāna, vāmaṃ dakkhiṇabāhu ca;",
+   "zh": "“那时，他便举起左臂与右臂；",
+   "type": "verse",
+   "n": "57"
+  },
+  {
+   "idx": "s0512m.mul0.json:133",
+   "pali": "Sirasmiṃ añjaliṃ katvā, idaṃ vacanamabravi.",
+   "zh": "于头顶合掌，如此说道：",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:134",
+   "pali": "‘‘‘Yācāmi taṃ mahārāja, dhammika raṭṭhavaḍḍhana;",
+   "zh": "“大王，我恳求您，您是正直而令国家昌盛的君主；",
+   "type": "verse",
+   "n": "58"
+  },
+  {
+   "idx": "s0512m.mul0.json:135",
+   "pali": "Tava dānaratā kitti, uggatā devamānuse.",
+   "zh": "您乐善好施的声名，已在天神与人间广传。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:136",
+   "pali": "‘‘‘Ubhopi nettā nayanā, andhā upahatā mama;",
+   "zh": "“我赖以行路的一双眼睛，都损毁了，失明了；",
+   "type": "verse",
+   "n": "59"
+  },
+  {
+   "idx": "s0512m.mul0.json:137",
+   "pali": "Ekaṃ me nayanaṃ dehi, tvampi ekena yāpaya’.",
+   "zh": "‘请施我一只眼睛，您自己也凭一只安住吧。’",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:138",
+   "pali": "‘‘Tassāhaṃ vacanaṃ sutvā, haṭṭho saṃviggamānaso;",
+   "zh": "“听了他的这番话，我欢喜踊跃，心中深深震动；",
+   "type": "verse",
+   "n": "60"
+  },
+  {
+   "idx": "s0512m.mul0.json:139",
+   "pali": "Katañjalī vedajāto, idaṃ vacanamabraviṃ.",
+   "zh": "于是我合掌当胸，充满法喜，这样说道：",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:140",
+   "pali": "‘‘‘Idānāhaṃ cintayitvāna, pāsādato idhāgato;",
+   "zh": "“‘刚才我正思惟此事，便从殿堂来到了这里；",
+   "type": "verse",
+   "n": "61"
+  },
+  {
+   "idx": "s0512m.mul0.json:141",
+   "pali": "Tvaṃ mama cittamaññāya, nettaṃ yācitumāgato.",
+   "zh": "你已然了知我心，特此前来求取眼睛。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:142",
+   "pali": "‘‘‘Aho me mānasaṃ siddhaṃ, saṅkappo paripūrito;",
+   "zh": "“啊，我的心愿已成就，我的決意已圓满！",
+   "type": "verse",
+   "n": "62"
+  },
+  {
+   "idx": "s0512m.mul0.json:143",
+   "pali": "Adinnapubbaṃ dānavaraṃ, ajja dassāmi yācake.",
+   "zh": "从前未曾布施过的殊胜布施，今日我将施予乞者。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:144",
+   "pali": "‘‘‘Ehi sivaka uṭṭhehi, mā dandhayi mā pavedhayi;",
+   "zh": "“来，[[siva|西瓦]]科，起身吧，莫迟疑，莫颤抖；",
+   "type": "verse",
+   "n": "63"
+  },
+  {
+   "idx": "s0512m.mul0.json:145",
+   "pali": "Ubhopi nayanaṃ dehi, uppāṭetvā vaṇibbake’.",
+   "zh": "将双眼一并挖出，施与那乞者。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:146",
+   "pali": "‘‘Tato so codito mayhaṃ, sivako vacanaṃ karo;",
+   "zh": "“于是，在我的催促下，[[siva|西瓦]]科便依言而行；",
+   "type": "verse",
+   "n": "64"
+  },
+  {
+   "idx": "s0512m.mul0.json:147",
+   "pali": "Uddharitvāna pādāsi, tālamiñjaṃva yācake.",
+   "zh": "他剜出双眼，如递上棕榈嫩髓一般，奉与乞者。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:148",
+   "pali": "‘‘Dadamānassa dentassa, dinnadānassa me sato;",
+   "zh": "“当我欲布施、正布施、已行布施之时，",
+   "type": "verse",
+   "n": "65"
+  },
+  {
+   "idx": "s0512m.mul0.json:149",
+   "pali": "Cittassa aññathā natthi, bodhiyāyeva kāraṇā.",
+   "zh": "我心从未动摇，唯以此为觉悟之因。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:150",
+   "pali": "‘‘Na me dessā ubho cakkhū, attā na me na dessiyo;",
+   "zh": "“并非我厌弃自己的双眼，也非我厌弃自我；",
+   "type": "verse",
+   "n": "66"
+  },
+  {
+   "idx": "s0512m.mul0.json:151",
+   "pali": "Sabbaññutaṃ piyaṃ mayhaṃ, tasmā cakkhuṃ adāsaha’’nti.",
+   "zh": "只因一切知智于我甚为珍贵，我才布施了这双眼睛。”",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:152",
+   "pali": "Sivirājacariyaṃ aṭṭhamaṃ.",
+   "zh": "[[Sivi|尸毗]]王所行第八"
+  },
+  {
+   "idx": "s0512m.mul0.json:153",
+   "pali": "9. Vessantaracariyā",
+   "zh": "9. [[vessantara|须大拏]]所行"
+  },
+  {
+   "idx": "s0512m.mul0.json:154",
+   "pali": "‘‘Yā me ahosi janikā, phussatī nāma khattiyā;",
+   "zh": "“我的生母，是名叫普萨提的刹帝利女；",
+   "type": "verse",
+   "n": "67"
+  },
+  {
+   "idx": "s0512m.mul0.json:155",
+   "pali": "Sā atītāsu jātīsu, sakkassa mahesī piyā.",
+   "zh": "她在过去生中，曾是帝释天神爱念的王后。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:156",
+   "pali": "‘‘Tassā āyukkhayaṃ ñatvā, devindo etadabravi;",
+   "zh": "“了知她寿数将尽，天王这样说：",
+   "type": "verse",
+   "n": "68"
+  },
+  {
+   "idx": "s0512m.mul0.json:157",
+   "pali": "‘Dadāmi te dasa vare, varabhadde yadicchasi’.",
+   "zh": "“我赐你十个愿望，善女人，随你所愿。”",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:158",
+   "pali": "‘‘Evaṃ vuttā ca sā devī, sakkaṃ punidamabravi;",
+   "zh": "“那位天女听闻此言，又对帝释天神这样说：",
+   "type": "verse",
+   "n": "69"
+  },
+  {
+   "idx": "s0512m.mul0.json:159",
+   "pali": "‘Kiṃ nu me aparādhatthi, kiṃ nu dessā ahaṃ tava;",
+   "zh": "“我有什么过错？哪里令你心生厌弃？”",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:160",
+   "pali": "Rammā cāvesi maṃ ṭhānā, vātova dharaṇīruhaṃ’.",
+   "zh": "你把我从这宜人的地方赶走，犹如风把树木从地上拔起。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:161",
+   "pali": "‘‘Evaṃ vutto ca so sakko, puna tassidamabravi;",
+   "zh": "“帝释天神听她这么说，便又对她说道：",
+   "type": "verse",
+   "n": "70"
+  },
+  {
+   "idx": "s0512m.mul0.json:162",
+   "pali": "‘Na ceva te kataṃ pāpaṃ, na ca me tvaṃsi appiyā.",
+   "zh": "“你不曾造下恶业，我也并非不喜爱你。”",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:163",
+   "pali": "‘‘‘Ettakaṃyeva te āyu, cavanakālo bhavissati;",
+   "zh": "“你的寿命仅余这些，离世之时终将来临；",
+   "type": "verse",
+   "n": "71"
+  },
+  {
+   "idx": "s0512m.mul0.json:164",
+   "pali": "Paṭiggaṇha mayā dinne, vare dasa varuttame’.",
+   "zh": "“请接受我赐予的十种最胜恩惠。”",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:165",
+   "pali": "‘‘Sakkena sā dinnavarā, tuṭṭhahaṭṭhā pamoditā;",
+   "zh": "“她蒙帝释天神赐予恩惠，满心欢喜，欣悦踊跃；",
+   "type": "verse",
+   "n": "72"
+  },
+  {
+   "idx": "s0512m.mul0.json:166",
+   "pali": "Mamaṃ abbhantaraṃ katvā, phussatī dasa vare varī.",
+   "zh": "普萨提将我列入祈愿之中后，便领受了十个最殊胜的愿望。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:167",
+   "pali": "‘‘Tato cutā sā phussatī, khattiye upapajjatha;",
+   "zh": "“此后，普萨提从天界命终，投生于刹帝利家族；",
+   "type": "verse",
+   "n": "73"
+  },
+  {
+   "idx": "s0512m.mul0.json:168",
+   "pali": "Jetuttaramhi nagare, sañjayena samāgami.",
+   "zh": "在杰图陀罗城中，她与山迦耶成婚。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:169",
+   "pali": "‘‘Yadāhaṃ phussatiyā kucchiṃ, okkanto piyamātuyā;",
+   "zh": "“当我入胎于亲爱的母亲普萨提腹中之时，",
+   "type": "verse",
+   "n": "74"
+  },
+  {
+   "idx": "s0512m.mul0.json:170",
+   "pali": "Mama tejena me mātā, sadā dānaratā ahu.",
+   "zh": "以我的威德力故，我的母亲便常时乐于布施。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:171",
+   "pali": "‘‘Adhane āture jiṇṇe, yācake addhike jane;",
+   "zh": "“对贫穷者、患病者、年迈者、乞食者、旅人，",
+   "type": "verse",
+   "n": "75"
+  },
+  {
+   "idx": "s0512m.mul0.json:172",
+   "pali": "Samaṇe brāhmaṇe khīṇe, deti dānaṃ akiñcane.",
+   "zh": "对沙门、婆罗门、困乏者、一无所有者，施与布施。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:173",
+   "pali": "‘‘Dasa māse dhārayitvāna, karonte puraṃ padakkhiṇaṃ;",
+   "zh": "“她怀胎十月，正右绕城时，",
+   "type": "verse",
+   "n": "76"
+  },
+  {
+   "idx": "s0512m.mul0.json:174",
+   "pali": "Vessānaṃ vīthiyā majjhe, janesi phussatī mamaṃ.",
+   "zh": "在吠舍街的中央，普萨提生下了我。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:175",
+   "pali": "‘‘Na mayhaṃ mattikaṃ nāmaṃ, napi pettikasambhavaṃ;",
+   "zh": "“我的名字并非来自母亲，也非源自父系；",
+   "type": "verse",
+   "n": "77"
+  },
+  {
+   "idx": "s0512m.mul0.json:176",
+   "pali": "Jātettha vessavīthiyā, tasmā vessantaro ahu.",
+   "zh": "他生于吠舍街中，是故得名须大拏。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:177",
+   "pali": "‘‘Yadāhaṃ dārako homi, jātiyā aṭṭhavassiko;",
+   "zh": "“我尚为稚子之时，年方八岁；",
+   "type": "verse",
+   "n": "78"
+  },
+  {
+   "idx": "s0512m.mul0.json:178",
+   "pali": "Tadā nisajja pāsāde, dānaṃ dātuṃ vicintayiṃ.",
+   "zh": "那时我坐在宫殿里，想着要行布施。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:179",
+   "pali": "‘‘‘Hadayaṃ dadeyyaṃ cakkhuṃ, maṃsampi rudhirampi ca;",
+   "zh": "“‘我愿施与心脏、眼睛，乃至血肉；",
+   "type": "verse",
+   "n": "79"
+  },
+  {
+   "idx": "s0512m.mul0.json:180",
+   "pali": "Dadeyyaṃ kāyaṃ sāvetvā, yadi koci yācaye mamaṃ’.",
+   "zh": "若人向我乞此身，当先告而后施与；",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:181",
+   "pali": "‘‘Sabhāvaṃ cintayantassa, akampitamasaṇṭhitaṃ;",
+   "zh": "思惟自性者，其心不动不倾。",
+   "type": "verse",
+   "n": "80"
+  },
+  {
+   "idx": "s0512m.mul0.json:182",
+   "pali": "Akampi tattha pathavī, sineruvanavaṭaṃsakā.",
+   "zh": "尔时大地震动，须弥山林为其冠饰。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:183",
+   "pali": "‘‘Anvaddhamāse pannarase, puṇṇamāse uposathe;",
+   "zh": "每半月之第十五日，月满布萨之时，",
+   "type": "verse",
+   "n": "81"
+  },
+  {
+   "idx": "s0512m.mul0.json:184",
+   "pali": "Paccayaṃ nāgamāruyha, dānaṃ dātuṃ upāgamiṃ.",
+   "zh": "我登上名为吉祥的象王，前去布施。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:185",
+   "pali": "‘‘Kaliṅgaraṭṭhavisayā , brāhmaṇā upagañchu maṃ;",
+   "zh": "“来自羯陵伽国境内的婆罗门们，来到我的面前。",
+   "type": "verse",
+   "n": "82"
+  },
+  {
+   "idx": "s0512m.mul0.json:186",
+   "pali": "Ayācuṃ maṃ hatthināgaṃ, dhaññaṃ maṅgalasammataṃ.",
+   "zh": "他们向我乞求那头被视为吉祥瑞相的象王。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:187",
+   "pali": "‘‘Avuṭṭhiko janapado, dubbhikkho chātako mahā;",
+   "zh": "“国土久旱不雨，饥馑蔓延，大饥荒生起。",
+   "type": "verse",
+   "n": "83"
+  },
+  {
+   "idx": "s0512m.mul0.json:188",
+   "pali": "Dadāhi pavaraṃ nāgaṃ, sabbasetaṃ gajuttamaṃ.",
+   "zh": "请赐予这头殊胜、纯白无瑕的象王。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:189",
+   "pali": "‘‘Dadāmi na vikampāmi, yaṃ maṃ yācanti brāhmaṇā;",
+   "zh": "“我布施，心无动摇，无论婆罗门们向我乞求何物。",
+   "type": "verse",
+   "n": "84"
+  },
+  {
+   "idx": "s0512m.mul0.json:190",
+   "pali": "Santaṃ nappatigūhāmi , dāne me ramate mano.",
+   "zh": "我从不隐藏现有的财富，我的心乐于布施。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:191",
+   "pali": "‘‘Na me yācakamanuppatte, paṭikkhepo anucchavo;",
+   "zh": "“乞者来到我面前时，拒绝于我实在不相应。",
+   "type": "verse",
+   "n": "85"
+  },
+  {
+   "idx": "s0512m.mul0.json:192",
+   "pali": "‘Mā me bhijji samādānaṃ, dassāmi vipulaṃ gajaṃ’.",
+   "zh": "‘愿我誓愿不坏失，我当布施此大象；’",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:193",
+   "pali": "‘‘Nāgaṃ gahetvā soṇḍāya, bhiṅgāre ratanāmaye;",
+   "zh": "执彼象鼻，于宝石所成之宝瓶。",
+   "type": "verse",
+   "n": "86"
+  },
+  {
+   "idx": "s0512m.mul0.json:194",
+   "pali": "Jalaṃ hatthe ākiritvā, brāhmaṇānaṃ adaṃ gajaṃ.",
+   "zh": "将水洒在婆罗门们的手中，随后将大象布施给了他们。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:195",
+   "pali": "‘‘Punāparaṃ dadantassa, sabbasetaṃ gajuttamaṃ;",
+   "zh": "“又再者，当布施一头纯白无上的象王时，",
+   "type": "verse",
+   "n": "87"
+  },
+  {
+   "idx": "s0512m.mul0.json:196",
+   "pali": "Tadāpi pathavī kampi, sineruvanavaṭaṃsakā.",
+   "zh": "那时，大地也震动了，连同那为森林所环饰的[[sineru|须弥山]]。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:197",
+   "pali": "‘‘Tassa nāgassa dānena, sivayo kuddhā samāgatā;",
+   "zh": "“因为布施了那头象，[[Sivi|尸毗]]族的人们满怀愤怒，聚集一起；",
+   "type": "verse",
+   "n": "88"
+  },
+  {
+   "idx": "s0512m.mul0.json:198",
+   "pali": "Pabbājesuṃ sakā raṭṭhā, ‘vaṅkaṃ gacchatu pabbataṃ’.",
+   "zh": "逐我出本国，令往弯曲山；",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:199",
+   "pali": "‘‘Tesaṃ nicchubhamānānaṃ, akampitthamasaṇṭhitaṃ;",
+   "zh": "彼众驱我时，不动亦不住。",
+   "type": "verse",
+   "n": "89"
+  },
+  {
+   "idx": "s0512m.mul0.json:200",
+   "pali": "Mahādānaṃ pavattetuṃ, ekaṃ varamayācisaṃ.",
+   "zh": "为了成就这大布施，我请求了一个恩惠。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:201",
+   "pali": "‘‘Yācitā sivayo sabbe, ekaṃ varamadaṃsu me;",
+   "zh": "“应我的请求，所有[[Sivi|尸毗]]人都答应了我一个愿望；",
+   "type": "verse",
+   "n": "90"
+  },
+  {
+   "idx": "s0512m.mul0.json:202",
+   "pali": "Sāvayitvā kaṇṇabheriṃ, mahādānaṃ dadāmahaṃ.",
+   "zh": "我命人击响宣告之鼓，作了大布施。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:203",
+   "pali": "‘‘Athettha vattatī saddo, tumulo bheravo mahā;",
+   "zh": "“这时，那里响起一阵嘈杂、可怕、巨大的声音。",
+   "type": "verse",
+   "n": "91"
+  },
+  {
+   "idx": "s0512m.mul0.json:204",
+   "pali": "Dānenimaṃ nīharanti, puna dānaṃ dadātayaṃ.",
+   "zh": "他们因布施将他驱离，而他却仍行布施。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:205",
+   "pali": "‘‘Hatthiṃ asse rathe datvā, dāsiṃ dāsaṃ gavaṃ dhanaṃ;",
+   "zh": "“布施了大象、马匹、车乘、婢女、男仆、牛群与财物，",
+   "type": "verse",
+   "n": "92"
+  },
+  {
+   "idx": "s0512m.mul0.json:206",
+   "pali": "Mahādānaṃ daditvāna, nagarā nikkhamiṃ tadā.",
+   "zh": "我作了大布施后，便离城而去。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:207",
+   "pali": "‘‘Nikkhamitvāna nagarā, nivattitvā vilokite;",
+   "zh": "“出城之后，转身回望；",
+   "type": "verse",
+   "n": "93"
+  },
+  {
+   "idx": "s0512m.mul0.json:208",
+   "pali": "Tadāpi pathavī kampi, sineruvanavaṭaṃsakā.",
+   "zh": "尔时大地震动，以须弥为冠、密林为饰。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:209",
+   "pali": "‘‘Catuvāhiṃ rathaṃ datvā, ṭhatvā cātummahāpathe;",
+   "zh": "施四马车已，伫立四衢大道口。",
+   "type": "verse",
+   "n": "94"
+  },
+  {
+   "idx": "s0512m.mul0.json:210",
+   "pali": "Ekākiyo adutiyo, maddideviṃ idamabraviṃ.",
+   "zh": "我独自一人，无有同伴，对曼坻妃这样说：",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:211",
+   "pali": "‘‘‘Tvaṃ maddi kaṇhaṃ gaṇhāhi, lahukā esā kaniṭṭhikā;",
+   "zh": "“曼坻，你带上黑儿吧，她年纪小，身子轻；",
+   "type": "verse",
+   "n": "95"
+  },
+  {
+   "idx": "s0512m.mul0.json:212",
+   "pali": "Ahaṃ jāliṃ gahessāmi, garuko bhātiko hi so’.",
+   "zh": "我来带上阇利吧，他是哥哥，有分量。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:213",
+   "pali": "‘‘Padumaṃ puṇḍarīkaṃva, maddī kaṇhājinaggahī;",
+   "zh": "“曼坻抱起了迦陵纳，如同红莲或白莲一般。",
+   "type": "verse",
+   "n": "96"
+  },
+  {
+   "idx": "s0512m.mul0.json:214",
+   "pali": "Ahaṃ suvaṇṇabimbaṃva, jāliṃ khattiyamaggahiṃ.",
+   "zh": "我抱起了犹如金像般的刹帝利子阇利。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:215",
+   "pali": "‘‘Abhijātā sukhumālā, khattiyā caturo janā;",
+   "zh": "“这四位出身高贵、身心娇嫩的刹帝利人。",
+   "type": "verse",
+   "n": "97"
+  },
+  {
+   "idx": "s0512m.mul0.json:216",
+   "pali": "Visamaṃ samaṃ akkamantā, vaṅkaṃ gacchāma pabbataṃ.",
+   "zh": "我们行经崎岖与坦途，前往弯曲山。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:217",
+   "pali": "‘‘Ye keci manujā enti, anumagge paṭippathe;",
+   "zh": "“每当有人从对面沿路而来，",
+   "type": "verse",
+   "n": "98"
+  },
+  {
+   "idx": "s0512m.mul0.json:218",
+   "pali": "Maggante paṭipucchāma, ‘kuhiṃ vaṅkanta pabbato’.",
+   "zh": "我等便问路上行人：‘弯曲之山今在何处？",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:219",
+   "pali": "‘‘Te tattha amhe passitvā, karuṇaṃ giramudīrayuṃ;",
+   "zh": "’彼等于彼处见我等，遂发悲悯之语：",
+   "type": "verse",
+   "n": "99"
+  },
+  {
+   "idx": "s0512m.mul0.json:220",
+   "pali": "Dukkhaṃ te paṭivedenti, dūre vaṅkantapabbato.",
+   "zh": "他们这样告知：‘那会很苦，因为弯曲山还在远方。’",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:221",
+   "pali": "‘‘Yadi passanti pavane, dārakā phaline dume;",
+   "zh": "“倘若孩子们在林间看见满结果实的树木，",
+   "type": "verse",
+   "n": "100"
+  },
+  {
+   "idx": "s0512m.mul0.json:222",
+   "pali": "Tesaṃ phalānaṃ hetumhi, uparodanti dārakā.",
+   "zh": "为那些果实，孩童们啼泣；",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:223",
+   "pali": "‘‘Rodante dārake disvā, ubbiddhā vipulā dumā;",
+   "zh": "见孩童啼哭，高大繁茂的树木也随之哀泣。",
+   "type": "verse",
+   "n": "101"
+  },
+  {
+   "idx": "s0512m.mul0.json:224",
+   "pali": "Sayamevoṇamitvāna, upagacchanti dārake.",
+   "zh": "便自行弯下腰来，靠近孩子们。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:225",
+   "pali": "‘‘Idaṃ acchariyaṃ disvā, abbhutaṃ lomahaṃsanaṃ;",
+   "zh": "“目睹这般奇妙、令人毛发竖立的不可思议之事，",
+   "type": "verse",
+   "n": "102"
+  },
+  {
+   "idx": "s0512m.mul0.json:226",
+   "pali": "Sāhukāraṃ pavattesi, maddī sabbaṅgasobhanā.",
+   "zh": "曼坻，肢体端严，欢喜赞叹道：",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:227",
+   "pali": "‘‘Accheraṃ vata lokasmiṃ, abbhutaṃ lomahaṃsanaṃ;",
+   "zh": "“在这世间，真是奇妙啊，不可思议，令人毛发竖立；",
+   "type": "verse",
+   "n": "103"
+  },
+  {
+   "idx": "s0512m.mul0.json:228",
+   "pali": "Vessantarassa tejena, sayamevoṇatā dumā.",
+   "zh": "须大拏威德所感，树木自然低垂。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:229",
+   "pali": "‘‘Saṅkhipiṃsu pathaṃ yakkhā, anukampāya dārake;",
+   "zh": "夜叉悲悯诸童子，为彼缩短路程。",
+   "type": "verse",
+   "n": "104"
+  },
+  {
+   "idx": "s0512m.mul0.json:230",
+   "pali": "Nikkhantadivaseneva , cetaraṭṭhamupāgamuṃ.",
+   "zh": "启程当日，即抵车提国；",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:231",
+   "pali": "‘‘Saṭṭhirājasahassāni, tadā vasanti mātule;",
+   "zh": "其时六万国王，咸居舅氏之邦。",
+   "type": "verse",
+   "n": "105"
+  },
+  {
+   "idx": "s0512m.mul0.json:232",
+   "pali": "Sabbe pañjalikā hutvā, rodamānā upāgamuṃ.",
+   "zh": "他们全都合掌，哭泣着走上前来。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:233",
+   "pali": "‘‘Tattha vattetvā sallāpaṃ, cetehi cetaputtehi;",
+   "zh": "“在那里，他与那些支提王子们交谈之后，",
+   "type": "verse",
+   "n": "106"
+  },
+  {
+   "idx": "s0512m.mul0.json:234",
+   "pali": "Te tato nikkhamitvāna, vaṅkaṃ agamu pabbataṃ.",
+   "zh": "他们辞别彼处，行至万卡山；",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:235",
+   "pali": "‘‘Āmantayitvā devindo, vissakammaṃ mahiddhikaṃ;",
+   "zh": "天帝召唤大神通之毗首羯摩，",
+   "type": "verse",
+   "n": "107"
+  },
+  {
+   "idx": "s0512m.mul0.json:236",
+   "pali": "Assamaṃ sukataṃ rammaṃ, paṇṇasālaṃ sumāpaya.",
+   "zh": "工构精舍巧可爱，结叶为庵宜善筑。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:237",
+   "pali": "‘‘Sakkassa vacanaṃ sutvā, vissakammo mahiddhiko;",
+   "zh": "毗首羯摩大神通，闻帝释天神所敕语，",
+   "type": "verse",
+   "n": "108"
+  },
+  {
+   "idx": "s0512m.mul0.json:238",
+   "pali": "Assamaṃ sukataṃ rammaṃ, paṇṇasālaṃ sumāpayi.",
+   "zh": "建起了一座精致宜人的精舍和雅致的叶屋。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:239",
+   "pali": "‘‘Ajjhogāhetvā pavanaṃ, appasaddaṃ nirākulaṃ;",
+   "zh": "“我们走进安静、无扰的森林；",
+   "type": "verse",
+   "n": "109"
+  },
+  {
+   "idx": "s0512m.mul0.json:240",
+   "pali": "Caturo janā mayaṃ tattha, vasāma pabbatantare.",
+   "zh": "我们四人那时便住在那山间。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:241",
+   "pali": "‘‘Ahañca maddidevī ca, jālī kaṇhājinā cubho;",
+   "zh": "“我、曼坻王妃，还有耶利与黑鹿两个孩子，",
+   "type": "verse",
+   "n": "110"
+  },
+  {
+   "idx": "s0512m.mul0.json:242",
+   "pali": "Aññamaññaṃ sokanudā, vasāma assame tadā.",
+   "zh": "彼此消除忧伤，那时便同住在山林精舍。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:243",
+   "pali": "‘‘Dārake anurakkhanto, asuñño homi assame;",
+   "zh": "“我为了照料孩子，住在精舍，使它不至空无一人。",
+   "type": "verse",
+   "n": "111"
+  },
+  {
+   "idx": "s0512m.mul0.json:244",
+   "pali": "Maddī phalaṃ āharitvā, poseti sā tayo jane.",
+   "zh": "曼坻采来果实，养育我们父子三人。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:245",
+   "pali": "‘‘Pavane vasamānassa, addhiko maṃ upāgami;",
+   "zh": "“我住于林中时，有位旅人来到我这里。",
+   "type": "verse",
+   "n": "112"
+  },
+  {
+   "idx": "s0512m.mul0.json:246",
+   "pali": "Āyāci puttake mayhaṃ, jāliṃ kaṇhājinaṃ cubho.",
+   "zh": "他向我求取我的两个孩子——阇利与黑女。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:247",
+   "pali": "‘‘Yācakaṃ upagataṃ disvā, hāso me upapajjatha;",
+   "zh": "“见到乞者前来，我心中生起欢喜。",
+   "type": "verse",
+   "n": "113"
+  },
+  {
+   "idx": "s0512m.mul0.json:248",
+   "pali": "Ubho putte gahetvāna, adāsiṃ brāhmaṇe tadā.",
+   "zh": "于是，我带着两个孩子，将他们布施给了那位婆罗门。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:249",
+   "pali": "‘‘Sake putte cajantassa, jūjake brāhmaṇe yadā;",
+   "zh": "“当我将自己的儿子们施与婆罗门朱贾卡时，",
+   "type": "verse",
+   "n": "114"
+  },
+  {
+   "idx": "s0512m.mul0.json:250",
+   "pali": "Tadāpi pathavī kampi, sineruvanavaṭaṃsakā.",
+   "zh": "彼时，那以[[sineru|须弥山]]与林木为冠饰的大地震动了。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:251",
+   "pali": "‘‘Punadeva sakko oruyha, hutvā brāhmaṇasannibho;",
+   "zh": "“而后，帝释天神又从天界下降，化作婆罗门的形貌，",
+   "type": "verse",
+   "n": "115"
+  },
+  {
+   "idx": "s0512m.mul0.json:252",
+   "pali": "Āyāci maṃ maddideviṃ, sīlavantiṃ patibbataṃ.",
+   "zh": "他向我求取曼坻王妃——她持守戒律、忠贞不渝。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:253",
+   "pali": "‘‘Maddiṃ hatthe gahetvāna, udakañjali pūriya;",
+   "zh": "“我牵着麦蒂的手，双掌盛满净水，",
+   "type": "verse",
+   "n": "116"
+  },
+  {
+   "idx": "s0512m.mul0.json:254",
+   "pali": "Pasannamanasaṅkappo, tassa maddiṃ adāsahaṃ.",
+   "zh": "澄心决意施曼坻，我以曼坻奉予彼；",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:255",
+   "pali": "‘‘Maddiyā dīyamānāya, gagane devā pamoditā;",
+   "zh": "曼坻施时诸天神喜，虚空天众尽欢庆。",
+   "type": "verse",
+   "n": "117"
+  },
+  {
+   "idx": "s0512m.mul0.json:256",
+   "pali": "Tadāpi pathavī kampi, sineruvanavaṭaṃsakā.",
+   "zh": "尔时大地亦震动，须弥山林为其冠饰。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:257",
+   "pali": "‘‘Jāliṃ kaṇhājinaṃ dhītaṃ, maddideviṃ patibbataṃ;",
+   "zh": "儿子阇利、女儿黑女，与忠贞的曼坻王后，",
+   "type": "verse",
+   "n": "118"
+  },
+  {
+   "idx": "s0512m.mul0.json:258",
+   "pali": "Cajamāno na cintesiṃ, bodhiyāyeva kāraṇā.",
+   "zh": "我舍弃时，心无犹豫，只为菩提。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:259",
+   "pali": "‘‘Na me dessā ubho puttā, maddidevī na dessiyā;",
+   "zh": "“我并非厌弃这两个儿子，亦非厌弃曼坻王后；",
+   "type": "verse",
+   "n": "119"
+  },
+  {
+   "idx": "s0512m.mul0.json:260",
+   "pali": "Sabbaññutaṃ piyaṃ mayhaṃ, tasmā piye adāsahaṃ.",
+   "zh": "遍知一切智，为我所珍爱；是故诸所爱，我悉以布施。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:261",
+   "pali": "‘‘Punāparaṃ brahāraññe, mātāpitusamāgame;",
+   "zh": "其后大林间，与父母相聚之时；",
+   "type": "verse",
+   "n": "120"
+  },
+  {
+   "idx": "s0512m.mul0.json:262",
+   "pali": "Karuṇaṃ paridevante, sallapante sukhaṃ dukhaṃ.",
+   "zh": "他们悲凄哭泣，诉说着快乐与痛苦。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:263",
+   "pali": "‘‘Hirottappena garunā , ubhinnaṃ upasaṅkami;",
+   "zh": "“我深怀惭与愧，走近他们二人。",
+   "type": "verse",
+   "n": "121"
+  },
+  {
+   "idx": "s0512m.mul0.json:264",
+   "pali": "Tadāpi pathavī kampi, sineruvanavaṭaṃsakā.",
+   "zh": "那时大地亦震动，须弥如林鬘颤摇。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:265",
+   "pali": "‘‘Punāparaṃ brahāraññā, nikkhamitvā sañātibhi;",
+   "zh": "“我复辞亲离眷属，步出茫茫大森林。”",
+   "type": "verse",
+   "n": "122"
+  },
+  {
+   "idx": "s0512m.mul0.json:266",
+   "pali": "Pavisāmi puraṃ rammaṃ, jetuttaraṃ puruttamaṃ.",
+   "zh": "我进入了悦意的捷都塔拉城，那无上的王都。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:267",
+   "pali": "‘‘Ratanāni satta vassiṃsu, mahāmegho pavassatha;",
+   "zh": "“七宝如雨而降，大云亦降下大雨。",
+   "type": "verse",
+   "n": "123"
+  },
+  {
+   "idx": "s0512m.mul0.json:268",
+   "pali": "Tadāpi pathavī kampi, sineruvanavaṭaṃsakā.",
+   "zh": "那时，以[[sineru|须弥山]]与森林为庄严的大地，亦震动了。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:269",
+   "pali": "‘‘Acetanāyaṃ pathavī, aviññāya sukhaṃ dukhaṃ;",
+   "zh": "“这大地本无心识，不知乐，不知苦。",
+   "type": "verse",
+   "n": "124"
+  },
+  {
+   "idx": "s0512m.mul0.json:270",
+   "pali": "Sāpi dānabalā mayhaṃ, sattakkhattuṃ pakampathā’’ti.",
+   "zh": "它亦因我布施之力，震动七次。”",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:271",
+   "pali": "Vessantaracariyaṃ navamaṃ.",
+   "zh": "第九 [[vessantara|须大拏]]所行"
+  },
+  {
+   "idx": "s0512m.mul0.json:272",
+   "pali": "10. Sasapaṇḍitacariyā",
+   "zh": "10. 兔子贤者之行"
+  },
+  {
+   "idx": "s0512m.mul0.json:273",
+   "pali": "‘‘Punāparaṃ yadā homi, sasako pavanacārako;",
+   "zh": "“又有一次，我投生为林中游走的野兔，",
+   "type": "verse",
+   "n": "125"
+  },
+  {
+   "idx": "s0512m.mul0.json:274",
+   "pali": "Tiṇapaṇṇasākaphalabhakkho, paraheṭhanavivajjito.",
+   "zh": "以草、叶、蔬菜与野果为食，远离伤害众生之事。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:275",
+   "pali": "‘‘Makkaṭo ca siṅgālo ca, suttapoto cahaṃ tadā;",
+   "zh": "“那时，有猴、豺、水獭幼崽与我，",
+   "type": "verse",
+   "n": "126"
+  },
+  {
+   "idx": "s0512m.mul0.json:276",
+   "pali": "Vasāma ekasāmantā, sāyaṃ pāto ca dissare .",
+   "zh": "我们同住一地，朝夕相见。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:277",
+   "pali": "‘‘Ahaṃ te anusāsāmi, kiriye kalyāṇapāpake;",
+   "zh": "“我便教导他们何为善行、何为恶行：",
+   "type": "verse",
+   "n": "127"
+  },
+  {
+   "idx": "s0512m.mul0.json:278",
+   "pali": "‘Pāpāni parivajjetha, kalyāṇe abhinivissatha’.",
+   "zh": "‘远离诸恶，专志于善。’",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:279",
+   "pali": "‘‘Uposathamhi divase, candaṃ disvāna pūritaṃ;",
+   "zh": "“于布萨日，见月圆满，",
+   "type": "verse",
+   "n": "128"
+  },
+  {
+   "idx": "s0512m.mul0.json:280",
+   "pali": "Etesaṃ tattha ācikkhiṃ, divaso ajjuposatho.",
+   "zh": "我便对他们说：‘今日是布萨日。’",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:281",
+   "pali": "‘‘Dānāni paṭiyādetha, dakkhiṇeyyassa dātave;",
+   "zh": "“你们应当备办布施物，用以供养应受供养者。”",
+   "type": "verse",
+   "n": "129"
+  },
+  {
+   "idx": "s0512m.mul0.json:282",
+   "pali": "Datvā dānaṃ dakkhiṇeyye, upavassathuposathaṃ.",
+   "zh": "“向应受供养者布施后，当受持布萨斋戒。”",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:283",
+   "pali": "‘‘Te me sādhūti vatvāna, yathāsatti yathābalaṃ;",
+   "zh": "彼众答我言善哉，随力随能备施物；",
+   "type": "verse",
+   "n": "130"
+  },
+  {
+   "idx": "s0512m.mul0.json:284",
+   "pali": "Dānāni paṭiyādetvā, dakkhiṇeyyaṃ gavesisuṃ .",
+   "zh": "布施既办求应供，遍寻堪受供养者。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:285",
+   "pali": "‘‘Ahaṃ nisajja cintesiṃ, dānaṃ dakkhiṇanucchavaṃ;",
+   "zh": "“我坐下来思惟：怎样的布施方才相称于供养；",
+   "type": "verse",
+   "n": "131"
+  },
+  {
+   "idx": "s0512m.mul0.json:286",
+   "pali": "‘Yadihaṃ labhe dakkhiṇeyyaṃ, kiṃ me dānaṃ bhavissati.",
+   "zh": "若我在这里寻得应施者，我当以何物来行布施呢？",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:287",
+   "pali": "‘‘‘Na me atthi tilā muggā, māsā vā taṇḍulā ghataṃ;",
+   "zh": "“我既无芝麻、绿豆，亦无豆、米与酥油。",
+   "type": "verse",
+   "n": "132"
+  },
+  {
+   "idx": "s0512m.mul0.json:288",
+   "pali": "Ahaṃ tiṇena yāpemi, na sakkā tiṇa dātave.",
+   "zh": "我但以草维生，却无法以草布施。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:289",
+   "pali": "‘‘‘Yadi koci eti dakkhiṇeyyo, bhikkhāya mama santike;",
+   "zh": "“若有一位应供者，来到我跟前乞食，",
+   "type": "verse",
+   "n": "133"
+  },
+  {
+   "idx": "s0512m.mul0.json:290",
+   "pali": "Dajjāhaṃ sakamattānaṃ, na so tuccho gamissati’.",
+   "zh": "我应布施自身，决不让他空手而归。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:291",
+   "pali": "‘‘Mama saṅkappamaññāya, sakko brāhmaṇavaṇṇinā;",
+   "zh": "“帝释天神知道我的心念，便化作婆罗门的模样，",
+   "type": "verse",
+   "n": "134"
+  },
+  {
+   "idx": "s0512m.mul0.json:292",
+   "pali": "Āsayaṃ me upāgacchi, dānavīmaṃsanāya me.",
+   "zh": "来到我的住处，为考验我的布施心。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:293",
+   "pali": "‘‘Tamahaṃ disvāna santuṭṭho, idaṃ vacanamabraviṃ;",
+   "zh": "“我见到他，满心欢喜，便说出这样的话：",
+   "type": "verse",
+   "n": "135"
+  },
+  {
+   "idx": "s0512m.mul0.json:294",
+   "pali": "‘Sādhu khosi anuppatto, ghāsahetu mamantike.",
+   "zh": "善哉！你为乞食而来我前，真是再好不过。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:295",
+   "pali": "‘‘‘Adinnapubbaṃ dānavaraṃ, ajja dassāmi te ahaṃ;",
+   "zh": "“这前所未有的最胜布施，我今日就要献与你。",
+   "type": "verse",
+   "n": "136"
+  },
+  {
+   "idx": "s0512m.mul0.json:296",
+   "pali": "Tuvaṃ sīlaguṇūpeto, ayuttaṃ te paraheṭhanaṃ.",
+   "zh": "你具足戒德，伤害他人实在不合宜。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:297",
+   "pali": "‘‘‘Ehi aggiṃ padīpehi, nānākaṭṭhe samānaya;",
+   "zh": "“来吧，燃起火堆，去收集种种柴薪；",
+   "type": "verse",
+   "n": "137"
+  },
+  {
+   "idx": "s0512m.mul0.json:298",
+   "pali": "Ahaṃ pacissamattānaṃ, pakkaṃ tvaṃ bhakkhayissasi’.",
+   "zh": "我将把自己烹熟，你便享用这烹熟的我。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:299",
+   "pali": "‘‘‘Sādhū’ti so haṭṭhamano, nānākaṭṭhe samānayi;",
+   "zh": "“他欢喜地说：‘善哉！’便收集了种种木材；”",
+   "type": "verse",
+   "n": "138"
+  },
+  {
+   "idx": "s0512m.mul0.json:300",
+   "pali": "Mahantaṃ akāsi citakaṃ, katvā aṅgāragabbhakaṃ.",
+   "zh": "他堆起一座大柴堆，并在其中安置了炭火。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:301",
+   "pali": "‘‘Aggiṃ tattha padīpesi, yathā so khippaṃ mahā bhave;",
+   "zh": "“他在那里点燃了火，好让火迅速燃成大火；",
+   "type": "verse",
+   "n": "139"
+  },
+  {
+   "idx": "s0512m.mul0.json:302",
+   "pali": "Phoṭetvā rajagate gatte, ekamantaṃ upāvisiṃ.",
+   "zh": "拍去身上的尘土，我便退到一旁坐下。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:303",
+   "pali": "‘‘Yadā mahākaṭṭhapuñjo, āditto dhamadhamāyati ;",
+   "zh": "“当大柴堆炽燃，噼啪作响、火势猛烈之时，",
+   "type": "verse",
+   "n": "140"
+  },
+  {
+   "idx": "s0512m.mul0.json:304",
+   "pali": "Taduppatitvā papatiṃ, majjhe jālasikhantare.",
+   "zh": "我便飞身跃起，坠入炽焰的中心。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:305",
+   "pali": "‘‘Yathā sītodakaṃ nāma, paviṭṭhaṃ yassa kassaci;",
+   "zh": "“正如清凉之水，不论何人浸入其中，",
+   "n": "141"
+  },
+  {
+   "idx": "s0512m.mul0.json:306",
+   "pali": "Sameti darathapariḷāhaṃ, assādaṃ deti pīti ca.",
+   "zh": "都能平息焦灼与疲惫，带来满足与喜悦。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:307",
+   "pali": "‘‘Tatheva jalitaṃ aggiṃ, paviṭṭhassa mamaṃ tadā;",
+   "zh": "“同样，那时我进入炽燃的烈火中，",
+   "type": "verse",
+   "n": "142"
+  },
+  {
+   "idx": "s0512m.mul0.json:308",
+   "pali": "Sabbaṃ sameti darathaṃ, yathā sītodakaṃ viya.",
+   "zh": "一切苦恼与热恼悉皆止息，犹如清凉之水。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:309",
+   "pali": "‘‘Chaviṃ cammaṃ maṃsaṃ nhāruṃ, aṭṭhiṃ hadayabandhanaṃ;",
+   "zh": "“外皮、内膜、肉、筋、骨，与连系心脏的组织，",
+   "type": "verse",
+   "n": "143"
+  },
+  {
+   "idx": "s0512m.mul0.json:310",
+   "pali": "Kevalaṃ sakalaṃ kāyaṃ, brāhmaṇassa adāsaha’’nti.",
+   "zh": "我把整个身体，全然布施给了婆罗门。”",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:311",
+   "pali": "Sasapaṇḍitacariyaṃ dasamaṃ.",
+   "zh": "兔子贤者所行·第十"
+  },
+  {
+   "idx": "s0512m.mul0.json:312",
+   "pali": "Akittivaggo paṭhamo.",
+   "zh": "阿吉提品第一"
+  },
+  {
+   "idx": "s0512m.mul0.json:313",
+   "pali": "Tassuddānaṃ –",
+   "zh": "其摄颂："
+  },
+  {
+   "idx": "s0512m.mul0.json:314",
+   "pali": "Akittibrāhmaṇo saṅkho, kururājā dhanañcayo;",
+   "zh": "阿吉提婆罗门与商佉，",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:315",
+   "pali": "Mahāsudassano rājā, mahāgovindabrāhmaṇo.",
+   "zh": "俱卢王财胜、大善见王，及大典尊婆罗门。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:316",
+   "pali": "Nimi candakumāro ca, sivi vessantaro saso;",
+   "zh": "尼弥、月王子、尸毗王、须大拏、野兔；",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:317",
+   "pali": "Ahameva tadā āsiṃ, yo te dānavare adā.",
+   "zh": "彼时正是我，行诸最胜布施之人。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:318",
+   "pali": "Ete dānaparikkhārā, ete dānassa pāramī;",
+   "zh": "这些是布施的资具，这些便是布施的波罗蜜。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:319",
+   "pali": "Jīvitaṃ yācake datvā, imaṃ pārami pūrayiṃ.",
+   "zh": "将生命施予乞者之后，我便以此圆满此波罗蜜。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:320",
+   "pali": "Bhikkhāya upagataṃ disvā, sakattānaṃ pariccajiṃ;",
+   "zh": "见到前来乞食者，我便全然舍却了自身。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:321",
+   "pali": "Dānena me samo natthi, esā me dānapāramīti.",
+   "zh": "于布施中，无人能与我等同——这就是我的布施波罗蜜。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul0.json:322",
+   "pali": "Dānapāraminiddeso niṭṭhito.",
+   "zh": "布施波罗蜜的解说终",
+   "type": "colophon"
+  },
+  {
+   "idx": "s0512m.mul1.json:0",
+   "pali": "2. Hatthināgavaggo",
+   "zh": "2. 象龙品"
+  },
+  {
+   "idx": "s0512m.mul1.json:1",
+   "pali": "1. Mātuposakacariyā",
+   "zh": "1. 奉养母亲之行"
+  },
+  {
+   "idx": "s0512m.mul1.json:2",
+   "pali": "‘‘Yadā ahosiṃ pavane, kuñjaro mātuposako;",
+   "zh": "“往昔我在林中作大象时，乃是奉养母亲之象；",
+   "type": "verse",
+   "n": "1"
+  },
+  {
+   "idx": "s0512m.mul1.json:3",
+   "pali": "Na tadā atthi mahiyā, guṇena mama sādiso.",
+   "zh": "那时，在这大地上，论功德，无人能与我相比。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:4",
+   "pali": "‘‘Pavane disvā vanacaro, rañño maṃ paṭivedayi;",
+   "zh": "“有一位护林员在林野间看见了我，便去禀告国王。",
+   "type": "verse",
+   "n": "2"
+  },
+  {
+   "idx": "s0512m.mul1.json:5",
+   "pali": "‘Tavānucchavo mahārāja, gajo vasati kānane.",
+   "zh": "“大王，有一头与您相称的象，正住在这片森林中。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:6",
+   "pali": "‘‘‘Na tassa parikkhāyattho, napi āḷakakāsuyā;",
+   "zh": "“您不需要为它挖掘壕沟，也不需要将它拴在深坑中的木桩上。",
+   "type": "verse",
+   "n": "3"
+  },
+  {
+   "idx": "s0512m.mul1.json:7",
+   "pali": "Saha gahite soṇḍāya, sayameva idhehi’ti.",
+   "zh": "“捉住象鼻，它便会自己过来。”",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:8",
+   "pali": "‘‘Tassa taṃ vacanaṃ sutvā, rājāpi tuṭṭhamānaso;",
+   "zh": "“国王听了这番话，也心生欢喜，",
+   "type": "verse",
+   "n": "4"
+  },
+  {
+   "idx": "s0512m.mul1.json:9",
+   "pali": "Pesesi hatthidamakaṃ, chekācariyaṃ susikkhitaṃ.",
+   "zh": "便派去了一位调象师，那是一位善巧而训练有素的导师。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:10",
+   "pali": "‘‘Gantvā so hatthidamako, addasa padumassare;",
+   "zh": "“那驯象师来到后，在莲花池中看见了我；",
+   "type": "verse",
+   "n": "5"
+  },
+  {
+   "idx": "s0512m.mul1.json:11",
+   "pali": "Bhisamuḷālaṃ uddharantaṃ, yāpanatthāya mātuyā.",
+   "zh": "当时，我正拔取莲藕，为奉养母亲。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:12",
+   "pali": "‘‘Viññāya me sīlaguṇaṃ, lakkhaṇaṃ upadhārayi;",
+   "zh": "“他识知我的戒德后，便审视我身上的特征；",
+   "type": "verse",
+   "n": "6"
+  },
+  {
+   "idx": "s0512m.mul1.json:13",
+   "pali": "‘Ehi puttā’ti patvāna, mama soṇḍāya aggahi.",
+   "zh": "他走上前来，说：“来，孩子。”便抓住了我的象鼻。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:14",
+   "pali": "‘‘Yaṃ me tadā pākatikaṃ, sarīrānugataṃ balaṃ;",
+   "zh": "昔者我身俱生自然之力，",
+   "type": "verse",
+   "n": "7"
+  },
+  {
+   "idx": "s0512m.mul1.json:15",
+   "pali": "Ajja nāgasahassānaṃ, balena samasādisaṃ.",
+   "zh": "今朝堪比千象之力相等。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:16",
+   "pali": "‘‘Yadihaṃ tesaṃ pakuppeyyaṃ, upetānaṃ gahaṇāya maṃ;",
+   "zh": "“倘若那时，我对那些前来捉拿我的人动怒，",
+   "type": "verse",
+   "n": "8"
+  },
+  {
+   "idx": "s0512m.mul1.json:17",
+   "pali": "Paṭibalo bhave tesaṃ, yāva rajjampi mānusaṃ.",
+   "zh": "我足以摧伏他们，乃至人间王国。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:18",
+   "pali": "‘‘Api cāhaṃ sīlarakkhāya, sīlapāramipūriyā;",
+   "zh": "“而我是为了守护戒律、圆满戒波罗蜜，",
+   "type": "verse",
+   "n": "9"
+  },
+  {
+   "idx": "s0512m.mul1.json:19",
+   "pali": "Na karomi citte aññathattaṃ, pakkhipantaṃ mamāḷake.",
+   "zh": "纵使他们把我关进笼子，我的心也毫不动摇。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:20",
+   "pali": "‘‘Yadi te maṃ tattha koṭṭeyyuṃ, pharasūhi tomarehi ca;",
+   "zh": "“纵使他们用斧与矛来砍击我，",
+   "type": "verse",
+   "n": "10"
+  },
+  {
+   "idx": "s0512m.mul1.json:21",
+   "pali": "Neva tesaṃ pakuppeyyaṃ, sīlakhaṇḍabhayā mamā’’ti.",
+   "zh": "我也绝不对他们生起嗔怒，因我畏惧戒行的破损。”",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:22",
+   "pali": "Mātuposakacariyaṃ paṭhamaṃ.",
+   "zh": "奉养母亲之行第一"
+  },
+  {
+   "idx": "s0512m.mul1.json:23",
+   "pali": "2. Bhūridattacariyā",
+   "zh": "2. 普利达多所行"
+  },
+  {
+   "idx": "s0512m.mul1.json:24",
+   "pali": "‘‘Punāparaṃ yadā homi, bhūridatto mahiddhiko;",
+   "zh": "“复次，往昔我为普利达多，具大神通，",
+   "type": "verse",
+   "n": "11"
+  },
+  {
+   "idx": "s0512m.mul1.json:25",
+   "pali": "Virūpakkhena mahāraññā, devalokamagañchahaṃ.",
+   "zh": "我与广目大龙王一同前往天界。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:26",
+   "pali": "‘‘Tattha passitvāhaṃ deve, ekantaṃ sukhasamappite;",
+   "zh": "“在那里，我看见完全沉浸于快乐中的诸天神。",
+   "type": "verse",
+   "n": "12"
+  },
+  {
+   "idx": "s0512m.mul1.json:27",
+   "pali": "Taṃ saggagamanatthāya, sīlabbataṃ samādiyiṃ.",
+   "zh": "为了前往那天界，我受持了戒行与誓愿。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:28",
+   "pali": "‘‘Sarīrakiccaṃ katvāna, bhutvā yāpanamattakaṃ;",
+   "zh": "“我料理好身务，唯取维生之食，",
+   "type": "verse",
+   "n": "13"
+  },
+  {
+   "idx": "s0512m.mul1.json:29",
+   "pali": "Caturo aṅge adhiṭṭhāya, semi vammikamuddhani.",
+   "zh": "誓舍皮肉筋骨尽施于人，偃卧蚁冢之顶。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:30",
+   "pali": "‘‘Chaviyā cammena maṃsena, nahāruaṭṭhikehi vā;",
+   "zh": "“无论是皮肤、皮、肉、筋、骨，",
+   "type": "verse",
+   "n": "14"
+  },
+  {
+   "idx": "s0512m.mul1.json:31",
+   "pali": "Yassa etena karaṇīyaṃ, dinnaṃyeva harātu so.",
+   "zh": "若有人需用，这已是所施之物，就请拿去吧。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:32",
+   "pali": "‘‘Saṃsito akataññunā, ālampāyano mamaggahi;",
+   "zh": "“经那忘恩负义者告知，阿拉姆巴亚那将我抓捕了。",
+   "type": "verse",
+   "n": "15"
+  },
+  {
+   "idx": "s0512m.mul1.json:33",
+   "pali": "Peḷāya pakkhipitvāna, kīḷeti maṃ tahiṃ tahiṃ.",
+   "zh": "他将我装入篮中，让我四处表演。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:34",
+   "pali": "‘‘Peḷāya pakkhipantepi, sammaddantepi pāṇinā;",
+   "zh": "“即使将我塞进篮子里，又用手掌使劲按压，",
+   "type": "verse",
+   "n": "16"
+  },
+  {
+   "idx": "s0512m.mul1.json:35",
+   "pali": "Ālampāyane na kuppāmi, sīlakhaṇḍabhayā mama.",
+   "zh": "我对阿拉姆巴亚那也不生起嗔怒，因为我畏惧破戒。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:36",
+   "pali": "‘‘Sakajīvitapariccāgo , tiṇato lahuko mama;",
+   "zh": "“舍弃自己的生命，对我来说比草叶还轻。",
+   "type": "verse",
+   "n": "17"
+  },
+  {
+   "idx": "s0512m.mul1.json:37",
+   "pali": "Sīlavītikkamo mayhaṃ, pathavīuppatanaṃ viya.",
+   "zh": "违犯戒律对我而言，犹如大地崩裂。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:38",
+   "pali": "‘‘Nirantaraṃ jātisataṃ, cajeyyaṃ mama jīvitaṃ;",
+   "zh": "“纵使在一百生中辗转相续，我也甘愿舍弃自己的生命，",
+   "type": "verse",
+   "n": "18"
+  },
+  {
+   "idx": "s0512m.mul1.json:39",
+   "pali": "Neva sīlaṃ pabhindeyyaṃ, catuddīpāna hetupi.",
+   "zh": "也绝不会为了四大洲的缘故而毁坏戒律。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:40",
+   "pali": "‘‘Api cāhaṃ sīlarakkhāya, sīlapāramipūriyā;",
+   "zh": "“然而，我为了守护戒，为了圆满戒的波罗蜜，",
+   "type": "verse",
+   "n": "19"
+  },
+  {
+   "idx": "s0512m.mul1.json:41",
+   "pali": "Na karomi citte aññathattaṃ, pakkhipantampi peḷake’’ti.",
+   "zh": "即便被投入箧中，我的心也绝不动摇。”",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:42",
+   "pali": "Bhūridattacariyaṃ dutiyaṃ.",
+   "zh": "普利达多所行·第二"
+  },
+  {
+   "idx": "s0512m.mul1.json:43",
+   "pali": "3. Campeyyanāgacariyā",
+   "zh": "3. 瞻波龙所行"
+  },
+  {
+   "idx": "s0512m.mul1.json:44",
+   "pali": "‘‘Punāparaṃ yadā homi, campeyyako mahiddhiko;",
+   "zh": "“再者，当我曾是瞻波那具大神通的龙时，",
+   "type": "verse",
+   "n": "20"
+  },
+  {
+   "idx": "s0512m.mul1.json:45",
+   "pali": "Tadāpi dhammiko āsiṃ, sīlabbatasamappito.",
+   "zh": "那时，我也是依法而行者，圆满具足戒律与仪轨。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:46",
+   "pali": "‘‘Tadāpi maṃ dhammacāriṃ, upavutthaṃ uposathaṃ;",
+   "zh": "“那时，我行于正法，受持布萨戒；",
+   "type": "verse",
+   "n": "21"
+  },
+  {
+   "idx": "s0512m.mul1.json:47",
+   "pali": "Ahituṇḍiko gahetvāna, rājadvāramhi kīḷati.",
+   "zh": "耍蛇人捉住我后，在王宫门前戏耍。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:48",
+   "pali": "‘‘Yaṃ yaṃ so vaṇṇaṃ cintayi, nīlaṃva pītalohitaṃ;",
+   "zh": "“他思惟何种颜色——青、黄或赤，",
+   "type": "verse",
+   "n": "22"
+  },
+  {
+   "idx": "s0512m.mul1.json:49",
+   "pali": "Tassa cittānuvattanto, homi cintitasannibho.",
+   "zh": "我随顺他的心意，显现为与他所思相应的形貌。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:50",
+   "pali": "‘‘Thalaṃ kareyyamudakaṃ, udakampi thalaṃ kare;",
+   "zh": "“我能将干地化为水，也能将水化为干地。",
+   "type": "verse",
+   "n": "23"
+  },
+  {
+   "idx": "s0512m.mul1.json:51",
+   "pali": "Yadihaṃ tassa pakuppeyyaṃ, khaṇena chārikaṃ kare.",
+   "zh": "倘若我对他动怒，倾刻之间便能让他化为灰烬。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:52",
+   "pali": "‘‘Yadi cittavasī hessaṃ, parihāyissāmi sīlato;",
+   "zh": "“若我随心念而转，戒行便会退失。",
+   "type": "verse",
+   "n": "24"
+  },
+  {
+   "idx": "s0512m.mul1.json:53",
+   "pali": "Sīlena parihīnassa, uttamattho na sijjhati.",
+   "zh": "戒行退失之人，最上的目标便无法成就。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:54",
+   "pali": "‘‘Kāmaṃ bhijjatuyaṃ kāyo, idheva vikirīyatu;",
+   "zh": "“任凭此身破裂，就让它在此地散成碎片！",
+   "type": "verse",
+   "n": "25"
+  },
+  {
+   "idx": "s0512m.mul1.json:55",
+   "pali": "Neva sīlaṃ pabhindeyyaṃ, vikirante bhusaṃ viyā’’ti.",
+   "zh": "纵使如同被猛烈扬散的谷壳那样粉身碎骨，我也绝不毁坏戒行。”",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:56",
+   "pali": "Campeyyanāgacariyaṃ tatiyaṃ.",
+   "zh": "瞻波龙王之行第三"
+  },
+  {
+   "idx": "s0512m.mul1.json:57",
+   "pali": "4. Cūḷabodhicariyā",
+   "zh": "4. 小菩提所行"
+  },
+  {
+   "idx": "s0512m.mul1.json:58",
+   "pali": "‘‘Punāparaṃ yadā homi, cūḷabodhi susīlavā;",
+   "zh": "“其后，我身为小菩提，具足善戒。",
+   "type": "verse",
+   "n": "26"
+  },
+  {
+   "idx": "s0512m.mul1.json:59",
+   "pali": "Bhavaṃ disvāna bhayato, nekkhammaṃ abhinikkhamiṃ.",
+   "zh": "我见有之怖畏，便行出离。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:60",
+   "pali": "‘‘Yā me dutiyikā āsi, brāhmaṇī kanakasannibhā;",
+   "zh": "“我曾有一位妻子，是一位肤色如金的婆罗门女，",
+   "type": "verse",
+   "n": "27"
+  },
+  {
+   "idx": "s0512m.mul1.json:61",
+   "pali": "Sāpi vaṭṭe anapekkhā, nekkhammaṃ abhinikkhami.",
+   "zh": "她于轮回亦无贪恋，决意出离。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:62",
+   "pali": "‘‘Nirālayā chinnabandhū, anapekkhā kule gaṇe;",
+   "zh": "“无所系著，断除亲缘，于家族、群体心无牵挂；",
+   "type": "verse",
+   "n": "28"
+  },
+  {
+   "idx": "s0512m.mul1.json:63",
+   "pali": "Carantā gāmanigamaṃ, bārāṇasimupāgamuṃ.",
+   "zh": "游行村落与城邑，抵达波罗奈。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:64",
+   "pali": "‘‘Tattha vasāma nipakā, asaṃsaṭṭhā kule gaṇe;",
+   "zh": "“我们在彼处安住，保持警觉，不混迹于家族与人群；",
+   "type": "verse",
+   "n": "29"
+  },
+  {
+   "idx": "s0512m.mul1.json:65",
+   "pali": "Nirākule appasadde, rājuyyāne vasāmubho.",
+   "zh": "王家园林寂静无扰，我们二人便住在此处。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:66",
+   "pali": "‘‘Uyyānadassanaṃ gantvā, rājā addasa brāhmaṇiṃ;",
+   "zh": "国王游园见彼婆罗门女，",
+   "type": "verse",
+   "n": "30"
+  },
+  {
+   "idx": "s0512m.mul1.json:67",
+   "pali": "Upagamma mamaṃ pucchi, ‘tuyhesā kā kassa bhariyā’.",
+   "zh": "近前问我：此女与汝何亲，是谁家之妇？",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:68",
+   "pali": "‘‘Evaṃ vutte ahaṃ tassa, idaṃ vacanamabraviṃ;",
+   "zh": "“他这样问时，我便对他说道：",
+   "type": "verse",
+   "n": "31"
+  },
+  {
+   "idx": "s0512m.mul1.json:69",
+   "pali": "‘Na mayhaṃ bhariyā esā, sahadhammā ekasāsanī’.",
+   "zh": "‘她不是我的妻子，而是与我同法同教的道侣。’",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:70",
+   "pali": "‘‘Tissā sārattagadhito, gāhāpetvāna ceṭake;",
+   "zh": "“他对她深深迷恋，便令僕从将她捉住；",
+   "type": "verse",
+   "n": "32"
+  },
+  {
+   "idx": "s0512m.mul1.json:71",
+   "pali": "Nippīḷayanto balasā, antepuraṃ pavesayi.",
+   "zh": "他以強力将她逼入后宮。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:72",
+   "pali": "‘‘Odapattakiyā mayhaṃ, sahajā ekasāsanī;",
+   "zh": "“她是我以共触水罐之礼迎娶的妻子，与我一同长大，受同樣的教導。",
+   "type": "verse",
+   "n": "33"
+  },
+  {
+   "idx": "s0512m.mul1.json:73",
+   "pali": "Ākaḍḍhitvā nayantiyā, kopo me upapajjatha.",
+   "zh": "当她被强行拖走时，我心中生起了愤怒。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:74",
+   "pali": "‘‘Saha kope samuppanne, sīlabbatamanussariṃ;",
+   "zh": "“愤怒生起的同时，我便忆念起自己受持的戒行；",
+   "type": "verse",
+   "n": "34"
+  },
+  {
+   "idx": "s0512m.mul1.json:75",
+   "pali": "Tattheva kopaṃ niggaṇhiṃ, nādāsiṃ vaḍḍhitūpari.",
+   "zh": "就在那一刻，我降伏了愤怒，没有任它增长。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:76",
+   "pali": "‘‘Yadi naṃ brāhmaṇiṃ koci, koṭṭeyya tiṇhasattiyā;",
+   "zh": "“纵使有人用利刃砍杀这位婆罗门女，",
+   "type": "verse",
+   "n": "35"
+  },
+  {
+   "idx": "s0512m.mul1.json:77",
+   "pali": "Neva sīlaṃ pabhindeyyaṃ, bodhiyāyeva kāraṇā.",
+   "zh": "我也绝不会因此毁坏戒行，因这全然是为了菩提。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:78",
+   "pali": "‘‘Na mesā brāhmaṇī dessā, napi me balaṃ na vijjati;",
+   "zh": "“这位婆罗门女并非我所厌弃，我也不是没有力量。",
+   "type": "verse",
+   "n": "36"
+  },
+  {
+   "idx": "s0512m.mul1.json:79",
+   "pali": "Sabbaññutaṃ piyaṃ mayhaṃ, tasmā sīlānurakkhisa’’nti.",
+   "zh": "一切知智于我甚为珍贵，因此我守护了戒行。”",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:80",
+   "pali": "Cūḷabodhicariyaṃ catutthaṃ.",
+   "zh": "第四 小菩提行"
+  },
+  {
+   "idx": "s0512m.mul1.json:81",
+   "pali": "5. Mahiṃsarājacariyā",
+   "zh": "5. 水牛王行"
+  },
+  {
+   "idx": "s0512m.mul1.json:82",
+   "pali": "‘‘Punāparaṃ yadā homi, mahiṃso pavanacārako;",
+   "zh": "“再者，当我曾是一头漫游林野的水牛时，",
+   "type": "verse",
+   "n": "37"
+  },
+  {
+   "idx": "s0512m.mul1.json:83",
+   "pali": "Pavaḍḍhakāyo balavā, mahanto bhīmadassano.",
+   "zh": "身躯壮大，强健有力，体形巨大，见之令人畏惧。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:84",
+   "pali": "‘‘Pabbhāre giridugge ca, rukkhamūle dakāsaye;",
+   "zh": "“在岩窟、山崖险谷、树根下、水泉边，",
+   "type": "verse",
+   "n": "38"
+  },
+  {
+   "idx": "s0512m.mul1.json:85",
+   "pali": "Hotettha ṭhānaṃ mahiṃsānaṃ, koci koci tahiṃ tahiṃ.",
+   "zh": "这森林里自有水牛歇息的地方，零零落落，散在各处。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:86",
+   "pali": "‘‘Vicaranto brahāraññe, ṭhānaṃ addasa bhaddakaṃ;",
+   "zh": "“漫游于广袤的大森林，我看见了一处吉祥的胜地。",
+   "type": "verse",
+   "n": "39"
+  },
+  {
+   "idx": "s0512m.mul1.json:87",
+   "pali": "Taṃ ṭhānaṃ upagantvāna, tiṭṭhāmi ca sayāmi ca.",
+   "zh": "到了那处，我便或立或卧，停歇下来。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:88",
+   "pali": "‘‘Athettha kapimāgantvā, pāpo anariyo lahu;",
+   "zh": "“这时，一只性情恶劣、粗野又轻浮的猴子跑了过来。",
+   "type": "verse",
+   "n": "40"
+  },
+  {
+   "idx": "s0512m.mul1.json:89",
+   "pali": "Khandhe nalāṭe bhamuke, mutteti ohanetitaṃ.",
+   "zh": "它跳上我的肩、额头和眉间，排便排尿。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:90",
+   "pali": "‘‘Sakimpi divasaṃ dutiyaṃ, tatiyaṃ catutthampi ca;",
+   "zh": "“一日之中，不止一次，乃至第二次、第三次、第四次，仍然如此。",
+   "type": "verse",
+   "n": "41"
+  },
+  {
+   "idx": "s0512m.mul1.json:91",
+   "pali": "Dūseti maṃ sabbakālaṃ, tena homi upadduto.",
+   "zh": "它始终在玷污我，我因此备受折磨。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:92",
+   "pali": "‘‘Mamaṃ upaddutaṃ disvā, yakkho maṃ idamabravi;",
+   "zh": "“见我正遭受折磨，一位夜叉对我说：",
+   "type": "verse",
+   "n": "42"
+  },
+  {
+   "idx": "s0512m.mul1.json:93",
+   "pali": "‘Nāsehetaṃ chavaṃ pāpaṃ, siṅgehi ca khurehi ca’.",
+   "zh": "“用你的角和蹄，毁灭这邪恶的腐尸吧。”",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:94",
+   "pali": "‘‘Evaṃ vutte tadā yakkhe, ahaṃ taṃ idamabraviṃ;",
+   "zh": "“那时，那位神灵这样说罢，我便对他说道：",
+   "type": "verse",
+   "n": "43"
+  },
+  {
+   "idx": "s0512m.mul1.json:95",
+   "pali": "‘Kiṃ tvaṃ makkhesi kuṇapena, pāpena anariyena maṃ.",
+   "zh": "“你为何要用这邪恶、非圣的腐尸来玷污我？”",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:96",
+   "pali": "‘‘‘Yadihaṃ tassa pakuppeyyaṃ, tato hīnataro bhave;",
+   "zh": "“我若对他生气，就会因此变得更加卑劣。”",
+   "type": "verse",
+   "n": "44"
+  },
+  {
+   "idx": "s0512m.mul1.json:97",
+   "pali": "Sīlañca me pabhijjeyya, viññū ca garaheyyu maṃ.",
+   "zh": "我的戒行便会破损，也会遭到智者们的谴责。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:98",
+   "pali": "‘‘‘Hīḷitā jīvitā vāpi, parisuddhena mataṃ varaṃ;",
+   "zh": "“受人轻贱而活，不如清净而死。",
+   "type": "verse",
+   "n": "45"
+  },
+  {
+   "idx": "s0512m.mul1.json:99",
+   "pali": "Kyāhaṃ jīvitahetūpi, kāhāmiṃ paraheṭhanaṃ’.",
+   "zh": "我怎能为了活命，而去伤害他人呢？",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:100",
+   "pali": "‘‘Mamevāyaṃ maññamāno, aññepevaṃ karissati;",
+   "zh": "“他以为旁人也会如我一般〔容忍他〕，也将如此对待他人；",
+   "type": "verse",
+   "n": "46"
+  },
+  {
+   "idx": "s0512m.mul1.json:101",
+   "pali": "Teva tassa vadhissanti, sā me mutti bhavissati.",
+   "zh": "他们就会因此杀害他，那时我便得解脱。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:102",
+   "pali": "‘‘Hīnamajjhimaukkaṭṭhe, sahanto avamānitaṃ;",
+   "zh": "“忍受卑下、中等、尊贵之人的轻慢，",
+   "type": "verse",
+   "n": "47"
+  },
+  {
+   "idx": "s0512m.mul1.json:103",
+   "pali": "Evaṃ labhati sappañño, manasā yathā patthita’’nti.",
+   "zh": "有智慧者，便如此获得心中所愿。”",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:104",
+   "pali": "Mahiṃsarājacariyaṃ pañcamaṃ.",
+   "zh": "水牛王本生第五"
+  },
+  {
+   "idx": "s0512m.mul1.json:105",
+   "pali": "6. Rururājacariyā",
+   "zh": "6. 如如鹿王行"
+  },
+  {
+   "idx": "s0512m.mul1.json:106",
+   "pali": "‘‘Punāparaṃ yadā homi, sutattakanakasannibho;",
+   "zh": "“再后来，有一世，我身色犹如精炼的赤金，",
+   "type": "verse",
+   "n": "48"
+  },
+  {
+   "idx": "s0512m.mul1.json:107",
+   "pali": "Migarājā rurunāma, paramasīlasamāhito.",
+   "zh": "是一只名叫如如的鹿王，安住于最上戒行。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:108",
+   "pali": "‘‘Ramme padese ramaṇīye, vivitte amanussake;",
+   "zh": "“在一处宜人悦意、寂静无人之地，",
+   "type": "verse",
+   "n": "49"
+  },
+  {
+   "idx": "s0512m.mul1.json:109",
+   "pali": "Tattha vāsaṃ upagañchiṃ, gaṅgākūle manorame.",
+   "zh": "我便在恒河岸边一处景色优美的地方住了下来。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:110",
+   "pali": "‘‘Atha upari gaṅgāya, dhanikehi paripīḷito;",
+   "zh": "“那时，恒河上游有个人为债主所逼，",
+   "type": "verse",
+   "n": "50"
+  },
+  {
+   "idx": "s0512m.mul1.json:111",
+   "pali": "Puriso gaṅgāya papati, ‘jīvāmi vā marāmi vā’.",
+   "zh": "投进了恒河，心想：‘是生是死，听天由命吧。’",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:112",
+   "pali": "‘‘Rattindivaṃ so gaṅgāya, vuyhamāno mahodake;",
+   "zh": "“他日日夜夜在恒河之中，被滔滔大水冲卷。",
+   "type": "verse",
+   "n": "51"
+  },
+  {
+   "idx": "s0512m.mul1.json:113",
+   "pali": "Ravanto karuṇaṃ ravaṃ, majjhe gaṅgāya gacchati.",
+   "zh": "他在恒河中央，发出悲切的哭叫，顺流而去。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:114",
+   "pali": "‘‘Tassāhaṃ saddaṃ sutvāna, karuṇaṃ paridevato;",
+   "zh": "“我听到他那悲切的哭叫声，",
+   "type": "verse",
+   "n": "52"
+  },
+  {
+   "idx": "s0512m.mul1.json:115",
+   "pali": "Gaṅgāya tīre ṭhatvāna, apucchiṃ ‘kosi tvaṃ naro’.",
+   "zh": "我便站在恒河岸边，问他：‘你是何人？’",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:116",
+   "pali": "‘‘So me puṭṭho ca byākāsi, attano karaṇaṃ tadā;",
+   "zh": "“我这样问他，他便向我说明了自己当时的作为：",
+   "type": "verse",
+   "n": "53"
+  },
+  {
+   "idx": "s0512m.mul1.json:117",
+   "pali": "‘Dhanikehi bhīto tasito, pakkhandohaṃ mahānadiṃ’.",
+   "zh": "‘因为害怕那些债主，我惊惶恐怖，便跳进了大河。’",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:118",
+   "pali": "‘‘Tassa katvāna kāruññaṃ, cajitvā mama jīvitaṃ;",
+   "zh": "“我对他生起悲悯，便舍弃了自己的生命。",
+   "type": "verse",
+   "n": "54"
+  },
+  {
+   "idx": "s0512m.mul1.json:119",
+   "pali": "Pavisitvā nīhariṃ tassa, andhakāramhi rattiyā.",
+   "zh": "‘在漆黑的深夜里，我纵身跃入，将他救了出来。’",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:120",
+   "pali": "‘‘Assatthakālamaññāya, tassāhaṃ idamabraviṃ;",
+   "zh": "“‘知道他已恢复过来，我便对他这样说。’",
+   "type": "verse",
+   "n": "55"
+  },
+  {
+   "idx": "s0512m.mul1.json:121",
+   "pali": "‘Ekaṃ taṃ varaṃ yācāmi, mā maṃ kassaci pāvada’.",
+   "zh": "‘我有一事相求：请不要对任何人说起我。’",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:122",
+   "pali": "‘‘Nagaraṃ gantvāna ācikkhi, pucchito dhanahetuko;",
+   "zh": "“他回到城中，被人问起时，为了钱财便说了出来。",
+   "type": "verse",
+   "n": "56"
+  },
+  {
+   "idx": "s0512m.mul1.json:123",
+   "pali": "Rājānaṃ so gahetvāna, upagañchi mamantikaṃ.",
+   "zh": "他带着国王，来到我的近前。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:124",
+   "pali": "‘‘Yāvatā karaṇaṃ sabbaṃ, rañño ārocitaṃ mayā;",
+   "zh": "凡我所作所为，尽已禀白于王；",
+   "type": "verse",
+   "n": "57"
+  },
+  {
+   "idx": "s0512m.mul1.json:125",
+   "pali": "Rājā sutvāna vacanaṃ, usuṃ tassa pakappayi;",
+   "zh": "王闻此言，即为彼搭箭上弦。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:126",
+   "pali": "‘Idheva ghātayissāmi, mittadubbhiṃ anāriyaṃ’.",
+   "zh": "“就在这里，我要杀掉这个背叛朋友的卑劣之徒。”",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:127",
+   "pali": "‘‘Tamahaṃ anurakkhanto, nimminiṃ mama attanā;",
+   "zh": "“为了保护他，我以自身替代了他。",
+   "type": "verse",
+   "n": "58"
+  },
+  {
+   "idx": "s0512m.mul1.json:128",
+   "pali": "‘Tiṭṭhateso mahārāja, kāmakāro bhavāmi te’.",
+   "zh": "“大王，随他去吧，我愿听您处置。”",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:129",
+   "pali": "‘‘Anurakkhiṃ mama sīlaṃ, nārakkhiṃ mama jīvitaṃ;",
+   "zh": "“我守护了戒，未曾守护自己的生命；",
+   "type": "verse",
+   "n": "59"
+  },
+  {
+   "idx": "s0512m.mul1.json:130",
+   "pali": "Sīlavā hi tadā āsiṃ, bodhiyāyeva kāraṇā’’ti.",
+   "zh": "当时我具戒清净，正是为了成就菩提。”",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:131",
+   "pali": "Rururājacariyaṃ chaṭṭhaṃ.",
+   "zh": "如如鹿王所行第六"
+  },
+  {
+   "idx": "s0512m.mul1.json:132",
+   "pali": "7. Mātaṅgacariyā",
+   "zh": "7. 摩当伽行"
+  },
+  {
+   "idx": "s0512m.mul1.json:133",
+   "pali": "‘‘Punāparaṃ yadā homi, jaṭilo uggatāpano;",
+   "zh": "“复有一时，我转生为结发苦行者，行持严酷苦行，",
+   "type": "verse",
+   "n": "60"
+  },
+  {
+   "idx": "s0512m.mul1.json:134",
+   "pali": "Mātaṅgo nāma nāmena, sīlavā susamāhito.",
+   "zh": "名为摩当伽，持戒清净，心意凝定。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:135",
+   "pali": "‘‘Ahañca brāhmaṇo eko, gaṅgākūle vasāmubho;",
+   "zh": "“我与一位婆罗门，二人同住于恒河岸边；",
+   "type": "verse",
+   "n": "61"
+  },
+  {
+   "idx": "s0512m.mul1.json:136",
+   "pali": "Ahaṃ vasāmi upari, heṭṭhā vasati brāhmaṇo.",
+   "zh": "我居于上游，婆罗门居于下游。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:137",
+   "pali": "‘‘Vicaranto anukūlamhi, uddhaṃ me assamaddasa;",
+   "zh": "“他沿顺流处漫步时，望见了我上方的草屋。",
+   "type": "verse",
+   "n": "62"
+  },
+  {
+   "idx": "s0512m.mul1.json:138",
+   "pali": "Tattha maṃ paribhāsetvā, abhisapi muddhaphālanaṃ.",
+   "zh": "在那里，他辱骂我之后，又诅咒我头破七分。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:139",
+   "pali": "‘‘Yadihaṃ tassa pakuppeyyaṃ, yadi sīlaṃ na gopaye;",
+   "zh": "“倘若那时我对他生起嗔怒，倘若我不守护戒行，",
+   "type": "verse",
+   "n": "63"
+  },
+  {
+   "idx": "s0512m.mul1.json:140",
+   "pali": "Oloketvānahaṃ tassa, kareyyaṃ chārikaṃ viya.",
+   "zh": "只消我瞥他一眼，便能将他化为灰烬。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:141",
+   "pali": "‘‘Yaṃ so tadā maṃ abhisapi, kupito duṭṭhamānaso;",
+   "zh": "“那时，他心生忿怒、毒害，如是诅咒于我；",
+   "type": "verse",
+   "n": "64"
+  },
+  {
+   "idx": "s0512m.mul1.json:142",
+   "pali": "Tasseva matthake nipati, yogena taṃ pamocayiṃ.",
+   "zh": "那诅咒却回落在他自己头上，我以方便为他解开了束缚。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:143",
+   "pali": "‘‘Anurakkhiṃ mama sīlaṃ, nārakkhiṃ mama jīvitaṃ;",
+   "zh": "“我守护戒行，却不曾顾惜身命。",
+   "type": "verse",
+   "n": "65"
+  },
+  {
+   "idx": "s0512m.mul1.json:144",
+   "pali": "Sīlavā hi tadā āsiṃ, bodhiyāyeva kāraṇā’’ti.",
+   "zh": "那时，我正为觉悟之故，而持守净戒。”",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:145",
+   "pali": "Mātaṅgacariyaṃ sattamaṃ.",
+   "zh": "马当嘎行第七"
+  },
+  {
+   "idx": "s0512m.mul1.json:146",
+   "pali": "8. Dhammadevaputtacariyā",
+   "zh": "8. 法天子行"
+  },
+  {
+   "idx": "s0512m.mul1.json:147",
+   "pali": "‘‘Punāparaṃ yadā homi, mahāpakkho mahiddhiko;",
+   "zh": "“再有，那时我曾拥有广大眷属，具足大威神力，",
+   "type": "verse",
+   "n": "66"
+  },
+  {
+   "idx": "s0512m.mul1.json:148",
+   "pali": "Dhammo nāma mahāyakkho, sabbalokānukampako.",
+   "zh": "我名为‘法’的大夜叉，悲悯一切世间。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:149",
+   "pali": "‘‘Dasakusalakammapathe , samādapento mahājanaṃ;",
+   "zh": "“教导大众行于十善业道，",
+   "type": "verse",
+   "n": "67"
+  },
+  {
+   "idx": "s0512m.mul1.json:150",
+   "pali": "Carāmi gāmanigamaṃ, samitto saparijjano.",
+   "zh": "我与朋友和眷属一起，游历于诸村落、城镇之间。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:151",
+   "pali": "‘‘Pāpo kadariyo yakkho, dīpento dasa pāpake;",
+   "zh": "“那邪恶而悭吝的夜叉，宣扬十种恶法，",
+   "type": "verse",
+   "n": "68"
+  },
+  {
+   "idx": "s0512m.mul1.json:152",
+   "pali": "Sopettha mahiyā carati, samitto saparijjano.",
+   "zh": "他也与朋友、眷属一道，周游于这片大地。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:153",
+   "pali": "‘‘Dhammavādī adhammo ca, ubho paccanikā mayaṃ;",
+   "zh": "“持法者与非法者，我们彼此为敌。",
+   "type": "verse",
+   "n": "69"
+  },
+  {
+   "idx": "s0512m.mul1.json:154",
+   "pali": "Dhure dhuraṃ ghaṭṭayantā, samimhā paṭipathe ubho.",
+   "zh": "车辕相撞，我们俩在相向的路上相遇。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:155",
+   "pali": "‘‘Kalaho vattatī bhesmā, kalyāṇapāpakassa ca;",
+   "zh": "“善与恶之间，一场可怖的争斗就此展开。",
+   "type": "verse",
+   "n": "70"
+  },
+  {
+   "idx": "s0512m.mul1.json:156",
+   "pali": "Maggā okkamanatthāya, mahāyuddho upaṭṭhito.",
+   "zh": "为将对方逐出道路，一场大战一触即发。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:157",
+   "pali": "‘‘Yadihaṃ tassa kuppeyyaṃ, yadi bhinde tapoguṇaṃ;",
+   "zh": "“若我那时对他生起瞋怒，从而毁坏了自身苦行的功德，",
+   "type": "verse",
+   "n": "71"
+  },
+  {
+   "idx": "s0512m.mul1.json:158",
+   "pali": "Sahaparijanaṃ tassa, rajabhūtaṃ kareyyahaṃ.",
+   "zh": "我就能将他连同随从，悉数化作微尘。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:159",
+   "pali": "‘‘Apicāhaṃ sīlarakkhāya, nibbāpetvāna mānasaṃ;",
+   "zh": "“然而，为了守护戒律，我调伏了自己的心。",
+   "type": "verse",
+   "n": "72"
+  },
+  {
+   "idx": "s0512m.mul1.json:160",
+   "pali": "Saha janenokkamitvā, pathaṃ pāpassa dāsahaṃ.",
+   "zh": "我便随众人一同退让，把道路让给了那个恶人。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:161",
+   "pali": "‘‘Saha pathato okkante, katvā cittassa nibbutiṃ;",
+   "zh": "“刚一从路上退下，我就让心得到了平息。",
+   "type": "verse",
+   "n": "73"
+  },
+  {
+   "idx": "s0512m.mul1.json:162",
+   "pali": "Vivaraṃ adāsi pathavī, pāpayakkhassa tāvade’’ti.",
+   "zh": "大地即刻裂开，吞没了那个恶夜叉。”",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:163",
+   "pali": "Dhammadevaputtacariyaṃ aṭṭhamaṃ.",
+   "zh": "法天子行第八"
+  },
+  {
+   "idx": "s0512m.mul1.json:164",
+   "pali": "9. Alīnasattucariyā",
+   "zh": "9. 阿利那萨都行"
+  },
+  {
+   "idx": "s0512m.mul1.json:165",
+   "pali": "‘‘Pañcālaraṭṭhe nagaravare, kapilāyaṃ puruttame;",
+   "zh": "“在般遮罗国的殊胜都城——迦毗罗大城中，",
+   "type": "verse",
+   "n": "74"
+  },
+  {
+   "idx": "s0512m.mul1.json:166",
+   "pali": "Rājā jayaddiso nāma, sīlaguṇamupāgato.",
+   "zh": "有位名叫迦耶迪萨的国王，他具足戒德。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:167",
+   "pali": "‘‘Tassa rañño ahaṃ putto, sutadhammo susīlavā;",
+   "zh": "“我是那位国王的儿子，多闻法教、持戒清净，",
+   "type": "verse",
+   "n": "75"
+  },
+  {
+   "idx": "s0512m.mul1.json:168",
+   "pali": "Alīnasatto guṇavā, anurakkhaparijano sadā.",
+   "zh": "阿利那萨都，德行高洁，我恒常护念随行之众。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:169",
+   "pali": "‘‘Pitā me migavaṃ gantvā, porisādaṃ upāgami;",
+   "zh": "“我父前往狩鹿，路遇一食人者；",
+   "type": "verse",
+   "n": "76"
+  },
+  {
+   "idx": "s0512m.mul1.json:170",
+   "pali": "So me pitumaggahesi, ‘bhakkhosi mama mā cali’.",
+   "zh": "那食人者捉住我父，言：‘你是我的猎物，勿动！’",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:171",
+   "pali": "‘‘Tassa taṃ vacanaṃ sutvā, bhīto tasitavedhito;",
+   "zh": "“听后，他心生恐惧，全身颤抖，惊惶不安。",
+   "type": "verse",
+   "n": "77"
+  },
+  {
+   "idx": "s0512m.mul1.json:172",
+   "pali": "Ūrukkhambho ahu tassa, disvāna porisādakaṃ.",
+   "zh": "望见那食人者时，他双腿僵硬，动弹不得。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:173",
+   "pali": "‘‘Migavaṃ gahetvā muñcassu, katvā āgamanaṃ puna;",
+   "zh": "你且取了猎物放行，许我再来复返；",
+   "type": "verse",
+   "n": "78"
+  },
+  {
+   "idx": "s0512m.mul1.json:174",
+   "pali": "Brāhmaṇassa dhanaṃ datvā, pitā āmantayī mamaṃ.",
+   "zh": "父亲将财物给了那婆罗门，随即唤我近前，殷殷吩咐。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:175",
+   "pali": "‘‘‘Rajjaṃ putta paṭipajja, mā pamajji puraṃ idaṃ;",
+   "zh": "“‘儿子，你当统领这王国，莫要疏忽这座城；",
+   "type": "verse",
+   "n": "79"
+  },
+  {
+   "idx": "s0512m.mul1.json:176",
+   "pali": "Kataṃ me porisādena, mama āgamanaṃ puna’.",
+   "zh": "我已应允那食人者，定会再回来。’",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:177",
+   "pali": "‘‘Mātāpitū ca vanditvā, nimminitvāna attanā;",
+   "zh": "“向父母双亲礼敬后，我变化了自身；",
+   "type": "verse",
+   "n": "80"
+  },
+  {
+   "idx": "s0512m.mul1.json:178",
+   "pali": "Nikkhipitvā dhanuṃ khaggaṃ, porisādaṃ upāgamiṃ.",
+   "zh": "抛下弓与剑，我走向那食人者。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:179",
+   "pali": "‘‘Sasatthahatthūpagataṃ, kadāci so tasissati;",
+   "zh": "“见我执持武器而来，他或许会心生恐惧；",
+   "type": "verse",
+   "n": "81"
+  },
+  {
+   "idx": "s0512m.mul1.json:180",
+   "pali": "Tena bhijjissati sīlaṃ, parittāsaṃ kate mayi.",
+   "zh": "若我令他心生恐惧，便会毁犯我的戒。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:181",
+   "pali": "‘‘Sīlakhaṇḍabhayā mayhaṃ, tassa dessaṃ na byāhariṃ;",
+   "zh": "“出于对破戒的畏惧，我不对他说憎恶语；",
+   "type": "verse",
+   "n": "82"
+  },
+  {
+   "idx": "s0512m.mul1.json:182",
+   "pali": "Mettacitto hitavādī, idaṃ vacanamabraviṃ.",
+   "zh": "我以慈心、说利益语，说出了这句话。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:183",
+   "pali": "‘‘‘Ujjālehi mahāaggiṃ, papatissāmi rukkhato;",
+   "zh": "“燃起大火吧，我将从树上跳下。",
+   "type": "verse",
+   "n": "83"
+  },
+  {
+   "idx": "s0512m.mul1.json:184",
+   "pali": "Tvaṃ pakkakālamaññāya , bhakkhaya maṃ pitāmaha’.",
+   "zh": "待你知我已熟透时，便请享用吧，祖父。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:185",
+   "pali": "‘‘Iti sīlavataṃ hetu, nārakkhiṃ mama jīvitaṃ;",
+   "zh": "“如是，为诸具戒者故，我不惜己身性命；",
+   "type": "verse",
+   "n": "84"
+  },
+  {
+   "idx": "s0512m.mul1.json:186",
+   "pali": "Pabbājesiṃ cahaṃ tassa, sadā pāṇātipātika’’nti.",
+   "zh": "亦驱摈彼恒常杀生之人。”",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:187",
+   "pali": "Alīnasattucariyaṃ navamaṃ.",
+   "zh": "第九·阿利那萨都所行"
+  },
+  {
+   "idx": "s0512m.mul1.json:188",
+   "pali": "10. Saṅkhapālacariyā",
+   "zh": "10. 商卡巴拉所行"
+  },
+  {
+   "idx": "s0512m.mul1.json:189",
+   "pali": "‘‘Punāparaṃ yadā homi, saṅkhapālo mahiddhiko;",
+   "zh": "“再者，后时我为僧伽波罗，具大神变，",
+   "type": "verse",
+   "n": "85"
+  },
+  {
+   "idx": "s0512m.mul1.json:190",
+   "pali": "Dāṭhāvudho ghoraviso, dvijivho uragādhibhū.",
+   "zh": "牙如凶器，毒极猛烈，长着双舌，为诸龙王之首。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:191",
+   "pali": "‘‘Catuppathe mahāmagge, nānājanasamākule;",
+   "zh": "“在那人群杂沓的十字大道上，",
+   "type": "verse",
+   "n": "86"
+  },
+  {
+   "idx": "s0512m.mul1.json:192",
+   "pali": "Caturo aṅge adhiṭṭhāya, tattha vāsamakappayiṃ.",
+   "zh": "誓舍皮肉筋骨，便在那里安住下来。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:193",
+   "pali": "‘‘Chaviyā cammena maṃsena, nahāruaṭṭhikehi vā;",
+   "zh": "或表皮，或皮革，或肉，或筋，或骨，凡有所需者;",
+   "type": "verse",
+   "n": "87"
+  },
+  {
+   "idx": "s0512m.mul1.json:194",
+   "pali": "Yassa etena karaṇīyaṃ, dinnaṃyeva harātu so.",
+   "zh": "此皆已施，任其取去。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:195",
+   "pali": "‘‘Addasaṃsu bhojaputtā, kharā luddā akāruṇā;",
+   "zh": "“那些博诸子，粗暴、残忍、毫无怜悯，他们看见了我。",
+   "type": "verse",
+   "n": "88"
+  },
+  {
+   "idx": "s0512m.mul1.json:196",
+   "pali": "Upagañchuṃ mamaṃ tattha, daṇḍamuggarapāṇino.",
+   "zh": "他们手持棍棒与大锤，朝我逼近。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:197",
+   "pali": "‘‘Nāsāya vinivijjhitvā, naṅguṭṭhe piṭṭhikaṇṭake;",
+   "zh": "“他们刺穿我的鼻子、尾巴与脊骨，",
+   "type": "verse",
+   "n": "89"
+  },
+  {
+   "idx": "s0512m.mul1.json:198",
+   "pali": "Kāje āropayitvāna, bhojaputtā hariṃsu maṃ.",
+   "zh": "他们把我缚在杠上，那些博阇人便这样抬走了我。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:199",
+   "pali": "‘‘Sasāgarantaṃ pathaviṃ, sakānanaṃ sapabbataṃ;",
+   "zh": "“这大地，直至海边，连同其上的森林与群山——",
+   "type": "verse",
+   "n": "90"
+  },
+  {
+   "idx": "s0512m.mul1.json:200",
+   "pali": "Icchamāno cahaṃ tattha, nāsāvātena jhāpaye.",
+   "zh": "我若愿意，当场便以鼻息将它烧尽。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:201",
+   "pali": "‘‘Sūlehi vinivijjhante, koṭṭayantepi sattibhi;",
+   "zh": "“即使被尖桩刺穿，被矛击打，",
+   "type": "verse",
+   "n": "91"
+  },
+  {
+   "idx": "s0512m.mul1.json:202",
+   "pali": "Bhojaputte na kuppāmi, esā me sīlapāramī’’ti.",
+   "zh": "我不对博阇人生起嗔怒，这便是我的戒波罗蜜。”",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:203",
+   "pali": "Saṅkhapālacariyaṃ dasamaṃ.",
+   "zh": "商卡巴拉行第十"
+  },
+  {
+   "idx": "s0512m.mul1.json:204",
+   "pali": "Hatthināgavaggo dutiyo.",
+   "zh": "象龙品 第二"
+  },
+  {
+   "idx": "s0512m.mul1.json:205",
+   "pali": "Tassuddānaṃ –",
+   "zh": "其摄颂："
+  },
+  {
+   "idx": "s0512m.mul1.json:206",
+   "pali": "Hatthināgo bhūridatto, campeyyo bodhi mahiṃso;",
+   "zh": "象龙、普利达多、占佩亚、菩提、水牛，",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:207",
+   "pali": "Ruru mātaṅgo dhammo ca, atrajo ca jayaddiso.",
+   "zh": "鹿王、摩登伽、法行者、王子与胜军。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:208",
+   "pali": "Ete nava sīlabalā, parikkhārā padesikā;",
+   "zh": "此九种戒力，仅是部分资具。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:209",
+   "pali": "Jīvitaṃ parirakkhitvā, sīlāni anurakkhisaṃ.",
+   "zh": "我护全了性命，并守护诸戒。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:210",
+   "pali": "Saṅkhapālassa me sato, sabbakālampi jīvitaṃ;",
+   "zh": "当我为尚卡巴罗时，乃至整个生命，",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:211",
+   "pali": "Yassa kassaci niyyattaṃ, tasmā sā sīlapāramīti.",
+   "zh": "都任凭任何人处置；因此，那便是戒波罗蜜。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul1.json:212",
+   "pali": "Sīlapāraminiddeso niṭṭhito.",
+   "zh": "戒波罗蜜的分别解说终",
+   "type": "colophon"
+  },
+  {
+   "idx": "s0512m.mul2.json:0",
+   "pali": "3. Yudhañjayavaggo",
+   "zh": "3. 优檀阇耶品"
+  },
+  {
+   "idx": "s0512m.mul2.json:1",
+   "pali": "1. Yudhañjayacariyā",
+   "zh": "1. 优檀阇耶之行"
+  },
+  {
+   "idx": "s0512m.mul2.json:2",
+   "pali": "‘‘Yadāhaṃ amitayaso, rājaputto yudhañjayo;",
+   "zh": "“那时，我是声名远扬的优檀阇耶王子。",
+   "type": "verse",
+   "n": "1"
+  },
+  {
+   "idx": "s0512m.mul2.json:3",
+   "pali": "Ussāvabinduṃ sūriyātape, patitaṃ disvāna saṃvijiṃ.",
+   "zh": "看见一滴露珠在烈日下坠落，我内心深深震动。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:4",
+   "pali": "‘‘Taññevādhipatiṃ katvā, saṃvegamanubrūhayiṃ;",
+   "zh": "“我将那视为首要，增长出离的悚惧心。",
+   "type": "verse",
+   "n": "2"
+  },
+  {
+   "idx": "s0512m.mul2.json:5",
+   "pali": "Mātāpitū ca vanditvā, pabbajjamanuyācahaṃ.",
+   "zh": "我礼拜父母，恳求出家。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:6",
+   "pali": "‘‘Yācanti maṃ pañjalikā, sanegamā saraṭṭhakā;",
+   "zh": "城中乡野诸国民，合掌齐齐向我祈：",
+   "type": "verse",
+   "n": "3"
+  },
+  {
+   "idx": "s0512m.mul2.json:7",
+   "pali": "‘Ajjeva putta paṭipajja, iddhaṃ phītaṃ mahāmahiṃ’.",
+   "zh": "“我儿今日即承嗣，富庶繁荣此大地。”",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:8",
+   "pali": "‘‘Sarājake sahorodhe, sanegame saraṭṭhake;",
+   "zh": "“连同国王与王后，连同城邑与国中的百姓，",
+   "type": "verse",
+   "n": "4"
+  },
+  {
+   "idx": "s0512m.mul2.json:9",
+   "pali": "Karuṇaṃ paridevante, anapekkhova pariccajiṃ.",
+   "zh": "他们悲痛哭泣，而我心无眷恋，舍弃了他们。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:10",
+   "pali": "‘‘Kevalaṃ pathaviṃ rajjaṃ, ñātiparijanaṃ yasaṃ;",
+   "zh": "“整个大地的王权、亲族、随从与声誉，",
+   "type": "verse",
+   "n": "5"
+  },
+  {
+   "idx": "s0512m.mul2.json:11",
+   "pali": "Cajamāno na cintesiṃ, bodhiyāyeva kāraṇā.",
+   "zh": "我舍弃他们时，心中毫无挂碍，唯为觉悟之故。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:12",
+   "pali": "‘‘Mātāpitā na me dessā, napi me dessaṃ mahāyasaṃ;",
+   "zh": "“我未曾厌弃父母，也未曾厌弃那崇高的声誉。",
+   "type": "verse",
+   "n": "6"
+  },
+  {
+   "idx": "s0512m.mul2.json:13",
+   "pali": "Sabbaññutaṃ piyaṃ mayhaṃ, tasmā rajjaṃ pariccaji’’nti.",
+   "zh": "一切知于我最为珍爱，为此我舍弃了王位。”",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:14",
+   "pali": "Yudhañjayacariyaṃ paṭhamaṃ.",
+   "zh": "优檀阇耶行第一"
+  },
+  {
+   "idx": "s0512m.mul2.json:15",
+   "pali": "2. Somanassacariyā",
+   "zh": "2. 索马纳萨行"
+  },
+  {
+   "idx": "s0512m.mul2.json:16",
+   "pali": "‘‘Punāparaṃ yadā homi, indapatthe puruttame;",
+   "zh": "“又有一次，当我在最殊胜的因陀跋陀城时，",
+   "type": "verse",
+   "n": "7"
+  },
+  {
+   "idx": "s0512m.mul2.json:17",
+   "pali": "Kāmito dayito putto, somanassoti vissuto.",
+   "zh": "那时，我是一位被宠爱、被珍视的儿子，名为善意。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:18",
+   "pali": "‘‘Sīlavā guṇasampanno, kalyāṇapaṭibhānavā;",
+   "zh": "持戒具德辩才妙，",
+   "type": "verse",
+   "n": "8"
+  },
+  {
+   "idx": "s0512m.mul2.json:19",
+   "pali": "Vuḍḍhāpacāyī hirīmā, saṅgahesu ca kovido.",
+   "zh": "敬长怀惭巧摄众。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:20",
+   "pali": "‘‘Tassa rañño patikaro, ahosi kuhakatāpaso;",
+   "zh": "“当时，那位国王身边有一位受他宠信的伪诈苦行者。",
+   "type": "verse",
+   "n": "9"
+  },
+  {
+   "idx": "s0512m.mul2.json:21",
+   "pali": "Ārāmaṃ mālāvacchañca, ropayitvāna jīvati.",
+   "zh": "他以种植园林与花丛维生。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:22",
+   "pali": "‘‘Tamahaṃ disvāna kuhakaṃ, thusarāsiṃva ataṇḍulaṃ;",
+   "zh": "“我见他是个骗子，犹如一堆谷壳，了无米粒；",
+   "type": "verse",
+   "n": "10"
+  },
+  {
+   "idx": "s0512m.mul2.json:23",
+   "pali": "Dumaṃva anto susiraṃ, kadaliṃva asārakaṃ.",
+   "zh": "犹如一棵中空之树，又如一株无心的芭蕉。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:24",
+   "pali": "‘‘Natthimassa sataṃ dhammo, sāmaññāpagato ayaṃ;",
+   "zh": "“此人毫无正法，已背离沙门之道；",
+   "type": "verse",
+   "n": "11"
+  },
+  {
+   "idx": "s0512m.mul2.json:25",
+   "pali": "Hirīsukkadhammajahito, jīvitavuttikāraṇā.",
+   "zh": "他舍弃了惭、愧与白净法，只为了维持生计。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:26",
+   "pali": "‘‘Kupito ahu paccanto, aṭavīhi parantihi;",
+   "zh": "“那时边境因山林与边地的盗贼而陷入骚乱；",
+   "type": "verse",
+   "n": "12"
+  },
+  {
+   "idx": "s0512m.mul2.json:27",
+   "pali": "Taṃ nisedhetuṃ gacchanto, anusāsi pitā mamaṃ.",
+   "zh": "父亲动身去平息时，这般教诲我说：",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:28",
+   "pali": "‘‘‘Mā pamajji tuvaṃ tāta, jaṭilaṃ uggatāpanaṃ;",
+   "zh": "“孩子，你切莫轻慢那位严苦修行的结髻苦行者；",
+   "type": "verse",
+   "n": "13"
+  },
+  {
+   "idx": "s0512m.mul2.json:29",
+   "pali": "Yadicchakaṃ pavattehi, sabbakāmadado hi so’.",
+   "zh": "你当随其所欲而行供养，他实是能满一切愿者。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:30",
+   "pali": "‘‘Tamahaṃ gantvānupaṭṭhānaṃ, idaṃ vacanamabraviṃ;",
+   "zh": "“于是我前往侍奉他，这样说道：",
+   "type": "verse",
+   "n": "14"
+  },
+  {
+   "idx": "s0512m.mul2.json:31",
+   "pali": "‘Kacci te gahapati kusalaṃ, kiṃ vā te āharīyatu’.",
+   "zh": "“居士，您安好吗？需要为您取来什么吗？”",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:32",
+   "pali": "‘‘Tena so kupito āsi, kuhako mānanissito;",
+   "zh": "“他因此嗔怒，那位依止我慢的欺诳者；",
+   "type": "verse",
+   "n": "15"
+  },
+  {
+   "idx": "s0512m.mul2.json:33",
+   "pali": "‘Ghātāpemi tuvaṃ ajja, raṭṭhā pabbājayāmi vā’.",
+   "zh": "‘今日我便处死你，或将你逐出此国！’",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:34",
+   "pali": "‘‘Nisedhayitvā paccantaṃ, rājā kuhakamabravi;",
+   "zh": "“平定了边境的冲突后，国王对那个骗子说：",
+   "type": "verse",
+   "n": "16"
+  },
+  {
+   "idx": "s0512m.mul2.json:35",
+   "pali": "‘Kacci te bhante khamanīyaṃ, sammāno te pavattito’.",
+   "zh": "“尊者，您是否安好？众人依礼敬奉您了吗？”",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:36",
+   "pali": "‘‘Tassa ācikkhatī pāpo, kumāro yathā nāsiyo;",
+   "zh": "“那个恶人便告诉他，王子该当如何处死；",
+   "type": "verse",
+   "n": "17"
+  },
+  {
+   "idx": "s0512m.mul2.json:37",
+   "pali": "Tassa taṃ vacanaṃ sutvā, āṇāpesi mahīpati.",
+   "zh": "国王听闻此言，便下令道：",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:38",
+   "pali": "‘‘‘Sīsaṃ tattheva chinditvā, katvāna catukhaṇḍikaṃ;",
+   "zh": "“就在那里将他的头砍下，再把尸身剁成四块。",
+   "type": "verse",
+   "n": "18"
+  },
+  {
+   "idx": "s0512m.mul2.json:39",
+   "pali": "Rathiyā rathiyaṃ dassetha, sā gati jaṭilahīḷitā’.",
+   "zh": "将尸体在一条条街上示众——这就是羞辱结发苦行者的下场！”",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:40",
+   "pali": "‘‘Tattha kāraṇikā gantvā, caṇḍā luddā akāruṇā;",
+   "zh": "“那些差役到了那里，凶残暴戾，毫无悲悯。",
+   "type": "verse",
+   "n": "19"
+  },
+  {
+   "idx": "s0512m.mul2.json:41",
+   "pali": "Mātuaṅke nisinnassa, ākaḍḍhitvā nayanti maṃ.",
+   "zh": "我正坐在母亲膝上，他们便把我拖拽着带走。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:42",
+   "pali": "‘‘Tesāhaṃ evamavacaṃ, bandhataṃ gāḷhabandhanaṃ;",
+   "zh": "“当那些人用牢固的绳索将我捆绑时，我这样对他们说：",
+   "type": "verse",
+   "n": "20"
+  },
+  {
+   "idx": "s0512m.mul2.json:43",
+   "pali": "‘Rañño dassetha maṃ khippaṃ, rājakiriyāni atthi me’.",
+   "zh": "‘请速带我去见国王，我有王事在身。’",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:44",
+   "pali": "‘‘Te maṃ rañño dassayiṃsu, pāpassa pāpasevino;",
+   "zh": "“他们把我带去见了那位追随恶人、行恶之事的国王。",
+   "type": "verse",
+   "n": "21"
+  },
+  {
+   "idx": "s0512m.mul2.json:45",
+   "pali": "Disvāna taṃ saññāpesiṃ, mamañca vasamānayiṃ.",
+   "zh": "见到他后，我说服了他，使他听命于我。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:46",
+   "pali": "‘‘So maṃ tattha khamāpesi, mahārajjamadāsi me;",
+   "zh": "“他那时恳求我的原谅，并将大王国献予我。",
+   "type": "verse",
+   "n": "22"
+  },
+  {
+   "idx": "s0512m.mul2.json:47",
+   "pali": "Sohaṃ tamaṃ dālayitvā, pabbajiṃ anagāriyaṃ.",
+   "zh": "我于是破开黑暗，出家而行无家之道。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:48",
+   "pali": "‘‘Na me dessaṃ mahārajjaṃ, kāmabhogo na dessiyo;",
+   "zh": "“我并非厌弃大王国，也并非厌弃感官欲乐；",
+   "type": "verse",
+   "n": "23"
+  },
+  {
+   "idx": "s0512m.mul2.json:49",
+   "pali": "Sabbaññutaṃ piyaṃ mayhaṃ, tasmā rajjaṃ pariccaji’’nti.",
+   "zh": "只因一切知智于我才是可贵的，正因如此，我舍弃了王位。”",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:50",
+   "pali": "Somanassacariyaṃ dutiyaṃ.",
+   "zh": "索摩那萨行第二"
+  },
+  {
+   "idx": "s0512m.mul2.json:51",
+   "pali": "3. Ayogharacariyā",
+   "zh": "3. 铁屋行"
+  },
+  {
+   "idx": "s0512m.mul2.json:52",
+   "pali": "‘‘Punāparaṃ yadā homi, kāsirājassa atrajo;",
+   "zh": "“再后来，我为迦尸王的亲生儿子时，",
+   "type": "verse",
+   "n": "24"
+  },
+  {
+   "idx": "s0512m.mul2.json:53",
+   "pali": "Ayogharamhi saṃvaḍḍho, nāmenāsi ayogharo.",
+   "zh": "我自幼在铁屋中长大，因此得名‘铁屋’。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:54",
+   "pali": "‘‘Dukkhena jīvito laddho, saṃpīḷe patiposito;",
+   "zh": "千辛万苦方得活命，困厄之中受养成人；",
+   "type": "verse",
+   "n": "25"
+  },
+  {
+   "idx": "s0512m.mul2.json:55",
+   "pali": "Ajjeva putta paṭipajja, kevalaṃ vasudhaṃ imaṃ.",
+   "zh": "儿啊，今日你便去承当这整个大地。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:56",
+   "pali": "‘‘Saraṭṭhakaṃ sanigamaṃ, sajanaṃ vanditva khattiyaṃ;",
+   "zh": "“我向那位拥有国土、城镇与人民的刹帝利，恭敬顶礼。",
+   "type": "verse",
+   "n": "26"
+  },
+  {
+   "idx": "s0512m.mul2.json:57",
+   "pali": "Añjaliṃ paggahetvāna, idaṃ vacanamabraviṃ.",
+   "zh": "我合掌恭敬，如此说道：",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:58",
+   "pali": "‘‘‘Ye keci mahiyā sattā, hīnamukkaṭṭhamajjhimā;",
+   "zh": "“大地之上的一切众生，不论低下、中等或崇高，”",
+   "type": "verse",
+   "n": "27"
+  },
+  {
+   "idx": "s0512m.mul2.json:59",
+   "pali": "Nirārakkhā sake gehe, vaḍḍhanti sakañātibhi.",
+   "zh": "他们在自己家中，与亲族一同长大，却毫无保护。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:60",
+   "pali": "‘‘‘Idaṃ loke uttariyaṃ, saṃpīḷe mama posanaṃ;",
+   "zh": "“在这世间，此事最为奇特——我竟在禁锢中受抚养。",
+   "type": "verse",
+   "n": "28"
+  },
+  {
+   "idx": "s0512m.mul2.json:61",
+   "pali": "Ayogharamhi saṃvaḍḍho, appabhe candasūriye.",
+   "zh": "我长于铁室之中，日月之光黯淡难见。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:62",
+   "pali": "‘‘‘Pūtikuṇapasampuṇṇā, muccitvā mātu kucchito;",
+   "zh": "“母胎中满身腐臭尸骸，从中解脱而出；",
+   "type": "verse",
+   "n": "29"
+  },
+  {
+   "idx": "s0512m.mul2.json:63",
+   "pali": "Tato ghoratare dukkhe, puna pakkhittayoghare.",
+   "zh": "既而又陷于更惨烈的痛苦，再度被抛入那铁室。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:64",
+   "pali": "‘‘‘Yadihaṃ tādisaṃ patvā, dukkhaṃ paramadāruṇaṃ;",
+   "zh": "“我既已承受这般极其惨重的痛苦。",
+   "type": "verse",
+   "n": "30"
+  },
+  {
+   "idx": "s0512m.mul2.json:65",
+   "pali": "Rajjesu yadi rajjāmi , pāpānaṃ uttamo siyaṃ.",
+   "zh": "倘若我贪求王位，便会沦为极恶之人。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:66",
+   "pali": "‘‘‘Ukkaṇṭhitomhi kāyena, rajjenamhi anatthiko;",
+   "zh": "“我对此身已生厌离，于王权无所希求。",
+   "type": "verse",
+   "n": "31"
+  },
+  {
+   "idx": "s0512m.mul2.json:67",
+   "pali": "Nibbutiṃ pariyesissaṃ, yattha maṃ maccu na maddiye’.",
+   "zh": "我要寻求那寂静，在那儿，死神无法将我摧折。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:68",
+   "pali": "‘‘Evāhaṃ cintayitvāna, viravante mahājane;",
+   "zh": "“如此思惟之后，在大众的悲泣声中，",
+   "type": "verse",
+   "n": "32"
+  },
+  {
+   "idx": "s0512m.mul2.json:69",
+   "pali": "Nāgova bandhanaṃ chetvā, pāvisiṃ kānanaṃ vanaṃ.",
+   "zh": "犹如巨象挣断绳索，我径直走入密林。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:70",
+   "pali": "‘‘Mātāpitā na me dessā, napi me dessaṃ mahāyasaṃ;",
+   "zh": "“对于父母，我并无怨恨；对于这广大的名声，于我亦非可厌；",
+   "type": "verse",
+   "n": "33"
+  },
+  {
+   "idx": "s0512m.mul2.json:71",
+   "pali": "Sabbaññutaṃ piyaṃ mayhaṃ, tasmā rajjaṃ pariccaji’’nti.",
+   "zh": "一切知是我所珍爱的，因此我舍弃了王位。”",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:72",
+   "pali": "Ayogharacariyaṃ tatiyaṃ.",
+   "zh": "铁屋行第三。"
+  },
+  {
+   "idx": "s0512m.mul2.json:73",
+   "pali": "4. Bhisacariyā",
+   "zh": "4. 莲藕行"
+  },
+  {
+   "idx": "s0512m.mul2.json:74",
+   "pali": "‘‘Punāparaṃ yadā homi, kāsīnaṃ puravaruttame;",
+   "zh": "复次，我生于迦尸国中最胜之城，",
+   "type": "verse",
+   "n": "34"
+  },
+  {
+   "idx": "s0512m.mul2.json:75",
+   "pali": "Bhaginī ca bhātaro satta, nibbattā sotthiye kule.",
+   "zh": "姊一兄弟七，俱生通达吠陀之婆罗门家。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:76",
+   "pali": "‘‘Etesaṃ pubbajo āsiṃ, hirīsukkamupāgato;",
+   "zh": "“我为此中最初出生者，具足惭耻，精勤向善。",
+   "type": "verse",
+   "n": "35"
+  },
+  {
+   "idx": "s0512m.mul2.json:77",
+   "pali": "Bhavaṃ disvāna bhayato, nekkhammābhirato ahaṃ.",
+   "zh": "见到‘有’的怖畏，我便欣求出离。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:78",
+   "pali": "‘‘Mātāpitūhi pahitā, sahāyā ekamānasā;",
+   "zh": "“受父母派遣，诸友同心一意。",
+   "type": "verse",
+   "n": "36"
+  },
+  {
+   "idx": "s0512m.mul2.json:79",
+   "pali": "Kāmehi maṃ nimantenti, ‘kulavaṃsaṃ dharehi’ti.",
+   "zh": "他们以诸般欲乐劝诱我，说道：‘请延续家族的血脉吧。’",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:80",
+   "pali": "‘‘Yaṃ tesaṃ vacanaṃ vuttaṃ, gihīdhamme sukhāvahaṃ;",
+   "zh": "“他们所说的那些言语，虽能在居家生活中带来快乐；",
+   "type": "verse",
+   "n": "37"
+  },
+  {
+   "idx": "s0512m.mul2.json:81",
+   "pali": "Taṃ me ahosi kaṭhinaṃ, tatta phālasamaṃ viya.",
+   "zh": "但对我而言，却沉重难当，如烧得炽热的犁头。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:82",
+   "pali": "‘‘Te maṃ tadā ukkhipantaṃ, pucchiṃsu patthitaṃ mama;",
+   "zh": "“那时，他们见我决意舍离，便问我心中的愿望；",
+   "type": "verse",
+   "n": "38"
+  },
+  {
+   "idx": "s0512m.mul2.json:83",
+   "pali": "‘Kiṃ tvaṃ patthayase samma, yadi kāme na bhuñjasi’.",
+   "zh": "“朋友，你既不耽著欲乐，所愿求的究竟是什么呢？”",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:84",
+   "pali": "‘‘Tesāhaṃ evamavacaṃ, atthakāmo hitesinaṃ;",
+   "zh": "我怀利益彼等之心，向那些愿我安好的人这样说道：在家生活非我所求，",
+   "type": "verse",
+   "n": "39"
+  },
+  {
+   "idx": "s0512m.mul2.json:85",
+   "pali": "‘Nāhaṃ patthemi gihībhāvaṃ, nekkhammābhirato ahaṃ’.",
+   "zh": "‘我唯欣乐于出离。’",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:86",
+   "pali": "‘‘Te mayhaṃ vacanaṃ sutvā, pitumātu ca sāvayuṃ;",
+   "zh": "“他们听了我的话，便转告了父母；",
+   "type": "verse",
+   "n": "40"
+  },
+  {
+   "idx": "s0512m.mul2.json:87",
+   "pali": "Mātāpitā evamāhu, ‘sabbeva pabbajāma bho’.",
+   "zh": "父母这样说道：‘诸友，我们全都出家吧。’",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:88",
+   "pali": "‘‘Ubho mātāpitā mayhaṃ, bhaginī ca satta bhātaro;",
+   "zh": "“我的父母双亲，一位姊妹，以及七位兄弟；",
+   "type": "verse",
+   "n": "41"
+  },
+  {
+   "idx": "s0512m.mul2.json:89",
+   "pali": "Amitadhanaṃ chaḍḍayitvā, pāvisimhā mahāvana’’nti.",
+   "zh": "舍弃了无量财富，我们便进入了大林。”",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:90",
+   "pali": "Bhisacariyaṃ catutthaṃ.",
+   "zh": "莲藕行第四"
+  },
+  {
+   "idx": "s0512m.mul2.json:91",
+   "pali": "5. Soṇapaṇḍitacariyā",
+   "zh": "5. 首那智者行"
+  },
+  {
+   "idx": "s0512m.mul2.json:92",
+   "pali": "‘‘Punāparaṃ yadā homi, nagare brahmavaḍḍhane;",
+   "zh": "“又一时，我住在梵增长城，",
+   "type": "verse",
+   "n": "42"
+  },
+  {
+   "idx": "s0512m.mul2.json:93",
+   "pali": "Tattha kulavare seṭṭhe, mahāsāle ajāyahaṃ.",
+   "zh": "在那里，我出生在一个殊胜、富有且显赫的家族。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:94",
+   "pali": "‘‘Tadāpi lokaṃ disvāna, andhībhūtaṃ tamotthaṭaṃ;",
+   "zh": "“当时我遍观世间，见众生皆盲，为浓重黑暗所吞没。",
+   "type": "verse",
+   "n": "43"
+  },
+  {
+   "idx": "s0512m.mul2.json:95",
+   "pali": "Cittaṃ bhavato patikuṭati, tuttavegahataṃ viya.",
+   "zh": "我的心对“有”生起厌离，犹如被刺棒猛力鞭笞。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:96",
+   "pali": "‘‘Disvāna vividhaṃ pāpaṃ, evaṃ cintesahaṃ tadā;",
+   "zh": "“当见到种种不善现行时，我心中如是思维：",
+   "type": "verse",
+   "n": "44"
+  },
+  {
+   "idx": "s0512m.mul2.json:97",
+   "pali": "‘Kadāhaṃ gehā nikkhamma, pavisissāmi kānanaṃ’.",
+   "zh": "‘我何时能离家，进入山林？’",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:98",
+   "pali": "‘‘Tadāpi maṃ nimantesuṃ, kāmabhogehi ñātayo;",
+   "zh": "“那时，亲族们也以种种感官欲乐来劝请我。",
+   "type": "verse",
+   "n": "45"
+  },
+  {
+   "idx": "s0512m.mul2.json:99",
+   "pali": "Tesampi chandamācikkhiṃ, ‘mā nimantetha tehi maṃ’.",
+   "zh": "我向他们表明心意：“你们不要以那些欲乐邀请我。”",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:100",
+   "pali": "‘‘Yo me kaniṭṭhako bhātā, nando nāmāsi paṇḍito;",
+   "zh": "“我曾有位年幼的弟弟，名唤难陀，是一位智者；”",
+   "type": "verse",
+   "n": "46"
+  },
+  {
+   "idx": "s0512m.mul2.json:101",
+   "pali": "Sopi maṃ anusikkhanto, pabbajjaṃ samarocayi.",
+   "zh": "“他也随我修学，欢喜出家。”",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:102",
+   "pali": "‘‘Ahaṃ soṇo ca nando ca, ubho mātāpitā mama;",
+   "zh": "“我，首那，与难陀，以及我的父母二人；”",
+   "type": "verse",
+   "n": "47"
+  },
+  {
+   "idx": "s0512m.mul2.json:103",
+   "pali": "Tadāpi bhoge chaḍḍetvā, pāvisimhā mahāvana’’nti.",
+   "zh": "那时，我们皆舍下财富，走进了大森林。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:104",
+   "pali": "Soṇapaṇḍitacariyaṃ pañcamaṃ.",
+   "zh": "首那智者行第五"
+  },
+  {
+   "idx": "s0512m.mul2.json:105",
+   "pali": "6. Temiyacariyā",
+   "zh": "6. 特弥亚行"
+  },
+  {
+   "idx": "s0512m.mul2.json:106",
+   "pali": "‘‘Punāparaṃ yadā homi, kāsirājassa atrajo;",
+   "zh": "“又有一世，我生为迦尸国王之子。",
+   "type": "verse",
+   "n": "48"
+  },
+  {
+   "idx": "s0512m.mul2.json:107",
+   "pali": "Mūgapakkhoti nāmena, temiyoti vadanti maṃ.",
+   "zh": "我名为哑跛，他们称我太弥。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:108",
+   "pali": "‘‘Soḷasitthisahassānaṃ, na vijjati pumo tadā ;",
+   "zh": "“那时，一万六千宫女中，无有一名男子。",
+   "type": "verse",
+   "n": "49"
+  },
+  {
+   "idx": "s0512m.mul2.json:109",
+   "pali": "Ahorattānaṃ accayena, nibbatto ahamekako.",
+   "zh": "历经日日夜夜流转之后，我独自降生了。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:110",
+   "pali": "‘‘Kicchā laddhaṃ piyaṃ puttaṃ, abhijātaṃ jutindharaṃ;",
+   "zh": "“这得来不易的可爱儿子，出身高贵，身具光辉；",
+   "type": "verse",
+   "n": "50"
+  },
+  {
+   "idx": "s0512m.mul2.json:111",
+   "pali": "Setacchattaṃ dhārayitvāna, sayane poseti maṃ pitā.",
+   "zh": "父亲在我的卧榻上方高擎白伞盖，慈心抚育着我。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:112",
+   "pali": "‘‘Niddāyamāno sayanavare, pabujjhitvānahaṃ tadā;",
+   "zh": "“那时，我卧于宝床，醒来之时，",
+   "type": "verse",
+   "n": "51"
+  },
+  {
+   "idx": "s0512m.mul2.json:113",
+   "pali": "Addasaṃ paṇḍaraṃ chattaṃ, yenāhaṃ nirayaṃ gato.",
+   "zh": "我见到一把白伞，正因这把伞，我曾堕入地狱。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:114",
+   "pali": "‘‘Saha diṭṭhassa me chattaṃ, tāso uppajji bheravo;",
+   "zh": "“一见那把伞，我心中便生起大怖畏，",
+   "type": "verse",
+   "n": "52"
+  },
+  {
+   "idx": "s0512m.mul2.json:115",
+   "pali": "Vinicchayaṃ samāpanno, ‘kathāhaṃ imaṃ muñcissaṃ’.",
+   "zh": "我作出了抉择，心想：‘我如何才能从中解脱？’",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:116",
+   "pali": "‘‘Pubbasālohitā mayhaṃ, devatā atthakāminī;",
+   "zh": "“一位曾是我过去生血亲的女神，她一心想要利益我；",
+   "type": "verse",
+   "n": "53"
+  },
+  {
+   "idx": "s0512m.mul2.json:117",
+   "pali": "Sā maṃ disvāna dukkhitaṃ, tīsu ṭhānesu yojayi.",
+   "zh": "她见我痛苦，便从三个方面劝导我。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:118",
+   "pali": "‘‘‘Mā paṇḍiccayaṃ vibhāvaya, bālamato bhava sabbapāṇinaṃ;",
+   "zh": "“勿显露你的聪明，于一切众生前，当如愚人。",
+   "type": "verse",
+   "n": "54"
+  },
+  {
+   "idx": "s0512m.mul2.json:119",
+   "pali": "Sabbo taṃ jano ocināyatu, evaṃ tava attho bhavissati’.",
+   "zh": "让众人皆轻视你，如此你的目的便能成就。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:120",
+   "pali": "‘‘Evaṃ vuttāyahaṃ tassā, idaṃ vacanamabraviṃ;",
+   "zh": "“她这么说后，我便对她说道：",
+   "type": "verse",
+   "n": "55"
+  },
+  {
+   "idx": "s0512m.mul2.json:121",
+   "pali": "‘Karomi te taṃ vacanaṃ, yaṃ tvaṃ bhaṇasi devate;",
+   "zh": "‘天神，我将依你所说而行，照你的话语去做。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:122",
+   "pali": "Atthakāmāsi me amma, hitakāmāsi devate’.",
+   "zh": "母亲，你慈心为我；天神，你愿我获得福祉。’",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:123",
+   "pali": "‘‘Tassāhaṃ vacanaṃ sutvā, sāgareva thalaṃ labhiṃ;",
+   "zh": "“听了她的这番话，我便如迷航于大海者，终于望见了陆地。",
+   "type": "verse",
+   "n": "56"
+  },
+  {
+   "idx": "s0512m.mul2.json:124",
+   "pali": "Haṭṭho saṃviggamānaso, tayo aṅge adhiṭṭhahiṃ.",
+   "zh": "我满怀欢喜，内心深受震动，于三事立下决意。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:125",
+   "pali": "‘‘Mūgo ahosiṃ badhiro, pakkho gativivajjito;",
+   "zh": "“我成了哑者、聋者，且跛足不能行步。",
+   "type": "verse",
+   "n": "57"
+  },
+  {
+   "idx": "s0512m.mul2.json:126",
+   "pali": "Ete aṅge adhiṭṭhāya, vassāni soḷasaṃ vasiṃ.",
+   "zh": "由此决意于这些事，我安住了十六年。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:127",
+   "pali": "‘‘Tato me hatthapāde ca, jivhaṃ sotañca maddiya;",
+   "zh": "“后来，他们又摧折我的双手、双脚，连同舌头和耳朵。",
+   "type": "verse",
+   "n": "58"
+  },
+  {
+   "idx": "s0512m.mul2.json:128",
+   "pali": "Anūnataṃ me passitvā, ‘kāḷakaṇṇī’ti nindisuṃ.",
+   "zh": "见我并无残缺，他们便谴责我是‘扫把星’。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:129",
+   "pali": "‘‘Tato jānapadā sabbe, senāpatipurohitā;",
+   "zh": "“于是，举国上下，连同将军与国师，",
+   "type": "verse",
+   "n": "59"
+  },
+  {
+   "idx": "s0512m.mul2.json:130",
+   "pali": "Sabbe ekamanā hutvā, chaḍḍanaṃ anumodisuṃ.",
+   "zh": "众人一心，欣悦地赞同将我抛弃。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:131",
+   "pali": "‘‘Sohaṃ tesaṃ matiṃ sutvā, haṭṭho saṃviggamānaso;",
+   "zh": "“我听闻了他们的决定，心中欢喜，心怀惊惧；",
+   "type": "verse",
+   "n": "60"
+  },
+  {
+   "idx": "s0512m.mul2.json:132",
+   "pali": "Yassatthāya tapociṇṇo, so me attho samijjhatha.",
+   "zh": "我为此而勤修苦行，如今这目标已然成就。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:133",
+   "pali": "‘‘Nhāpetvā anulimpitvā, veṭhetvā rājaveṭhanaṃ;",
+   "zh": "“沐浴涂油之后，缠上国王的头巾，",
+   "type": "verse",
+   "n": "61"
+  },
+  {
+   "idx": "s0512m.mul2.json:134",
+   "pali": "Chattena abhisiñcitvā, kāresuṃ puraṃ padakkhiṇaṃ.",
+   "zh": "以伞盖为我灌顶，他们便让我右绕城市，作巡礼游行。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:135",
+   "pali": "‘‘Sattāhaṃ dhārayitvāna, uggate ravimaṇḍale;",
+   "zh": "“持伞七日之后，当太阳的圆轮升起时，",
+   "type": "verse",
+   "n": "62"
+  },
+  {
+   "idx": "s0512m.mul2.json:136",
+   "pali": "Rathena maṃ nīharitvā, sārathī vanamupāgami.",
+   "zh": "车夫载我出，驱车入林中；",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:137",
+   "pali": "‘‘Ekokāse rathaṃ katvā, sajjassaṃ hatthamuccito ;",
+   "zh": "置车空寂处，我从彼手脱。",
+   "type": "verse",
+   "n": "63"
+  },
+  {
+   "idx": "s0512m.mul2.json:138",
+   "pali": "Sārathī khaṇatī kāsuṃ, nikhātuṃ pathaviyā mamaṃ.",
+   "zh": "车夫掘坑于地，欲将我埋入土中；",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:139",
+   "pali": "‘‘Adhiṭṭhitamadhiṭṭhānaṃ, tajjento vividhakāraṇā;",
+   "zh": "我则以种种方便，精勤于已立之坚定决意。",
+   "type": "verse",
+   "n": "64"
+  },
+  {
+   "idx": "s0512m.mul2.json:140",
+   "pali": "Na bhindiṃ tamadhiṭṭhānaṃ, bodhiyāyeva kāraṇā.",
+   "zh": "我没有打破那个决心，只因它全然是为了觉悟。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:141",
+   "pali": "‘‘Mātāpitā na me dessā, attā me na ca dessiyo;",
+   "zh": "“我不憎恶父母，也不憎恶自己；",
+   "type": "verse",
+   "n": "65"
+  },
+  {
+   "idx": "s0512m.mul2.json:142",
+   "pali": "Sabbaññutaṃ piyaṃ mayhaṃ, tasmā vatamadhiṭṭhahiṃ.",
+   "zh": "一切知智为我所珍爱，是故我立此誓愿：",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:143",
+   "pali": "‘‘Ete aṅge adhiṭṭhāya, vassāni soḷasaṃ vasiṃ;",
+   "zh": "“依此诸支分而住，我安居十六年；",
+   "type": "verse",
+   "n": "66"
+  },
+  {
+   "idx": "s0512m.mul2.json:144",
+   "pali": "Adhiṭṭhānena me samo natthi, esā me adhiṭṭhānapāramī’’ti.",
+   "zh": "于决意波罗蜜，无有与我等比者，这便是我的决意波罗蜜。”",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:145",
+   "pali": "Temiyacariyaṃ chaṭṭhaṃ.",
+   "zh": "第六 特弥亚行"
+  },
+  {
+   "idx": "s0512m.mul2.json:146",
+   "pali": "7. Kapirājacariyā",
+   "zh": "7. 猴王行"
+  },
+  {
+   "idx": "s0512m.mul2.json:147",
+   "pali": "‘‘Yadā ahaṃ kapi āsiṃ, nadīkūle darīsaye;",
+   "zh": "“那时，我为猕猴，栖于河岸的岩穴间；",
+   "type": "verse",
+   "n": "67"
+  },
+  {
+   "idx": "s0512m.mul2.json:148",
+   "pali": "Pīḷito susumārena, gamanaṃ na labhāmahaṃ.",
+   "zh": "为鳄鱼所逼，我无法离开。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:149",
+   "pali": "‘‘Yamhokāse ahaṃ ṭhatvā, orā pāraṃ patāmahaṃ;",
+   "zh": "“我站在此处，从近岸跃向远岸；",
+   "type": "verse",
+   "n": "68"
+  },
+  {
+   "idx": "s0512m.mul2.json:150",
+   "pali": "Tatthacchi sattu vadhako, kumbhīlo luddadassano.",
+   "zh": "那里便潜藏着我的死敌，那只相貌凶残的鳄鱼。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:151",
+   "pali": "‘‘So maṃ asaṃsi ‘ehī’ti, ‘ahaṃpemī’ti taṃ vatiṃ;",
+   "zh": "“他对我安慰道：‘来！’我应声而答：‘我这就来。’”",
+   "type": "verse",
+   "n": "69"
+  },
+  {
+   "idx": "s0512m.mul2.json:152",
+   "pali": "Tassa matthakamakkamma, parakūle patiṭṭhahiṃ.",
+   "zh": "我踏着他的头顶，站上了对岸。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:153",
+   "pali": "‘‘Na tassa alikaṃ bhaṇitaṃ, yathā vācaṃ akāsahaṃ;",
+   "zh": "“我对他未说虚妄之言，依所说而行，说到做到；",
+   "type": "verse",
+   "n": "70"
+  },
+  {
+   "idx": "s0512m.mul2.json:154",
+   "pali": "Saccena me samo natthi, esā me saccapāramī’’ti.",
+   "zh": "论真实，无人能与我等同；这便是我的谛波罗蜜。”",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:155",
+   "pali": "Kapirājacariyaṃ sattamaṃ.",
+   "zh": "猴王之行第七"
+  },
+  {
+   "idx": "s0512m.mul2.json:156",
+   "pali": "8. Saccatāpasacariyā",
+   "zh": "8. 谛语苦行者之行"
+  },
+  {
+   "idx": "s0512m.mul2.json:157",
+   "pali": "‘‘Punāparaṃ yadā homi, tāpaso saccasavhayo;",
+   "zh": "“再往后，我曾是一位名为“谛语”的苦行者，",
+   "type": "verse",
+   "n": "71"
+  },
+  {
+   "idx": "s0512m.mul2.json:158",
+   "pali": "Saccena lokaṃ pālesiṃ, samaggaṃ janamakāsaha’’nti.",
+   "zh": "我以真实守护世间，令人们和谐共处。”",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:159",
+   "pali": "Saccatāpasacariyaṃ aṭṭhamaṃ.",
+   "zh": "谛语苦行者行第八"
+  },
+  {
+   "idx": "s0512m.mul2.json:160",
+   "pali": "9. Vaṭṭapotakacariyā",
+   "zh": "9. 鹌鹑雏行"
+  },
+  {
+   "idx": "s0512m.mul2.json:161",
+   "pali": "‘‘Punāparaṃ yadā homi, magadhe vaṭṭapotako;",
+   "zh": "“复次，往昔我在摩揭陀国为鹌鹑雏鸟，",
+   "type": "verse",
+   "n": "72"
+  },
+  {
+   "idx": "s0512m.mul2.json:162",
+   "pali": "Ajātapakkho taruṇo, maṃsapesi kulāvake.",
+   "zh": "羽翼未生，尚很幼小，于巢中只是一小团嫩肉，",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:163",
+   "pali": "‘‘Mukhatuṇḍakenāharitvā , mātā posayatī mamaṃ;",
+   "zh": "“母亲用嘴衔来食物，将我哺育，",
+   "type": "verse",
+   "n": "73"
+  },
+  {
+   "idx": "s0512m.mul2.json:164",
+   "pali": "Tassā phassena jīvāmi, natthi me kāyikaṃ balaṃ.",
+   "zh": "凭着她的触碰，我才得以存活，身上毫无力气。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:165",
+   "pali": "‘‘Saṃvacchare gimhasamaye, davaḍāho padippati;",
+   "zh": "“有一年，热季时分，森林燃起大火，",
+   "type": "verse",
+   "n": "74"
+  },
+  {
+   "idx": "s0512m.mul2.json:166",
+   "pali": "Upagacchati amhākaṃ, pāvako kaṇhavattanī.",
+   "zh": "那挟着焦黑烟迹的烈火，直向我们逼来。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:167",
+   "pali": "‘‘Dhamadhamā itievaṃ, saddāyanto mahāsikhī;",
+   "zh": "“那烈焰呼啸，发出轰轰的巨响，",
+   "type": "verse",
+   "n": "75"
+  },
+  {
+   "idx": "s0512m.mul2.json:168",
+   "pali": "Anupubbena jhāpento, aggi mamamupāgami.",
+   "zh": "火势渐次蔓延，直向我逼来。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:169",
+   "pali": "‘‘Aggivegabhayātītā, tasitā mātāpitā mama;",
+   "zh": "“我的父母被烈火惊慑，又惊又惧，",
+   "type": "verse",
+   "n": "76"
+  },
+  {
+   "idx": "s0512m.mul2.json:170",
+   "pali": "Kulāvake maṃ chaḍḍetvā, attānaṃ parimocayuṃ.",
+   "zh": "便把我弃在巢中，只顾自己脱身。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:171",
+   "pali": "‘‘Pāde pakkhe pajahāmi, natthi me kāyikaṃ balaṃ;",
+   "zh": "“我舍弃脚与翅膀，身上却毫无气力；",
+   "type": "verse",
+   "n": "77"
+  },
+  {
+   "idx": "s0512m.mul2.json:172",
+   "pali": "Sohaṃ agatiko tattha, evaṃ cintesahaṃ tadā.",
+   "zh": "那时我无依无靠，困在那里，心中这样思惟：",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:173",
+   "pali": "‘‘‘Yesāhaṃ upadhāveyyaṃ, bhīto tasitavedhito;",
+   "zh": "“那些我本可投靠之人，在我惊恐战栗之际，",
+   "type": "verse",
+   "n": "78"
+  },
+  {
+   "idx": "s0512m.mul2.json:174",
+   "pali": "Te maṃ ohāya pakkantā, kathaṃ me ajja kātave.",
+   "zh": "他们却弃我而去；今日我该如何是好？”",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:175",
+   "pali": "‘‘‘Atthi loke sīlaguṇo, saccaṃ soceyyanuddayā;",
+   "zh": "“世间有戒德、真实、清净和悲悯；",
+   "type": "verse",
+   "n": "79"
+  },
+  {
+   "idx": "s0512m.mul2.json:176",
+   "pali": "Tena saccena kāhāmi, saccakiriyamuttamaṃ.",
+   "zh": "凭此真实，我将行持这最上的真实语。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:177",
+   "pali": "‘‘‘Āvejjetvā dhammabalaṃ, saritvā pubbake jine;",
+   "zh": "“摄持正法之力，忆念往昔诸胜者；",
+   "type": "verse",
+   "n": "80"
+  },
+  {
+   "idx": "s0512m.mul2.json:178",
+   "pali": "Saccabalamavassāya, saccakiriyamakāsahaṃ.",
+   "zh": "依于真实之力，我行此真实之誓。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:179",
+   "pali": "‘‘‘Santi pakkhā apatanā, santi pādā avañcanā;",
+   "zh": "“‘有翅却不能飞去，有足却不能行走；",
+   "type": "verse",
+   "n": "81"
+  },
+  {
+   "idx": "s0512m.mul2.json:180",
+   "pali": "Mātāpitā ca nikkhantā, jātaveda paṭikkama’.",
+   "zh": "父母已然出离，迦塔维达火神，请回吧。’",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:181",
+   "pali": "‘‘Sahasacce kate mayhaṃ, mahāpajjalito sikhī;",
+   "zh": "“当我作此真实语时，炽燃的烈焰",
+   "type": "verse",
+   "n": "82"
+  },
+  {
+   "idx": "s0512m.mul2.json:182",
+   "pali": "Vajjesi soḷasakarīsāni, udakaṃ patvā yathā sikhī;",
+   "zh": "便退避了十六卡里萨，犹如火焰遇水。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:183",
+   "pali": "Saccena me samo natthi, esā me saccapāramī’’ti.",
+   "zh": "若论真实，无人能与我等同，这便是我的真实波罗蜜。”",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:184",
+   "pali": "Vaṭṭapotakacariyaṃ navamaṃ.",
+   "zh": "瓦德波德伽所行第九"
+  },
+  {
+   "idx": "s0512m.mul2.json:185",
+   "pali": "10. Maccharājacariyā",
+   "zh": "10. 鱼王所行"
+  },
+  {
+   "idx": "s0512m.mul2.json:186",
+   "pali": "‘‘Punāparaṃ yadā homi, maccharājā mahāsare;",
+   "zh": "“后来，当我转生为大湖中的鱼王时，",
+   "type": "verse",
+   "n": "83"
+  },
+  {
+   "idx": "s0512m.mul2.json:187",
+   "pali": "Uṇhe sūriyasantāpe, sare udaka khīyatha.",
+   "zh": "烈日炎炎，暑气蒸腾，湖水尽皆干涸。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:188",
+   "pali": "‘‘Tato kākā ca gijjhā ca, kaṅkā kulalasenakā;",
+   "zh": "“那时，乌鸦、秃鹫、苍鹭与鹰隼等群鸟，",
+   "type": "verse",
+   "n": "84"
+  },
+  {
+   "idx": "s0512m.mul2.json:189",
+   "pali": "Bhakkhayanti divārattiṃ, macche upanisīdiya.",
+   "zh": "它们栖止在鱼群近旁，日夜吞食。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:190",
+   "pali": "‘‘Evaṃ cintesahaṃ tattha, saha ñātīhi pīḷito;",
+   "zh": "“在那里，我与亲属们一同被困扰，我这样想：",
+   "type": "verse",
+   "n": "85"
+  },
+  {
+   "idx": "s0512m.mul2.json:191",
+   "pali": "‘Kena nu kho upāyena, ñātī dukkhā pamocaye’.",
+   "zh": "‘有什么方法，能让亲人们从这苦中解脱呢？’",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:192",
+   "pali": "‘‘Vicintayitvā dhammatthaṃ, saccaṃ addasa passayaṃ;",
+   "zh": "“我细心思惟法的真义，在观察中如实得见真理，以之为依止。",
+   "type": "verse",
+   "n": "86"
+  },
+  {
+   "idx": "s0512m.mul2.json:193",
+   "pali": "Sacce ṭhatvā pamocesiṃ, ñātīnaṃ taṃ atikkhayaṃ.",
+   "zh": "我安住于真实，从那场浩劫中解救了亲人。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:194",
+   "pali": "‘‘Anussaritvā sataṃ dhammaṃ, paramatthaṃ vicintayaṃ;",
+   "zh": "忆念善者之法，深观第一义谛；",
+   "type": "verse",
+   "n": "87"
+  },
+  {
+   "idx": "s0512m.mul2.json:195",
+   "pali": "Akāsi saccakiriyaṃ, yaṃ loke dhuvasassataṃ.",
+   "zh": "彼立真实誓愿，于世常恒不坏。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:196",
+   "pali": "‘‘‘Yato sarāmi attānaṃ, yato pattosmi viññutaṃ;",
+   "zh": "“自从我能忆念自身，自从我具足智慧以来；",
+   "type": "verse",
+   "n": "88"
+  },
+  {
+   "idx": "s0512m.mul2.json:197",
+   "pali": "Nābhijānāmi sañcicca, ekapāṇampi hiṃsitaṃ.",
+   "zh": "我不曾忆念自己曾故意伤害过哪怕一个众生。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:198",
+   "pali": "‘‘‘Etena saccavajjena, pajjunno abhivassatu;",
+   "zh": "“‘凭此真实语，愿云[[pajjunna|雨云]]沛然降雨！",
+   "type": "verse",
+   "n": "89"
+  },
+  {
+   "idx": "s0512m.mul2.json:199",
+   "pali": "Abhitthanaya pajjunna, nidhiṃ kākassa nāsaya;",
+   "zh": "雷鸣吧，云[[pajjunna|雨云]]！驱散那乌鸦的藏食；",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:200",
+   "pali": "Kākaṃ sokāya randhehi, macche sokā pamocaya’.",
+   "zh": "令乌鸦陷入忧伤，使群鱼脱离忧伤。’",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:201",
+   "pali": "‘‘Sahakate saccavare, pajjunno abhigajjiya;",
+   "zh": "“此殊胜的真实誓言一宣告，云[[pajjunna|雨云]]便轰然雷鸣；",
+   "type": "verse",
+   "n": "90"
+  },
+  {
+   "idx": "s0512m.mul2.json:202",
+   "pali": "Thalaṃ ninnañca pūrento, khaṇena abhivassatha.",
+   "zh": "瞬息之间，大雨倾泻，高地与低洼悉皆盈满。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:203",
+   "pali": "‘‘Evarūpaṃ saccavaraṃ, katvā vīriyamuttamaṃ;",
+   "zh": "“我立下如此殊胜的真实誓言，并付出无上精进；",
+   "type": "verse",
+   "n": "91"
+  },
+  {
+   "idx": "s0512m.mul2.json:204",
+   "pali": "Vassāpesiṃ mahāmeghaṃ, saccatejabalassito;",
+   "zh": "我凭依真实之力的威神，令那巨大雨云倾泻而下；",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:205",
+   "pali": "Saccena me samo natthi, esā me saccapāramī’’ti.",
+   "zh": "真实无有人与我等同，这便是我的真实波罗蜜。”",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:206",
+   "pali": "Maccharājacariyaṃ dasamaṃ.",
+   "zh": "鱼王所行第十"
+  },
+  {
+   "idx": "s0512m.mul2.json:207",
+   "pali": "11. Kaṇhadīpāyanacariyā",
+   "zh": "11. 黑岛行"
+  },
+  {
+   "idx": "s0512m.mul2.json:208",
+   "pali": "‘‘Punāparaṃ yadā homi, kaṇhadīpāyano isi;",
+   "zh": "“又有一时，我为黑岛苦行者，",
+   "type": "verse",
+   "n": "92"
+  },
+  {
+   "idx": "s0512m.mul2.json:209",
+   "pali": "Paropaññāsavassāni, anabhiratocariṃ ahaṃ.",
+   "zh": "五十余年，我皆不欢喜地修行。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:210",
+   "pali": "‘‘Na koci etaṃ jānāti, anabhiratimanaṃ mama;",
+   "zh": "“没有人知晓我心中的这种不乐，",
+   "type": "verse",
+   "n": "93"
+  },
+  {
+   "idx": "s0512m.mul2.json:211",
+   "pali": "Ahañhi kassaci nācikkhiṃ, arati me carati mānase.",
+   "zh": "因为我从未向任何人说起，这不乐只在我心中流转。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:212",
+   "pali": "‘‘Sabrahmacārī maṇḍabyo, sahāyo me mahāisi;",
+   "zh": "“[[maṇḍabya|曼达比亚]]是我的梵行同伴，也是我的挚友，一位大仙人。",
+   "type": "verse",
+   "n": "94"
+  },
+  {
+   "idx": "s0512m.mul2.json:213",
+   "pali": "Pubbakammasamāyutto, sūlamāropanaṃ labhi.",
+   "zh": "他因宿世所造之业，被穿刺在木桩上而受报。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:214",
+   "pali": "‘‘Tamahaṃ upaṭṭhahitvāna, ārogyamanupāpayiṃ;",
+   "zh": "“那时，我服侍照料他，使他恢复了健康；",
+   "type": "verse",
+   "n": "95"
+  },
+  {
+   "idx": "s0512m.mul2.json:215",
+   "pali": "Āpucchitvāna āgañchiṃ, yaṃ mayhaṃ sakamassamaṃ.",
+   "zh": "我辞别后，便回到了自己的精舍。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:216",
+   "pali": "‘‘Sahāyo brāhmaṇo mayhaṃ, bhariyaṃ ādāya puttakaṃ;",
+   "zh": "“我的一位婆罗门朋友，携着妻儿，",
+   "type": "verse",
+   "n": "96"
+  },
+  {
+   "idx": "s0512m.mul2.json:217",
+   "pali": "Tayo janā samāgantvā, āgañchuṃ pāhunāgataṃ.",
+   "zh": "三人一同来到我处，作为客人到访。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:218",
+   "pali": "‘‘Sammodamāno tehi saha, nisinno sakamassame;",
+   "zh": "“我坐在自己的净舍中，与他们共叙欢喜，",
+   "type": "verse",
+   "n": "97"
+  },
+  {
+   "idx": "s0512m.mul2.json:219",
+   "pali": "Dārako vaṭṭamanukkhipaṃ, āsīvisamakopayi.",
+   "zh": "那男孩抛起一只球，却激怒了毒蛇。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:220",
+   "pali": "‘‘Tato so vaṭṭagataṃ maggaṃ, anvesanto kumārako;",
+   "zh": "“于是，那男孩循着球滚落的方向，四下探寻，",
+   "type": "verse",
+   "n": "98"
+  },
+  {
+   "idx": "s0512m.mul2.json:221",
+   "pali": "Āsīvisassa hatthena, uttamaṅgaṃ parāmasi.",
+   "zh": "用手触碰到了那毒蛇的头顶。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:222",
+   "pali": "‘‘Tassa āmasane kuddho, sappo visabalassito;",
+   "zh": "“那蛇被触碰后勃然大怒，它依仗着剧毒，",
+   "type": "verse",
+   "n": "99"
+  },
+  {
+   "idx": "s0512m.mul2.json:223",
+   "pali": "Kupito paramakopena, aḍaṃsi dārakaṃ khaṇe.",
+   "zh": "盛怒难遏，当即咬了那孩子。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:224",
+   "pali": "‘‘Sahadaṭṭho āsīvisena , dārako papati bhūmiyaṃ;",
+   "zh": "毒蛇啮儿，儿即仆地；",
+   "type": "verse",
+   "n": "100"
+  },
+  {
+   "idx": "s0512m.mul2.json:225",
+   "pali": "Tenāhaṃ dukkhito āsiṃ, mama vāhasi taṃ dukkhaṃ.",
+   "zh": "我由是忧苦，愿汝代我担此苦。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:226",
+   "pali": "‘‘Tyāhaṃ assāsayitvāna, dukkhite sokasallite;",
+   "zh": "“我安慰了那些痛苦忧伤、被愁箭所刺之人；",
+   "type": "verse",
+   "n": "101"
+  },
+  {
+   "idx": "s0512m.mul2.json:227",
+   "pali": "Paṭhamaṃ akāsiṃ kiriyaṃ, aggaṃ saccaṃ varuttamaṃ.",
+   "zh": "我率先造作了此行，此是最上的真实，最为殊胜。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:228",
+   "pali": "‘‘‘Sattāhamevāhaṃ pasannacitto, puññatthiko acariṃ brahmacariyaṃ;",
+   "zh": "“仅七日间，我以净信心，为求功德而修习梵行。",
+   "type": "verse",
+   "n": "102"
+  },
+  {
+   "idx": "s0512m.mul2.json:229",
+   "pali": "Athāparaṃ yaṃ caritaṃ mamedaṃ, vassāni paññāsasamādhikāni.",
+   "zh": "自此以后，我这番修行，历经五十余载。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:230",
+   "pali": "‘‘‘Akāmako vāhi ahaṃ carāmi, etena saccena suvatthi hotu;",
+   "zh": "“我实非情愿而修此行。依此谛语，愿得吉祥！",
+   "type": "verse",
+   "n": "103"
+  },
+  {
+   "idx": "s0512m.mul2.json:231",
+   "pali": "Hataṃ visaṃ jīvatu yaññadatto’.",
+   "zh": "愿毒消散！愿亚尼亚达多存活！",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:232",
+   "pali": "‘‘Saha sacce kate mayhaṃ, visavegena vedhito;",
+   "zh": "“当我宣说此真实语时，那被毒力所侵袭、颤抖的年轻人，",
+   "type": "verse",
+   "n": "104"
+  },
+  {
+   "idx": "s0512m.mul2.json:233",
+   "pali": "Abujjhitvāna vuṭṭhāsi, arogo cāsi māṇavo;",
+   "zh": "便苏醒起身，这位婆罗门青年恢复了健康。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:234",
+   "pali": "Saccena me samo natthi, esā me saccapāramī’’ti.",
+   "zh": "以真实语而论，世间无人能与我等齐，这便是我的谛波罗蜜。”",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:235",
+   "pali": "Kaṇhadīpāyanacariyaṃ ekādasamaṃ.",
+   "zh": "黑岛行 第十一"
+  },
+  {
+   "idx": "s0512m.mul2.json:236",
+   "pali": "12. Sutasomacariyā",
+   "zh": "12. 须陀素摩行"
+  },
+  {
+   "idx": "s0512m.mul2.json:237",
+   "pali": "‘‘Punāparaṃ yadā homi, sutasomo mahīpati;",
+   "zh": "“又有一次，当我身为大地之主宰须陀素摩时，",
+   "type": "verse",
+   "n": "105"
+  },
+  {
+   "idx": "s0512m.mul2.json:238",
+   "pali": "Gahito porisādena, brāhmaṇe saṅgaraṃ sariṃ.",
+   "zh": "被食人者波梨萨陀捕获，那时我想起了对一位婆罗门许下的承诺。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:239",
+   "pali": "‘‘Khattiyānaṃ ekasataṃ, āvuṇitvā karattale;",
+   "zh": "一百零一刹帝利，贯穿掌心相串系；",
+   "type": "verse",
+   "n": "106"
+  },
+  {
+   "idx": "s0512m.mul2.json:240",
+   "pali": "Etesaṃ pamilāpetvā, yaññatthe upanayī mamaṃ.",
+   "zh": "令彼枯槁复憔悴，为祭祀故牵我来。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:241",
+   "pali": "‘‘Apucchi maṃ porisādo, ‘kiṃ tvaṃ icchasi nissajaṃ;",
+   "zh": "“波梨萨陀问我：‘你期盼什么——放你走吗？’",
+   "type": "verse",
+   "n": "107"
+  },
+  {
+   "idx": "s0512m.mul2.json:242",
+   "pali": "Yathāmati te kāhāmi, yadi me tvaṃ punehisi’.",
+   "zh": "‘我会照你的心意去做，只要你再回到我这里。’",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:243",
+   "pali": "‘‘Tassa paṭissuṇitvāna, paṇhe āgamanaṃ mama;",
+   "zh": "允彼所请，许答其问而重归；",
+   "type": "verse",
+   "n": "108"
+  },
+  {
+   "idx": "s0512m.mul2.json:244",
+   "pali": "Upagantvā puraṃ rammaṃ, rajjaṃ niyyādayiṃ tadā.",
+   "zh": "既入丽城，尔时乃付其王位。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:245",
+   "pali": "‘‘Anussaritvā sataṃ dhammaṃ, pubbakaṃ jinasevitaṃ;",
+   "zh": "“忆念着往昔胜者所奉行的真实法，",
+   "type": "verse",
+   "n": "109"
+  },
+  {
+   "idx": "s0512m.mul2.json:246",
+   "pali": "Brāhmaṇassa dhanaṃ datvā, porisādaṃ upāgamiṃ.",
+   "zh": "布施婆罗门财物之后，我便前往那食人者之处。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:247",
+   "pali": "‘‘Natthi me saṃsayo tattha, ghātayissati vā na vā;",
+   "zh": "“我心中并无疑惑：他或会杀我，或不会。",
+   "type": "verse",
+   "n": "110"
+  },
+  {
+   "idx": "s0512m.mul2.json:248",
+   "pali": "Saccavācānurakkhanto, jīvitaṃ cajitumupāgamiṃ;",
+   "zh": "为守护真实之语，我前来舍弃此生命。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:249",
+   "pali": "Saccena me samo natthi, esā me saccapāramī’’ti.",
+   "zh": "于真实中，无有与我等同者：这便是我的真实波罗蜜。”",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:250",
+   "pali": "Sutasomacariyaṃ dvādasamaṃ.",
+   "zh": "须陀素摩行第十二"
+  },
+  {
+   "idx": "s0512m.mul2.json:251",
+   "pali": "13. Suvaṇṇasāmacariyā",
+   "zh": "13. 睒子行"
+  },
+  {
+   "idx": "s0512m.mul2.json:252",
+   "pali": "‘‘Sāmo yadā vane āsiṃ, sakkena abhinimmito;",
+   "zh": "“我曾于林中为沙摩，乃帝释天神所幻化；",
+   "type": "verse",
+   "n": "111"
+  },
+  {
+   "idx": "s0512m.mul2.json:253",
+   "pali": "Pavane sīhabyagghe ca, mettāyamupanāmayiṃ.",
+   "zh": "我于林中，以慈心摄受狮子与老虎；",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:254",
+   "pali": "‘‘Sīhabyagghehi dīpīhi, acchehi mahisehi ca;",
+   "zh": "“为狮子、老虎、豹、熊与水牛所围绕；",
+   "type": "verse",
+   "n": "112"
+  },
+  {
+   "idx": "s0512m.mul2.json:255",
+   "pali": "Pasadamigavarāhehi, parivāretvā vane vasiṃ.",
+   "zh": "斑鹿与野猪围绕在侧，我住于林间。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:256",
+   "pali": "‘‘Na maṃ koci uttasati, napi bhāyāmi kassaci;",
+   "zh": "“无有人畏惧我，我亦不畏惧任何众生；",
+   "type": "verse",
+   "n": "113"
+  },
+  {
+   "idx": "s0512m.mul2.json:257",
+   "pali": "Mettābalenupatthaddho, ramāmi pavane tadā’’ti.",
+   "zh": "依慈爱的力量而得安住，那时我在林中怡然自乐。”",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:258",
+   "pali": "Suvaṇṇasāmacariyaṃ terasamaṃ.",
+   "zh": "睒子行第十三"
+  },
+  {
+   "idx": "s0512m.mul2.json:259",
+   "pali": "14. Ekarājacariyā",
+   "zh": "14. 独一王行"
+  },
+  {
+   "idx": "s0512m.mul2.json:260",
+   "pali": "‘‘Punāparaṃ yadā homi, ekarājāti vissuto;",
+   "zh": "“再后来，当我是一位以‘独一王’闻名的大王时，”",
+   "type": "verse",
+   "n": "114"
+  },
+  {
+   "idx": "s0512m.mul2.json:261",
+   "pali": "Paramaṃ sīlaṃ adhiṭṭhāya, pasāsāmi mahāmahiṃ.",
+   "zh": "我安住于无上的戒，统理广袤的大地。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:262",
+   "pali": "‘‘Dasa kusalakammapathe, vattāmi anavasesato;",
+   "zh": "“我毫无遗漏地行持十善业道；",
+   "type": "verse",
+   "n": "115"
+  },
+  {
+   "idx": "s0512m.mul2.json:263",
+   "pali": "Catūhi saṅgahavatthūhi, saṅgaṇhāmi mahājanaṃ.",
+   "zh": "以四种摄事，我摄受广大民众。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:264",
+   "pali": "‘‘Evaṃ me appamattassa, idha loke parattha ca;",
+   "zh": "“当我如此精勤不懈，为了今生与来世；",
+   "type": "verse",
+   "n": "116"
+  },
+  {
+   "idx": "s0512m.mul2.json:265",
+   "pali": "Dabbaseno upagantvā, acchindanto puraṃ mama.",
+   "zh": "达跋塞纳前来进犯，劫掠了我的都城。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:266",
+   "pali": "‘‘Rājūpajīve nigame, sabalaṭṭhe saraṭṭhake;",
+   "zh": "“都城中的官员、军士与百姓——",
+   "type": "verse",
+   "n": "117"
+  },
+  {
+   "idx": "s0512m.mul2.json:267",
+   "pali": "Sabbaṃ hatthagataṃ katvā, kāsuyā nikhaṇī mamaṃ.",
+   "zh": "他将一切夺为己有，便把我埋进坑里。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:268",
+   "pali": "‘‘Amaccamaṇḍalaṃ rajjaṃ, phītaṃ antepuraṃ mama;",
+   "zh": "“纵令有人强夺我的大臣、王位与丰饶后宫，",
+   "type": "verse",
+   "n": "118"
+  },
+  {
+   "idx": "s0512m.mul2.json:269",
+   "pali": "Acchinditvāna gahitaṃ, piyaṃ puttaṃva passahaṃ;",
+   "zh": "我视那抢夺者，犹如亲生爱子。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:270",
+   "pali": "Mettāya me samo natthi, esā me mettāpāramī’’ti.",
+   "zh": "我的慈心无人能比，此即我的慈爱波罗蜜。”",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:271",
+   "pali": "Ekarājacariyaṃ cuddasamaṃ.",
+   "zh": "独一王所行第十四"
+  },
+  {
+   "idx": "s0512m.mul2.json:272",
+   "pali": "15. Mahālomahaṃsacariyā",
+   "zh": "15. 大身毛竖立行"
+  },
+  {
+   "idx": "s0512m.mul2.json:273",
+   "pali": "‘‘Susāne seyyaṃ kappemi, chavaṭṭhikaṃ upanidhāyahaṃ;",
+   "zh": "“‘我于冢间设床铺，以尸骨为枕而卧；’",
+   "type": "verse",
+   "n": "119"
+  },
+  {
+   "idx": "s0512m.mul2.json:274",
+   "pali": "Gāmaṇḍalā upāgantvā, rūpaṃ dassentinappakaṃ.",
+   "zh": "村中无赖聚拢而来，对我做出种种嘲弄的姿态。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:275",
+   "pali": "‘‘Apare gandhamālañca, bhojanaṃ vividhaṃ bahuṃ;",
+   "zh": "另有人持香与花鬘，备办种种丰盛饮食；",
+   "type": "verse",
+   "n": "120"
+  },
+  {
+   "idx": "s0512m.mul2.json:276",
+   "pali": "Upāyanānūpanenti, haṭṭhā saṃviggamānasā.",
+   "zh": "满心踊跃，欢喜激奋，献上诸般供物。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:277",
+   "pali": "‘‘Ye me dukkhaṃ upaharanti, ye ca denti sukhaṃ mama;",
+   "zh": "“那些带给我痛苦的人，以及那些给予我快乐的人，",
+   "type": "verse",
+   "n": "121"
+  },
+  {
+   "idx": "s0512m.mul2.json:278",
+   "pali": "Sabbesaṃ samako homi, dayā kopo na vijjati.",
+   "zh": "我对他们全然等同看待，不存偏爱，亦无瞋怒。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:279",
+   "pali": "‘‘Sukhadukkhe tulābhūto, yasesu ayasesu ca;",
+   "zh": "“于快乐与痛苦，于荣誉与耻辱，我皆保持平衡，",
+   "type": "verse",
+   "n": "122"
+  },
+  {
+   "idx": "s0512m.mul2.json:280",
+   "pali": "Sabbattha samako homi, esā me upekkhāpāramī’’ti.",
+   "zh": "于一切处，我皆平等，这就是我的舍波罗蜜。”",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:281",
+   "pali": "Mahālomahaṃsacariyaṃ pannarasamaṃ.",
+   "zh": "大身毛竖立行 · 第十五"
+  },
+  {
+   "idx": "s0512m.mul2.json:282",
+   "pali": "Yudhañjayavaggo tatiyo.",
+   "zh": "第三·优檀阇耶品"
+  },
+  {
+   "idx": "s0512m.mul2.json:283",
+   "pali": "Tassuddānaṃ –",
+   "zh": "其摄颂："
+  },
+  {
+   "idx": "s0512m.mul2.json:284",
+   "pali": "Yudhañjayo somanasso, ayogharabhisena ca;",
+   "zh": "战捷者、悦意者，以及铁屋与莲藕的故事；",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:285",
+   "pali": "Soṇanando mūgapakkho, kapirājā saccasavhayo.",
+   "zh": "首那难达、默跛者、猴王，以及名为真言者的故事。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:286",
+   "pali": "Vaṭṭako maccharājā ca, kaṇhadīpāyano isi;",
+   "zh": "我曾为鹌鹑与鱼王，亦曾为黑岛仙人；",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:287",
+   "pali": "Sutasomo puna āsiṃ , sāmo ca ekarājahu;",
+   "zh": "我又曾为须陀素摩，也曾是沙摩与独一王；",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:288",
+   "pali": "Upekkhāpāramī āsi, iti vutthaṃ mahesinā.",
+   "zh": "此即舍波罗蜜的圆满，大圣如是宣说。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:289",
+   "pali": "Evaṃ bahubbidhaṃ dukkhaṃ, sampattī ca bahubbidhā ;",
+   "zh": "如此，我经历了种种苦楚，亦经历了种种圆满；",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:290",
+   "pali": "Bhavābhave anubhavitvā, patto sambodhimuttamaṃ.",
+   "zh": "历尽诸有生死，终证无上菩提；",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:291",
+   "pali": "Datvā dātabbakaṃ dānaṃ, sīlaṃ pūretvā asesato;",
+   "zh": "施与应施之施，圆满无余戒行。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:292",
+   "pali": "Nekkhamme pāramiṃ gantvā, patto sambodhimuttamaṃ.",
+   "zh": "我圆满成就了出离波罗蜜，证得无上正觉。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:293",
+   "pali": "Paṇḍite paripucchitvā, vīriyaṃ katvāna muttamaṃ;",
+   "zh": "我向智者请问，并付出最上的精进；",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:294",
+   "pali": "Khantiyā pāramiṃ gantvā, patto sambodhimuttamaṃ.",
+   "zh": "我圆满成就了忍耐波罗蜜，证得无上正觉。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:295",
+   "pali": "Katvā daḷhamadhiṭṭhānaṃ, saccavācānurakkhiya;",
+   "zh": "立下坚定的誓愿，守护真实之语。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:296",
+   "pali": "Mettāya pāramiṃ gantvā, patto sambodhimuttamaṃ.",
+   "zh": "圆满慈心波罗蜜，证得无上菩提。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:297",
+   "pali": "Lābhālābhe yasāyase, sammānanāvamānane;",
+   "zh": "于得失、荣辱、尊卑之中；",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:298",
+   "pali": "Sabbattha samako hutvā, patto sambodhimuttamaṃ.",
+   "zh": "于一切处平等安住，证得无上菩提。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:299",
+   "pali": "Kosajjaṃ bhayato disvā, vīriyārambhañca khemato;",
+   "zh": "视懈怠为怖畏，视精进为安稳；",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:300",
+   "pali": "Āraddhavīriyā hotha, esā buddhānusāsanī.",
+   "zh": "你们应当勤勉精进，这便是佛陀的教诫。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:301",
+   "pali": "Vivādaṃ bhayato disvā, avivādañca khemato;",
+   "zh": "见诤论为怖畏，见无诤为安稳；",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:302",
+   "pali": "Samaggā sakhilā hotha, esā buddhānusāsanī.",
+   "zh": "你们当和谐、友善，这是诸佛的教诫。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:303",
+   "pali": "Pamādaṃ bhayato disvā, appamādañca khemato;",
+   "zh": "见放逸为怖畏，不放逸为安稳；",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:304",
+   "pali": "Bhāvethaṭṭhaṅgikaṃ maggaṃ, esā buddhānusāsanī.",
+   "zh": "你们要修习八支圣道，这就是佛陀的教导。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0512m.mul2.json:305",
+   "pali": "Itthaṃ sudaṃ bhagavā attano pubbacariyaṃ sambhāvayamāno buddhāpadāniyaṃ nāma dhammapariyāyaṃ abhāsitthāti.",
+   "zh": "世尊正是这样，宣说自己过去世的修行时，开示了这部名为《佛所行德》的法门。",
+   "type": "text"
+  },
+  {
+   "idx": "s0512m.mul2.json:306",
+   "pali": "Cariyāpiṭakaṃ niṭṭhitaṃ.",
+   "zh": "《行藏》终",
+   "type": "colophon"
+  }
+ ]
+}

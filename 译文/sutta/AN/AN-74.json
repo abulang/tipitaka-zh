@@ -1,0 +1,309 @@
+{
+ "uid": 74,
+ "title": "1. 略说经",
+ "nik": "AN",
+ "segs": [
+  {
+   "idx": 0,
+   "pali": "(17) 2. Paṭipadāvaggo",
+   "zh": "2. 行道品"
+  },
+  {
+   "idx": 1,
+   "pali": "1. Saṃkhittasuttaṃ",
+   "zh": "1. [[saṃkhittasutta|略说经]]"
+  },
+  {
+   "idx": 2,
+   "pali": "‘‘Catasso imā, bhikkhave, paṭipadā. Katamā catasso? Dukkhā paṭipadā dandhābhiññā, dukkhā paṭipadā khippābhiññā, sukhā paṭipadā dandhābhiññā, sukhā paṭipadā khippābhiññā – imā kho, bhikkhave, catasso paṭipadā’’ti. Paṭhamaṃ.",
+   "zh": "“比丘们，有这四种行道。哪四种呢？苦行道迟通达、苦行道速通达、乐行道迟通达、乐行道速通达。比丘们，这就是四种行道。第一。”",
+   "n": "161"
+  },
+  {
+   "idx": 3,
+   "pali": "2. Vitthārasuttaṃ",
+   "zh": "2. [[vitthārasutta|详细经]]"
+  },
+  {
+   "idx": 4,
+   "pali": "‘‘Catasso imā, bhikkhave, paṭipadā. Katamā catasso? Dukkhā paṭipadā dandhābhiññā, dukkhā paṭipadā khippābhiññā, sukhā paṭipadā dandhābhiññā, sukhā paṭipadā khippābhiññā.",
+   "zh": "“诸比丘，有这四种行道。哪四种呢？苦行道迟通达、苦行道速通达、乐行道迟通达、乐行道速通达。”",
+   "n": "162"
+  },
+  {
+   "idx": 5,
+   "pali": "‘‘Katamā ca, bhikkhave, dukkhā paṭipadā dandhābhiññā? Idha, bhikkhave, ekacco pakatiyāpi tibbarāgajātiko hoti, abhikkhaṇaṃ rāgajaṃ dukkhaṃ domanassaṃ paṭisaṃvedeti. Pakatiyāpi tibbadosajātiko hoti, abhikkhaṇaṃ dosajaṃ dukkhaṃ domanassaṃ paṭisaṃvedeti. Pakatiyāpi tibbamohajātiko hoti, abhikkhaṇaṃ mohajaṃ dukkhaṃ domanassaṃ paṭisaṃvedeti. Tassimāni pañcindriyāni mudūni pātubhavanti – saddhindriyaṃ, vīriyindriyaṃ, satindriyaṃ, samādhindriyaṃ, paññindriyaṃ. So imesaṃ pañcannaṃ indriyānaṃ muduttā dandhaṃ ānantariyaṃ pāpuṇāti āsavānaṃ khayāya. Ayaṃ vuccati, bhikkhave, dukkhā paṭipadā dandhābhiññā.",
+   "zh": "“诸比丘，什么是苦行道迟通达？诸比丘，在此，有一类人生来贪欲极重，恒常感受由贪所生的苦与忧；生来嗔恚极重，恒常感受由嗔所生的苦与忧；生来愚痴极重，恒常感受由痴所生的苦与忧。他的信根、精进根、念根、定根、慧根这五根呈现为羸弱。由于这五根羸弱，他迟缓地证得无间定，以灭尽诸漏。诸比丘，这称为苦行道迟通达。"
+  },
+  {
+   "idx": 6,
+   "pali": "‘‘Katamā ca, bhikkhave, dukkhā paṭipadā khippābhiññā? Idha, bhikkhave, ekacco pakatiyāpi tibbarāgajātiko hoti, abhikkhaṇaṃ rāgajaṃ dukkhaṃ domanassaṃ paṭisaṃvedeti. Pakatiyāpi tibbadosajātiko hoti, abhikkhaṇaṃ dosajaṃ dukkhaṃ domanassaṃ paṭisaṃvedeti. Pakatiyāpi tibbamohajātiko hoti , abhikkhaṇaṃ mohajaṃ dukkhaṃ domanassaṃ paṭisaṃvedeti. Tassimāni pañcindriyāni adhimattāni pātubhavanti – saddhindriyaṃ, vīriyindriyaṃ, satindriyaṃ, samādhindriyaṃ, paññindriyaṃ. So imesaṃ pañcannaṃ indriyānaṃ adhimattattā khippaṃ ānantariyaṃ pāpuṇāti āsavānaṃ khayāya. Ayaṃ vuccati, bhikkhave, dukkhā paṭipadā khippābhiññā.",
+   "zh": "“诸比丘，什么是苦行道速通达？诸比丘，在此，有一类人生来贪欲极重，恒常感受由贪所生的苦与忧；生来嗔恚极重，恒常感受由嗔所生的苦与忧；生来愚痴极重，恒常感受由痴所生的苦与忧。他的信根、精进根、念根、定根、慧根这五根呈现为增上。由于这五根增上，他迅速地证得无间定，以灭尽诸漏。诸比丘，这称为苦行道速通达。"
+  },
+  {
+   "idx": 7,
+   "pali": "‘‘Katamā ca, bhikkhave, sukhā paṭipadā dandhābhiññā? Idha, bhikkhave, ekacco pakatiyāpi na tibbarāgajātiko hoti, nābhikkhaṇaṃ rāgajaṃ dukkhaṃ domanassaṃ paṭisaṃvedeti. Pakatiyāpi na tibbadosajātiko hoti, nābhikkhaṇaṃ dosajaṃ dukkhaṃ domanassaṃ paṭisaṃvedeti. Pakatiyāpi na tibbamohajātiko hoti, nābhikkhaṇaṃ mohajaṃ dukkhaṃ domanassaṃ paṭisaṃvedeti. Tassimāni pañcindriyāni mudūni pātubhavanti – saddhindriyaṃ…pe… paññindriyaṃ. So imesaṃ pañcannaṃ indriyānaṃ muduttā dandhaṃ ānantariyaṃ pāpuṇāti āsavānaṃ khayāya. Ayaṃ vuccati, bhikkhave, sukhā paṭipadā dandhābhiññā.",
+   "zh": "“诸比丘，什么是乐行道迟通达？在此，有一类人生性并非强贪者，不常领受由贪而生的苦与忧；生性并非强嗔者，不常领受由嗔而生的苦与忧；生性并非强痴者，不常领受由痴而生的苦与忧。他的这五根——信根、精进根、念根、定根、慧根——是软弱的。由于五根软弱，他渐次证得无间定，灭尽诸漏。诸比丘，这称为乐行道迟通达。"
+  },
+  {
+   "idx": 8,
+   "pali": "‘‘Katamā ca, bhikkhave, sukhā paṭipadā khippābhiññā? Idha, bhikkhave, ekacco pakatiyāpi na tibbarāgajātiko hoti, nābhikkhaṇaṃ rāgajaṃ dukkhaṃ domanassaṃ paṭisaṃvedeti. Pakatiyāpi na tibbadosajātiko hoti, nābhikkhaṇaṃ dosajaṃ dukkhaṃ domanassaṃ paṭisaṃvedeti. Pakatiyāpi na tibbamohajātiko hoti, nābhikkhaṇaṃ mohajaṃ dukkhaṃ domanassaṃ paṭisaṃvedeti. Tassimāni pañcindriyāni adhimattāni pātubhavanti – saddhindriyaṃ, vīriyindriyaṃ, satindriyaṃ, samādhindriyaṃ, paññindriyaṃ . So imesaṃ pañcannaṃ indriyānaṃ adhimattattā khippaṃ ānantariyaṃ pāpuṇāti āsavānaṃ khayāya. Ayaṃ vuccati, bhikkhave, sukhā paṭipadā khippābhiññā. Imā kho, bhikkhave, catasso paṭipadā’’ti. Dutiyaṃ.",
+   "zh": "“诸比丘，什么是乐行道速通达？在此，有一类人生性并非强贪者，不常领受由贪而生的苦与忧；生性并非强嗔者，不常领受由嗔而生的苦与忧；生性并非强痴者，不常领受由痴而生的苦与忧。他的这五根——信根、精进根、念根、定根、慧根——是增上的。由于五根增上，他迅速证得无间定，灭尽诸漏。诸比丘，这称为乐行道速通达。诸比丘，这便是四种行道。”第二。"
+  },
+  {
+   "idx": 9,
+   "pali": "3. Asubhasuttaṃ",
+   "zh": "3. [[asubhasutta|不净经]]"
+  },
+  {
+   "idx": 10,
+   "pali": "‘‘Catasso imā, bhikkhave, paṭipadā. Katamā catasso? Dukkhā paṭipadā dandhābhiññā, dukkhā paṭipadā khippābhiññā, sukhā paṭipadā dandhābhiññā, sukhā paṭipadā khippābhiññā.",
+   "zh": "“诸比丘，有这四种行道。哪四种呢？苦行道迟通达、苦行道速通达、乐行道迟通达、乐行道速通达。”",
+   "n": "163"
+  },
+  {
+   "idx": 11,
+   "pali": "‘‘Katamā ca, bhikkhave, dukkhā paṭipadā dandhābhiññā? Idha, bhikkhave, bhikkhu asubhānupassī kāye viharati, āhāre paṭikūlasaññī , sabbaloke anabhiratisaññī , sabbasaṅkhāresu aniccānupassī; maraṇasaññā kho panassa ajjhattaṃ sūpaṭṭhitā hoti. So imāni pañca sekhabalāni upanissāya viharati – saddhābalaṃ, hiribalaṃ, ottappabalaṃ, vīriyabalaṃ , paññābalaṃ. Tassimāni pañcindriyāni mudūni pātubhavanti – saddhindriyaṃ, vīriyindriyaṃ, satindriyaṃ, samādhindriyaṃ, paññindriyaṃ. So imesaṃ pañcannaṃ indriyānaṃ muduttā dandhaṃ ānantariyaṃ pāpuṇāti āsavānaṃ khayāya. Ayaṃ vuccati, bhikkhave, dukkhā paṭipadā dandhābhiññā.",
+   "zh": "“诸比丘，什么是苦行道而迟通达？诸比丘，于此，比丘于身观不净而住，于食作厌逆想，于一切世间作不喜乐想，于一切行随观无常；且死想于其内心善住立。他依止此五种有学力而住——信力、惭力、愧力、精进力、慧力。他的这五根现起为羸弱——信根、精进根、念根、定根、慧根。由于五根羸弱，他缓慢地证得无间[定]，以灭尽诸漏。诸比丘，这称为苦行道迟通达。"
+  },
+  {
+   "idx": 12,
+   "pali": "‘‘Katamā ca, bhikkhave, dukkhā paṭipadā khippābhiññā? Idha, bhikkhave, bhikkhu asubhānupassī kāye viharati, āhāre paṭikūlasaññī, sabbaloke anabhiratisaññī, sabbasaṅkhāresu aniccānupassī; maraṇasaññā kho panassa ajjhattaṃ sūpaṭṭhitā hoti. So imāni pañca sekhabalāni upanissāya viharati – saddhābalaṃ…pe… paññābalaṃ. Tassimāni pañcindriyāni adhimattāni pātubhavanti – saddhindriyaṃ…pe… paññindriyaṃ. So imesaṃ pañcannaṃ indriyānaṃ adhimattattā khippaṃ ānantariyaṃ pāpuṇāti āsavānaṃ khayāya. Ayaṃ vuccati, bhikkhave, dukkhā paṭipadā khippābhiññā.",
+   "zh": "“诸比丘，什么是苦行道而速通达？诸比丘，于此，比丘于身观不净而住，于食作厌逆想，于一切世间作不喜乐想，于一切行随观无常；且死想于其内心善住立。他依止此五种有学力而住——信力……（中略）……慧力。他的这五根现起为强盛——信根……（中略）……慧根。由于五根强盛，他快速地证得无间[定]，以灭尽诸漏。诸比丘，这称为苦行道速通达。"
+  },
+  {
+   "idx": 13,
+   "pali": "‘‘Katamā ca, bhikkhave, sukhā paṭipadā dandhābhiññā? Idha bhikkhave, bhikkhu vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṃ savicāraṃ vivekajaṃ pītisukhaṃ paṭhamaṃ jhānaṃ upasampajja viharati; vitakkavicārānaṃ vūpasamā ajjhattaṃ sampasādanaṃ cetaso ekodibhāvaṃ avitakkaṃ avicāraṃ samādhijaṃ pītisukhaṃ dutiyaṃ jhānaṃ upasampajja viharati; pītiyā ca virāgā upekkhako ca viharati sato ca sampajāno sukhañca kāyena paṭisaṃvedeti yaṃ taṃ ariyā ācikkhanti – ‘upekkhako satimā sukhavihārī’ti tatiyaṃ jhānaṃ upasampajja viharati; sukhassa ca pahānā dukkhassa ca pahānā pubbeva somanassadomanassānaṃ atthaṅgamā adukkhamasukhaṃ upekkhāsatipārisuddhiṃ catutthaṃ jhānaṃ upasampajja viharati. So imāni pañca sekhabalāni upanissāya viharati – saddhābalaṃ…pe… paññābalaṃ. Tassimāni pañcindriyāni mudūni pātubhavanti – saddhindriyaṃ…pe… paññindriyaṃ. So imesaṃ pañcannaṃ indriyānaṃ muduttā dandhaṃ ānantariyaṃ pāpuṇāti āsavānaṃ khayāya. Ayaṃ vuccati, bhikkhave, sukhā paṭipadā dandhābhiññā.",
+   "zh": "“诸比丘，什么是乐行道而迟通达？诸比丘，于此，比丘远离欲、远离不善法，有寻有伺，由远离而生起的喜与乐，进入并安住于初禅。随着寻与伺的止息，他内心清净，心趋一境，无寻无伺，由定生起的喜与乐，进入并安住于第二禅。随着喜的消退，他安住于舍，具念、正知，以身感受乐，正如圣者们所说：‘舍、念、乐住’，进入并安住于第三禅。由于舍断乐、舍断苦，并先前的喜与忧已灭没，他进入并安住于不苦不乐、舍念清净的第四禅。他依止此五种有学力而住——信力……（中略）……慧力。他的这五根现起为羸弱——信根……（中略）……慧根。由于五根羸弱，他缓慢地证得无间[定]，以灭尽诸漏。诸比丘，这称为乐行道迟通达。”"
+  },
+  {
+   "idx": 14,
+   "pali": "‘‘Katamā ca, bhikkhave, sukhā paṭipadā khippābhiññā? Idha, bhikkhave, bhikkhu vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṃ savicāraṃ vivekajaṃ pītisukhaṃ paṭhamaṃ jhānaṃ upasampajja viharati…pe… dutiyaṃ jhānaṃ…pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ upasampajja viharati. So imāni pañca sekhabalāni upanissāya viharati – saddhābalaṃ, hiribalaṃ, ottappabalaṃ, vīriyabalaṃ, paññābalaṃ. Tassimāni pañcindriyāni adhimattāni pātubhavanti – saddhindriyaṃ, vīriyindriyaṃ, satindriyaṃ, samādhindriyaṃ, paññindriyaṃ. So imesaṃ pañcannaṃ indriyānaṃ adhimattattā khippaṃ ānantariyaṃ pāpuṇāti āsavānaṃ khayāya. Ayaṃ vuccati, bhikkhave, sukhā paṭipadā khippābhiññā. Imā kho, bhikkhave, catasso paṭipadā’’ti. Tatiyaṃ.",
+   "zh": "“诸比丘，何等为乐行道速通达？诸比丘，于此，有比丘远离诸欲，远离不善法，有寻有伺，由离而生喜乐，具足住于初禅……（中略）……第二禅……（中略）……第三禅……（中略）……具足住于第四禅。他依止这五种学力而住：信力、惭力、愧力、精进力、慧力。他的这五根强盛而显现：信根、精进根、念根、定根、慧根。由于这五根的强盛，他迅速证入无间定，以灭尽诸漏。诸比丘，这称为乐行道速通达。诸比丘，这便是四种行道。第三经。”"
+  },
+  {
+   "idx": 15,
+   "pali": "4. Paṭhamakhamasuttaṃ",
+   "zh": "4. 第一[[paṭhamakhamasutta|堪忍经]]"
+  },
+  {
+   "idx": 16,
+   "pali": "‘‘Catasso imā, bhikkhave, paṭipadā. Katamā catasso? Akkhamā paṭipadā, khamā paṭipadā, damā paṭipadā, samā paṭipadā. Katamā ca, bhikkhave, akkhamā paṭipadā? Idha, bhikkhave, ekacco akkosantaṃ paccakkosati, rosantaṃ paṭirosati, bhaṇḍantaṃ paṭibhaṇḍati. Ayaṃ vuccati, bhikkhave, akkhamā paṭipadā.",
+   "zh": "“诸比丘，有此四种行道。哪四种？不忍行道、忍行道、调伏行道、寂静行道。诸比丘，何等为不忍行道？诸比丘，于此，有一类人，被人辱骂便回骂，被人恼怒便回怒，被人争论便回争。诸比丘，这便称为不忍行道。”",
+   "n": "164"
+  },
+  {
+   "idx": 17,
+   "pali": "‘‘Katamā ca, bhikkhave, khamā paṭipadā? Idha, bhikkhave, ekacco akkosantaṃ na paccakkosati, rosantaṃ na paṭirosati, bhaṇḍantaṃ na paṭibhaṇḍati. Ayaṃ vuccati, bhikkhave, khamā paṭipadā.",
+   "zh": "“诸比丘，什么是忍的行道？比丘们，在此，有人遭辱骂时不还骂，被激怒时不还怒，被诤论时不还诤。诸比丘，这便称为忍的行道。”"
+  },
+  {
+   "idx": 18,
+   "pali": "‘‘Katamā ca, bhikkhave, damā paṭipadā? Idha, bhikkhave, bhikkhu cakkhunā rūpaṃ disvā na nimittaggāhī hoti nānubyañjanaggāhī; yatvādhikaraṇamenaṃ cakkhundriyaṃ asaṃvutaṃ viharantaṃ abhijjhādomanassā pāpakā akusalā dhammā anvāssaveyyuṃ, tassa saṃvarāya paṭipajjati; rakkhati cakkhundriyaṃ; cakkhundriye saṃvaraṃ āpajjati. Sotena saddaṃ sutvā… ghānena gandhaṃ ghāyitvā… jivhāya rasaṃ sāyitvā… kāyena phoṭṭhabbaṃ phusitvā… manasā dhammaṃ viññāya na nimittaggāhī hoti nānubyañjanaggāhī; yatvādhikaraṇamenaṃ manindriyaṃ asaṃvutaṃ viharantaṃ abhijjhādomanassā pāpakā akusalā dhammā anvāssaveyyuṃ, tassa saṃvarāya paṭipajjati ; rakkhati manindriyaṃ; manindriye saṃvaraṃ āpajjati. Ayaṃ vuccati, bhikkhave, damā paṭipadā.",
+   "zh": "“诸比丘，什么是调伏的行道？比丘们，在此，比丘眼见色后，不取于相，不取于随相；因他若于眼根不防护而住，贪忧、恶不善法便会流注，为此他行道防护眼根，守护眼根，于眼根得防护。耳闻声已……鼻嗅香已……舌尝味已……身触触已……意了法已，不取于相，不取于随相；因他若于意根不防护而住，贪忧、恶不善法便会流注，为此他行道防护意根，守护意根，于意根得防护。诸比丘，这便称为调伏的行道。”"
+  },
+  {
+   "idx": 19,
+   "pali": "‘‘Katamā ca, bhikkhave, samā paṭipadā? Idha, bhikkhave, bhikkhu uppannaṃ kāmavitakkaṃ nādhivāseti pajahati vinodeti sameti byantīkaroti anabhāvaṃ gameti; uppannaṃ byāpādavitakkaṃ…pe… uppannaṃ vihiṃsāvitakkaṃ… uppannuppanne pāpake akusale dhamme nādhivāseti pajahati vinodeti sameti byantīkaroti anabhāvaṃ gameti. Ayaṃ vuccati, bhikkhave, samā paṭipadā. Imā kho, bhikkhave, catasso paṭipadā’’ti. Catutthaṃ.",
+   "zh": "“诸比丘，什么是寂静的行道？比丘们，在此，比丘对已生起的欲寻，不予容忍，而将其舍断、驱除、止息、灭尽，令归于无有；对已生起的嗔恚寻……对已生起的害寻……对已生起的任何恶不善法，不予容忍，而将其舍断、驱除、止息、灭尽，令归于无有。诸比丘，这便称为寂静的行道。诸比丘，这便是四种的行道。”第四经。"
+  },
+  {
+   "idx": 20,
+   "pali": "5. Dutiyakhamasuttaṃ",
+   "zh": "5. [[dutiyakhamasutta|第二堪忍经]]"
+  },
+  {
+   "idx": 21,
+   "pali": "‘‘Catasso imā, bhikkhave, paṭipadā. Katamā catasso? Akkhamā paṭipadā, khamā paṭipadā, damā paṭipadā, samā paṭipadā.",
+   "zh": "“诸比丘，有这四种行道。哪四种？不忍行道、忍行道、调伏行道、寂静行道。”",
+   "n": "165"
+  },
+  {
+   "idx": 22,
+   "pali": "‘‘Katamā ca, bhikkhave, akkhamā paṭipadā? Idha, bhikkhave, ekacco akkhamo hoti sītassa uṇhassa jighacchāya pipāsāya, ḍaṃsamakasavātātapasarīsapasamphassānaṃ duruttānaṃ durāgatānaṃ vacanapathānaṃ uppannānaṃ sārīrikānaṃ vedanānaṃ dukkhānaṃ tibbānaṃ kharānaṃ kaṭukānaṃ asātānaṃ amanāpānaṃ pāṇaharānaṃ anadhivāsakajātiko hoti. Ayaṃ vuccati, bhikkhave, akkhamā paṭipadā .",
+   "zh": "“诸比丘，什么是不忍行道？在此，有人不堪忍寒冷、炎热、饥饿、干渴；不堪忍蚊虻、风吹、烈日、爬虫的接触；不堪忍恶语、粗暴的言语；对于已生起的身体的感受——苦的、剧烈的、粗重的、辛辣的、不可意的、不合意的、几近夺命的——他不堪忍，不具忍辱的品质。诸比丘，这便称为不忍行道。"
+  },
+  {
+   "idx": 23,
+   "pali": "‘‘Katamā ca, bhikkhave, khamā paṭipadā? Idha, bhikkhave, ekacco khamo hoti sītassa uṇhassa jighacchāya pipāsāya, ḍaṃsamakasavātātapasarīsapasamphassānaṃ duruttānaṃ durāgatānaṃ vacanapathānaṃ uppannānaṃ sārīrikānaṃ vedanānaṃ dukkhānaṃ tibbānaṃ kharānaṃ kaṭukānaṃ asātānaṃ amanāpānaṃ pāṇaharānaṃ adhivāsakajātiko hoti. Ayaṃ vuccati, bhikkhave, khamā paṭipadā.",
+   "zh": "“诸比丘，什么是忍行道？诸比丘，于此，有人能忍受寒冷、炎热、饥饿、干渴，忍受虻蚊叮咬、风吹日晒、爬虫的触扰，忍受粗言恶语，对于已生起的身体诸苦受——剧烈、粗重、刺痛、不可意、不悦意乃至危及性命的感受，他都能一一安忍。诸比丘，这便称为忍行道。"
+  },
+  {
+   "idx": 24,
+   "pali": "‘‘Katamā ca, bhikkhave, damā paṭipadā? Idha, bhikkhave, bhikkhu cakkhunā rūpaṃ disvā na nimittaggāhī hoti…pe… sotena saddaṃ sutvā… ghānena gandhaṃ ghāyitvā… jivhāya rasaṃ sāyitvā… kāyena phoṭṭhabbaṃ phusitvā… manasā dhammaṃ viññāya na nimittaggāhī hoti nānubyañjanaggāhī; yatvādhikaraṇamenaṃ manindriyaṃ asaṃvutaṃ viharantaṃ abhijjhādomanassā pāpakā akusalā dhammā anvāssaveyyuṃ, tassa saṃvarāya paṭipajjati; rakkhati manindriyaṃ; manindriye saṃvaraṃ āpajjati. Ayaṃ vuccati, bhikkhave, damā paṭipadā.",
+   "zh": "“诸比丘，什么是调伏之道？诸比丘，于此，比丘以眼见色后，不执取相……以耳闻声后……以鼻嗅香后……以舌尝味后……以身触所触后……以意知法后，不执取相，不执取随相。若依不防护意根而安住，贪忧与不善法便会从中流入；他为防护此因而行道，守护意根，达致意根的防护。诸比丘，这便称为调伏之道。"
+  },
+  {
+   "idx": 25,
+   "pali": "‘‘Katamā ca, bhikkhave, samā paṭipadā? Idha, bhikkhave, bhikkhu uppannaṃ kāmavitakkaṃ nādhivāseti pajahati vinodeti sameti byantīkaroti anabhāvaṃ gameti, uppannaṃ byāpādavitakkaṃ…pe… uppannaṃ vihiṃsāvitakkaṃ… uppannuppanne pāpake akusale dhamme nādhivāseti pajahati vinodeti sameti byantīkaroti anabhāvaṃ gameti. Ayaṃ vuccati, bhikkhave, samā paṭipadā. Imā kho, bhikkhave, catasso paṭipadā’’ti. Pañcamaṃ.",
+   "zh": "“诸比丘，什么是寂止之道？诸比丘，于此，比丘对已生的欲寻不容忍，将之舍断、驱除、令平息、令灭尽、令无有；对已生的嗔恚寻……对已生的害寻……对已生起乃至反复生起的诸恶不善法，他不容忍，将之舍断、驱除、令平息、令灭尽、令无有。诸比丘，这便称为寂止之道。诸比丘，这即是四种行道。”第五经。"
+  },
+  {
+   "idx": 26,
+   "pali": "6. Ubhayasuttaṃ",
+   "zh": "6. [[ubhayasutta|双经]]"
+  },
+  {
+   "idx": 27,
+   "pali": "‘‘Catasso imā, bhikkhave, paṭipadā. Katamā catasso? Dukkhā paṭipadā dandhābhiññā, dukkhā paṭipadā khippābhiññā, sukhā paṭipadā dandhābhiññā, sukhā paṭipadā khippābhiññā.",
+   "zh": "“诸比丘，有这四种行道。哪四种呢？苦行道迟通达、苦行道速通达、乐行道迟通达、乐行道速通达。”",
+   "n": "166"
+  },
+  {
+   "idx": 28,
+   "pali": "‘‘Tatra , bhikkhave, yāyaṃ paṭipadā dukkhā dandhābhiññā, ayaṃ, bhikkhave, paṭipadā ubhayeneva hīnā akkhāyati. Yampāyaṃ paṭipadā dukkhā, imināpāyaṃ hīnā akkhāyati; yampāyaṃ paṭipadā dandhā, imināpāyaṃ hīnā akkhāyati. Ayaṃ, bhikkhave, paṭipadā ubhayeneva hīnā akkhāyati.",
+   "zh": "“诸比丘，其中，这条苦行道而迟通达的行道，从两方面被称为下劣。诸比丘，因为这条行道是苦的，由此被称为下劣；因为这条行道是迟的，由此被称为下劣。诸比丘，这条行道便是这样从两方面被称为下劣。”"
+  },
+  {
+   "idx": 29,
+   "pali": "‘‘Tatra, bhikkhave, yāyaṃ paṭipadā dukkhā khippābhiññā, ayaṃ, bhikkhave, paṭipadā dukkhattā hīnā akkhāyati.",
+   "zh": "“诸比丘，在此，那种苦行道而速得通达的行道，因其苦性而被称为劣。”"
+  },
+  {
+   "idx": 30,
+   "pali": "‘‘Tatra , bhikkhave, yāyaṃ paṭipadā sukhā dandhābhiññā, ayaṃ, bhikkhave, paṭipadā dandhattā hīnā akkhāyati.",
+   "zh": "“诸比丘，在此，那种乐行道而迟得通达的行道，因其迟滞性而被称为劣。”"
+  },
+  {
+   "idx": 31,
+   "pali": "‘‘Tatra, bhikkhave, yāyaṃ paṭipadā sukhā khippābhiññā, ayaṃ, bhikkhave, paṭipadā ubhayeneva paṇītā akkhāyati. Yampāyaṃ paṭipadā sukhā, imināpāyaṃ paṇītā akkhāyati; yampāyaṃ paṭipadā khippā, imināpāyaṃ paṇītā akkhāyati. Ayaṃ, bhikkhave, paṭipadā ubhayeneva paṇītā akkhāyati. Imā kho, bhikkhave, catasso paṭipadā’’ti. Chaṭṭhaṃ.",
+   "zh": "“诸比丘，在此，那种乐行道而速得通达的行道，以此两者而被称为殊胜。以此行道为乐，故被称为殊胜；以此行道速得通达，故被称为殊胜。诸比丘，此行道以此两者而被称为殊胜。诸比丘，这便是四种行道。”第六经。"
+  },
+  {
+   "idx": 32,
+   "pali": "7. Mahāmoggallānasuttaṃ",
+   "zh": "7. [[mahāmoggallānasutta|大目犍连经]]"
+  },
+  {
+   "idx": 33,
+   "pali": "Atha kho āyasmā sāriputto yenāyasmā mahāmoggallāno tenupasaṅkami; upasaṅkamitvā āyasmatā mahāmoggallānena saddhiṃ sammodi. Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdi . Ekamantaṃ nisinno kho āyasmā sāriputto āyasmantaṃ mahāmoggallānaṃ etadavoca –",
+   "zh": "那时，[[Sāriputta|舍利弗]]尊者前往[[mahāmoggallāna|大目犍连]]尊者处；到了之后，与[[mahāmoggallāna|大目犍连]]尊者互相问候。彼此欣喜交谈，互叙令人忆念的话语后，在一旁坐下。坐在一旁的[[Sāriputta|舍利弗]]尊者对[[mahāmoggallāna|大目犍连]]尊者这样说：",
+   "n": "167"
+  },
+  {
+   "idx": 34,
+   "pali": "‘‘Catasso imā, āvuso moggallāna, paṭipadā. Katamā catasso? Dukkhā paṭipadā dandhābhiññā, dukkhā paṭipadā khippābhiññā, sukhā paṭipadā dandhābhiññā, sukhā paṭipadā khippābhiññā. Imā kho, āvuso, catasso paṭipadā . Imāsaṃ, āvuso, catunnaṃ paṭipadānaṃ katamaṃ te paṭipadaṃ āgamma anupādāya āsavehi cittaṃ vimutta’’nti?",
+   "zh": "“贤友[[moggallāna|目犍连]]，有这四种行道。哪四种？苦行道迟通达，苦行道速通达，乐行道迟通达，乐行道速通达。贤友，这就是四种行道。贤友，你依这四种行道中的哪一种行道，心得无取，从诸漏解脱？”"
+  },
+  {
+   "idx": 35,
+   "pali": "‘‘Catasso imā, āvuso sāriputta, paṭipadā. Katamā catasso? Dukkhā paṭipadā dandhābhiññā, dukkhā paṭipadā khippābhiññā, sukhā paṭipadā dandhābhiññā, sukhā paṭipadā khippābhiññā. Imā kho, āvuso, catasso paṭipadā . Imāsaṃ, āvuso, catunnaṃ paṭipadānaṃ yāyaṃ paṭipadā dukkhā khippābhiññā, imaṃ me paṭipadaṃ āgamma anupādāya āsavehi cittaṃ vimutta’’nti. Sattamaṃ.",
+   "zh": "“贤友[[Sāriputta|舍利弗]]，有这四种行道。哪四种呢？苦行道而通达迟慢，苦行道而通达迅速，乐行道而通达迟慢，乐行道而通达迅速。贤友，这便是四种行道。贤友，在这四种行道中，依这一种苦行道而通达迅速的行道，我的心已无取著，从诸漏中解脱。”第七经。"
+  },
+  {
+   "idx": 36,
+   "pali": "8. Sāriputtasuttaṃ",
+   "zh": "8. [[sāriputtasutta|舍利弗经]]"
+  },
+  {
+   "idx": 37,
+   "pali": "Atha kho āyasmā mahāmoggallāno yenāyasmā sāriputto tenupasaṅkami; upasaṅkamitvā āyasmatā sāriputtena saddhiṃ sammodi. Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho āyasmā mahāmoggallāno āyasmantaṃ sāriputtaṃ etadavoca –",
+   "zh": "那时，具寿[[mahāmoggallāna|大目犍连]]来到具寿舍利弗处，彼此亲切地问候。交换完亲切、值得忆念的话语后，他在一旁坐下。在一旁坐下的具寿[[mahāmoggallāna|大目犍连]]，对具寿舍利弗这样说：",
+   "n": "168"
+  },
+  {
+   "idx": 38,
+   "pali": "‘‘Catasso imā, āvuso sāriputta, paṭipadā. Katamā catasso? Dukkhā paṭipadā dandhābhiññā, dukkhā paṭipadā khippābhiññā, sukhā paṭipadā dandhābhiññā, sukhā paṭipadā khippābhiññā. Imā kho, āvuso, catasso paṭipadā. Imāsaṃ, āvuso, catunnaṃ paṭipadānaṃ katamaṃ te paṭipadaṃ āgamma anupādāya āsavehi cittaṃ vimutta’’nti?",
+   "zh": "“贤友[[Sāriputta|舍利弗]]，有四种行道。哪四种？苦行道而迟证智、苦行道而速证智、乐行道而迟证智、乐行道而速证智。贤友，这便是四种行道。贤友，你依这四种行道中的哪一种，无取著而从诸漏心得解脱呢？”"
+  },
+  {
+   "idx": 39,
+   "pali": "‘‘Catasso imā, āvuso moggallāna, paṭipadā. Katamā catasso? Dukkhā paṭipadā dandhābhiññā, dukkhā paṭipadā khippābhiññā, sukhā paṭipadā dandhābhiññā, sukhā paṭipadā khippābhiññā. Imā kho, āvuso, catasso paṭipadā. Imāsaṃ, āvuso, catunnaṃ paṭipadānaṃ yāyaṃ paṭipadā sukhā khippābhiññā, imaṃ me paṭipadaṃ āgamma anupādāya āsavehi cittaṃ vimutta’’nti. Aṭṭhamaṃ.",
+   "zh": "“贤友[[moggallāna|目犍连]]，有四种行道。哪四种？苦行道而迟证智、苦行道而速证智、乐行道而迟证智、乐行道而速证智。贤友，这便是四种行道。贤友，这四种行道中，那乐行道而速证智的一种，我便依此而行，无取著而心得解脱诸漏。第八经。"
+  },
+  {
+   "idx": 40,
+   "pali": "9. Sasaṅkhārasuttaṃ",
+   "zh": "9. [[sasaṅkhārasutta|有行经]]"
+  },
+  {
+   "idx": 41,
+   "pali": "‘‘Cattārome, bhikkhave, puggalā santo saṃvijjamānā lokasmiṃ. Katame cattāro? Idha, bhikkhave, ekacco puggalo diṭṭheva dhamme sasaṅkhāraparinibbāyī hoti. Idha pana, bhikkhave, ekacco puggalo kāyassa bhedā sasaṅkhāraparinibbāyī hoti. Idha pana, bhikkhave, ekacco puggalo diṭṭheva dhamme asaṅkhāraparinibbāyī hoti. Idha pana, bhikkhave, ekacco puggalo kāyassa bhedā asaṅkhāraparinibbāyī hoti.",
+   "zh": "“诸比丘，世间有这四种补特伽罗存在。哪四种？诸比丘，有一类补特伽罗，于现法有行般涅槃；诸比丘，有一类补特伽罗，于身坏时有行般涅槃；诸比丘，有一类补特伽罗，于现法无行般涅槃；诸比丘，有一类补特伽罗，于身坏时无行般涅槃。",
+   "n": "169"
+  },
+  {
+   "idx": 42,
+   "pali": "‘‘Kathañca, bhikkhave, puggalo diṭṭheva dhamme sasaṅkhāraparinibbāyī hoti? Idha, bhikkhave, bhikkhu asubhānupassī kāye viharati, āhāre paṭikūlasaññī, sabbaloke anabhiratisaññī, sabbasaṅkhāresu aniccānupassī. Maraṇasaññā kho panassa ajjhattaṃ sūpaṭṭhitā hoti. So imāni pañca sekhabalāni upanissāya viharati – saddhābalaṃ, hiribalaṃ, ottappabalaṃ, vīriyabalaṃ, paññābalaṃ . Tassimāni pañcindriyāni adhimattāni pātubhavanti – saddhindriyaṃ, vīriyindriyaṃ, satindriyaṃ, samādhindriyaṃ, paññindriyaṃ. So imesaṃ pañcannaṃ indriyānaṃ adhimattattā diṭṭheva dhamme sasaṅkhāraparinibbāyī hoti. Evaṃ kho, bhikkhave, puggalo diṭṭheva dhamme sasaṅkhāraparinibbāyī hoti.",
+   "zh": "“诸比丘，怎样的补特伽罗是于现法有行般涅槃者？诸比丘，在此，有比丘安住于身随观不净，于食生起厌逆想，于一切世间生起不乐想，于一切行随观无常。死想于其内心善加安立。他依止这五种有学力而住，即：信力、惭力、愧力、精进力、慧力。他的这五根——信根、精进根、念根、定根、慧根——是强盛的。由于这五根的强盛，他于现法有行般涅槃。诸比丘，这就是于现法有行般涅槃的补特伽罗。"
+  },
+  {
+   "idx": 43,
+   "pali": "‘‘Kathañca, bhikkhave, puggalo kāyassa bhedā sasaṅkhāraparinibbāyī hoti? Idha, bhikkhave, bhikkhu asubhānupassī kāye viharati, āhāre paṭikūlasaññī, sabbaloke anabhiratisaññī, sabbasaṅkhāresu aniccānupassī. Maraṇasaññā kho panassa ajjhattaṃ sūpaṭṭhitā hoti. So imāni pañca sekhabalāni upanissāya viharati – saddhābalaṃ, hiribalaṃ, ottappabalaṃ, vīriyabalaṃ, paññābalaṃ. Tassimāni pañcindriyāni mudūni pātubhavanti – saddhindriyaṃ, vīriyindriyaṃ, satindriyaṃ, samādhindriyaṃ, paññindriyaṃ. So imesaṃ pañcannaṃ indriyānaṃ muduttā kāyassa bhedā sasaṅkhāraparinibbāyī hoti. Evaṃ kho, bhikkhave, puggalo kāyassa bhedā sasaṅkhāraparinibbāyī hoti.",
+   "zh": "“诸比丘，怎样的补特伽罗是于身坏时有行般涅槃者？诸比丘，在此，有比丘安住于身随观不净，于食生起厌逆想，于一切世间生起不乐想，于一切行随观无常。死想于其内心善加安立。他依止这五种有学力而住，即：信力、惭力、愧力、精进力、慧力。他的这五根——信根、精进根、念根、定根、慧根——是软弱的。由于这五根的软弱，他于身坏时有行般涅槃。诸比丘，这就是于身坏时有行般涅槃的补特伽罗。"
+  },
+  {
+   "idx": 44,
+   "pali": "‘‘Kathañca, bhikkhave, puggalo diṭṭheva dhamme asaṅkhāraparinibbāyī hoti? Idha, bhikkhave, bhikkhu vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ…pe… dutiyaṃ jhānaṃ…pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ upasampajja viharati. So imāni pañca sekhabalāni upanissāya viharati – saddhābalaṃ…pe… paññābalaṃ. Tassimāni pañcindriyāni adhimattāni pātubhavanti – saddhindriyaṃ…pe… paññindriyaṃ. So imesaṃ pañcannaṃ indriyānaṃ adhimattattā diṭṭheva dhamme asaṅkhāraparinibbāyī hoti. Evaṃ kho, bhikkhave, puggalo diṭṭheva dhamme asaṅkhāraparinibbāyī hoti.",
+   "zh": "“诸比丘，怎样的补特伽罗是于现法中无行般涅槃者？诸比丘，在此，比丘离诸欲……（中略）……证入初禅……（中略）……第二禅……第三禅……第四禅而住。他依止此五种有学力而住——信力……（中略）……慧力。他的这五根增上明显——信根……（中略）……慧根。以此五根增上故，他于现法中无行般涅槃。诸比丘，这便是于现法中无行般涅槃的补特伽罗。"
+  },
+  {
+   "idx": 45,
+   "pali": "‘‘Kathañca, bhikkhave, puggalo kāyassa bhedā asaṅkhāraparinibbāyī hoti? Idha, bhikkhave , bhikkhu vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ…pe… dutiyaṃ jhānaṃ…pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ upasampajja viharati. So imāni pañca sekhabalāni upanissāya viharati – saddhābalaṃ, hiribalaṃ, ottappabalaṃ, vīriyabalaṃ, paññābalaṃ. Tassimāni pañcindriyāni…pe… paññindriyaṃ. So imesaṃ pañcannaṃ indriyānaṃ muduttā kāyassa bhedā asaṅkhāraparinibbāyī hoti. Evaṃ kho, bhikkhave, puggalo kāyassa bhedā asaṅkhāraparinibbāyī hoti. Ime kho, bhikkhave, cattāro puggalā santo saṃvijjamānā lokasmi’’nti. Navamaṃ.",
+   "zh": "“诸比丘，怎样的补特伽罗是于身坏时无行般涅槃者？诸比丘，在此，比丘离诸欲……（中略）……证入初禅……第二禅……第三禅……第四禅而住。他依止此五种有学力而住——信力、惭力、愧力、精进力、慧力。他的这五根……（中略）……慧根。以此五根软弱故，他于身坏时无行般涅槃。诸比丘，这便是于身坏时无行般涅槃的补特伽罗。诸比丘，这四种补特伽罗存在于世间，出现于世间。”第九经。"
+  },
+  {
+   "idx": 46,
+   "pali": "10. Yuganaddhasuttaṃ",
+   "zh": "10. [[yuganaddhasutta|双连经]]"
+  },
+  {
+   "idx": 47,
+   "pali": "Evaṃ me sutaṃ – ekaṃ samayaṃ āyasmā ānando kosambiyaṃ viharati ghositārāme. Tatra kho āyasmā ānando bhikkhū āmantesi – ‘‘āvuso bhikkhave’’ti. ‘‘Āvuso’’ti kho te bhikkhū āyasmato ānandassa paccassosuṃ. Āyasmā ānando etadavoca –",
+   "zh": "如是我闻：一时，具寿[[ānanda|阿难]]住在[[kosambī|憍赏弥]]城的瞿师罗。在那里，具寿[[ānanda|阿难]]召唤诸比丘：“诸比丘，贤友们！”那些比丘回应具寿[[ānanda|阿难]]：“贤友！”具寿[[ānanda|阿难]]便这样说道：",
+   "n": "170"
+  },
+  {
+   "idx": 48,
+   "pali": "‘‘Yo hi koci, āvuso, bhikkhu vā bhikkhunī vā mama santike arahattappattiṃ byākaroti, sabbo so catūhi maggehi, etesaṃ vā aññatarena.",
+   "zh": "“贤友，任何比丘或比丘尼在我面前宣说证得阿拉汉果，无一不是由这四道，或由其中的某一道而证得。"
+  },
+  {
+   "idx": 49,
+   "pali": "‘‘Katamehi catūhi? Idha, āvuso, bhikkhu samathapubbaṅgamaṃ vipassanaṃ bhāveti. Tassa samathapubbaṅgamaṃ vipassanaṃ bhāvayato maggo sañjāyati. So taṃ maggaṃ āsevati bhāveti bahulīkaroti. Tassa taṃ maggaṃ āsevato bhāvayato bahulīkaroto saṃyojanāni pahīyanti, anusayā byantīhonti.",
+   "zh": "“哪四种呢？贤友，在此，比丘修习以止为先导的观。当他修习以止为先导的观时，圣道生起。他依止那道、修习它、多修习它。当他依止、修习、多修习那圣道时，诸结便得以断除，随眠得以根除。"
+  },
+  {
+   "idx": 50,
+   "pali": "‘‘Puna caparaṃ, āvuso, bhikkhu vipassanāpubbaṅgamaṃ samathaṃ bhāveti. Tassa vipassanāpubbaṅgamaṃ samathaṃ bhāvayato maggo sañjāyati. So taṃ maggaṃ āsevati bhāveti bahulīkaroti . Tassa taṃ maggaṃ āsevato bhāvayato bahulīkaroto saṃyojanāni pahīyanti, anusayā byantīhonti.",
+   "zh": "“再者，贤友，比丘修习以观为先导的止。当他修习以观为先导的止时，道便生起。他依此道修习、多修习、遍修习。当他依此道修习、多修习、遍修习时，诸结悉断，随眠灭尽。"
+  },
+  {
+   "idx": 51,
+   "pali": "‘‘Puna caparaṃ, āvuso, bhikkhu samathavipassanaṃ yuganaddhaṃ bhāveti. Tassa samathavipassanaṃ yuganaddhaṃ bhāvayato maggo sañjāyati. So taṃ maggaṃ āsevati bhāveti bahulīkaroti. Tassa taṃ maggaṃ āsevato bhāvayato bahulīkaroto saṃyojanāni pahīyanti, anusayā byantīhonti.",
+   "zh": "“再者，贤友，比丘修习止观双运。当他修习止观双运时，道便生起。他依此道修习、多修习、遍修习。当他依此道修习、多修习、遍修习时，诸结悉断，随眠灭尽。"
+  },
+  {
+   "idx": 52,
+   "pali": "‘‘Puna caparaṃ, āvuso, bhikkhuno dhammuddhaccaviggahitaṃ mānasaṃ hoti. Hoti so, āvuso, samayo yaṃ taṃ cittaṃ ajjhattameva santiṭṭhati sannisīdati ekodi hoti samādhiyati. Tassa maggo sañjāyati. So taṃ maggaṃ āsevati bhāveti bahulīkaroti. Tassa taṃ maggaṃ āsevato bhāvayato bahulīkaroto saṃyojanāni pahīyanti, anusayā byantīhonti.",
+   "zh": "“再者，贤友，比丘的心被法掉举所占据。贤友，当有那个时候，那心于内便平静、安住、专一而入定。他的道便生起。他依此道修习、多修习、遍修习。当他依此道修习、多修习、遍修习时，诸结悉断，随眠灭尽。"
+  },
+  {
+   "idx": 53,
+   "pali": "‘‘Yo hi koci, āvuso, bhikkhu vā bhikkhunī vā mama santike arahattappattiṃ byākaroti, sabbo so imehi catūhi maggehi, etesaṃ vā aññatarenā’’ti. Dasamaṃ.",
+   "zh": "“贤友，任何比丘或比丘尼于我面前记说得阿拉汉者，皆由此四道，或其中一道而证得。”第十经。"
+  },
+  {
+   "idx": 54,
+   "pali": "Paṭipadāvaggo dutiyo.",
+   "zh": "道品第二"
+  },
+  {
+   "idx": 55,
+   "pali": "Tassuddānaṃ –",
+   "zh": "其摄颂："
+  },
+  {
+   "idx": 56,
+   "pali": "Saṃkhittaṃ vitthārāsubhaṃ, dve khamā ubhayena ca;",
+   "zh": "略说不净、广说不净，二种堪忍与两者俱；",
+   "type": "verse"
+  },
+  {
+   "idx": 57,
+   "pali": "Moggallāno sāriputto, sasaṅkhāraṃ yuganaddhena cāti.",
+   "zh": "[[moggallāna|目犍连]]与[[Sāriputta|舍利弗]]，有行与双运。",
+   "type": "verse"
+  }
+ ]
+}

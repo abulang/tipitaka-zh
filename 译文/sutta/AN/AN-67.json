@@ -1,0 +1,318 @@
+{
+  "uid": 67,
+  "title": "1. 阿修罗经",
+  "nik": "AN",
+  "segs": [
+    {
+      "idx": 0,
+      "pali": "(10) 5. Asuravaggo",
+      "zh": "（10） 5. 阿修罗品"
+    },
+    {
+      "idx": 1,
+      "pali": "1. Asurasuttaṃ",
+      "zh": "1. [[asurasutta|阿修罗经]]"
+    },
+    {
+      "idx": 2,
+      "pali": "‘‘Cattārome , bhikkhave, puggalā santo saṃvijjamānā lokasmiṃ. Katame cattāro? Asuro asuraparivāro, asuro devaparivāro, devo asuraparivāro, devo devaparivāro.",
+      "zh": "“诸比丘，世间有此四种补特伽罗，存在、可见。哪四种？阿修罗而有阿修罗眷属，阿修罗而有天眷属，天而有阿修罗眷属，天而有天眷属。",
+      "n": "91"
+    },
+    {
+      "idx": 3,
+      "pali": "‘‘Kathañca , bhikkhave, puggalo asuro hoti asuraparivāro? Idha, bhikkhave, ekacco puggalo dussīlo hoti pāpadhammo, parisāpissa hoti dussīlā pāpadhammā. Evaṃ kho, bhikkhave, puggalo asuro hoti asuraparivāro.",
+      "zh": "“诸比丘，怎样是阿修罗而有阿修罗眷属的补特伽罗？诸比丘，在此，有一种人破戒、有恶法，他的徒众也是破戒、有恶法。诸比丘，如此便是阿修罗而有阿修罗眷属的补特伽罗。"
+    },
+    {
+      "idx": 4,
+      "pali": "‘‘Kathañca, bhikkhave, puggalo asuro hoti devaparivāro? Idha, bhikkhave, ekacco puggalo dussīlo hoti pāpadhammo, parisā ca khvassa hoti sīlavatī kalyāṇadhammā. Evaṃ kho, bhikkhave, puggalo asuro hoti devaparivāro.",
+      "zh": "“诸比丘，怎样是阿修罗而有天眷属的补特伽罗？诸比丘，在此，有一种人破戒、有恶法，他的徒众却是持戒、有善法。诸比丘，如此便是阿修罗而有天眷属的补特伽罗。"
+    },
+    {
+      "idx": 5,
+      "pali": "‘‘Kathañca, bhikkhave, puggalo devo hoti asuraparivāro? Idha , bhikkhave, ekacco puggalo sīlavā hoti kalyāṇadhammo, parisā ca khvassa hoti dussīlā pāpadhammā. Evaṃ kho, bhikkhave, puggalo devo hoti asuraparivāro.",
+      "zh": "“诸比丘，怎样的补特伽罗是自身为天却有阿修罗眷属？诸比丘，在此，有一种补特伽罗持戒、具足善法，而他的眷属却破戒、行恶法。诸比丘，这样的补特伽罗，便是自身为天而有阿修罗眷属。"
+    },
+    {
+      "idx": 6,
+      "pali": "‘‘Kathañca, bhikkhave, puggalo devo hoti devaparivāro? Idha, bhikkhave, ekacco puggalo sīlavā hoti kalyāṇadhammo, parisāpissa hoti sīlavatī kalyāṇadhammā. Evaṃ kho, bhikkhave, puggalo devo hoti, devaparivāro. Ime kho, bhikkhave, cattāro puggalā santo saṃvijjamānā lokasmi’’nti. Paṭhamaṃ.",
+      "zh": "“诸比丘，怎样的补特伽罗是自身为天而有天眷属？诸比丘，在此，有一种补特伽罗持戒、具足善法，他的眷属也持戒、具足善法。诸比丘，这样的补特伽罗，便是自身为天而有天眷属。诸比丘，这四种补特伽罗存在于世间，真实可见。”第一经。"
+    },
+    {
+      "idx": 7,
+      "pali": "2. Paṭhamasamādhisuttaṃ",
+      "zh": "2. [[paṭhamasamādhisutta|第一定经]]"
+    },
+    {
+      "idx": 8,
+      "pali": "‘‘Cattārome , bhikkhave, puggalā santo saṃvijjamānā lokasmiṃ. Katame cattāro? Idha, bhikkhave, ekacco puggalo lābhī hoti ajjhattaṃ cetosamathassa, na lābhī adhipaññādhammavipassanāya. Idha pana, bhikkhave, ekacco puggalo lābhī hoti adhipaññādhammavipassanāya, na lābhī ajjhattaṃ cetosamathassa. Idha pana, bhikkhave, ekacco puggalo na ceva lābhī hoti ajjhattaṃ cetosamathassa na ca lābhī adhipaññādhammavipassanāya. Idha pana, bhikkhave, ekacco puggalo lābhī ceva hoti ajjhattaṃ cetosamathassa lābhī ca adhipaññādhammavipassanāya. Ime kho, bhikkhave, cattāro puggalā santo saṃvijjamānā lokasmi’’nti. Dutiyaṃ.",
+      "zh": "“诸比丘，有四种人存在于世间、可被了知。哪四种呢？比丘们，在此，有一种人得内心之止，却未得增上慧法观。又，比丘们，在此，有一种人得增上慧法观，却未得内心之止。比丘们，在此，有一种人既未得内心之止，也未得增上慧法观。比丘们，在此，有一种人既得内心之止，也得增上慧法观。诸比丘，这四种人存在于世间、可被了知。 第二经。",
+      "n": "92"
+    },
+    {
+      "idx": 9,
+      "pali": "3. Dutiyasamādhisuttaṃ",
+      "zh": "3. [[dutiyasamādhisutta|第二定经]]"
+    },
+    {
+      "idx": 10,
+      "pali": "‘‘Cattārome , bhikkhave, puggalā santo saṃvijjamānā lokasmiṃ. Katame cattāro? Idha, bhikkhave, ekacco puggalo lābhī hoti ajjhattaṃ cetosamathassa, na lābhī adhipaññādhammavipassanāya. Idha pana, bhikkhave, ekacco puggalo lābhī hoti adhipaññādhammavipassanāya, na lābhī ajjhattaṃ cetosamathassa. Idha pana, bhikkhave, ekacco puggalo na ceva lābhī hoti ajjhattaṃ cetosamathassa na ca lābhī adhipaññādhammavipassanāya. Idha pana, bhikkhave, ekacco puggalo lābhī ceva hoti ajjhattaṃ cetosamathassa lābhī ca adhipaññādhammavipassanāya.",
+      "zh": "“诸比丘，有四种人存在于世间、可被了知。哪四种呢？比丘们，在此，有一种人得内心之止，却未得增上慧法观。又，比丘们，在此，有一种人得增上慧法观，却未得内心之止。比丘们，在此，有一种人既未得内心之止，也未得增上慧法观。比丘们，在此，有一种人既得内心之止，也得增上慧法观。",
+      "n": "93"
+    },
+    {
+      "idx": 11,
+      "pali": "‘‘Tatra, bhikkhave, yvāyaṃ puggalo lābhī hoti ajjhattaṃ cetosamathassa na lābhī adhipaññādhammavipassanāya, tena, bhikkhave, puggalena ajjhattaṃ cetosamathe patiṭṭhāya adhipaññādhammavipassanāya yogo karaṇīyo. So aparena samayena lābhī ceva hoti ajjhattaṃ cetosamathassa lābhī ca adhipaññādhammavipassanāya.",
+      "zh": "“诸比丘，在此，若有补特伽罗得内心止，而未得增上慧法观，比丘们，那位补特伽罗应当依止内心止，致力于增上慧法观。他日后便既得内心止，亦得增上慧法观。"
+    },
+    {
+      "idx": 12,
+      "pali": "‘‘Tatra, bhikkhave, yvāyaṃ puggalo lābhī adhipaññādhammavipassanāya na lābhī ajjhattaṃ cetosamathassa, tena, bhikkhave, puggalena adhipaññādhammavipassanāya patiṭṭhāya ajjhattaṃ cetosamathe yogo karaṇīyo. So aparena samayena lābhī ceva hoti adhipaññādhammavipassanāya lābhī ca ajjhattaṃ cetosamathassa.",
+      "zh": "“诸比丘，在此，若有补特伽罗得增上慧法观，而未得内心止，比丘们，那位补特伽罗应当依止增上慧法观，致力于内心止的修习。他日后便既得增上慧法观，亦得内心止。"
+    },
+    {
+      "idx": 13,
+      "pali": "‘‘Tatra, bhikkhave, yvāyaṃ puggalo na ceva lābhī ajjhattaṃ cetosamathassa na ca lābhī adhipaññādhammavipassanāya, tena, bhikkhave, puggalena tesaṃyeva kusalānaṃ dhammānaṃ paṭilābhāya adhimatto chando ca vāyāmo ca ussāho ca ussoḷhī ca appaṭivānī ca sati ca sampajaññañca karaṇīyaṃ. Seyyathāpi, bhikkhave, ādittacelo vā ādittasīso vā tasseva celassa vā sīsassa vā nibbāpanāya adhimattaṃ chandañca vāyāmañca ussāhañca ussoḷhiñca appaṭivāniñca satiñca sampajaññañca kareyya; evamevaṃ kho, bhikkhave, tena puggalena tesaṃyeva kusalānaṃ dhammānaṃ paṭilābhāya adhimatto chando ca vāyāmo ca ussāho ca ussoḷhī ca appaṭivānī ca sati ca sampajaññañca karaṇīyaṃ. So aparena samayena lābhī ceva hoti ajjhattaṃ cetosamathassa lābhī ca adhipaññādhammavipassanāya.",
+      "zh": "“诸比丘，在此，若有补特伽罗既未得内心止，也未得增上慧法观，比丘们，那位补特伽罗应为获得那些善法而生起至切的欲求、精勤、勇猛、锐进、不退、正念与正知。诸比丘，譬如衣燃或头燃之人，为了熄灭衣或头之火，会生起至切的欲求、精勤、勇猛、锐进、不退、正念与正知；同样地，诸比丘，那位补特伽罗应为获得那些善法而生起至切的欲求、精勤、勇猛、锐进、不退、正念与正知。他日后便既得内心止，亦得增上慧法观。"
+    },
+    {
+      "idx": 14,
+      "pali": "‘‘Tatra, bhikkhave, yvāyaṃ puggalo lābhī ceva hoti ajjhattaṃ cetosamathassa lābhī ca adhipaññādhammavipassanāya, tena, bhikkhave, puggalena tesuyeva kusalesu dhammesu patiṭṭhāya uttari āsavānaṃ khayāya yogo karaṇīyo. Ime kho, bhikkhave, cattāro puggalā santo saṃvijjamānā lokasmi’’nti. Tatiyaṃ.",
+      "zh": "“诸比丘！于此，若有人既得内心止，又得增上慧法观，诸比丘，此人便应安住于那些善法，更进一步精勤，为灭尽诸漏。诸比丘！这四种人，确实存在于世间。第三经。"
+    },
+    {
+      "idx": 15,
+      "pali": "4. Tatiyasamādhisuttaṃ",
+      "zh": "4. 第三[[tatiyasamādhisutta|定经]]"
+    },
+    {
+      "idx": 16,
+      "pali": "‘‘Cattārome, bhikkhave, puggalā santo saṃvijjamānā lokasmiṃ. Katame cattāro? Idha, bhikkhave, ekacco puggalo lābhī hoti ajjhattaṃ cetosamathassa, na lābhī adhipaññādhammavipassanāya. Idha pana, bhikkhave, ekacco puggalo lābhī hoti adhipaññādhammavipassanāya, na lābhī ajjhattaṃ cetosamathassa. Idha pana, bhikkhave, ekacco puggalo na ceva lābhī hoti ajjhattaṃ cetosamathassa na ca lābhī adhipaññādhammavipassanāya. Idha pana, bhikkhave, ekacco puggalo lābhī ceva hoti ajjhattaṃ cetosamathassa lābhī ca adhipaññādhammavipassanāya.",
+      "zh": "“诸比丘！有此四种人，存在于世间。哪四种呢？诸比丘，这里有一种人，得内心寂止，而不得增上慧法观。诸比丘，又有一种人，得增上慧法观，而不得内心寂止。诸比丘，还有一种人，既不得内心寂止，也不得增上慧法观。诸比丘，另有一种人，既得内心寂止，也得增上慧法观。",
+      "n": "94"
+    },
+    {
+      "idx": 17,
+      "pali": "‘‘Tatra , bhikkhave, yvāyaṃ puggalo lābhī ajjhattaṃ cetosamathassa na lābhī adhipaññādhammavipassanāya, tena, bhikkhave, puggalena yvāyaṃ puggalo lābhī adhipaññādhammavipassanāya so upasaṅkamitvā evamassa vacanīyo – ‘kathaṃ nu kho, āvuso, saṅkhārā daṭṭhabbā? Kathaṃ saṅkhārā sammasitabbā? Kathaṃ saṅkhārā vipassitabbā’ ti? Tassa so yathādiṭṭhaṃ yathāviditaṃ byākaroti – ‘evaṃ kho, āvuso, saṅkhārā daṭṭhabbā, evaṃ saṅkhārā sammasitabbā, evaṃ saṅkhārā vipassitabbā’ti. So aparena samayena lābhī ceva hoti ajjhattaṃ cetosamathassa lābhī ca adhipaññādhammavipassanāya.",
+      "zh": "“比丘们，若有人获得了内心寂止，却未获得增上慧法观，那么，比丘们，他应前往那位获得增上慧法观的人那里，这样问道：‘贤友，应如何观察诸行？应如何思察诸行？应如何观见诸行？’那人便会依其所见所知为他解说：‘贤友，应如此观察诸行，应如此思察诸行，应如此观见诸行。’此后，他便既获得了内心寂止，也获得了增上慧法观。”"
+    },
+    {
+      "idx": 18,
+      "pali": "‘‘Tatra, bhikkhave, yvāyaṃ puggalo lābhī adhipaññādhammavipassanāya na lābhī ajjhattaṃ cetosamathassa, tena, bhikkhave, puggalena yvāyaṃ puggalo lābhī ajjhattaṃ cetosamathassa so upasaṅkamitvā evamassa vacanīyo – ‘kathaṃ nu kho, āvuso, cittaṃ saṇṭhapetabbaṃ? Kathaṃ cittaṃ sannisādetabbaṃ ? Kathaṃ cittaṃ ekodi kātabbaṃ? Kathaṃ cittaṃ samādahātabba’nti? Tassa so yathādiṭṭhaṃ yathāviditaṃ byākaroti – ‘evaṃ kho, āvuso, cittaṃ saṇṭhapetabbaṃ, evaṃ cittaṃ sannisādetabbaṃ, evaṃ cittaṃ ekodi kātabbaṃ , evaṃ cittaṃ samādahātabba’nti. So aparena samaye lābhī ceva hoti adhipaññādhammavipassanāya lābhī ca ajjhattaṃ cetosamathassa.",
+      "zh": "“比丘们，若有人获得了增上慧法观，却未获得内心寂止，那么，比丘们，他应前往那位获得内心寂止的人那里，这样问道：‘贤友，应如何安立心？应如何令心安住？应如何令心专一？应如何令心入定？’那人便会依其所见所知为他解说：‘贤友，应如此安立心，应如此令心安住，应如此令心专一，应如此令心入定。’此后，他便既获得了增上慧法观，也获得了内心寂止。"
+    },
+    {
+      "idx": 19,
+      "pali": "‘‘Tatra, bhikkhave, yvāyaṃ puggalo na ceva lābhī ajjhattaṃ cetosamathassa na ca lābhī adhipaññādhammavipassanāya, tena, bhikkhave, puggalena yvāyaṃ puggalo lābhī ceva ajjhattaṃ cetosamathassa lābhī ca adhipaññādhammavipassanāya so upasaṅkamitvā evamassa vacanīyo – ‘kathaṃ nu kho, āvuso, cittaṃ saṇṭhapetabbaṃ? Kathaṃ cittaṃ sannisādetabbaṃ? Kathaṃ cittaṃ ekodi kātabbaṃ? Kathaṃ cittaṃ samādahātabbaṃ? Kathaṃ saṅkhārā daṭṭhabbā? Kathaṃ saṅkhārā sammasitabbā? Kathaṃ saṅkhārā vipassitabbā’ti? Tassa so yathādiṭṭhaṃ yathāviditaṃ byākaroti – ‘evaṃ kho, āvuso, cittaṃ saṇṭhapetabbaṃ, evaṃ cittaṃ sannisādetabbaṃ, evaṃ cittaṃ ekodi kātabbaṃ, evaṃ cittaṃ samādahātabbaṃ, evaṃ saṅkhārā daṭṭhabbā, evaṃ saṅkhārā sammasitabbā, evaṃ saṅkhārā vipassitabbā’ti. So aparena samayena lābhī ceva hoti ajjhattaṃ cetosamathassa lābhī ca adhipaññādhammavipassanāya.",
+      "zh": "“比丘们，若有人既未获得内心寂止，也未获得增上慧法观，那么，比丘们，他应前往那位既获得内心寂止、也获得增上慧法观的人那里，这样问道：‘贤友，应如何安立心？应如何令心安住？应如何令心专一？应如何令心入定？应如何观察诸行？应如何思察诸行？应如何观见诸行？’那人便会依其所见所知为他解说：‘贤友，应如此安立心，应如此令心安住，应如此令心专一，应如此令心入定，应如此观察诸行，应如此思察诸行，应如此观见诸行。’此后，他便既获得了内心寂止，也获得了增上慧法观。”"
+    },
+    {
+      "idx": 20,
+      "pali": "‘‘Tatra, bhikkhave, yvāyaṃ puggalo lābhī ceva hoti ajjhattaṃ cetosamathassa lābhī adhipaññādhammavipassanāya , tena, bhikkhave, puggalena tesu ceva kusalesu dhammesu patiṭṭhāya uttari āsavānaṃ khayāya yogo karaṇīyo. Ime kho, bhikkhave, cattāro puggalā santo saṃvijjamānā lokasmi’’nti. Catutthaṃ.",
+      "zh": "“诸比丘，那种既获得内心寂止，又获得增上慧法观的人，应当安住于这些善法，进一步为灭尽诸漏而精勤。诸比丘，这四种人存在于世间，出现于世间。第四经。"
+    },
+    {
+      "idx": 21,
+      "pali": "5. Chavālātasuttaṃ",
+      "zh": "5. [[chavālātasutta|尸火把经]]"
+    },
+    {
+      "idx": 22,
+      "pali": "‘‘Cattārome, bhikkhave, puggalā santo saṃvijjamānā lokasmiṃ. Katame cattāro? Nevattahitāya paṭipanno no parahitāya, parahitāya paṭipanno no attahitāya, attahitāya paṭipanno no parahitāya, attahitāya ceva paṭipanno parahitāya ca.",
+      "zh": "“诸比丘，有四种人存在于世间，出现于世间。哪四种？不为自己利益而行，也不为他人利益而行的人；为他人利益而行，不为自己利益而行的人；为自己利益而行，不为他人利益而行的人；既为自己利益而行，也为他人利益而行的人。",
+      "n": "95"
+    },
+    {
+      "idx": 23,
+      "pali": "‘‘Seyyathāpi , bhikkhave, chavālātaṃ ubhato padittaṃ , majjhe gūthagataṃ, neva gāme kaṭṭhatthaṃ pharati na araññe ( ) ; tathūpamāhaṃ , bhikkhave, imaṃ puggalaṃ vadāmi yvāyaṃ puggalo nevattahitāya paṭipanno no parahitāya.",
+      "zh": "“诸比丘，譬如荼毗的木柴，两端燃烧，中间沾着粪便，既不能充作村中的薪柴，也不能用于林间。诸比丘，我说那个既不为自利而行，也不为他利而行的人，正是如此。"
+    },
+    {
+      "idx": 24,
+      "pali": "‘‘Tatra, bhikkhave, yvāyaṃ puggalo parahitāya paṭipanno no attahitāya, ayaṃ imesaṃ dvinnaṃ puggalānaṃ abhikkantataro ca paṇītataro ca. Tatra, bhikkhave, yvāyaṃ puggalo attahitāya paṭipanno no parahitāya, ayaṃ imesaṃ tiṇṇaṃ puggalānaṃ abhikkantataro ca paṇītataro ca. Tatra, bhikkhave, yvāyaṃ puggalo attahitāya ceva paṭipanno parahitāya ca, ayaṃ imesaṃ catunnaṃ puggalānaṃ aggo ca seṭṭho ca pāmokkho ca uttamo ca pavaro ca.",
+      "zh": "“诸比丘，此中，那位为他利而行、不为自利而行的人，比起这两种人，更为殊胜、更为优越。诸比丘，此中，那位为自利而行、不为他利而行的人，比起这三种人，更为殊胜、更为优越。诸比丘，此中，那位既为自利而行，亦为他利而行的人，在这四种人之中，是最上、最胜、最高、最优、最尊者。"
+    },
+    {
+      "idx": 25,
+      "pali": "‘‘Seyyathāpi, bhikkhave, gavā khīraṃ, khīramhā dadhi, dadhimhā navanītaṃ, navanītamhā sappi, sappimhā sappimaṇḍo, sappimaṇḍo tattha aggamakkhāyati; evamevaṃ kho, bhikkhave, yvāyaṃ puggalo attahitāya ceva paṭipanno parahitāya ca, ayaṃ imesaṃ catunnaṃ puggalānaṃ aggo ca seṭṭho ca pāmokkho ca uttamo ca pavaro ca. Ime kho, bhikkhave, cattāro puggalā santo saṃvijjamānā lokasmi’’nti. Pañcamaṃ.",
+      "zh": "“诸比丘，譬如从牛得乳，从乳得酪，从酪得生酥，从生酥得熟酥，从熟酥得醍醐，醍醐于此中被说为最上。同样地，诸比丘，那位既为自利而行，亦为他利而行的人，在这四种人之中，即是最上、最胜、最高、最优、最尊者。诸比丘，有这四种人存在于世间，出现于世间。 第5经。"
+    },
+    {
+      "idx": 26,
+      "pali": "6. Rāgavinayasuttaṃ",
+      "zh": "6. [[rāgavinayasutta|调伏贪经]]"
+    },
+    {
+      "idx": 27,
+      "pali": "‘‘Cattārome , bhikkhave, puggalā santo saṃvijjamānā lokasmiṃ. Katame cattāro? Attahitāya paṭipanno no parahitāya, parahitāya paṭipanno no attahitāya, nevattahitāya paṭipanno no parahitāya, attahitāya ceva paṭipanno parahitāya ca.",
+      "zh": "“诸比丘，世间有这四种人存在。哪四种？为自利而行，不为利他而行；为利他而行，不为自利而行；既不为自利，也不为利他而行；既为自利，也为利他而行。",
+      "n": "96"
+    },
+    {
+      "idx": 28,
+      "pali": "‘‘Kathañca, bhikkhave, puggalo attahitāya paṭipanno hoti no parahitāya? Idha, bhikkhave, ekacco puggalo attanā rāgavinayāya paṭipanno hoti, no paraṃ rāgavinayāya samādapeti; attanā dosavinayāya paṭipanno hoti, no paraṃ dosavinayāya samādapeti; attanā mohavinayāya paṭipanno hoti, no paraṃ mohavinayāya samādapeti. Evaṃ kho, bhikkhave, puggalo attahitāya paṭipanno hoti, no parahitāya.",
+      "zh": "“诸比丘，怎样的人是为自利而行，不为利他而行的人？诸比丘，在此，有一种人自己为调伏贪而修，却不劝他人调伏贪；自己为调伏嗔而修，却不劝他人调伏嗔；自己为调伏痴而修，却不劝他人调伏痴。诸比丘，如此，此人是为自利而行，不为利他而行的人。"
+    },
+    {
+      "idx": 29,
+      "pali": "‘‘Kathañca, bhikkhave, puggalo parahitāya paṭipanno hoti, no attahitāya? Idha, bhikkhave, ekacco puggalo attanā na rāgavinayāya paṭipanno hoti, paraṃ rāgavinayāya samādapeti; attanā na dosavinayāya paṭipanno hoti, paraṃ dosavinayāya samādapeti; attanā na mohavinayāya paṭipanno hoti, paraṃ mohavinayāya samādapeti. Evaṃ kho, bhikkhave, puggalo parahitāya paṭipanno hoti, no attahitāya.",
+      "zh": "“诸比丘，如何是人为利他而修行，非为自利而修行？诸比丘，在此，有一类人自己不致力于调伏贪，却劝导他人调伏贪；自己不致力于调伏嗔，却劝导他人调伏嗔；自己不致力于调伏痴，却劝导他人调伏痴。诸比丘，如此之人便是为利他而修行，非为自利而修行。"
+    },
+    {
+      "idx": 30,
+      "pali": "‘‘Kathañca, bhikkhave, puggalo nevattahitāya paṭipanno hoti, no parahitāya? Idha, bhikkhave, ekacco puggalo attanā na rāgavinayāya paṭipanno hoti, no paraṃ rāgavinayāya samādapeti; attanā na dosavinayāya paṭipanno hoti, no paraṃ dosavinayāya samādapeti; attanā na mohavinayāya paṭipanno hoti, no paraṃ mohavinayāya samādapeti. Evaṃ kho, bhikkhave, puggalo nevattahitāya paṭipanno hoti, no parahitāya.",
+      "zh": "“诸比丘，如何是人既不为自利而修行，也不为利他而修行？诸比丘，在此，有一类人自己既不致力于调伏贪，也不劝导他人调伏贪；自己既不致力于调伏嗔，也不劝导他人调伏嗔；自己既不致力于调伏痴，也不劝导他人调伏痴。诸比丘，如此之人便是既不为自利而修行，也不为利他而修行。"
+    },
+    {
+      "idx": 31,
+      "pali": "‘‘Kathañca, bhikkhave, puggalo attahitāya ceva paṭipanno hoti parahitāya ca? Idha, bhikkhave, ekacco puggalo attanā ca rāgavinayāya paṭipanno hoti, parañca rāgavinayāya samādapeti; attanā ca dosavinayāya paṭipanno hoti, parañca dosavinayāya samādapeti; attanā ca mohavinayāya paṭipanno hoti, parañca mohavinayāya samādapeti. Evaṃ kho, bhikkhave , puggalo attahitāya ceva paṭipanno hoti parahitāya ca. Ime kho, bhikkhave, cattāro puggalā santo saṃvijjamānā lokasmi’’nti. Chaṭṭhaṃ.",
+      "zh": "“诸比丘，如何是人既为自利而修行，又为利他而修行？诸比丘，在此，有一类人自己既致力于调伏贪，也劝导他人调伏贪；自己既致力于调伏嗔，也劝导他人调伏嗔；自己既致力于调伏痴，也劝导他人调伏痴。诸比丘，如此之人便是既为自利而修行，又为利他而修行。诸比丘，这四种人存在于世间，出现于世间。第六经。"
+    },
+    {
+      "idx": 32,
+      "pali": "7. Khippanisantisuttaṃ",
+      "zh": "7. [[khippanisantisutta|速解经]]"
+    },
+    {
+      "idx": 33,
+      "pali": "‘‘Cattārome, bhikkhave, puggalā santo saṃvijjamānā lokasmiṃ. Katame cattāro? Attahitāya paṭipanno no parahitāya, parahitāya paṭipanno no attahitāya, nevattahitāya paṭipanno no parahitāya, attahitāya ceva paṭipanno parahitāya ca.",
+      "zh": "“诸比丘，世间有这四种人存在。哪四种？为自利而行，不为利他而行；为利他而行，不为自利而行；既不为自利，也不为利他而行；既为自利，也为利他而行。",
+      "n": "97"
+    },
+    {
+      "idx": 34,
+      "pali": "‘‘Kathañca , bhikkhave, puggalo attahitāya paṭipanno hoti, no parahitāya? Idha, bhikkhave, ekacco puggalo khippanisantī ca hoti kusalesu dhammesu, sutānañca dhammānaṃ dhārakajātiko hoti, dhātānañca dhammānaṃ atthūpaparikkhī hoti atthamaññāya dhammamaññāya, dhammānudhammappaṭipanno hoti; no ca kalyāṇavāco hoti kalyāṇavākkaraṇo poriyā vācāya samannāgato vissaṭṭhāya anelagalāya atthassa viññāpaniyā, no ca sandassako hoti samādapako samuttejako sampahaṃsako sabrahmacārīnaṃ. Evaṃ kho, bhikkhave, puggalo attahitāya paṭipanno hoti, no parahitāya.",
+      "zh": "“诸比丘，什么样的人是为自利而行，不为他利而行呢？诸比丘，于此，有一类人于善法速疾领悟，于所听闻的法能受持，于所受持的法能思择义理，了知义、了知法，法随法行；但他却不善言辞，不善论议，不具足优雅的言语，不清晰、不柔和，缺乏辩才，不能向同梵行者教示、劝发、策励、激励。诸比丘，这样的人便是为自利而行，不为他利而行。”",
+      "type": "verse"
+    },
+    {
+      "idx": 35,
+      "pali": "‘‘Kathañca, bhikkhave, puggalo parahitāya paṭipanno hoti, no attahitāya? Idha, bhikkhave, ekacco puggalo na heva kho khippanisantī hoti kusalesu dhammesu, no ca sutānaṃ dhammānaṃ dhārakajātiko hoti, no ca dhātānaṃ dhammānaṃ atthūpaparikkhī hoti, no ca atthamaññāya dhammamaññāya dhammānudhammappaṭipanno hoti; kalyāṇavāco ca hoti kalyāṇavākkaraṇo poriyā vācāya samannāgato vissaṭṭhāya anelagalāya atthassa viññāpaniyā, sandassako ca hoti samādapako samuttejako sampahaṃsako sabrahmacārīnaṃ. Evaṃ kho, bhikkhave, puggalo parahitāya paṭipanno hoti, no attahitāya.",
+      "zh": "“诸比丘，什么样的人是为他利而行，不为自利而行呢？诸比丘，于此，有一类人于善法不速疾领悟，于所听闻的法不能受持，于所受持的法不能思择义理，不了知义、不了知法，不依法随法行；但他却善言辞，善论议，具足优雅的言语，清晰、柔和，具备辩才，能向同梵行者教示、劝发、策励、激励。诸比丘，这样的人便是为他利而行，不为自利而行。”",
+      "type": "verse"
+    },
+    {
+      "idx": 36,
+      "pali": "‘‘Kathañca , bhikkhave, puggalo nevattahitāya paṭipanno hoti, no parahitāya? Idha, bhikkhave, ekacco puggalo na heva kho khippanisantī hoti kusalesu dhammesu, no ca sutānaṃ dhammānaṃ dhārakajātiko hoti, no ca dhātānaṃ dhammānaṃ atthūpaparikkhī hoti, no ca atthamaññāya dhammamaññāya dhammānudhammappaṭipanno hoti; no ca kalyāṇavāco hoti kalyāṇavākkaraṇo poriyā vācāya samannāgato vissaṭṭhāya anelagalāya atthassa viññāpaniyā, no ca sandassako hoti samādapako samuttejako sampahaṃsako sabrahmacārīnaṃ. Evaṃ kho, bhikkhave, puggalo nevattahitāya paṭipanno hoti, no parahitāya.",
+      "zh": "“诸比丘，什么样的人既不行于自利，也不行于他利呢？诸比丘，在此，有一种人于善法不具疾速的领解，对所闻法不能忆持，对所忆持法不能审察义理，不知义、不知法，不随法而行；又不善说，不善言辞，不具足善妙语业，不清晰、不流畅，不能表达义理，亦不能对同梵行者开示、劝导、鼓励、令其欢喜。诸比丘，这样的人既不行于自利，也不行于他利。",
+      "type": "verse"
+    },
+    {
+      "idx": 37,
+      "pali": "‘‘Kathañca , bhikkhave, puggalo attahitāya ceva paṭipanno hoti parahitāya ca? Idha, bhikkhave, ekacco puggalo khippanisantī ca hoti kusalesu dhammesu, sutānañca dhammānaṃ dhārakajātiko hoti, dhātānañca dhammānaṃ atthūpaparikkhī hoti atthamaññāya dhammamaññāya, dhammānudhammappaṭipanno hoti; kalyāṇavāco ca hoti kalyāṇavākkaraṇo poriyā vācāya samannāgato vissaṭṭhāya anelagalāya atthassa viññāpaniyā, sandassako ca hoti samādapako samuttejako sampahaṃsako sabrahmacārīnaṃ. Evaṃ kho, bhikkhave, puggalo attahitāya ceva paṭipanno hoti parahitāya ca. Ime kho, bhikkhave, cattāro puggalā santo saṃvijjamānā lokasmi’’nti. Sattamaṃ.",
+      "zh": "“诸比丘，什么样的人既行于自利，也行于他利呢？诸比丘，在此，有一种人于善法具有疾速的领解，对所闻法能忆持，对所忆持法能审察义理，知义、知法，随法而行；且善说，善言辞，具足善妙语业，清晰、流畅，能表达义理，又能对同梵行者开示、劝导、鼓励、令其欢喜。诸比丘，这样的人既行于自利，也行于他利。诸比丘，这四种人存在于世间，出现于世间。第七经。",
+      "type": "verse"
+    },
+    {
+      "idx": 38,
+      "pali": "8. Attahitasuttaṃ",
+      "zh": "8. [[attahitasutta|自利经]]"
+    },
+    {
+      "idx": 39,
+      "pali": "‘‘Cattārome, bhikkhave, puggalā santo saṃvijjamānā lokasmiṃ. Katame cattāro? Attahitāya paṭipanno no parahitāya, parahitāya paṭipanno no attahitāya, nevattahitāya paṭipanno no parahitāya, attahitāya ceva paṭipanno parahitāya ca. Ime kho, bhikkhave, cattāro puggalā santo saṃvijjamānā lokasmi’’nti. Aṭṭhamaṃ.",
+      "zh": "“诸比丘，有四种人存在于世间。哪四种呢？行于自利、不行于他利者；行于他利、不行于自利者；既不行于自利，也不行于他利者；行于自利，亦行于他利者。诸比丘，这四种人存在于世间。 第8经。",
+      "n": "98"
+    },
+    {
+      "idx": 40,
+      "pali": "9. Sikkhāpadasuttaṃ",
+      "zh": "9. [[sikkhāpadasutta|学处经]]"
+    },
+    {
+      "idx": 41,
+      "pali": "‘‘Cattārome, bhikkhave, puggalā santo saṃvijjamānā lokasmiṃ. Katame cattāro? Attahitāya paṭipanno no parahitāya, parahitāya paṭipanno no attahitāya, nevattahitāya paṭipanno no parahitāya, attahitāya ceva paṭipanno parahitāya ca.",
+      "zh": "“诸比丘，世间有这四种人存在。哪四种？为自利而行，不为利他而行；为利他而行，不为自利而行；既不为自利，也不为利他而行；既为自利，也为利他而行。",
+      "n": "99"
+    },
+    {
+      "idx": 42,
+      "pali": "‘‘Kathañca, bhikkhave, puggalo attahitāya paṭipanno hoti, no parahitāya? Idha, bhikkhave , ekacco puggalo attanā pāṇātipātā paṭivirato hoti, no paraṃ pāṇātipātā veramaṇiyā samādapeti; attanā adinnādānā paṭivirato hoti, no paraṃ adinnādānā veramaṇiyā samādapeti; attanā kāmesumicchācārā paṭivirato hoti, no paraṃ kāmesumicchācārā veramaṇiyā samādapeti ; attanā musāvādā paṭivirato hoti, no paraṃ musāvādā veramaṇiyā samādapeti; attanā surāmerayamajjapamādaṭṭhānā paṭivirato hoti, no paraṃ surāmerayamajjapamādaṭṭhānā veramaṇiyā samādapeti. Evaṃ kho, bhikkhave , puggalo attahitāya paṭipanno hoti, no parahitāya.",
+      "zh": "“诸比丘，怎样的人是行于自利、非行于他利呢？比丘们，在此，有人自身远离杀生，却不劝导他人远离杀生；自身远离不与取，却不劝导他人远离不与取；自身远离欲邪行，却不劝导他人远离欲邪行；自身远离妄语，却不劝导他人远离妄语；自身远离导致放逸的诸酒类，却不劝导他人远离导致放逸的诸酒类。诸比丘，这样的人便是行于自利、非行于他利。”"
+    },
+    {
+      "idx": 43,
+      "pali": "‘‘Kathañca, bhikkhave, puggalo parahitāya paṭipanno hoti, no attahitāya? Idha, bhikkhave, ekacco puggalo attanā pāṇātipātā appaṭivirato hoti, paraṃ pāṇātipātā veramaṇiyā samādapeti; attanā adinnādānā appaṭivirato hoti, paraṃ adinnādānā veramaṇiyā samādapeti; attanā kāmesumicchācārā appaṭivirato hoti, paraṃ kāmesumicchācārā veramaṇiyā samādapeti; attanā musāvādā appaṭivirato hoti, paraṃ musāvādā veramaṇiyā samādapeti; attanā surāmerayamajjapamādaṭṭhānā appaṭivirato hoti, paraṃ surāmerayamajjapamādaṭṭhānā veramaṇiyā samādapeti. Evaṃ kho, bhikkhave, puggalo parahitāya paṭipanno hoti, no attahitāya.",
+      "zh": "“比丘们，怎样的人是只为他人利益而修行，不为自己利益而修行呢？比丘们，世间有一种人，自己未远离杀生，却劝导他人远离杀生；自己未远离不与取，却劝导他人远离不与取；自己未远离欲邪行，却劝导他人远离欲邪行；自己未远离妄语，却劝导他人远离妄语；自己未远离能导致放逸的诸酒类，却劝导他人远离能导致放逸的诸酒类。比丘们，这样的人正是只为他人利益而修行，不为自己利益而修行。”"
+    },
+    {
+      "idx": 44,
+      "pali": "‘‘Kathañca, bhikkhave, puggalo nevattahitāya paṭipanno hoti no parahitāya? Idha, bhikkhave, ekacco puggalo attanā pāṇātipātā appaṭivirato hoti, no paraṃ pāṇātipātā veramaṇiyā samādapeti…pe… attanā surāmerayamajjapamādaṭṭhānā appaṭivirato hoti, no paraṃ surāmerayamajjapamādaṭṭhānā veramaṇiyā samādapeti. Evaṃ kho, bhikkhave, puggalo nevattahitāya paṭipanno hoti, no parahitāya.",
+      "zh": "“比丘们，怎样的人是既不为自身利益，也不为他人利益而修行呢？比丘们，世间有一种人，自己未远离杀生，也不劝导他人远离杀生……（中略）……自己未远离能导致放逸的诸酒类，也不劝导他人远离能导致放逸的诸酒类。比丘们，这样的人正是既不为自身利益，也不为他人利益而修行。”"
+    },
+    {
+      "idx": 45,
+      "pali": "‘‘Kathañca, bhikkhave, puggalo attahitāya ceva paṭipanno hoti parahitāya ca? Idha, bhikkhave, ekacco puggalo attanā ca pāṇātipātā paṭivirato hoti, parañca pāṇātipātā veramaṇiyā samādapeti…pe… attanā ca surāmerayamajjapamādaṭṭhānā paṭivirato hoti, parañca surāmerayamajjapamādaṭṭhānā veramaṇiyā samādapeti. Evaṃ kho, bhikkhave, puggalo attahitāya ceva paṭipanno hoti parahitāya ca. Ime kho, bhikkhave, cattāro puggalā santo saṃvijjamānā lokasmi’’nti. Navamaṃ.",
+      "zh": "“比丘们，怎样的人是为自身利益，也为他人利益而修行呢？比丘们，世间有一种人，自己已远离杀生，也劝导他人远离杀生……（中略）……自己已远离能导致放逸的诸酒类，也劝导他人远离能导致放逸的诸酒类。比丘们，这样的人正是为自身利益，也为他人利益而修行。比丘们，这四种人确实存在于世间。 第9经。"
+    },
+    {
+      "idx": 46,
+      "pali": "10. Potaliyasuttaṃ",
+      "zh": "10. [[potaliya|晡利多]]经"
+    },
+    {
+      "idx": 47,
+      "pali": "Atha kho potaliyo paribbājako yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṃ sammodi. Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdi. Ekamantaṃ nisinnaṃ kho potaliyaṃ paribbājakaṃ bhagavā etadavoca –",
+      "zh": "那时，游方者[[potaliya|晡利多]]来到世尊处。与世尊互相问候，作过堪可忆念的交谈后，在一旁坐下。世尊对坐在一旁的游方者[[potaliya|晡利多]]这样说：",
+      "n": "100"
+    },
+    {
+      "idx": 48,
+      "pali": "‘‘Cattārome, potaliya, puggalā santo saṃvijjamānā lokasmiṃ. Katame cattāro? Idha, potaliya, ekacco puggalo avaṇṇārahassa avaṇṇaṃ bhāsitā hoti bhūtaṃ tacchaṃ kālena, no ca kho vaṇṇārahassa vaṇṇaṃ bhāsitā hoti bhūtaṃ tacchaṃ kālena. Idha pana, potaliya, ekacco puggalo vaṇṇārahassa vaṇṇaṃ bhāsitā hoti bhūtaṃ tacchaṃ kālena, no ca kho avaṇṇārahassa avaṇṇaṃ bhāsitā hoti bhūtaṃ tacchaṃ kālena. Idha pana, potaliya, ekacco puggalo neva avaṇṇārahassa avaṇṇaṃ bhāsitā hoti bhūtaṃ tacchaṃ kālena, no ca vaṇṇārahassa vaṇṇaṃ bhāsitā hoti bhūtaṃ tacchaṃ kālena. Idha pana, potaliya, ekacco puggalo avaṇṇārahassa ca avaṇṇaṃ bhāsitā hoti bhūtaṃ tacchaṃ kālena, vaṇṇārahassa ca vaṇṇaṃ bhāsitā hoti bhūtaṃ tacchaṃ kālena. Ime kho, potaliya, cattāro puggalā santo saṃvijjamānā lokasmiṃ. Imesaṃ kho, potaliya, catunnaṃ puggalānaṃ katamo te puggalo khamati abhikkantataro ca paṇītataro cā’’ti?",
+      "zh": "“[[potaliya|晡利多]]，世间有这四种人。哪四种呢？[[potaliya|晡利多]]，有一种人，对应当受责备的人，他以真实、如实、适时的话加以责备，但对应当受赞叹的人，却不以真实、如实、适时的话给予赞叹。又有一种人，对应当受赞叹的人，他以真实、如实、适时的话加以赞叹，但对应当受责备的人，却不以真实、如实、适时的话给予责备。另有一种人，对应当受责备的人，他不以真实、如实、适时的话加以责备，对应当受赞叹的人，也不以真实、如实、适时的话给予赞叹。还有一种人，对应当受责备的人，他以真实、如实、适时的话加以责备，对应当受赞叹的人，也以真实、如实、适时的话给予赞叹。[[potaliya|晡利多]]，这便是世间的四种人。[[potaliya|晡利多]]，这四种人中，你认为哪一种更殊胜、更优越呢？”"
+    },
+    {
+      "idx": 49,
+      "pali": "‘‘Cattārome, bho gotama, puggalā santo saṃvijjamānā lokasmiṃ. Katame cattāro? Idha, bho gotama, ekacco puggalo avaṇṇārahassa avaṇṇaṃ bhāsitā hoti bhūtaṃ tacchaṃ kālena, no ca kho vaṇṇārahassa vaṇṇaṃ bhāsitā hoti bhūtaṃ tacchaṃ kālena. Idha pana, bho gotama, ekacco puggalo vaṇṇārahassa vaṇṇaṃ bhāsitā hoti bhūtaṃ tacchaṃ kālena, no ca kho avaṇṇārahassa avaṇṇaṃ bhāsitā hoti bhūtaṃ tacchaṃ kālena. Idha pana, bho gotama, ekacco puggalo neva avaṇṇārahassa avaṇṇaṃ bhāsitā hoti bhūtaṃ tacchaṃ kālena, no ca vaṇṇārahassa vaṇṇaṃ bhāsitā hoti bhūtaṃ tacchaṃ kālena. Idha pana, bho gotama, ekacco puggalo avaṇṇārahassa ca avaṇṇaṃ bhāsitā hoti bhūtaṃ tacchaṃ kālena, vaṇṇārahassa ca vaṇṇaṃ bhāsitā hoti bhūtaṃ tacchaṃ kālena. Ime kho, bho gotama, cattāro puggalā santo saṃvijjamānā lokasmiṃ. Imesaṃ, bho gotama, catunnaṃ puggalānaṃ yvāyaṃ puggalo neva avaṇṇārahassa avaṇṇaṃ bhāsitā hoti bhūtaṃ tacchaṃ kālena, no ca vaṇṇārahassa vaṇṇaṃ bhāsitā hoti bhūtaṃ tacchaṃ kālena; ayaṃ me puggalo khamati imesaṃ catunnaṃ puggalānaṃ abhikkantataro ca paṇītataro ca. Taṃ kissa hetu? Abhikkantā hesā, bho gotama, yadidaṃ upekkhā’’ti.",
+      "zh": "“[[gotama|乔达摩尊]]者，世间有这四种人存在。哪四种？[[gotama|乔达摩尊]]者，有一种人，对应受责备的人，他说真实、确实、适时的责备之语，但对应受赞叹的人，他不说真实、确实、适时的赞叹之语。[[gotama|乔达摩尊]]者，有一种人，对应受赞叹的人，他说真实、确实、适时的赞叹之语，但对应受责备的人，他不说真实、确实、适时的责备之语。[[gotama|乔达摩尊]]者，有一种人，对应受责备的人，他不说真实、确实、适时的责备之语，对应受赞叹的人，他也不说真实、确实、适时的赞叹之语。[[gotama|乔达摩尊]]者，有一种人，对应受责备的人，他说真实、确实、适时的责备之语，对应受赞叹的人，他也说真实、确实、适时的赞叹之语。[[gotama|乔达摩尊]]者，这就是世间存在的四种人。[[gotama|乔达摩尊]]者，在这四种人中，有这样一种人：他对应受责备的人不说真实、确实、适时的责备之语，对应受赞叹的人也不说真实、确实、适时的赞叹之语。我认为这个人在这四种人中更为殊胜、更为优胜。那是什么原因？[[gotama|乔达摩尊]]者，因为此舍是殊胜的。”"
+    },
+    {
+      "idx": 50,
+      "pali": "‘‘Cattārome, potaliya, puggalā santo saṃvijjamānā lokasmiṃ. Katame cattāro…pe… ime kho, potaliya, cattāro puggalā santo saṃvijjamānā lokasmiṃ. Imesaṃ kho, potaliya, catunnaṃ puggalānaṃ yvāyaṃ puggalo avaṇṇārahassa ca avaṇṇaṃ bhāsitā hoti bhūtaṃ tacchaṃ kālena, vaṇṇārahassa ca vaṇṇaṃ bhāsitā hoti bhūtaṃ tacchaṃ kālena; ayaṃ imesaṃ catunnaṃ puggalānaṃ abhikkantataro ca paṇītataro ca. Taṃ kissa hetu? Abhikkantā hesā, potaliya, yadidaṃ tattha tattha kālaññutā’’ti.",
+      "zh": "“[[potaliya|晡利多]]，世间有这四种人存在。哪四种？……（中略）……[[potaliya|晡利多]]，这就是世间存在的四种人。[[potaliya|晡利多]]，此四种人中，有这样一种人：他对应受责备的人说真实、确实、适时的责备之语，对应受赞叹的人也说真实、确实、适时的赞叹之语。这个人在这四种人中更为殊胜、更为优胜。那是什么原因？[[potaliya|晡利多]]，因为在一切情况下知时，是殊胜的。”"
+    },
+    {
+      "idx": 51,
+      "pali": "‘‘Cattārome, bho gotama, puggalā santo saṃvijjamānā lokasmiṃ. Katame cattāro…pe… ime kho, bho gotama, cattāro puggalā santo saṃvijjamānā lokasmiṃ. Imesaṃ, bho gotama, catunnaṃ puggalānaṃ yvāyaṃ puggalo avaṇṇārahassa ca avaṇṇaṃ bhāsitā bhūtaṃ tacchaṃ kālena, vaṇṇārahassa ca vaṇṇaṃ bhāsitā bhūtaṃ tacchaṃ kālena; ayaṃ me puggalo khamati imesaṃ catunnaṃ puggalānaṃ abhikkantataro ca paṇītataro ca. Taṃ kissa hetu? Abhikkantā hesā, bho gotama, yadidaṃ tattha tattha kālaññutā.",
+      "zh": "“[[gotama|乔达摩尊]]者，世间有这四种人存在。哪四种？……（中略）……[[gotama|乔达摩尊]]者，这就是世间存在的四种人。[[gotama|乔达摩尊]]者，这四种人中，有这样一种人：他对应受责备的人说真实、确实、适时的责备之语，对应受赞叹的人也说真实、确实、适时的赞叹之语。这个人令我满意，在这四种人中更为殊胜、更为优胜。那是什么原因？[[gotama|乔达摩尊]]者，因为这种在一切情况下知时的特质，是殊胜的。”"
+    },
+    {
+      "idx": 52,
+      "pali": "‘‘Abhikkantaṃ, bho gotama, abhikkantaṃ, bho gotama! Seyyathāpi, bho gotama, nikkujjitaṃ vā ukkujjeyya, paṭicchannaṃ vā vivareyya, mūḷhassa vā maggaṃ ācikkheyya, andhakāre vā telapajjotaṃ dhāreyya – cakkhumanto rūpāni dakkhantīti, evamevaṃ bhotā gotamena anekapariyāyena dhammo pakāsito . Esāhaṃ bhavantaṃ gotamaṃ saraṇaṃ gacchāmi dhammañca bhikkhusaṅghañca. Upāsakaṃ maṃ bhavaṃ gotamo dhāretu ajjatagge pāṇupetaṃ saraṇaṃ gata’’nti. Dasamaṃ.",
+      "zh": "“真是殊胜啊，[[gotama|乔达摩尊]]者！真是殊胜啊，[[gotama|乔达摩尊]]者！[[gotama|乔达摩尊]]者，就好像有人把倒下的扶起来，把隐藏的揭开，为迷路的人指明道路，在黑暗中持来油灯——让有眼者得以见色，同样地，[[gotama|乔达摩尊]]者以种种方式阐明了法。我今皈依[[gotama|乔达摩尊]]者、法、比丘僧团。愿[[gotama|乔达摩尊]]者忆持我为近事男，从今日起，直至命终，终身皈依。”第十经。"
+    },
+    {
+      "idx": 53,
+      "pali": "Asuravaggo pañcamo.",
+      "zh": "阿修罗品第五"
+    },
+    {
+      "idx": 54,
+      "pali": "Tassuddānaṃ –",
+      "zh": "其摄颂："
+    },
+    {
+      "idx": 55,
+      "pali": "Asuro tayo samādhī, chavālātena pañcamaṃ;",
+      "zh": "阿修罗、三种定，火葬柴为第五；",
+      "type": "verse"
+    },
+    {
+      "idx": 56,
+      "pali": "Rāgo nisanti attahitaṃ, sikkhā potaliyena cāti.",
+      "zh": "贪、寂止、自利，学与[[potaliya|晡利多]]。",
+      "type": "verse"
+    },
+    {
+      "idx": 57,
+      "pali": "Dutiyapaṇṇāsakaṃ samattaṃ.",
+      "zh": "第二组五十经终"
+    },
+    {
+      "idx": 58,
+      "pali": "3. Tatiyapaṇṇāsakaṃ",
+      "zh": "3. 第三组五十经"
+    }
+  ]
+}

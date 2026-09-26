@@ -1,0 +1,71 @@
+{
+  "uid": 113,
+  "title": "2. 学处略说",
+  "nik": "AN",
+  "segs": [
+    {
+      "idx": 0,
+      "pali": "2. Sikkhāpadapeyyālaṃ",
+      "zh": "2. 学处略说"
+    },
+    {
+      "idx": 1,
+      "pali": "1. Bhikkhusuttaṃ",
+      "zh": "1. [[bhikkhusutta|比丘经]]"
+    },
+    {
+      "idx": 2,
+      "pali": "‘‘Pañcahi , bhikkhave, dhammehi samannāgato bhikkhu yathābhataṃ nikkhitto evaṃ niraye. Katamehi pañcahi? Pāṇātipātī hoti, adinnādāyī hoti, abrahmacārī hoti, musāvādī hoti, surāmerayamajjapamādaṭṭhāyī hoti. Imehi kho, bhikkhave, pañcahi dhammehi samannāgato bhikkhu yathābhataṃ nikkhitto evaṃ niraye.",
+      "zh": "“诸比丘，具足五法的比丘，就如此被抛入地狱。哪五法？杀生、不与取、非梵行、妄语，以及饮用谷酒、果酒等放逸之因的酒类。诸比丘，具足这五法的比丘，就如此被抛入地狱。”",
+      "n": "286"
+    },
+    {
+      "idx": 3,
+      "pali": "‘‘Pañcahi, bhikkhave, dhammehi samannāgato bhikkhu yathābhataṃ nikkhitto evaṃ sagge. Katamehi pañcahi ? Pāṇātipātā paṭivirato hoti, adinnādānā paṭivirato hoti, abrahmacariyā paṭivirato hoti, musāvādā paṭivirato hoti, surāmerayamajjapamādaṭṭhānā paṭivirato hoti. Imehi kho, bhikkhave, pañcahi dhammehi samannāgato bhikkhu yathābhataṃ nikkhitto evaṃ sagge’’ti. Paṭhamaṃ.",
+      "zh": "“诸比丘，具足五法的比丘，就如此生于天界。哪五法？离杀生、离不与取、离非梵行、离妄语，以及离放逸之因的谷酒、果酒等酒类。诸比丘，具足这五法的比丘，就如此生于天界。 ”第1经。"
+    },
+    {
+      "idx": 4,
+      "pali": "2-7. Bhikkhunīsuttādichakkaṃ",
+      "zh": "2-7. 比丘尼经等六经"
+    },
+    {
+      "idx": 5,
+      "pali": "‘‘Pañcahi, bhikkhave, dhammehi samannāgatā bhikkhunī…pe… sikkhamānā… sāmaṇero… sāmaṇerī… upāsako… upāsikā yathābhataṃ nikkhittā evaṃ niraye. Katamehi pañcahi? Pāṇātipātinī hoti, adinnādāyinī hoti, kāmesumicchācārinī hoti, musāvādinī hoti, surāmerayamajjapamādaṭṭhāyinī hoti. Imehi kho, bhikkhave, pañcahi dhammehi samannāgatā upāsikā yathābhataṃ nikkhittā evaṃ niraye.",
+      "zh": "“诸比丘，具足五法的比丘尼……（中略）……学法女……沙弥……沙弥尼……近事男……近事女，便如同被拖入地狱一般。是哪五法呢？杀生、不与取、欲邪行、妄语，以及饮酒等种种放逸之因。诸比丘，具足这五法的近事女，便如同被拖入地狱一般。",
+      "n": "287-292"
+    },
+    {
+      "idx": 6,
+      "pali": "‘‘Pañcahi, bhikkhave, dhammehi samannāgatā upāsikā yathābhataṃ nikkhittā evaṃ sagge. Katamehi pañcahi? Pāṇātipātā paṭiviratā hoti, adinnādānā paṭiviratā hoti, kāmesumicchācārā paṭiviratā hoti, musāvādā paṭiviratā hoti, surāmerayamajjapamādaṭṭhānā paṭiviratā hoti. Imehi kho, bhikkhave, pañcahi dhammehi samannāgatā upāsikā yathābhataṃ nikkhittā evaṃ sagge’’ti. Sattamaṃ.",
+      "zh": "“诸比丘，具足五法的近事女，便如同被搬移而安放在天界一般。是哪五法呢？远离杀生，远离不与取，远离欲邪行，远离妄语，远离饮酒等种种放逸之因。诸比丘，具足这五法的近事女，便如同被搬移而安放在天界一般。（第七）”"
+    },
+    {
+      "idx": 7,
+      "pali": "8. Ājīvakasuttaṃ",
+      "zh": "8. [[ājīvakasutta|邪命外道经]]"
+    },
+    {
+      "idx": 8,
+      "pali": "‘‘Pañcahi , bhikkhave, dhammehi samannāgato ājīvako yathābhataṃ nikkhitto evaṃ niraye. Katamehi pañcahi? Pāṇātipātī hoti, adinnādāyī hoti, abrahmacārī hoti, musāvādī hoti, surāmerayamajjapamādaṭṭhāyī hoti. Imehi kho, bhikkhave, pañcahi dhammehi samannāgato ājīvako yathābhataṃ nikkhitto evaṃ niraye’’ti. Aṭṭhamaṃ.",
+      "zh": "“诸比丘，具足五法的邪命外道，就如被搬运而弃置一般，必定堕入地狱。哪五种法呢？杀生，不与取，行非梵行，说妄语，耽饮谷酒、果酒等诸酒而住于放逸。诸比丘，具足这五法的邪命外道，就如被搬运而弃置一般，必定堕入地狱。 ”第8经。",
+      "n": "293"
+    },
+    {
+      "idx": 9,
+      "pali": "9-17. Nigaṇṭhasuttādinavakaṃ",
+      "zh": "9-17. 尼乾陀经等九经"
+    },
+    {
+      "idx": 10,
+      "pali": "‘‘Pañcahi, bhikkhave, dhammehi samannāgato nigaṇṭho…pe… muṇḍasāvako… jaṭilako… paribbājako… māgaṇḍiko… tedaṇḍiko… āruddhako… gotamako… devadhammiko yathābhataṃ nikkhitto evaṃ niraye. Katamehi pañcahi? Pāṇātipātī hoti, adinnādāyī hoti…pe… surāmerayamajjapamādaṭṭhāyī hoti. Imehi kho, bhikkhave, pañcahi dhammehi samannāgato devadhammiko yathābhataṃ nikkhitto evaṃ niraye’’ti. Sattarasamaṃ.",
+      "zh": "“诸比丘，具足五法的尼乾陀、剃发弟子、结发行者、游方者、摩犍提者、持三杖者、阿卢达派、乔达摩派、天法者，就如被搬运而弃置一般，必定堕入地狱。是哪五法呢？杀生，不与取……乃至耽饮诸酒而住于放逸。诸比丘，具足这五法的天法者，就如被搬运而弃置一般，必定堕入地狱。”第十七经。",
+      "n": "294-302"
+    },
+    {
+      "idx": 11,
+      "pali": "Sikkhāpadapeyyālaṃ niṭṭhitaṃ.",
+      "zh": "学处略说终"
+    }
+  ]
+}

@@ -1,0 +1,304 @@
+{
+ "uid": 96,
+ "title": "1. 惊慌经",
+ "nik": "AN",
+ "segs": [
+  {
+   "idx": 0,
+   "pali": "(11) 1. Phāsuvihāravaggo",
+   "zh": "（11） 1. 安乐住品"
+  },
+  {
+   "idx": 1,
+   "pali": "1. Sārajjasuttaṃ",
+   "zh": "1. [[sārajjasutta|羞愧经]]"
+  },
+  {
+   "idx": 2,
+   "pali": "‘‘Pañcime , bhikkhave, sekhavesārajjakaraṇā dhammā. Katame pañca? Idha, bhikkhave, bhikkhu saddho hoti, sīlavā hoti, bahussuto hoti, āraddhavīriyo hoti, paññavā hoti.",
+   "zh": "“诸比丘，有五种法能令有学者得无所畏。哪五种呢？诸比丘，于此，比丘具信，具戒，多闻，精进，具慧。",
+   "n": "101"
+  },
+  {
+   "idx": 3,
+   "pali": "‘‘Yaṃ, bhikkhave, assaddhassa sārajjaṃ hoti, saddhassa taṃ sārajjaṃ na hoti. Tasmāyaṃ dhammo sekhavesārajjakaraṇo.",
+   "zh": "“诸比丘，无信者会生起的畏惧，有信者便不生起。因此，此法能令有学无畏。"
+  },
+  {
+   "idx": 4,
+   "pali": "‘‘Yaṃ, bhikkhave, dussīlassa sārajjaṃ hoti, sīlavato taṃ sārajjaṃ na hoti. Tasmāyaṃ dhammo sekhavesārajjakaraṇo.",
+   "zh": "“诸比丘，破戒者会生起的畏惧，持戒者便不生起。因此，此法能令有学无畏。"
+  },
+  {
+   "idx": 5,
+   "pali": "‘‘Yaṃ, bhikkhave, appassutassa sārajjaṃ hoti, bahussutassa taṃ sārajjaṃ na hoti. Tasmāyaṃ dhammo sekhavesārajjakaraṇo.",
+   "zh": "“诸比丘，少闻者会生起的畏惧，多闻者便不生起。因此，此法能令有学无畏。"
+  },
+  {
+   "idx": 6,
+   "pali": "‘‘Yaṃ, bhikkhave, kusītassa sārajjaṃ hoti, āraddhavīriyassa taṃ sārajjaṃ na hoti. Tasmāyaṃ dhammo sekhavesārajjakaraṇo.",
+   "zh": "“诸比丘，懈怠者有所畏惧，精勤者则无此畏惧。是故，此法乃令有学无畏之法。"
+  },
+  {
+   "idx": 7,
+   "pali": "‘‘Yaṃ, bhikkhave, duppaññassa sārajjaṃ hoti, paññavato taṃ sārajjaṃ na hoti. Tasmāyaṃ dhammo sekhavesārajjakaraṇo. Ime kho, bhikkhave, pañca sekhavesārajjakaraṇā dhammā’’ti. Paṭhamaṃ.",
+   "zh": "“诸比丘，劣慧者有所畏惧，具慧者则无此畏惧。是故，此法乃令有学无畏之法。诸比丘，这便是五种令有学无畏之法。”第一经。"
+  },
+  {
+   "idx": 8,
+   "pali": "2. Ussaṅkitasuttaṃ",
+   "zh": "2. [[ussaṅkitasutta|疑虑经]]"
+  },
+  {
+   "idx": 9,
+   "pali": "‘‘Pañcahi , bhikkhave, dhammehi samannāgato bhikkhu ussaṅkitaparisaṅkito hoti pāpabhikkhūti api akuppadhammopi .",
+   "zh": "“诸比丘，具足五法的比丘，纵然是不动法者，也难免被怀疑、被猜疑为‘恶比丘’。”",
+   "n": "102"
+  },
+  {
+   "idx": 10,
+   "pali": "Katamehi pañcahi? Idha, bhikkhave, bhikkhu vesiyāgocaro vā hoti, vidhavāgocaro vā hoti, thullakumārikāgocaro vā hoti, paṇḍakagocaro vā hoti, bhikkhunīgocaro vā hoti.",
+   "zh": "哪五种呢？诸比丘，于此，比丘常去妓女处，常去寡妇处，常去成年未婚女处，常去黄门处，常去比丘尼处。"
+  },
+  {
+   "idx": 11,
+   "pali": "‘‘Imehi kho, bhikkhave, pañcahi dhammehi samannāgato bhikkhu ussaṅkitaparisaṅkito hoti pāpabhikkhūti api akuppadhammopī’’ti. Dutiyaṃ.",
+   "zh": "“诸比丘，具足此五法的比丘，纵然是不动法者，也难免被怀疑、被猜疑为‘恶比丘’。”第二经。"
+  },
+  {
+   "idx": 12,
+   "pali": "3. Mahācorasuttaṃ",
+   "zh": "3. [[mahācorasutta|大盗经]]"
+  },
+  {
+   "idx": 13,
+   "pali": "‘‘Pañcahi, bhikkhave, aṅgehi samannāgato mahācoro sandhimpi chindati, nillopampi harati, ekāgārikampi karoti, paripanthepi tiṭṭhati. Katamehi pañcahi? Idha, bhikkhave, mahācoro visamanissito ca hoti, gahananissito ca, balavanissito ca, bhogacāgī ca, ekacārī ca.",
+   "zh": "“诸比丘，具足五支的大盗，能破门穿墙，能掠夺财物，能行独户劫，能拦路埋伏。哪五支呢？诸比丘，在此，大盗依止险难处，依止密林处，依止强力者，以财物打点，独自行事。",
+   "n": "103"
+  },
+  {
+   "idx": 14,
+   "pali": "‘‘Kathañca, bhikkhave, mahācoro visamanissito hoti? Idha, bhikkhave, mahācoro nadīviduggaṃ vā nissito hoti pabbatavisamaṃ vā. Evaṃ kho, bhikkhave, mahācoro visamanissito hoti.",
+   "zh": "“诸比丘，大盗又是如何依止险难处的呢？诸比丘，在此，大盗依止于河川断崖的险处，或依止于山峦崎岖的险地。诸比丘，大盗便是如此依止险难处的。"
+  },
+  {
+   "idx": 15,
+   "pali": "‘‘Kathañca, bhikkhave, mahācoro gahananissito hoti? Idha, bhikkhave, mahācoro tiṇagahanaṃ vā nissito hoti rukkhagahanaṃ vā rodhaṃ vā mahāvanasaṇḍaṃ vā. Evaṃ kho, bhikkhave, mahācoro gahananissito hoti.",
+   "zh": "“诸比丘，大盗如何依止密林呢？在此，大盗依止草丛密林、树木密林、灌木丛或大森林。诸比丘，大盗便是这样依止密林的。"
+  },
+  {
+   "idx": 16,
+   "pali": "‘‘Kathañca, bhikkhave, mahācoro balavanissito hoti? Idha, bhikkhave, mahācoro rājānaṃ vā rājamahāmattānaṃ vā nissito hoti. Tassa evaṃ hoti – ‘sace maṃ koci kiñci vakkhati, ime me rājāno vā rājamahāmattā vā pariyodhāya atthaṃ bhaṇissantī’ti. Sace naṃ koci kiñci āha, tyassa rājāno vā rājamahāmattā vā pariyodhāya atthaṃ bhaṇanti. Evaṃ kho, bhikkhave, mahācoro balavanissito hoti.",
+   "zh": "“诸比丘，大盗如何依止有力者呢？在此，大盗依止国王或大臣。他如此想：‘若有人要对我说什么，这些国王或大臣便会为我辩护说情。’若有人要对他说什么，那些国王或大臣便为他辩护说情。诸比丘，大盗便是这样依止有力者的。”"
+  },
+  {
+   "idx": 17,
+   "pali": "‘‘Kathañca, bhikkhave, mahācoro bhogacāgī hoti? Idha, bhikkhave, mahācoro aḍḍho hoti mahaddhano mahābhogo. Tassa evaṃ hoti – ‘sace maṃ koci kiñci vakkhati, ito bhogena paṭisantharissāmī’ti. Sace naṃ koci kiñci āha, tato bhogena paṭisantharati. Evaṃ kho, bhikkhave, mahācoro bhogacāgī hoti.",
+   "zh": "“诸比丘，大盗如何以财物打点呢？在此，大盗富裕，拥有大量财富。他如此想：‘若有人要对我说什么，我便用这些财物去疏通。’若有人要对他说什么，他便用财物去疏通。诸比丘，大盗便是这样以财物打点的。”"
+  },
+  {
+   "idx": 18,
+   "pali": "‘‘Kathañca, bhikkhave, mahācoro ekacārī hoti? Idha, bhikkhave, mahācoro ekakova gahaṇāni kattā hoti. Taṃ kissa hetu? ‘Mā me guyhamantā bahiddhā sambhedaṃ agamaṃsū’ti. Evaṃ kho, bhikkhave, mahācoro ekacārī hoti.",
+   "zh": "“诸比丘，大盗如何独自行动？诸比丘，在此，大盗独自一人行劫掠。何以故？‘愿我的秘计不向外泄露。’诸比丘，大盗便如此独自行动。”"
+  },
+  {
+   "idx": 19,
+   "pali": "‘‘Imehi kho, bhikkhave, pañcahaṅgehi samannāgato mahācoro sandhimpi chindati nillopampi harati ekāgārikampi karoti paripanthepi tiṭṭhati.",
+   "zh": "“诸比丘，具足这五支的大盗，能穿墙破户，劫夺财物，行独户劫，拦路伏劫。"
+  },
+  {
+   "idx": 20,
+   "pali": "‘‘Evamevaṃ kho, bhikkhave, pañcahi dhammehi samannāgato pāpabhikkhu khataṃ upahataṃ attānaṃ pariharati, sāvajjo ca hoti sānuvajjo viññūnaṃ, bahuñca apuññaṃ pasavati. Katamehi pañcahi? Idha, bhikkhave, pāpabhikkhu visamanissito ca hoti, gahananissito ca, balavanissito ca, bhogacāgī ca, ekacārī ca.",
+   "zh": "“诸比丘，同样地，具足五法的恶比丘，住于毁坏伤害自身之中，有罪，为智者所呵责，并生起众多非福。是哪五种呢？诸比丘，于此，恶比丘依于不平之处，依于丛林，依仗势力，以财物打点，独自行动。"
+  },
+  {
+   "idx": 21,
+   "pali": "‘‘Kathañca, bhikkhave, pāpabhikkhu visamanissito hoti? Idha, bhikkhave, pāpabhikkhu visamena kāyakammena samannāgato hoti, visamena vacīkammena samannāgato hoti, visamena manokammena samannāgato hoti. Evaṃ kho, bhikkhave, pāpabhikkhu visamanissito hoti.",
+   "zh": "“诸比丘，恶比丘如何依不平等而住呢？诸比丘，于此，恶比丘具足不平等的身业，具足不平等的语业，具足不平等的意业。诸比丘，恶比丘便是这样依不平等而住。"
+  },
+  {
+   "idx": 22,
+   "pali": "‘‘Kathañca, bhikkhave, pāpabhikkhu gahananissito hoti? Idha , bhikkhave, pāpabhikkhu micchādiṭṭhiko hoti antaggāhikāya diṭṭhiyā samannāgato. Evaṃ kho, bhikkhave, pāpabhikkhu gahananissito hoti.",
+   "zh": "“诸比丘，恶比丘如何依丛林而住呢？诸比丘，于此，恶比丘持有邪见，具足边执见。诸比丘，恶比丘便是这样依丛林而住。"
+  },
+  {
+   "idx": 23,
+   "pali": "‘‘Kathañca, bhikkhave, pāpabhikkhu balavanissito hoti? Idha, bhikkhave, pāpabhikkhu rājānaṃ vā rājamahāmattānaṃ vā nissito hoti. Tassa evaṃ hoti – ‘sace maṃ koci kiñci vakkhati, ime me rājāno vā rājamahāmattā vā pariyodhāya atthaṃ bhaṇissantī’ti. Sace naṃ koci kiñci āha, tyassa rājāno vā rājamahāmattā vā pariyodhāya atthaṃ bhaṇanti. Evaṃ kho, bhikkhave, pāpabhikkhu balavanissito hoti.",
+   "zh": "“诸比丘，恶比丘如何依仗权势而住呢？诸比丘，于此，恶比丘依止国王或大臣。他心里这样想：‘如果有人对我说什么，这些国王或大臣就会为我辩护，说明道理。’若真有人对他说什么，那些国王或大臣便为他辩护，说明道理。诸比丘，恶比丘便是这样依仗权势而住。”"
+  },
+  {
+   "idx": 24,
+   "pali": "‘‘Kathañca, bhikkhave, pāpabhikkhu bhogacāgī hoti? Idha, bhikkhave, pāpabhikkhu lābhī hoti cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhārānaṃ. Tassa evaṃ hoti – ‘sace maṃ koci kiñci vakkhati, ito lābhena paṭisantharissāmī’ti. Sace naṃ koci kiñci āha, tato lābhena paṭisantharati. Evaṃ kho, bhikkhave, pāpabhikkhu bhogacāgī hoti.",
+   "zh": "“诸比丘！恶比丘如何以财物打点？诸比丘！于此，恶比丘获得衣、食、坐卧处、病者所需医药资具等利养。他心里想：‘若有人对我有所言说，我便以此利养回报。’若有人对他有所言说，他便以所得利养回报。诸比丘！恶比丘便是这样以财物打点。”"
+  },
+  {
+   "idx": 25,
+   "pali": "‘‘Kathañca , bhikkhave, pāpabhikkhu ekacārī hoti? Idha, bhikkhave, pāpabhikkhu ekakova paccantimesu janapadesu nivāsaṃ kappeti. So tattha kulāni upasaṅkamanto lābhaṃ labhati. Evaṃ kho, bhikkhave, pāpabhikkhu ekacārī hoti.",
+   "zh": "“诸比丘！恶比丘如何是独行者？诸比丘！于此，恶比丘独自一人安住在边地的国土中。他在彼处走访诸家，获得利养。诸比丘！恶比丘便是这样的独行者。"
+  },
+  {
+   "idx": 26,
+   "pali": "‘‘Imehi kho, bhikkhave, pañcahi dhammehi samannāgato pāpabhikkhu khataṃ upahataṃ attānaṃ pariharati, sāvajjo ca hoti sānuvajjo viññūnaṃ, bahuñca apuññaṃ pasavatī’’ti. Tatiyaṃ.",
+   "zh": "“诸比丘！具足这五法的恶比丘，是毁坏自身、伤害自身而住者，有罪，为智者所呵责，并造作众多非福。”第三经。"
+  },
+  {
+   "idx": 27,
+   "pali": "4. Samaṇasukhumālasuttaṃ",
+   "zh": "4. [[samaṇasukhumālasutta|沙门柔软经]]"
+  },
+  {
+   "idx": 28,
+   "pali": "‘‘Pañcahi, bhikkhave, dhammehi samannāgato bhikkhu samaṇesu samaṇasukhumālo hoti.",
+   "zh": "“诸比丘，具足五法的比丘，于沙门中，堪为沙门中的柔软者。”",
+   "n": "104"
+  },
+  {
+   "idx": 29,
+   "pali": "‘‘Katamehi pañcahi? Idha, bhikkhave, bhikkhu yācitova bahulaṃ cīvaraṃ paribhuñjati, appaṃ ayācito; yācitova bahulaṃ piṇḍapātaṃ paribhuñjati, appaṃ ayācito; yācitova bahulaṃ senāsanaṃ paribhuñjati, appaṃ ayācito; yācitova bahulaṃ gilānappaccayabhesajjaparikkhāraṃ paribhuñjati, appaṃ ayācito. Yehi kho pana sabrahmacārīhi saddhiṃ viharati , tyassa manāpeneva bahulaṃ kāyakammena samudācaranti, appaṃ amanāpena; manāpeneva bahulaṃ vacīkammena samudācaranti, appaṃ amanāpena; manāpeneva bahulaṃ manokammena samudācaranti, appaṃ amanāpena; manāpaṃyeva upahāraṃ upaharanti, appaṃ amanāpaṃ. Yāni kho pana tāni vedayitāni pittasamuṭṭhānāni vā semhasamuṭṭhānāni vā vātasamuṭṭhānāni vā sannipātikāni vā utupariṇāmajāni vā visamaparihārajāni vā opakkamikāni vā kammavipākajāni vā, tānissa na bahudeva uppajjanti. Appābādho hoti, catunnaṃ jhānānaṃ ābhicetasikānaṃ diṭṭhadhammasukhavihārānaṃ nikāmalābhī hoti akicchalābhī akasiralābhī, āsavānaṃ khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharati. Imehi kho, bhikkhave, pañcahi dhammehi samannāgato bhikkhu samaṇesu samaṇasukhumālo hoti.",
+   "zh": "“哪五法呢？诸比丘，于此，比丘大多在受邀时受用衣服，未受邀时则少受用；大多在受邀时受用钵食，未受邀时则少受用；大多在受邀时受用住所，未受邀时则少受用；大多在受邀时受用病者所需的医药资具，未受邀时则少受用。而与他共住的梵行者，多以可意的身业待他，少以不可意的身业；多以可意的语业待他，少以不可意的语业；多以可意的意业待他，少以不可意的意业；多供养可意之物，少供养不可意之物。那些由胆汁所生、由痰所生、由风所生、由三者结合所生、由时节变化所生、由起居不调所生、由外来所生、由业果报所生的种种感受，并不常生起于他。他少有病患，于四种增上心、现法乐住的禅那，随愿而得、不难得、不费力得。他诸漏已尽，于现法中，以证智自作证，具足安住于无漏的心解脱、慧解脱。诸比丘，具足此五法的比丘，于沙门中，是沙门中的柔软者。”"
+  },
+  {
+   "idx": 30,
+   "pali": "‘‘Yañhi taṃ, bhikkhave, sammā vadamāno vadeyya – ‘samaṇesu samaṇasukhumālo’ti, mameva taṃ, bhikkhave, sammā vadamāno vadeyya – ‘samaṇesu samaṇasukhumālo’ti . Ahañhi, bhikkhave, yācitova bahulaṃ cīvaraṃ paribhuñjāmi, appaṃ ayācito; yācitova bahulaṃ piṇḍapātaṃ paribhuñjāmi, appaṃ ayācito; yācitova bahulaṃ senāsanaṃ paribhuñjāmi, appaṃ ayācito; yācitova bahulaṃ gilānappaccayabhesajjaparikkhāraṃ paribhuñjāmi, appaṃ ayācito. Yehi kho pana bhikkhūhi saddhiṃ viharāmi, te maṃ manāpeneva bahulaṃ kāyakammena samudācaranti, appaṃ amanāpena ; manāpeneva bahulaṃ vacīkammena samudācaranti, appaṃ amanāpena; manāpeneva bahulaṃ manokammena samudācaranti, appaṃ amanāpena; manāpaṃyeva upahāraṃ upaharanti, appaṃ amanāpaṃ. Yāni kho pana tāni vedayitāni – pittasamuṭṭhānāni vā semhasamuṭṭhānāni vā vātasamuṭṭhānāni vā sannipātikāni vā utupariṇāmajāni vā visamaparihārajāni vā opakkamikāni vā kammavipākajāni vā – tāni me na bahudeva uppajjanti. Appābādhohamasmi, catunnaṃ kho panasmi jhānānaṃ ābhicetasikānaṃ diṭṭhadhammasukhavihārānaṃ nikāmalābhī akicchalābhī akasiralābhī, āsavānaṃ khayā…pe… sacchikatvā upasampajja viharāmi.",
+   "zh": "“诸比丘！若有人正当地说：‘沙门中的柔软者’，那所说的正是我；诸比丘！若有人正当地说：‘沙门中的柔软者’，那所说的正是我。诸比丘！我多分是被邀请后才受用衣服，很少不被邀请而受用；多分是被邀请后才受用钵食，很少不被邀请而受用；多分是被邀请后才受用住所，很少不被邀请而受用；多分是被邀请后才受用病者所需的医药资具，很少不被邀请而受用。与我共住的诸比丘，多以合意的身行对待我，少以不合意的；多以合意的语行对待我，少以不合意的；多以合意的意行对待我，少以不合意的；多以合意的供养供养我，少以不合意的。那些由胆汁所生、由痰所生、由风所生、由三者和合所生、由时节变化所生、由不当行持所生、由外缘所生、由业果报所生的感受，在我身上很少生起。我少病少恼，而于那四种增上心、能带来现法乐住的禅那，随我所愿而得、不难得、不费力而得，以诸漏尽……（中略）……作证具足而住。”"
+  },
+  {
+   "idx": 31,
+   "pali": "‘‘Yañhi taṃ, bhikkhave, sammā vadamāno vadeyya – ‘samaṇesu samaṇasukhumālo’ti, mameva taṃ, bhikkhave, sammā vadamāno vadeyya – ‘samaṇesu samaṇasukhumālo’’’ti. Catutthaṃ.",
+   "zh": "“诸比丘！若有人正当地说：‘沙门中的柔软者’，那所说的正是我；诸比丘！若有人正当地说：‘沙门中的柔软者’，那所说的正是我。第四经完。”"
+  },
+  {
+   "idx": 32,
+   "pali": "5. Phāsuvihārasuttaṃ",
+   "zh": "5. [[phāsuvihārasutta|安乐住经]]"
+  },
+  {
+   "idx": 33,
+   "pali": "‘‘Pañcime, bhikkhave, phāsuvihārā. Katame pañca? Idha, bhikkhave, bhikkhuno mettaṃ kāyakammaṃ paccupaṭṭhitaṃ hoti sabrahmacārīsu āvi ceva raho ca, mettaṃ vacīkammaṃ…pe… mettaṃ manokammaṃ paccupaṭṭhitaṃ hoti sabrahmacārīsu āvi ceva raho ca. Yāni tāni sīlāni akhaṇḍāni acchiddāni asabalāni akammāsāni bhujissāni viññuppasatthāni aparāmaṭṭhāni samādhisaṃvattanikāni, tathārūpehi sīlehi sīlasāmaññagato viharati sabrahmacārīhi āvi ceva raho ca. Yāyaṃ diṭṭhi ariyā niyyānikā niyyāti takkarassa sammā dukkhakkhayāya, tathārūpāya diṭṭhiyā diṭṭhisāmaññagato viharati sabrahmacārīhi āvi ceva raho ca. Ime kho, bhikkhave, pañca phāsuvihārā’’ti. Pañcamaṃ.",
+   "zh": "“诸比丘，有此五种安乐住。哪五种呢？诸比丘，此处，比丘于同梵行者现起慈的身业，无论公开或私下；慈的语业……（中略）……于同梵行者现起慈的意业，无论公开或私下。那些戒——无缺、无穿、无斑、无杂、自在、智者所赞叹、无执取、导向定——以如是诸戒，与同梵行者具足戒之共通性而安住，无论公开或私下。那见——圣的、能导出、能引导具此见者正确灭苦——以如是见，与同梵行者具足见之共通性而安住，无论公开或私下。诸比丘，此即五种安乐住。”第五经（完）",
+   "n": "105"
+  },
+  {
+   "idx": 34,
+   "pali": "6. Ānandasuttaṃ",
+   "zh": "6. [[ānandasutta|阿难经]]"
+  },
+  {
+   "idx": 35,
+   "pali": "Ekaṃ samayaṃ bhagavā kosambiyaṃ viharati ghositārāme. Atha kho āyasmā ānando yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho āyasmā ānando bhagavantaṃ etadavoca –",
+   "zh": "一时，世尊住在[[kosambī|憍赏弥]]城的瞿师罗。那时，具寿[[ānanda|阿难]]往诣世尊所在之处；到已，礼敬世尊，退坐一面。退坐一面后，具寿[[ānanda|阿难]]向世尊禀白：",
+   "n": "106"
+  },
+  {
+   "idx": 36,
+   "pali": "‘‘Kittāvatā nu kho, bhante, bhikkhu saṅghe viharanto phāsuṃ vihareyyā’’ti? ‘‘Yato kho, ānanda, bhikkhu attanā sīlasampanno hoti, no paraṃ adhisīle sampavattā ; ettāvatāpi kho, ānanda, bhikkhu saṅghe viharanto phāsuṃ vihareyyā’’ti.",
+   "zh": "“尊者！比丘在僧团中安住，要达到怎样的程度才能安乐而住呢？”“[[ānanda|阿难]]！若比丘自己戒行具足，而不在增上戒方面督促他人，[[ānanda|阿难]]！仅此程度，比丘在僧团中安住便能安乐而住。”"
+  },
+  {
+   "idx": 37,
+   "pali": "‘‘Siyā pana, bhante, aññopi pariyāyo yathā bhikkhu saṅghe viharanto phāsuṃ vihareyyā’’ti? ‘‘Siyā, ānanda ! Yato kho, ānanda, bhikkhu attanā sīlasampanno hoti, no paraṃ adhisīle sampavattā; attānupekkhī ca hoti, no parānupekkhī; ettāvatāpi kho, ānanda, bhikkhu saṅghe viharanto phāsuṃ vihareyyā’’ti.",
+   "zh": "“尊者！是否还有其他方法，能使比丘在僧团中安住而获得安乐呢？”“有的，[[ānanda|阿难]]。[[ānanda|阿难]]！若比丘自己戒行具足，而不在增上戒方面督促他人；他观察自己，而不观察他人；[[ānanda|阿难]]！仅此程度，比丘在僧团中安住便能安乐而住。”"
+  },
+  {
+   "idx": 38,
+   "pali": "‘‘Siyā pana, bhante, aññopi pariyāyo yathā bhikkhu saṅghe viharanto phāsuṃ vihareyyā’’ti? ‘‘Siyā, ānanda! Yato kho, ānanda, bhikkhu attanā sīlasampanno hoti, no paraṃ adhisīle sampavattā; attānupekkhī ca hoti, no parānupekkhī; apaññāto ca hoti, tena ca apaññātakena no paritassati; ettāvatāpi kho, ānanda, bhikkhu saṅghe viharanto phāsuṃ vihareyyā’’ti.",
+   "zh": "“尊者！是否还有其他方法，能使比丘在僧团中安住而获得安乐呢？”“有的，[[ānanda|阿难]]。[[ānanda|阿难]]！若比丘自己戒行具足，而不在增上戒方面督促他人；他观察自己，而不观察他人；他不为人所知，且不因不为人知而焦虑；[[ānanda|阿难]]！仅此程度，比丘在僧团中安住便能安乐而住。”"
+  },
+  {
+   "idx": 39,
+   "pali": "‘‘Siyā pana, bhante, aññopi pariyāyo yathā bhikkhu saṅghe viharanto phāsuṃ vihareyyā’’ti? ‘‘Siyā, ānanda! Yato kho, ānanda, bhikkhu attanā sīlasampanno hoti, no paraṃ adhisīle sampavattā; attānupekkhī ca hoti, no parānupekkhī; apaññāto ca hoti, tena ca apaññātakena no paritassati; catunnañca jhānānaṃ ābhicetasikānaṃ diṭṭhadhammasukhavihārānaṃ nikāmalābhī hoti akicchalābhī akasiralābhī; ettāvatāpi kho, ānanda, bhikkhu saṅghe viharanto phāsuṃ vihareyyā’’ti.",
+   "zh": "“尊者，是否还有其他方式，可使比丘在僧团中安乐而住呢？”\n“有，[[ānanda|阿难]]。[[ānanda|阿难]]，比丘自己具足戒，不于增上戒督促他人；观察自己，而不观察他人；不为人知，亦不因不为人知而焦虑；随意、无困难、无艰难地获得四禅那——增上心、现法乐住。[[ānanda|阿难]]，达到这等地步，比丘在僧团中亦能安乐而住。”"
+  },
+  {
+   "idx": 40,
+   "pali": "‘‘Siyā pana, bhante, aññopi pariyāyo yathā bhikkhu saṅghe viharanto phāsuṃ vihareyyā’’ti? ‘‘Siyā, ānanda! Yato kho, ānanda, bhikkhu attanā sīlasampanno hoti, no paraṃ adhisīle sampavattā; attānupekkhī ca hoti, no parānupekkhī; apaññāto ca hoti, tena ca apaññātakena no paritassati; catunnañca jhānānaṃ ābhicetasikānaṃ diṭṭhadhammasukhavihārānaṃ nikāmalābhī hoti akicchalābhī akasiralābhī; āsavānañca khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharati; ettāvatāpi kho, ānanda, bhikkhu saṅghe viharanto phāsuṃ vihareyya.",
+   "zh": "“尊者，是否还有其他方式，可使比丘在僧团中安乐而住呢？”\n“有，[[ānanda|阿难]]。[[ānanda|阿难]]，比丘自己具足戒，不于增上戒督促他人；观察自己，而不观察他人；不为人知，亦不因不为人知而焦虑；随意、无困难、无艰难地获得四禅那——增上心、现法乐住；且诸漏已尽，于现法中，以证智自作证，具足无漏心解脱、慧解脱而住。[[ānanda|阿难]]，达到这等地步，比丘在僧团中亦能安乐而住。”"
+  },
+  {
+   "idx": 41,
+   "pali": "‘‘Imamhā cāhaṃ, ānanda, phāsuvihārā añño phāsuvihāro uttaritaro vā paṇītataro vā natthīti vadāmī’’ti. Chaṭṭhaṃ.",
+   "zh": "“[[ānanda|阿难]]，我说，除此安乐住之外，再无其他更殊胜、更微妙的安乐住。”\n第六经。"
+  },
+  {
+   "idx": 42,
+   "pali": "7. Sīlasuttaṃ",
+   "zh": "7. [[sīlasutta|戒经]]"
+  },
+  {
+   "idx": 43,
+   "pali": "‘‘Pañcahi , bhikkhave, dhammehi samannāgato bhikkhu āhuneyyo hoti pāhuneyyo dakkhiṇeyyo añjalikaraṇīyo anuttaraṃ puññakkhettaṃ lokassa.",
+   "zh": "“诸比丘，具足五法的比丘，是应供养者、应供奉者、应受施者、应受合掌者，为世间无上福田。",
+   "n": "107"
+  },
+  {
+   "idx": 44,
+   "pali": "‘‘Katamehi pañcahi? Idha, bhikkhave, bhikkhu sīlasampanno hoti, samādhisampanno hoti, paññāsampanno hoti, vimuttisampanno hoti, vimuttiñāṇadassanasampanno hoti.",
+   "zh": "“哪五种呢？诸比丘，于此，比丘戒具足、定具足、慧具足、解脱具足、解脱智见具足。"
+  },
+  {
+   "idx": 45,
+   "pali": "‘‘Imehi kho, bhikkhave, pañcahi dhammehi samannāgato bhikkhu āhuneyyo hoti pāhuneyyo dakkhiṇeyyo añjalikaraṇīyo anuttaraṃ puññakkhettaṃ lokassā’’ti. Sattamaṃ.",
+   "zh": "“诸比丘，具足此五法的比丘，应受供养、应受供奉、应受布施、应受合掌礼敬，是世间无上福田。”第七经。"
+  },
+  {
+   "idx": 46,
+   "pali": "8. Asekhasuttaṃ",
+   "zh": "8. [[asekhasutta|无学经]]"
+  },
+  {
+   "idx": 47,
+   "pali": "‘‘Pañcahi, bhikkhave, dhammehi samannāgato bhikkhu āhuneyyo hoti pāhuneyyo dakkhiṇeyyo…pe… anuttaraṃ puññakkhettaṃ lokassa.",
+   "zh": "“诸比丘，具足五法的比丘，应受供养、应受供奉、应受布施……是世间无上福田。",
+   "n": "108"
+  },
+  {
+   "idx": 48,
+   "pali": "‘‘Katamehi, pañcahi? Idha, bhikkhave, bhikkhu asekhena sīlakkhandhena samannāgato hoti, asekhena samādhikkhandhena samannāgato hoti, asekhena paññākkhandhena samannāgato hoti, asekhena vimuttikkhandhena samannāgato hoti, asekhena vimuttiñāṇadassanakkhandhena samannāgato hoti. Imehi kho, bhikkhave, pañcahi dhammehi samannāgato bhikkhu āhuneyyo hoti…pe… anuttaraṃ puññakkhettaṃ lokassā’’ti. Aṭṭhamaṃ.",
+   "zh": "“诸比丘，是哪五种呢？诸比丘，于此，比丘具足无学戒蕴，具足无学定蕴，具足无学慧蕴，具足无学解脱蕴，具足无学解脱智见蕴。诸比丘，具足这五种法的比丘，应受供养、应受款待、应受施与、应受合掌，是世间无上的福田。——”第八。"
+  },
+  {
+   "idx": 49,
+   "pali": "9. Cātuddisasuttaṃ",
+   "zh": "9. [[cātuddisasutta|四方经]]"
+  },
+  {
+   "idx": 50,
+   "pali": "‘‘Pañcahi , bhikkhave, dhammehi samannāgato bhikkhu cātuddiso hoti. Katamehi pañcahi? Idha, bhikkhave, bhikkhu sīlavā hoti, pātimokkhasaṃvarasaṃvuto viharati ācāragocarasampanno aṇumattesu vajjesu bhayadassāvī, samādāya sikkhati sikkhāpadesu; bahussuto hoti sutadharo sutasannicayo , ye te dhammā ādikalyāṇā majjhekalyāṇā pariyosānakalyāṇā sātthaṃ sabyañjanaṃ kevalaparipuṇṇaṃ parisuddhaṃ brahmacariyaṃ abhivadanti, tathārūpāssa dhammā bahussutā honti dhātā vacasā paricitā manasānupekkhitā diṭṭhiyā suppaṭividdhā; santuṭṭho hoti itarītaracīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhārena; catunnaṃ jhānānaṃ ābhicetasikānaṃ diṭṭhadhammasukhavihārānaṃ nikāmalābhī hoti akicchalābhī akasiralābhī; āsavānaṃ khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharati. Imehi, kho, bhikkhave, pañcahi dhammehi samannāgato bhikkhu cātuddiso hotī’’ti. Navamaṃ.",
+   "zh": "“诸比丘，具足五法的比丘是四方无畏者。哪五种呢？诸比丘，于此，比丘具戒，依巴帝摩卡防护而住，具足正行与行处，于微细罪过见怖畏，受持学处；他多闻、持法、积集所闻：凡是那些初善、中善、后善，有意义、有文字，宣说完全圆满、遍净梵行的法，他都多闻、忆持、以语熟习、以意观察、以见善巧通达；他于衣服、饮食、坐卧处、病者所需医药资具，皆能知足；他随意而得、无困难得、无艰辛得四禅，即增上心、现法乐住；他以诸漏已尽，于现法中，以自己的证智证得、具足安住无漏的心解脱、慧解脱。诸比丘，具足这五法的比丘，是四方无畏者。”第九经。",
+   "n": "109"
+  },
+  {
+   "idx": 51,
+   "pali": "10. Araññasuttaṃ",
+   "zh": "10. [[araññasutta|林野经]]"
+  },
+  {
+   "idx": 52,
+   "pali": "‘‘Pañcahi, bhikkhave, dhammehi samannāgato bhikkhu alaṃ araññavanapatthāni pantāni senāsanāni paṭisevituṃ. Katamehi pañcahi? Idha, bhikkhave, bhikkhu sīlavā hoti…pe… samādāya sikkhati sikkhāpadesu; bahussuto hoti…pe… diṭṭhiyā suppaṭividdhā; āraddhavīriyo viharati thāmavā daḷhaparakkamo anikkhittadhuro kusalesu dhammesu; catunnaṃ jhānānaṃ ābhicetasikānaṃ diṭṭhadhammasukhavihārānaṃ nikāmalābhī hoti akicchalābhī akasiralābhī; āsavānaṃ khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharati. Imehi kho, bhikkhave, pañcahi dhammehi samannāgato bhikkhu alaṃ araññavanapatthāni pantāni senāsanāni paṭisevitu’’nti. Dasamaṃ.",
+   "zh": "“诸比丘！成就五法的比丘，堪能受用阿兰若、林野、边鄙的坐卧处。哪五种法呢？诸比丘！在此，比丘具足戒……（中略）……于诸学处受持而学；多闻……（中略）……于见善通达；发勤精进而住，有力量，坚固、勇猛，于诸善法不舍重担；四禅——增上心、现法乐住，随愿而得，无难无艰，不难得获；以诸漏尽，于现法中以证智自作证，成就、安住于无漏的心解脱、慧解脱。诸比丘！成就这五法的比丘，堪能受用阿兰若、林野、边鄙的坐卧处。”第十经。",
+   "n": "110"
+  },
+  {
+   "idx": 53,
+   "pali": "Phāsuvihāravaggo paṭhamo.",
+   "zh": "安乐住品第一"
+  },
+  {
+   "idx": 54,
+   "pali": "Tassuddānaṃ –",
+   "zh": "其摄颂："
+  },
+  {
+   "idx": 55,
+   "pali": "Sārajjaṃ saṅkito coro, sukhumālaṃ phāsu pañcamaṃ;",
+   "zh": "怯懦、疑虑、盗贼，微细、安乐为第五；",
+   "type": "verse"
+  },
+  {
+   "idx": 56,
+   "pali": "Ānanda sīlāsekhā ca, cātuddiso araññena cāti.",
+   "zh": "[[ānanda|阿难]]、戒、无学，四方与阿兰若。",
+   "type": "verse"
+  }
+ ]
+}

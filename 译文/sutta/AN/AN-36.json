@@ -1,0 +1,77 @@
+{
+ "uid": 36,
+ "title": "1. 忿略说",
+ "nik": "AN",
+ "segs": [
+  {
+   "idx": 0,
+   "pali": "1. Kodhapeyyālaṃ",
+   "zh": "1. 关于忿的略说"
+  },
+  {
+   "idx": 1,
+   "pali": "‘‘Dveme , bhikkhave, dhammā. Katame dve? Kodho ca upanāho ca…pe… makkho ca paḷāso ca… issā ca macchariyañca… māyā ca sāṭheyyañca… ahirikañca anottappañca. Ime kho, bhikkhave, dve dhammā’’.",
+   "zh": "“诸比丘，有此二法。哪两种呢？忿与恨……轻蔑与恼害……嫉与悭……诳与谄……无惭与无愧。诸比丘，这就是二法。”",
+   "n": "181"
+  },
+  {
+   "idx": 2,
+   "pali": "‘‘Dveme, bhikkhave, dhammā. Katame dve? Akkodho ca anupanāho ca… amakkho ca apaḷāso ca… anissā ca amacchariyañca… amāyā ca asāṭheyyañca… hirī ca ottappañca. Ime kho, bhikkhave, dve dhammā’’.",
+   "zh": "“诸比丘，有此二法。哪两种呢？无忿与无恨……无轻蔑与无恼害……无嫉与无悭……无诳与无谄……惭与愧。诸比丘，这就是二法。”",
+   "n": "182"
+  },
+  {
+   "idx": 3,
+   "pali": "‘‘Dvīhi, bhikkhave, dhammehi samannāgato dukkhaṃ viharati. Katamehi dvīhi? Kodhena ca upanāhena ca… makkhena ca paḷāsena ca… issāya ca macchariyena ca… māyāya ca sāṭheyyena ca… ahirikena ca anottappena ca. Imehi kho, bhikkhave, dvīhi dhammehi samannāgato dukkhaṃ viharati’’.",
+   "zh": "“诸比丘，具足二法者，便住于苦。哪二法呢？忿与恨……伪善与恶意……嫉与悭……诳与谄……无惭与无愧。诸比丘，具足此二法者，便住于苦。”",
+   "n": "183"
+  },
+  {
+   "idx": 4,
+   "pali": "‘‘Dvīhi, bhikkhave, dhammehi samannāgato sukhaṃ viharati. Katamehi dvīhi? Akkodhena ca anupanāhena ca… amakkhena ca apaḷāsena ca… anissāya ca amacchariyena ca… amāyāya ca asāṭheyyena ca … hiriyā ca ottappena ca. Imehi kho, bhikkhave, dvīhi dhammehi samannāgato sukhaṃ viharati’’.",
+   "zh": "“诸比丘，具足二法者，便住于乐。哪二法呢？无忿与无恨……无覆与无恼……无嫉与无悭……无诳与无谄……惭与愧。诸比丘，具足此二法者，便住于乐。”",
+   "n": "184"
+  },
+  {
+   "idx": 5,
+   "pali": "‘‘Dveme, bhikkhave, dhammā sekhassa bhikkhuno parihānāya saṃvattanti. Katame dve? Kodho ca upanāho ca… makkho ca paḷāso ca… issā ca macchariyañca… māyā ca sāṭheyyañca… ahirikañca anottappañca. Ime kho, bhikkhave, dve dhammā sekhassa bhikkhuno parihānāya saṃvattanti’’.",
+   "zh": "“诸比丘，有此二法，导向有学比丘的退失。哪二法呢？忿与恨……伪善与恶意……嫉与悭……诳与谄……无惭与无愧。诸比丘，此二法，便导向有学比丘的退失。”",
+   "n": "185"
+  },
+  {
+   "idx": 6,
+   "pali": "‘‘Dveme, bhikkhave, dhammā sekhassa bhikkhuno aparihānāya saṃvattanti. Katame dve ? Akkodho ca anupanāho ca… amakkho ca apaḷāso ca… anissā ca amacchariyañca… amāyā ca asāṭheyyañca… hirī ca ottappañca. Ime kho, bhikkhave, dve dhammā sekhassa bhikkhuno aparihānāya saṃvattanti’’.",
+   "zh": "“诸比丘，这两种法能导向有学比丘的不退失。哪两种？无忿与无恨……无覆与无恼害……无嫉与无悭……无诳与无谄……惭与愧。诸比丘，正是这两种法导向有学比丘的不退失。”",
+   "n": "186"
+  },
+  {
+   "idx": 7,
+   "pali": "‘‘Dvīhi, bhikkhave, dhammehi samannāgato yathābhataṃ nikkhitto evaṃ niraye. Katamehi dvīhi? Kodhena ca upanāhena ca… makkhena ca paḷāsena ca… issāya ca macchariyena ca… māyāya ca sāṭheyyena ca… ahirikena ca anottappena ca. Imehi kho, bhikkhave, dvīhi dhammehi samannāgato yathābhataṃ nikkhitto evaṃ niraye’’.",
+   "zh": "“诸比丘，具足二法者，犹如被搬运般投入地狱。哪二法？忿与恨……伪善与恶意……嫉与悭……诳与谄……无惭与无愧。诸比丘，具足此二法者，犹如被搬运般投入地狱。”",
+   "n": "187"
+  },
+  {
+   "idx": 8,
+   "pali": "‘‘Dvīhi , bhikkhave, dhammehi samannāgato yathābhataṃ nikkhitto evaṃ sagge. Katamehi dvīhi? Akkodhena ca anupanāhena ca… amakkhena ca apaḷāsena ca… anissāya ca amacchariyena ca… amāyāya ca asāṭheyyena ca… hiriyā ca ottappena ca. Imehi kho, bhikkhave, dvīhi dhammehi samannāgato yathābhataṃ nikkhitto evaṃ sagge’’.",
+   "zh": "“诸比丘，具足二法者，犹如被搬运般投入天界。哪二法？无忿与无恨……无覆与无恼害……无嫉与无悭……无诳与无谄……惭与愧。诸比丘，具足此二法者，犹如被搬运般投入天界。”",
+   "n": "188"
+  },
+  {
+   "idx": 9,
+   "pali": "‘‘Dvīhi, bhikkhave, dhammehi samannāgato idhekacco kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjati. Katamehi dvīhi? Kodhena ca upanāhena ca… makkhena ca paḷāsena ca… issāya ca macchariyena ca… māyāya ca sāṭheyyena ca… ahirikena ca anottappena ca. Imehi kho, bhikkhave, dvīhi dhammehi samannāgato idhekacco kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjati’’.",
+   "zh": "“诸比丘，具足二法之人，身坏命终之后，便投生到苦界、恶趣、堕处、地狱。哪二法呢？忿与恨…… 轻蔑与恼害…… 嫉与悭…… 诳与谄…… 无惭与无愧。诸比丘，正是具足此二法之人，身坏命终之后，便投生到苦界、恶趣、堕处、地狱。”",
+   "n": "189"
+  },
+  {
+   "idx": 10,
+   "pali": "‘‘Dvīhi, bhikkhave, dhammehi samannāgato idhekacco kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjati. Katamehi dvīhi? Akkodhena ca anupanāhena ca… amakkhena ca apaḷāsena ca… anissāya ca amacchariyena ca… amāyāya ca asāṭheyyena ca… hiriyā ca ottappena ca. Imehi kho, bhikkhave, dvīhi dhammehi samannāgato idhekacco kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjati’’.",
+   "zh": "“诸比丘，具足二法之人，身坏命终之后，便投生到善趣、天界。哪二法呢？无忿与无恨…… 无覆与无恼…… 无嫉与无悭…… 无诳与无谄…… 惭与愧。诸比丘，正是具足此二法之人，身坏命终之后，便投生到善趣、天界。”",
+   "n": "190"
+  },
+  {
+   "idx": 11,
+   "pali": "Kodhapeyyālaṃ niṭṭhitaṃ.",
+   "zh": "忿之略说终"
+  }
+ ]
+}

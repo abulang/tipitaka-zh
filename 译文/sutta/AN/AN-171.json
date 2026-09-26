@@ -1,0 +1,591 @@
+{
+  "uid": 171,
+  "title": "1. 第一非法经",
+  "nik": "AN",
+  "segs": [
+    {
+      "idx": 0,
+      "pali": "(12) 2. Paccorohaṇivaggo",
+      "zh": "（十二）第二 下降日品"
+    },
+    {
+      "idx": 1,
+      "pali": "1. Paṭhamaadhammasuttaṃ",
+      "zh": "1. [[paṭhamaadhammasutta|第一非法经]]"
+    },
+    {
+      "idx": 2,
+      "pali": "‘‘Adhammo ca, bhikkhave, veditabbo anattho ca; dhammo ca veditabbo attho ca. Adhammañca viditvā anatthañca, dhammañca viditvā atthañca yathā dhammo yathā attho tathā paṭipajjitabbaṃ.",
+      "zh": "“诸比丘，应当了知非法与非义，应当了知法与义。了知非法与非义，了知法与义之后，应如法、如义而行。”",
+      "n": "113"
+    },
+    {
+      "idx": 3,
+      "pali": "‘‘Katamo ca, bhikkhave, adhammo ca anattho ca? Micchādiṭṭhi, micchāsaṅkappo, micchāvācā, micchākammanto, micchāājīvo, micchāvāyāmo, micchāsati, micchāsamādhi, micchāñāṇaṃ, micchāvimutti – ayaṃ vuccati, bhikkhave, adhammo ca anattho ca.",
+      "zh": "“诸比丘，什么是非法与非义？即是邪见、邪思惟、邪语、邪业、邪命、邪精进、邪念、邪定、邪智、邪解脱。诸比丘，这称为非法与非义。”"
+    },
+    {
+      "idx": 4,
+      "pali": "‘‘Katamo ca, bhikkhave, dhammo ca attho ca? Sammādiṭṭhi, sammāsaṅkappo, sammāvācā, sammākammanto, sammāājīvo, sammāvāyāmo, sammāsati, sammāsamādhi, sammāñāṇaṃ, sammāvimutti – ayaṃ vuccati, bhikkhave, dhammo ca attho ca.",
+      "zh": "“诸比丘，什么是法与义？即是正见、正思惟、正语、正业、正命、正精进、正念、正定、正智、正解脱。诸比丘，这称为法与义。”"
+    },
+    {
+      "idx": 5,
+      "pali": "‘‘‘Adhammo ca, bhikkhave, veditabbo anattho ca; dhammo ca veditabbo attho ca. Adhammañca viditvā anatthañca, dhammañca viditvā atthañca yathā dhammo yathā attho tathā paṭipajjitabba’nti, iti yaṃ taṃ vuttaṃ, idametaṃ paṭicca vutta’’nti. Paṭhamaṃ.",
+      "zh": "“诸比丘，非法与非义当知，法与义当知。了知非法与非义，了知法与义之后，应如法、如义而践行。如此，前面所说的一切，正是依此而说。”第一。"
+    },
+    {
+      "idx": 6,
+      "pali": "2. Dutiyaadhammasuttaṃ",
+      "zh": "2. [[dutiyaadhammasutta|第二非法经]]"
+    },
+    {
+      "idx": 7,
+      "pali": "‘‘Adhammo ca, bhikkhave, veditabbo dhammo ca; anattho ca veditabbo attho ca. Adhammañca viditvā dhammañca, anatthañca viditvā atthañca yathā dhammo yathā attho tathā paṭipajjitabbaṃ.",
+      "zh": "“诸比丘，应当了知非法与法，应当了知非义与义。了知非法与法、了知非义与义之后，应当如法、如义而践行。",
+      "n": "114"
+    },
+    {
+      "idx": 8,
+      "pali": "‘‘Katamo ca, bhikkhave, adhammo, katamo ca dhammo, katamo ca anattho, katamo ca attho?",
+      "zh": "“诸比丘，什么是非法？什么是法？什么是非义？什么是义？"
+    },
+    {
+      "idx": 9,
+      "pali": "‘‘Micchādiṭṭhi, bhikkhave, adhammo; sammādiṭṭhi dhammo; ye ca micchādiṭṭhipaccayā aneke pāpakā akusalā dhammā sambhavanti, ayaṃ anattho; sammādiṭṭhipaccayā ca aneke kusalā dhammā bhāvanāpāripūriṃ gacchanti, ayaṃ attho.",
+      "zh": "“诸比丘，邪见是非法，正见是法；缘于邪见而生起的诸多恶不善法，这是非义；缘于正见而诸多善法达到修习圆满，这是义。"
+    },
+    {
+      "idx": 10,
+      "pali": "‘‘Micchāsaṅkappo , bhikkhave, adhammo; sammāsaṅkappo dhammo; ye ca micchāsaṅkappapaccayā aneke pāpakā akusalā dhammā sambhavanti, ayaṃ anattho; sammāsaṅkappapaccayā ca aneke kusalā dhammā bhāvanāpāripūriṃ gacchanti, ayaṃ attho.",
+      "zh": "“诸比丘，邪思惟是非法，正思惟是法；缘于邪思惟而生起的诸多恶不善法，这是非义；缘于正思惟而诸多善法达到修习圆满，这是义。"
+    },
+    {
+      "idx": 11,
+      "pali": "‘‘Micchāvācā, bhikkhave, adhammo; sammāvācā dhammo; ye ca micchāvācāpaccayā aneke pāpakā akusalā dhammā sambhavanti, ayaṃ anattho; sammāvācāpaccayā ca aneke kusalā dhammā bhāvanāpāripūriṃ gacchanti, ayaṃ attho.",
+      "zh": "“诸比丘，邪语是非法，正语是法；缘于邪语而生起的诸多恶不善法，这是非义；缘于正语而诸多善法达到修习圆满，这是义。”"
+    },
+    {
+      "idx": 12,
+      "pali": "‘‘Micchākammanto, bhikkhave, adhammo; sammākammanto dhammo; ye ca micchākammantapaccayā aneke pāpakā akusalā dhammā sambhavanti, ayaṃ anattho; sammākammantapaccayā ca aneke kusalā dhammā bhāvanāpāripūriṃ gacchanti, ayaṃ attho.",
+      "zh": "“诸比丘，邪业是非法，正业是法。由邪业为缘所生的种种恶不善法，此即无义；由正业为缘，种种善法修习圆满，此即是有义。"
+    },
+    {
+      "idx": 13,
+      "pali": "‘‘Micchāājīvo, bhikkhave, adhammo; sammāājīvo dhammo; ye ca micchāājīvapaccayā aneke pāpakā akusalā dhammā sambhavanti, ayaṃ anattho; sammāājīvapaccayā ca aneke kusalā dhammā bhāvanāpāripūriṃ gacchanti, ayaṃ attho.",
+      "zh": "“诸比丘，邪命是非法，正命是法。由邪命为缘所生的种种恶不善法，此即无义；由正命为缘，种种善法修习圆满，此即是有义。"
+    },
+    {
+      "idx": 14,
+      "pali": "‘‘Micchāvāyāmo, bhikkhave, adhammo; sammāvāyāmo dhammo; ye ca micchāvāyāmapaccayā aneke pāpakā akusalā dhammā sambhavanti, ayaṃ anattho; sammāvāyāmapaccayā ca aneke kusalā dhammā bhāvanāpāripūriṃ gacchanti, ayaṃ attho.",
+      "zh": "“诸比丘，邪精进是非法，正精进是法。由邪精进为缘所生的种种恶不善法，此即无义；由正精进为缘，种种善法修习圆满，此即是有义。"
+    },
+    {
+      "idx": 15,
+      "pali": "‘‘Micchāsati, bhikkhave, adhammo; sammāsati dhammo; ye ca micchāsatipaccayā aneke pāpakā akusalā dhammā sambhavanti, ayaṃ anattho; sammāsatipaccayā ca aneke kusalā dhammā bhāvanāpāripūriṃ gacchanti, ayaṃ attho.",
+      "zh": "“诸比丘，邪念是非法，正念是法。以邪念为缘而生起的种种恶不善法，这是无义；以正念为缘，种种善法得以修习圆满，这是有义。"
+    },
+    {
+      "idx": 16,
+      "pali": "‘‘Micchāsamādhi, bhikkhave, adhammo; sammāsamādhi dhammo; ye ca micchāsamādhipaccayā aneke pāpakā akusalā dhammā sambhavanti, ayaṃ anattho; sammāsamādhipaccayā ca aneke kusalā dhammā bhāvanāpāripūriṃ gacchanti, ayaṃ attho.",
+      "zh": "“诸比丘，邪定是非法，正定是法。以邪定为缘而生起的种种恶不善法，这是无义；以正定为缘，种种善法得以修习圆满，这是有义。"
+    },
+    {
+      "idx": 17,
+      "pali": "‘‘Micchāñāṇaṃ, bhikkhave, adhammo; sammāñāṇaṃ dhammo; ye ca micchāñāṇapaccayā aneke pāpakā akusalā dhammā sambhavanti, ayaṃ anattho; sammāñāṇapaccayā ca aneke kusalā dhammā bhāvanāpāripūriṃ gacchanti, ayaṃ attho.",
+      "zh": "“诸比丘，邪智是非法，正智是法。以邪智为缘而生起的种种恶不善法，这是无义；以正智为缘，种种善法得以修习圆满，这是有义。"
+    },
+    {
+      "idx": 18,
+      "pali": "‘‘Micchāvimutti, bhikkhave, adhammo; sammāvimutti dhammo; ye ca micchāvimuttipaccayā aneke pāpakā akusalā dhammā sambhavanti, ayaṃ anattho; sammāvimuttipaccayā ca aneke kusalā dhammā bhāvanāpāripūriṃ gacchanti, ayaṃ attho.",
+      "zh": "“诸比丘，邪解脱是非法；正解脱是法。凡以邪解脱为缘而生起的种种不善、不善法，此是无义；以正解脱为缘，则种种善法修习圆满，此是有义。"
+    },
+    {
+      "idx": 19,
+      "pali": "‘‘‘Adhammo ca, bhikkhave, veditabbo dhammo ca; anattho ca veditabbo attho ca. Adhammañca viditvā dhammañca, anatthañca viditvā atthañca yathā dhammo yathā attho tathā paṭipajjitabba’nti, iti yaṃ taṃ vuttaṃ, idametaṃ paṭicca vutta’’nti. Dutiyaṃ.",
+      "zh": "“诸比丘，应当了知非法与法，应当了知无义与有义。了知了非法与法，了知了无义与有义之后，便应如法、如义而践行。”如此所说，正是缘于此而说。第二经"
+    },
+    {
+      "idx": 20,
+      "pali": "3. Tatiyaadhammasuttaṃ",
+      "zh": "3. [[tatiyaadhammasutta|第三非法经]]"
+    },
+    {
+      "idx": 21,
+      "pali": "‘‘Adhammo ca, bhikkhave, veditabbo dhammo ca; anattho ca veditabbo attho ca. Adhammañca viditvā dhammañca, anatthañca viditvā atthañca yathā dhammo yathā attho tathā paṭipajjitabba’’nti. Idamavoca bhagavā. Idaṃ vatvāna sugato uṭṭhāyāsanā vihāraṃ pāvisi.",
+      "zh": "“诸比丘，非法应当了知，法应当了知；非义应当了知，义应当了知。了知非法与法、了知非义与义之后，应依如法、如义而行。”世尊如此说。善逝说此语后，便从座起身，进入住所。",
+      "n": "115"
+    },
+    {
+      "idx": 22,
+      "pali": "Atha kho tesaṃ bhikkhūnaṃ acirapakkantassa bhagavato etadahosi – ‘‘idaṃ kho no, āvuso, bhagavā saṃkhittena uddesaṃ uddisitvā vitthārena atthaṃ avibhajitvā uṭṭhāyāsanā vihāraṃ paviṭṭho – ‘adhammo ca, bhikkhave, veditabbo dhammo ca; anattho ca veditabbo attho ca . Adhammañca viditvā dhammañca, anatthañca viditvā atthañca yathā dhammo yathā attho tathā paṭipajjitabba’nti. Ko nu kho imassa bhagavatā saṃkhittena uddesassa uddiṭṭhassa vitthārena atthaṃ avibhattassa vitthārena atthaṃ vibhajeyyā’’ti?",
+      "zh": "那时，世尊离去不久，诸比丘心中思惟：“贤友们，世尊为我们做了简略的教示，未详细分别其义，便从座起身，进入住所——‘诸比丘，非法应当了知，法应当了知；非义应当了知，义应当了知。了知非法与法、了知非义与义之后，应依如法、如义而行。’那么，谁能详细分别这世尊所简略教示、未详细分别的义理呢？”"
+    },
+    {
+      "idx": 23,
+      "pali": "Atha kho tesaṃ bhikkhūnaṃ etadahosi – ‘‘ayaṃ kho āyasmā ānando satthu ceva saṃvaṇṇito sambhāvito ca viññūnaṃ sabrahmacārīnaṃ. Pahoti cāyasmā ānando imassa bhagavatā saṃkhittena uddesassa uddiṭṭhassa vitthārena atthaṃ avibhattassa vitthārena atthaṃ vibhajituṃ. Yaṃnūna mayaṃ yenāyasmā ānando tenupasaṅkameyyāma; upasaṅkamitvā āyasmantaṃ ānandaṃ etamatthaṃ paṭipuccheyyāma . Yathā no āyasmā ānando byākarissati tathā naṃ dhāressāmā’’ti.",
+      "zh": "那时，诸比丘心中思惟：“这位具寿[[ānanda|阿难]]，为大师所称扬，亦为有智的同梵行者们所敬重。对于世尊所简略教示、未详细分别的义理，具寿[[ānanda|阿难]]有能力详尽地加以分别。我们何不前往具寿[[ānanda|阿难]]之处，将这一义理向他请教，并依照具寿[[ānanda|阿难]]的分别而受持于心呢？”"
+    },
+    {
+      "idx": 24,
+      "pali": "Atha kho te bhikkhū yenāyasmā ānando tenupasaṅkamiṃsu; upasaṅkamitvā āyasmatā ānandena saddhiṃ sammodiṃsu. Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdiṃsu. Ekamantaṃ nisinnā kho te bhikkhū āyasmantaṃ ānandaṃ etadavocuṃ –",
+      "zh": "那时，那些比丘们前往具寿[[ānanda|阿难]]处，到后与具寿[[ānanda|阿难]]互相问候。互致欢喜、可忆念的言谈后，坐在一旁。坐在一旁的比丘们对具寿[[ānanda|阿难]]这样说："
+    },
+    {
+      "idx": 25,
+      "pali": "‘‘Idaṃ kho no, āvuso ānanda, bhagavā saṃkhittena uddesaṃ uddisitvā vitthārena atthaṃ avibhajitvā uṭṭhāyāsanā vihāraṃ paviṭṭho – ‘adhammo ca…pe… tathā paṭipajjitabba’nti.",
+      "zh": "“贤友[[ānanda|阿难]]，世尊为我们简略地诵出教诫，未详细分别其义，便从座起身，进入住处：‘非法……（中略）……应如是行。’”"
+    },
+    {
+      "idx": 26,
+      "pali": "‘‘Tesaṃ no, āvuso, amhākaṃ acirapakkantassa bhagavato etadahosi – ‘idaṃ kho no, āvuso, bhagavatā saṃkhittena uddesaṃ uddisitvā vitthārena atthaṃ avibhajitvā uṭṭhāyāsanā vihāraṃ paviṭṭho – adhammo ca…pe… tathā paṭipajjitabbanti. Ko nu kho imassa bhagavatā saṃkhittena uddesassa uddiṭṭhassa vitthārena atthaṃ avibhattassa vitthārena atthaṃ vibhajeyyā’ti?",
+      "zh": "“贤友们，世尊离去后不久，我们心中生起此念：‘贤友们，世尊简略地诵出教诫，未详细分别其义，便从座起身，进入住处——非法……（中略）……应如是行。谁能将世尊这简略诵出、未详细分别的法义详细开演呢？’”"
+    },
+    {
+      "idx": 27,
+      "pali": "‘‘Tesaṃ no, āvuso, amhākaṃ etadahosi – ‘ayaṃ kho āyasmā ānando satthu ceva saṃvaṇṇito sambhāvito ca viññūnaṃ sabrahmacārīnaṃ. Pahoti cāyasmā ānando imassa bhagavatā saṃkhittena uddesassa uddiṭṭhassa vitthārena atthaṃ avibhattassa vitthārena atthaṃ vibhajituṃ. Yaṃnūna mayaṃ yenāyasmā ānando tenupasaṅkameyyāma; upasaṅkamitvā āyasmantaṃ ānandaṃ etamatthaṃ paṭipuccheyyāma. Yathā no āyasmā ānando byākarissati tathā naṃ dhāressāmā’ti. Vibhajatu āyasmā ānando’’ti.",
+      "zh": "“贤友们，我们这样想：‘这位具寿[[ānanda|阿难]]既为导师所称赞，亦为有智的同梵行者们所敬重。世尊简略宣说而未广释其义的教导，具寿[[ānanda|阿难]]足能详细解说。我们何不前往具寿[[ānanda|阿难]]处，向他请问此义？具寿[[ānanda|阿难]]如何解释，我们便如何领受。’愿具寿[[ānanda|阿难]]为作分别。”"
+    },
+    {
+      "idx": 28,
+      "pali": "‘‘Seyyathāpi , āvuso, puriso sāratthiko sāragavesī sārapariyesanaṃ caramāno mahato rukkhassa tiṭṭhato sāravato atikkammeva mūlaṃ atikkamma khandhaṃ sākhāpalāse sāraṃ pariyesitabbaṃ maññeyya; evaṃsampadamidaṃ āyasmantānaṃ satthari sammukhībhūte taṃ bhagavantaṃ atisitvā amhe etamatthaṃ paṭipucchitabbaṃ maññatha. So hāvuso, bhagavā jānaṃ jānāti passaṃ passati, cakkhubhūto ñāṇabhūto dhammabhūto brahmabhūto vattā pavattā atthassa ninnetā amatassa dātā dhammassāmī tathāgato. So ceva panetassa kālo ahosi yaṃ tumhe bhagavantaṃyeva upasaṅkamitvā etamatthaṃ paṭipuccheyyātha. Yathā vo bhagavā byākareyya tathā naṃ dhāreyyāthā’’ti.",
+      "zh": "“诸贤，譬如有人求取心材，遍求心材，于有心材的挺拔大树，却越过了根、越过了干，想在枝叶中觅得心材。诸位具寿正是如此——导师现前，你们却越过彼世尊，而认为应向我们询问此义。诸贤，彼世尊是知者知、见者见，已成眼、成智、成法、成梵，是说者、宣说者，义趣的引导者，不死之施与者，法主、如来。那正是时候，你们应往世尊处请问此义。世尊如何分别解说，你们便如说受持。”"
+    },
+    {
+      "idx": 29,
+      "pali": "‘‘Addhāvuso ānanda, bhagavā jānaṃ jānāti passaṃ passati cakkhubhūto ñāṇabhūto dhammabhūto brahmabhūto vattā pavattā atthassa ninnetā amatassa dātā dhammassāmī tathāgato. So ceva panetassa kālo ahosi yaṃ mayaṃ bhagavantaṃyeva upasaṅkamitvā etamatthaṃ paṭipuccheyyāma, yathā no bhagavā byākareyya tathā naṃ dhāreyyāma. Api cāyasmā ānando satthu ceva saṃvaṇṇito sambhāvito ca viññūnaṃ sabrahmacārīnaṃ. Pahoti cāyasmā ānando imassa bhagavatā saṃkhittena uddesassa uddiṭṭhassa vitthārena atthaṃ avibhattassa vitthārena atthaṃ vibhajituṃ. Vibhajatāyasmā ānando agaruṃ katvā’’ti.",
+      "zh": "“诚然，贤友[[ānanda|阿难]]，世尊是知者知、见者见，已成眼、成智、成法、成梵，是说者、宣说者，义趣的引导者，不死之施与者，法主、如来。那时正是合适的时机，我们本应前往世尊处请问此义，世尊如何为我们分别，我们便如何受持。然而，具寿[[ānanda|阿难]]为导师所称扬，且为有智的梵行者们所敬重。具寿[[ānanda|阿难]]能够详细解说世尊总说而未加分别的这一教义。愿具寿[[ānanda|阿难]]不以为烦难，为我等解说。”"
+    },
+    {
+      "idx": 30,
+      "pali": "‘‘Tenahāvuso, suṇātha, sādhukaṃ manasi karotha; bhāsissāmī’’ti. ‘‘Evamāvuso’’ti kho te bhikkhū āyasmato ānandassa paccassosuṃ. Athāyasmā ānando etadavoca –",
+      "zh": "“那么，诸贤，请听！善作意！我当为说。”“好的，贤友。”众比丘回答具寿[[ānanda|阿难]]。于是具寿[[ānanda|阿难]]这样说："
+    },
+    {
+      "idx": 31,
+      "pali": "‘‘Yaṃ kho no, āvuso, bhagavā saṃkhittena uddesaṃ uddisitvā vitthārena atthaṃ avibhajitvā uṭṭhāyāsanā vihāraṃ paviṭṭho – ‘adhammo ca, bhikkhave, veditabbo dhammo ca; anattho ca veditabbo attho ca. Adhammañca viditvā dhammañca, anatthañca viditvā atthañca yathā dhammo yathā attho tathā paṭipajjitabba’nti.",
+      "zh": "“诸贤，世尊为我们略作教示，并未广解其义，便从座起身，进入住处：‘诸比丘，应了知非法与法；应了知非义与义。了知非法与法、了知非义与义之后，应如法、如义而行。’”"
+    },
+    {
+      "idx": 32,
+      "pali": "Katamo cāvuso, adhammo, katamo ca dhammo, katamo ca anattho, katamo ca attho?",
+      "zh": "“诸贤，什么是非法？什么是法？什么是非义？什么是义？”"
+    },
+    {
+      "idx": 33,
+      "pali": "‘‘Micchādiṭṭhi, āvuso, adhammo; sammādiṭṭhi dhammo; ye ca micchādiṭṭhipaccayā aneke pāpakā akusalā dhammā sambhavanti, ayaṃ anattho; sammādiṭṭhipaccayā ca aneke kusalā dhammā bhāvanāpāripūriṃ gacchanti, ayaṃ attho.",
+      "zh": "“诸贤，邪见是非法，正见是法。依邪见为缘而生的种种恶不善法，此即非义；依正见为缘，令种种善法修习圆满，此即是义。"
+    },
+    {
+      "idx": 34,
+      "pali": "‘‘Micchāsaṅkappo, āvuso, adhammo; sammāsaṅkappo dhammo… micchāvācā, āvuso, adhammo; sammāvācā dhammo … micchākammanto, āvuso, adhammo; sammākammanto dhammo… micchāājīvo, āvuso, adhammo; sammāājīvo dhammo… micchāvāyāmo, āvuso, adhammo; sammāvāyāmo dhammo… micchāsati, āvuso, adhammo; sammāsati dhammo… micchāsamādhi, āvuso, adhammo; sammāsamādhi dhammo… micchāñāṇaṃ, āvuso, adhammo; sammāñāṇaṃ dhammo….",
+      "zh": "“诸贤，邪思惟是非法，正思惟是法；诸贤，邪语是非法，正语是法；诸贤，邪业是非法，正业是法；诸贤，邪命是非法，正命是法；诸贤，邪精进是非法，正精进是法；诸贤，邪念是非法，正念是法；诸贤，邪定是非法，正定是法；诸贤，邪智是非法，正智是法。"
+    },
+    {
+      "idx": 35,
+      "pali": "Micchāvimutti, āvuso, adhammo; sammāvimutti dhammo; ye ca micchāvimuttipaccayā aneke pāpakā akusalā dhammā sambhavanti, ayaṃ anattho; sammāvimuttipaccayā ca aneke kusalā dhammā bhāvanāpāripūriṃ gacchanti, ayaṃ attho.",
+      "zh": "诸贤，邪解脱是非法，正解脱是法。依邪解脱为缘所生的种种恶不善法，此即非义；依正解脱为缘，令种种善法修习圆满，此即是义。"
+    },
+    {
+      "idx": 36,
+      "pali": "‘‘Ayaṃ kho no, āvuso, bhagavā saṃkhittena uddesaṃ uddisitvā vitthārena atthaṃ avibhajitvā uṭṭhāyāsanā vihāraṃ paviṭṭho – ‘adhammo ca, bhikkhave, veditabbo dhammo ca…pe… tathā paṭipajjitabba’nti, imassa kho ahaṃ, āvuso, bhagavatā saṃkhittena uddesassa uddiṭṭhassa vitthārena atthaṃ avibhattassa evaṃ vitthārena atthaṃ ājānāmi. Ākaṅkhamānā ca pana tumhe, āvuso, bhagavantaṃyeva upasaṅkamitvā etamatthaṃ paṭipuccheyyātha. Yathā vo bhagavā byākaroti tathā naṃ dhāreyyāthā’’ti.",
+      "zh": "“诸贤友，世尊为我们略说教诫，未广解其义，便从座起，入于住处——‘诸比丘，应了知非法与法……应如此修行’。诸贤友，对于世尊略说、未广解其义的这一教诫，我即如此详尽了知其义。诸贤友，若你们愿意，可往世尊处请问此义。你们当依世尊所广解的那样而受持。”"
+    },
+    {
+      "idx": 37,
+      "pali": "‘‘Evamāvuso’’ti kho te bhikkhū āyasmato ānandassa bhāsitaṃ abhinanditvā anumoditvā uṭṭhāyāsanā yena bhagavā tenupasaṅkamiṃsu; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdiṃsu. Ekamantaṃ nisinnā kho te bhikkhū bhagavantaṃ etadavocuṃ –",
+      "zh": "“正是，贤友。”诸比丘对尊者[[ānanda|阿难]]的所说欢喜、随喜后，便从座起，往诣世尊。到了之后，顶礼世尊，退坐一面。退坐一面的诸比丘对世尊这样说："
+    },
+    {
+      "idx": 38,
+      "pali": "‘‘Yaṃ kho no bhagavā saṃkhittena uddesaṃ uddisitvā vitthārena atthaṃ avibhajitvā uṭṭhāyāsanā vihāraṃ paviṭṭho – ‘adhammo ca, bhikkhave, veditabbo…pe… tathā paṭijjitabba’nti.",
+      "zh": "“世尊为我们略说教诫，未广解其义，便从座起，入于住处——‘诸比丘，应了知非法……应如此修行’。"
+    },
+    {
+      "idx": 39,
+      "pali": "‘‘Tesaṃ no, bhante, amhākaṃ acirapakkantassa bhagavato etadahosi – ‘idaṃ kho no, āvuso, bhagavā saṃkhittena uddesaṃ uddisitvā vitthārena atthaṃ avibhajitvā uṭṭhāyāsanā vihāraṃ paviṭṭho – adhammo ca, bhikkhave, veditabbo…pe… tathā paṭipajjitabbanti. Ko nu kho imassa bhagavatā saṃkhittena uddesassa uddiṭṭhassa vitthārena atthaṃ avibhattassa vitthārena atthaṃ vibhajeyyā’ti?",
+      "zh": "“尊者，世尊离开后未久，我们心中便生起这样的念头：‘诸具寿，世尊为我们简略开示了教诫，未详细解释其义，便从座而起，进入住处，说了“诸比丘，应了知非法……应如此行道”。谁能详细解释世尊所简略开示、未详细解释其义的这教诫之义呢？’”"
+    },
+    {
+      "idx": 40,
+      "pali": "‘‘Tesaṃ no, bhante, amhākaṃ etadahosi – ‘ayaṃ kho āyasmā ānando satthu ceva saṃvaṇṇito sambhāvito ca viññūnaṃ sabrahmacārīnaṃ. Pahoti cāyasmā ānando imassa bhagavatā saṃkhittena uddesassa uddiṭṭhassa vitthārena atthaṃ avibhattassa vitthārena atthaṃ vibhajituṃ. Yaṃnūna mayaṃ yenāyasmā ānando tenupasaṅkameyyāma; upasaṅkamitvā āyasmantaṃ ānandaṃ etamatthaṃ paṭipuccheyyāma. Yathā no āyasmā ānando byākarissati tathā naṃ dhāressāmā’ti.",
+      "zh": "“尊者，我们心想：‘这位具寿[[ānanda|阿难]]既受导师所称扬，又被有智的梵行者们所尊重。具寿[[ānanda|阿难]]有能力详细解释世尊所简略开示、未详细解释其义的这教诫之义。我们何不去往具寿[[ānanda|阿难]]那里，向他请问此义？我们应依具寿[[ānanda|阿难]]所解释的那样来受持。’”"
+    },
+    {
+      "idx": 41,
+      "pali": "‘‘Atha kho mayaṃ, bhante, yenāyasmā ānando tenupasaṅkamimhā; upasaṅkamitvā āyasmantaṃ ānandaṃ etamatthaṃ apucchimhā. Tesaṃ no, bhante, āyasmatā ānandena imehi ākārehi imehi padehi imehi byañjanehi attho suvibhatto’’ti .",
+      "zh": "“尊者，于是我们便往诣具寿[[ānanda|阿难]]处。到了那里，向具寿[[ānanda|阿难]]请问此义。尊者，具寿[[ānanda|阿难]]便以这些理路、这些语句、这些言辞，为我们完善地分别解说了此义。”"
+    },
+    {
+      "idx": 42,
+      "pali": "‘‘Sādhu sādhu, bhikkhave! Paṇḍito, bhikkhave, ānando. Mahāpañño, bhikkhave, ānando. Maṃ cepi tumhe, bhikkhave, upasaṅkamitvā etamatthaṃ paṭipuccheyyātha, ahampi cetaṃ evamevaṃ byākareyyaṃ yathā taṃ ānandena byākataṃ. Eso ceva tassa attho evañca naṃ dhāreyyāthā’’ti. Tatiyaṃ.",
+      "zh": "“善哉！善哉！诸比丘。[[ānanda|阿难]]是智者，诸比丘。[[ānanda|阿难]]是大慧者，诸比丘。如果你们前来向我询问此义，我也会如同[[ānanda|阿难]]所解说的一般来解说。这正是它的意义，你们应当如此受持。”第三经。"
+    },
+    {
+      "idx": 43,
+      "pali": "4. Ajitasuttaṃ",
+      "zh": "4. [[ajitasutta|阿基多经]]"
+    },
+    {
+      "idx": 44,
+      "pali": "Atha kho ajito paribbājako yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṃ sammodi. Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdi . Ekamantaṃ nisinno kho ajito paribbājako bhagavantaṃ etadavoca –",
+      "zh": "那时，游方者阿基多来到世尊那里。到了之后，与世尊共相问候。致过友好、令人难忘的交谈后，便退坐一面。退坐一面的游方者阿基多对世尊这样说：",
+      "n": "116"
+    },
+    {
+      "idx": 45,
+      "pali": "‘‘Amhākaṃ , bho gotama, paṇḍito nāma sabrahmacārī. Tena pañcamattāni cittaṭṭhānasatāni cintitāni, yehi aññatitthiyā upāraddhāva jānanti upāraddhasmā’’ti .",
+      "zh": "“[[gotama|乔达摩]]尊者，我们有一位名为班地德的同梵行者。他思惟了约五百种心的状态，其他外道便因此知晓：‘我们被反驳了，我们被驳倒了。’”"
+    },
+    {
+      "idx": 46,
+      "pali": "Atha kho bhagavā bhikkhū āmantesi – ‘‘dhāretha no tumhe, bhikkhave, paṇḍitavatthūnī’’ti? ‘‘Etassa, bhagavā, kālo etassa, sugata, kālo yaṃ bhagavā bhāseyya, bhagavato sutvā bhikkhū dhāressantī’’ti.",
+      "zh": "于是世尊对诸比丘说：“诸比丘，你们能忆持班地德的事例吗？”“世尊，这正是时候；善逝，这正是时候。恳请世尊开示，诸比丘听闻世尊的教导，便会铭记在心。”"
+    },
+    {
+      "idx": 47,
+      "pali": "‘‘Tena hi, bhikkhave, suṇātha, sādhukaṃ manasi karotha; bhāsissāmī’’ti. ‘‘Evaṃ, bhante’’ti kho te bhikkhū bhagavato paccassosuṃ. Bhagavā etadavoca –",
+      "zh": "“既然这样，诸比丘，谛听，善加作意，我将宣说。”“是，尊者。”那些比丘回应世尊。世尊这样说道："
+    },
+    {
+      "idx": 48,
+      "pali": "‘‘Idha, bhikkhave, ekacco adhammikena vādena adhammikaṃ vādaṃ abhiniggaṇhāti abhinippīḷeti, tena ca adhammikaṃ parisaṃ rañjeti. Tena sā adhammikā parisā uccāsaddamahāsaddā hoti – ‘paṇḍito vata, bho, paṇḍito vata, bho’ti.",
+      "zh": "“诸比丘，在此，有人以非法之说压制非法之说，以此博得那些非法众会的欢喜。于是，那些非法众会便发出高声大呼：“真是智者啊，尊者！真是智者啊，尊者！””"
+    },
+    {
+      "idx": 49,
+      "pali": "‘‘Idha pana, bhikkhave, ekacco adhammikena vādena dhammikaṃ vādaṃ abhiniggaṇhāti abhinippīḷeti, tena ca adhammikaṃ parisaṃ rañjeti. Tena sā adhammikā parisā uccāsaddamahāsaddā hoti – ‘paṇḍito vata, bho, paṇḍito vata, bho’ti.",
+      "zh": "“然而，诸比丘，在此，有人以非法之说压制如法之说，以此博得那些非法众会的欢喜。于是，那些非法众会便发出高声大呼：“真是智者啊，尊者！真是智者啊，尊者！””"
+    },
+    {
+      "idx": 50,
+      "pali": "‘‘Idha pana, bhikkhave, ekacco adhammikena vādena dhammikañca vādaṃ adhammikañca vādaṃ abhiniggaṇhāti abhinippīḷeti, tena ca adhammikaṃ parisaṃ rañjeti. Tena sā adhammikā parisā uccāsaddamahāsaddā hoti – ‘paṇḍito vata, bho, paṇḍito vata, bho’ti.",
+      "zh": "“然而，诸比丘，在此，有人以非法之说压制如法之说和非法之说，以此博得那些非法众会的欢喜。于是，那些非法众会便发出高声大呼：“真是智者啊，尊者！真是智者啊，尊者！””"
+    },
+    {
+      "idx": 51,
+      "pali": "‘‘Adhammo ca, bhikkhave, veditabbo dhammo ca; anattho ca veditabbo attho ca. Adhammañca viditvā dhammañca, anatthañca viditvā atthañca yathā dhammo yathā attho tathā paṭipajjitabbaṃ.",
+      "zh": "“诸比丘，应当了知非法与法，应当了知非义与义。了知非法与法、了知非义与义之后，应当如法、如义而践行。"
+    },
+    {
+      "idx": 52,
+      "pali": "‘‘Katamo ca, bhikkhave, adhammo, katamo ca dhammo, katamo ca anattho, katamo ca attho? Micchādiṭṭhi, bhikkhave, adhammo; sammādiṭṭhi dhammo; ye ca micchādiṭṭhipaccayā aneke pāpakā akusalā dhammā sambhavanti, ayaṃ anattho; sammādiṭṭhipaccayā ca aneke kusalā dhammā bhāvanāpāripūriṃ gacchanti, ayaṃ attho.",
+      "zh": "“诸比丘，什么是非法？什么是法？什么是非义？什么是义？诸比丘，邪见是非法，正见是法；凡以邪见为缘而生起的种种恶不善法，这便是非义；凡以正见为缘，令种种善法修习达到圆满，这便是义。”"
+    },
+    {
+      "idx": 53,
+      "pali": "‘‘Micchāsaṅkappo, bhikkhave, adhammo; sammāsaṅkappo dhammo… micchāvācā, bhikkhave, adhammo; sammāvācā dhammo… micchākammanto, bhikkhave, adhammo; sammākammanto dhammo… micchāājīvo, bhikkhave, adhammo; sammāājīvo dhammo … micchāvāyāmo, bhikkhave, adhammo; sammāvāyāmo dhammo… micchāsati, bhikkhave, adhammo; sammāsati dhammo… micchāsamādhi, bhikkhave adhammo; sammāsamādhi dhammo… micchāñāṇaṃ, bhikkhave, adhammo; sammāñāṇaṃ dhammo .",
+      "zh": "“诸比丘，邪思惟是非法，正思惟是法；……诸比丘，邪语是非法，正语是法；……诸比丘，邪业是非法，正业是法；……诸比丘，邪命是非法，正命是法；……诸比丘，邪精进是非法，正精进是法；……诸比丘，邪念是非法，正念是法；……诸比丘，邪定是非法，正定是法；……诸比丘，邪智是非法，正智是法。”"
+    },
+    {
+      "idx": 54,
+      "pali": "‘‘Micchāvimutti, bhikkhave, adhammo; sammāvimutti dhammo; ye ca micchāvimuttipaccayā aneke pāpakā akusalā dhammā sambhavanti, ayaṃ anattho; sammāvimuttipaccayā ca aneke kusalā dhammā bhāvanāpāripūriṃ gacchanti, ayaṃ attho.",
+      "zh": "“诸比丘，邪解脱是非法，正解脱是法。以邪解脱为缘，众多不善之恶法生起，此即非义；以正解脱为缘，众多善法趋向修习圆满，此即是义。”"
+    },
+    {
+      "idx": 55,
+      "pali": "‘‘‘Adhammo ca, bhikkhave, veditabbo dhammo ca; anattho ca veditabbo attho ca. Adhammañca viditvā dhammañca , anatthañca viditvā atthañca yathā dhammo yathā attho tathā paṭipajjitabba’nti, iti yaṃ taṃ vuttaṃ, idametaṃ paṭicca vutta’’nti. Catutthaṃ.",
+      "zh": "“诸比丘，应当了知非法与法，应当了知非义与义。了知非法与法、非义与义之后，便应如法、如义而践行。以上所说，正是缘于此而说。第四经。"
+    },
+    {
+      "idx": 56,
+      "pali": "5. Saṅgāravasuttaṃ",
+      "zh": "5. [[saṅgāravasutta|伤歌逻经]]"
+    },
+    {
+      "idx": 57,
+      "pali": "Atha kho saṅgāravo brāhmaṇo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṃ sammodi. Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho saṅgāravo brāhmaṇo bhagavantaṃ etadavoca – ‘‘kiṃ nu kho, bho gotama, orimaṃ tīraṃ, kiṃ pārimaṃ tīra’’nti? ‘‘Micchādiṭṭhi kho, brāhmaṇa, orimaṃ tīraṃ, sammādiṭṭhi pārimaṃ tīraṃ; micchāsaṅkappo orimaṃ tīraṃ, sammāsaṅkappo pārimaṃ tīraṃ; micchāvācā orimaṃ tīraṃ, sammāvācā pārimaṃ tīraṃ; micchākammanto orimaṃ tīraṃ, sammākammanto pārimaṃ tīraṃ; micchāājīvo orimaṃ tīraṃ, sammāājīvo pārimaṃ tīraṃ; micchāvāyāmo orimaṃ tīraṃ, sammāvāyāmo pārimaṃ tīraṃ; micchāsati orimaṃ tīraṃ, sammāsati pārimaṃ tīraṃ; micchāsamādhi orimaṃ tīraṃ, sammāsamādhi pārimaṃ tīraṃ; micchāñāṇaṃ orimaṃ tīraṃ, sammāñāṇaṃ pārimaṃ tīraṃ; micchāvimutti orimaṃ tīraṃ, sammāvimutti pārimaṃ tīranti. Idaṃ kho, brāhmaṇa, orimaṃ tīraṃ, idaṃ pārimaṃ tīranti.",
+      "zh": "那时，伤歌逻婆罗门来到世尊这里。见面后，与世尊互相亲切问候，叙说了令人感念的话语，然后在一边坐下。坐定后，伤歌逻婆罗门对世尊这样说：“[[gotama|乔达摩]]尊者，什么是此岸？什么是彼岸？”“婆罗门，邪见是此岸，正见是彼岸；邪思惟是此岸，正思惟是彼岸；邪语是此岸，正语是彼岸；邪业是此岸，正业是彼岸；邪命是此岸，正命是彼岸；邪精进是此岸，正精进是彼岸；邪念是此岸，正念是彼岸；邪定是此岸，正定是彼岸；邪智是此岸，正智是彼岸；邪解脱是此岸，正解脱是彼岸。婆罗门，这就是此岸，这就是彼岸。”",
+      "n": "117"
+    },
+    {
+      "idx": 58,
+      "pali": "‘‘Appakā te manussesu, ye janā pāragāmino;",
+      "zh": "“人类之中，能到达彼岸的人很少；”",
+      "type": "verse"
+    },
+    {
+      "idx": 59,
+      "pali": "Athāyaṃ itarā pajā, tīramevānudhāvati.",
+      "zh": "“而其余众生，只是沿着此岸奔走。”",
+      "type": "verse"
+    },
+    {
+      "idx": 60,
+      "pali": "‘‘Ye ca kho sammadakkhāte, dhamme dhammānuvattino;",
+      "zh": "“凡于善说之法中，随法行者；”",
+      "type": "verse"
+    },
+    {
+      "idx": 61,
+      "pali": "Te janā pāramessanti, maccudheyyaṃ suduttaraṃ.",
+      "zh": "他们将抵达彼岸，度越极难度越的死魔疆域。",
+      "type": "verse"
+    },
+    {
+      "idx": 62,
+      "pali": "‘‘Kaṇhaṃ dhammaṃ vippahāya, sukkaṃ bhāvetha paṇḍito;",
+      "zh": "“舍断黑法，智者应修白法；",
+      "type": "verse"
+    },
+    {
+      "idx": 63,
+      "pali": "Okā anokamāgamma, viveke yattha dūramaṃ.",
+      "zh": "离居家而趋无家，于那难达的远离中。",
+      "type": "verse"
+    },
+    {
+      "idx": 64,
+      "pali": "‘‘Tatrābhiratimiccheyya, hitvā kāme akiñcano;",
+      "zh": "“应于彼处希求喜乐，舍离诸欲，成为无所有者；",
+      "type": "verse"
+    },
+    {
+      "idx": 65,
+      "pali": "Pariyodapeyya attānaṃ, cittaklesehi paṇḍito.",
+      "zh": "智者应当从心的烦恼中净化自己。",
+      "type": "verse"
+    },
+    {
+      "idx": 66,
+      "pali": "‘‘Yesaṃ sambodhiyaṅgesu, sammā cittaṃ subhāvitaṃ;",
+      "zh": "“于诸觉支，心善修习者；",
+      "type": "verse"
+    },
+    {
+      "idx": 67,
+      "pali": "Ādānapaṭinissagge, anupādāya ye ratā;",
+      "zh": "于舍离执取、无所执取中，得喜乐者；",
+      "type": "verse"
+    },
+    {
+      "idx": 68,
+      "pali": "Khīṇāsavā jutimanto , te loke parinibbutā’’ti. pañcamaṃ;",
+      "zh": "诸漏已尽、光辉耀然者，于世间已般涅槃。”第五经。",
+      "type": "verse"
+    },
+    {
+      "idx": 69,
+      "pali": "6. Orimatīrasuttaṃ",
+      "zh": "6. [[orimatīrasutta|此岸经]]"
+    },
+    {
+      "idx": 70,
+      "pali": "‘‘Orimañca, bhikkhave, tīraṃ desessāmi pārimañca tīraṃ. Taṃ suṇātha, sādhukaṃ manasi karotha; bhāsissāmī’’ti. ‘‘Evaṃ, bhante’’ti kho te bhikkhū bhagavato paccassosuṃ. Bhagavā etadavoca –",
+      "zh": "“诸比丘，我将为你们开示此岸与彼岸。你们当谛听，善作意，我这就宣说。\n‘是的，尊者。’那些比丘回答世尊。世尊便这般说道：”",
+      "n": "118"
+    },
+    {
+      "idx": 71,
+      "pali": "‘‘Katamañca, bhikkhave, orimaṃ tīraṃ, katamañca pārimaṃ tīraṃ? Micchādiṭṭhi orimaṃ tīraṃ , sammādiṭṭhi pārimaṃ tīraṃ…pe… micchāvimutti orimaṃ tīraṃ, sammāvimutti pārimaṃ tīraṃ. Idaṃ kho, bhikkhave, orimaṃ tīraṃ, idaṃ pārimaṃ tīranti.",
+      "zh": "“诸比丘，何为此岸？何为彼岸？邪见即是此岸，正见即是彼岸……邪解脱即是此岸，正解脱即是彼岸。诸比丘，这便是此岸，这便是彼岸。”"
+    },
+    {
+      "idx": 72,
+      "pali": "‘‘Appakā te manussesu, ye janā pāragāmino;",
+      "zh": "“世人之中，能超越至彼岸者，实为少数；”",
+      "type": "verse"
+    },
+    {
+      "idx": 73,
+      "pali": "Athāyaṃ itarā pajā, tīramevānudhāvati.",
+      "zh": "“而此间大部众生，唯是沿着此岸徒然奔走。”",
+      "type": "verse"
+    },
+    {
+      "idx": 74,
+      "pali": "‘‘Ye ca kho sammadakkhāte, dhamme dhammānuvattino;",
+      "zh": "“然而，于善巧开示之法，能依法随行者，”",
+      "type": "verse"
+    },
+    {
+      "idx": 75,
+      "pali": "Te janā pāramessanti, maccudheyyaṃ suduttaraṃ.",
+      "zh": "他们将抵达彼岸，度越极难度越的死魔疆域。",
+      "type": "verse"
+    },
+    {
+      "idx": 76,
+      "pali": "‘‘Kaṇhaṃ dhammaṃ vippahāya, sukkaṃ bhāvetha paṇḍito;",
+      "zh": "“舍离黑法，智者当修习白法。”",
+      "type": "verse"
+    },
+    {
+      "idx": 77,
+      "pali": "Okā anoka māgamma, viveke yattha dūramaṃ.",
+      "zh": "从家来到无家，在那难达的远离中。",
+      "type": "verse"
+    },
+    {
+      "idx": 78,
+      "pali": "‘‘Tatrābhiratimiccheyya, hitvā kāme akiñcano;",
+      "zh": "“应于彼处希求喜乐，舍离诸欲，成为无所有者；",
+      "type": "verse"
+    },
+    {
+      "idx": 79,
+      "pali": "Pariyodapeyya attānaṃ, cittaklesehi paṇḍito.",
+      "zh": "智者应当从心的烦恼中净化自己。",
+      "type": "verse"
+    },
+    {
+      "idx": 80,
+      "pali": "‘‘Yesaṃ sambodhiyaṅgesu, sammā cittaṃ subhāvitaṃ;",
+      "zh": "“那些于诸觉支中，心已善修习者；",
+      "type": "verse"
+    },
+    {
+      "idx": 81,
+      "pali": "Ādānapaṭinissagge, anupādāya ye ratā;",
+      "zh": "于舍弃执取中，不执取而喜乐者；",
+      "type": "verse"
+    },
+    {
+      "idx": 82,
+      "pali": "Khīṇāsavā jutimanto, te loke parinibbutā’’ti. chaṭṭhaṃ;",
+      "zh": "诸漏已尽、具光辉者，他们于世间已般涅槃。第六经。",
+      "type": "verse"
+    },
+    {
+      "idx": 83,
+      "pali": "7. Paṭhamapaccorohaṇīsuttaṃ",
+      "zh": "7. [[paṭhamapaccorohaṇīsutta|第一下降日经]]"
+    },
+    {
+      "idx": 84,
+      "pali": "Tena kho pana samayena jāṇussoṇi brāhmaṇo tadahuposathe sīsaṃnhāto navaṃ khomayugaṃ nivattho allakusamuṭṭhiṃ ādāya bhagavato avidūre ekamantaṃ ṭhito hoti.",
+      "zh": "那时，[[jāṇussoṇi|生闻]]婆罗门在那天的布萨日，洗沐头首，穿着一套崭新的亚麻衣，手捧湿吉祥草，站在离世尊不远的一边。",
+      "n": "119"
+    },
+    {
+      "idx": 85,
+      "pali": "Addasā kho bhagavā jāṇussoṇiṃ brāhmaṇaṃ tadahuposathe sīsaṃnhātaṃ navaṃ khomayugaṃ nivatthaṃ allakusamuṭṭhiṃ ādāya ekamantaṃ ṭhitaṃ. Disvāna jāṇussoṇiṃ brāhmaṇaṃ etadavoca – ‘‘kiṃ nu tvaṃ, brāhmaṇa, tadahuposathe sīsaṃnhāto navaṃ khomayugaṃ nivattho allakusamuṭṭhiṃ ādāya ekamantaṃ ṭhito ? Kiṃ nvajja brāhmaṇakulassā’’ti ? ‘‘Paccorohaṇī, bho gotama, ajja brāhmaṇakulassā’’ti .",
+      "zh": "世尊见到[[jāṇussoṇi|生闻]]婆罗门在那天的布萨日，洗沐头首，穿着崭新的亚麻衣，手持湿吉祥草，立于一旁。见过之后，世尊对[[jāṇussoṇi|生闻]]婆罗门说：“婆罗门，你今日在布萨日，洗沐头首，穿着新净的亚麻衣，手持湿吉祥草立于一旁，这是为何？今日婆罗门族有什么节庆吗？”“[[gotama|乔达摩]]尊者，今日是婆罗门族的下火节。”"
+    },
+    {
+      "idx": 86,
+      "pali": "‘‘Yathā kathaṃ pana, brāhmaṇa, brāhmaṇānaṃ paccorohaṇī hotī’’ti? ‘‘Idha, bho gotama, brāhmaṇā tadahuposathe sīsaṃnhātā navaṃ khomayugaṃ nivatthā allena gomayena pathaviṃ opuñjitvā haritehi kusehi pattharitvā antarā ca velaṃ antarā ca agyāgāraṃ seyyaṃ kappenti. Te taṃ rattiṃ tikkhattuṃ paccuṭṭhāya pañjalikā aggiṃ namassanti – ‘paccorohāma bhavantaṃ, paccorohāma bhavanta’nti. Bahukena ca sappitelanavanītena aggiṃ santappenti. Tassā ca rattiyā accayena paṇītena khādanīyena bhojanīyena brāhmaṇe santappenti. Evaṃ, bho gotama, brāhmaṇānaṃ paccorohaṇī hotī’’ti.",
+      "zh": "“那么，婆罗门，婆罗门们的下火节又是怎样的呢？”“[[gotama|乔达摩尊]]者，是这样的：婆罗门们在布萨日沐浴洗头，穿上一套崭新的亚麻衣，用湿牛粪涂抹地面，铺上绿色的吉祥草，在门槛与火堂之间敷设卧处。他们于当夜三次起身，合掌礼敬火：‘我等致敬尊贵的下火，我等致敬尊贵的下火。’他们以丰盛的酥油、油和新鲜奶油供施于火。当夜过后，更以精美的副食与主食款待婆罗门们。[[gotama|乔达摩尊]]者，这便是婆罗门们的下火节。”"
+    },
+    {
+      "idx": 87,
+      "pali": "‘‘Aññathā kho, brāhmaṇa, brāhmaṇānaṃ paccorohaṇī hoti, aññathā ca pana ariyassa vinaye paccorohaṇī hotī’’ti. ‘‘Yathā kathaṃ pana, bho gotama, ariyassa vinaye paccorohaṇī hoti? Sādhu me bhavaṃ gotamo tathā dhammaṃ desetu yathā ariyassa vinaye paccorohaṇī hotī’’ti.",
+      "zh": "“婆罗门，婆罗门们的下火节是那一套，而在圣者律法中的下火节，则是全然不同的另一套。”“那么，[[gotama|乔达摩尊]]者，圣者律法中的下火节又是怎样的呢？恳请[[gotama|乔达摩尊]]者为我说法，开示圣者律法中的下火节。”"
+    },
+    {
+      "idx": 88,
+      "pali": "‘‘Tena hi, brāhmaṇa, suṇāhi, sādhukaṃ manasi karohi; bhāsissāmī’’ti. ‘‘Evaṃ, bho’’ti kho jāṇussoṇi brāhmaṇo bhagavato paccassosi. Bhagavā etadavoca –",
+      "zh": "“既如此，婆罗门，谛听，善作意之，我将宣说。”“是，尊者。”[[jāṇussoṇi|生闻]]婆罗门回应世尊。世尊于是说道："
+    },
+    {
+      "idx": 89,
+      "pali": "‘‘Idha , brāhmaṇa, ariyasāvako iti paṭisañcikkhati – ‘micchādiṭṭhiyā kho pāpako vipāko diṭṭhe ceva dhamme abhisamparāyañcā’ ti. So iti paṭisaṅkhāya micchādiṭṭhiṃ pajahati; micchādiṭṭhiyā paccorohati.",
+      "zh": "“婆罗门，在此，圣弟子这样省察：‘邪见确有恶的果报，于现法与来世。’他如此省察后，便舍断邪见，从邪见中退出。"
+    },
+    {
+      "idx": 90,
+      "pali": "… Micchāsaṅkappassa kho pāpako vipāko – diṭṭhe ceva dhamme abhisamparāyañcāti. So iti paṭisaṅkhāya micchāsaṅkappaṃ pajahati; micchāsaṅkappā paccorohati.",
+      "zh": "‘邪思惟确有恶的果报，于现法与来世。’他如此省察后，便舍断邪思惟，从邪思惟中退出。"
+    },
+    {
+      "idx": 91,
+      "pali": "… Micchāvācāya kho pāpako vipāko – diṭṭhe ceva dhamme abhisamparāyañcāti. So iti paṭisaṅkhāya micchāvācaṃ pajahati; micchāvācāya paccorohati.",
+      "zh": "‘邪语确有恶的果报，于现法与来世。’他如此省察后，便舍断邪语，从邪语中退出。"
+    },
+    {
+      "idx": 92,
+      "pali": "…Micchākammantassa kho pāpako vipāko – diṭṭhe ceva dhamme abhisamparāyañcāti. So iti paṭisaṅkhāya micchākammantaṃ pajahati; micchākammantā paccorohati.",
+      "zh": "“‘邪业确实有恶的果报——于现法与来世。’他如此省察后，舍断邪业，从邪业中出离。"
+    },
+    {
+      "idx": 93,
+      "pali": "…Micchāājīvassa kho pāpako vipāko – diṭṭhe ceva dhamme abhisamparāyañcāti. So iti paṭisaṅkhāya micchāājīvaṃ pajahati; micchāājīvā paccorohati.",
+      "zh": "“‘邪命确实有恶的果报——于现法与来世。’他如此省察后，舍断邪命，从邪命中出离。"
+    },
+    {
+      "idx": 94,
+      "pali": "…Micchāvāyāmassa kho pāpako vipāko – diṭṭhe ceva dhamme abhisamparāyañcāti. So iti paṭisaṅkhāya micchāvāyāmaṃ pajahati; micchāvāyāmā paccorohati.",
+      "zh": "“‘邪精进确实有恶的果报——于现法与来世。’他如此省察后，舍断邪精进，从邪精进中出离。"
+    },
+    {
+      "idx": 95,
+      "pali": "…Micchāsatiyā kho pāpako vipāko – diṭṭhe ceva dhamme abhisamparāyañcāti. So iti paṭisaṅkhāya micchāsatiṃ pajahati; micchāsatiyā paccorohati.",
+      "zh": "“邪念确实有恶的果报——在现法与来世。”他如此省察后，便舍断邪念，从邪念中出离。"
+    },
+    {
+      "idx": 96,
+      "pali": "…Micchāsamādhissa kho pāpako vipāko – diṭṭhe ceva dhamme abhisamparāyañcāti. So iti paṭisaṅkhāya micchāsamādhiṃ pajahati; micchāsamādhimhā paccorohati.",
+      "zh": "……“邪定确实有恶的果报——在现法与来世。”他如此省察后，便舍断邪定，从邪定中出离。"
+    },
+    {
+      "idx": 97,
+      "pali": "…Micchāñāṇassa kho pāpako vipāko – diṭṭhe ceva dhamme abhisamparāyañcāti. So iti paṭisaṅkhāya micchāñāṇaṃ pajahati; micchāñāṇamhā paccorohati.",
+      "zh": "……“邪智确实有恶的果报——在现法与来世。”他如此省察后，便舍断邪智，从邪智中出离。"
+    },
+    {
+      "idx": 98,
+      "pali": "‘Micchāvimuttiyā kho pāpako vipāko – diṭṭhe ceva dhamme abhisamparāyañcā’ti. So iti paṭisaṅkhāya micchāvimuttiṃ pajahati; micchāvimuttiyā paccorohati. Evaṃ kho, brāhmaṇa, ariyassa vinaye paccorohaṇī hotī’’ti.",
+      "zh": "“邪解脱必有苦果，现世与来世皆然。”他如此省察后，便舍断邪解脱，从邪解脱中退出。婆罗门，在圣者的律中，这便是下降日。"
+    },
+    {
+      "idx": 99,
+      "pali": "‘‘Aññathā, bho gotama, brāhmaṇānaṃ paccorohaṇī, aññathā ca pana ariyassa vinaye paccorohaṇī hoti. Imissā ca, bho gotama, ariyassa vinaye paccorohaṇiyā brāhmaṇānaṃ paccorohaṇī kalaṃ nāgghati soḷasiṃ. Abhikkantaṃ , bho gotama…pe… upāsakaṃ maṃ bhavaṃ gotamo dhāretu ajjatagge pāṇupetaṃ saraṇaṃ gata’’nti. Sattamaṃ.",
+      "zh": "“[[gotama|乔达摩尊]]者，婆罗门所说的下降日是一种，圣者律中所说的下降日是另一种。[[gotama|乔达摩尊]]者，婆罗门的下降日，尚不及这圣者律下降日的十六分之一。殊胜啊，[[gotama|乔达摩尊]]者！……愿[[gotama|乔达摩尊]]者忆持我为近事男，从今日起，尽此一生，皈依于您。”第七经。"
+    },
+    {
+      "idx": 100,
+      "pali": "8. Dutiyapaccorohaṇīsuttaṃ",
+      "zh": "8. [[dutiyapaccorohaṇīsutta|第二下降日经]]"
+    },
+    {
+      "idx": 101,
+      "pali": "‘‘Ariyaṃ vo, bhikkhave, paccorohaṇiṃ desessāmi. Taṃ suṇātha… katamā ca, bhikkhave, ariyā paccorohaṇī? Idha, bhikkhave, ariyasāvako iti paṭisañcikkhati – ‘micchādiṭṭhiyā kho pāpako vipāko – diṭṭhe ceva dhamme abhisamparāyañcā’ti. So iti paṭisaṅkhāya micchādiṭṭhiṃ pajahati; micchādiṭṭhiyā paccorohati. Micchāsaṅkappassa kho pāpako vipāko… micchāvācāya kho… micchākammantassa kho… micchāājīvassa kho… micchāvāyāmassa kho… micchāsatiyā kho… micchāsamādhissa kho… micchāñāṇassa kho… micchāvimuttiyā kho pāpako vipāko – diṭṭhe ceva dhamme abhisamparāyañcāti. So iti paṭisaṅkhāya micchāvimuttiṃ pajahati; micchāvimuttiyā paccorohati. Ayaṃ vuccati, bhikkhave, ariyā paccorohaṇī’’ti. Aṭṭhamaṃ.",
+      "zh": "“诸比丘，我将为你们宣说圣下降日。谛听……诸比丘，什么是圣下降日？诸比丘，于此，圣弟子这样省察：‘邪见确实带来恶的果报——于现法与来世。’如此省察后，他舍断邪见，即从邪见退出。‘邪思惟确实带来恶的果报……邪语确实……邪业确实……邪命确实……邪精进确实……邪念确实……邪定确实……邪智确实……邪解脱确实带来恶的果报——于现法与来世。’如此省察后，他舍断邪解脱，即从邪解脱退出。诸比丘，这就称为圣下降日。”第八经。",
+      "n": "120"
+    },
+    {
+      "idx": 102,
+      "pali": "9. Pubbaṅgamasuttaṃ",
+      "zh": "9. [[pubbaṅgamasutta|前导经]]"
+    },
+    {
+      "idx": 103,
+      "pali": "‘‘Sūriyassa, bhikkhave, udayato etaṃ pubbaṅgamaṃ etaṃ pubbanimittaṃ, yadidaṃ – aruṇuggaṃ. Evamevaṃ kho, bhikkhave, kusalānaṃ dhammānaṃ etaṃ pubbaṅgamaṃ etaṃ pubbanimittaṃ, yadidaṃ – sammādiṭṭhi. Sammādiṭṭhikassa, bhikkhave, sammāsaṅkappo pahoti, sammāsaṅkappassa sammāvācā pahoti, sammākammanto pahoti, sammākammantassa sammāājīvo pahoti, sammāājīvassa sammāvāyāmo pahoti, sammāvāyāmassa sammāsati pahoti, sammāsatissa sammāsamādhi pahoti , sammāsamādhissa sammāñāṇaṃ pahoti, sammāñāṇissa sammāvimutti pahotī’’ti. Navamaṃ.",
+      "zh": "“诸比丘，太阳升起时，这是前导，这是前相，即曙光。同样地，诸比丘，对诸善法而言，这是前导，这是前相，即正见。诸比丘，具正见者，正思惟生；具正思惟者，正语生；具正语者，正业生；具正业者，正命生；具正命者，正精进生；具正精进者，正念生；具正念者，正定生；具正定者，正智生；具正智者，正解脱生。”第九经。",
+      "n": "121"
+    },
+    {
+      "idx": 104,
+      "pali": "10. Āsavakkhayasuttaṃ",
+      "zh": "10. [[āsavakkhayasutta|漏尽经]]"
+    },
+    {
+      "idx": 105,
+      "pali": "‘‘Dasayime, bhikkhave, dhammā bhāvitā bahulīkatā āsavānaṃ khayāya saṃvattanti. Katame dasa? Sammādiṭṭhi, sammāsaṅkappo, sammāvācā, sammākammanto, sammāājīvo, sammāvāyāmo, sammāsati, sammāsamādhi, sammāñāṇaṃ , sammāvimutti – ime kho , bhikkhave, dasa dhammā bhāvitā bahulīkatā āsavānaṃ khayāya saṃvattantī’’ti. Dasamaṃ.",
+      "zh": "“比丘们，这十法修习、多修习，能导向诸漏尽。哪十法？正见、正思惟、正语、正业、正命、正精进、正念、正定、正智、正解脱。比丘们，这十法修习、多修习，能导向诸漏尽。”第十经。",
+      "n": "122"
+    },
+    {
+      "idx": 106,
+      "pali": "Paccorohaṇivaggo dutiyo.",
+      "zh": "下降日品第二。"
+    },
+    {
+      "idx": 107,
+      "pali": "Tassuddānaṃ –",
+      "zh": "其摄颂："
+    },
+    {
+      "idx": 108,
+      "pali": "Tayo adhammā ajito, saṅgāravo ca orimaṃ;",
+      "zh": "三种非法与阿耆多，伤歌逻及此岸；",
+      "type": "verse"
+    },
+    {
+      "idx": 109,
+      "pali": "Dve ceva paccorohaṇī, pubbaṅgamaṃ āsavakkhayoti.",
+      "zh": "二种下降日，其一为漏尽。",
+      "type": "verse"
+    }
+  ]
+}

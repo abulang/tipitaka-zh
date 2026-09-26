@@ -1,0 +1,1653 @@
+{
+  "uid": 48,
+  "title": "4. 根相应",
+  "nik": "SN",
+  "segs": [
+    {
+      "idx": 306,
+      "pali": "4. Indriyasaṃyuttaṃ",
+      "zh": "4. 根相应"
+    },
+    {
+      "idx": 307,
+      "pali": "1. Suddhikavaggo",
+      "zh": "1. 纯净品"
+    },
+    {
+      "idx": 308,
+      "pali": "1. Suddhikasuttaṃ",
+      "zh": "1. [[suddhikasutta|纯净经]]"
+    },
+    {
+      "idx": 1,
+      "pali": "Sāvatthinidānaṃ . ‘‘Pañcimāni, bhikkhave, indriyāni. Katamāni pañca? Saddhindriyaṃ, vīriyindriyaṃ, satindriyaṃ, samādhindriyaṃ, paññindriyaṃ – imāni kho, bhikkhave, pañcindriyānī’’ti. Paṭhamaṃ.",
+      "zh": "[[sāvatthī|舍卫城]]因缘：“诸比丘，有五根。哪五种？信根、精进根、念根、定根、慧根。诸比丘，这即是五根。”第一经。",
+      "n": "471"
+    },
+    {
+      "idx": 2,
+      "pali": "2. Paṭhamasotāpannasuttaṃ",
+      "zh": "2. [[paṭhamasotāpannasutta|初入流者经]]"
+    },
+    {
+      "idx": 3,
+      "pali": "‘‘Pañcimāni, bhikkhave, indriyāni. Katamāni pañca? Saddhindriyaṃ, vīriyindriyaṃ, satindriyaṃ, samādhindriyaṃ, paññindriyaṃ. Yato kho, bhikkhave, ariyasāvako imesaṃ pañcannaṃ indriyānaṃ assādañca ādīnavañca nissaraṇañca yathābhūtaṃ pajānāti – ayaṃ vuccati, bhikkhave, ariyasāvako sotāpanno avinipātadhammo niyato sambodhiparāyaṇo’’ti. Dutiyaṃ.",
+      "zh": "“诸比丘，有五根。哪五种？信根、精进根、念根、定根、慧根。诸比丘，当圣弟子如实了知这五根的味、过患与出离，这位圣弟子便称为入流者，不堕恶趣，决定趣向正觉。第二经。”",
+      "n": "472"
+    },
+    {
+      "idx": 4,
+      "pali": "3. Dutiyasotāpannasuttaṃ",
+      "zh": "3. [[dutiyasotāpannasutta|第二入流者经]]"
+    },
+    {
+      "idx": 5,
+      "pali": "‘‘Pañcimāni, bhikkhave, indriyāni. Katamāni pañca? Saddhindriyaṃ, vīriyindriyaṃ, satindriyaṃ, samādhindriyaṃ, paññindriyaṃ. Yato kho, bhikkhave, ariyasāvako imesaṃ pañcannaṃ indriyānaṃ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṃ pajānāti – ayaṃ vuccati, bhikkhave, ariyasāvako sotāpanno avinipātadhammo niyato sambodhiparāyaṇo’’ti. Tatiyaṃ.",
+      "zh": "“诸比丘，有这五根。是哪五种呢？信根、精进根、念根、定根、慧根。诸比丘，当圣弟子如实了知这五根的集起、灭去、味、过患与出离时——诸比丘，这位圣弟子便称为入流者，不退堕法，决定，以正觉为彼岸。” 第三经。",
+      "n": "473"
+    },
+    {
+      "idx": 6,
+      "pali": "4. Paṭhamaarahantasuttaṃ",
+      "zh": "4. [[paṭhamaarahantasutta|第一阿拉汉经]]"
+    },
+    {
+      "idx": 7,
+      "pali": "‘‘Pañcimāni, bhikkhave, indriyāni. Katamāni pañca? Saddhindriyaṃ, vīriyindriyaṃ, satindriyaṃ, samādhindriyaṃ, paññindriyaṃ. Yato kho, bhikkhave, ariyasāvako imesaṃ pañcannaṃ indriyānaṃ assādañca ādīnavañca nissaraṇañca yathābhūtaṃ viditvā anupādāvimutto hoti – ayaṃ vuccati, bhikkhave, bhikkhu arahaṃ khīṇāsavo vusitavā katakaraṇīyo ohitabhāro anuppattasadattho parikkhīṇabhavasaṃyojano sammadaññā vimutto’’ti. Catutthaṃ.",
+      "zh": "“诸比丘，有五种根。哪五种？信根、精进根、念根、定根、慧根。诸比丘，当圣弟子如实了知这五根的乐味、过患与出离之后，以无取著而得解脱——比丘们，这便称为阿拉汉比丘，漏尽者，梵行已立，所作已办，重担已卸，自利已达，有结已尽，正智解脱。”第四经。",
+      "n": "474"
+    },
+    {
+      "idx": 8,
+      "pali": "5. Dutiyaarahantasuttaṃ",
+      "zh": "5. [[dutiyaarahantasutta|第二阿拉汉经]]"
+    },
+    {
+      "idx": 9,
+      "pali": "‘‘Pañcimāni, bhikkhave, indriyāni. Katamāni pañca? Saddhindriyaṃ, vīriyindriyaṃ, satindriyaṃ, samādhindriyaṃ, paññindriyaṃ. Yato kho, bhikkhave, bhikkhu imesaṃ pañcannaṃ indriyānaṃ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṃ viditvā anupādāvimutto hoti – ayaṃ vuccati, bhikkhave, bhikkhu arahaṃ khīṇāsavo vusitavā katakaraṇīyo ohitabhāro anuppattasadattho parikkhīṇabhavasaṃyojano sammadaññā vimutto’’ti. Pañcamaṃ.",
+      "zh": "“诸比丘，有此五根。哪五种？信根、精进根、念根、定根、慧根。诸比丘，当比丘如实了知这五根的集起、灭没、乐味、过患与出离之后，以无取著而得解脱——比丘们，这便称为阿拉汉比丘，漏尽者，梵行已立，所作已办，重担已卸，自利已达，有结已尽，正智解脱。”第五经。",
+      "n": "475"
+    },
+    {
+      "idx": 10,
+      "pali": "6. Paṭhamasamaṇabrāhmaṇasuttaṃ",
+      "zh": "6. [[paṭhamasamaṇabrāhmaṇasutta|第一沙门婆罗门经]]"
+    },
+    {
+      "idx": 11,
+      "pali": "‘‘Pañcimāni, bhikkhave, indriyāni. Katamāni pañca? Saddhindriyaṃ…pe… paññindriyaṃ. Ye hi keci, bhikkhave, samaṇā vā brāhmaṇā vā imesaṃ pañcannaṃ indriyānaṃ assādañca ādīnavañca nissaraṇañca yathābhūtaṃ nappajānanti, na me te, bhikkhave, samaṇā vā brāhmaṇā vā samaṇesu vā samaṇasammatā brāhmaṇesu vā brāhmaṇasammatā, na ca panete āyasmanto sāmaññatthaṃ vā brahmaññatthaṃ vā diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharanti.",
+      "zh": "“比丘们，有这五根。哪五种？信根……（中略）……慧根。比丘们，若有沙门或婆罗门，对这五根的味、过患、出离不能如实了知，那么，比丘们，我不视他们为沙门中的沙门、婆罗门中的婆罗门；这些具寿也无法在现法中，亲自以证智证得沙门义或婆罗门义而安住。",
+      "n": "476"
+    },
+    {
+      "idx": 12,
+      "pali": "‘‘Ye ca kho keci , bhikkhave, samaṇā vā brāhmaṇā vā imesaṃ pañcannaṃ indriyānaṃ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṃ pajānanti, te kho me, bhikkhave, samaṇā vā brāhmaṇā vā samaṇesu ceva samaṇasammatā brāhmaṇesu ca brāhmaṇasammatā; te ca panāyasmanto sāmaññatthañca brahmaññatthañca diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharantī’’ti. Chaṭṭhaṃ.",
+      "zh": "“比丘们，若有沙门或婆罗门，对这五根的集起、灭去、味、过患、出离如实了知，那么，比丘们，我视他们为沙门中的沙门、婆罗门中的婆罗门；这些具寿就在现法中，亲自以证智证得沙门义和婆罗门义而安住。”第六经。"
+    },
+    {
+      "idx": 13,
+      "pali": "7. Dutiyasamaṇabrāhmaṇasuttaṃ",
+      "zh": "7. [[dutiyasamaṇabrāhmaṇasutta|第二沙门婆罗门经]]"
+    },
+    {
+      "idx": 14,
+      "pali": "‘‘Ye hi keci, bhikkhave, samaṇā vā brāhmaṇā vā saddhindriyaṃ nappajānanti, saddhindriyasamudayaṃ nappajānanti, saddhindriyanirodhaṃ nappajānanti, saddhindriyanirodhagāminiṃ paṭipadaṃ nappajānanti; vīriyindriyaṃ nappajānanti…pe… satindriyaṃ nappajānanti …pe… samādhindriyaṃ nappajānanti…pe… paññindriyaṃ nappajānanti, paññindriyasamudayaṃ nappajānanti, paññindriyanirodhaṃ nappajānanti, paññindriyanirodhagāminiṃ paṭipadaṃ nappajānanti, na me te, bhikkhave samaṇā vā brāhmaṇā vā samaṇesu vā samaṇasammatā brāhmaṇesu vā brāhmaṇasammatā, na ca panete āyasmanto sāmaññatthaṃ vā brahmaññatthaṃ vā diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharanti.",
+      "zh": "“诸比丘，凡是任何沙门或婆罗门，不了知信根，不了知信根的集起，不了知信根的灭，不了知导向信根灭的道路；不了知精进根……（中略）……念根……（中略）……定根……（中略）……慧根，不了知慧根的集起，不了知慧根的灭，不了知导向慧根灭的道路——诸比丘，我不认为这些沙门或婆罗门能在沙门中堪称沙门，或在婆罗门中堪称婆罗门。而且，这些尊者未能在现法之中，自己证知、现证，安住于沙门义利或婆罗门义利。",
+      "n": "477"
+    },
+    {
+      "idx": 15,
+      "pali": "‘‘Ye ca kho keci, bhikkhave, samaṇā vā brāhmaṇā vā saddhindriyaṃ pajānanti, saddhindriyasamudayaṃ pajānanti, saddhindriyanirodhaṃ pajānanti, saddhindriyanirodhagāminiṃ paṭipadaṃ pajānanti; vīriyindriyaṃ pajānanti, vīriyindriyasamudayaṃ pajānanti, vīriyindriyanirodhaṃ pajānanti, vīriyindriyanirodhagāminiṃ paṭipadaṃ pajānanti; satindriyaṃ pajānanti…pe… samādhindriyaṃ pajānanti…pe… paññindriyaṃ pajānanti, paññindriyasamudayaṃ pajānanti, paññindriyanirodhaṃ pajānanti, paññindriyanirodhagāminiṃ paṭipadaṃ pajānanti , te kho me, bhikkhave, samaṇā vā brāhmaṇā vā samaṇesu ceva samaṇasammatā brāhmaṇesu ca brāhmaṇasammatā, te ca panāyasmanto sāmaññatthañca brahmaññatthañca diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharantī’’ti. Sattamaṃ.",
+      "zh": "“诸比丘，而凡是任何沙门或婆罗门，了知信根，了知信根的集起，了知信根的灭，了知导向信根灭的道路；了知精进根，了知精进根的集起，了知精进根的灭，了知导向精进根灭的道路；了知念根……乃至……定根……乃至……慧根，了知慧根的集起，了知慧根的灭，了知导向慧根灭的道路——诸比丘，我即认为这些沙门或婆罗门能在沙门中堪称沙门，在婆罗门中堪称婆罗门。而且，这些贤者能就在此现法之中，自己证知、现证，安住于沙门义利与婆罗门义利。”第七经。"
+    },
+    {
+      "idx": 16,
+      "pali": "8. Daṭṭhabbasuttaṃ",
+      "zh": "8. [[daṭṭhabbasutta|应见经]]"
+    },
+    {
+      "idx": 17,
+      "pali": "‘‘Pañcimāni, bhikkhave, indriyāni. Katamāni pañca? Saddhindriyaṃ…pe… paññindriyaṃ. Kattha ca, bhikkhave, saddhindriyaṃ daṭṭhabbaṃ? Catūsu sotāpattiyaṅgesu – ettha saddhindriyaṃ daṭṭhabbaṃ. Kattha ca, bhikkhave, vīriyindriyaṃ daṭṭhabbaṃ? Catūsu sammappadhānesu – ettha vīriyindriyaṃ daṭṭhabbaṃ. Kattha ca, bhikkhave, satindriyaṃ daṭṭhabbaṃ? Catūsu satipaṭṭhānesu – ettha satindriyaṃ daṭṭhabbaṃ. Kattha ca, bhikkhave, samādhindriyaṃ daṭṭhabbaṃ? Catūsu jhānesu – ettha samādhindriyaṃ daṭṭhabbaṃ. Kattha ca, bhikkhave, paññindriyaṃ daṭṭhabbaṃ? Catūsu ariyasaccesu – ettha paññindriyaṃ daṭṭhabbaṃ. Imāni kho, bhikkhave, pañcindriyānī’’ti. Aṭṭhamaṃ.",
+      "zh": "“诸比丘，有此五根。哪五种呢？信根……乃至慧根。诸比丘，信根应于何处见？于四入流支中——信根应于此见。诸比丘，精进根应于何处见？于四正勤中——精进根应于此见。诸比丘，念根应于何处见？于四念处中——念根应于此见。诸比丘，定根应于何处见？于四禅那中——定根应于此见。诸比丘，慧根应于何处见？于四圣谛中——慧根应于此见。诸比丘，此即五根。”第八经。",
+      "n": "478"
+    },
+    {
+      "idx": 18,
+      "pali": "9. Paṭhamavibhaṅgasuttaṃ",
+      "zh": "9. [[paṭhamavibhaṅgasutta|第一分别经]]"
+    },
+    {
+      "idx": 19,
+      "pali": "‘‘Pañcimāni, bhikkhave, indriyāni. Katamāni pañca? Saddhindriyaṃ…pe… paññindriyaṃ. Katamañca, bhikkhave, saddhindriyaṃ? Idha, bhikkhave, ariyasāvako saddho hoti, saddahati tathāgatassa bodhiṃ – ‘itipi so bhagavā arahaṃ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṃ buddho bhagavā’ti – idaṃ vuccati, bhikkhave, saddhindriyaṃ.",
+      "zh": "“诸比丘，有此五根。哪五种？信根……慧根。诸比丘，什么是信根？诸比丘，于此，圣弟子有信，深信如来的觉悟：“彼世尊是阿拉汉、正自觉者、明行足、善逝、世间解、无上士调御丈夫、天人师、佛陀、世尊。”诸比丘，这便称为信根。”",
+      "n": "479"
+    },
+    {
+      "idx": 20,
+      "pali": "‘‘Katamañca, bhikkhave, vīriyindriyaṃ? Idha, bhikkhave, ariyasāvako āraddhavīriyo viharati akusalānaṃ dhammānaṃ pahānāya, kusalānaṃ dhammānaṃ upasampadāya, thāmavā daḷhaparakkamo anikkhittadhuro kusalesu dhammesu – idaṃ vuccati, bhikkhave, vīriyindriyaṃ.",
+      "zh": "“诸比丘，什么是精进根？诸比丘，于此，圣弟子为断除不善法、成就善法，住于勤发精进，他强健有力、坚毅勇猛，于诸善法从不懈怠、不卸重担——诸比丘，这便称为精进根。"
+    },
+    {
+      "idx": 21,
+      "pali": "‘‘Katamañca, bhikkhave, satindriyaṃ? Idha, bhikkhave, ariyasāvako satimā hoti paramena satinepakkena samannāgato cirakatampi cirabhāsitampi saritā anussaritā – idaṃ vuccati, bhikkhave, satindriyaṃ.",
+      "zh": "“诸比丘，什么是念根？诸比丘，于此，圣弟子具念，成就最胜的念与正知，久远以前所作、久远以前所说，皆能记忆、皆能回忆——诸比丘，这便称为念根。"
+    },
+    {
+      "idx": 22,
+      "pali": "‘‘Katamañca, bhikkhave, samādhindriyaṃ? Idha, bhikkhave, ariyasāvako vossaggārammaṇaṃ karitvā labhati samādhiṃ, labhati cittassa ekaggataṃ – idaṃ vuccati, bhikkhave, samādhindriyaṃ.",
+      "zh": "“诸比丘，什么是定根呢？诸比丘，在此，圣弟子以舍弃为所缘，获得定，获得心一境性——诸比丘，这就称为定根。"
+    },
+    {
+      "idx": 23,
+      "pali": "‘‘Katamañca, bhikkhave, paññindriyaṃ? Idha, bhikkhave, ariyasāvako paññavā hoti udayatthagāminiyā paññāya samannāgato ariyāya nibbedhikāya, sammā dukkhakkhayagāminiyā – idaṃ vuccati, bhikkhave, paññindriyaṃ. Imāni kho, bhikkhave, pañcindriyānī’’ti. Navamaṃ.",
+      "zh": "“诸比丘，什么是慧根呢？诸比丘，在此，圣弟子具有智慧，他具足导向生起与灭尽、圣的、能洞察、正确导向苦尽的慧——诸比丘，这就称为慧根。诸比丘，这些就是五根。”第九经。"
+    },
+    {
+      "idx": 24,
+      "pali": "10. Dutiyavibhaṅgasuttaṃ",
+      "zh": "10. [[dutiyavibhaṅgasutta|第二分别经]]"
+    },
+    {
+      "idx": 25,
+      "pali": "‘‘Pañcimāni, bhikkhave, indriyāni. Katamāni pañca? Saddhindriyaṃ…pe… paññindriyaṃ. Katamañca, bhikkhave, saddhindriyaṃ? Idha, bhikkhave, ariyasāvako saddho hoti, saddahati tathāgatassa bodhiṃ – ‘itipi so bhagavā arahaṃ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṃ buddho bhagavā’ti – idaṃ vuccati, bhikkhave, saddhindriyaṃ.",
+      "zh": "“诸比丘，有这五根。哪五种呢？信根……（中略）……慧根。诸比丘，什么是信根？诸比丘，于此，圣弟子有信，深信如来的觉悟：‘彼世尊是阿拉汉、正自觉者、明行足、善逝、世间解、无上士调御丈夫、天人师、佛陀、世尊。’诸比丘，这就称为信根。”",
+      "n": "480"
+    },
+    {
+      "idx": 26,
+      "pali": "‘‘Katamañca , bhikkhave, vīriyindriyaṃ? Idha, bhikkhave, ariyasāvako āraddhavīriyo viharati akusalānaṃ dhammānaṃ pahānāya, kusalānaṃ dhammānaṃ upasampadāya, thāmavā daḷhaparakkamo anikkhittadhuro kusalesu dhammesu. So anuppannānaṃ pāpakānaṃ akusalānaṃ dhammānaṃ anuppādāya chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati; uppannānaṃ pāpakānaṃ akusalānaṃ dhammānaṃ pahānāya chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati; anuppannānaṃ kusalānaṃ dhammānaṃ uppādāya chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati; uppannānaṃ kusalānaṃ dhammānaṃ ṭhitiyā asammosāya bhiyyobhāvāya vepullāya bhāvanāya pāripūriyā chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati – idaṃ vuccati, bhikkhave, vīriyindriyaṃ.",
+      "zh": "“诸比丘，什么是精进根呢？诸比丘，于此，圣弟子安住于精进，为断除不善法、为成就善法，强健有力、坚毅勇猛，于善法上不卸下重担。他为了使未生起的恶不善法不生起，而生起意欲、精进、奋力、策励心、殷勤；为了使已生起的恶不善法断除，而生起意欲、精进、奋力、策励心、殷勤；为了使未生起的善法生起，而生起意欲、精进、奋力、策励心、殷勤；为了使已生起的善法安住、不忘失、增长、广大、修习、圆满，而生起意欲、精进、奋力、策励心、殷勤。诸比丘，这就称为精进根。"
+    },
+    {
+      "idx": 27,
+      "pali": "‘‘Katamañca , bhikkhave, satindriyaṃ? Idha, bhikkhave, ariyasāvako satimā hoti paramena satinepakkena samannāgato, cirakatampi cirabhāsitampi saritā anussaritā. So kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṃ; vedanāsu…pe… citte…pe… dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṃ – idaṃ vuccati, bhikkhave, satindriyaṃ.",
+      "zh": "“诸比丘，什么是念根呢？诸比丘，于此，圣弟子具念，具备最上的念与正知，能忆持、随念长久以前所作、长久以前所说。他于身随观身而住，热忱、正知、具念，调伏世间的贪忧；于受……（中略）……于心……于法随观法而住，热忱、正知、具念，调伏世间的贪忧。诸比丘，这就称为念根。"
+    },
+    {
+      "idx": 28,
+      "pali": "‘‘Katamañca, bhikkhave, samādhindriyaṃ? Idha, bhikkhave, ariyasāvako vossaggārammaṇaṃ karitvā labhati samādhiṃ, labhati cittassa ekaggataṃ. So vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṃ savicāraṃ vivekajaṃ pītisukhaṃ paṭhamaṃ jhānaṃ upasampajja viharati. Vitakkavicārānaṃ vūpasamā ajjhattaṃ sampasādanaṃ cetaso ekodibhāvaṃ avitakkaṃ avicāraṃ samādhijaṃ pītisukhaṃ dutiyaṃ jhānaṃ upasampajja viharati. Pītiyā ca virāgā upekkhako ca viharati sato ca sampajāno sukhañca kāyena paṭisaṃvedeti yaṃ taṃ ariyā ācikkhanti ‘upekkhako satimā sukhavihārī’ti tatiyaṃ jhānaṃ upasampajja viharati. Sukhassa ca pahānā dukkhassa ca pahānā pubbeva somanassadomanassānaṃ atthaṅgamā adukkhamasukhaṃ upekkhāsatipārisuddhiṃ catutthaṃ jhānaṃ upasampajja viharati – idaṃ vuccati, bhikkhave, samādhindriyaṃ.",
+      "zh": "“诸比丘，什么是定根？在此，圣弟子以舍离为所缘，获得定，获得心一境性。他远离诸欲、远离不善法，有寻有伺，具足由远离而生的喜与乐，进入并安住于初禅。由寻与伺的止息，内心清净，心成专一，无寻无伺，具足由定而生的喜与乐，进入并安住于第二禅。随着喜的消退，他安住于舍，正念正知，以身感受乐，正如圣者们所说：‘舍、念、乐住’，进入并安住于第三禅。由乐与苦的舍断，以及先前喜与忧的灭没，不苦不乐，舍念清净，进入并安住于第四禅——诸比丘，这称为定根。”"
+    },
+    {
+      "idx": 29,
+      "pali": "‘‘Katamañca , bhikkhave, paññindriyaṃ? Idha, bhikkhave, ariyasāvako paññavā hoti udayatthagāminiyā paññāya samannāgato ariyāya nibbedhikāya, sammā dukkhakkhayagāminiyā. So ‘idaṃ dukkha’nti yathābhūtaṃ pajānāti, ‘ayaṃ dukkhasamudayo’ti yathābhūtaṃ pajānāti, ‘ayaṃ dukkhanirodho’ti yathābhūtaṃ pajānāti, ‘ayaṃ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṃ pajānāti – idaṃ vuccati, bhikkhave, paññindriyaṃ. Imāni kho, bhikkhave, pañcindriyānī’’ti. Dasamaṃ.",
+      "zh": "“诸比丘，什么是慧根？在此，圣弟子是有慧者，具足导向生灭的智慧，这是圣者的、能洞察的、正导至苦尽的智慧。他如实了知‘这是苦’，如实了知‘这是苦集’，如实了知‘这是苦灭’，如实了知‘这是导至苦灭之道’——诸比丘，这称为慧根。诸比丘，这些是五根。 ”第十经。"
+    },
+    {
+      "idx": 30,
+      "pali": "Suddhikavaggo paṭhamo.",
+      "zh": "纯净品第一"
+    },
+    {
+      "idx": 31,
+      "pali": "Tassuddānaṃ –",
+      "zh": "其摄颂："
+    },
+    {
+      "idx": 32,
+      "pali": "Suddhikañceva dve sotā, arahantā apare duve;",
+      "zh": "清净与二流，复有二阿拉汉；",
+      "type": "verse"
+    },
+    {
+      "idx": 33,
+      "pali": "Samaṇabrāhmaṇā daṭṭhabbaṃ, vibhaṅgā apare duveti.",
+      "zh": "沙门婆罗门应见者，及二种分别。",
+      "type": "verse"
+    },
+    {
+      "idx": 34,
+      "pali": "2. Mudutaravaggo",
+      "zh": "2. 柔软品"
+    },
+    {
+      "idx": 35,
+      "pali": "1. Paṭilābhasuttaṃ",
+      "zh": "1. [[paṭilābhasutta|获得经]]"
+    },
+    {
+      "idx": 36,
+      "pali": "‘‘Pañcimāni , bhikkhave, indriyāni. Katamāni pañca? Saddhindriyaṃ…pe… paññindriyaṃ…pe…. Katamañca, bhikkhave, saddhindriyaṃ? Idha, bhikkhave, ariyasāvako saddho hoti, saddahati tathāgatassa bodhiṃ – ‘itipi so bhagavā arahaṃ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṃ buddho bhagavā’ti – idaṃ vuccati, bhikkhave, saddhindriyaṃ.",
+      "zh": "“诸比丘，有这五根。哪五种呢？信根……（中略）……慧根。诸比丘，什么是信根呢？在此，圣弟子于如来的觉悟生起信：‘彼世尊是阿拉汉、正自觉者、明行足、善逝、世间解、无上士调御丈夫、天人师、佛陀、世尊。’诸比丘，这便称为信根。”",
+      "n": "481"
+    },
+    {
+      "idx": 37,
+      "pali": "‘‘Katamañca, bhikkhave, vīriyindriyaṃ? Yaṃ kho, bhikkhave, cattāro sammappadhāne ārabbha vīriyaṃ paṭilabhati – idaṃ vuccati, bhikkhave, vīriyindriyaṃ.",
+      "zh": "“诸比丘，什么又是精进根呢？依于四正勤所获得的精进，便称为精进根。"
+    },
+    {
+      "idx": 38,
+      "pali": "‘‘Katamañca , bhikkhave, satindriyaṃ? Yaṃ kho, bhikkhave, cattāro satipaṭṭhāne ārabbha satiṃ paṭilabhati – idaṃ vuccati, bhikkhave, satindriyaṃ.",
+      "zh": "“诸比丘，什么是念根？依于四念处而获得的念——诸比丘，这就称为念根。"
+    },
+    {
+      "idx": 39,
+      "pali": "‘‘Katamañca, bhikkhave, samādhindriyaṃ? Idha, bhikkhave, ariyasāvako vossaggārammaṇaṃ karitvā labhati samādhiṃ, labhati cittassa ekaggataṃ – idaṃ vuccati, bhikkhave, samādhindriyaṃ.",
+      "zh": "“诸比丘，什么是定根？在此，圣弟子以舍为所缘，获得定，获得心一境性——诸比丘，这称为定根。"
+    },
+    {
+      "idx": 40,
+      "pali": "‘‘Katamañca, bhikkhave, paññindriyaṃ? Idha, bhikkhave, ariyasāvako paññavā hoti udayatthagāminiyā paññāya samannāgato ariyāya nibbedhikāya sammā dukkhakkhayagāminiyā – idaṃ vuccati, bhikkhave, paññindriyaṃ. Imāni kho, bhikkhave, pañcindriyānī’’ti. Paṭhamaṃ.",
+      "zh": "“诸比丘，什么是慧根？在此，圣弟子有智慧，具备导向生灭、圣、洞察、正导至苦尽的智慧——诸比丘，这称为慧根。诸比丘，这些是五根。”第一经。"
+    },
+    {
+      "idx": 41,
+      "pali": "2. Paṭhamasaṃkhittasuttaṃ",
+      "zh": "2. 第一[[paṭhamasaṃkhittasutta|略经]]"
+    },
+    {
+      "idx": 42,
+      "pali": "‘‘Pañcimāni , bhikkhave, indriyāni. Katamāni pañca? Saddhindriyaṃ…pe… paññindriyaṃ – imāni kho, bhikkhave, pañcindriyāni. Imesaṃ kho, bhikkhave, pañcannaṃ indriyānaṃ samattā paripūrattā arahaṃ hoti, tato mudutarehi anāgāmī hoti, tato mudutarehi sakadāgāmī hoti, tato mudutarehi sotāpanno hoti, tato mudutarehi dhammānusārī hoti, tato mudutarehi saddhānusārī hotī’’ti. Dutiyaṃ.",
+      "zh": "“比丘们，有此五根。哪五根？信根……（中略）……慧根。比丘们，这即是五根。比丘们，五根具足圆满者，是阿拉汉；较此弱，是不来者；再弱，是一来者；再弱，是入流者；再弱，是随法行者；再弱，是随信行者。”第二经。",
+      "n": "482"
+    },
+    {
+      "idx": 43,
+      "pali": "3. Dutiyasaṃkhittasuttaṃ",
+      "zh": "3. [[dutiyasaṃkhittasutta|第二略经]]"
+    },
+    {
+      "idx": 44,
+      "pali": "‘‘Pañcimāni, bhikkhave, indriyāni. Katamāni pañca? Saddhindriyaṃ…pe… paññindriyaṃ – imāni kho, bhikkhave, pañcindriyāni. Imesaṃ kho, bhikkhave, pañcannaṃ indriyānaṃ samattā paripūrattā arahaṃ hoti, tato mudutarehi anāgāmī hoti, tato mudutarehi sakadāgāmī hoti, tato mudutarehi sotāpanno hoti, tato mudutarehi dhammānusārī hoti, tato mudutarehi saddhānusārī hoti. Iti kho, bhikkhave, indriyavemattatā phalavemattatā hoti, phalavemattatā puggalavemattatā’’ti. Tatiyaṃ.",
+      "zh": "“诸比丘，有这五根。哪五种呢？信根……（中略）……慧根。诸比丘，这就是五根。诸比丘，若这五根圆满具足，即是阿拉汉；较之略逊，即是不来者；较之更逊，即是一来者；较之再逊，即是入流者；较之更逊，即是随法行者；较之更逊，即是随信行者。诸比丘，如是，根有别故果有别，果有别故补特伽罗有别。 ”第三经。",
+      "n": "483"
+    },
+    {
+      "idx": 45,
+      "pali": "4. Tatiyasaṃkhittasuttaṃ",
+      "zh": "4. [[tatiyasaṃkhittasutta|第三略经]]"
+    },
+    {
+      "idx": 46,
+      "pali": "‘‘Pañcimāni , bhikkhave, indriyāni. Katamāni pañca? Saddhindriyaṃ…pe… paññindriyaṃ – imāni kho, bhikkhave, pañcindriyāni. Imesaṃ kho, bhikkhave, pañcannaṃ indriyānaṃ samattā paripūrattā arahaṃ hoti, tato mudutarehi anāgāmī hoti, tato mudutarehi sakadāgāmī hoti, tato mudutarehi sotāpanno hoti, tato mudutarehi dhammānusārī hoti, tato mudutarehi saddhānusārī hoti. Iti kho, bhikkhave, paripūraṃ paripūrakārī ārādheti, padesaṃ padesakārī ārādheti. ‘Avañjhāni tvevāhaṃ, bhikkhave, pañcindriyānī’ti vadāmī’’ti. Catutthaṃ.",
+      "zh": "“诸比丘，有这五根。哪五种呢？信根……（中略）……慧根。诸比丘，这就是五根。诸比丘，若这五根圆满具足，即是阿拉汉；较之略逊，即是不来者；较之更逊，即是一来者；较之再逊，即是入流者；较之更逊，即是随法行者；较之更逊，即是随信行者。诸比丘，如是，修习圆满者成就圆满，修习部分者成就部分。诸比丘，我说这五根绝非无果。 ”第四经。",
+      "n": "484"
+    },
+    {
+      "idx": 47,
+      "pali": "5. Paṭhamavitthārasuttaṃ",
+      "zh": "5. [[paṭhamavitthārasutta|第一广经]]"
+    },
+    {
+      "idx": 48,
+      "pali": "‘‘Pañcimāni, bhikkhave, indriyāni. Katamāni pañca? Saddhindriyaṃ…pe… paññindriyaṃ – imāni kho, bhikkhave, pañcindriyāni. Imesaṃ kho, bhikkhave, pañcannaṃ indriyānaṃ samattā paripūrattā arahaṃ hoti, tato mudutarehi antarāparinibbāyī hoti, tato mudutarehi upahaccaparinibbāyī hoti, tato mudutarehi asaṅkhāraparinibbāyī hoti, tato mudutarehi sasaṅkhāraparinibbāyī hoti, tato mudutarehi uddhaṃsoto hoti akaniṭṭhagāmī, tato mudutarehi sakadāgāmī hoti, tato mudutarehi sotāpanno hoti, tato mudutarehi dhammānusārī hoti, tato mudutarehi saddhānusārī hotī’’ti. Pañcamaṃ.",
+      "zh": "“诸比丘，有此五根。哪五种？信根……（中略）……慧根。诸比丘，这便是五根。诸比丘，于这五根圆满具足者，即是阿拉汉；较此稍次者，是中般涅槃者；较此更次者，是生般涅槃者；较此更次者，是无行般涅槃者；较此更次者，是有行般涅槃者；较此更次者，是上流、趣向色究竟天者；较此更次者，是一来者；较此更次者，是入流者；较此更次者，是随法行者；较此更次者，是随信行者。 ”第五经。",
+      "n": "485"
+    },
+    {
+      "idx": 49,
+      "pali": "6. Dutiyavitthārasuttaṃ",
+      "zh": "6. [[dutiyavitthārasutta|第二广经]]"
+    },
+    {
+      "idx": 50,
+      "pali": "‘‘Pañcimāni, bhikkhave, indriyāni. Katamāni pañca? Saddhindriyaṃ…pe… paññindriyaṃ – imāni kho, bhikkhave, pañcindriyāni. Imesaṃ kho, bhikkhave, pañcannaṃ indriyānaṃ samattā paripūrattā arahaṃ hoti, tato mudutarehi antarāparinibbāyī hoti, tato mudutarehi upahaccaparinibbāyī hoti, tato mudutarehi asaṅkhāraparinibbāyī hoti, tato mudutarehi sasaṅkhāraparinibbāyī hoti, tato mudutarehi uddhaṃsoto hoti akaniṭṭhagāmī, tato mudutarehi sakadāgāmī hoti , tato mudutarehi sotāpanno hoti, tato mudutarehi dhammānusārī hoti, tato mudutarehi saddhānusārī hoti. Iti kho, bhikkhave, indriyavemattatā phalavemattatā hoti, phalavemattatā puggalavemattatā hotī’’ti. Chaṭṭhaṃ.",
+      "zh": "“诸比丘，有此五根。何等为五？即信根……（中略）……慧根。诸比丘，此即五根。诸比丘，由这五根的圆满具足，则为阿拉汉；较此稍弱，则为中般涅槃者；较此稍弱，则为生般涅槃者；较此稍弱，则为无行般涅槃者；较此稍弱，则为有行般涅槃者；较此稍弱，则为上流者、往色究竟天者；较此稍弱，则为一来者；较此稍弱，则为入流者；较此稍弱，则为随法行者；较此稍弱，则为随信行者。诸比丘，如是，诸根的差别即是果的差别，果的差别即是补特伽罗的差别。”第六经。",
+      "n": "486"
+    },
+    {
+      "idx": 51,
+      "pali": "7. Tatiyavitthārasuttaṃ",
+      "zh": "7. [[tatiyavitthārasutta|第三广经]]"
+    },
+    {
+      "idx": 52,
+      "pali": "‘‘Pañcimāni , bhikkhave, indriyāni. Katamāni pañca? Saddhindriyaṃ…pe… paññindriyaṃ – imāni kho, bhikkhave, pañcindriyāni. Imesaṃ kho, bhikkhave, pañcannaṃ indriyānaṃ samattā paripūrattā arahaṃ hoti, tato mudutarehi antarāparinibbāyī hoti, tato mudutarehi upahaccaparinibbāyī hoti, tato mudutarehi asaṅkhāraparinibbāyī hoti, tato mudutarehi sasaṅkhāraparinibbāyī hoti, tato mudutarehi uddhaṃsoto hoti akaniṭṭhagāmī, tato mudutarehi sakadāgāmī hoti, tato mudutarehi sotāpanno hoti, tato mudutarehi dhammānusārī hoti, tato mudutarehi saddhānusārī hoti. Iti kho, bhikkhave, paripūraṃ paripūrakārī ārādheti, padesaṃ padesakārī ārādheti. ‘Avañjhāni tvevāhaṃ, bhikkhave, pañcindriyānī’ti vadāmī’’ti. Sattamaṃ.",
+      "zh": "“诸比丘，有此五根。何等为五？即信根……（中略）……慧根。诸比丘，此即五根。诸比丘，由这五根的平等与圆满，则为阿拉汉；较此稍弱，则为中般涅槃者；较此稍弱，则为生般涅槃者；较此稍弱，则为无行般涅槃者；较此稍弱，则为有行般涅槃者；较此稍弱，则为上流者、往色究竟天者；较此稍弱，则为一来者；较此稍弱，则为入流者；较此稍弱，则为随法行者；较此稍弱，则为随信行者。诸比丘，如是，圆满者成就圆满，一分者成就一分。诸比丘，我说：‘此五根实非无果。’”第七经。",
+      "n": "487"
+    },
+    {
+      "idx": 53,
+      "pali": "8. Paṭipannasuttaṃ",
+      "zh": "8. [[paṭipannasutta|行道经]]"
+    },
+    {
+      "idx": 54,
+      "pali": "‘‘Pañcimāni, bhikkhave, indriyāni. Katamāni pañca? Saddhindriyaṃ…pe… paññindriyaṃ – imāni kho, bhikkhave, pañcindriyāni. Imesaṃ kho, bhikkhave, pañcannaṃ indriyānaṃ samattā paripūrattā arahaṃ hoti, tato mudutarehi arahattaphalasacchikiriyāya paṭipanno hoti, tato mudutarehi anāgāmī hoti, tato mudutarehi anāgāmiphalasacchikiriyāya paṭipanno hoti, tato mudutarehi sakadāgāmī hoti, tato mudutarehi sakadāgāmiphalasacchikiriyāya paṭipanno hoti, tato mudutarehi sotāpanno hoti, tato mudutarehi sotāpattiphalasacchikiriyāya paṭipanno hoti. Yassa kho, bhikkhave, imāni pañcindriyāni sabbena sabbaṃ sabbathā sabbaṃ natthi, tamahaṃ ‘bāhiro puthujjanapakkhe ṭhito’ti vadāmī’’ti. Aṭṭhamaṃ.",
+      "zh": "“诸比丘，有此五根。哪五种？信根……慧根。诸比丘，这即是五根。于此五根，圆满具足者为阿拉汉；较此稍劣者，是为作证阿拉汉果而修行者；更稍劣者，为不来者；更稍劣者，是为作证不来果而修行者；更稍劣者，为一来者；更稍劣者，是为作证一来果而修行者；更稍劣者，为入流者；更稍劣者，是为作证入流果而修行者。诸比丘，若于这五根全然无有、一丝一毫也无，我说他为‘外道凡夫之辈’。”第八经。",
+      "n": "488"
+    },
+    {
+      "idx": 55,
+      "pali": "9. Sampannasuttaṃ",
+      "zh": "9. [[sampannasutta|具足经]]"
+    },
+    {
+      "idx": 56,
+      "pali": "Atha kho aññataro bhikkhu yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho so bhikkhu bhagavantaṃ etadavoca –",
+      "zh": "那时，有一位比丘来到世尊处，顶礼世尊后，坐于一旁。坐定之后，那位比丘对世尊这样说：",
+      "n": "489"
+    },
+    {
+      "idx": 57,
+      "pali": "‘‘‘Indriyasampanno, indriyasampanno’ti, bhante, vuccati. Kittāvatā nu kho, bhante, indriyasampanno hotī’’ti? ‘‘Idha , bhikkhu, bhikkhu saddhindriyaṃ bhāveti upasamagāmiṃ sambodhagāmiṃ, vīriyindriyaṃ bhāveti upasamagāmiṃ sambodhagāmiṃ, satindriyaṃ bhāveti upasamagāmiṃ sambodhagāmiṃ , samādhindriyaṃ bhāveti upasamagāmiṃ sambodhagāmiṃ, paññindriyaṃ bhāveti upasamagāmiṃ sambodhagāmiṃ. Ettāvatā kho, bhikkhu, bhikkhu indriyasampanno hotī’’ti. Navamaṃ.",
+      "zh": "“尊者，人们说‘具足根者，具足根者’。尊者，怎样才算是具足根者呢？”“比丘，在此，比丘修习导向寂止、导向正觉的信根，修习导向寂止、导向正觉的精进根，修习导向寂止、导向正觉的念根，修习导向寂止、导向正觉的定根，修习导向寂止、导向正觉的慧根。比丘，到了这个程度，这位比丘就是具足根者了。” 第九经。"
+    },
+    {
+      "idx": 58,
+      "pali": "10. Āsavakkhayasuttaṃ",
+      "zh": "10. [[āsavakkhayasutta|漏尽经]]"
+    },
+    {
+      "idx": 59,
+      "pali": "‘‘Pañcimāni, bhikkhave, indriyāni. Katamāni pañca? Saddhindriyaṃ…pe… paññindriyaṃ – imāni kho, bhikkhave, pañcindriyāni. Imesaṃ kho, bhikkhave, pañcannaṃ indriyānaṃ bhāvitattā bahulīkatattā bhikkhu āsavānaṃ khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharatī’’ti. Dasamaṃ.",
+      "zh": "“诸比丘，有这五根。哪五种呢？信根……（中略）……慧根。诸比丘，这便是五根。诸比丘，正是由于修习、多修这五根，比丘便能灭尽诸漏，于现法中，以证智亲自证得无漏的心解脱、慧解脱，安住其中。 ”第十经。",
+      "n": "490"
+    },
+    {
+      "idx": 60,
+      "pali": "Mudutaravaggo dutiyo.",
+      "zh": "较软品第二。"
+    },
+    {
+      "idx": 61,
+      "pali": "Tassuddānaṃ –",
+      "zh": "其摄颂："
+    },
+    {
+      "idx": 62,
+      "pali": "Paṭilābho tayo saṃkhittā, vitthārā apare tayo;",
+      "zh": "“三种是略说之获得，另外三种是广分别。”",
+      "type": "verse"
+    },
+    {
+      "idx": 63,
+      "pali": "Paṭipanno ca sampanno , dasamaṃ āsavakkhayanti.",
+      "zh": "行道者与具足者，第十是诸漏灭尽。",
+      "type": "verse"
+    },
+    {
+      "idx": 64,
+      "pali": "3. Chaḷindriyavaggo",
+      "zh": "3. 六根品"
+    },
+    {
+      "idx": 65,
+      "pali": "1. Punabbhavasuttaṃ",
+      "zh": "1. [[punabbhavasutta|后有经]]"
+    },
+    {
+      "idx": 66,
+      "pali": "‘‘Pañcimāni , bhikkhave, indriyāni. Katamāni pañca? Saddhindriyaṃ…pe… paññindriyaṃ. Yāvakīvañcāhaṃ, bhikkhave, imesaṃ pañcannaṃ indriyānaṃ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṃ nābbhaññāsiṃ, neva tāvāhaṃ, bhikkhave, sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya ‘anuttaraṃ sammāsambodhiṃ abhisambuddho’ti paccaññāsiṃ . Yato ca khvāhaṃ, bhikkhave, imesaṃ pañcannaṃ indriyānaṃ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṃ abbhaññāsiṃ, athāhaṃ, bhikkhave, sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya ‘anuttaraṃ sammāsambodhiṃ abhisambuddho’ti paccaññāsiṃ. Ñāṇañca pana me dassanaṃ udapādi – ‘akuppā me vimutti , ayamantimā jāti, natthidāni punabbhavo’’’ti. Paṭhamaṃ.",
+      "zh": "“诸比丘，有这五根。哪五种？信根……（中略）……慧根。诸比丘，只要我尚未如实通达这五根的集、灭、味、患、离，我便不在包含天、魔、梵的世间，不在沙门、婆罗门、天、人众中，宣称‘已现证无上正等正觉’。诸比丘，而当我对这五根的集、灭、味、患、离如实通达时，我便在包含天、魔、梵的世间，在沙门、婆罗门、天、人众中，宣称‘已现证无上正等正觉’。且我的智与见生起：‘我的解脱不可动摇，这是最后生，不再有后有。’” 第一经。",
+      "n": "491"
+    },
+    {
+      "idx": 67,
+      "pali": "2. Jīvitindriyasuttaṃ",
+      "zh": "2. [[jīvitindriyasutta|命根经]]"
+    },
+    {
+      "idx": 68,
+      "pali": "‘‘Tīṇimāni , bhikkhave, indriyāni. Katamāni tīṇi? Itthindriyaṃ, purisindriyaṃ, jīvitindriyaṃ – imāni kho, bhikkhave, tīṇi indriyānī’’ti. Dutiyaṃ.",
+      "zh": "“诸比丘，有这三种根。哪三种？女根、男根、命根。诸比丘，这就是三根。” 第二经。",
+      "n": "492"
+    },
+    {
+      "idx": 69,
+      "pali": "3. Aññindriyasuttaṃ",
+      "zh": "3. [[aññindriyasutta|已知根经]]"
+    },
+    {
+      "idx": 70,
+      "pali": "‘‘Tīṇimāni, bhikkhave, indriyāni. Katamāni tīṇi? Anaññātaññassāmītindriyaṃ , aññindriyaṃ, aññātāvindriyaṃ – imāni kho, bhikkhave, tīṇi indriyānī’’ti. Tatiyaṃ.",
+      "zh": "“诸比丘，有这三根。哪三种？‘我将知未知’根、已知根、具已知根。诸比丘，此即是三根。” 第三经。",
+      "n": "493"
+    },
+    {
+      "idx": 71,
+      "pali": "4. Ekabījīsuttaṃ",
+      "zh": "4. [[ekabījīsutta|一种子经]]"
+    },
+    {
+      "idx": 72,
+      "pali": "‘‘Pañcimāni, bhikkhave, indriyāni. Katamāni pañca? Saddhindriyaṃ…pe… paññindriyaṃ – imāni kho, bhikkhave, pañcindriyāni. Imesaṃ kho, bhikkhave, pañcannaṃ indriyānaṃ samattā paripūrattā arahaṃ hoti, tato mudutarehi antarāparinibbāyī hoti, tato mudutarehi upahaccaparinibbāyī hoti, tato mudutarehi asaṅkhāraparinibbāyī hoti, tato mudutarehi sasaṅkhāraparinibbāyī hoti, tato mudutarehi uddhaṃsoto hoti akaniṭṭhagāmī, tato mudutarehi sakadāgāmī hoti, tato mudutarehi ekabījī hoti, tato mudutarehi kolaṃkolo hoti, tato mudutarehi sattakkhattuparamo hoti, tato mudutarehi dhammānusārī hoti, tato mudutarehi saddhānusārī hotī’’ti. Catutthaṃ.",
+      "zh": "“诸比丘，有这五根。哪五种？信根……（中略）……慧根。诸比丘，这就是五根。诸比丘，由于这五根修习圆满、达到均衡，便成为阿拉汉；比之稍逊者，成为中般涅槃者；比之稍逊者，成为生般涅槃者；比之稍逊者，成为无行般涅槃者；比之稍逊者，成为有行般涅槃者；比之稍逊者，成为上流者，趋向色究竟天；比之稍逊者，成为一来者；比之稍逊者，成为一种子者；比之稍逊者，成为家家者；比之稍逊者，成为七有者；比之稍逊者，成为随法行者；比之稍逊者，成为随信行者。”第四经",
+      "n": "494"
+    },
+    {
+      "idx": 73,
+      "pali": "5. Suddhakasuttaṃ",
+      "zh": "5. [[suddhakasutta|清净经]]"
+    },
+    {
+      "idx": 74,
+      "pali": "‘‘Chayimāni, bhikkhave, indriyāni. Katamāni cha? Cakkhundriyaṃ, sotindriyaṃ, ghānindriyaṃ , jivhindriyaṃ, kāyindriyaṃ, manindriyaṃ – imāni kho, bhikkhave, cha indriyānī’’ti. Pañcamaṃ.",
+      "zh": "“诸比丘，有这六根。哪六根？眼根、耳根、鼻根、舌根、身根、意根。诸比丘，这就是六根。”第五经",
+      "n": "495"
+    },
+    {
+      "idx": 75,
+      "pali": "6. Sotāpannasuttaṃ",
+      "zh": "6. [[sotāpannasutta|入流者经]]"
+    },
+    {
+      "idx": 76,
+      "pali": "‘‘Chayimāni, bhikkhave, indriyāni. Katamāni cha? Cakkhundriyaṃ…pe… manindriyaṃ. Yato kho, bhikkhave, ariyasāvako imesaṃ channaṃ indriyānaṃ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṃ pajānāti – ayaṃ vuccati, bhikkhave, ariyasāvako sotāpanno avinipātadhammo niyato sambodhiparāyaṇo’’ti. Chaṭṭhaṃ.",
+      "zh": "“诸比丘，有六根。哪六根？眼根……（中略）……意根。诸比丘，当圣弟子如实了知此六根的集、灭、味、患、离时——他便被称为入流的圣弟子，不退堕、决定、以正觉为彼岸。 ”第六经",
+      "n": "496"
+    },
+    {
+      "idx": 77,
+      "pali": "7. Arahantasuttaṃ",
+      "zh": "7. [[arahantasutta|阿拉汉经]]"
+    },
+    {
+      "idx": 78,
+      "pali": "‘‘Chayimāni , bhikkhave, indriyāni. Katamāni cha? Cakkhundriyaṃ, sotindriyaṃ, ghānindriyaṃ, jivhindriyaṃ, kāyindriyaṃ, manindriyaṃ. Yato kho, bhikkhave, bhikkhu imesaṃ channaṃ indriyānaṃ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṃ viditvā anupādāvimutto hoti – ayaṃ vuccati, bhikkhave, ‘bhikkhu arahaṃ khīṇāsavo vusitavā katakaraṇīyo ohitabhāro anuppattasadattho parikkhīṇabhavasaṃyojano sammadaññā vimutto’’’ti. Sattamaṃ.",
+      "zh": "“诸比丘，有这六根。哪六根？眼根、耳根、鼻根、舌根、身根、意根。诸比丘，当比丘如实了知这六根的集、灭、味、患、离，以无取而解脱时，诸比丘，这样的比丘便称为阿拉汉、漏尽者、已修习者、应作已作、已放下重担、已达自利、已尽有结、以正智而解脱者。”第七经",
+      "n": "497"
+    },
+    {
+      "idx": 79,
+      "pali": "8. Sambuddhasuttaṃ",
+      "zh": "8. [[sambuddhasutta|正自觉者经]]"
+    },
+    {
+      "idx": 80,
+      "pali": "‘‘Chayimāni, bhikkhave, indriyāni. Katamāni cha? Cakkhundriyaṃ, sotindriyaṃ, ghānindriyaṃ, jivhindriyaṃ, kāyindriyaṃ, manindriyaṃ. Yāvakīvañcāhaṃ , bhikkhave, imesaṃ channaṃ indriyānaṃ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṃ nābbhaññāsiṃ, neva tāvāhaṃ, bhikkhave, sadevake loke samārake sabrahmake sassa maṇabrāhmaṇiyā pajāya sadevamanussāya ‘anuttaraṃ sammāsambodhiṃ abhisambuddho’ti paccaññāsiṃ. Yato ca khvāhaṃ, bhikkhave, imesaṃ channaṃ indriyānaṃ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṃ abbhaññāsiṃ, athāhaṃ, bhikkhave, sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya ‘anuttaraṃ sammāsambodhiṃ abhisambuddho’ti paccaññāsiṃ. Ñāṇañca pana me dassanaṃ udapādi – ‘akuppā me vimutti, ayamantimā jāti, natthidāni punabbhavo’’’ti. Aṭṭhamaṃ.",
+      "zh": "“诸比丘，有这六根。哪六根？眼根、耳根、鼻根、舌根、身根、意根。诸比丘，只要我尚未如实了知这六根的集、灭、味、患、离，我便不向有诸天神、魔、梵的世间，向有沙门、婆罗门、天人、人的世代宣称‘已证得无上正自觉’。诸比丘，当我如实了知这六根的集、灭、味、患、离之后，我才向有诸天神、魔、梵的世间，向有沙门、婆罗门、天人、人的世代宣称‘已证得无上正自觉’。我生起智与见：‘我的解脱不动摇，此是最后生，今不再有后有。’”第八经",
+      "n": "498"
+    },
+    {
+      "idx": 81,
+      "pali": "9. Paṭhamasamaṇabrāhmaṇasuttaṃ",
+      "zh": "9. [[paṭhamasamaṇabrāhmaṇasutta|第一沙门婆罗门经]]"
+    },
+    {
+      "idx": 82,
+      "pali": "‘‘Chayimāni, bhikkhave, indriyāni. Katamāni cha? Cakkhundriyaṃ, sotindriyaṃ, ghānindriyaṃ, jivhindriyaṃ, kāyindriyaṃ, manindriyaṃ. Ye hi keci, bhikkhave, samaṇā vā brāhmaṇā vā imesaṃ channaṃ indriyānaṃ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṃ nappajānanti, na me te, bhikkhave, samaṇā vā brāhmaṇā vā samaṇesu vā samaṇasammatā brāhmaṇesu vā brāhmaṇasammatā, na ca panete āyasmanto sāmaññatthaṃ vā brahmaññatthaṃ vā diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharanti’’. ‘‘Ye ca kho keci, bhikkhave, samaṇā vā brāhmaṇā vā imesaṃ channaṃ indriyānaṃ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṃ pajānanti, te kho me, bhikkhave, samaṇā vā brāhmaṇā vā samaṇesu ceva samaṇasammatā brāhmaṇesu ca brāhmaṇasammatā, te ca panāyasmanto sāmaññatthañca brahmaññatthañca diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharantī’’ti. Navamaṃ.",
+      "zh": "“诸比丘，有此六根。哪六根？眼根、耳根、鼻根、舌根、身根、意根。诸比丘，凡任何沙门或婆罗门，对这六根的集、灭、味、患、离未能如实了知者，诸比丘，我不认为他们是沙门中的真沙门，或是婆罗门中的真婆罗门，彼诸具寿也无法于现法中以自己的证智证得、具足而住于沙门之义或婆罗门之义。” “诸比丘，然凡任何沙门或婆罗门，对这六根的集、灭、味、患、离能如实了知者，诸比丘，我认为他们是沙门中的真沙门，也是婆罗门中的真婆罗门，彼诸具寿即于现法中以自己的证智证得、具足而住于沙门之义与婆罗门之义。”第九经",
+      "n": "499"
+    },
+    {
+      "idx": 83,
+      "pali": "10. Dutiyasamaṇabrāhmaṇasuttaṃ",
+      "zh": "10. [[dutiyasamaṇabrāhmaṇasutta|第二沙门婆罗门经]]"
+    },
+    {
+      "idx": 84,
+      "pali": "‘‘Ye hi keci, bhikkhave, samaṇā vā brāhmaṇā vā cakkhundriyaṃ nappajānanti, cakkhundriyasamudayaṃ nappajānanti, cakkhundriyanirodhaṃ nappajānanti, cakkhundriyanirodhagāminiṃ paṭipadaṃ nappajānanti; sotindriyaṃ…pe… ghānindriyaṃ…pe… jivhindriyaṃ…pe… kāyindriyaṃ…pe… manindriyaṃ nappajānanti, manindriyasamudayaṃ nappajānanti , manindriyanirodhaṃ nappajānanti, manindriyanirodhagāminiṃ paṭipadaṃ nappajānanti. Na me te, bhikkhave…pe… sayaṃ abhiññā sacchikatvā upasampajja viharanti.",
+      "zh": "“诸比丘，凡有沙门或婆罗门，不了知眼根、眼根之集、眼根之灭，以及导向眼根灭之道；不了知耳根……鼻根……舌根……身根……意根，不了知意根之集、意根之灭，以及导向意根灭之道。诸比丘，我不认为这些沙门或婆罗门……（中略）……这些具寿能在这一生中亲自以证智证悟沙门的真义与婆罗门的真义，证悟之后圆满地安住其中。",
+      "n": "500"
+    },
+    {
+      "idx": 85,
+      "pali": "‘‘Ye ca kho keci, bhikkhave, samaṇā vā brāhmaṇā vā cakkhundriyaṃ pajānanti, cakkhundriyasamudayaṃ pajānanti, cakkhundriyanirodhaṃ pajānanti, cakkhundriyanirodhagāminiṃ paṭipadaṃ pajānanti, sotindriyaṃ…pe… ghānindriyaṃ…pe… jivhindriyaṃ…pe… kāyindriyaṃ…pe… manindriyaṃ pajānanti, manindriyasamudayaṃ pajānanti, manindriyanirodhaṃ pajānanti, manindriyanirodhagāminiṃ paṭipadaṃ pajānanti, te kho me, bhikkhave, samaṇā vā brāhmaṇā vā samaṇesu ceva samaṇasammatā brāhmaṇesu ca brāhmaṇasammatā, te ca panāyasmanto sāmaññatthañca brahmaññatthañca diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharantī’’ti. Dasamaṃ.",
+      "zh": "“诸比丘，任何沙门或婆罗门，他们了知眼根，了知眼根的集起，了知眼根的息灭，了知导向眼根息灭的修行道路；了知耳根……鼻根……舌根……身根……意根，了知意根的集起，了知意根的息灭，了知导向意根息灭的修行道路——诸比丘，我认为这些沙门或婆罗门，才是在沙门中真正被尊为沙门、在婆罗门中真正被尊为婆罗门者。而且这些尊者就在这一生中，亲自以证智证悟了沙门的真义与婆罗门的真义，证悟之后，圆满地安住其中。”第十经。"
+    },
+    {
+      "idx": 86,
+      "pali": "Chaḷindriyavaggo tatiyo.",
+      "zh": "六根品第三"
+    },
+    {
+      "idx": 87,
+      "pali": "Tassuddānaṃ –",
+      "zh": "其摄颂："
+    },
+    {
+      "idx": 88,
+      "pali": "Punabbhavo jīvitaññāya, ekabījī ca suddhakaṃ;",
+      "zh": "再生者、知命者、一种子者及清净者；",
+      "type": "verse"
+    },
+    {
+      "idx": 89,
+      "pali": "Soto arahasambuddho, dve ca samaṇabrāhmaṇāti.",
+      "zh": "入流者、阿拉汉、正自觉者，及二种沙门与婆罗门。",
+      "type": "verse"
+    },
+    {
+      "idx": 90,
+      "pali": "4. Sukhindriyavaggo",
+      "zh": "4. 乐根品"
+    },
+    {
+      "idx": 91,
+      "pali": "1. Suddhikasuttaṃ",
+      "zh": "1. [[suddhikasutta|纯净经]]"
+    },
+    {
+      "idx": 92,
+      "pali": "‘‘Pañcimāni , bhikkhave, indriyāni. Katamāni pañca? Sukhindriyaṃ, dukkhindriyaṃ, somanassindriyaṃ, domanassindriyaṃ, upekkhindriyaṃ – imāni kho, bhikkhave, pañcindriyānī’’ti. Paṭhamaṃ.",
+      "zh": "“诸比丘，有此五根。何等为五？乐根、苦根、喜根、忧根、舍根——诸比丘，此即是五根。”第一经。",
+      "n": "501"
+    },
+    {
+      "idx": 93,
+      "pali": "2. Sotāpannasuttaṃ",
+      "zh": "2. [[sotāpannasutta|入流者经]]"
+    },
+    {
+      "idx": 94,
+      "pali": "‘‘Pañcimāni , bhikkhave, indriyāni. Katamāni pañca? Sukhindriyaṃ, dukkhindriyaṃ, somanassindriyaṃ, domanassindriyaṃ, upekkhindriyaṃ. Yato kho, bhikkhave, ariyasāvako imesaṃ pañcannaṃ indriyānaṃ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṃ pajānāti – ayaṃ vuccati, bhikkhave, ariyasāvako sotāpanno avinipātadhammo niyato sambodhiparāyaṇo’’ti. Dutiyaṃ.",
+      "zh": "“诸比丘，有此五根。哪五种？乐根、苦根、喜根、忧根、舍根。诸比丘，当圣弟子如实了知此五根的集、灭、味、患、离时，他便称为入流圣弟子，不堕恶趣之法，决定以正觉为归宿。”第二经。",
+      "n": "502"
+    },
+    {
+      "idx": 95,
+      "pali": "3. Arahantasuttaṃ",
+      "zh": "3. [[arahantasutta|阿拉汉经]]"
+    },
+    {
+      "idx": 96,
+      "pali": "‘‘Pañcimāni , bhikkhave, indriyāni. Katamāni pañca? Sukhindriyaṃ, dukkhindriyaṃ, somanassindriyaṃ, domanassindriyaṃ, upekkhindriyaṃ. Yato kho, bhikkhave, bhikkhu imesaṃ pañcannaṃ indriyānaṃ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṃ viditvā anupādāvimutto hoti – ayaṃ vuccati, bhikkhave, bhikkhu arahaṃ khīṇāsavo vusitavā katakaraṇīyo ohitabhāro anuppattasadattho parikkhīṇabhavasaṃyojano sammadaññā vimutto’’ti. Tatiyaṃ.",
+      "zh": "“诸比丘，有此五根。哪五种？乐根、苦根、喜根、忧根、舍根。诸比丘，当比丘如实了知此五根的集、灭、味、患、离，以不执取而心解脱时，他便称为阿拉汉比丘，漏尽者，已修习者，应作已作者，已放下重担者，已达己利者，已尽有结者，正智解脱者。”第三经。",
+      "n": "503"
+    },
+    {
+      "idx": 97,
+      "pali": "4. Paṭhamasamaṇabrāhmaṇasuttaṃ",
+      "zh": "4. [[paṭhamasamaṇabrāhmaṇasutta|第一沙门婆罗门经]]"
+    },
+    {
+      "idx": 98,
+      "pali": "‘‘Pañcimāni, bhikkhave, indriyāni. Katamāni pañca? Sukhindriyaṃ, dukkhindriyaṃ, somanassindriyaṃ, domanassindriyaṃ, upekkhindriyaṃ. Ye hi keci, bhikkhave, samaṇā vā brāhmaṇā vā imesaṃ pañcannaṃ indriyānaṃ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṃ nappajānanti, na me te, bhikkhave, samaṇā vā brāhmaṇā vā samaṇesu vā samaṇasammatā brāhmaṇesu vā brāhmaṇasammatā, na ca panete āyasmanto sāmaññatthaṃ vā brahmaññatthaṃ vā diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharanti.",
+      "zh": "“诸比丘，有这五根。哪五种？乐根、苦根、喜根、忧根、舍根。诸比丘，凡有任何沙门或婆罗门，不如实了知这五根的集起、灭尽、乐味、过患与出离，诸比丘，我不认为他们是沙门中的沙门，或是婆罗门中的婆罗门。而且，那些具寿于现法中，不能以证智自证、具足而安住于沙门义或婆罗门义。",
+      "n": "504"
+    },
+    {
+      "idx": 99,
+      "pali": "‘‘Ye ca kho keci, bhikkhave, samaṇā vā brāhmaṇā vā imesaṃ pañcannaṃ indriyānaṃ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṃ pajānanti, te kho me , bhikkhave, samaṇā vā brāhmaṇā vā samaṇesu ceva samaṇasammatā brāhmaṇesu ca brāhmaṇasammatā, te ca panāyasmanto sāmaññatthañca brahmaññatthañca diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharantī’’ti. Catutthaṃ.",
+      "zh": "“然而，诸比丘，若有沙门或婆罗门，如实了知这五根的集起、灭尽、乐味、过患与出离，诸比丘，我认为他们是沙门中的沙门，是婆罗门中的婆罗门。并且，这些具寿于现法中，以证智自证、具足而安住于沙门义与婆罗门义。第四篇。”"
+    },
+    {
+      "idx": 100,
+      "pali": "5. Dutiyasamaṇabrāhmaṇasuttaṃ",
+      "zh": "5. [[dutiyasamaṇabrāhmaṇasutta|第二沙门婆罗门经]]"
+    },
+    {
+      "idx": 101,
+      "pali": "‘‘Pañcimāni, bhikkhave, indriyāni. Katamāni pañca? Sukhindriyaṃ, dukkhindriyaṃ, somanassindriyaṃ, domanassindriyaṃ, upekkhindriyaṃ. Ye hi keci, bhikkhave, samaṇā vā brāhmaṇā vā sukhindriyaṃ nappajānanti, sukhindriyasamudayaṃ nappajānanti, sukhindriyanirodhaṃ nappajānanti, sukhindriyanirodhagāminiṃ paṭipadaṃ nappajānanti; dukkhindriyaṃ nappajānanti…pe… somanassindriyaṃ nappajānanti…pe… domanassindriyaṃ nappajānanti …pe… upekkhindriyaṃ nappajānanti, upekkhindriyasamudayaṃ nappajānanti, upekkhindriyanirodhaṃ nappajānanti, upekkhindriyanirodhagāminiṃ paṭipadaṃ nappajānanti; na me te, bhikkhave, samaṇā vā brāhmaṇā vā samaṇesu vā samaṇasammatā brāhmaṇesu vā brāhmaṇasammatā, na ca panete āyasmanto sāmaññatthaṃ vā brahmaññatthaṃ vā diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharanti.",
+      "zh": "“诸比丘，有此五根。何等为五？乐根、苦根、喜根、忧根、舍根。诸比丘，凡有沙门或婆罗门，于乐根不能了知，于乐根之集不能了知，于乐根之灭不能了知，于导向乐根灭之道不能了知；于苦根不能了知……于喜根不能了知……于忧根不能了知……于舍根不能了知，于舍根之集不能了知，于舍根之灭不能了知，于导向舍根灭之道不能了知——诸比丘，如此沙门、婆罗门，我不视为沙门中之沙门，亦不视为婆罗门中之婆罗门；且彼诸具寿，于现法中，不能以证智自作证、具足而住于沙门义或婆罗门义。”",
+      "n": "505"
+    },
+    {
+      "idx": 102,
+      "pali": "‘‘Ye ca kho keci, bhikkhave, samaṇā vā brāhmaṇā vā sukhindriyaṃ pajānanti, sukhindriyasamudayaṃ pajānanti, sukhindriyanirodhaṃ pajānanti, sukhindriyanirodhagāminiṃ paṭipadaṃ pajānanti; dukkhindriyaṃ pajānanti…pe… somanassindriyaṃ pajānanti… domanassindriyaṃ pajānanti… upekkhindriyaṃ pajānanti, upekkhindriyasamudayaṃ pajānanti, upekkhindriyanirodhaṃ pajānanti, upekkhindriyanirodhagāminiṃ paṭipadaṃ pajānanti, te ca kho me, bhikkhave, samaṇā vā brāhmaṇā vā samaṇesu ceva samaṇasammatā brāhmaṇesu ca brāhmaṇasammatā, te ca panāyasmanto sāmaññatthañca brahmaññatthañca diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharantī’’ti. Pañcamaṃ.",
+      "zh": "“诸比丘，凡有沙门或婆罗门，能了知乐根，能了知乐根之集，能了知乐根之灭，能了知导向乐根灭之道；能了知苦根……能了知喜根……能了知忧根……能了知舍根，能了知舍根之集，能了知舍根之灭，能了知导向舍根灭之道——诸比丘，如此沙门、婆罗门，我视为沙门中之沙门，亦视为婆罗门中之婆罗门；且彼诸具寿，于现法中，能以证智自作证、具足而住于沙门义或婆罗门义。 ”第五经。"
+    },
+    {
+      "idx": 103,
+      "pali": "6. Paṭhamavibhaṅgasuttaṃ",
+      "zh": "6. [[paṭhamavibhaṅgasutta|第一分别经]]"
+    },
+    {
+      "idx": 104,
+      "pali": "‘‘Pañcimāni , bhikkhave, indriyāni. Katamāni pañca? Sukhindriyaṃ, dukkhindriyaṃ, somanassindriyaṃ, domanassindriyaṃ, upekkhindriyaṃ.",
+      "zh": "“诸比丘，有这五根。哪五种？乐根、苦根、喜根、忧根、舍根。",
+      "n": "506"
+    },
+    {
+      "idx": 105,
+      "pali": "‘‘Katamañca , bhikkhave, sukhindriyaṃ? Yaṃ kho, bhikkhave, kāyikaṃ sukhaṃ , kāyikaṃ sātaṃ, kāyasamphassajaṃ sukhaṃ sātaṃ vedayitaṃ – idaṃ vuccati, bhikkhave, sukhindriyaṃ.",
+      "zh": "“诸比丘，什么是乐根？诸比丘，凡是身体的乐、身体的适悦，由身触所生的乐、适悦的感受——诸比丘，这称为乐根。"
+    },
+    {
+      "idx": 106,
+      "pali": "‘‘Katamañca, bhikkhave, dukkhindriyaṃ? Yaṃ kho, bhikkhave, kāyikaṃ dukkhaṃ, kāyikaṃ asātaṃ, kāyasamphassajaṃ dukkhaṃ asātaṃ vedayitaṃ – idaṃ vuccati, bhikkhave, dukkhindriyaṃ.",
+      "zh": "“诸比丘，什么是苦根？诸比丘，凡是身体的苦、身体的不适悦，由身触所生的苦、不适悦的感受——诸比丘，这称为苦根。"
+    },
+    {
+      "idx": 107,
+      "pali": "‘‘Katamañca, bhikkhave, somanassindriyaṃ? Yaṃ kho, bhikkhave, cetasikaṃ sukhaṃ, cetasikaṃ sātaṃ, manosamphassajaṃ sukhaṃ sātaṃ vedayitaṃ – idaṃ vuccati, bhikkhave, somanassindriyaṃ.",
+      "zh": "“诸比丘，什么是喜根？诸比丘，凡是心的乐、心的适悦，由意触所生的乐、适悦的感受——诸比丘，这称为喜根。"
+    },
+    {
+      "idx": 108,
+      "pali": "‘‘Katamañca, bhikkhave, domanassindriyaṃ? Yaṃ kho, bhikkhave, cetasikaṃ dukkhaṃ, cetasikaṃ asātaṃ, manosamphassajaṃ dukkhaṃ asātaṃ vedayitaṃ – idaṃ vuccati, bhikkhave, domanassindriyaṃ.",
+      "zh": "“诸比丘，什么是忧根？诸比丘，内心的苦、内心的不适，即由意触所生的苦、不适意的感受——这便称为忧根。"
+    },
+    {
+      "idx": 109,
+      "pali": "‘‘Katamañca, bhikkhave, upekkhindriyaṃ? Yaṃ kho, bhikkhave, kāyikaṃ vā cetasikaṃ vā nevasātaṃ nāsātaṃ vedayitaṃ – idaṃ vuccati, bhikkhave, upekkhindriyaṃ. Imāni kho, bhikkhave, pañcindriyānī’’ti. Chaṭṭhaṃ.",
+      "zh": "“诸比丘，何为舍根？诸比丘，凡是身体上或心理上既不感到舒适也不感到不舒适的感受——这便名为舍根。诸比丘，这些即是五根。”第六经。"
+    },
+    {
+      "idx": 110,
+      "pali": "7. Dutiyavibhaṅgasuttaṃ",
+      "zh": "7. [[dutiyavibhaṅgasutta|第二分别经]]"
+    },
+    {
+      "idx": 111,
+      "pali": "‘‘Pañcimāni, bhikkhave, indriyāni. Katamāni pañca? Sukhindriyaṃ, dukkhindriyaṃ, somanassindriyaṃ, domanassindriyaṃ, upekkhindriyaṃ.",
+      "zh": "“诸比丘，有这五根。哪五种？乐根、苦根、喜根、忧根、舍根。",
+      "n": "507"
+    },
+    {
+      "idx": 112,
+      "pali": "‘‘Katamañca , bhikkhave, sukhindriyaṃ? Yaṃ kho, bhikkhave, kāyikaṃ sukhaṃ, kāyikaṃ sātaṃ, kāyasamphassajaṃ sukhaṃ sātaṃ vedayitaṃ – idaṃ vuccati, bhikkhave, sukhindriyaṃ.",
+      "zh": "“诸比丘，什么是乐根？诸比丘，凡是身体的乐、身体的适悦，由身触所生的乐、适悦的感受——诸比丘，这称为乐根。"
+    },
+    {
+      "idx": 113,
+      "pali": "‘‘Katamañca, bhikkhave, dukkhindriyaṃ? Yaṃ kho, bhikkhave, kāyikaṃ dukkhaṃ , kāyikaṃ asātaṃ, kāyasamphassajaṃ dukkhaṃ asātaṃ vedayitaṃ – idaṃ vuccati, bhikkhave, dukkhindriyaṃ.",
+      "zh": "“诸比丘，什么是苦根？诸比丘，凡是身体的苦、身体的不适悦，由身触所生的苦、不适悦的感受——诸比丘，这称为苦根。"
+    },
+    {
+      "idx": 114,
+      "pali": "‘‘Katamañca, bhikkhave, somanassindriyaṃ? Yaṃ kho, bhikkhave, cetasikaṃ sukhaṃ, cetasikaṃ sātaṃ, manosamphassajaṃ sukhaṃ sātaṃ vedayitaṃ – idaṃ vuccati, bhikkhave, somanassindriyaṃ.",
+      "zh": "“诸比丘，什么是喜根？诸比丘，凡是心的乐、心的适悦，由意触所生的乐、适悦的感受——诸比丘，这称为喜根。"
+    },
+    {
+      "idx": 115,
+      "pali": "‘‘Katamañca , bhikkhave, domanassindriyaṃ? Yaṃ kho, bhikkhave, cetasikaṃ dukkhaṃ, cetasikaṃ asātaṃ, manosamphassajaṃ dukkhaṃ asātaṃ vedayitaṃ – idaṃ vuccati, bhikkhave, domanassindriyaṃ.",
+      "zh": "“诸比丘，什么是忧根？诸比丘，内心的苦、内心的不适，即由意触所生的苦、不适意的感受——这便称为忧根。"
+    },
+    {
+      "idx": 116,
+      "pali": "‘‘Katamañca, bhikkhave, upekkhindriyaṃ? Yaṃ kho, bhikkhave, kāyikaṃ vā cetasikaṃ vā nevasātaṃ nāsātaṃ vedayitaṃ – idaṃ vuccati, bhikkhave, upekkhindriyaṃ.",
+      "zh": "“诸比丘，什么是舍根？诸比丘，凡是身体的或心理的，既非舒适也非不舒适的感受——诸比丘，这就称为舍根。"
+    },
+    {
+      "idx": 117,
+      "pali": "‘‘Tatra, bhikkhave, yañca sukhindriyaṃ yañca somanassindriyaṃ, sukhā sā vedanā daṭṭhabbā. Tatra, bhikkhave, yañca dukkhindriyaṃ yañca domanassindriyaṃ, dukkhā sā vedanā daṭṭhabbā. Tatra, bhikkhave, yadidaṃ upekkhindriyaṃ, adukkhamasukhā sā vedanā daṭṭhabbā. Imāni kho, bhikkhave, pañcindriyānī’’ti. Sattamaṃ.",
+      "zh": "“诸比丘，其中，乐根与喜根，当视为乐受。诸比丘，其中，苦根与忧根，当视为苦受。诸比丘，其中，此舍根，当视为不苦不乐受。诸比丘，这些就是五根。 ”第七经。"
+    },
+    {
+      "idx": 118,
+      "pali": "8. Tatiyavibhaṅgasuttaṃ",
+      "zh": "8. [[tatiyavibhaṅgasutta|第三分别经]]"
+    },
+    {
+      "idx": 119,
+      "pali": "‘‘Pañcimāni, bhikkhave, indriyāni. Katamāni pañca? Sukhindriyaṃ, dukkhindriyaṃ, somanassindriyaṃ, domanassindriyaṃ, upekkhindriyaṃ.",
+      "zh": "“诸比丘，有这五根。哪五种？乐根、苦根、喜根、忧根、舍根。",
+      "n": "508"
+    },
+    {
+      "idx": 120,
+      "pali": "‘‘Katamañca , bhikkhave, sukhindriyaṃ? Yaṃ kho, bhikkhave, kāyikaṃ sukhaṃ , kāyikaṃ sātaṃ, kāyasamphassajaṃ sukhaṃ sātaṃ vedayitaṃ – idaṃ vuccati, bhikkhave, sukhindriyaṃ.",
+      "zh": "“诸比丘，什么是乐根？诸比丘，凡是身体的乐、身体的适悦，由身触所生的乐、适悦的感受——诸比丘，这称为乐根。"
+    },
+    {
+      "idx": 121,
+      "pali": "‘‘Katamañca, bhikkhave, dukkhindriyaṃ? Yaṃ kho, bhikkhave, kāyikaṃ dukkhaṃ, kāyikaṃ asātaṃ, kāyasamphassajaṃ dukkhaṃ asātaṃ vedayitaṃ – idaṃ vuccati, bhikkhave, dukkhindriyaṃ.",
+      "zh": "“诸比丘，什么是苦根？诸比丘，凡是身体的苦、身体的不适悦，由身触所生的苦、不适悦的感受——诸比丘，这称为苦根。"
+    },
+    {
+      "idx": 122,
+      "pali": "‘‘Katamañca, bhikkhave, somanassindriyaṃ? Yaṃ kho, bhikkhave, cetasikaṃ sukhaṃ, cetasikaṃ sātaṃ, manosamphassajaṃ sukhaṃ sātaṃ vedayitaṃ – idaṃ vuccati, bhikkhave, somanassindriyaṃ.",
+      "zh": "“诸比丘，什么是喜根？诸比丘，凡是心的乐、心的适悦，由意触所生的乐、适悦的感受——诸比丘，这称为喜根。"
+    },
+    {
+      "idx": 123,
+      "pali": "‘‘Katamañca , bhikkhave, domanassindriyaṃ? Yaṃ kho, bhikkhave, cetasikaṃ dukkhaṃ, cetasikaṃ asātaṃ, manosamphassajaṃ dukkhaṃ asātaṃ vedayitaṃ – idaṃ vuccati, bhikkhave, domanassindriyaṃ.",
+      "zh": "“诸比丘，什么是忧根？诸比丘，内心的苦、内心的不适，即由意触所生的苦、不适意的感受——这便称为忧根。"
+    },
+    {
+      "idx": 124,
+      "pali": "‘‘Katamañca, bhikkhave, upekkhindriyaṃ? Yaṃ kho, bhikkhave, kāyikaṃ vā cetasikaṃ vā neva sātaṃ nāsātaṃ vedayitaṃ – idaṃ vuccati, bhikkhave, upekkhindriyaṃ.",
+      "zh": "“诸比丘，什么是舍根？诸比丘，身体或内心的既非适意、也非不适意的感受——这便称为舍根。"
+    },
+    {
+      "idx": 125,
+      "pali": "‘‘Tatra, bhikkhave, yañca sukhindriyaṃ yañca somanassindriyaṃ, sukhā sā vedanā daṭṭhabbā. Tatra, bhikkhave, yañca dukkhindriyaṃ yañca domanassindriyaṃ, dukkhā sā vedanā daṭṭhabbā. Tatra, bhikkhave, yadidaṃ upekkhindriyaṃ, adukkhamasukhā sā vedanā daṭṭhabbā . Iti kho, bhikkhave, imāni pañcindriyāni pañca hutvā tīṇi honti, tīṇi hutvā pañca honti pariyāyenā’’ti. Aṭṭhamaṃ.",
+      "zh": "“诸比丘，其中，乐根与喜根应视为乐受。诸比丘，其中，苦根与忧根应视为苦受。诸比丘，其中，此舍根应视为不苦不乐受。诸比丘，如此，这五根依其方式，由五成三，由三成五。”第八经。"
+    },
+    {
+      "idx": 126,
+      "pali": "9. Kaṭṭhopamasuttaṃ",
+      "zh": "9. [[kaṭṭhopamasutta|木柴譬喻经]]"
+    },
+    {
+      "idx": 127,
+      "pali": "‘‘Pañcimāni, bhikkhave, indriyāni. Katamāni pañca? Sukhindriyaṃ, dukkhindriyaṃ, somanassindriyaṃ, domanassindriyaṃ, upekkhindriyaṃ. Sukhavedaniyaṃ, bhikkhave, phassaṃ paṭicca uppajjati sukhindriyaṃ. So sukhitova samāno ‘sukhitosmī’ti pajānāti. Tasseva sukhavedaniyassa phassassa nirodhā ‘yaṃ tajjaṃ vedayitaṃ sukhavedaniyaṃ phassaṃ paṭicca uppannaṃ sukhindriyaṃ taṃ nirujjhati, taṃ vūpasammatī’ti pajānāti’’.",
+      "zh": "“诸比丘，有此五根。哪五种？乐根、苦根、喜根、忧根、舍根。诸比丘，缘于引生乐受的触，乐根生起。当他处于乐中时，他便了知：‘我正处于乐中。’当那个引生乐受的触灭去时，他便了知：‘缘于那个引生乐受的触而生起的相应感受——乐根，它灭去了，它止息了。’”",
+      "n": "509"
+    },
+    {
+      "idx": 128,
+      "pali": "‘‘Dukkhavedaniyaṃ, bhikkhave, phassaṃ paṭicca uppajjati dukkhindriyaṃ. So dukkhitova samāno ‘dukkhitosmī’ti pajānāti. Tasseva dukkhavedaniyassa phassassa nirodhā ‘yaṃ tajjaṃ vedayitaṃ dukkhavedaniyaṃ phassaṃ paṭicca uppannaṃ dukkhindriyaṃ taṃ nirujjhati, taṃ vūpasammatī’ti pajānāti’’.",
+      "zh": "“诸比丘，缘于引生苦受的触，苦根生起。当他处于苦中时，他便了知：‘我正处于苦中。’当那个引生苦受的触灭去时，他便了知：‘缘于那个引生苦受的触而生起的相应感受——苦根，它灭去了，它止息了。’”"
+    },
+    {
+      "idx": 129,
+      "pali": "‘‘Somanassavedaniyaṃ, bhikkhave, phassaṃ paṭicca uppajjati somanassindriyaṃ. So sumanova samāno ‘sumanosmī’ti pajānāti. Tasseva somanassavedaniyassa phassassa nirodhā ‘yaṃ tajjaṃ vedayitaṃ somanassavedaniyaṃ phassaṃ paṭicca uppannaṃ somanassindriyaṃ taṃ nirujjhati, taṃ vūpasammatī’ti pajānāti’’.",
+      "zh": "“诸比丘，缘于引生喜悦的触，喜根生起。当他处于喜悦时，便了知：‘我喜悦。’当那个引生喜悦的触灭去时，他了知：‘由此触所生起的相应感受——喜根，灭去、止息了。’”"
+    },
+    {
+      "idx": 130,
+      "pali": "‘‘Domanassavedaniyaṃ, bhikkhave, phassaṃ paṭicca uppajjati domanassindriyaṃ. So dummanova samāno ‘dummanosmī’ti pajānāti. Tasseva domanassavedaniyassa phassassa nirodhā ‘yaṃ tajjaṃ vedayitaṃ domanassavedaniyaṃ phassaṃ paṭicca uppannaṃ domanassindriyaṃ taṃ nirujjhati, taṃ vūpasammatī’ti pajānāti’’.",
+      "zh": "“诸比丘，缘于引生忧的触，忧根生起。当他处于忧愁时，便了知：‘我忧愁。’当那个引生忧的触灭去时，他了知：‘由此触所生起的相应感受——忧根，灭去、止息了。’”"
+    },
+    {
+      "idx": 131,
+      "pali": "‘‘Upekkhāvedaniyaṃ, bhikkhave, phassaṃ paṭicca uppajjati upekkhindriyaṃ. So upekkhakova samāno ‘upekkhakosmī’ti pajānāti. Tasseva upekkhāvedaniyassa phassassa nirodhā ‘yaṃ tajjaṃ vedayitaṃ upekkhāvedaniyaṃ phassaṃ paṭicca uppannaṃ upekkhindriyaṃ taṃ nirujjhati, taṃ vūpasammatī’ti pajānāti’’.",
+      "zh": "“诸比丘，缘于引生舍的触，舍根生起。当他处于舍的状态时，便了知：‘我处于舍。’当那个引生舍的触灭去时，他了知：‘由此触所生起的相应感受——舍根，灭去、止息了。’”"
+    },
+    {
+      "idx": 132,
+      "pali": "‘‘Seyyathāpi, bhikkhave, dvinnaṃ kaṭṭhānaṃ saṅghaṭṭanasamodhānā usmā jāyati, tejo abhinibbattati; tesaṃyeva kaṭṭhānaṃ nānābhāvāvinikkhepā yā tajjā usmā sā nirujjhati sā vūpasammati; evameva kho, bhikkhave, sukhavedaniyaṃ phassaṃ paṭicca uppajjati sukhindriyaṃ. So sukhitova samāno ‘sukhitosmī’ti pajānāti. Tasseva sukhavedaniyassa phassassa nirodhā ‘yaṃ tajjaṃ vedayitaṃ sukhavedaniyaṃ phassaṃ paṭicca uppajjati sukhindriyaṃ taṃ nirujjhati , taṃ vūpasammatī’ti pajānāti’’.",
+      "zh": "“诸比丘，譬如两根木棒相互摩擦、接合时，会产生热量，生出火来；当那两根木棒被分开、被搁置一旁时，由彼所生的相应热量便随之灭去、平息。正是如此，诸比丘，依于应被感受为乐的触，乐根生起。当他处于乐的状态时，便了知：‘我处于乐的状态。’随着那应被感受为乐的触的灭去，他了知：‘缘于乐受触所生、与此相应的乐根，它灭去，它平息下来。’”"
+    },
+    {
+      "idx": 133,
+      "pali": "‘‘Dukkhavedaniyaṃ, bhikkhave, phassaṃ paṭicca…pe… somanassavedaniyaṃ, bhikkhave, phassaṃ paṭicca…pe… domanassavedaniyaṃ, bhikkhave, phassaṃ paṭicca…pe… upekkhāvedaniyaṃ, bhikkhave, phassaṃ paṭicca uppajjati upekkhindriyaṃ. So upekkhakova samāno ‘upekkhakosmī’ti pajānāti. Tasseva upekkhāvedaniyassa phassassa nirodhā ‘yaṃ tajjaṃ vedayitaṃ upekkhāvedaniyaṃ phassaṃ paṭicca uppajjati upekkhindriyaṃ taṃ nirujjhati, taṃ vūpasammatī’ti pajānāti’’. Navamaṃ.",
+      "zh": "“诸比丘，缘于应感受为苦的触……（中略）……诸比丘，缘于应感受为悦的触……（中略）……诸比丘，缘于应感受为忧的触……（中略）……诸比丘，缘于应感受为舍的触，舍根生起。当他处于舍时，他便了知：‘我处于舍。’随着那应感受为舍的触的灭去，他了知：‘那由此而生的感受——即缘于应感受为舍的触所生的舍根——灭去，止息。’第九经。"
+    },
+    {
+      "idx": 134,
+      "pali": "10. Uppaṭipāṭikasuttaṃ",
+      "zh": "10. [[uppaṭipāṭikasutta|逆次第经]]"
+    },
+    {
+      "idx": 135,
+      "pali": "‘‘Pañcimāni, bhikkhave, indriyāni. Katamāni pañca? Dukkhindriyaṃ , domanassindriyaṃ, sukhindriyaṃ, somanassindriyaṃ, upekkhindriyaṃ. Idha, bhikkhave, bhikkhuno appamattassa ātāpino pahitattassa viharato uppajjati dukkhindriyaṃ. So evaṃ pajānāti – ‘uppannaṃ kho me idaṃ dukkhindriyaṃ, tañca kho sanimittaṃ sanidānaṃ sasaṅkhāraṃ sappaccayaṃ. Tañca animittaṃ anidānaṃ asaṅkhāraṃ appaccayaṃ dukkhindriyaṃ uppajjissatīti – netaṃ ṭhānaṃ vijjati’. So dukkhindriyañca pajānāti, dukkhindriyasamudayañca pajānāti, dukkhindriyanirodhañca pajānāti, yattha cuppannaṃ dukkhindriyaṃ aparisesaṃ nirujjhati tañca pajānāti. Kattha cuppannaṃ dukkhindriyaṃ aparisesaṃ nirujjhati? Idha, bhikkhave, bhikkhu vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṃ savicāraṃ vivekajaṃ pītisukhaṃ paṭhamaṃ jhānaṃ upasampajja viharati, ettha cuppannaṃ dukkhindriyaṃ aparisesaṃ nirujjhati. Ayaṃ vuccati, bhikkhave, ‘bhikkhu aññāsi dukkhindriyassa nirodhaṃ, tadatthāya cittaṃ upasaṃharati’’’.",
+      "zh": "“诸比丘，有这五种根。哪五种呢？苦根、忧根、乐根、悦根、舍根。诸比丘，于此，比丘住于不放逸、热忱、精进之时，苦根生起。他如此了知：‘我的这个苦根已生起，而它确实有相、有因、有行、有缘。而此苦根无相、无因、无行、无缘而生起，这是不可能的。’他了知苦根，了知苦根集，了知苦根灭，并了知已生起的苦根在何处无余灭尽。那么，已生起的苦根在何处无余灭尽呢？诸比丘，于此，比丘远离感官欲乐、远离不善法，有寻有伺，由远离而生起的喜与乐，进入并安住于初禅，已生起的苦根便在此处无余灭尽。诸比丘，这称为：‘比丘了知苦根之灭，为此而引导其心。’”",
+      "n": "510"
+    },
+    {
+      "idx": 136,
+      "pali": "‘‘Idha pana, bhikkhave, bhikkhuno appamattassa ātāpino pahitattassa viharato uppajjati domanassindriyaṃ. So evaṃ pajānāti – ‘uppannaṃ kho me idaṃ domanassindriyaṃ, tañca kho sanimittaṃ sanidānaṃ sasaṅkhāraṃ sappaccayaṃ. Tañca animittaṃ anidānaṃ asaṅkhāraṃ appaccayaṃ domanassindriyaṃ uppajjissatīti – netaṃ ṭhānaṃ vijjati’ . So domanassindriyañca pajānāti, domanassindriyasamudayañca pajānāti, domanassindriyanirodhañca pajānāti, yattha cuppannaṃ domanassindriyaṃ aparisesaṃ nirujjhati tañca pajānāti. Kattha cuppannaṃ domanassindriyaṃ aparisesaṃ nirujjhati? Idha, bhikkhave, bhikkhu vitakkavicārānaṃ vūpasamā ajjhattaṃ sampasādanaṃ cetaso ekodibhāvaṃ avitakkaṃ avicāraṃ samādhijaṃ pītisukhaṃ dutiyaṃ jhānaṃ upasampajja viharati, ettha cuppannaṃ domanassindriyaṃ aparisesaṃ nirujjhati. Ayaṃ vuccati, bhikkhave, ‘bhikkhu aññāsi domanassindriyassa nirodhaṃ, tadatthāya cittaṃ upasaṃharati’’’.",
+      "zh": "“再者，诸比丘，在此，有比丘安住于不放逸、热忱与精勤之时，忧根便生起。他这样了知：‘我的这个忧根已经生起，它确实有相、有因、有行、有缘。若说此忧根能在无相、无因、无行、无缘的情况下生起——这是不可能的。’他了知忧根，了知忧根的集起，了知忧根的灭去，并了知那已生起的忧根于何处无余灭尽。那么，已生起的忧根于何处无余灭尽呢？诸比丘，在此，比丘由于寻与伺的止息，进入并安住于内心清净、心念专一、无寻无伺、由定而生起喜与乐的第二禅那。于此，已生起的忧根无余灭尽。诸比丘，这被称为：‘此比丘了知忧根之灭，并以此目的而引导其心。’”"
+    },
+    {
+      "idx": 137,
+      "pali": "‘‘Idha pana, bhikkhave, bhikkhuno appamattassa ātāpino pahitattassa viharato uppajjati sukhindriyaṃ. So evaṃ pajānāti – ‘uppannaṃ kho me idaṃ sukhindriyaṃ, tañca kho sanimittaṃ sanidānaṃ sasaṅkhāraṃ sappaccayaṃ. Tañca animittaṃ anidānaṃ asaṅkhāraṃ appaccayaṃ sukhindriyaṃ uppajjissatīti – netaṃ ṭhānaṃ vijjati’. So sukhindriyañca pajānāti, sukhindriyasamudayañca pajānāti, sukhindriyanirodhañca pajānāti, yattha cuppannaṃ sukhindriyaṃ aparisesaṃ nirujjhati tañca pajānāti. Kattha cuppannaṃ sukhindriyaṃ aparisesaṃ nirujjhati? Idha, bhikkhave, bhikkhu pītiyā ca virāgā upekkhako ca viharati sato ca sampajāno sukhañca kāyena paṭisaṃvedeti yaṃ taṃ ariyā ācikkhanti ‘upekkhako satimā sukhavihārī’ti tatiyaṃ jhānaṃ upasampajja viharati, ettha cuppannaṃ sukhindriyaṃ aparisesaṃ nirujjhati. Ayaṃ vuccati, bhikkhave, ‘bhikkhu aññāsi sukhindriyassa nirodhaṃ, tadatthāya cittaṃ upasaṃharati’’’.",
+      "zh": "“诸比丘，于此，比丘住于不放逸、热忱、精进之时，乐根生起。他如此了知：‘我的这个乐根已生起，而它确实有相、有因、有行、有缘。而此乐根无相、无因、无行、无缘而生起，这是不可能的。’他了知乐根，了知乐根集，了知乐根灭，并了知已生起的乐根在何处无余灭尽。那么，已生起的乐根在何处无余灭尽呢？诸比丘，于此，比丘由于离喜而住于舍，具念、正知，以身受乐，此即圣者们所宣说的‘舍、念、乐住’，进入并安住于第三禅，已生起的乐根便在此处无余灭尽。诸比丘，这称为：‘比丘了知乐根之灭，为此而引导其心。’”"
+    },
+    {
+      "idx": 138,
+      "pali": "‘‘Idha pana, bhikkhave, bhikkhuno appamattassa ātāpino pahitattassa viharato uppajjati somanassindriyaṃ. So evaṃ pajānāti – ‘uppannaṃ kho me idaṃ somanassindriyaṃ, tañca kho sanimittaṃ sanidānaṃ sasaṅkhāraṃ sappaccayaṃ. Tañca animittaṃ anidānaṃ asaṅkhāraṃ appaccayaṃ somanassindriyaṃ uppajjissatīti – netaṃ ṭhānaṃ vijjati’. So somanassindriyañca pajānāti, somanassindriyasamudayañca pajānāti, somanassindriyanirodhañca pajānāti, yattha cuppannaṃ somanassindriyaṃ aparisesaṃ nirujjhati tañca pajānāti. Kattha cuppannaṃ somanassindriyaṃ aparisesaṃ nirujjhati? Idha, bhikkhave, bhikkhu sukhassa ca pahānā dukkhassa ca pahānā pubbeva somanassadomanassānaṃ atthaṅgamā adukkhamasukhaṃ upekkhāsatipārisuddhiṃ catutthaṃ jhānaṃ upasampajja viharati, ettha cuppannaṃ somanassindriyaṃ aparisesaṃ nirujjhati. Ayaṃ vuccati, bhikkhave, ‘bhikkhu aññāsi somanassindriyassa nirodhaṃ, tadatthāya cittaṃ upasaṃharati’’’.",
+      "zh": "“诸比丘，在此，比丘不放逸、精勤、坚定而住时，喜根生起。他这样了知：‘这喜根已在我内生起，而它是有相的、有因的、有作的、有缘的。无相、无因、无作、无缘的喜根将会生起——这是不可能的。’他了知喜根，了知喜根之集，了知喜根之灭，也了知已生起的喜根在哪里无余灭尽。已生起的喜根在哪里无余灭尽呢？诸比丘，在此，比丘由舍断乐与舍断苦，随着先前喜与忧的灭没，不苦不乐，舍念清净，成就第四禅那而住。正是在这里，已生起的喜根无余灭尽。诸比丘，这就称为：比丘了知喜根之灭，并为此而引导心。”"
+    },
+    {
+      "idx": 139,
+      "pali": "‘‘Idha pana, bhikkhave, bhikkhuno appamattassa ātāpino pahitattassa viharato uppajjati upekkhindriyaṃ. So evaṃ pajānāti – ‘uppannaṃ kho me idaṃ upekkhindriyaṃ, tañca kho sanimittaṃ sanidānaṃ sasaṅkhāraṃ sappaccayaṃ. Tañca animittaṃ anidānaṃ asaṅkhāraṃ appaccayaṃ upekkhindriyaṃ uppajjissatīti – netaṃ ṭhānaṃ vijjati’. So upekkhindriyañca pajānāti, upekkhindriyasamudayañca pajānāti, upekkhindriyanirodhañca pajānāti, yattha cuppannaṃ upekkhindriyaṃ aparisesaṃ nirujjhati tañca pajānāti. Kattha cuppannaṃ upekkhindriyaṃ aparisesaṃ nirujjhati? Idha, bhikkhave, bhikkhu sabbaso nevasaññānāsaññāyatanaṃ samatikkamma saññāvedayitanirodhaṃ upasampajja viharati, ettha cuppannaṃ upekkhindriyaṃ aparisesaṃ nirujjhati. Ayaṃ vuccati, bhikkhave, ‘bhikkhu aññāsi upekkhindriyassa nirodhaṃ, tadatthāya cittaṃ upasaṃharatī’’’ti. Dasamaṃ.",
+      "zh": "“再者，诸比丘，在此，比丘不放逸、精勤、坚定而住时，舍根生起。他这样了知：‘这舍根已在我内生起，而它是有相的、有因的、有作的、有缘的。无相、无因、无作、无缘的舍根将会生起——这是不可能的。’他了知舍根，了知舍根之集，了知舍根之灭，也了知已生起的舍根在哪里无余灭尽。已生起的舍根在哪里无余灭尽呢？诸比丘，在此，比丘完全超越非想非非想处，进入并住于想受灭。正是在这里，已生起的舍根无余灭尽。诸比丘，这就称为：比丘了知舍根之灭，并为此而引导心。 ”第十经。"
+    },
+    {
+      "idx": 140,
+      "pali": "Sukhindriyavaggo catuttho.",
+      "zh": "乐根品第四。"
+    },
+    {
+      "idx": 141,
+      "pali": "Tassuddānaṃ –",
+      "zh": "其摄颂："
+    },
+    {
+      "idx": 142,
+      "pali": "Suddhikañca soto arahā, duve samaṇabrāhmaṇā;",
+      "zh": "单纯经、入流、阿拉汉，另有沙门与婆罗门两经；",
+      "type": "verse"
+    },
+    {
+      "idx": 143,
+      "pali": "Vibhaṅgena tayo vuttā, kaṭṭho uppaṭipāṭikanti.",
+      "zh": "以分别论而说三者，以及木堆经、逆次第经。",
+      "type": "verse"
+    },
+    {
+      "idx": 144,
+      "pali": "5. Jarāvaggo",
+      "zh": "5. 老品"
+    },
+    {
+      "idx": 145,
+      "pali": "1. Jarādhammasuttaṃ",
+      "zh": "1. [[jarādhammasutta|老法经]]"
+    },
+    {
+      "idx": 146,
+      "pali": "Evaṃ me sutaṃ – ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati pubbārāme migāramātupāsāde. Tena kho pana samayena bhagavā sāyanhasamayaṃ paṭisallānā vuṭṭhito pacchātape nisinno hoti piṭṭhiṃ otāpayamāno.",
+      "zh": "如是我闻：一时，世尊住在[[sāvatthī|舍卫城]][[pubbārāma|东园]]的[[migāramātupāsāda|鹿子母讲堂]]。那时，世尊在傍晚时分，从静处中起来，坐于落日余晖中，暖着脊背。",
+      "n": "511"
+    },
+    {
+      "idx": 147,
+      "pali": "Atha kho āyasmā ānando yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā bhagavato gattāni pāṇinā anomajjanto bhagavantaṃ etadavoca – ‘‘acchariyaṃ, bhante , abbhutaṃ, bhante! Na cevaṃ dāni, bhante, bhagavato tāva parisuddho chavivaṇṇo pariyodāto, sithilāni ca gattāni sabbāni valiyajātāni, purato pabbhāro ca kāyo, dissati ca indriyānaṃ aññathattaṃ – cakkhundriyassa sotindriyassa ghānindriyassa jivhindriyassa kāyindriyassā’’ti.",
+      "zh": "那时，具寿[[ānanda|阿难]]来至世尊前，向世尊行礼后，以手轻抚世尊的肢体，对世尊这样说道：“真是稀有啊，尊者！真是未曾有啊，尊者！尊者，如今世尊的肤色已不那般清净皎洁，四肢全都松弛起皱，身躯向前弯倾，而且显现出诸根的变化——眼根、耳根、鼻根、舌根、身根。”"
+    },
+    {
+      "idx": 148,
+      "pali": "‘‘Evañhetaṃ , ānanda, hoti – jarādhammo yobbaññe, byādhidhammo ārogye, maraṇadhammo jīvite. Na ceva tāva parisuddho hoti chavivaṇṇo pariyodāto, sithilāni ca honti gattāni sabbāni valiyajātāni, purato pabbhāro ca kāyo, dissati ca indriyānaṃ aññathattaṃ – cakkhundriyassa sotindriyassa ghānindriyassa jivhindriyassa kāyindriyassā’’ti.",
+      "zh": "“正是如此，[[ānanda|阿难]]。于青春中，必有老朽；于健康中，必有疾病；于生命中，必有死亡。肤色已不复清净明亮，四肢松弛、遍生皱纹，身躯前倾佝偻，且可见诸根的变化——眼根、耳根、鼻根、舌根、身根的变化。”"
+    },
+    {
+      "idx": 149,
+      "pali": "‘‘Idamavoca bhagavā. Idaṃ vatvā ca sugato athāparaṃ etadavoca satthā –",
+      "zh": "“世尊如是说。善逝如此说后，导师又接着说："
+    },
+    {
+      "idx": 150,
+      "pali": "‘‘Dhī taṃ jammi jare atthu, dubbaṇṇakaraṇī jare;",
+      "zh": "“哀哉，这可怜的老朽，令人变丑的老！",
+      "type": "verse"
+    },
+    {
+      "idx": 151,
+      "pali": "Tāva manoramaṃ bimbaṃ, jarāya abhimadditaṃ.",
+      "zh": "这具如此可爱的身躯，竟被衰老摧残至此。",
+      "type": "verse"
+    },
+    {
+      "idx": 152,
+      "pali": "‘‘Yopi vassasataṃ jīve, sopi maccuparāyaṇo ;",
+      "zh": "“纵使有人活到百岁，他终究也要归于死亡；",
+      "type": "verse"
+    },
+    {
+      "idx": 153,
+      "pali": "Na kiñci parivajjeti, sabbamevābhimaddatī’’ti. paṭhamaṃ;",
+      "zh": "它不回避任何事物，碾碎一切。”这是第一首。",
+      "type": "verse"
+    },
+    {
+      "idx": 154,
+      "pali": "2. Uṇṇābhabrāhmaṇasuttaṃ",
+      "zh": "2. [[uṇṇābhabrāhmaṇasutta|伍那巴婆罗门经]]"
+    },
+    {
+      "idx": 155,
+      "pali": "Sāvatthinidānaṃ. Atha kho uṇṇābho brāhmaṇo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṃ sammodi. Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho uṇṇābho brāhmaṇo bhagavantaṃ etadavoca –",
+      "zh": "[[sāvatthī|舍卫城]]。那时，温那跋婆罗门来到世尊之处，与世尊相互问候，亲切交谈。互致问候与亲切交谈后，他在一旁坐下。坐在一旁后，温那跋婆罗门对世尊说：",
+      "n": "512"
+    },
+    {
+      "idx": 156,
+      "pali": "‘‘Pañcimāni, bho gotama, indriyāni nānāvisayāni nānāgocarāni, na aññamaññassa gocaravisayaṃ paccanubhonti. Katamāni pañca? Cakkhundriyaṃ, sotindriyaṃ, ghānindriyaṃ, jivhindriyaṃ, kāyindriyaṃ . Imesaṃ nu kho, bho gotama, pañcannaṃ indriyānaṃ nānāvisayānaṃ nānāgocarānaṃ na aññamaññassa gocaravisayaṃ paccanubhontānaṃ kiṃ paṭisaraṇaṃ, ko ca nesaṃ gocaravisayaṃ paccanubhotī’’ti?",
+      "zh": "“[[gotama|乔达摩尊]]者，有此五根，它们各有不同的领域，不同的行境，彼此不经验对方的领域与行境。哪五种呢？眼根、耳根、鼻根、舌根、身根。[[gotama|乔达摩尊]]者，这五根各有不同的领域，不同的行境，彼此不经验对方的领域与行境，那么它们以什么为皈依？又是谁在经验它们的领域与行境呢？”"
+    },
+    {
+      "idx": 157,
+      "pali": "‘‘Pañcimāni, brāhmaṇa, indriyāni nānāvisayāni nānāgocarāni na aññamaññassa gocaravisayaṃ paccanubhonti. Katamāni pañca? Cakkhundriyaṃ, sotindriyaṃ , ghānindriyaṃ, jivhindriyaṃ, kāyindriyaṃ. Imesaṃ kho, brāhmaṇa, pañcannaṃ indriyānaṃ nānāvisayānaṃ nānāgocarānaṃ na aññamaññassa gocaravisayaṃ paccanubhontānaṃ mano paṭisaraṇaṃ, manova nesaṃ gocaravisayaṃ paccanubhotī’’ti.",
+      "zh": "“婆罗门，有这五根，它们领域各异、行境不同，彼此互不经验对方的领域与行境。哪五种？眼根、耳根、鼻根、舌根、身根。婆罗门，这五根虽领域各异、行境不同，彼此互不经验对方的领域与行境，却以意为依归，是心在经验它们的领域与行境。”"
+    },
+    {
+      "idx": 158,
+      "pali": "‘‘Manassa pana, bho gotama, kiṃ paṭisaraṇa’’nti? ‘‘Manassa kho, brāhmaṇa, sati paṭisaraṇa’’nti. ‘‘Satiyā pana, bho gotama, kiṃ paṭisaraṇa’’nti? ‘‘Satiyā kho, brāhmaṇa, vimutti paṭisaraṇa’’nti. ‘‘Vimuttiyā pana, bho gotama, kiṃ paṭisaraṇa’’nti? ‘‘Vimuttiyā kho, brāhmaṇa, nibbānaṃ paṭisaraṇa’’nti. ‘‘Nibbānassa pana, bho gotama, kiṃ paṭisaraṇa’’nti? ‘‘Accayāsi , brāhmaṇa, pañhaṃ, nāsakkhi pañhassa pariyantaṃ gahetuṃ. Nibbānogadhañhi, brāhmaṇa, brahmacariyaṃ vussati nibbānaparāyaṇaṃ nibbānapariyosāna’’nti.",
+      "zh": "“[[gotama|乔达摩尊]]者，那么，心归趣于什么？”“婆罗门，心归趣于念。”“[[gotama|乔达摩尊]]者，念又归趣于什么？”“婆罗门，念归趣于解脱。”“[[gotama|乔达摩尊]]者，解脱又归趣于什么？”“婆罗门，解脱归趣于涅槃。”“[[gotama|乔达摩尊]]者，涅槃又归趣于什么？”“婆罗门，你已逾越了问题的范畴，未能把握问题的边际。婆罗门，梵行正是融入涅槃、趋向涅槃、以涅槃为究竟目标而安住的。”"
+    },
+    {
+      "idx": 159,
+      "pali": "Atha kho uṇṇābho brāhmaṇo bhagavato bhāsitaṃ abhinanditvā anumoditvā uṭṭhāyāsanā bhagavantaṃ abhivādetvā padakkhiṇaṃ katvā pakkāmi.",
+      "zh": "那时，温那跋婆罗门对世尊所说欢喜随喜，即从座起，顶礼世尊，右绕之后离去。"
+    },
+    {
+      "idx": 160,
+      "pali": "Atha kho bhagavā acirapakkante uṇṇābhe brāhmaṇe bhikkhū āmantesi – ‘‘seyyathāpi, bhikkhave, kūṭāgāre vā kūṭāgārasālāyaṃ vā pācīnavātapānā sūriye uggacchante vātapānena rasmi pavisitvā kvāssa patiṭṭhitā’’ti? ‘‘Pacchimāyaṃ, bhante, bhittiya’’nti. ‘‘Evameva kho, bhikkhave, uṇṇābhassa brāhmaṇassa tathāgate saddhā niviṭṭhā mūlajātā patiṭṭhitā daḷhā asaṃhāriyā samaṇena vā brāhmaṇena vā devena vā mārena vā brahmunā vā kenaci vā lokasmiṃ. Imamhi ce, bhikkhave, samaye uṇṇābho brāhmaṇo kālaṅkareyya, natthi saṃyojanaṃ yena saṃyojanena saṃyutto uṇṇābho brāhmaṇo puna imaṃ lokaṃ āgaccheyyā’’ti. Dutiyaṃ.",
+      "zh": "那时，世尊在温那跋婆罗门离开后不久，便对诸比丘说道：“诸比丘，譬如在尖顶楼阁或尖顶殿堂中，当太阳升起时，阳光透过东窗射入，会落在何处呢？”“世尊，会落在西面的墙壁上。”“正是如此，诸比丘，温那跋婆罗门对如来的信心已安住、扎根、确立、坚固，世间任何沙门、婆罗门、天、魔、梵天神或任何人都无法动摇。诸比丘，若此时温那跋婆罗门命终，则没有任何结缚能将他系缚，令他再回到此世间。” 第二经。"
+    },
+    {
+      "idx": 161,
+      "pali": "3. Sāketasuttaṃ",
+      "zh": "3. [[sāketasutta|娑鸡帝经]]"
+    },
+    {
+      "idx": 162,
+      "pali": "Evaṃ me sutaṃ – ekaṃ samayaṃ bhagavā sākete viharati añjanavane migadāye. Tatra kho bhagavā bhikkhū āmantesi – ‘‘atthi nu kho, bhikkhave , pariyāyo yaṃ pariyāyaṃ āgamma yāni pañcindriyāni tāni pañca balāni honti, yāni pañca balāni tāni pañcindriyāni hontī’’ti?",
+      "zh": "如是我闻：一时，世尊住在娑鸡帝的安阇那林鹿野苑。在那里，世尊对诸比丘说道：“诸比丘，有没有一种方法，依此方法，五根即是五力，五力即是五根呢？”",
+      "n": "513"
+    },
+    {
+      "idx": 163,
+      "pali": "‘‘Bhagavaṃmūlakā no, bhante, dhammā bhagavaṃnettikā bhagavaṃpaṭisaraṇā. Sādhu vata, bhante, bhagavantaṃyeva paṭibhātu etassa bhāsitassa attho. Bhagavato sutvā bhikkhū dhāressantī’’ti. ‘‘Atthi, bhikkhave, pariyāyo yaṃ pariyāyaṃ āgamma yāni pañcindriyāni tāni pañca balāni honti, yāni pañca balāni tāni pañcindriyāni honti’’.",
+      "zh": "“世尊，这些法以世尊为根本，以世尊为引导，以世尊为依归。恳请世尊亲自开示这番义理，那实在善妙。诸比丘听闻世尊的教导后，将会铭记于心。”“诸比丘，有一种方式，依此方式，五根即成为五力，五力即成为五根。”"
+    },
+    {
+      "idx": 164,
+      "pali": "‘‘Katamo ca, bhikkhave, pariyāyo yaṃ pariyāyaṃ āgamma yāni pañcindriyāni tāni pañca balāni honti, yāni pañca balāni tāni pañcindriyāni honti? Yaṃ, bhikkhave, saddhindriyaṃ taṃ saddhābalaṃ, yaṃ saddhābalaṃ taṃ saddhindriyaṃ; yaṃ vīriyindriyaṃ taṃ vīriyabalaṃ, yaṃ vīriyabalaṃ taṃ vīriyindriyaṃ; yaṃ satindriyaṃ taṃ satibalaṃ, yaṃ satibalaṃ taṃ satindriyaṃ; yaṃ samādhindriyaṃ taṃ samādhibalaṃ, yaṃ samādhibalaṃ taṃ samādhindriyaṃ; yaṃ paññindriyaṃ taṃ paññābalaṃ, yaṃ paññābalaṃ taṃ paññindriyaṃ. Seyyathāpi, bhikkhave, nadī pācīnaninnā pācīnapoṇā pācīnapabbhārā, tassa majjhe dīpo. Atthi, bhikkhave, pariyāyo yaṃ pariyāyaṃ āgamma tassā nadiyā eko soto tveva saṅkhyaṃ gacchati . Atthi pana, bhikkhave, pariyāyo yaṃ pariyāyaṃ āgamma tassā nadiyā dve sotāni tveva saṅkhyaṃ gacchanti.",
+      "zh": "“诸比丘，依何种方式，五根即是五力、五力即是五根？信根即是信力，信力即是信根；精进根即是精进力，精进力即是精进根；念根即是念力，念力即是念根；定根即是定力，定力即是定根；慧根即是慧力，慧力即是慧根。诸比丘，譬如一条流向东方、倾向东方、斜向东方的大河，河中有岛。诸比丘，有一种方式，依此方式，那条河可被计为一股水流；又有一种方式，依此方式，那条河可被计为两股水流。”"
+    },
+    {
+      "idx": 165,
+      "pali": "‘‘Katamo ca, bhikkhave, pariyāyo yaṃ pariyāyaṃ āgamma tassā nadiyā eko soto tveva saṅkhyaṃ gacchati? Yañca, bhikkhave, tassa dīpassa purimante udakaṃ, yañca pacchimante udakaṃ – ayaṃ kho, bhikkhave, pariyāyo yaṃ pariyāyaṃ āgamma tassā nadiyā eko soto tveva saṅkhyaṃ gacchati.",
+      "zh": "“诸比丘，依何种方式，那条河只被计为一股水流？诸比丘，将岛东边的水与岛西边的水合而计之——诸比丘，这便是依之而可计彼河为一股水流的方式。”"
+    },
+    {
+      "idx": 166,
+      "pali": "‘‘Katamo ca, bhikkhave, pariyāyo yaṃ pariyāyaṃ āgamma tassā nadiyā dve sotāni tveva saṅkhyaṃ gacchanti? Yañca, bhikkhave, tassa dīpassa uttarante udakaṃ, yañca dakkhiṇante udakaṃ – ayaṃ kho, bhikkhave, pariyāyo yaṃ pariyāyaṃ āgamma tassā nadiyā dve sotāni tveva saṅkhyaṃ gacchanti. Evameva kho, bhikkhave, yaṃ saddhindriyaṃ taṃ saddhābalaṃ, yaṃ saddhābalaṃ taṃ saddhindriyaṃ; yaṃ vīriyindriyaṃ taṃ vīriyabalaṃ, yaṃ vīriyabalaṃ taṃ vīriyindriyaṃ; yaṃ satindriyaṃ taṃ satibalaṃ , yaṃ satibalaṃ taṃ satindriyaṃ; yaṃ samādhindriyaṃ taṃ samādhibalaṃ, yaṃ samādhibalaṃ taṃ samādhindriyaṃ; yaṃ paññindriyaṃ taṃ paññābalaṃ, yaṃ paññābalaṃ taṃ paññindriyaṃ. Pañcannaṃ, bhikkhave, indriyānaṃ bhāvitattā bahulīkatattā bhikkhu āsavānaṃ khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharatī’’ti. Tatiyaṃ.",
+      "zh": "“诸比丘！依何种方法，那条河可被算作两条水流呢？诸比丘！那岛屿北端的水与南端的水——诸比丘！依此方法，那条河便算作两条水流。同样地，诸比丘！信根即是信力，信力即是信根；精进根即是精进力，精进力即是精进根；念根即是念力，念力即是念根；定根即是定力，定力即是定根；慧根即是慧力，慧力即是慧根。诸比丘！正因修习、多修习这五根，比丘灭尽诸漏，于现法中，以证智自作证，得入无漏的心解脱、慧解脱而住。”第三经。"
+    },
+    {
+      "idx": 167,
+      "pali": "4. Pubbakoṭṭhakasuttaṃ",
+      "zh": "4. [[pubbakoṭṭhakasutta|东门屋经]]"
+    },
+    {
+      "idx": 168,
+      "pali": "Evaṃ me sutaṃ – ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati pubbakoṭṭhake. Tatra kho bhagavā āyasmantaṃ sāriputtaṃ āmantesi – ‘‘saddahasi tvaṃ, sāriputta – saddhindriyaṃ bhāvitaṃ bahulīkataṃ amatogadhaṃ hoti amataparāyaṇaṃ amatapariyosānaṃ…pe… paññindriyaṃ bhāvitaṃ bahulīkataṃ amatogadhaṃ hoti amataparāyaṇaṃ amatapariyosāna’’nti?",
+      "zh": "如是我闻：一时，世尊住在[[sāvatthī|舍卫城]]的东门屋。在那里，世尊唤具寿[[Sāriputta|舍利弗]]说：“[[Sāriputta|舍利弗]]！你对此有信心吗？信根修习、多修习后，便没入不死，以不死为彼岸，以不死为终极……（中略）……慧根修习、多修习后，便没入不死，以不死为彼岸，以不死为终极？”",
+      "n": "514"
+    },
+    {
+      "idx": 169,
+      "pali": "‘‘Na khvāhaṃ ettha, bhante, bhagavato saddhāya gacchāmi – saddhindriyaṃ…pe… paññindriyaṃ bhāvitaṃ bahulīkataṃ amatogadhaṃ hoti amataparāyaṇaṃ amatapariyosānaṃ. Yesañhetaṃ, bhante, aññātaṃ assa adiṭṭhaṃ aviditaṃ asacchikataṃ aphassitaṃ paññāya, te tattha paresaṃ saddhāya gaccheyyuṃ – saddhindriyaṃ…pe… paññindriyaṃ bhāvitaṃ bahulīkataṃ amatogadhaṃ hoti amataparāyaṇaṃ amatapariyosānaṃ. Yesañca kho etaṃ, bhante, ñātaṃ diṭṭhaṃ viditaṃ sacchikataṃ phassitaṃ paññāya, nikkaṅkhā te tattha nibbicikicchā – saddhindriyaṃ…pe… paññindriyaṃ bhāvitaṃ bahulīkataṃ amatogadhaṃ hoti amataparāyaṇaṃ amatapariyosānaṃ. Mayhañca kho etaṃ, bhante, ñātaṃ diṭṭhaṃ viditaṃ sacchikataṃ phassitaṃ paññāya. Nikkaṅkhavāhaṃ tattha nibbicikiccho saddhindriyaṃ…pe… paññindriyaṃ bhāvitaṃ bahulīkataṃ amatogadhaṃ hoti amataparāyaṇaṃ amatapariyosāna’’nti.",
+      "zh": "“尊者，对此，我并非出于对世尊的信仰而信受：‘信根……慧根已修习、已多修习，即趣入不死，以不死为归趣，以不死为究竟。’尊者，那些对此法未知、未见、未了知、未证、未以慧触证的人，他们在此处可以凭借对他人的信仰而信受：‘信根……慧根已修习、已多修习，即趣入不死，以不死为归趣，以不死为究竟。’然而，尊者，那些对此法已知、已见、已了知、已证、已以慧触证的人，他们对此便无疑无惑：‘信根……慧根已修习、已多修习，即趣入不死，以不死为归趣，以不死为究竟。’尊者，我对此法已是已知、已见、已了知、已证、已以慧触证。我对此无疑无惑：‘信根……慧根已修习、已多修习，即趣入不死，以不死为归趣，以不死为究竟。’”"
+    },
+    {
+      "idx": 170,
+      "pali": "‘‘Sādhu sādhu, sāriputta! Yesañhetaṃ, sāriputta, aññātaṃ assa adiṭṭhaṃ aviditaṃ asacchikataṃ aphassitaṃ paññāya, te tattha paresaṃ saddhāya gaccheyyuṃ – saddhindriyaṃ bhāvitaṃ bahulīkataṃ amatogadhaṃ hoti amataparāyaṇaṃ amatapariyosānaṃ…pe… paññindriyaṃ bhāvitaṃ bahulīkataṃ amatogadhaṃ hoti amataparāyaṇaṃ amatapariyosānaṃ. Yesañca kho etaṃ, sāriputta, ñātaṃ diṭṭhaṃ viditaṃ sacchikataṃ phassitaṃ paññāya, nikkaṅkhā te tattha nibbicikicchā – saddhindriyaṃ bhāvitaṃ bahulīkataṃ amatogadhaṃ hoti amataparāyaṇaṃ amatapariyosānaṃ…pe… paññindriyaṃ bhāvitaṃ bahulīkataṃ amatogadhaṃ hoti amataparāyaṇaṃ amatapariyosāna’’nti. Catutthaṃ.",
+      "zh": "“善哉，善哉，[[Sāriputta|舍利弗]]！[[Sāriputta|舍利弗]]，若有人于此尚未知、未见、未了知、未证、未以慧触证，他们便会出于对他人的信仰而说：‘信根修习、多修习，便契入不死、以不死为归宿、以不死为究竟……（中略）……慧根修习、多修习，便契入不死、以不死为归宿、以不死为究竟。’然而，[[Sāriputta|舍利弗]]，那些于此已经知、已见、已了知、已证、已以慧触证的人，对此则无疑无惑：‘信根修习、多修习，便契入不死、以不死为归宿、以不死为究竟……（中略）……慧根修习、多修习，便契入不死、以不死为归宿、以不死为究竟。’” 第四经。"
+    },
+    {
+      "idx": 171,
+      "pali": "5. Paṭhamapubbārāmasuttaṃ",
+      "zh": "5. [[paṭhamapubbārāmasutta|第一东园经]]"
+    },
+    {
+      "idx": 172,
+      "pali": "Evaṃ me sutaṃ – ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati pubbārāme migāramātupāsāde. Tatra kho bhagavā bhikkhū āmantesi – ‘‘katinaṃ nu kho, bhikkhave, indriyānaṃ bhāvitattā bahulīkatattā khīṇāsavo bhikkhu aññaṃ byākaroti – ‘khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyā’ti pajānāmī’’ti?",
+      "zh": "如是我闻：一时，世尊住在[[sāvatthī|舍卫城]][[pubbārāma|东园]][[migāramātupāsāda|鹿子母讲堂]]。于彼处，世尊对比丘们说：“比丘们，因为修习、多修习多少根，漏尽比丘方能记说完全智——了知：‘生已尽，梵行已立，应作已作，不受后有’？”",
+      "n": "515"
+    },
+    {
+      "idx": 173,
+      "pali": "Bhagavaṃmūlakā no, bhante, dhammā…pe… ‘‘ekassa kho, bhikkhave, indriyassa bhāvitattā bahulīkatattā khīṇāsavo bhikkhu aññaṃ byākaroti – ‘khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyā’ti pajānāmīti. Katamassa ekassa paññindriyassa paññavato , bhikkhave, ariyasāvakassa tadanvayā saddhā saṇṭhāti, tadanvayaṃ vīriyaṃ saṇṭhāti, tadanvayā sati saṇṭhāti, tadanvayo samādhi saṇṭhāti. Imassa kho, bhikkhave, ekassa indriyassa bhāvitattā bahulīkatattā khīṇāsavo bhikkhu aññaṃ byākaroti – ‘khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyā’ti pajānāmī’’ti. Pañcamaṃ.",
+      "zh": "“尊者，我们的教法以世尊为根源……（中略）”“比丘们，因为修习、多修习一种根，漏尽比丘便如此自证宣告：‘我这样了知：生已尽，梵行已立，应作已作，不受后有。’是哪一种根呢？即是慧根。比丘们，有慧的圣弟子，与慧相应的信便得以确立，与慧相应的精进便得以确立，与慧相应的念便得以确立，与慧相应的定便得以确立。比丘们，正是因为修习、多修习这一种根，漏尽比丘才如此自证宣告：‘我这样了知：生已尽，梵行已立，应作已作，不受后有。’” 第五经。"
+    },
+    {
+      "idx": 174,
+      "pali": "6. Dutiyapubbārāmasuttaṃ",
+      "zh": "6. [[dutiyapubbārāmasutta|第二东园经]]"
+    },
+    {
+      "idx": 175,
+      "pali": "Taṃyeva nidānaṃ. ‘‘Katinaṃ nu kho, bhikkhave, indriyānaṃ bhāvitattā bahulīkatattā khīṇāsavo bhikkhu aññaṃ byākaroti – ‘khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyā’ti pajānāmī’’ti? Bhagavaṃmūlakā no, bhante, dhammā…pe… ‘‘dvinnaṃ kho, bhikkhave, indriyānaṃ bhāvitattā bahulīkatattā khīṇāsavo bhikkhu aññaṃ byākaroti – ‘khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyā’ti pajānāmīti. Katamesaṃ dvinnaṃ? Ariyāya ca paññāya, ariyāya ca vimuttiyā. Yā hissa, bhikkhave, ariyā paññā tadassa paññindriyaṃ. Yā hissa, bhikkhave, ariyā vimutti tadassa samādhindriyaṃ. Imesaṃ kho, bhikkhave, dvinnaṃ indriyānaṃ bhāvitattā bahulīkatattā khīṇāsavo bhikkhu aññaṃ byākaroti – ‘khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyā’ti pajānāmī’’ti. Chaṭṭhaṃ.",
+      "zh": "同样的因缘。“诸比丘，漏尽比丘因修习、多修习哪几根，方能如实记说此智：‘我知：生已尽，梵行已立，应作已作，不受后有’？”“尊者，我们的法以世尊为根本……” “诸比丘，漏尽比丘因修习、多修习二根，方能如实记说此智：‘我知：生已尽，梵行已立，应作已作，不受后有’。哪二根？圣慧与圣解脱。诸比丘，凡是他的圣慧，即是慧根；凡是他的圣解脱，即是定根。诸比丘，正是因修习、多修习这二根，漏尽比丘方能如实记说此智：‘我知：生已尽，梵行已立，应作已作，不受后有’。” 第六经。",
+      "n": "516"
+    },
+    {
+      "idx": 176,
+      "pali": "7. Tatiyapubbārāmasuttaṃ",
+      "zh": "7. [[tatiyapubbārāmasutta|第三东园经]]"
+    },
+    {
+      "idx": 177,
+      "pali": "Taṃyeva nidānaṃ. ‘‘Katinaṃ nu kho, bhikkhave, indriyānaṃ bhāvitattā bahulīkatattā khīṇāsavo bhikkhu aññaṃ byākaroti – ‘khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyā’ti pajānāmī’’ti? Bhagavaṃmūlakā no, bhante, dhammā…pe… ‘‘catunnaṃ kho, bhikkhave, indriyānaṃ bhāvitattā bahulīkatattā khīṇāsavo bhikkhu aññaṃ byākaroti – ‘khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyā’ti pajānāmīti. Katamesaṃ catunnaṃ? Vīriyindriyassa, satindriyassa, samādhindriyassa, paññindriyassa – imesaṃ kho, bhikkhave, catunnaṃ indriyānaṃ bhāvitattā bahulīkatattā khīṇāsavo bhikkhu aññaṃ byākaroti – ‘khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyā’ti pajānāmī’’ti. Sattamaṃ.",
+      "zh": "同样的因缘。“诸比丘，漏尽比丘因修习、多修习哪几根，方能记说智：‘我知：生已尽，梵行已立，应作已作，不受后有’？”“尊者，我们的法以世尊为根本……” “诸比丘，漏尽比丘因修习、多修习四根，方能记说智：‘我知：生已尽，梵行已立，应作已作，不受后有’。哪四根？精进根、念根、定根、慧根。诸比丘，正是因修习、多修习这四根，漏尽比丘方能如是记说智：‘我知：生已尽，梵行已立，应作已作，不受后有’。” 第七经。",
+      "n": "517"
+    },
+    {
+      "idx": 178,
+      "pali": "8. Catutthapubbārāmasuttaṃ",
+      "zh": "8. [[catutthapubbārāmasutta|第四东园经]]"
+    },
+    {
+      "idx": 179,
+      "pali": "Taṃyeva nidānaṃ. ‘‘Katinaṃ nu kho, bhikkhave, indriyānaṃ bhāvitattā bahulīkatattā khīṇāsavo bhikkhu aññaṃ byākaroti – ‘khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyā’ti pajānāmī’’ti? Bhagavaṃmūlakā no, bhante, dhammā…pe… ‘‘pañcannaṃ kho, bhikkhave, indriyānaṃ bhāvitattā bahulīkatattā khīṇāsavo bhikkhu aññaṃ byākaroti – ‘khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyā’ti pajānāmīti. Katamesaṃ pañcannaṃ? Saddhindriyassa , vīriyindriyassa, satindriyassa, samādhindriyassa, paññindriyassa – imesaṃ kho, bhikkhave, pañcannaṃ indriyānaṃ bhāvitattā bahulīkatattā khīṇāsavo bhikkhu aññaṃ byākaroti – ‘khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyā’ti pajānāmī’’ti. Aṭṭhamaṃ.",
+      "zh": "同样的因缘。\n“诸比丘，因修习、多修习哪些根，漏尽比丘能记说：‘我 了知：生已尽，梵行已立，应作已作，不受后有’？”\n“尊者，我们的法以世尊为根本……”\n“诸比丘，因修习、多修习五根，漏尽比丘便记说：‘我 了知：生已尽，梵行已立，应作已作，不受后有’。哪五种？信根、精进根、念根、定根、慧根。诸比丘，因修习、多修习这五根，漏尽比丘便记说：‘我 了知：生已尽，梵行已立，应作已作，不受后有’。”\n第八经。",
+      "n": "518"
+    },
+    {
+      "idx": 180,
+      "pali": "9. Piṇḍolabhāradvājasuttaṃ",
+      "zh": "9. [[piṇḍolabhāradvājasutta|宾头卢·婆罗堕阇经]]"
+    },
+    {
+      "idx": 181,
+      "pali": "Evaṃ me sutaṃ – ekaṃ samayaṃ bhagavā kosambiyaṃ viharati ghositārāme. Tena kho pana samayena āyasmatā piṇḍolabhāradvājena aññā byākatā hoti – ‘‘khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ , nāparaṃ itthattāyāti pajānāmī’’ti. Atha kho sambahulā bhikkhū yena bhagavā tenupasaṅkamiṃsu; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdiṃsu. Ekamantaṃ nisinnā kho te bhikkhū bhagavantaṃ etadavocuṃ –",
+      "zh": "如是我闻：一时，世尊住在[[kosambī|憍赏弥]]的瞿师罗。那时，具寿[[piṇḍolabhāradvāja|宾头卢]]·[[bhāradvāja|婆罗堕阇]]已证得究竟智，如是宣说：“我了知：生已尽，梵行已立，应作已作，不受后有。”当时，有几位比丘前往世尊处，抵达后，礼敬世尊，在一旁坐下。在一旁坐定后，那些比丘对世尊这样说：",
+      "n": "519"
+    },
+    {
+      "idx": 182,
+      "pali": "‘‘Āyasmatā, bhante, piṇḍolabhāradvājena aññā byākatā – ‘khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyā’ti pajānāmīti. Kiṃ nu kho, bhante, atthavasaṃ sampassamānena āyasmatā piṇḍolabhāradvājena aññā byākatā – ‘khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyā’ti pajānāmī’’ti?",
+      "zh": "“尊者，具寿[[piṇḍolabhāradvāja|宾头卢]]·[[bhāradvāja|婆罗堕阇]]宣称证得了究竟智——‘我了知：生已尽，梵行已立，应作已作，不受后有。’尊者，具寿[[piṇḍolabhāradvāja|宾头卢]]·[[bhāradvāja|婆罗堕阇]]是见到了怎样的义利，而如此自证智：‘我了知：生已尽，梵行已立，应作已作，不受后有’呢？”"
+    },
+    {
+      "idx": 183,
+      "pali": "‘‘Tiṇṇannaṃ kho, bhikkhave, indriyānaṃ bhāvitattā bahulīkatattā piṇḍolabhāradvājena bhikkhunā aññā byākatā – ‘khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyā’ti pajānāmīti. Katamesaṃ tiṇṇannaṃ? Satindriyassa, samādhindriyassa, paññindriyassa – imesaṃ kho, bhikkhave, tiṇṇannaṃ indriyānaṃ bhāvitattā bahulīkatattā piṇḍolabhāradvājena bhikkhunā aññā byākatā – ‘khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyā’ti pajānāmīti. Imāni ca, bhikkhave, tīṇindriyāni kimantāni? Khayantāni. Kissa khayantāni? Jātijarāmaraṇassa. ‘Jātijarāmaraṇaṃ khaya’nti kho, bhikkhave, sampassamānena piṇḍolabhāradvājena bhikkhunā aññā byākatā – ‘khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyā’ti pajānāmī’’ti. Navamaṃ.",
+      "zh": "“诸比丘，正因为修习、广修三种根，比丘[[piṇḍolabhāradvāja|宾头卢]]·[[bhāradvāja|婆罗堕阇]]才证得究竟智而宣称：‘我了知：生已尽，梵行已立，应作已作，不受后有。’哪三种呢？念根、定根、慧根。诸比丘，正是由于修习、广修这三种根，比丘[[piṇḍolabhāradvāja|宾头卢]]·[[bhāradvāja|婆罗堕阇]]证得究竟智，宣称：‘我了知：生已尽，梵行已立，应作已作，不受后有。’诸比丘，这三根以何为归宿？以灭尽为归宿。灭尽的是什么呢？即生、老、死的灭尽。诸比丘，正是因为见到‘生、老、死的灭尽’，比丘[[piṇḍolabhāradvāja|宾头卢]]·[[bhāradvāja|婆罗堕阇]]才证得究竟智，宣称：‘我了知：生已尽，梵行已立，应作已作，不受后有。’”第九经。"
+    },
+    {
+      "idx": 184,
+      "pali": "10. Āpaṇasuttaṃ",
+      "zh": "10. [[āpaṇasutta|阿巴那经]]"
+    },
+    {
+      "idx": 185,
+      "pali": "Evaṃ me sutaṃ – ekaṃ samayaṃ bhagavā aṅgesu viharati āpaṇaṃ nāma aṅgānaṃ nigamo. Tatra kho bhagavā āyasmantaṃ sāriputtaṃ āmantesi – ‘‘yo so, sāriputta, ariyasāvako tathāgate ekantagato abhippasanno, na so tathāgate vā tathāgatasāsane vā kaṅkheyya vā vicikiccheyya vā’’ti?",
+      "zh": "如是我闻：一时，世尊住在盎伽国的阿巴那城镇。在那里，世尊对具寿[[Sāriputta|舍利弗]]说：“[[Sāriputta|舍利弗]]，一位对如来已极有信心、已极献身的圣弟子，还会对如来或如来的教法有怀疑或犹豫吗？”",
+      "n": "520"
+    },
+    {
+      "idx": 186,
+      "pali": "‘‘Yo so, bhante, ariyasāvako tathāgate ekantagato abhippasanno, na so tathāgate vā tathāgatasāsane vā kaṅkheyya vā vicikiccheyya vā. Saddhassa hi, bhante, ariyasāvakassa evaṃ pāṭikaṅkhaṃ yaṃ āraddhavīriyo viharissati – akusalānaṃ dhammānaṃ pahānāya, kusalānaṃ dhammānaṃ upasampadāya, thāmavā daḷhaparakkamo anikkhittadhuro kusalesu dhammesu. Yaṃ hissa, bhante, vīriyaṃ tadassa vīriyindriyaṃ.",
+      "zh": "“尊者，一位对如来一向趣入、净信不二的圣弟子，不会对如来或如来的教法生起疑惑或犹豫。尊者，对于有信的圣弟子，可预期他将怀着这样的精进而住：为断除不善法、成就善法，他坚定勇猛，不舍重担，于善法中精勤修习。尊者，他的这份精进，即是精进根。”"
+    },
+    {
+      "idx": 187,
+      "pali": "‘‘Saddhassa hi , bhante, ariyasāvakassa āraddhavīriyassa etaṃ pāṭikaṅkhaṃ yaṃ satimā bhavissati, paramena satinepakkena samannāgato, cirakatampi cirabhāsitampi saritā anussaritā. Yā hissa, bhante, sati tadassa satindriyaṃ.",
+      "zh": "“尊者，对于有信、已发起精进的圣弟子，可以预期他将具足正念，成就最上的正念与明察，乃至久远以前所作、久远以前所说，都能忆持、记忆。尊者，他的那种念，就是他的念根。"
+    },
+    {
+      "idx": 188,
+      "pali": "‘‘Saddhassa hi, bhante, ariyasāvakassa āraddhavīriyassa upaṭṭhitassatino etaṃ pāṭikaṅkhaṃ yaṃ vossaggārammaṇaṃ karitvā labhissati samādhiṃ, labhissati cittassa ekaggataṃ. Yo hissa, bhante, samādhi tadassa samādhindriyaṃ.",
+      "zh": "“尊者，对于有信、已发起精进、正念现前的圣弟子，可以预期他以舍离为所缘，而获得定，获得心的一境性。尊者，他的那种定，就是他的定根。"
+    },
+    {
+      "idx": 189,
+      "pali": "‘‘Saddhassa hi, bhante, ariyasāvakassa āraddhavīriyassa upaṭṭhitassatino samāhitacittassa etaṃ pāṭikaṅkhaṃ yaṃ evaṃ pajānissati – anamataggo kho saṃsāro. Pubbā koṭi na paññāyati avijjānīvaraṇānaṃ sattānaṃ taṇhāsaṃyojanānaṃ sandhāvataṃ saṃsarataṃ. Avijjāya tveva tamokāyassa asesavirāganirodho santametaṃ padaṃ paṇītametaṃ padaṃ, yadidaṃ – sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhākkhayo virāgo nirodho nibbānaṃ . Yā hissa, bhante, paññā tadassa paññindriyaṃ.",
+      "zh": "“尊者，对于有信、已发起精进、正念现前、心已得定的圣弟子，这是应当期待的：他将如此了知——轮回确实无始。被无明覆盖、被渴爱系缚的众生，流转轮回，其前际不可知。然而，那无明黑暗之聚的彻底离贪、灭尽，正是寂静，正是殊胜，也就是：一切行的止息、一切依的弃舍、渴爱的灭尽、离贪、灭、涅槃。尊者，他的那种慧，就是他的慧根。"
+    },
+    {
+      "idx": 190,
+      "pali": "‘‘Saddho so , bhante, ariyasāvako evaṃ padahitvā padahitvā evaṃ saritvā saritvā evaṃ samādahitvā samādahitvā evaṃ pajānitvā pajānitvā evaṃ abhisaddahati – ‘ime kho te dhammā ye me pubbe sutavā ahesuṃ. Tenāhaṃ etarahi kāyena ca phusitvā viharāmi, paññāya ca ativijjha passāmī’ti. Yā hissa, bhante, saddhā tadassa saddhindriya’’nti.",
+      "zh": "“尊者，那位有信的圣弟子，在如此反复精进、反复忆念、反复入定、反复以慧了知之后，便深信：‘这些法，正是我过去从他处听闻的那些法。如今我已亲身触证而安住其中，并以智慧洞察照见。’ 尊者，他的这种信，便是他的信根。”"
+    },
+    {
+      "idx": 191,
+      "pali": "‘‘Sādhu sādhu, sāriputta! Yo so, sāriputta, ariyasāvako tathāgate ekantagato abhippasanno, na so tathāgate vā tathāgatasāsane vā kaṅkheyya vā vicikiccheyya vā. Saddhassa hi, sāriputta, ariyasāvakassa etaṃ pāṭikaṅkhaṃ yaṃ āraddhavīriyo viharissati – akusalānaṃ dhammānaṃ pahānāya, kusalānaṃ dhammānaṃ upasampadāya, thāmavā daḷhaparakkamo anikkhittadhuro kusalesu dhammesu. Yaṃ hissa, sāriputta, vīriyaṃ tadassa vīriyindriyaṃ.",
+      "zh": "“善哉，善哉，[[Sāriputta|舍利弗]]！[[Sāriputta|舍利弗]]，一位对如来坚定、具足全然净信的圣弟子，于如来或如来的教说，不会怀疑，亦不犹豫。[[Sāriputta|舍利弗]]，对于有信的圣弟子，这是可预期的：他将策励精进而住，为断除不善法，为具足善法，坚定、勇猛、不懈地致力于善法。[[Sāriputta|舍利弗]]，他的这种精进，便是他的精进根。”"
+    },
+    {
+      "idx": 192,
+      "pali": "‘‘Saddhassa hi, sāriputta, ariyasāvakassa āraddhavīriyassa etaṃ pāṭikaṅkhaṃ yaṃ satimā bhavissati, paramena satinepakkena samannāgato, cirakatampi cirabhāsitampi saritā anussaritā. Yā hissa, sāriputta, sati tadassa satindriyaṃ.",
+      "zh": "“[[Sāriputta|舍利弗]]，对于有信、已发起精进的圣弟子，这是可预期的：他将具足正念，成就最高的念与正知，能忆念、随念久远以前所作、久远以前所说之事。[[Sāriputta|舍利弗]]，他的这种念，便是他的念根。"
+    },
+    {
+      "idx": 193,
+      "pali": "‘‘Saddhassa hi, sāriputta, ariyasāvakassa āraddhavīriyassa upaṭṭhitassatino etaṃ pāṭikaṅkhaṃ yaṃ vossaggārammaṇaṃ karitvā labhissati samādhiṃ, labhissati cittassa ekaggataṃ. Yo hissa, sāriputta, samādhi tadassa samādhindriyaṃ.",
+      "zh": "“[[Sāriputta|舍利弗]]，具信的圣弟子，已策发精进，已安住正念，这是可期待的：他以舍为所缘，将获得定，将获得心一境性。[[Sāriputta|舍利弗]]，他所获得的定，就是他的定根。”"
+    },
+    {
+      "idx": 194,
+      "pali": "‘‘Saddhassa hi, sāriputta, ariyasāvakassa āraddhavīriyassa upaṭṭhitassatino samāhitacittassa etaṃ pāṭikaṅkhaṃ yaṃ evaṃ pajānissati – anamataggo kho saṃsāro. Pubbā koṭi na paññāyati avijjānīvaraṇānaṃ sattānaṃ taṇhāsaṃyojanānaṃ sandhāvataṃ saṃsarataṃ. Avijjāya tveva tamokāyassa asesavirāganirodho santametaṃ padaṃ paṇītametaṃ padaṃ, yadidaṃ – sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhākkhayo virāgo nirodho nibbānaṃ. Yā hissa, sāriputta, paññā tadassa paññindriyaṃ.",
+      "zh": "“[[Sāriputta|舍利弗]]，具信的圣弟子，已策发精进，已安住正念，心已得定，这是可期待的：他将如此了知——‘轮回的确无始。被无明所覆、被渴爱所系的有情，流转轮回，其前际不可知。然而，正是这无明暗聚无余的离贪与灭尽，是寂静之境，是殊胜之境，即：一切行的止息、一切依的舍离、渴爱的灭尽、离贪、灭、涅槃。’[[Sāriputta|舍利弗]]，他所具有的慧，就是他的慧根。”"
+    },
+    {
+      "idx": 195,
+      "pali": "‘‘Saddho so , sāriputta, ariyasāvako evaṃ padahitvā padahitvā evaṃ saritvā saritvā evaṃ samādahitvā samādahitvā evaṃ pajānitvā pajānitvā evaṃ abhisaddahati – ‘ime kho te dhammā ye me pubbe sutavā ahesuṃ. Tenāhaṃ etarahi kāyena ca phusitvā viharāmi, paññāya ca ativijjha passāmī’ti. Yā hissa, sāriputta, saddhā tadassa saddhindriya’’nti. Dasamaṃ.",
+      "zh": "“[[Sāriputta|舍利弗]]，那位具信的圣弟子，如此一再精进、一再忆念、一再入定、一再以慧了知之后，便生起这样的深信：‘这些法，正是我过去所听闻的。如今，我以身触证而安住，以智慧彻见。’[[Sāriputta|舍利弗]]，他的这种信，就是他的信根。” 第十经。"
+    },
+    {
+      "idx": 196,
+      "pali": "Jarāvaggo pañcamo.",
+      "zh": "老品第五"
+    },
+    {
+      "idx": 197,
+      "pali": "Tassuddānaṃ –",
+      "zh": "其摄颂："
+    },
+    {
+      "idx": 198,
+      "pali": "Jarā uṇṇābho brāhmaṇo, sāketo pubbakoṭṭhako;",
+      "zh": "老年、温那跋婆罗门、娑鸡帝、东谷仓；",
+      "type": "verse"
+    },
+    {
+      "idx": 199,
+      "pali": "Pubbārāme ca cattāri, piṇḍolo āpaṇena cāti .",
+      "zh": "[[pubbārāma|东园]]有四篇，宾头卢与店铺事。",
+      "type": "verse"
+    },
+    {
+      "idx": 200,
+      "pali": "6. Sūkarakhatavaggo",
+      "zh": "6. 野猪窟品"
+    },
+    {
+      "idx": 201,
+      "pali": "1. Sālasuttaṃ",
+      "zh": "1. [[sālasutta|娑罗经]]"
+    },
+    {
+      "idx": 202,
+      "pali": "Evaṃ me sutaṃ – ekaṃ samayaṃ bhagavā kosalesu viharati sālāya brāhmaṇagāme. Tatra kho bhagavā bhikkhū āmantesi – ‘‘seyyathāpi, bhikkhave, ye keci tiracchānagatā pāṇā, sīho migarājā tesaṃ aggamakkhāyati, yadidaṃ – thāmena javena sūrena ; evameva kho, bhikkhave, ye keci bodhipakkhiyā dhammā, paññindriyaṃ tesaṃ aggamakkhāyati, yadidaṃ – bodhāya’’.",
+      "zh": "如是我闻：一时，世尊住在憍萨罗国一个名为沙喇的婆罗门村。在那里，世尊对比丘们说：“比丘们，正如于一切畜生道众生中，兽王狮子在力量、速度与勇猛上被许为最胜；同样地，比丘们，于一切导向觉悟的法中，慧根在能导向觉悟上被许为最胜。”",
+      "n": "521"
+    },
+    {
+      "idx": 203,
+      "pali": "‘‘Katame ca, bhikkhave, bodhipakkhiyā dhammā? Saddhindriyaṃ, bhikkhave, bodhipakkhiyo dhammo, taṃ bodhāya saṃvattati; vīriyindriyaṃ bodhipakkhiyo dhammo, taṃ bodhāya saṃvattati; satindriyaṃ bodhipakkhiyo dhammo, taṃ bodhāya saṃvattati; samādhindriyaṃ bodhipakkhiyo dhammo, taṃ bodhāya saṃvattati; paññindriyaṃ bodhipakkhiyo dhammo, taṃ bodhāya saṃvattati. Seyyathāpi , bhikkhave, ye keci tiracchānagatā pāṇā, sīho migarājā tesaṃ aggamakkhāyati, yadidaṃ – thāmena javena sūrena; evameva kho, bhikkhave, ye keci bodhipakkhiyā dhammā, paññindriyaṃ tesaṃ aggamakkhāyati, yadidaṃ – bodhāyā’’ti. Paṭhamaṃ.",
+      "zh": "“诸比丘，什么是导向菩提的法？信根是导向菩提的法，能导向觉悟；精进根是导向菩提的法，能导向觉悟；念根是导向菩提的法，能导向觉悟；定根是导向菩提的法，能导向觉悟；慧根是导向菩提的法，能导向觉悟。诸比丘，譬如所有畜生道中的众生，兽王狮子被公认是它们当中最殊胜的，即在力量、速度与勇猛方面最为出众；同样地，诸比丘，在一切导向菩提的法中，慧根被公认是最殊胜的，也就是能导向觉悟。” 第一经。"
+    },
+    {
+      "idx": 204,
+      "pali": "2. Mallikasuttaṃ",
+      "zh": "2. [[mallikasutta|末罗经]]"
+    },
+    {
+      "idx": 205,
+      "pali": "Evaṃ me sutaṃ – ekaṃ samayaṃ bhagavā mallesu viharati uruvelakappaṃ nāma mallānaṃ nigamo. Tatra kho bhagavā bhikkhū āmantesi – ‘‘yāvakīvañca, bhikkhave, ariyasāvakassa ariyañāṇaṃ na uppannaṃ hoti neva tāva catunnaṃ indriyānaṃ saṇṭhiti hoti, neva tāva catunnaṃ indriyānaṃ avaṭṭhiti hoti. Yato ca kho, bhikkhave, ariyasāvakassa ariyañāṇaṃ uppannaṃ hoti, atha catunnaṃ indriyānaṃ saṇṭhiti hoti, atha catunnaṃ indriyānaṃ avaṭṭhiti hoti’’.",
+      "zh": "如是我闻：一时，世尊住在末罗国一个名叫伍卢维喇咖拔的末罗人城镇。在那里，世尊对诸比丘说：“诸比丘，只要圣弟子的圣智尚未生起，四根便未得稳定确立，亦未得牢固安住。然而，诸比丘，当圣弟子的圣智生起时，四根才得以稳定确立，才得以牢固安住。”",
+      "n": "522"
+    },
+    {
+      "idx": 206,
+      "pali": "‘‘Seyyathāpi, bhikkhave, yāvakīvañca kūṭāgārassa kūṭaṃ na ussitaṃ hoti, neva tāva gopānasīnaṃ saṇṭhiti hoti, neva tāva gopānasīnaṃ avaṭṭhiti hoti. Yato ca kho, bhikkhave, kūṭāgārassa kūṭaṃ ussitaṃ hoti, atha gopānasīnaṃ saṇṭhiti hoti, atha gopānasīnaṃ avaṭṭhiti hoti. Evameva kho, bhikkhave, yāvakīvañca ariyasāvakassa ariyañāṇaṃ na uppannaṃ hoti, neva tāva catunnaṃ indriyānaṃ saṇṭhiti hoti, neva tāva catunnaṃ indriyānaṃ avaṭṭhiti hoti. Yato ca kho, bhikkhave, ariyasāvakassa ariyañāṇaṃ uppannaṃ hoti, atha catunnaṃ indriyānaṃ…pe… avaṭṭhiti hoti.",
+      "zh": "“诸比丘，譬如尖顶屋的屋顶尚未竖立时，诸椽便未得稳定确立，亦未得牢固安住；当尖顶屋的屋顶已竖立时，诸椽才得以稳定确立，才得以牢固安住。同样地，诸比丘，只要圣弟子的圣智尚未生起，四根便未得稳定确立，亦未得牢固安住；当圣弟子的圣智已生起时，四根……（中略）……才得以牢固安住。”"
+    },
+    {
+      "idx": 207,
+      "pali": "‘‘Katamesaṃ catunnaṃ? Saddhindriyassa , vīriyindriyassa, satindriyassa, samādhindriyassa. Paññavato, bhikkhave, ariyasāvakassa tadanvayā saddhā saṇṭhāti, tadanvayaṃ vīriyaṃ saṇṭhāti, tadanvayā sati saṇṭhāti, tadanvayo samādhi saṇṭhātī’’ti. Dutiyaṃ.",
+      "zh": "“是哪四根？即是：信根、精进根、念根、定根。诸比丘，对于具慧的圣弟子，随慧而起的信便得安立，随慧而起的精进便得安立，随慧而起的念便得安立，随慧而起的定便得安立。”第二经。"
+    },
+    {
+      "idx": 208,
+      "pali": "3. Sekhasuttaṃ",
+      "zh": "3. [[sekhasutta|有学经]]"
+    },
+    {
+      "idx": 209,
+      "pali": "Evaṃ me sutaṃ – ekaṃ samayaṃ bhagavā kosambiyaṃ viharati ghositārāme. Tatra kho bhagavā bhikkhū āmantesi – ‘‘atthi nu kho, bhikkhave, pariyāyo yaṃ pariyāyaṃ āgamma sekho bhikkhu sekhabhūmiyaṃ ṭhito ‘sekhosmī’ti pajāneyya, asekho bhikkhu asekhabhūmiyaṃ ṭhito ‘asekhosmī’ti pajāneyyā’’ti?",
+      "zh": "如是我闻：一时，世尊住在[[kosambī|憍赏弥]]的瞿师罗。在那里，世尊对比丘们说：“诸比丘，可有法门，依此法门，住于有学地的有学比丘能了知‘我是有学’，住于无学地的无学比丘能了知‘我是无学’？”",
+      "n": "523"
+    },
+    {
+      "idx": 210,
+      "pali": "Bhagavaṃmūlakā no, bhante, dhammā…pe… ‘‘atthi, bhikkhave, pariyāyo yaṃ pariyāyaṃ āgamma sekho bhikkhu sekhabhūmiyaṃ ṭhito ‘sekhosmī’ti pajāneyya, asekho bhikkhu asekhabhūmiyaṃ ṭhito ‘asekhosmī’ti pajāneyya’’.",
+      "zh": "“尊者，我们的法乃是以世尊为根源……”“诸比丘，有一法门，依此法门，有学比丘安住于有学地时，能了知‘我是有学’；无学比丘安住于无学地时，能了知‘我是无学’。”"
+    },
+    {
+      "idx": 211,
+      "pali": "‘‘Katamo ca, bhikkhave, pariyāyo yaṃ pariyāyaṃ āgamma sekho bhikkhu sekhabhūmiyaṃ ṭhito ‘sekhosmī’ti pajānāti? Idha, bhikkhave, sekho bhikkhu ‘idaṃ dukkha’nti yathābhūtaṃ pajānāti, ‘ayaṃ dukkhasamudayo’ti yathābhūtaṃ pajānāti, ‘ayaṃ dukkhanirodho’ti yathābhūtaṃ pajānāti, ‘ayaṃ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṃ pajānāti – ayampi kho, bhikkhave, pariyāyo yaṃ pariyāyaṃ āgamma sekho bhikkhu sekhabhūmiyaṃ ṭhito ‘sekhosmī’ti pajānāti’’.",
+      "zh": "“诸比丘，何等为法门，依此法门，有学比丘安住于有学地时，能了知‘我是有学’？诸比丘，于此，有学比丘如实了知‘此是苦’，如实了知‘此是苦集’，如实了知‘此是苦灭’，如实了知‘此是导至苦灭之道’。诸比丘，这便是一种法门，依此法门，有学比丘安住于有学地时，能了知‘我是有学’。”"
+    },
+    {
+      "idx": 212,
+      "pali": "‘‘Puna caparaṃ, bhikkhave, sekho bhikkhu iti paṭisañcikkhati – ‘atthi nu kho ito bahiddhā añño samaṇo vā brāhmaṇo vā yo evaṃ bhūtaṃ tacchaṃ tathaṃ dhammaṃ deseti yathā bhagavā’ti? So evaṃ pajānāti – ‘natthi kho ito bahiddhā añño samaṇo vā brāhmaṇo vā yo evaṃ bhūtaṃ tacchaṃ tathaṃ dhammaṃ deseti yathā bhagavā’ti. Ayampi kho, bhikkhave, pariyāyo yaṃ pariyāyaṃ āgamma sekho bhikkhu sekhabhūmiyaṃ ṭhito ‘sekhosmī’ti pajānāti’’.",
+      "zh": "“再者，诸比丘，有学比丘如此深思：‘除了此处之外，可还有其他沙门或婆罗门，能像世尊那样，宣说如此真实、确切、如实的法吗？’他如是了知：‘除了此处之外，并无其他沙门或婆罗门，能像世尊那样，宣说如此真实、确切、如实的法。’诸比丘，这亦是法门，依此法门，有学比丘安住于有学地时，能了知‘我是有学’。”"
+    },
+    {
+      "idx": 213,
+      "pali": "‘‘Puna caparaṃ, bhikkhave, sekho bhikkhu pañcindriyāni pajānāti – saddhindriyaṃ, vīriyindriyaṃ, satindriyaṃ, samādhindriyaṃ, paññindriyaṃ – yaṃgatikāni yaṃparamāni yaṃphalāni yaṃpariyosānāni. Na heva kho kāyena phusitvā viharati; paññāya ca ativijjha passati. Ayampi kho, bhikkhave, pariyāyo yaṃ pariyāyaṃ āgamma sekho bhikkhu sekhabhūmiyaṃ ṭhito ‘sekhosmī’ti pajānāti’’.",
+      "zh": "“再者，诸比丘，有学比丘了知五根——信根、精进根、念根、定根、慧根——了知它们的趣向、最胜、果报与究竟。他虽尚未以身触证而安住，却能以慧透彻明见。诸比丘，这也是一种法门，依此法门，有学比丘安住于有学地，了知‘我是有学’。”"
+    },
+    {
+      "idx": 214,
+      "pali": "‘‘Katamo ca, bhikkhave, pariyāyo yaṃ pariyāyaṃ āgamma asekho bhikkhu asekhabhūmiyaṃ ṭhito ‘asekhosmī’ti pajānāti? Idha, bhikkhave, asekho bhikkhu pañcindriyāni pajānāti – saddhindriyaṃ, vīriyindriyaṃ, satindriyaṃ, samādhindriyaṃ, paññindriyaṃ – yaṃgatikāni yaṃparamāni yaṃphalāni yaṃpariyosānāni. Kāyena ca phusitvā viharati; paññāya ca ativijjha passati. Ayampi kho, bhikkhave, pariyāyo yaṃ pariyāyaṃ āgamma asekho bhikkhu asekhabhūmiyaṃ ṭhito ‘asekhosmī’ti pajānāti’’.",
+      "zh": "“诸比丘，什么是无学比丘安住于无学地，了知‘我是无学’的法门呢？诸比丘，于此，无学比丘了知五根——信根、精进根、念根、定根、慧根——了知它们的趣向、最胜、果报与究竟。他以身触证而安住，并以慧透彻明见。诸比丘，这也是一种法门，依此法门，无学比丘安住于无学地，了知‘我是无学’。”"
+    },
+    {
+      "idx": 215,
+      "pali": "‘‘Puna caparaṃ, bhikkhave, asekho bhikkhu cha indriyāni pajānāti. ‘Cakkhundriyaṃ, sotindriyaṃ, ghānindriyaṃ, jivhindriyaṃ, kāyindriyaṃ, manindriyaṃ – imāni kho cha indriyāni sabbena sabbaṃ sabbathā sabbaṃ aparisesaṃ nirujjhissanti, aññāni ca cha indriyāni na kuhiñci kismiñci uppajjissantī’ti pajānāti. Ayampi kho, bhikkhave, pariyāyo yaṃ pariyāyaṃ āgamma asekho bhikkhu asekhabhūmiyaṃ ṭhito ‘asekhosmī’ti pajānātī’’ti. Tatiyaṃ.",
+      "zh": "“再者，诸比丘，无学比丘了知六根。他如此了知：‘眼根、耳根、鼻根、舌根、身根、意根——这六根将于一切处、一切方式、完全无余地灭尽，而其他六根不会在任何地方、任何情况下生起。’诸比丘，这也是一种法门，依此法门，无学比丘安住于无学地，了知‘我是无学’。”第三经。"
+    },
+    {
+      "idx": 216,
+      "pali": "4. Padasuttaṃ",
+      "zh": "4. [[padasutta|足迹经]]"
+    },
+    {
+      "idx": 217,
+      "pali": "‘‘Seyyathāpi , bhikkhave, yāni kānici jaṅgalānaṃ pāṇānaṃ padajātāni sabbāni tāni hatthipade samodhānaṃ gacchanti, hatthipadaṃ tesaṃ aggamakkhāyati, yadidaṃ – mahantattena; evameva kho, bhikkhave, yāni kānici padāni bodhāya saṃvattanti , paññindriyaṃ padaṃ tesaṃ aggamakkhāyati, yadidaṃ – bodhāya. Katamāni ca, bhikkhave, padāni bodhāya saṃvattanti? Saddhindriyaṃ, bhikkhave, padaṃ, taṃ bodhāya saṃvattati; vīriyindriyaṃ padaṃ, taṃ bodhāya saṃvattati; satindriyaṃ padaṃ, taṃ bodhāya saṃvattati; samādhindriyaṃ padaṃ, taṃ bodhāya saṃvattati; paññindriyaṃ padaṃ, taṃ bodhāya saṃvattati. Seyyathāpi, bhikkhave, yāni kānici jaṅgalānaṃ pāṇānaṃ padajātāni sabbāni tāni hatthipade samodhānaṃ gacchanti, hatthipadaṃ tesaṃ aggamakkhāyati, yadidaṃ – mahantattena; evameva kho, bhikkhave, yāni kānici padāni bodhāya saṃvattanti, paññindriyaṃ padaṃ tesaṃ aggamakkhāyati, yadidaṃ – bodhāyā’’ti. Catutthaṃ.",
+      "zh": "“诸比丘，正如一切林野众生的足迹，皆能纳入象的足迹之中，象足以其巨大而被称为最上。同样地，诸比丘，一切导向正觉的法中，慧根法被称为最上，即是为了正觉。诸比丘，哪些是导向正觉的法？即信根法，导向正觉；精进根法，导向正觉；念根法，导向正觉；定根法，导向正觉；慧根法，导向正觉。诸比丘，正如一切林野众生的足迹，皆能纳入象的足迹之中，象足以其巨大而被称为最上；同样地，诸比丘，一切导向正觉的法中，慧根法被称为最上，即是为了正觉。”第四经。",
+      "n": "524"
+    },
+    {
+      "idx": 218,
+      "pali": "5. Sārasuttaṃ",
+      "zh": "5. [[sārasutta|心材经]]"
+    },
+    {
+      "idx": 219,
+      "pali": "‘‘Seyyathāpi, bhikkhave, ye keci sāragandhā, lohitacandanaṃ tesaṃ aggamakkhāyati; evameva kho bhikkhave, ye keci bodhipakkhiyā dhammā , paññindriyaṃ tesaṃ aggamakkhāyati, yadidaṃ – bodhāya. Katame ca, bhikkhave, bodhipakkhiyā dhammā? Saddhindriyaṃ, bhikkhave, bodhipakkhiyo dhammo, taṃ bodhāya saṃvattati. Vīriyindriyaṃ…pe… satindriyaṃ …pe… samādhindriyaṃ…pe… paññindriyaṃ bodhipakkhiyo dhammo, taṃ bodhāya saṃvattati. Seyyathāpi, bhikkhave, ye keci sāragandhā, lohitacandanaṃ tesaṃ aggamakkhāyati; evameva kho, bhikkhave, ye keci bodhipakkhiyā dhammā, paññindriyaṃ tesaṃ aggamakkhāyati, yadidaṃ – bodhāyā’’ti. Pañcamaṃ.",
+      "zh": "“诸比丘，譬如一切心材香中，赤栴檀香被称为最上；同样地，诸比丘，一切菩提分法中，慧根被称为最上，即是导向正觉。诸比丘，什么是菩提分法？诸比丘，信根是菩提分法，导向正觉；精进根是菩提分法，导向正觉；念根是菩提分法，导向正觉；定根是菩提分法，导向正觉；慧根是菩提分法，导向正觉。诸比丘，正如一切心材香中，赤栴檀香为最上；一切菩提分法中，慧根正是最上，导向正觉。” 第五经。",
+      "n": "525"
+    },
+    {
+      "idx": 220,
+      "pali": "6. Patiṭṭhitasuttaṃ",
+      "zh": "6. [[patiṭṭhitasutta|已确立经]]"
+    },
+    {
+      "idx": 221,
+      "pali": "‘‘Ekadhamme patiṭṭhitassa, bhikkhave, bhikkhuno pañcindriyāni bhāvitāni honti subhāvitāni. Katamasmiṃ ekadhamme? Appamāde. Katamo ca bhikkhave, appamādo? Idha, bhikkhave, bhikkhu cittaṃ rakkhati āsavesu ca sāsavesu ca dhammesu. Tassa cittaṃ rakkhato āsavesu ca sāsavesu ca dhammesu saddhindriyampi bhāvanāpāripūriṃ gacchati. Vīriyindriyampi bhāvanāpāripūriṃ gacchati. Satindriyampi bhāvanāpāripūriṃ gacchati. Samādhindriyampi bhāvanāpāripūriṃ gacchati. Paññindriyampi bhāvanāpāripūriṃ gacchati. Evampi kho, bhikkhave, ekadhamme patiṭṭhitassa bhikkhuno pañcindriyāni bhāvitāni honti subhāvitānī’’ti. Chaṭṭhaṃ.",
+      "zh": "“诸比丘，若比丘安住于一种法，便能善修习、善圆满五根。安住于哪一种法呢？不放逸。诸比丘，什么是不放逸？在此，比丘于有漏及有漏法中守护其心。当他如此守护心时，信根便得圆满修习，精进根得圆满修习，念根得圆满修习，定根得圆满修习，慧根得圆满修习。诸比丘，正是如此，安住于不放逸这一法的比丘，五根即得善修习、善圆满。” 第六经。",
+      "n": "526"
+    },
+    {
+      "idx": 222,
+      "pali": "7. Sahampatibrahmasuttaṃ",
+      "zh": "7. [[sahampatibrahmasutta|娑婆主梵天经]]"
+    },
+    {
+      "idx": 223,
+      "pali": "Ekaṃ samayaṃ bhagavā uruvelāyaṃ viharati najjā nerañjarāya tīre ajapālanigrodhe paṭhamābhisambuddho. Atha kho bhagavato rahogatassa paṭisallīnassa evaṃ cetaso parivitakko udapādi – ‘‘pañcindriyāni bhāvitāni bahulīkatāni amatogadhāni honti amataparāyaṇāni amatapariyosānāni. Katamāni pañca? Saddhindriyaṃ bhāvitaṃ bahulīkataṃ amatogadhaṃ hoti amataparāyaṇaṃ amatapariyosānaṃ. Vīriyindriyaṃ…pe… satindriyaṃ…pe… samādhindriyaṃ…pe… paññindriyaṃ bhāvitaṃ bahulīkataṃ amatogadhaṃ hoti amataparāyaṇaṃ amatapariyosānaṃ. Imāni pañcindriyāni bhāvitāni bahulīkatāni amatogadhāni honti amataparāyaṇāni amatapariyosānānī’’ti.",
+      "zh": "一时，世尊住在[[uruvelā|优楼频螺]]的尼连禅河边，牧羊人的榕树下，初成正觉。那时，世尊独处静修，心中生起这样的思惟：“这五根，若修习、多修习，便能融入不死，导向不死，以不死为终点。哪五种呢？信根，修习、多修习，能融入不死，导向不死，以不死为终点。精进根……念根……定根……慧根，修习、多修习，能融入不死，导向不死，以不死为终点。这五根，修习、多修习，能融入不死，导向不死，以不死为终点。”",
+      "n": "527"
+    },
+    {
+      "idx": 224,
+      "pali": "Atha kho brahmā sahampati bhagavato cetasā cetoparivitakkamaññāya – seyyathāpi nāma balavā puriso samiñjitaṃ vā bāhaṃ pasāreyya, pasāritaṃ vā bāhaṃ samiñjeyya; evameva brahmaloke antarahito bhagavato purato pāturahosi. Atha kho brahmā sahampati ekaṃsaṃ uttarāsaṅgaṃ karitvā yena bhagavā tenañjaliṃ paṇāmetvā bhagavantaṃ etadavoca – ‘‘evametaṃ, bhagavā, evametaṃ sugata! Pañcindriyāni bhāvitāni bahulīkatāni amatogadhāni honti amataparāyaṇāni amatapariyosānāni. Katamāni pañca? Saddhindriyaṃ bhāvitaṃ bahulīkataṃ amatogadhaṃ hoti amataparāyaṇaṃ amatapariyosānaṃ…pe… paññindriyaṃ bhāvitaṃ bahulīkataṃ amatogadhaṃ hoti amataparāyaṇaṃ amatapariyosānaṃ. Imāni pañcindriyāni bhāvitāni bahulīkatāni amatogadhāni honti amataparāyaṇāni amatapariyosānāni’’.",
+      "zh": "那时，[[sahampati|梵天娑婆主]]以心感知世尊的心念，犹如力士将弯曲的手臂伸直，或将伸直的手臂弯曲，瞬间从梵天世界消失，现于世尊面前。这时，[[sahampati|梵天娑婆主]]将上衣搭于一肩，向世尊合掌礼敬，对世尊说：“正是这样，世尊！正是这样，善逝！这五根，修习、多修习，能融入不死，导向不死，以不死为终点。哪五种呢？信根，修习、多修习，能融入不死，导向不死，以不死为终点……慧根，修习、多修习，能融入不死，导向不死，以不死为终点。这五根，修习、多修习，能融入不死，导向不死，以不死为终点。”"
+    },
+    {
+      "idx": 225,
+      "pali": "‘‘Bhūtapubbāhaṃ , bhante, kassape sammāsambuddhe brahmacariyaṃ acariṃ. Tatrapi maṃ evaṃ jānanti – ‘sahako bhikkhu, sahako bhikkhū’ti. So khvāhaṃ, bhante, imesaṃyeva pañcannaṃ indriyānaṃ bhāvitattā bahulīkatattā kāmesu kāmacchandaṃ virājetvā kāyassa bhedā paraṃ maraṇā sugatiṃ brahmalokaṃ upapanno. Tatrapi maṃ evaṃ jānanti – ‘brahmā sahampati, brahmā sahampatī’’’ti. ‘‘Evametaṃ, bhagavā, evametaṃ sugata! Ahametaṃ jānāmi, ahametaṃ passāmi yathā imāni pañcindriyāni bhāvitāni bahulīkatāni amatogadhāni honti amataparāyaṇāni amatapariyosānānī’’ti. Sattamaṃ.",
+      "zh": "“往昔，我在迦叶正自觉者座下修习梵行。于彼处，他们亦如此知我：‘沙哈咖比丘，沙哈咖比丘。’尊者，我正是因修习、多修习此五根，对诸欲远离欲贪，身坏命终后往生善趣梵天界。在那里，他们也如此知我：‘[[sahampati|梵天娑婆主]]，[[sahampati|梵天娑婆主]]。’”“世尊！确实如此，善逝！确实如此。我知此、见此：此五根若修习、多修习，则趣向不死、以不死为彼岸、以不死为终极。”第七经。"
+    },
+    {
+      "idx": 226,
+      "pali": "8. Sūkarakhatasuttaṃ",
+      "zh": "8. [[sūkarakhatasutta|野猪洞经]]"
+    },
+    {
+      "idx": 227,
+      "pali": "Ekaṃ samayaṃ bhagavā rājagahe viharati gijjhakūṭe pabbate sūkarakhatāyaṃ. Tatra kho bhagavā āyasmantaṃ sāriputtaṃ āmantesi – ‘‘kiṃ nu kho, sāriputta, atthavasaṃ sampassamāno khīṇāsavo bhikkhu tathāgate vā tathāgatasāsane vā paramanipaccakāraṃ pavattamāno pavattatī’’ti ? ‘‘Anuttarañhi , bhante, yogakkhemaṃ sampassamāno khīṇāsavo bhikkhu tathāgate vā tathāgatasāsane vā paramanipaccakāraṃ pavattamāno pavattatī’’ti. ‘‘Sādhu sādhu, sāriputta! Anuttarañhi, sāriputta, yogakkhemaṃ sampassamāno khīṇāsavo bhikkhu tathāgate vā tathāgatasāsane vā paramanipaccakāraṃ pavattamāno pavattatī’’ti.",
+      "zh": "一时，世尊住于[[rājagaha|王舍城]]灵鹫山之野猪洞。那时，世尊告具寿[[Sāriputta|舍利弗]]：“[[Sāriputta|舍利弗]]，漏尽比丘见到何等义利，而于如来或如来之教法展现最高的恭敬呢？”“尊者，漏尽比丘见到无上离系安稳，故于如来或如来之教法展现最高的恭敬。”“善哉，善哉，[[Sāriputta|舍利弗]]！[[Sāriputta|舍利弗]]，漏尽比丘正是见到无上离系安稳，故于如来或如来之教法展现最高的恭敬。”",
+      "n": "528"
+    },
+    {
+      "idx": 228,
+      "pali": "‘‘Katamo ca, sāriputta, anuttaro yogakkhemo yaṃ sampassamāno khīṇāsavo bhikkhu tathāgate vā tathāgatasāsane vā paramanipaccakāraṃ pavattamāno pavattatī’’ti? ‘‘Idha, bhante, khīṇāsavo bhikkhu saddhindriyaṃ bhāveti upasamagāmiṃ sambodhagāmiṃ, vīriyindriyaṃ bhāveti…pe… satindriyaṃ bhāveti…pe… samādhindriyaṃ bhāveti…pe… paññindriyaṃ bhāveti upasamagāmiṃ sambodhagāmiṃ. Ayaṃ kho, bhante, anuttaro yogakkhemo yaṃ sampassamāno khīṇāsavo bhikkhu tathāgate vā tathāgatasāsane vā paramanipaccakāraṃ pavattamāno pavattatī’’ti. ‘‘Sādhu sādhu, sāriputta! Eso hi, sāriputta, anuttaro yogakkhemo yaṃ sampassamāno khīṇāsavo bhikkhu tathāgate vā tathāgatasāsane vā paramanipaccakāraṃ pavattamāno pavattatī’’ti.",
+      "zh": "“[[Sāriputta|舍利弗]]，漏尽比丘是见到了怎样的无上离系安稳，而对如来或如来的教法生起最高尊重呢？” “尊者，在此，漏尽比丘修习信根，导向寂止、导向正觉；修习精进根……乃至修习慧根，导向寂止、导向正觉。尊者，这便是漏尽比丘所见的无上离系安稳，由是而于如来或如来的教法生起最高尊重。” “善哉，善哉，[[Sāriputta|舍利弗]]！[[Sāriputta|舍利弗]]，正是此无上离系安稳，漏尽比丘见到后，即于如来或如来的教法生起最高尊重。”"
+    },
+    {
+      "idx": 229,
+      "pali": "‘‘Katamo ca, sāriputta, paramanipaccakāro yaṃ khīṇāsavo bhikkhu tathāgate vā tathāgatasāsane vā paramanipaccakāraṃ pavattamāno pavattatī’’ti? ‘‘Idha, bhante, khīṇāsavo bhikkhu satthari sagāravo viharati sappatisso , dhamme sagāravo viharati sappatisso, saṅghe sagāravo viharati sappatisso, sikkhāya sagāravo viharati sappatisso, samādhismiṃ sagāravo viharati sappatisso. Ayaṃ kho, bhante, paramanipaccakāro yaṃ khīṇāsavo bhikkhu tathāgate vā tathāgatasāsane vā paramanipaccakāraṃ pavattamāno pavattatī’’ti. ‘‘Sādhu sādhu, sāriputta! Eso hi , sāriputta, paramanipaccakāro yaṃ khīṇāsavo bhikkhu tathāgate vā tathāgatasāsane vā paramanipaccakāraṃ pavattamāno pavattatī’’ti. Aṭṭhamaṃ.",
+      "zh": "“[[Sāriputta|舍利弗]]，什么是漏尽比丘对如来或如来的教法展现的最高尊重呢？” “尊者，在此，漏尽比丘安住于对导师的恭敬与遵从，安住于对法的恭敬与遵从，安住于对僧团的恭敬与遵从，安住于对学的恭敬与遵从，安住于对定的恭敬与遵从。尊者，这便是漏尽比丘对如来或如来教法所展现的最高尊重。” “善哉，善哉，[[Sāriputta|舍利弗]]！[[Sāriputta|舍利弗]]，正是此最高尊重，漏尽比丘于如来或如来教法中展现出来。” 第八经。"
+    },
+    {
+      "idx": 230,
+      "pali": "9. Paṭhamauppādasuttaṃ",
+      "zh": "9. [[paṭhamauppādasutta|第一生起经]]"
+    },
+    {
+      "idx": 231,
+      "pali": "Sāvatthinidānaṃ. ‘‘Pañcimāni, bhikkhave, indriyāni bhāvitāni bahulīkatāni anuppannāni uppajjanti, nāññatra tathāgatassa pātubhāvā arahato sammāsambuddhassa. Katamāni pañca? Saddhindriyaṃ, vīriyindriyaṃ, satindriyaṃ, samādhindriyaṃ, paññindriyaṃ – imāni kho, bhikkhave, pañcindriyāni bhāvitāni bahulīkatāni anuppannāni uppajjanti, nāññatra tathāgatassa pātubhāvā arahato sammāsambuddhassā’’ti. Navamaṃ.",
+      "zh": "[[sāvatthī|舍卫城]]因缘。\n“诸比丘，这五根，若已修习、已多修习，则未生者便会生起；而此事唯有在如来、阿拉汉、正自觉者出现于世时，方有可能。哪五种呢？信根、精进根、念根、定根、慧根。诸比丘，这五根，若已修习、已多修习，则未生者便会生起；而此事唯有在如来、阿拉汉、正自觉者出现于世时，方有可能。”第九经",
+      "n": "529"
+    },
+    {
+      "idx": 232,
+      "pali": "10. Dutiyauppādasuttaṃ",
+      "zh": "10. [[dutiyauppādasutta|第二生起经]]"
+    },
+    {
+      "idx": 233,
+      "pali": "‘‘Pañcimāni , bhikkhave, indriyāni bhāvitāni bahulīkatāni anuppannāni uppajjanti, nāññatra sugatavinayā. Katamāni pañca? Saddhindriyaṃ, vīriyindriyaṃ, satindriyaṃ, samādhindriyaṃ, paññindriyaṃ – imāni kho, bhikkhave, pañcindriyāni bhāvitāni bahulīkatāni anuppannāni uppajjanti, nāññatra sugatavinayā’’ti. Dasamaṃ.",
+      "zh": "“诸比丘，这五根，若已修习、已多修习，则未生者便会生起；而此事唯有在善逝之律中，方有可能。哪五种呢？信根、精进根、念根、定根、慧根。诸比丘，这五根，若已修习、已多修习，则未生者便会生起；而此事唯有在善逝之律中，方有可能。”第十经",
+      "n": "530"
+    },
+    {
+      "idx": 234,
+      "pali": "Sūkarakhatavaggo chaṭṭho.",
+      "zh": "野猪窟品第六"
+    },
+    {
+      "idx": 235,
+      "pali": "Tassuddānaṃ –",
+      "zh": "其摄颂："
+    },
+    {
+      "idx": 236,
+      "pali": "Sālaṃ mallikaṃ sekho ca, padaṃ sāraṃ patiṭṭhitaṃ;",
+      "zh": "沙喇、末利、有学，足、心材、已确立；",
+      "type": "verse"
+    },
+    {
+      "idx": 237,
+      "pali": "Brahmasūkarakhatāyo, uppādā apare duveti.",
+      "zh": "梵天、野猪、掘发者，以及其余二者生起。",
+      "type": "verse"
+    },
+    {
+      "idx": 238,
+      "pali": "7. Bodhipakkhiyavaggo",
+      "zh": "7. 菩提分品"
+    },
+    {
+      "idx": 239,
+      "pali": "1. Saṃyojanasuttaṃ",
+      "zh": "1. [[saṃyojanasutta|结经]]"
+    },
+    {
+      "idx": 240,
+      "pali": "Sāvatthinidānaṃ . ‘‘Pañcimāni, bhikkhave, indriyāni bhāvitāni bahulīkatāni saṃyojanappahānāya saṃvattanti. Katamāni pañca? Saddhindriyaṃ…pe… paññindriyaṃ – imāni kho, bhikkhave, pañcindriyāni bhāvitāni bahulīkatāni saṃyojanappahānāya saṃvattantī’’ti. Paṭhamaṃ.",
+      "zh": "[[sāvatthī|舍卫城]]因缘。“诸比丘，有此五根，修习、多修习时，可引向结缚的断除。哪五种呢？信根……（中略）……慧根。诸比丘，正是这五根，修习、多修习时，可引向结缚的断除。”第一经。",
+      "n": "531"
+    },
+    {
+      "idx": 241,
+      "pali": "2. Anusayasuttaṃ",
+      "zh": "2. [[anusayasutta|随眠经]]"
+    },
+    {
+      "idx": 242,
+      "pali": "‘‘Pañcimāni , bhikkhave, indriyāni bhāvitāni bahulīkatāni anusayasamugghātāya saṃvattanti. Katamāni pañca? Saddhindriyaṃ…pe… paññindriyaṃ – imāni kho , bhikkhave, pañcindriyāni bhāvitāni bahulīkatāni anusayasamugghātāya saṃvattantī’’ti. Dutiyaṃ.",
+      "zh": "“诸比丘，当这五根修习、多修习时，可引向随眠的彻底断除。哪五种呢？信根……（中略）……慧根。诸比丘，当这五根修习、多修习时，可引向随眠的彻底断除。”第二经。",
+      "n": "532"
+    },
+    {
+      "idx": 243,
+      "pali": "3. Pariññāsuttaṃ",
+      "zh": "3. [[pariññāsutta|遍知经]]"
+    },
+    {
+      "idx": 244,
+      "pali": "‘‘Pañcimāni, bhikkhave, indriyāni bhāvitāni bahulīkatāni addhānapariññāya saṃvattanti. Katamāni pañca? Saddhindriyaṃ…pe… paññindriyaṃ – imāni kho, bhikkhave, pañcindriyāni bhāvitāni bahulīkatāni addhānapariññāya saṃvattantī’’ti. Tatiyaṃ.",
+      "zh": "“诸比丘，修习、多修习此五根，能导向对轮回流转的遍知。哪五种呢？信根……慧根。诸比丘，此五根若修习、多修习，便能导向对轮回流转的遍知。 ”第三经。",
+      "n": "533"
+    },
+    {
+      "idx": 245,
+      "pali": "4. Āsavakkhayasuttaṃ",
+      "zh": "4. [[āsavakkhayasutta|漏尽经]]"
+    },
+    {
+      "idx": 246,
+      "pali": "‘‘Pañcimāni, bhikkhave, indriyāni bhāvitāni bahulīkatāni āsavānaṃ khayāya saṃvattanti. Katamāni pañca? Saddhindriyaṃ…pe… paññindriyaṃ – imāni kho, bhikkhave, pañcindriyāni bhāvitāni bahulīkatāni āsavānaṃ khayāya saṃvattantī’’ti.",
+      "zh": "“比丘们，这五根修习、多修习，能导向诸漏的灭尽。哪五种？信根……（中略）……慧根。比丘们，这五根修习、多修习，能导向诸漏的灭尽。”",
+      "n": "534"
+    },
+    {
+      "idx": 247,
+      "pali": "‘‘Pañcimāni, bhikkhave, indriyāni bhāvitāni bahulīkatāni saṃyojanappahānāya saṃvattanti, anusayasamugghātāya saṃvattanti, addhānapariññāya saṃvattanti, āsavānaṃ khayāya saṃvattanti. Katamāni pañca? Saddhindriyaṃ…pe… paññindriyaṃ – imāni kho, bhikkhave, pañcindriyāni bhāvitāni bahulīkatāni saṃyojanappahānāya saṃvattanti, anusayasamugghātāya saṃvattanti, addhānapariññāya saṃvattanti, āsavānaṃ khayāya saṃvattantī’’ti. Catutthaṃ.",
+      "zh": "“比丘们，这五根修习、多修习，能导向结的舍断，能导向随眠的根除，能导向旅程的遍知，能导向诸漏的灭尽。哪五种？信根……（中略）……慧根。比丘们，这五根修习、多修习，能导向结的舍断，能导向随眠的根除，能导向旅程的遍知，能导向诸漏的灭尽。 ”第四经。"
+    },
+    {
+      "idx": 248,
+      "pali": "5. Paṭhamaphalasuttaṃ",
+      "zh": "5. [[paṭhamaphalasutta|第一果经]]"
+    },
+    {
+      "idx": 249,
+      "pali": "‘‘Pañcimāni, bhikkhave, indriyāni. Katamāni pañca? Saddhindriyaṃ…pe… paññindriyaṃ – imāni kho, bhikkhave, pañcindriyāni. Imesaṃ kho, bhikkhave, pañcannaṃ indriyānaṃ bhāvitattā bahulīkatattā dvinnaṃ phalānaṃ aññataraṃ phalaṃ pāṭikaṅkhaṃ – diṭṭheva dhamme aññā, sati vā upādisese anāgāmitā’’ti. Pañcamaṃ.",
+      "zh": "“诸比丘！有此五根。哪五种？即信根……（中略）……慧根。诸比丘！这就是五根。诸比丘！由于这五根已修习、多修习，可预期两种果中的一种：于现法证得究竟智，或尚有余依时，证不来果。”第五经。",
+      "n": "535"
+    },
+    {
+      "idx": 250,
+      "pali": "6. Dutiyaphalasuttaṃ",
+      "zh": "6. [[dutiyaphalasutta|第二果经]]"
+    },
+    {
+      "idx": 251,
+      "pali": "‘‘Pañcimāni , bhikkhave, indriyāni. Katamāni pañca? Saddhindriyaṃ…pe… paññindriyaṃ – imāni kho, bhikkhave, pañcindriyāni. Imesaṃ kho, bhikkhave, pañcannaṃ indriyānaṃ bhāvitattā bahulīkatattā satta phalā sattānisaṃsā pāṭikaṅkhā. Katame satta phalā sattānisaṃsā? Diṭṭheva dhamme paṭikacca aññaṃ ārādheti, no ce diṭṭheva dhamme paṭikacca aññaṃ ārādheti, atha maraṇakāle aññaṃ ārādheti. No ce diṭṭheva dhamme aññaṃ ārādheti, no ce maraṇakāle aññaṃ ārādheti, atha pañcannaṃ orambhāgiyānaṃ saṃyojanānaṃ parikkhayā antarāparinibbāyī hoti, upahaccaparinibbāyī hoti, asaṅkhāraparinibbāyī hoti, sasaṅkhāraparinibbāyī hoti, uddhaṃsoto hoti akaniṭṭhagāmī. Imesaṃ kho, bhikkhave, pañcannaṃ indriyānaṃ bhāvitattā bahulīkatattā ime satta phalā sattānisaṃsā pāṭikaṅkhā’’ti. Chaṭṭhaṃ.",
+      "zh": "“诸比丘！有此五根。哪五种？即信根……（中略）……慧根。诸比丘！这就是五根。诸比丘！由于这五根已修习、多修习，可预期七种果、七种利益。哪七种果、七种利益？于现世提前证得究竟智；若未于现世提前证得究竟智，则于死时证得究竟智；若未于现世证得究竟智，亦未于死时证得究竟智，则因五下分结灭尽，成为中般涅槃者、生般涅槃者、无行般涅槃者、有行般涅槃者、上流至色究竟天者。诸比丘！由于这五根已修习、多修习，可预期这七种果、七种利益。”第六经。",
+      "n": "536"
+    },
+    {
+      "idx": 252,
+      "pali": "7. Paṭhamarukkhasuttaṃ",
+      "zh": "7. [[paṭhamarukkhasutta|第一树经]]"
+    },
+    {
+      "idx": 253,
+      "pali": "‘‘Seyyathāpi bhikkhave, ye keci jambudīpakā rukkhā, jambū tesaṃ aggamakkhāyati; evameva kho bhikkhave, ye keci bodhipakkhiyā dhammā, paññindriyaṃ tesaṃ aggamakkhāyati, yadidaṃ – bodhāya. Katame ca, bhikkhave, bodhipakkhiyā dhammā? Saddhindriyaṃ, bhikkhave, bodhipakkhiyo dhammo, taṃ bodhāya saṃvattati. Vīriyindriyaṃ…pe… satindriyaṃ…pe… samādhindriyaṃ…pe… paññindriyaṃ bodhipakkhiyo dhammo, taṃ bodhāya saṃvattati. Seyyathāpi, bhikkhave, ye keci jambudīpakā rukkhā, jambū tesaṃ aggamakkhāyati; evameva kho, bhikkhave, ye keci bodhipakkhiyā dhammā, paññindriyaṃ tesaṃ aggamakkhāyati, yadidaṃ – bodhāyā’’ti. Sattamaṃ.",
+      "zh": "“比丘们，譬如在赡部洲洲的一切树木中，阎浮树被称为最上者；同样地，比丘们，在种种菩提分法中，慧根被称为最上者——这便是为了觉悟。比丘们，什么是菩提分法？比丘们，信根是菩提分法，能导向觉悟；精进根……念根……定根……慧根是菩提分法，能导向觉悟。比丘们，正如在赡部洲洲的一切树木中，阎浮树被称为最上者；同样地，比丘们，在种种菩提分法中，慧根被称为最上者——这便是为了觉悟。” 第七经。",
+      "n": "537"
+    },
+    {
+      "idx": 254,
+      "pali": "8. Dutiyarukkhasuttaṃ",
+      "zh": "8. [[dutiyarukkhasutta|第二树经]]"
+    },
+    {
+      "idx": 255,
+      "pali": "‘‘Seyyathāpi , bhikkhave, ye keci devānaṃ tāvatiṃsānaṃ rukkhā, pārichattako tesaṃ aggamakkhāyati; evameva kho, bhikkhave, ye keci bodhipakkhiyā dhammā, paññindriyaṃ tesaṃ aggamakkhāyati, yadidaṃ – bodhāya. Katame ca, bhikkhave, bodhipakkhiyā dhammā? Saddhindriyaṃ , bhikkhave, bodhipakkhiyo dhammo, taṃ bodhāya saṃvattati. Vīriyindriyaṃ…pe… satindriyaṃ…pe… samādhindriyaṃ…pe… paññindriyaṃ bodhipakkhiyo dhammo, taṃ bodhāya saṃvattati. Seyyathāpi, bhikkhave , ye keci devānaṃ tāvatiṃsānaṃ rukkhā, pārichattako tesaṃ aggamakkhāyati; evameva kho, bhikkhave, ye keci bodhipakkhiyā dhammā, paññindriyaṃ tesaṃ aggamakkhāyati, yadidaṃ – bodhāyā’’ti. Aṭṭhamaṃ.",
+      "zh": "“诸比丘，譬如在三十三天诸天神的一切树木中，刺桐树被称作其中最为殊胜者；同样地，诸比丘，在那些菩提分法中，慧根被称作其中最为殊胜者，亦即是为了觉悟。那么，诸比丘，哪些是菩提分法呢？诸比丘，信根是菩提分法，能导向觉悟；精进根……念根……定根……慧根是菩提分法，能导向觉悟。诸比丘，譬如在三十三天诸天神的一切树木中，刺桐树被称作其中最为殊胜者；同样地，诸比丘，在那些菩提分法中，慧根被称作其中最为殊胜者，亦即是为了觉悟。”第八经。",
+      "n": "538"
+    },
+    {
+      "idx": 256,
+      "pali": "9. Tatiyarukkhasuttaṃ",
+      "zh": "9. [[tatiyarukkhasutta|第三树经]]"
+    },
+    {
+      "idx": 257,
+      "pali": "‘‘Seyyathāpi, bhikkhave, ye keci asurānaṃ rukkhā, cittapāṭali tesaṃ aggamakkhāyati; evameva kho, bhikkhave, ye keci bodhipakkhiyā dhammā, paññindriyaṃ tesaṃ aggamakkhāyati, yadidaṃ – bodhāya. Katame ca, bhikkhave, bodhipakkhiyā dhammā? Saddhindriyaṃ, bhikkhave, bodhipakkhiyo dhammo, taṃ bodhāya saṃvattati…pe… paññindriyaṃ bodhipakkhiyo dhammo, taṃ bodhāya saṃvattati. Seyyathāpi bhikkhave, ye keci asurānaṃ rukkhā, cittapāṭali tesaṃ aggamakkhāyati; evameva kho, bhikkhave, ye keci bodhipakkhiyā dhammā, paññindriyaṃ tesaṃ aggamakkhāyati, yadidaṃ – bodhāyā’’ti. Navamaṃ.",
+      "zh": "“诸比丘，譬如在阿修罗的一切树木中，花斑刺桐被说为最胜；同样地，诸比丘，在一切菩提分法中，慧根被说为最胜，即是为了觉悟。那么，诸比丘，哪些是菩提分法呢？诸比丘，信根是菩提分法，能导向觉悟……慧根是菩提分法，能导向觉悟。诸比丘，譬如在阿修罗的一切树木中，花斑刺桐被说为最胜；同样地，诸比丘，在一切菩提分法中，慧根被说为最胜，即是为了觉悟。” 第九经。",
+      "n": "539"
+    },
+    {
+      "idx": 258,
+      "pali": "10. Catuttharukkhasuttaṃ",
+      "zh": "10. [[catuttharukkhasutta|第四树经]]"
+    },
+    {
+      "idx": 259,
+      "pali": "‘‘Seyyathāpi, bhikkhave, ye keci supaṇṇānaṃ rukkhā, kūṭasimbalī tesaṃ aggamakkhāyati; evameva kho, bhikkhave, ye keci bodhipakkhiyā dhammā, paññindriyaṃ tesaṃ aggamakkhāyati, yadidaṃ – bodhāya. Katame ca, bhikkhave, bodhipakkhiyā dhammā? Saddhindriyaṃ, bhikkhave, bodhipakkhiyo dhammo, taṃ bodhāya saṃvattati…pe… paññindriyaṃ bodhipakkhiyo dhammo, taṃ bodhāya saṃvattati. Seyyathāpi, bhikkhave, ye keci supaṇṇānaṃ rukkhā, kūṭasimbalī tesaṃ aggamakkhāyati; evameva kho, bhikkhave, ye keci bodhipakkhiyā dhammā, paññindriyaṃ tesaṃ aggamakkhāyati, yadidaṃ – bodhāyā’’ti. Dasamaṃ.",
+      "zh": "“诸比丘，正如所有金翅鸟栖居的树木中，木棉树被称为其中之最上者；同样地，诸比丘，在一切觉支分法中，慧根被称为最为上，亦即导向觉悟。诸比丘，什么是觉支分法？诸比丘，信根是觉支分法，它导向觉悟……慧根是觉支分法，它导向觉悟。诸比丘，正如所有金翅鸟栖居的树木中，木棉树被称为其中之最上者；同样地，诸比丘，在一切觉支分法中，慧根被称为最为上，亦即导向觉悟。” 第十经。",
+      "n": "540"
+    },
+    {
+      "idx": 260,
+      "pali": "Bodhipakkhiyavaggo sattamo.",
+      "zh": "菩提分品第七"
+    },
+    {
+      "idx": 261,
+      "pali": "Tassuddānaṃ –",
+      "zh": "其摄颂："
+    },
+    {
+      "idx": 262,
+      "pali": "Saṃyojanā anusayā, pariññā āsavakkhayā;",
+      "zh": "结、随眠、遍知、漏尽；",
+      "type": "verse"
+    },
+    {
+      "idx": 263,
+      "pali": "Dve phalā caturo rukkhā, vaggo tena pavuccatīti.",
+      "zh": "两果、四树，是故名为此品。",
+      "type": "verse"
+    },
+    {
+      "idx": 264,
+      "pali": "8. Gaṅgāpeyyālavaggo",
+      "zh": "8. 恒河略说品"
+    },
+    {
+      "idx": 265,
+      "pali": "1-12. Pācīnādisuttadvādasakaṃ",
+      "zh": "1-12. 东方等十二经"
+    },
+    {
+      "idx": 266,
+      "pali": "‘‘Seyyathāpi , bhikkhave, gaṅgā nadī pācīnaninnā pācīnapoṇā pācīnapabbhārā; evameva kho, bhikkhave, bhikkhu pañcindriyāni bhāvento pañcindriyāni bahulīkaronto nibbānaninno hoti nibbānapoṇo nibbānapabbhāro. Kathañca, bhikkhave, bhikkhu pañcindriyāni bhāvento pañcindriyāni bahulīkaronto nibbānaninno hoti nibbānapoṇo nibbānapabbhāro? Idha, bhikkhave, bhikkhu saddhindriyaṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ, vīriyindriyaṃ…pe… satindriyaṃ… samādhindriyaṃ… paññindriyaṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ. Evaṃ kho, bhikkhave, bhikkhu pañcindriyāni bhāvento pañcindriyāni bahulīkaronto nibbānaninno hoti nibbānapoṇo nibbānapabbhāro’’ti. Dvādasamaṃ.",
+      "zh": "“诸比丘，譬如恒河，流向东方、倾向东方、趋向东方。同样地，诸比丘，比丘修习五根、多修五根，便流向涅槃、倾向涅槃、趋向涅槃。那么，诸比丘，比丘如何修习五根、多修五根，便流向涅槃、倾向涅槃、趋向涅槃呢？诸比丘，在此，比丘修习依止远离、依止离贪、依止灭尽、导向弃舍的信根……精进根……念根……定根……修习依止远离、依止离贪、依止灭尽、导向弃舍的慧根。诸比丘，比丘正是这样修习五根、多修五根，便流向涅槃、倾向涅槃、趋向涅槃。”第十二经。",
+      "n": "541-552"
+    },
+    {
+      "idx": 267,
+      "pali": "Gaṅgāpeyyālavaggo aṭṭhamo.",
+      "zh": "第八品 恒河略说"
+    },
+    {
+      "idx": 268,
+      "pali": "Tassuddānaṃ –",
+      "zh": "其摄颂："
+    },
+    {
+      "idx": 269,
+      "pali": "Cha pācīnato ninnā, cha ninnā ca samuddato;",
+      "zh": "六种倾向东方，六种倾向大海；",
+      "type": "verse"
+    },
+    {
+      "idx": 270,
+      "pali": "Dvete cha dvādasa honti, vaggo tena pavuccatīti.",
+      "zh": "此二六合为十二，此品因此而得名。",
+      "type": "verse"
+    },
+    {
+      "idx": 271,
+      "pali": "Appamādavaggo vitthāretabbo.",
+      "zh": "不放逸品应广说。"
+    },
+    {
+      "idx": 272,
+      "pali": "Tassuddānaṃ –",
+      "zh": "其摄颂："
+    },
+    {
+      "idx": 273,
+      "pali": "Tathāgataṃ padaṃ kūṭaṃ, mūlaṃ sārena vassikaṃ;",
+      "zh": "如来、足迹、屋顶，根、心材、茉莉；",
+      "type": "verse"
+    },
+    {
+      "idx": 274,
+      "pali": "Rājā candimasūriyā, vatthena dasamaṃ padanti.",
+      "zh": "王、月、日，布为第十足迹。",
+      "type": "verse"
+    },
+    {
+      "idx": 275,
+      "pali": "Balakaraṇīyavaggo vitthāretabbo.",
+      "zh": "力作品应广说。"
+    },
+    {
+      "idx": 276,
+      "pali": "Tassuddānaṃ –",
+      "zh": "其摄颂："
+    },
+    {
+      "idx": 277,
+      "pali": "Balaṃ bījañca nāgo ca, rukkho kumbhena sūkiyā;",
+      "zh": "力、种子、龙，树、瓶与针；",
+      "type": "verse"
+    },
+    {
+      "idx": 278,
+      "pali": "Ākāsena ca dve meghā, nāvā āgantukā nadīti.",
+      "zh": "虚空与二云，船、客堂与河。",
+      "type": "verse"
+    },
+    {
+      "idx": 279,
+      "pali": "Esanāvaggo vitthāretabbo.",
+      "zh": "寻求品应详说。"
+    },
+    {
+      "idx": 280,
+      "pali": "Tassuddānaṃ –",
+      "zh": "其摄颂："
+    },
+    {
+      "idx": 281,
+      "pali": "Esanā vidhā āsavo, bhavo ca dukkhatā tisso;",
+      "zh": "寻求、分别、漏、有，及三种苦性。",
+      "type": "verse"
+    },
+    {
+      "idx": 282,
+      "pali": "Khilaṃ malañca nīgho ca, vedanā taṇhā tasinā cāti.",
+      "zh": "荒芜、垢秽与恼害，受、渴爱与渴求。",
+      "type": "verse"
+    },
+    {
+      "idx": 283,
+      "pali": "12. Oghavaggo",
+      "zh": "12. 瀑流品"
+    },
+    {
+      "idx": 284,
+      "pali": "1-10. Oghādisuttadasakaṃ",
+      "zh": "1-10. 暴流等十经"
+    },
+    {
+      "idx": 285,
+      "pali": "‘‘Pañcimāni , bhikkhave, uddhambhāgiyāni saṃyojanāni. Katamāni pañca? Rūparāgo, arūparāgo, māno, uddhaccaṃ, avijjā – imāni kho, bhikkhave, pañcuddhambhāgiyāni saṃyojanāni. Imesaṃ kho, bhikkhave, pañcannaṃ uddhambhāgiyānaṃ saṃyojanānaṃ abhiññāya pariññāya parikkhayāya pahānāya pañcindriyāni bhāvetabbāni. Katamāni pañca? Idha, bhikkhave, bhikkhu saddhindriyaṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ…pe… paññindriyaṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ. Imesaṃ kho, bhikkhave, pañcannaṃ uddhambhāgiyānaṃ saṃyojanānaṃ abhiññāya pariññāya parikkhayāya pahānāya imāni pañcindriyāni bhāvetabbānī’’ti. Dasamaṃ. (Yathā maggasaṃyuttaṃ, tathā vitthāretabbaṃ.)",
+      "zh": "“诸比丘，有这五上分结。哪五种？色贪、无色贪、慢、掉举、无明——诸比丘，这些即是五上分结。诸比丘，为了证知、遍知、灭尽、断除这五上分结，应当修习五根。哪五种？诸比丘，在此，比丘修习信根，依止远离、依止离贪、依止灭尽，趣向舍离；修习精进根……（中略）……修习念根……修习定根……修习慧根，依止远离、依止离贪、依止灭尽，趣向舍离。诸比丘，为了证知、遍知、灭尽、断除这五上分结，应当修习此五根。”",
+      "n": "587-596"
+    },
+    {
+      "idx": 286,
+      "pali": "Oghavaggo dvādasamo.",
+      "zh": "瀑流品第十二"
+    },
+    {
+      "idx": 287,
+      "pali": "Tassuddānaṃ –",
+      "zh": "其摄颂："
+    },
+    {
+      "idx": 288,
+      "pali": "Ogho yogo upādānaṃ, ganthā anusayena ca;",
+      "zh": "暴流、轭、取、结与随眠。",
+      "type": "verse"
+    },
+    {
+      "idx": 289,
+      "pali": "Kāmaguṇā nīvaraṇā, khandhā oruddhambhāgiyāti.",
+      "zh": "欲功德、盖、蕴、下分结与上分结。",
+      "type": "verse"
+    },
+    {
+      "idx": 290,
+      "pali": "13. Gaṅgāpeyyālavaggo",
+      "zh": "13. 恒河略说品"
+    },
+    {
+      "idx": 291,
+      "pali": "1-12. Pācīnādisuttadvādasakaṃ",
+      "zh": "1-12. 东方等十二经"
+    },
+    {
+      "idx": 292,
+      "pali": "‘‘Seyyathāpi , bhikkhave, gaṅgā nadī pācīnaninnā pācīnapoṇā pācīnapabbhārā; evameva kho, bhikkhave, bhikkhu pañcindriyāni bhāvento pañcindriyāni bahulīkaronto nibbānaninno hoti nibbānapoṇo nibbānapabbhāro. Kathañca, bhikkhave, bhikkhu pañcindriyāni bhāvento pañcindriyāni bahulīkaronto nibbānaninno hoti nibbānapoṇo nibbānapabbhāro? Idha, bhikkhave, bhikkhu saddhindriyaṃ bhāveti rāgavinayapariyosānaṃ dosavinayapariyosānaṃ mohavinayapariyosānaṃ…pe… paññindriyaṃ bhāveti rāgavinayapariyosānaṃ dosavinayapariyosānaṃ mohavinayapariyosānaṃ. Evaṃ kho, bhikkhave, bhikkhu pañcindriyāni bhāvento pañcindriyāni bahulīkaronto nibbānaninno hoti nibbānapoṇo nibbānapabbhāro’’ti. Dvādasamaṃ.",
+      "zh": "“诸比丘，譬如恒河向东方低斜、向东方倾注、向东方奔流；同样地，诸比丘，修习并多修习五根的比丘，也向涅槃低斜、向涅槃倾注、向涅槃奔流。诸比丘，比丘怎样修习五根、多修习五根，便会向涅槃低斜、向涅槃倾注、向涅槃奔流呢？诸比丘，在此，比丘修习信根，以离贪为终极，以离嗔为终极，以离痴为终极……修习慧根，以离贪为终极，以离嗔为终极，以离痴为终极。诸比丘，比丘如是修习五根、多修习五根，便向涅槃低斜、向涅槃倾注、向涅槃奔流。”第十二。",
+      "n": "597-608"
+    },
+    {
+      "idx": 293,
+      "pali": "Gaṅgāpeyyālavaggo terasamo.",
+      "zh": "恒河略说品第十三"
+    },
+    {
+      "idx": 294,
+      "pali": "Tassuddānaṃ –",
+      "zh": "其摄颂："
+    },
+    {
+      "idx": 295,
+      "pali": "Cha pācīnato ninnā, cha ninnā ca samuddato;",
+      "zh": "六者向东低斜，六者向海低斜；",
+      "type": "verse"
+    },
+    {
+      "idx": 296,
+      "pali": "Dvete cha dvādasa honti, vaggo tena pavuccatīti.",
+      "zh": "此二六合为十二，此品因此而得名。",
+      "type": "verse"
+    },
+    {
+      "idx": 297,
+      "pali": "Appamādavagga-balakaraṇīyavagga-esanāvaggā vitthāretabbā.",
+      "zh": "应如不放逸品、力所作品、寻求品那样详细展开。"
+    },
+    {
+      "idx": 298,
+      "pali": "17. Oghavaggo",
+      "zh": "17. 瀑流品"
+    },
+    {
+      "idx": 299,
+      "pali": "1-10. Oghādisuttadasakaṃ",
+      "zh": "1-10. 暴流等十经"
+    },
+    {
+      "idx": 300,
+      "pali": "‘‘Pañcimāni , bhikkhave, uddhambhāgiyāni saṃyojanāni. Katamāni pañca? Rūparāgo, arūparāgo, māno, uddhaccaṃ, avijjā – imāni kho, bhikkhave, pañcuddhambhāgiyāni saṃyojanāni. Imesaṃ kho, bhikkhave, pañcannaṃ uddhambhāgiyānaṃ saṃyojanānaṃ abhiññāya pariññāya parikkhayāya pahānāya pañcindriyāni bhāvetabbāni. Katamāni pañca? Idha, bhikkhave, bhikkhu saddhindriyaṃ bhāveti rāgavinayapariyosānaṃ dosavinayapariyosānaṃ mohavinayapariyosānaṃ. Vīriyindriyaṃ …pe… satindriyaṃ… samādhindriyaṃ … paññindriyaṃ bhāveti rāgavinayapariyosānaṃ dosavinayapariyosānaṃ mohavinayapariyosānaṃ. Imesaṃ kho, bhikkhave, pañcannaṃ uddhambhāgiyānaṃ saṃyojanānaṃ abhiññāya pariññāya parikkhayāya pahānāya imāni pañcindriyāni bhāvetabbānī’’ti.",
+      "zh": "“诸比丘，有此五种上分结。哪五种呢？色贪、无色贪、慢、掉举、无明。诸比丘，这便是五种上分结。诸比丘，为证知、遍知、遍尽、断除这五种上分结，应当修习五根。哪五种呢？诸比丘，在此法中，比丘修习信根，以离贪为归宿、以离嗔为归宿、以离痴为归宿；修习精进根……（中略）……念根……定根……修习慧根，以离贪为归宿、以离嗔为归宿、以离痴为归宿。诸比丘，为证知、遍知、遍尽、断除此五种上分结，应当修习这五根。”",
+      "n": "641-650"
+    },
+    {
+      "idx": 301,
+      "pali": "Oghavaggo sattarasamo.",
+      "zh": "瀑流品第十七"
+    },
+    {
+      "idx": 302,
+      "pali": "Tassuddānaṃ –",
+      "zh": "其摄颂："
+    },
+    {
+      "idx": 303,
+      "pali": "Ogho yogo upādānaṃ, ganthā anusayena ca;",
+      "zh": "暴流、轭、取、结，以及随眠，",
+      "type": "verse"
+    },
+    {
+      "idx": 304,
+      "pali": "Kāmaguṇā nīvaraṇā, khandhā oruddhambhāgiyāti.",
+      "zh": "欲功德、盖、蕴、下分结与上分结。",
+      "type": "verse"
+    },
+    {
+      "idx": 305,
+      "pali": "Indriyasaṃyuttaṃ catutthaṃ.",
+      "zh": "根相应第四。"
+    }
+  ]
+}

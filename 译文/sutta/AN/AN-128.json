@@ -1,0 +1,410 @@
+{
+ "uid": 128,
+ "title": "1. 财品",
+ "nik": "AN",
+ "segs": [
+  {
+   "idx": 0,
+   "pali": "Paṭhamapaṇṇāsakaṃ",
+   "zh": "第一组五十经"
+  },
+  {
+   "idx": 1,
+   "pali": "1. Dhanavaggo",
+   "zh": "1. 财品"
+  },
+  {
+   "idx": 2,
+   "pali": "1. Paṭhamapiyasuttaṃ",
+    "zh": "1. [[paṭhamapiyasutta|第一可爱经]]"
+  },
+  {
+   "idx": 3,
+   "pali": "Evaṃ me sutaṃ – ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Tatra kho bhagavā bhikkhū āmantesi – ‘‘bhikkhavo’’ti. ‘‘Bhadante’’ti te bhikkhū bhagavato paccassosuṃ. Bhagavā etadavoca –",
+   "zh": "如是我闻：一时，世尊住在[[sāvatthī|舍卫城]]祇树[[Anāthapiṇḍika|给孤独]]园。在那里，世尊称呼诸比丘：“诸比丘。”那些比丘回答世尊：“尊者。”世尊如是说：",
+   "n": "1"
+  },
+  {
+   "idx": 4,
+   "pali": "‘‘Sattahi, bhikkhave, dhammehi samannāgato bhikkhu sabrahmacārīnaṃ appiyo ca hoti amanāpo ca agaru ca abhāvanīyo ca. Katamehi sattahi? Idha, bhikkhave, bhikkhu lābhakāmo ca hoti, sakkārakāmo ca hoti, anavaññattikāmo ca hoti, ahiriko ca hoti, anottappī ca, pāpiccho ca, micchādiṭṭhi ca. Imehi kho, bhikkhave, sattahi dhammehi samannāgato bhikkhu sabrahmacārīnaṃ appiyo ca hoti amanāpo ca agaru ca abhāvanīyo ca.",
+   "zh": "“诸比丘，具足七法的比丘，于梵行同伴中不受喜爱、不合意、不受尊重、不应被尊崇。哪七种？诸比丘，在此，比丘贪求利养、贪求恭敬、贪求不被轻视，无惭、无愧、有恶欲、持邪见。诸比丘，正是具足这七法的比丘，于梵行同伴中不受喜爱、不合意、不受尊重、不应被尊崇。”"
+  },
+  {
+   "idx": 5,
+   "pali": "‘‘Sattahi, bhikkhave, dhammehi samannāgato bhikkhu sabrahmacārīnaṃ piyo ca hoti, manāpo ca garu ca bhāvanīyo ca. Katamehi sattahi? Idha , bhikkhave, bhikkhu na lābhakāmo ca hoti, na sakkārakāmo ca hoti, na anavaññattikāmo ca hoti, hirimā ca hoti, ottappī ca, appiccho ca, sammādiṭṭhi ca. Imehi kho, bhikkhave, sattahi dhammehi samannāgato bhikkhu sabrahmacārīnaṃ piyo ca hoti manāpo ca garu ca bhāvanīyo cā’’ti. Paṭhamaṃ.",
+   "zh": "“比丘们，具足七法的比丘，为同梵行者所爱、所乐、所重、所敬。是哪七法？即：比丘不贪利养，不贪恭敬，不贪求不被轻慢，有惭，有愧，少欲，正见。比丘们，若比丘具足此七法，则为同梵行者所爱、所乐、所重、所敬。”第一经。"
+  },
+  {
+   "idx": 6,
+   "pali": "2. Dutiyapiyasuttaṃ",
+    "zh": "2. [[dutiyapiyasutta|第二可爱经]]"
+  },
+  {
+   "idx": 7,
+   "pali": "‘‘Sattahi, bhikkhave, dhammehi samannāgato bhikkhu sabrahmacārīnaṃ appiyo ca hoti amanāpo ca agaru ca abhāvanīyo ca. Katamehi sattahi? Idha, bhikkhave, bhikkhu lābhakāmo ca hoti, sakkārakāmo ca hoti, anavaññattikāmo ca hoti, ahiriko ca hoti, anottappī ca, issukī ca, maccharī ca. Imehi kho, bhikkhave, sattahi dhammehi samannāgato bhikkhu sabrahmacārīnaṃ appiyo ca hoti amanāpo ca agaru ca abhāvanīyo ca.",
+   "zh": "“比丘们，具足七法的比丘，为同梵行者所不爱、所不乐、所不重、所不敬。是哪七法？即：比丘贪求利养，贪求恭敬，贪求不被轻慢，无惭，无愧，嫉妒，悭吝。比丘们，若比丘具足此七法，则为同梵行者所不爱、所不乐、所不重、所不敬。”",
+   "n": "2"
+  },
+  {
+   "idx": 8,
+   "pali": "‘‘Sattahi, bhikkhave, dhammehi samannāgato bhikkhu+? Sabrahmacārīnaṃ piyo ca hoti manāpo ca garu ca bhāvanīyo ca. Katamehi sattahi? Idha, bhikkhave, bhikkhu na lābhakāmo ca hoti, na sakkārakāmo ca hoti, na anavaññattikāmo ca hoti, hirimā ca hoti, ottappī ca, anissukī ca, amaccharī ca. Imehi kho, bhikkhave, sattahi dhammehi samannāgato bhikkhu sabrahmacārīnaṃ piyo ca hoti manāpo ca garu ca bhāvanīyo cā’’ti. Dutiyaṃ.",
+   "zh": "“诸比丘，具足七法的比丘，为同梵行者所爱、所悦、所尊重、所崇敬。哪七法呢？诸比丘，在此，比丘不贪求利养，不贪求恭敬，不贪求不被人轻视，有惭，有愧，不嫉妒，不悭吝。诸比丘，比丘具足这七法，便为同梵行者所爱、所悦、所尊重、所崇敬。”第二经。"
+  },
+  {
+   "idx": 9,
+   "pali": "3. Saṃkhittabalasuttaṃ",
+   "zh": "3. [[saṃkhittabalasutta|略说力经]]"
+  },
+  {
+   "idx": 10,
+   "pali": "Evaṃ me sutaṃ – ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme…pe… sattimāni , bhikkhave, balāni. Katamāni satta? Saddhābalaṃ, vīriyabalaṃ, hirībalaṃ , ottappabalaṃ, satibalaṃ, samādhibalaṃ, paññābalaṃ. Imāni kho, bhikkhave, satta balānīti.",
+   "zh": "如是我闻：一时，世尊住在[[sāvatthī|舍卫城]]祇树[[Anāthapiṇḍika|给孤独]]园……“诸比丘，有此七力。哪七力？信力、精进力、惭力、愧力、念力、定力、慧力。诸比丘，这便是七力。",
+   "n": "3"
+  },
+  {
+   "idx": 11,
+   "pali": "‘‘Saddhābalaṃ vīriyañca, hirī ottappiyaṃ balaṃ;",
+   "zh": "“信力与精进力，惭力与愧力；”",
+   "type": "verse"
+  },
+  {
+   "idx": 12,
+   "pali": "Satibalaṃ samādhi ca, paññā ve sattamaṃ balaṃ;",
+   "zh": "念力与定力，慧为第七力；",
+   "type": "verse"
+  },
+  {
+   "idx": 13,
+   "pali": "Etehi balavā bhikkhu, sukhaṃ jīvati paṇḍito;",
+   "zh": "具足这些力的比丘，贤智者安乐而住；",
+   "type": "verse"
+  },
+  {
+   "idx": 14,
+   "pali": "‘‘Yoniso vicine dhammaṃ, paññāyatthaṃ vipassati;",
+   "zh": "“如理审察法，以慧见其义；",
+   "type": "verse"
+  },
+  {
+   "idx": 15,
+   "pali": "Pajjotasseva nibbānaṃ, vimokkho hoti cetaso’’ti. tatiyaṃ;",
+   "zh": "犹如灯灭，心解脱即是涅槃。”第三。",
+   "type": "verse"
+  },
+  {
+   "idx": 16,
+   "pali": "4. Vitthatabalasuttaṃ",
+   "zh": "4. [[vitthatabalasutta|广说力经]]"
+  },
+  {
+   "idx": 17,
+   "pali": "‘‘Sattimāni, bhikkhave, balāni. Katamāni satta? Saddhābala, vīriyabalaṃ, hirībalaṃ, ottappabalaṃ, satibalaṃ, samādhibalaṃ, paññābalaṃ.",
+   "zh": "“诸比丘，有七种力。哪七种呢？信力、精进力、惭力、愧力、念力、定力、慧力。",
+   "n": "4"
+  },
+  {
+   "idx": 18,
+   "pali": "‘‘Katamañca, bhikkhave, saddhābalaṃ? Idha, bhikkhave, ariyasāvako saddho hoti, saddahati tathāgatassa bodhiṃ – ‘itipi so bhagavā arahaṃ sammāsambuddho…pe… satthā devamanussānaṃ buddho bhagavā’ti. Idaṃ vuccati, bhikkhave, saddhābalaṃ.",
+   "zh": "“诸比丘，什么是信力呢？诸比丘，于此，圣弟子有信，他相信如来的觉悟——‘彼世尊是阿拉汉、正自觉者……（中略）……天人师、佛陀、世尊。’诸比丘，这便称为信力。”"
+  },
+  {
+   "idx": 19,
+   "pali": "‘‘Katamañca, bhikkhave, vīriyabalaṃ? Idha, bhikkhave, ariyasāvako āraddhavīriyo viharati akusalānaṃ dhammānaṃ pahānāya, kusalānaṃ dhammānaṃ upasampadāya, thāmavā daḷhaparakkamo anikkhittadhuro kusalesu dhammesu. Idaṃ vuccati, bhikkhave, vīriyabalaṃ.",
+   "zh": "“诸比丘，什么是精进力？在此，诸比丘，圣弟子为断除诸不善法、成就诸善法，精进策励而住，勇猛坚毅，于诸善法不舍其轭。诸比丘，这便称为精进力。"
+  },
+  {
+   "idx": 20,
+   "pali": "‘‘Katamañca, bhikkhave, hirībalaṃ? Idha, bhikkhave, ariyasāvako hirimā hoti, hirīyati kāyaduccaritena vacīduccaritena manoduccaritena, hirīyati pāpakānaṃ akusalānaṃ dhammānaṃ samāpattiyā. Idaṃ vuccati, bhikkhave, hirībalaṃ.",
+   "zh": "“诸比丘，什么是惭力呢？在此，圣弟子有惭，惭于身恶行、语恶行、意恶行，惭于造作各种恶不善法。诸比丘，这便称为惭力。"
+  },
+  {
+   "idx": 21,
+   "pali": "‘‘Katamañca, bhikkhave, ottappabalaṃ? Idha, bhikkhave, ariyasāvako ottappī hoti, ottappati kāyaduccaritena vacīduccaritena manoduccaritena, ottappati pāpakānaṃ akusalānaṃ dhammānaṃ samāpattiyā. Idaṃ vuccati, bhikkhave, ottappabalaṃ.",
+   "zh": "“诸比丘，什么是愧力呢？在此，圣弟子有愧，愧于身恶行、语恶行、意恶行，愧于造作各种恶不善法。诸比丘，这便称为愧力。"
+  },
+  {
+   "idx": 22,
+   "pali": "‘‘Katamañca, bhikkhave, satibalaṃ? Idha, bhikkhave, ariyasāvako satimā hoti paramena satinepakkena samannāgato cirakatampi cirabhāsitampi saritā anussaritā. Idaṃ, vuccati, bhikkhave, satibalaṃ.",
+   "zh": "“诸比丘，什么是念力呢？在此，圣弟子具足念，成就最上的念与正知，能忆念、随念久远以前所作、所说之事。诸比丘，这便称为念力。"
+  },
+  {
+   "idx": 23,
+   "pali": "‘‘Katamañca, bhikkhave, samādhibalaṃ? Idha, bhikkhave, ariyasāvako vivicceva kāmehi…pe… catutthaṃ jhānaṃ upasampajja viharati. Idaṃ vuccati, bhikkhave, samādhibalaṃ.",
+   "zh": "“诸比丘，什么是定力？诸比丘，在此，圣弟子远离诸欲、远离不善法，有寻有伺，由远离而生起喜与乐，进入并安住于初禅……（中略）……进入并安住于第四禅。诸比丘，这便称为定力。”"
+  },
+  {
+   "idx": 24,
+   "pali": "‘‘Katamañca , bhikkhave, paññābalaṃ? Idha, bhikkhave, ariyasāvako paññavā hoti udayatthagāminiyā paññāya samannāgato ariyāya nibbedhikāya sammā dukkhakkhayagāminiyā. Idaṃ vuccati, bhikkhave, paññābalaṃ. Imāni kho, bhikkhave, satta balānīti.",
+   "zh": "“诸比丘，什么是慧力？诸比丘，在此，圣弟子具足智慧，他具备了能通达生灭的智慧——那是圣者的、能洞彻的、正导向苦灭的智慧。诸比丘，这便称为慧力。诸比丘，这些就是七力。”"
+  },
+  {
+   "idx": 25,
+   "pali": "‘‘Saddhābalaṃ vīriyañca, hirī ottappiyaṃ balaṃ;",
+   "zh": "“信力与精进力，惭力与愧力，",
+   "type": "verse"
+  },
+  {
+   "idx": 26,
+   "pali": "Satibalaṃ samādhi ca, paññā ve sattamaṃ balaṃ;",
+   "zh": "念力、定力，慧为第七力；",
+   "type": "verse"
+  },
+  {
+   "idx": 27,
+   "pali": "Etehi balavā bhikkhu, sukhaṃ jīvati paṇḍito.",
+   "zh": "具足这些力的比丘，是贤智者，安稳而安住。",
+   "type": "verse"
+  },
+  {
+   "idx": 28,
+   "pali": "‘‘Yoniso vicine dhammaṃ, paññāyatthaṃ vipassati;",
+   "zh": "“他如理考察法义，以慧深观其义趣；",
+   "type": "verse"
+  },
+  {
+   "idx": 29,
+   "pali": "Pajjotasseva nibbānaṃ, vimokkho hoti cetaso’’ti. catutthaṃ;",
+   "zh": "犹如灯火灭尽，心得解脱。”第四经。",
+   "type": "verse"
+  },
+  {
+   "idx": 30,
+   "pali": "5. Saṃkhittadhanasuttaṃ",
+   "zh": "5. [[saṃkhittadhanasutta|略财经]]"
+  },
+  {
+   "idx": 31,
+   "pali": "‘‘Sattimāni, bhikkhave, dhanāni. Katamāni satta? Saddhādhanaṃ, sīladhanaṃ, hirīdhanaṃ, ottappadhanaṃ, sutadhanaṃ, cāgadhanaṃ, paññādhanaṃ. Imāni kho, bhikkhave, satta dhanānīti.",
+   "zh": "“诸比丘，有七种财。是哪七种呢？信财、戒财、惭财、愧财、闻财、施财、慧财。诸比丘，这便是七种财。",
+   "n": "5",
+   "type": "text"
+  },
+  {
+   "idx": 32,
+   "pali": "‘‘Saddhādhanaṃ sīladhanaṃ, hirī ottappiyaṃ dhanaṃ;",
+   "zh": "“信财、戒财，惭财与愧财；",
+   "type": "verse"
+  },
+  {
+   "idx": 33,
+   "pali": "Sutadhanañca cāgo ca, paññā ve sattamaṃ dhanaṃ.",
+   "zh": "闻财与施财，慧正是第七财。",
+   "type": "verse"
+  },
+  {
+   "idx": 34,
+   "pali": "‘‘Yassa ete dhanā atthi, itthiyā purisassa vā;",
+   "zh": "“无论女人或男子，凡拥有此诸财者，",
+   "type": "verse"
+  },
+  {
+   "idx": 35,
+   "pali": "Adaliddoti taṃ āhu, amoghaṃ tassa jīvitaṃ.",
+   "zh": "“众人称他不贫穷，他的一生不虚度。",
+   "type": "verse"
+  },
+  {
+   "idx": 36,
+   "pali": "‘‘Tasmā saddhañca sīlañca, pasādaṃ dhammadassanaṃ;",
+   "zh": "“是故，于信与戒，于净信，于见法；",
+   "type": "verse"
+  },
+  {
+   "idx": 37,
+   "pali": "Anuyuñjetha medhāvī, saraṃ buddhāna sāsana’’nti. pañcamaṃ;",
+   "zh": "具慧者当勤修习随念诸佛之教。”第五经。",
+   "type": "verse"
+  },
+  {
+   "idx": 38,
+   "pali": "6. Vitthatadhanasuttaṃ",
+   "zh": "6. [[vitthatadhanasutta|广说财经]]"
+  },
+  {
+   "idx": 39,
+   "pali": "‘‘Sattimāni, bhikkhave, dhanāni. Katamāni satta? Saddhādhanaṃ, sīladhanaṃ, hirīdhanaṃ, ottappadhanaṃ, sutadhanaṃ, cāgadhanaṃ, paññādhanaṃ.",
+   "zh": "“诸比丘，有此七种财。哪七种？信财、戒财、惭财、愧财、闻财、舍财、慧财。",
+   "n": "6",
+   "type": "text"
+  },
+  {
+   "idx": 40,
+   "pali": "‘‘Katamañca, bhikkhave, saddhādhanaṃ? Idha, bhikkhave, ariyasāvako saddho hoti, saddahati tathāgatassa bodhiṃ – ‘itipi so bhagavā arahaṃ sammāsambuddho…pe… buddho bhagavā’ti. Idaṃ vuccati, bhikkhave, saddhādhanaṃ.",
+   "zh": "“诸比丘，什么是信财？诸比丘，在此法中，圣弟子具备信心，深信如来的觉悟——‘如是，彼世尊是阿拉汉、正自觉者……（中略）……佛陀、世尊。’诸比丘，这便称为信财。"
+  },
+  {
+   "idx": 41,
+   "pali": "‘‘Katamañca , bhikkhave, sīladhanaṃ? Idha, bhikkhave, ariyasāvako pāṇātipātā paṭivirato hoti…pe… surāmerayamajjapamādaṭṭhānā paṭivirato hoti. Idaṃ vuccati, bhikkhave, sīladhanaṃ.",
+   "zh": "“诸比丘，什么是戒财？于此，诸比丘，圣弟子远离杀生……（中略）……远离成为放逸之因的诸酒类。诸比丘，这便称为戒财。"
+  },
+  {
+   "idx": 42,
+   "pali": "‘‘Katamañca, bhikkhave, hirīdhanaṃ? Idha, bhikkhave, ariyasāvako hirīmā hoti, hirīyati kāyaduccaritena vacīduccaritena manoduccaritena, hirīyati pāpakānaṃ akusalānaṃ dhammānaṃ samāpattiyā. Idaṃ vuccati, bhikkhave, hirīdhanaṃ.",
+   "zh": "“诸比丘，什么是惭财？诸比丘，于此，圣弟子具足惭耻，于身恶行、语恶行、意恶行生惭耻，于造作种种恶不善法生惭耻。诸比丘，这便称为惭财。"
+  },
+  {
+   "idx": 43,
+   "pali": "‘‘Katamañca, bhikkhave, ottappadhanaṃ? Idha, bhikkhave, ariyasāvako ottappī hoti, ottappati kāyaduccaritena vacīduccaritena manoduccaritena, ottappati pāpakānaṃ akusalānaṃ dhammānaṃ samāpattiyā. Idaṃ vuccati, bhikkhave, ottappadhanaṃ.",
+   "zh": "“诸比丘，什么是愧财？诸比丘，于此，圣弟子具足愧畏，于身恶行、语恶行、意恶行生愧畏，于造作种种恶不善法生愧畏。诸比丘，这便称为愧财。"
+  },
+  {
+   "idx": 44,
+   "pali": "‘‘Katamañca , bhikkhave, sutadhanaṃ? Idha , bhikkhave, ariyasāvako bahussuto hoti sutadharo sutasannicayo. Ye te dhammā ādikalyāṇā majjhekalyāṇā pariyosānakalyāṇā sātthaṃ sabyañjanaṃ, kevalaparipuṇṇaṃ parisuddhaṃ brahmacariyaṃ abhivadanti. Tathārūpāssa dhammā bahussutā honti dhātā vacasā paricitā manasānupekkhitā diṭṭhiyā suppaṭividdhā. Idaṃ vuccati, bhikkhave, sutadhanaṃ.",
+   "zh": "“诸比丘，什么是闻财？诸比丘，于此，圣弟子多闻，能持所闻，能积聚所闻。凡是初善、中善、后善，具足意义、具足文句，宣说完全圆满、清净之梵行的法，这样的法，他多闻、受持，以语言熟习，以心意观察，以正见善巧通达。诸比丘，这便称为闻财。"
+  },
+  {
+   "idx": 45,
+   "pali": "‘‘Katamañca, bhikkhave, cāgadhanaṃ? Idha, bhikkhave, ariyasāvako vigatamalamaccherena cetasā agāraṃ ajjhāvasati muttacāgo payatapāṇi vossaggarato yācayogo dānasaṃvibhāgarato. Idaṃ vuccati, bhikkhave, cāgadhanaṃ.",
+   "zh": "“诸比丘，什么是舍财？诸比丘，在此，圣弟子以离垢、离悭的心安住在家，慷慨施与，手常清净，乐于放下，应乞者之求，好乐布施与分享。诸比丘，这便称为舍财。"
+  },
+  {
+   "idx": 46,
+   "pali": "‘‘Katamañca, bhikkhave, paññādhanaṃ? Idha, bhikkhave, ariyasāvako paññavā hoti…pe… sammā dukkhakkhayagāminiyā. Idaṃ vuccati, bhikkhave, paññādhanaṃ. Imāni kho, bhikkhave, sattadhanānīti.",
+   "zh": "“诸比丘，什么是慧财？诸比丘，在此，圣弟子具备智慧……正导向苦的灭尽。诸比丘，这便称为慧财。诸比丘，这些便是七种财。”"
+  },
+  {
+   "idx": 47,
+   "pali": "‘‘Saddhādhanaṃ sīladhanaṃ, hirī ottappiyaṃ dhanaṃ;",
+   "zh": "“信财、戒财，惭财与愧财；",
+   "type": "verse"
+  },
+  {
+   "idx": 48,
+   "pali": "Sutadhanañca cāgo ca, paññā ve sattamaṃ dhanaṃ.",
+   "zh": "听闻之财与施舍之财，智慧实为第七种财。",
+   "type": "verse"
+  },
+  {
+   "idx": 49,
+   "pali": "‘‘Yassa ete dhanā atthi, itthiyā purisassa vā;",
+   "zh": "“不论是女人或男子，若拥有这些财富，",
+   "type": "verse"
+  },
+  {
+   "idx": 50,
+   "pali": "Adaliddoti taṃ āhu, amoghaṃ tassa jīvitaṃ.",
+   "zh": "人们称他不贫穷，他的生命不曾虚度。",
+   "type": "verse"
+  },
+  {
+   "idx": 51,
+   "pali": "‘‘Tasmā saddhañca sīlañca, pasādaṃ dhammadassanaṃ;",
+   "zh": "“因此，信、戒、净信、见法——",
+   "type": "verse"
+  },
+  {
+   "idx": 52,
+   "pali": "Anuyuñjetha medhāvī, saraṃ buddhāna sāsana’’nti. chaṭṭhaṃ;",
+   "zh": "，具慧者应于此专精修习，常忆诸佛教法。”第六经",
+   "type": "verse"
+  },
+  {
+   "idx": 53,
+   "pali": "7. Uggasuttaṃ",
+   "zh": "7. [[uggasutta|郁伽经]]"
+  },
+  {
+   "idx": 54,
+   "pali": "Atha kho uggo rājamahāmatto yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho uggo rājamahāmatto bhagavantaṃ etadavoca –",
+   "zh": "那时，郁伽王大臣来到世尊这里；到了之后，向世尊礼敬，坐在一旁。坐定后，郁伽王大臣对世尊这样说：",
+   "n": "7"
+  },
+  {
+   "idx": 55,
+   "pali": "‘‘Acchariyaṃ , bhante, abbhutaṃ, bhante! Yāva aḍḍho cāyaṃ, bhante, migāro rohaṇeyyo yāva mahaddhano yāva mahābhogo’’ti. ‘‘Kīva aḍḍho panugga, migāro rohaṇeyyo, kīva mahaddhano, kīva mahābhogo’’ti? ‘‘Sataṃ, bhante, satasahassānaṃ hiraññassa, ko pana vādo rūpiyassā’’ti! ‘‘Atthi kho etaṃ, ugga, dhanaṃ netaṃ ‘natthī’ti vadāmīti . Tañca kho etaṃ, ugga, dhanaṃ sādhāraṇaṃ agginā udakena rājūhi corehi appiyehi dāyādehi. Satta kho imāni, ugga, dhanāni asādhāraṇāni agginā udakena rājūhi corehi appiyehi dāyādehi. Katamāni satta? Saddhādhanaṃ, sīladhanaṃ, hirīdhanaṃ, ottappadhanaṃ, sutadhanaṃ, cāgadhanaṃ, paññādhanaṃ. Imāni kho, ugga, satta dhanāni asādhāraṇāni agginā udakena rājūhi corehi appiyehi dāyādehīti.",
+   "zh": "“真是殊胜啊，尊者！真是前所未有啊，尊者！这位罗哈内亚的弥伽罗竟然如此富有，拥有如此多的财富，如此大的家产！”“郁伽，罗哈内亚的弥伽罗有多富有？有多少财富？有多大产业？”“尊者，黄金就有百个十万，更不必说白银了！”“郁伽，这些确实是财，我并不会说‘不是’。然而，郁伽，这些财富是火、水、国王、盗贼、不称心的继承者所共有的。郁伽，有七种财，是火、水、国王、盗贼、不称心的继承者所不能共有的。哪七种？那就是信财、戒财、惭财、愧财、闻财、施财、慧财。郁伽，这七种财，是火、水、国王、盗贼、不称心的继承者所不能共有的。",
+   "type": "verse"
+  },
+  {
+   "idx": 56,
+   "pali": "‘‘Saddhādhanaṃ sīladhanaṃ, hirī ottappiyaṃ dhanaṃ;",
+   "zh": "“信财、戒财，惭财与愧财；",
+   "type": "verse"
+  },
+  {
+   "idx": 57,
+   "pali": "Sutadhanañca cāgo ca, paññā ve sattamaṃ dhanaṃ.",
+   "zh": "闻财与施财，智慧即是第七财。",
+   "type": "verse"
+  },
+  {
+   "idx": 58,
+   "pali": "‘‘Yassa ete dhanā atthi, itthiyā purisassa vā;",
+   "zh": "“若女人或男子拥有这些财富，",
+   "type": "verse"
+  },
+  {
+   "idx": 59,
+   "pali": "Sa ve mahaddhano loke, ajeyyo devamānuse.",
+   "zh": "他在世间即为大富者，天人之中无人能胜。",
+   "type": "verse"
+  },
+  {
+   "idx": 60,
+   "pali": "‘‘Tasmā saddhañca sīlañca, pasādaṃ dhammadassanaṃ;",
+   "zh": "“是故，信与戒，净信与见法；",
+   "type": "verse"
+  },
+  {
+   "idx": 61,
+   "pali": "Anuyuñjetha medhāvī, saraṃ buddhāna sāsana’’nti. sattamaṃ;",
+   "zh": "有慧者当致力于随念诸佛之教法。”第七经",
+   "type": "verse"
+  },
+  {
+   "idx": 62,
+   "pali": "8. Saṃyojanasuttaṃ",
+   "zh": "8. [[saṃyojanasutta|结经]]"
+  },
+  {
+   "idx": 63,
+   "pali": "‘‘Sattimāni, bhikkhave, saṃyojanāni. Katamāni satta? Anunayasaṃyojanaṃ, paṭighasaṃyojanaṃ, diṭṭhisaṃyojanaṃ, vicikicchāsaṃyojanaṃ, mānasaṃyojanaṃ, bhavarāgasaṃyojanaṃ, avijjāsaṃyojanaṃ. Imāni kho, bhikkhave, satta saṃyojanānī’’ti. Aṭṭhamaṃ.",
+   "zh": "“诸比丘，有七种结。哪七种？随贪结、嗔恚结、见结、疑结、慢结、有贪结、无明结。诸比丘，这便是七种结。”第八经",
+   "n": "8"
+  },
+  {
+   "idx": 64,
+   "pali": "9. Pahānasuttaṃ",
+   "zh": "9. [[pahānasutta|舍断经]]"
+  },
+  {
+   "idx": 65,
+   "pali": "‘‘Sattannaṃ , bhikkhave, saṃyojanānaṃ pahānāya samucchedāya brahmacariyaṃ vussati. Katamesaṃ sattannaṃ? Anunayasaṃyojanassa pahānāya samucchedāya brahmacariyaṃ vussati, paṭighasaṃyojanassa…pe… diṭṭhisaṃyojanassa… vicikicchāsaṃyojanassa… mānasaṃyojanassa… bhavarāgasaṃyojanassa … avijjāsaṃyojanassa pahānāya samucchedāya brahmacariyaṃ vussati. Imesaṃ kho, bhikkhave, sattannaṃ saṃyojanānaṃ pahānāya samucchedāya brahmacariyaṃ vussati. Yato ca kho, bhikkhave, bhikkhuno anunayasaṃyojanaṃ pahīnaṃ hoti ucchinnamūlaṃ tālāvatthukataṃ anabhāvaṃ kataṃ āyatiṃ anuppādadhammaṃ. Paṭighasaṃyojanaṃ…pe… diṭṭhisaṃyojanaṃ… vicikicchāsaṃyojanaṃ… mānasaṃyojanaṃ… bhavarāgasaṃyojanaṃ… avijjāsaṃyojanaṃ pahīnaṃ hoti ucchinnamūlaṃ tālāvatthukataṃ anabhāvaṃ kataṃ āyatiṃ anuppādadhammaṃ. Ayaṃ vuccati, bhikkhave, bhikkhu acchecchi taṇhaṃ, vivattayi saṃyojanaṃ, sammā mānābhisamayā antamakāsi dukkhassā’’ti. Navamaṃ.",
+   "zh": "“诸比丘，为断除、根绝七种结而修梵行。为断除、根绝哪七种呢？为断除、根绝随贪结而修梵行，为断除、根绝嗔恚结……为断除、根绝见结……为断除、根绝疑结……为断除、根绝慢结……为断除、根绝有贪结……为断除、根绝无明结而修梵行。诸比丘，正是为了断除、根绝这七种结而修梵行。诸比丘，当比丘的随贪结已被断除，根已断除，如同多罗树头被斩断那样，令其不复存在，于未来不再生起；嗔恚结……见结……疑结……慢结……有贪结……无明结已被断除，根已断除，如同多罗树头被斩断那样，令其不复存在，于未来不再生起。诸比丘，这样的比丘即称为已断除渴爱、已解开业结、以正确彻见慢而究竟灭尽苦者。”第九经。",
+   "n": "9"
+  },
+  {
+   "idx": 66,
+   "pali": "10. Macchariyasuttaṃ",
+   "zh": "10. [[macchariyasutta|悭经]]"
+  },
+  {
+   "idx": 67,
+   "pali": "‘‘Sattimāni, bhikkhave, saṃyojanāni. Katamāni satta? Anunayasaṃyojanaṃ, paṭighasaṃyojanaṃ, diṭṭhisaṃyojanaṃ, vicikicchāsaṃyojanaṃ, mānasaṃyojanaṃ, issāsaṃyojanaṃ, macchariyasaṃyojanaṃ. Imāni kho, bhikkhave, satta saṃyojanānī’’ti. Dasamaṃ.",
+   "zh": "“诸比丘，有此七结。哪七种呢？随贪结、嗔结、见结、疑结、慢结、嫉结、悭结。诸比丘，这就是七结。”第十经。",
+   "n": "10"
+  },
+  {
+   "idx": 68,
+   "pali": "Dhanavaggo paṭhamo.",
+   "zh": "财品第一"
+  },
+  {
+   "idx": 69,
+   "pali": "Tassuddānaṃ –",
+   "zh": "其摄颂："
+  },
+  {
+   "idx": 70,
+   "pali": "Dve piyāni balaṃ dhanaṃ, saṃkhittañceva vitthataṃ;",
+   "zh": "二则可爱、力、财，略说与广说；",
+   "type": "verse"
+  },
+  {
+   "idx": 71,
+   "pali": "Uggaṃ saṃyojanañceva, pahānaṃ macchariyena cāti.",
+   "zh": "郁伽、结缚，断除与悭吝。",
+   "type": "verse"
+  }
+ ]
+}

@@ -1,0 +1,119 @@
+{
+ "uid": 9,
+ "title": "9. 放逸等品",
+ "nik": "AN",
+ "segs": [
+  {
+   "idx": 18,
+   "pali": "9. Pamādādivaggo",
+   "zh": "9. 放逸等品"
+  },
+  {
+   "idx": 1,
+   "pali": "‘‘Appamattikā esā, bhikkhave, vuddhi yadidaṃ yasovuddhi. Etadaggaṃ, bhikkhave, vuddhīnaṃ yadidaṃ paññāvuddhi. Tasmātiha, bhikkhave, evaṃ sikkhitabbaṃ – ‘paññāvuddhiyā vaddhissāmā’ti. Evañhi vo, bhikkhave, sikkhitabba’’nti. Paṭhamaṃ.",
+   "zh": "“诸比丘，这种增长——所谓名声的增长，微不足道。诸比丘，于一切增长中，最为第一的，是慧的增长。因此，诸比丘，你们应当这样学：“我们要以慧的增长而增长。”诸比丘，你们应当这样学。”第一。",
+   "n": "81"
+  },
+  {
+   "idx": 2,
+   "pali": "‘‘Nāhaṃ , bhikkhave, aññaṃ ekadhammampi samanupassāmi yo evaṃ mahato anatthāya saṃvattati yathayidaṃ, bhikkhave, pamādo. Pamādo, bhikkhave, mahato anatthāya saṃvattatī’’ti. Dutiyaṃ.",
+   "zh": "“诸比丘，我不见有其他任何一法，会像放逸那样导向巨大的不利益。诸比丘，放逸导向巨大的不利益。第二经。”",
+   "n": "82"
+  },
+  {
+   "idx": 3,
+   "pali": "‘‘Nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yo evaṃ mahato atthāya saṃvattati yathayidaṃ, bhikkhave, appamādo. Appamādo, bhikkhave, mahato atthāya saṃvattatī’’ti. Tatiyaṃ.",
+   "zh": "“诸比丘，我不见有任何其他一法，能像不放逸这样，导向如此巨大的利益。诸比丘，不放逸导向巨大的利益。第三经。”",
+   "n": "83"
+  },
+  {
+   "idx": 4,
+   "pali": "‘‘Nāhaṃ , bhikkhave, aññaṃ ekadhammampi samanupassāmi yo evaṃ mahato anatthāya saṃvattati yathayidaṃ, bhikkhave, kosajjaṃ. Kosajjaṃ, bhikkhave, mahato anatthāya saṃvattatī’’ti. Catutthaṃ.",
+   "zh": "“诸比丘，我不见有任何一法能像懈怠这样导向大不利。诸比丘，懈怠导向大不利。第四。”",
+   "n": "84"
+  },
+  {
+   "idx": 5,
+   "pali": "‘‘Nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yo evaṃ mahato atthāya saṃvattati yathayidaṃ, bhikkhave, vīriyārambho. Vīriyārambho, bhikkhave, mahato atthāya saṃvattatī’’ti. Pañcamaṃ.",
+   "zh": "“诸比丘，我不见有任何其他一法，能像发起精进这样，导向如此巨大的利益。诸比丘，发起精进导向巨大的利益。第五经。”",
+   "n": "85"
+  },
+  {
+   "idx": 6,
+   "pali": "‘‘Nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yo evaṃ mahato anatthāya saṃvattati yathayidaṃ, bhikkhave, mahicchatā. Mahicchatā, bhikkhave, mahato anatthāya saṃvattatī’’ti. Chaṭṭhaṃ.",
+   "zh": "“诸比丘，我不见有任何其他一法，能像多欲这样，导向如此巨大的不利益。诸比丘，多欲导向巨大的不利益。第六经。”",
+   "n": "86"
+  },
+  {
+   "idx": 7,
+   "pali": "‘‘Nāhaṃ , bhikkhave, aññaṃ ekadhammampi samanupassāmi yo evaṃ mahato atthāya saṃvattati yathayidaṃ, bhikkhave, appicchatā. Appicchatā, bhikkhave, mahato atthāya saṃvattatī’’ti. Sattamaṃ.",
+   "zh": "“诸比丘，我不见有其他任何一法，能像少欲这样带来广大的利益。诸比丘，少欲带来广大的利益。第七。”",
+   "n": "87"
+  },
+  {
+   "idx": 8,
+   "pali": "‘‘Nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yo evaṃ mahato anatthāya saṃvattati yathayidaṃ, bhikkhave, asantuṭṭhitā. Asantuṭṭhitā, bhikkhave, mahato anatthāya saṃvattatī’’ti. Aṭṭhamaṃ.",
+   "zh": "“诸比丘，我不见有其他任何一法，能像不知足这样导向巨大的不利益。诸比丘，不知足导向巨大的不利益。第八。”",
+   "n": "88"
+  },
+  {
+   "idx": 9,
+   "pali": "‘‘Nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yo evaṃ mahato atthāya saṃvattati yathayidaṃ, bhikkhave, santuṭṭhitā. Santuṭṭhitā, bhikkhave, mahato atthāya saṃvattatī’’ti. Navamaṃ.",
+   "zh": "“诸比丘，我不见有其他任何一法，能像知足这样导向巨大的利益。诸比丘，知足导向巨大的利益。第九。”",
+   "n": "89"
+  },
+  {
+   "idx": 10,
+   "pali": "‘‘Nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yo evaṃ mahato anatthāya saṃvattati yathayidaṃ, bhikkhave, ayoniso manasikāro. Ayonisomanasikāro , bhikkhave, mahato anatthāya saṃvattatī’’ti. Dasamaṃ.",
+   "zh": "“诸比丘，我不见有其他任何一法，能像非如理作意这样导向巨大的不利益。诸比丘，非如理作意导向巨大的不利益。第十。”",
+   "n": "90"
+  },
+  {
+   "idx": 11,
+   "pali": "‘‘Nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yo evaṃ mahato atthāya saṃvattati yathayidaṃ, bhikkhave, yoniso manasikāro. Yonisomanasikāro, bhikkhave, mahato atthāya saṃvattatī’’ti. Ekādasamaṃ.",
+   "zh": "“诸比丘，我不见有任何一法能像如理作意这样导向大利益。诸比丘，如理作意导向大利益。第十一。”",
+   "n": "91"
+  },
+  {
+   "idx": 12,
+   "pali": "‘‘Nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yo evaṃ mahato anatthāya saṃvattati yathayidaṃ, bhikkhave, asampajaññaṃ. Asampajaññaṃ, bhikkhave, mahato anatthāya saṃvattatī’’ti. Dvādasamaṃ.",
+   "zh": "“诸比丘，我不见有任何一法能像不正知这样导向大不利。诸比丘，不正知导向大不利。第十二。”",
+   "n": "92"
+  },
+  {
+   "idx": 13,
+   "pali": "‘‘Nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yo evaṃ mahato atthāya saṃvattati yathayidaṃ, bhikkhave, sampajaññaṃ. Sampajaññaṃ, bhikkhave, mahato atthāya saṃvattatī’’ti. Terasamaṃ.",
+   "zh": "“诸比丘，我不见有其他任何一法，能像正知这般，导向广大的利益。诸比丘，正知导向广大的利益。第十三。”",
+   "n": "93"
+  },
+  {
+   "idx": 14,
+   "pali": "‘‘Nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yo evaṃ mahato anatthāya saṃvattati yathayidaṃ, bhikkhave, pāpamittatā. Pāpamittatā, bhikkhave, mahato anatthāya saṃvattatī’’ti. Cuddasamaṃ.",
+   "zh": "“诸比丘，我不见有其他任何一法，会像恶友那般导向巨大的不利益。诸比丘，恶友导向巨大的不利益。第十四。”",
+   "n": "94"
+  },
+  {
+   "idx": 15,
+   "pali": "‘‘Nāhaṃ , bhikkhave, aññaṃ ekadhammampi samanupassāmi yo evaṃ mahato atthāya saṃvattati yathayidaṃ, bhikkhave, kalyāṇamittatā. Kalyāṇamittatā, bhikkhave, mahato atthāya saṃvattatī’’ti. Pannarasamaṃ.",
+   "zh": "“诸比丘，我不见有其他任何一法，能像此善友这般，导向广大的利益。诸比丘，善友导向广大的利益。第十五。”",
+   "n": "95"
+  },
+  {
+   "idx": 16,
+   "pali": "‘‘Nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yo evaṃ mahato anatthāya saṃvattati yathayidaṃ, bhikkhave, anuyogo akusalānaṃ dhammānaṃ, ananuyogo kusalānaṃ dhammānaṃ. Anuyogo, bhikkhave, akusalānaṃ dhammānaṃ, ananuyogo kusalānaṃ dhammānaṃ mahato anatthāya saṃvattatī’’ti. Soḷasamaṃ.",
+   "zh": "“诸比丘，我不见有其他任何一法，会像沉溺不善法、不修习善法那样导向巨大的不利益。诸比丘，沉溺不善法、不修习善法导向巨大的不利益。第十六。”",
+   "n": "96"
+  },
+  {
+   "idx": 17,
+   "pali": "‘‘Nāhaṃ , bhikkhave, aññaṃ ekadhammampi samanupassāmi yo evaṃ mahato atthāya saṃvattati yathayidaṃ, bhikkhave, anuyogo kusalānaṃ dhammānaṃ, ananuyogo akusalānaṃ dhammānaṃ. Anuyogo, bhikkhave, kusalānaṃ dhammānaṃ, ananuyogo akusalānaṃ dhammānaṃ mahato atthāya saṃvattatī’’ti. Sattarasamaṃ.",
+   "zh": "“诸比丘，我不见有其他任何一法，能像致力于善法、不致力于不善法这般，导向广大的利益。诸比丘，致力于善法、不致力于不善法，导向广大的利益。第十七。”",
+   "n": "97"
+  },
+  {
+   "idx": 19,
+   "pali": "Pamādādivaggo navamo.",
+   "zh": "放逸等品第九。"
+  }
+ ]
+}

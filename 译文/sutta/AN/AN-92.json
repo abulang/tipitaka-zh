@@ -1,0 +1,212 @@
+{
+ "uid": 92,
+ "title": "1. 第一想经",
+ "nik": "AN",
+ "segs": [
+  {
+   "idx": 0,
+   "pali": "(7) 2. Saññāvaggo",
+   "zh": "（七） 第二 想品"
+  },
+  {
+   "idx": 1,
+   "pali": "1. Paṭhamasaññāsuttaṃ",
+   "zh": "1. [[paṭhamasaññāsutta|第一想经]]"
+  },
+  {
+   "idx": 2,
+   "pali": "‘‘Pañcimā , bhikkhave, saññā bhāvitā bahulīkatā mahapphalā honti mahānisaṃsā amatogadhā amatapariyosānā. Katamā pañca? Asubhasaññā, maraṇasaññā, ādīnavasaññā, āhāre paṭikūlasaññā, sabbaloke anabhiratasaññā – imā kho, bhikkhave, pañca saññā bhāvitā bahulīkatā mahapphalā honti mahānisaṃsā amatogadhā amatapariyosānā’’ti. Paṭhamaṃ.",
+   "zh": "“诸比丘，有五种想，修习、多修习，能带来大果报、大利益，入于不死，以不死为究竟。哪五种？不净想、死想、过患想、于食厌逆想、于一切世间不乐想。诸比丘，这五种想，修习、多修习，能带来大果报、大利益，入于不死，以不死为究竟。第一。”",
+   "n": "61"
+  },
+  {
+   "idx": 3,
+   "pali": "2. Dutiyasaññāsuttaṃ",
+   "zh": "2. [[dutiyasaññāsutta|第二想经]]"
+  },
+  {
+   "idx": 4,
+   "pali": "‘‘Pañcimā, bhikkhave, saññā bhāvitā bahulīkatā mahapphalā honti mahānisaṃsā amatogadhā amatapariyosānā. Katamā pañca? Aniccasaññā, anattasaññā, maraṇasaññā, āhāre paṭikūlasaññā, sabbaloke anabhiratasaññā – imā kho, bhikkhave, pañca saññā bhāvitā bahulīkatā mahapphalā honti mahānisaṃsā amatogadhā amatapariyosānā’’ti. Dutiyaṃ.",
+   "zh": "“诸比丘，此五种想，修习多修习，有大果、大利益，以不死为所趣，以不死为究竟。哪五种？无常想、无我想、死想、于食厌逆想、于一切世间不喜乐想——诸比丘，此五种想，修习多修习，有大果、大利益，以不死为所趣，以不死为究竟。”第二。",
+   "n": "62"
+  },
+  {
+   "idx": 5,
+   "pali": "3. Paṭhamavaḍḍhisuttaṃ",
+   "zh": "3. [[paṭhamavaḍḍhisutta|第一增长经]]"
+  },
+  {
+   "idx": 6,
+   "pali": "‘‘Pañcahi, bhikkhave, vaḍḍhīhi vaḍḍhamāno ariyasāvako ariyāya vaḍḍhiyā vaḍḍhati, sārādāyī ca hoti varādāyī ca kāyassa. Katamāhi pañcahi? Saddhāya vaḍḍhati, sīlena vaḍḍhati, sutena vaḍḍhati, cāgena vaḍḍhati, paññāya vaḍḍhati – imāhi kho, bhikkhave, pañcahi vaḍḍhīhi vaḍḍhamāno ariyasāvako ariyāya vaḍḍhiyā vaḍḍhati, sārādāyī ca hoti varādāyī ca kāyassā’’ti.",
+   "zh": "“诸比丘，依五种增长而得增长的圣弟子，依圣之增长而得增长，他获得身之精要、身之最胜。哪五种增长呢？由信增长，由戒增长，由闻增长，由施增长，由慧增长。诸比丘，依这五种增长而得增长的圣弟子，依圣之增长而得增长，他获得身之精要、身之最胜。”",
+   "n": "63"
+  },
+  {
+   "idx": 7,
+   "pali": "‘‘Saddhāya sīlena ca yo pavaḍḍhati ,",
+   "zh": "“依信与戒而增长的人，",
+   "type": "verse"
+  },
+  {
+   "idx": 8,
+   "pali": "Paññāya cāgena sutena cūbhayaṃ;",
+   "zh": "依慧、施舍与多闻，同样在这两方面增长；",
+   "type": "verse"
+  },
+  {
+   "idx": 9,
+   "pali": "So tādiso sappuriso vicakkhaṇo,",
+   "zh": "这样的善人、明察者，",
+   "type": "verse"
+  },
+  {
+   "idx": 10,
+   "pali": "Ādīyatī sāramidheva attano’’ti. tatiyaṃ;",
+   "zh": "他就在此处获得自身的精要。”第三。",
+   "type": "verse"
+  },
+  {
+   "idx": 11,
+   "pali": "4. Dutiyavaḍḍhisuttaṃ",
+   "zh": "4. [[dutiyavaḍḍhisutta|第二增长经]]"
+  },
+  {
+   "idx": 12,
+   "pali": "‘‘Pañcahi , bhikkhave, vaḍḍhīhi vaḍḍhamānā ariyasāvikā ariyāya vaḍḍhiyā vaḍḍhati, sārādāyinī ca hoti varādāyinī ca kāyassa. Katamāhi pañcahi? Saddhāya vaḍḍhati, sīlena vaḍḍhati, sutena vaḍḍhati, cāgena vaḍḍhati, paññāya vaḍḍhati – imāhi kho, bhikkhave, pañcahi vaḍḍhīhi vaḍḍhamānā ariyasāvikā ariyāya vaḍḍhiyā vaḍḍhati, sārādāyinī ca hoti varādāyinī ca kāyassā’’ti.",
+   "zh": "“诸比丘，圣声闻女弟子若能以五种增长而增长，她便依圣增长而增长，成为摄受自身精要者、摄受最胜者。哪五种？以信增长，以戒增长，以闻增长，以施增长，以慧增长。诸比丘，圣声闻女弟子以此五种增长而增长，便依圣增长而增长，成为摄受自身精要者、摄受最胜者。”",
+   "n": "64"
+  },
+  {
+   "idx": 13,
+   "pali": "‘‘Saddhāya sīlena ca yā pavaḍḍhati ,",
+   "zh": "“以信与戒而得增长，",
+   "type": "verse"
+  },
+  {
+   "idx": 14,
+   "pali": "Paññāya cāgena sutena cūbhayaṃ;",
+   "zh": "以慧、施与闻——此两者；",
+   "type": "verse"
+  },
+  {
+   "idx": 15,
+   "pali": "Sā tādisī sīlavatī upāsikā,",
+   "zh": "如此具戒的近事女，",
+   "type": "verse"
+  },
+  {
+   "idx": 16,
+   "pali": "Ādīyatī sāramidheva attano’’ti. catutthaṃ;",
+   "zh": "她确实于此获得了自己的精髓。”第四",
+   "type": "verse"
+  },
+  {
+   "idx": 17,
+   "pali": "5. Sākacchasuttaṃ",
+   "zh": "5. [[sākacchasutta|交谈经]]"
+  },
+  {
+   "idx": 18,
+   "pali": "‘‘Pañcahi , bhikkhave, dhammehi samannāgato bhikkhu alaṃsākaccho sabrahmacārīnaṃ. Katamehi pañcahi? Idha, bhikkhave, bhikkhu attanā ca sīlasampanno hoti, sīlasampadāya kathāya ca āgataṃ pañhaṃ byākattā hoti; attanā ca samādhisampanno hoti, samādhisampadāya kathāya ca āgataṃ pañhaṃ byākattā hoti; attanā ca paññāsampanno hoti, paññāsampadāya kathāya ca āgataṃ pañhaṃ byākattā hoti; attanā ca vimuttisampanno hoti, vimuttisampadāya kathāya ca āgataṃ pañhaṃ byākattā hoti; attanā ca vimuttiñāṇadassanasampanno hoti, vimuttiñāṇadassanasampadāya kathāya ca āgataṃ pañhaṃ byākattā hoti. Imehi kho, bhikkhave, pañcahi dhammehi samannāgato bhikkhu alaṃsākaccho sabrahmacārīna’’nti. Pañcamaṃ.",
+   "zh": "“诸比丘，具足五法的比丘堪与梵行者论议。哪五种呢？诸比丘，于此，比丘自身戒具足，且能解答关于戒具足的论议中所提出的问题；自身定具足，且能解答关于定具足的论议中所提出的问题；自身慧具足，且能解答关于慧具足的论议中所提出的问题；自身解脱具足，且能解答关于解脱具足的论议中所提出的问题；自身解脱智见具足，且能解答关于解脱智见具足的论议中所提出的问题。诸比丘，具足这五法的比丘堪与梵行者论议。” 第五",
+   "n": "65"
+  },
+  {
+   "idx": 19,
+   "pali": "6. Sājīvasuttaṃ",
+   "zh": "6. [[sājīvasutta|共住经]]"
+  },
+  {
+   "idx": 20,
+   "pali": "‘‘Pañcahi , bhikkhave, dhammehi samannāgato bhikkhu alaṃsājīvo sabrahmacārīnaṃ. Katamehi pañcahi? Idha, bhikkhave, bhikkhu attanā ca sīlasampanno hoti, sīlasampadāya kathāya ca kataṃ pañhaṃ byākattā hoti; attanā ca samādhisampanno hoti, samādhisampadāya kathāya ca kataṃ pañhaṃ byākattā hoti; attanā ca paññāsampanno hoti, paññāsampadāya kathāya ca kataṃ pañhaṃ byākattā hoti; attanā ca vimuttisampanno hoti, vimuttisampadāya kathāya ca kataṃ pañhaṃ byākattā hoti; attanā ca vimuttiñāṇadassanasampanno hoti, vimuttiñāṇadassanasampadāya kathāya ca kataṃ pañhaṃ byākattā hoti. Imehi kho, bhikkhave, pañcahi dhammehi samannāgato bhikkhu alaṃsājīvo sabrahmacārīna’’nti. Chaṭṭhaṃ.",
+   "zh": "“比丘们，具足五法的比丘，堪与梵行者共住。哪五种呢？比丘们，这里，比丘自身戒行具足，且能解答关于戒具足的论题所问；自身定具足，且能解答关于定具足的论题所问；自身慧具足，且能解答关于慧具足的论题所问；自身解脱具足，且能解答关于解脱具足的论题所问；自身解脱智见具足，且能解答关于解脱智见具足的论题所问。比丘们，具足这五法的比丘，堪与梵行者共住。” 第6经。",
+   "n": "66"
+  },
+  {
+   "idx": 21,
+   "pali": "7. Paṭhamaiddhipādasuttaṃ",
+   "zh": "7. [[paṭhamaiddhipādasutta|第一神足经]]"
+  },
+  {
+   "idx": 22,
+   "pali": "‘‘Yo hi koci, bhikkhave, bhikkhu vā bhikkhunī vā pañca dhamme bhāveti, pañca dhamme bahulīkaroti, tassa dvinnaṃ phalānaṃ aññataraṃ phalaṃ pāṭikaṅkhaṃ – diṭṭheva dhamme aññā, sati vā upādisese anāgāmitā.",
+   "zh": "“诸比丘，任何比丘或比丘尼，修习并多修习此五法，便可预期两种果之一：于现法证得究竟智，若有余依，则为不来。",
+   "n": "67"
+  },
+  {
+   "idx": 23,
+   "pali": "‘‘Katame pañca? Idha, bhikkhave, bhikkhu chandasamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti, vīriyasamādhi…pe… cittasamādhi… vīmaṃsāsamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti, ussoḷhiññeva pañcamiṃ . Yo hi koci, bhikkhave, bhikkhu vā bhikkhunī vā ime pañca dhamme bhāveti, ime pañca dhamme bahulīkaroti, tassa dvinnaṃ phalānaṃ aññataraṃ phalaṃ pāṭikaṅkhaṃ – diṭṭheva dhamme aññā, sati vā upādisese anāgāmitā’’ti. Sattamaṃ.",
+   "zh": "“哪五种呢？诸比丘，在此，比丘修习具足欲定勤行成就的神足，修习具足精进定勤行成就的神足，修习具足心定勤行成就的神足，修习具足观定勤行成就的神足，并以精勤为第五。诸比丘，任何比丘或比丘尼，修习并多修习此五法，便可预期两种果之一：于现法证得究竟智，若有余依，则为不来。 ”第7经。"
+  },
+  {
+   "idx": 24,
+   "pali": "8. Dutiyaiddhipādasuttaṃ",
+   "zh": "8. [[dutiyaiddhipādasutta|第二神足经]]"
+  },
+  {
+   "idx": 25,
+   "pali": "‘‘Pubbevāhaṃ, bhikkhave, sambodhā anabhisambuddho bodhisattova samāno pañca dhamme bhāvesiṃ, pañca dhamme bahulīkāsiṃ . Katame pañca? Chandasamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāvesiṃ , vīriyasamādhi… cittasamādhi… vīmaṃsāsamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāvesiṃ, ussoḷhiññeva pañcamiṃ. So kho ahaṃ, bhikkhave, imesaṃ ussoḷhipañcamānaṃ dhammānaṃ bhāvitattā bahulīkatattā yassa yassa abhiññāsacchikaraṇīyassa dhammassa cittaṃ abhininnāmesiṃ abhiññāsacchikiriyāya, tatra tatreva sakkhibhabbataṃ pāpuṇiṃ sati sati āyatane.",
+   "zh": "“诸比丘，在正觉之前，当我还是未现正觉的菩萨时，我修习并多修习了五法。是哪五法呢？我修习了具足欲定勤行之神足，修习了具足精进定……心定……观定勤行之神足，并以精勤为第五。诸比丘，由于我修习、多修习这些以精勤为第五之法，对于任何应以证智证知的法，我都为证知彼法而令心转向；于一切处，只要因缘具足，我都能达至作证。",
+   "n": "68"
+  },
+  {
+   "idx": 26,
+   "pali": "‘‘So sace ākaṅkhiṃ – ‘anekavihitaṃ iddhividhaṃ paccanubhaveyyaṃ…pe… yāva brahmalokāpi kāyena vasaṃ vatteyya’nti, tatra tatreva sakkhibhabbataṃ pāpuṇiṃ sati sati āyatane.",
+   "zh": "“若我期望：‘我应体验种种神变……乃至……以身自在游行至梵天界’，那么，于任何相应的因缘处，我都具足作证的能力。"
+  },
+  {
+   "idx": 27,
+   "pali": "‘‘So sace ākaṅkhiṃ…pe… ‘āsavānaṃ khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja vihareyya’nti, tatra tatreva sakkhibhabbataṃ pāpuṇiṃ sati sati āyatane’’ti. Aṭṭhamaṃ.",
+   "zh": "“若我期望：‘以诸漏尽，于现法以证智自证、通达、具足住于无漏的心解脱、慧解脱’，那么，于任何相应的因缘处，我都具足作证的能力。”第八经。"
+  },
+  {
+   "idx": 28,
+   "pali": "9. Nibbidāsuttaṃ",
+   "zh": "9. [[nibbidāsutta|厌离经]]"
+  },
+  {
+   "idx": 29,
+   "pali": "‘‘Pañcime, bhikkhave, dhammā bhāvitā bahulīkatā ekantanibbidāya virāgāya nirodhāya upasamāya abhiññāya sambodhāya nibbānāya saṃvattanti.",
+   "zh": "“诸比丘，修习、多修习此五法，能导向一向厌离、离贪、灭尽、寂止、证智、正觉、涅槃。",
+   "n": "69"
+  },
+  {
+   "idx": 30,
+   "pali": "‘‘Katame pañca? Idha, bhikkhave, bhikkhu asubhānupassī kāye viharati, āhāre paṭikūlasaññī, sabbaloke anabhiratasaññī , sabbasaṅkhāresu aniccānupassī, maraṇasaññā kho panassa ajjhattaṃ sūpaṭṭhitā hoti. Ime kho, bhikkhave, pañca dhammā bhāvitā bahulīkatā ekantanibbidāya virāgāya nirodhāya upasamāya abhiññāya sambodhāya nibbānāya saṃvattantī’’ti. Navamaṃ.",
+   "zh": "“哪五种呢？诸比丘，于此，比丘于身随观不净而住；于食有厌逆想；于一切世间有不乐想；于一切行随观无常；而且，他的死想于内善加安住。诸比丘，正是这五法，若修习、多修习，则导向一向厌离、离贪、灭尽、寂止、证智、正觉、涅槃。”第九。"
+  },
+  {
+   "idx": 31,
+   "pali": "10. Āsavakkhayasuttaṃ",
+   "zh": "10. [[āsavakkhayasutta|漏尽经]]"
+  },
+  {
+   "idx": 32,
+   "pali": "‘‘Pañcime, bhikkhave, dhammā bhāvitā bahulīkatā āsavānaṃ khayāya saṃvattanti. Katame pañca? Idha, bhikkhave, bhikkhu asubhānupassī kāye viharati, āhāre paṭikūlasaññī , sabbaloke anabhiratasaññī, sabbasaṅkhāresu aniccānupassī, maraṇasaññā kho panassa ajjhattaṃ sūpaṭṭhitā hoti. Ime kho, bhikkhave, pañca dhammā bhāvitā bahulīkatā āsavānaṃ khayāya saṃvattantī’’ti. Dasamaṃ.",
+   "zh": "“诸比丘，有此五种法，修习并多修习，能导向诸漏尽。哪五种呢？诸比丘，在此，比丘于身安住随观不净，于食有厌逆想，于一切世间有不乐想，于一切行随观无常，而他的死想善巧地安住于内。诸比丘，正是此五种法，修习并多修习，能导向诸漏尽。”第十。",
+   "n": "70"
+  },
+  {
+   "idx": 33,
+   "pali": "Saññāvaggo dutiyo.",
+   "zh": "想品第二"
+  },
+  {
+   "idx": 34,
+   "pali": "Tassuddānaṃ –",
+   "zh": "其摄颂："
+  },
+  {
+   "idx": 35,
+   "pali": "Dve ca saññā dve vaḍḍhī ca, sākacchena ca sājīvaṃ;",
+   "zh": "二想与二种增长，论议及共命；",
+   "type": "verse"
+  },
+  {
+   "idx": 36,
+   "pali": "Iddhipādā ca dve vuttā, nibbidā cāsavakkhayāti.",
+   "zh": "已说二种神足，厌离与漏尽。",
+   "type": "verse"
+  }
+ ]
+}

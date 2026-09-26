@@ -1,0 +1,988 @@
+{
+ "uid": 36,
+ "title": "2. 受相应",
+ "nik": "SN",
+ "segs": [
+  {
+   "idx": 178,
+   "pali": "2. Vedanāsaṃyuttaṃ",
+   "zh": "2. 受相应"
+  },
+  {
+   "idx": 179,
+   "pali": "1. Sagāthāvaggo",
+   "zh": "1. 有偈品"
+  },
+  {
+   "idx": 180,
+   "pali": "1. Samādhisuttaṃ",
+   "zh": "1. [[samādhisutta|定经]]"
+  },
+  {
+   "idx": 3,
+   "pali": "‘‘Tisso imā, bhikkhave, vedanā. Katamā tisso? Sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā – imā kho, bhikkhave, tisso vedanāti.",
+   "zh": "“诸比丘，有这三种受。哪三种？乐受、苦受、不苦不乐受。诸比丘，这便是三种受。",
+   "n": "249"
+  },
+  {
+   "idx": 4,
+   "pali": "‘‘Samāhito sampajāno, sato buddhassa sāvako;",
+   "zh": "“心入定、正知、具念的佛陀弟子，",
+   "type": "verse"
+  },
+  {
+   "idx": 5,
+   "pali": "Vedanā ca pajānāti, vedanānañca sambhavaṃ.",
+   "zh": "遍知受，亦遍知受的集起，",
+   "type": "verse"
+  },
+  {
+   "idx": 6,
+   "pali": "‘‘Yattha cetā nirujjhanti, maggañca khayagāminaṃ;",
+   "zh": "“他如实了知这些受于何处灭尽，以及通向灭尽之道；",
+   "type": "verse"
+  },
+  {
+   "idx": 7,
+   "pali": "Vedanānaṃ khayā bhikkhu, nicchāto parinibbuto’’ti. paṭhamaṃ;",
+   "zh": "以受的灭尽，比丘无有渴爱，究竟寂灭。这是第一。",
+   "type": "verse"
+  },
+  {
+   "idx": 181,
+   "pali": "2. Sukhasuttaṃ",
+   "zh": "2. [[sukhasutta|乐经]]"
+  },
+  {
+   "idx": 9,
+   "pali": "‘‘Tisso imā, bhikkhave, vedanā. Katamā tisso? Sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā – imā kho, bhikkhave, tisso vedanāti.",
+   "zh": "“诸比丘，有三种受。哪三种？乐受、苦受、不苦不乐受。诸比丘，这便是三种受。",
+   "n": "250"
+  },
+  {
+   "idx": 10,
+   "pali": "‘‘Sukhaṃ vā yadi vā dukkhaṃ, adukkhamasukhaṃ saha;",
+   "zh": "“无论是乐受、苦受，还是不苦不乐受，",
+   "type": "verse"
+  },
+  {
+   "idx": 11,
+   "pali": "Ajjhattañca bahiddhā ca, yaṃ kiñci atthi veditaṃ.",
+   "zh": "无论是内在的、外在的，任何所感受者，",
+   "type": "verse"
+  },
+  {
+   "idx": 12,
+   "pali": "‘‘Etaṃ dukkhanti ñatvāna, mosadhammaṃ palokinaṃ;",
+   "zh": "“了知‘此是苦’后，便明白它是虚妄之法、终归坏灭；",
+   "type": "verse"
+  },
+  {
+   "idx": 13,
+   "pali": "Phussa phussa vayaṃ passaṃ, evaṃ tattha virajjatī’’ti. dutiyaṃ;",
+   "zh": "触了又触，见其灭坏；如是，他便对此离染。第二经。",
+   "type": "verse"
+  },
+  {
+   "idx": 182,
+   "pali": "3. Pahānasuttaṃ",
+   "zh": "3. [[pahānasutta|舍断经]]"
+  },
+  {
+   "idx": 15,
+   "pali": "‘‘Tisso imā, bhikkhave, vedanā. Katamā tisso? Sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā. Sukhāya, bhikkhave, vedanāya rāgānusayo pahātabbo, dukkhāya vedanāya paṭighānusayo pahātabbo, adukkhamasukhāya vedanāya avijjānusayo pahātabbo. Yato kho, bhikkhave, bhikkhuno sukhāya vedanāya rāgānusayo pahīno hoti, dukkhāya vedanāya paṭighānusayo pahīno hoti, adukkhamasukhāya vedanāya avijjānusayo pahīno hoti, ayaṃ vuccati, bhikkhave, ‘bhikkhu niranusayo sammaddaso acchecchi taṇhaṃ, vivattayi saṃyojanaṃ, sammā mānābhisamayā antamakāsi dukkhassā’’’ti.",
+   "zh": "“比丘们，有三种受。是哪三种？乐受、苦受、不苦不乐受。比丘们，对于乐受，应断贪随眠；对于苦受，应断嗔随眠；对于不苦不乐受，应断无明随眠。比丘们，当一位比丘已断除了乐受的贪随眠，已断除了苦受的嗔随眠，已断除了不苦不乐受的无明随眠时，他便称为无随眠者、正观者，已断渴爱、已解结缚，以正智通达慢而终结了苦。”",
+   "n": "251"
+  },
+  {
+   "idx": 16,
+   "pali": "‘‘Sukhaṃ vedayamānassa , vedanaṃ appajānato;",
+   "zh": "“感受乐受时，若于感受不如实了知，",
+   "type": "verse"
+  },
+  {
+   "idx": 17,
+   "pali": "So rāgānusayo hoti, anissaraṇadassino.",
+   "zh": "便生起贪随眠，因他不见出离之道。",
+   "type": "verse"
+  },
+  {
+   "idx": 18,
+   "pali": "‘‘Dukkhaṃ vedayamānassa, vedanaṃ appajānato;",
+   "zh": "“感受着苦受，却不能如实了知那感受时，",
+   "type": "verse"
+  },
+  {
+   "idx": 19,
+   "pali": "Paṭighānusayo hoti, anissaraṇadassino.",
+   "zh": "若不见出离之道，嗔随眠便随之存在。",
+   "type": "verse"
+  },
+  {
+   "idx": 20,
+   "pali": "‘‘Adukkhamasukhaṃ santaṃ, bhūripaññena desitaṃ;",
+   "zh": "“那寂静的不苦不乐受，是广慧者所开示的；",
+   "type": "verse"
+  },
+  {
+   "idx": 21,
+   "pali": "Tañcāpi abhinandati, neva dukkhā pamuccati.",
+   "zh": "若对此感受也生起欢喜，他便不能从苦中解脱。",
+   "type": "verse"
+  },
+  {
+   "idx": 96,
+   "pali": "‘‘Yato ca bhikkhu ātāpī, sampajaññaṃ na riñcati ;",
+   "zh": "“而当比丘精勤，不失正知时，",
+   "type": "verse"
+  },
+  {
+   "idx": 97,
+   "pali": "Tato so vedanā sabbā, parijānāti paṇḍito.",
+   "zh": "那时，这位智者遍知一切感受。",
+   "type": "verse"
+  },
+  {
+   "idx": 40,
+   "pali": "So vedanā pariññāya, diṭṭhe dhamme anāsavo;",
+   "zh": "他遍知感受，于现法中成为无漏者。",
+   "type": "verse"
+  },
+  {
+   "idx": 41,
+   "pali": "Kāyassa bhedā dhammaṭṭho, saṅkhyaṃ nopeti vedagū’’ti. pañcamaṃ;",
+   "zh": "他安住于法，身坏之后，不堕于数，是为达究竟之知者。第五经。",
+   "type": "verse"
+  },
+  {
+   "idx": 183,
+   "pali": "4. Pātālasuttaṃ",
+   "zh": "4. [[pātālasutta|深渊经]]"
+  },
+  {
+   "idx": 27,
+   "pali": "‘‘Assutavā , bhikkhave, puthujjano yaṃ vācaṃ bhāsati – ‘atthi mahāsamudde pātālo’ti. Taṃ kho panetaṃ, bhikkhave, assutavā puthujjano asantaṃ avijjamānaṃ evaṃ vācaṃ bhāsati – ‘atthi mahāsamudde pātālo’ti. Sārīrikānaṃ kho etaṃ, bhikkhave, dukkhānaṃ vedanānaṃ adhivacanaṃ yadidaṃ ‘pātālo’ti. Assutavā, bhikkhave, puthujjano sārīrikāya dukkhāya vedanāya phuṭṭho samāno socati kilamati paridevati urattāḷiṃ kandati sammohaṃ āpajjati. Ayaṃ vuccati, bhikkhave, ‘assutavā puthujjano pātāle na paccuṭṭhāsi, gādhañca nājjhagā’. Sutavā ca kho, bhikkhave, ariyasāvako sārīrikāya dukkhāya vedanāya phuṭṭho samāno neva socati, na kilamati, na paridevati, na urattāḷiṃ kandati, na sammohaṃ āpajjati. Ayaṃ vuccati, bhikkhave, ‘sutavā ariyasāvako pātāle paccuṭṭhāsi, gādhañca ajjhagā’’’ti.",
+   "zh": "“诸比丘，未受教导的凡夫会说：‘大海中有深渊。’然而，诸比丘，那是不存在、不真实的事物，而未受教导的凡夫竟如此说：‘大海中有深渊。’诸比丘，‘深渊’一词，实指身体之苦受。当未受教导的凡夫为身体苦受所触时，便忧戚、疲厌、哀叹、捶胸号泣，陷入迷乱。诸比丘，这便称为：未受教导的凡夫于深渊中不能立起，未得立足之处。而诸比丘，已受教导的圣弟子为身体苦受所触时，不忧戚、不疲厌、不哀叹、不捶胸号泣，不陷入迷乱。诸比丘，这便称为：已受教导的圣弟子于深渊中立起，得立足之处。”",
+   "n": "252"
+  },
+  {
+   "idx": 28,
+   "pali": "‘‘Yo etā nādhivāseti, uppannā vedanā dukhā;",
+   "zh": "“于诸苦受之生起，若不能安忍：",
+   "type": "verse"
+  },
+  {
+   "idx": 29,
+   "pali": "Sārīrikā pāṇaharā, yāhi phuṭṭho pavedhati.",
+   "zh": "这些身受能夺命，彼触之即战栗。",
+   "type": "verse"
+  },
+  {
+   "idx": 30,
+   "pali": "‘‘Akkandati parodati, dubbalo appathāmako;",
+   "zh": "“他号啕哭泣，虚弱无力——",
+   "type": "verse"
+  },
+  {
+   "idx": 31,
+   "pali": "Na so pātāle paccuṭṭhāsi, atho gādhampi nājjhagā.",
+   "zh": "他既无法从深渊中挺身而起，也未能寻得任何立足之处。",
+   "type": "verse"
+  },
+  {
+   "idx": 32,
+   "pali": "‘‘Yo cetā adhivāseti, uppannā vedanā dukhā;",
+   "zh": "“若有人能忍受这些已生起的苦受，",
+   "type": "verse"
+  },
+  {
+   "idx": 33,
+   "pali": "Sārīrikā pāṇaharā, yāhi phuṭṭho na vedhati;",
+   "zh": "那些身体上的、能夺命的感受生起时，触及其身，他不动摇。",
+   "type": "verse"
+  },
+  {
+   "idx": 34,
+   "pali": "Sa ve pātāle paccuṭṭhāsi, atho gādhampi ajjhagā’’ti. catutthaṃ;",
+   "zh": "他确从深渊中升起，并且找到了立足之处。” 第四经。",
+   "type": "verse"
+  },
+  {
+   "idx": 184,
+   "pali": "5. Daṭṭhabbasuttaṃ",
+   "zh": "5. [[daṭṭhabbasutta|应见经]]"
+  },
+  {
+   "idx": 36,
+   "pali": "‘‘Tisso imā, bhikkhave, vedanā. Katamā tisso? Sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā. Sukhā, bhikkhave, vedanā dukkhato daṭṭhabbā, dukkhā vedanā sallato daṭṭhabbā, adukkhamasukhā vedanā aniccato daṭṭhabbā. Yato kho, bhikkhave, bhikkhuno sukhā vedanā dukkhato diṭṭhā hoti, dukkhā vedanā sallato diṭṭhā hoti, adukkhamasukhā vedanā aniccato diṭṭhā hoti – ayaṃ vuccati, bhikkhave, ‘bhikkhu sammaddaso acchecchi taṇhaṃ, vivattayi saṃyojanaṃ, sammā mānābhisamayā antamakāsi dukkhassā’’’ti.",
+   "zh": "“诸比丘，有这三种受。哪三种？乐受、苦受、不苦不乐受。诸比丘，乐受当视为苦，苦受当视为箭，不苦不乐受当视为无常。当比丘如实将乐受视为苦、苦受视为箭、不苦不乐受视为无常时，他便堪称‘具足正见者，已断除渴爱，解开结缚，以彻底洞悉慢而终结了苦’。”",
+   "n": "253"
+  },
+  {
+   "idx": 37,
+   "pali": "‘‘Yo sukhaṃ dukkhato adda, dukkhamaddakkhi sallato;",
+   "zh": "“他将乐视为苦，将苦视为箭；",
+   "type": "verse"
+  },
+  {
+   "idx": 38,
+   "pali": "Adukkhamasukhaṃ santaṃ, addakkhi naṃ aniccato.",
+   "zh": "将寂静的不苦不乐受，视为无常。",
+   "type": "verse"
+  },
+  {
+   "idx": 39,
+   "pali": "‘‘Sa ve sammaddaso bhikkhu, parijānāti vedanā;",
+   "zh": "“具足正见的比丘，遍知诸受；",
+   "type": "verse"
+  },
+  {
+   "idx": 24,
+   "pali": "‘‘So vedanā pariññāya, diṭṭhe dhamme anāsavo;",
+   "zh": "“遍知诸受之后，于现法便成为无漏者；",
+   "type": "verse"
+  },
+  {
+   "idx": 25,
+   "pali": "Kāyassa bhedā dhammaṭṭho, saṅkhyaṃ nopeti vedagū’’ti. tatiyaṃ;",
+   "zh": "身坏命终，住于法者，通达究竟，不堕数中。第三经。",
+   "type": "verse"
+  },
+  {
+   "idx": 185,
+   "pali": "6. Sallasuttaṃ",
+   "zh": "6. [[sallasutta|箭经]]"
+  },
+  {
+   "idx": 43,
+   "pali": "‘‘Assutavā, bhikkhave, puthujjano sukhampi vedanaṃ vedayati , dukkhampi vedanaṃ vedayati, adukkhamasukhampi vedanaṃ vedayati. Sutavā, bhikkhave, ariyasāvako sukhampi vedanaṃ vedayati , dukkhampi vedanaṃ vedayati, adukkhamasukhampi vedanaṃ vedayati. Tatra, bhikkhave, ko viseso ko adhippayāso kiṃ nānākaraṇaṃ sutavato ariyasāvakassa assutavatā puthujjanenā’’ti? Bhagavaṃmūlakā no, bhante, dhammā…pe… assutavā. Bhikkhave, puthujjano dukkhāya vedanāya phuṭṭho samāno socati kilamati paridevati urattāḷiṃ kandati sammohaṃ āpajjati. So dve vedanā vedayati – kāyikañca, cetasikañca. Seyyathāpi, bhikkhave, purisaṃ sallena vijjheyya . Tamenaṃ dutiyena sallena anuvedhaṃ vijjheyya . Evañhi so, bhikkhave, puriso dvisallena vedanaṃ vedayati. Evameva kho, bhikkhave, assutavā puthujjano dukkhāya vedanāya phuṭṭho samāno socati kilamati paridevati urattāḷiṃ kandati sammohaṃ āpajjati. So dve vedanā vedayati – kāyikañca, cetasikañca. Tassāyeva kho pana dukkhāya vedanāya phuṭṭho samāno paṭighavā hoti. Tamenaṃ dukkhāya vedanāya paṭighavantaṃ, yo dukkhāya vedanāya paṭighānusayo, so anuseti. So dukkhāya vedanāya phuṭṭho samāno kāmasukhaṃ abhinandati. Taṃ kissa hetu? Na hi so, bhikkhave, pajānāti assutavā puthujjano aññatra kāmasukhā dukkhāya vedanāya nissaraṇaṃ, tassa kāmasukhañca abhinandato, yo sukhāya vedanāya rāgānusayo, so anuseti. So tāsaṃ vedanānaṃ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṃ nappajānāti. Tassa tāsaṃ vedanānaṃ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṃ appajānato, yo adukkhamasukhāya vedanāya avijjānusayo, so anuseti. So sukhañce vedanaṃ vedayati, saññutto naṃ vedayati. Dukkhañce vedanaṃ vedayati, saññutto naṃ vedayati. Adukkhamasukhañce vedanaṃ vedayati, saññutto naṃ vedayati. Ayaṃ vuccati, bhikkhave, ‘assutavā puthujjano saññutto jātiyā jarāya maraṇena sokehi paridevehi dukkhehi domanassehi upāyāsehi, saññutto dukkhasmā’ti vadāmi.",
+   "zh": "“诸比丘，未听闻的凡夫感受乐受，也感受苦受，也感受不苦不乐受。诸比丘，已受教的圣弟子也感受乐受，也感受苦受，也感受不苦不乐受。那么，诸比丘，已受教的圣弟子与未听闻的凡夫之间，在这点上，有何差别、有何不同、有何区分呢？”“尊者，我们的法以世尊为根本……诸比丘，未听闻的凡夫被苦受所触时，便忧愁、疲惫、悲泣、捶胸痛哭、陷入迷乱。他感受了两种受：身受与心受。诸比丘，就犹如以一支箭射中一人，接着再以第二支箭射向他。诸比丘，如此，那人便感受着两支箭的受。同样地，诸比丘，未听闻的凡夫被苦受所触时，忧愁、疲惫、悲泣、捶胸痛哭、陷入迷乱。他感受了两种受：身的受与心的受。当他正被这苦受所触时，便生起抗拒。于苦受生起抗拒时，对苦受的瞋随眠便潜伏下来。被苦受所触时，他就在感官之乐中寻求满足。为什么呢？诸比丘，因为未听闻的凡夫不知除了感官之乐以外，还有从苦受中出离的途径。当他于感官之乐中寻求满足时，对乐受的贪随眠便潜伏下来。他不如实了知这些受的集起、灭去、乐味、过患与出离。对于不如实了知这些受的集起、灭去、乐味、过患与出离的他，对不苦不乐受的无明随眠便潜伏下来。他若感受乐受，是被系缚着感受；若感受苦受，是被系缚着感受；若感受不苦不乐受，也是被系缚着感受。诸比丘，这就称为‘与生、老、死，与愁、悲泣、苦、忧恼、绝望相系缚的未听闻凡夫’。我说，他与苦相系缚。”",
+   "n": "254"
+  },
+  {
+   "idx": 44,
+   "pali": "‘‘Sutavā ca kho, bhikkhave, ariyasāvako dukkhāya vedanāya phuṭṭho samāno na socati, na kilamati, na paridevati, na urattāḷiṃ kandati, na sammohaṃ āpajjati. So ekaṃ vedanaṃ vedayati – kāyikaṃ, na cetasikaṃ.",
+   "zh": "“诸比丘，已闻法的圣弟子被苦受触及时，不忧愁、不疲惫、不悲泣、不捶胸啼哭、不陷入迷惑。他唯感受一种受——身的受，而非心的受。”"
+  },
+  {
+   "idx": 45,
+   "pali": "‘‘Seyyathāpi , bhikkhave, purisaṃ sallena vijjheyya. Tamenaṃ dutiyena sallena anuvedhaṃ na vijjheyya. Evañhi so, bhikkhave, puriso ekasallena vedanaṃ vedayati. Evameva kho, bhikkhave, sutavā ariyasāvako dukkhāya vedanāya phuṭṭho samāno na socati, na kilamati, na paridevati, na urattāḷiṃ kandati, na sammohaṃ āpajjati. So ekaṃ vedanaṃ vedayati – kāyikaṃ, na cetasikaṃ. Tassāyeva kho pana dukkhāya vedanāya phuṭṭho samāno paṭighavā na hoti. Tamenaṃ dukkhāya vedanāya appaṭighavantaṃ, yo dukkhāya vedanāya paṭighānusayo, so nānuseti. So dukkhāya vedanāya phuṭṭho samāno kāmasukhaṃ nābhinandati. Taṃ kissa hetu? Pajānāti hi so, bhikkhave, sutavā ariyasāvako aññatra kāmasukhā dukkhāya vedanāya nissaraṇaṃ. Tassa kāmasukhaṃ nābhinandato yo sukhāya vedanāya rāgānusayo, so nānuseti. So tāsaṃ vedanānaṃ samudayañca atthaṅgamañca assādañca ādīnavaṃ ca nissaraṇañca yathābhūtaṃ pajānāti. Tassa tāsaṃ vedanānaṃ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṃ pajānato, yo adukkhamasukhāya vedanāya avijjānusayo, so nānuseti. So sukhañce vedanaṃ vedayati, visaññutto naṃ vedayati. Dukkhañce vedanaṃ vedayati , visaññutto naṃ vedayati. Adukkhamasukhañce vedanaṃ vedayati, visaññutto naṃ vedayati. Ayaṃ vuccati, bhikkhave, ‘sutavā ariyasāvako visaññutto jātiyā jarāya maraṇena sokehi paridevehi dukkhehi domanassehi upāyāsehi , visaññutto dukkhasmā’ti vadāmi. Ayaṃ kho, bhikkhave, viseso, ayaṃ adhippayāso, idaṃ nānākaraṇaṃ sutavato ariyasāvakassa assutavatā puthujjanenā’’ti.",
+   "zh": "“诸比丘，犹如有人被一支箭射中，而未被第二支箭随之射中。诸比丘，如此，此人便只感受一支箭的受。同样地，诸比丘，已受教导的圣弟子被苦受触及时，不忧愁，不疲厌，不悲泣，不捶胸痛哭，不陷入迷惘。他只感受一种受——身受，而非心受。当他被这苦受触及时，不生抗拒。因他于苦受不生抗拒，对苦受的嗔随眠便不潜伏。被苦受触及时，他不于感官之乐中寻求满足。何以故？诸比丘，因为已受教导的圣弟子，了知除感官之乐外，另有从苦受出离之途。于感官之乐不寻求满足的他，对乐受的贪随眠便不潜伏。他如实了知这些受的集起、灭去、乐味、过患与出离。如实了知这些受的集起、灭去、乐味、过患与出离的他，对不苦不乐受的无明随眠便不潜伏。他若感受乐受，离系而感受之；若感受苦受，离系而感受之；若感受不苦不乐受，亦离系而感受之。诸比丘，这位已受教导的圣弟子，称为与生、老、死，与愁、悲、苦、忧、绝望离系者。我说，他与苦离系。诸比丘，这便是已受教导的圣弟子与未受教导的凡夫之间的差别、区别与不同。”"
+  },
+  {
+   "idx": 46,
+   "pali": "‘‘Na vedanaṃ vedayati sapañño,",
+   "zh": "“具足智慧者，并非（如凡夫般）感受诸受，",
+   "type": "verse"
+  },
+  {
+   "idx": 47,
+   "pali": "Sukhampi dukkhampi bahussutopi;",
+   "zh": "无论乐受或苦受，纵然是多闻者，",
+   "type": "verse"
+  },
+  {
+   "idx": 48,
+   "pali": "Ayañca dhīrassa puthujjanena,",
+   "zh": "这正是智者与凡夫之间、",
+   "type": "verse"
+  },
+  {
+   "idx": 49,
+   "pali": "Mahā viseso kusalassa hoti.",
+   "zh": "善巧者的巨大差别。",
+   "type": "verse"
+  },
+  {
+   "idx": 50,
+   "pali": "‘‘Saṅkhātadhammassa bahussutassa,",
+   "zh": "“通达法义、广学多闻之人，",
+   "type": "verse"
+  },
+  {
+   "idx": 51,
+   "pali": "Vipassato lokamimaṃ parañca;",
+   "zh": "如实洞见此世与他世；",
+   "type": "verse"
+  },
+  {
+   "idx": 52,
+   "pali": "Iṭṭhassa dhammā na mathenti cittaṃ,",
+   "zh": "可意之境，不扰动其心，",
+   "type": "verse"
+  },
+  {
+   "idx": 53,
+   "pali": "Aniṭṭhato no paṭighātameti.",
+   "zh": "不可意之境，亦不生排斥。",
+   "type": "verse"
+  },
+  {
+   "idx": 54,
+   "pali": "‘‘Tassānurodhā athavā virodhā,",
+   "zh": "“不论对它随顺，还是对它违逆，",
+   "type": "verse"
+  },
+  {
+   "idx": 55,
+   "pali": "Vidhūpitā atthagatā na santi;",
+   "zh": "已消散、已灭尽，不复存在；",
+   "type": "verse"
+  },
+  {
+   "idx": 56,
+   "pali": "Padañca ñatvā virajaṃ asokaṃ,",
+   "zh": "了知那无尘、无忧的境界，",
+   "type": "verse"
+  },
+  {
+   "idx": 57,
+   "pali": "Sammā pajānāti bhavassa pāragū’’ti. chaṭṭhaṃ;",
+   "zh": "他正确地了知，抵达有之彼岸。 第六经。",
+   "type": "verse"
+  },
+  {
+   "idx": 186,
+   "pali": "7. Paṭhamagelaññasuttaṃ",
+   "zh": "7. [[paṭhamagelaññasutta|病经第一]]"
+  },
+  {
+   "idx": 59,
+   "pali": "Ekaṃ samayaṃ bhagavā vesāliyaṃ viharati mahāvane kūṭāgārasālāyaṃ. Atha kho bhagavā sāyanhasamayaṃ paṭisallānā vuṭṭhito yena gilānasālā tenupasaṅkami; upasaṅkamitvā paññatte āsane nisīdi. Nisajja kho bhagavā bhikkhū āmantesi –",
+   "zh": "一时，世尊住在[[vesālī|毗舍离]]城的大林[[kūṭāgārasālā|重阁讲堂]]。傍晚时分，世尊从独处禅修中起身，前往病房，在铺设好的座位上坐下。坐下后，世尊对诸比丘说：",
+   "n": "255"
+  },
+  {
+   "idx": 60,
+   "pali": "‘‘Sato, bhikkhave, bhikkhu sampajāno kālaṃ āgameyya. Ayaṃ vo amhākaṃ anusāsanī.",
+   "zh": "“诸比丘，比丘应当具念、正知地等待时日的到来。这是我们对你们的教诫。"
+  },
+  {
+   "idx": 61,
+   "pali": "‘‘Kathañca, bhikkhave, bhikkhu sato hoti? Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṃ; vedanāsu vedanānupassī viharati…pe… citte cittānupassī viharati…pe… dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṃ . Evaṃ kho, bhikkhave, bhikkhu sato hoti.",
+   "zh": "“那么，诸比丘，比丘如何具念呢？在此，比丘于身随观身而住，精勤、正知、具念，能调伏世间的贪欲与忧恼；于受随观受而住……于心随观心而住……于法随观法而住，精勤、正知、具念，能调伏世间的贪欲与忧恼。诸比丘，比丘便是如此具念。”"
+  },
+  {
+   "idx": 62,
+   "pali": "‘‘Kathañca, bhikkhave, bhikkhu sampajāno hoti? Idha, bhikkhave, bhikkhu abhikkante paṭikkante sampajānakārī hoti, ālokite vilokite sampajānakārī hoti, samiñjite pasārite sampajānakārī hoti, saṅghāṭipattacīvaradhāraṇe sampajānakārī hoti, asite pīte khāyite sāyite sampajānakārī hoti, uccārapassāvakamme sampajānakārī hoti, gate ṭhite nisinne sutte jāgarite bhāsite tuṇhībhāve sampajānakārī hoti. Evaṃ kho, bhikkhave, bhikkhu sampajānakārī hoti. Sato, bhikkhave, bhikkhu sampajāno kālaṃ āgameyya. Ayaṃ vo amhākaṃ anusāsanī.",
+   "zh": "“诸比丘，比丘如何成为正知者呢？在此，比丘于前进、返回时正知而行；于前看、侧看时正知而行；于弯曲、伸展时正知而行；于穿着僧衣、执持衣钵时正知而行；于吃、喝、咀嚼、品尝时正知而行；于大便、小便时正知而行；于行走、站立、坐着、入睡、醒来、说话、沉默时正知而行。诸比丘，比丘便是这样正知而行。诸比丘，比丘应当具念、正知地等待时日的到来。这是我们对你们的教诫。”"
+  },
+  {
+   "idx": 63,
+   "pali": "‘‘Tassa ce, bhikkhave, bhikkhuno evaṃ satassa sampajānassa appamattassa ātāpino pahitattassa viharato uppajjati sukhā vedanā, so evaṃ pajānāti – ‘uppannā kho myāyaṃ sukhā vedanā. Sā ca kho paṭicca, no appaṭicca. Kiṃ paṭicca? Imameva kāyaṃ paṭicca. Ayaṃ kho pana kāyo anicco saṅkhato paṭiccasamuppanno. Aniccaṃ kho pana saṅkhataṃ paṭiccasamuppannaṃ kāyaṃ paṭicca uppannā sukhā vedanā kuto niccā bhavissatī’ti! So kāye ca sukhāya ca vedanāya aniccānupassī viharati, vayānupassī viharati, virāgānupassī viharati, nirodhānupassī viharati, paṭinissaggānupassī viharati. Tassa kāye ca sukhāya ca vedanāya aniccānupassino viharato, vayānupassino viharato, virāgānupassino viharato, nirodhānupassino viharato, paṭinissaggānupassino viharato, yo kāye ca sukhāya ca vedanāya rāgānusayo, so pahīyati.",
+   "zh": "“诸比丘，若比丘安住于具念、正知、不放逸、精勤、努力，当生起乐受时，他如此了知：‘我生起了此乐受。然而此乐受依缘而生，非无因缘。依于何缘？即依于此身体。而此身体是无常、造作、依缘而生的。依于无常、造作、缘生之身所生起的乐受，岂能恒常？’他于身体与乐受，随观无常而安住，随观坏灭而安住，随观离欲而安住，随观熄灭而安住，随观舍离而安住。当他于身体与乐受，如此随观无常、坏灭、离欲、熄灭、舍离而安住时，他于身体与乐受的贪随眠便得断除。”"
+  },
+  {
+   "idx": 64,
+   "pali": "‘‘Tassa ce, bhikkhave, bhikkhuno evaṃ satassa sampajānassa appamattassa ātāpino pahitattassa viharato uppajjati dukkhā vedanā. So evaṃ pajānāti – ‘uppannā kho myāyaṃ dukkhā vedanā. Sā ca kho paṭicca, no appaṭicca. Kiṃ paṭicca? Imameva kāyaṃ paṭicca. Ayaṃ kho pana kāyo anicco saṅkhato paṭiccasamuppanno. Aniccaṃ kho pana saṅkhataṃ paṭiccasamuppannaṃ kāyaṃ paṭicca uppannā dukkhā vedanā kuto niccā bhavissatī’ti! So kāye ca dukkhāya vedanāya aniccānupassī viharati, vayānupassī viharati, virāgānupassī viharati, nirodhānupassī viharati, paṭinissaggānupassī viharati. Tassa kāye ca dukkhāya ca vedanāya aniccānupassino viharato…pe… paṭinissaggānupassino viharato, yo kāye ca dukkhāya ca vedanāya paṭighānusayo, so pahīyati.",
+   "zh": "“诸比丘，若比丘安住于具念、正知、不放逸、精勤、努力，当生起苦受时，他如此了知：‘我生起了此苦受。然而此苦受依缘而生，非无因缘。依于何缘？即依于此身体。而此身体是无常、造作、依缘而生的。依于无常、造作、缘生之身所生起的苦受，岂能恒常？’他于身体与苦受，随观无常而安住，随观坏灭而安住，随观离欲而安住，随观熄灭而安住，随观舍离而安住。当他于身体与苦受，如此随观无常、坏灭、离欲、熄灭、舍离而安住时，他于身体与苦受的嗔随眠便得断除。”"
+  },
+  {
+   "idx": 65,
+   "pali": "‘‘Tassa ce, bhikkhave, bhikkhuno evaṃ satassa sampajānassa appamattassa ātāpino pahitattassa viharato uppajjati adukkhamasukhā vedanā, so evaṃ pajānāti – ‘uppannā kho myāyaṃ adukkhamasukhā vedanā. Sā ca kho paṭicca, no appaṭicca. Kiṃ paṭicca? Imameva kāyaṃ paṭicca. Ayaṃ kho pana kāyo anicco saṅkhato paṭiccasamuppanno. Aniccaṃ kho pana saṅkhataṃ paṭiccasamuppannaṃ kāyaṃ paṭicca uppannā adukkhamasukhā vedanā kuto niccā bhavissatī’ti! So kāye ca adukkhamasukhāya ca vedanāya aniccānupassī viharati, vayānupassī viharati, virāgānupassī viharati, nirodhānupassī viharati, paṭinissaggānupassī viharati. Tassa kāye ca adukkhamasukhāya ca vedanāya aniccānupassino viharato…pe… paṭinissaggānupassino viharato, yo kāye ca adukkhamasukhāya ca vedanāya avijjānusayo, so pahīyati.",
+   "zh": "“诸比丘，若这位比丘如此具念、正知、不放逸、精勤、意志坚定而安住时，生起了不苦不乐受，他便这样了知：‘我这不苦不乐受已经生起。它是依缘而生的，并非无依缘。依于何缘？即依于此身。但此身无常、有为、依缘而生。既依于此无常、有为、依缘而生之身所生的不苦不乐受，又哪里会有常呢？’他便安住于观察身与不苦不乐受的无常，安住于观察其衰灭，安住于观察其消褪，安住于观察其息灭，安住于观察其舍离。当他如此安住于观察身与不苦不乐受的无常……乃至观察其舍离时，对于身与不苦不乐受的无明随眠，便被他断除了。”"
+  },
+  {
+   "idx": 66,
+   "pali": "‘‘So sukhañce vedanaṃ vedayati, sā aniccāti pajānāti, anajjhositāti pajānāti, anabhinanditāti pajānāti; dukkhañce vedanaṃ vedayati, sā aniccāti pajānāti, anajjhositāti pajānāti, anabhinanditāti pajānāti; adukkhamasukhañce vedanaṃ vedayati, sā aniccāti pajānāti, anajjhositāti pajānāti, anabhinanditāti pajānāti. So sukhañce vedanaṃ vedayati, visaññutto naṃ vedayati; dukkhañce vedanaṃ vedayati, visaññutto naṃ vedayati; adukkhamasukhañce vedanaṃ vedayati, visaññutto naṃ vedayati. So kāyapariyantikaṃ vedanaṃ vedayamāno ‘kāyapariyantikaṃ vedanaṃ vedayāmī’ti pajānāti, jīvitapariyantikaṃ vedanaṃ vedayamāno ‘jīvitapariyantikaṃ vedanaṃ vedayāmī’ti pajānāti. ‘Kāyassa bhedā uddhaṃ jīvitapariyādānā idheva sabbavedayitāni anabhinanditāni sītībhavissantī’ti pajānāti.",
+   "zh": "“当他感受乐受时，他了知：‘此是无常的’，了知：‘此是无所执取的’，了知：‘此是不应欣喜的’；当他感受苦受时，他了知：‘此是无常的’，了知：‘此是无所执取的’，了知：‘此是不应欣喜的’；当他感受不苦不乐受时，他了知：‘此是无常的’，了知：‘此是无所执取的’，了知：‘此是不应欣喜的’。他感受乐受，是离系而感受；感受苦受，是离系而感受；感受不苦不乐受，也是离系而感受。当他正在感受以身命为边际的感受时，他了知：‘我正感受以身命为边际的感受’；当他正在感受以寿命为边际的感受时，他了知：‘我正感受以寿命为边际的感受’。他了知：‘此身崩坏之后，寿命竭尽，就在此处，一切未曾欢喜领受的所感，都将归于清凉。’”"
+  },
+  {
+   "idx": 67,
+   "pali": "‘‘Seyyathāpi, bhikkhave, telañca paṭicca vaṭṭiñca paṭicca telappadīpo jhāyeyya, tasseva telassa ca vaṭṭiyā ca pariyādānā anāhāro nibbāyeyya; evameva kho, bhikkhave, bhikkhu kāyapariyantikaṃ vedanaṃ vedayamāno ‘kāyapariyantikaṃ vedanaṃ vedayāmī’ti pajānāti. Jīvitapariyantikaṃ vedanaṃ vedayamāno ‘jīvitapariyantikaṃ vedanaṃ vedayāmī’ti pajānāti. ‘Kāyassa bhedā uddhaṃ jīvitapariyādānā idheva sabbavedayitāni anabhinanditāni sītībhavissantī’ti pajānātī’’ti. Sattamaṃ.",
+   "zh": "“诸比丘，犹如油灯依油与灯芯而燃，当油与灯芯耗尽，无所添加，便因无燃料而熄灭。同样地，诸比丘，比丘感受以身为边际的感受时，了知：‘我正感受着以身为边际的感受。’感受以生命为边际的感受时，了知：‘我正感受着以生命为边际的感受。’他了知：‘身坏命尽之后，一切所感，因我不再于此生起喜贪，即于此处悉归清凉。’ ”第七经。"
+  },
+  {
+   "idx": 187,
+   "pali": "8. Dutiyagelaññasuttaṃ",
+   "zh": "8. [[dutiyagelaññasutta|第二病经]]"
+  },
+  {
+   "idx": 69,
+   "pali": "Ekaṃ samayaṃ bhagavā vesāliyaṃ viharati mahāvane kūṭāgārasālāyaṃ. Atha kho bhagavā sāyanhasamayaṃ paṭisallānā vuṭṭhito yena gilānasālā tenupasaṅkami; upasaṅkamitvā paññatte āsane nisīdi. Nisajja kho bhagavā bhikkhū āmantesi –",
+   "zh": "一时，世尊住在[[vesālī|毗舍离]]城的大林[[kūṭāgārasālā|重阁讲堂]]。那时，世尊于傍晚时分，结束独处禅坐而起，前往病房；到了之后，在已敷设的座位上坐下。坐定后，世尊对在场的比丘们说：",
+   "n": "256"
+  },
+  {
+   "idx": 70,
+   "pali": "‘‘Sato , bhikkhave, bhikkhu sampajāno kālaṃ āgameyya. Ayaṃ vo amhākaṃ anusāsanī.",
+   "zh": "“诸比丘，比丘应以正念、正知安住，等候命终时刻的来临。这是我对你们的教诫。"
+  },
+  {
+   "idx": 71,
+   "pali": "‘‘Kathañca, bhikkhave, bhikkhu sato hoti? Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṃ; vedanāsu vedanānupassī viharati… citte cittānupassī viharati… dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṃ. Evaṃ kho, bhikkhave, bhikkhu sato hoti.",
+   "zh": "“诸比丘，比丘如何为具念？诸比丘，于此法中，比丘于身，安住于随观身，精勤、正知、具念，能调伏世间的贪欲与忧恼；于诸受，安住于随观受……于心，安住于随观心……于诸法，安住于随观法，精勤、正知、具念，调伏世间的贪欲与忧恼。诸比丘，比丘如是名为具念。”"
+  },
+  {
+   "idx": 72,
+   "pali": "‘‘Kathañca , bhikkhave, bhikkhu sampajāno hoti? Idha, bhikkhave, bhikkhu abhikkante paṭikkante sampajānakārī hoti…pe… bhāsite tuṇhībhāve sampajānakārī hoti. Evaṃ kho, bhikkhave, bhikkhu sampajāno hoti. Sato, bhikkhave, bhikkhu sampajāno kālaṃ āgameyya. Ayaṃ vo amhākaṃ anusāsanī.",
+   "zh": "“诸比丘，比丘如何才是正知呢？在此，比丘于前进、返回时正知所作；……（中略）……于说话、沉默时，亦正知所作。诸比丘，比丘便是如此正知。诸比丘，比丘应当具念、正知地等待命终时刻的到来。这是我对你们的教导。"
+  },
+  {
+   "idx": 73,
+   "pali": "‘‘Tassa ce, bhikkhave, bhikkhuno evaṃ satassa sampajānassa appamattassa ātāpino pahitattassa viharato uppajjati sukhā vedanā. So evaṃ pajānāti – ‘uppannā kho myāyaṃ sukhā vedanā; sā ca kho paṭicca, no appaṭicca. Kiṃ paṭicca? Imameva phassaṃ paṭicca. Ayaṃ kho pana phasso anicco saṅkhato paṭiccasamuppanno. Aniccaṃ kho pana saṅkhataṃ paṭiccasamuppannaṃ phassaṃ paṭicca uppannā sukhā vedanā kuto niccā bhavissatī’ti! So phasse ca sukhāya ca vedanāya aniccānupassī viharati, vayānupassī viharati, virāgānupassī viharati, nirodhānupassī viharati, paṭinissaggānupassī viharati. Tassa phasse ca sukhāya ca vedanāya aniccānupassino viharato, vayānupassino viharato, virāgānupassino viharato, nirodhānupassino viharato, paṭinissaggānupassino viharato yo phasse ca sukhāya ca vedanāya rāgānusayo, so pahīyati.",
+   "zh": "“诸比丘，若比丘安住于具念、正知、不放逸、精勤、努力，当生起乐受时，他如此了知：‘我生起了此乐受。然而此乐受依缘而生，非无因缘。依于何缘？即依于此触。而此触是无常、造作、依缘而生的。依于无常、造作、缘生之触所生起的乐受，岂能恒常？’他于触与乐受，随观无常而安住，随观坏灭而安住，随观离欲而安住，随观熄灭而安住，随观舍离而安住。当他于触与乐受，如此随观无常、坏灭、离欲、熄灭、舍离而安住时，他于触与乐受的贪随眠便得断除。”"
+  },
+  {
+   "idx": 74,
+   "pali": "‘‘Tassa ce, bhikkhave, bhikkhuno evaṃ satassa…pe… viharato uppajjati dukkhā vedanā…pe… uppajjati adukkhamasukhā vedanā. So evaṃ pajānāti – ‘uppannā kho myāyaṃ adukkhamasukhā vedanā; sā ca kho paṭicca, no appaṭicca. Kiṃ paṭicca? Imameva phassaṃ paṭicca…pe… kāyassa bhedā uddhaṃ jīvitapariyādānā idheva sabbavedayitāni anabhinanditāni sītībhavissantī’ti pajānāti’’.",
+   "zh": "“诸比丘，若这位比丘如此具念……而住时，生起了苦受……（中略）……生起了不苦不乐受。他如此了知：‘我生起了这不苦不乐受；而这受是依缘而生，非无依缘。依于何缘？即依于此触……（中略）……’他了知：‘身坏命终之后，一切未曾爱乐的感受，便悉皆于此归于清凉。’”"
+  },
+  {
+   "idx": 75,
+   "pali": "‘‘Seyyathāpi, bhikkhave, telañca paṭicca vaṭṭiñca paṭicca telappadīpo jhāyeyya , tasseva telassa ca vaṭṭiyā ca pariyādānā anāhāro nibbāyeyya; evameva kho, bhikkhave, bhikkhu kāyapariyantikaṃ vedanaṃ vedayamāno ‘kāyapariyantikaṃ vedanaṃ vedayāmī’ti pajānāti. Jīvitapariyantikaṃ vedanaṃ vedayamāno ‘jīvitapariyantikaṃ vedanaṃ vedayāmī’ti pajānāti. ‘Kāyassa bhedā uddhaṃ jīvitapariyādānā idheva sabbavedayitāni anabhinanditāni sītībhavissantī’ti pajānātī’’ti. Aṭṭhamaṃ.",
+   "zh": "“诸比丘，譬如一盏油灯，依油与灯芯而燃烧，当油与灯芯耗尽，没有了燃料，便会熄灭。同样地，诸比丘，当比丘感受以身命为边际的感受时，他了知：‘我感受以身命为边际的感受’；感受以寿命为边际的感受时，他了知：‘我感受以寿命为边际的感受’。他了知：‘此身崩坏之后，寿命竭尽，就在此处，一切未曾欢喜领受的所感，都将归于清凉。’”第八经。"
+  },
+  {
+   "idx": 188,
+   "pali": "9. Aniccasuttaṃ",
+   "zh": "9. [[aniccasutta|无常经]]"
+  },
+  {
+   "idx": 77,
+   "pali": "‘‘Tisso imā, bhikkhave, vedanā aniccā saṅkhatā paṭiccasamuppannā khayadhammā vayadhammā virāgadhammā nirodhadhammā. Katamā tisso? Sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā – imā kho, bhikkhave, tisso vedanā aniccā saṅkhatā paṭiccasamuppannā khayadhammā vayadhammā virāgadhammā nirodhadhammā’’ti. Navamaṃ.",
+   "zh": "“诸比丘，有此三种受，是无常、造作、缘起，是灭尽法、坏灭法、褪去法、止息法。哪三种？乐受、苦受、不苦不乐受。诸比丘，正是此三种受，是无常、造作、缘起，是灭尽法、坏灭法、褪去法、止息法。” 第九经。",
+   "n": "257"
+  },
+  {
+   "idx": 189,
+   "pali": "10. Phassamūlakasuttaṃ",
+   "zh": "10. [[phassamūlakasutta|触为根本经]]"
+  },
+  {
+   "idx": 79,
+   "pali": "‘‘Tisso imā, bhikkhave, vedanā phassajā phassamūlakā phassanidānā phassapaccayā. Katamā tisso? Sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā. Sukhavedaniyaṃ, bhikkhave, phassaṃ paṭicca uppajjati sukhā vedanā. Tasseva sukhavedaniyassa phassassa nirodhā, yaṃ tajjaṃ vedayitaṃ sukhavedaniyaṃ phassaṃ paṭicca uppannā sukhā vedanā, sā nirujjhati, sā vūpasammati. Dukkhavedaniyaṃ, bhikkhave, phassaṃ paṭicca uppajjati dukkhā vedanā. Tasseva dukkhavedaniyassa phassassa nirodhā, yaṃ tajjaṃ vedayitaṃ dukkhavedaniyaṃ phassaṃ paṭicca uppannā dukkhā vedanā, sā nirujjhati, sā vūpasammati. Adukkhamasukhavedaniyaṃ, bhikkhave, phassaṃ paṭicca uppajjati adukkhamasukhā vedanā. Tasseva adukkhamasukhavedaniyassa phassassa nirodhā, yaṃ tajjaṃ vedayitaṃ adukkhamasukhavedaniyaṃ phassaṃ paṭicca uppannā adukkhamasukhā vedanā, sā nirujjhati, sā vūpasammati. Seyyathāpi , bhikkhave, dvinnaṃ kaṭṭhānaṃ saṅghaṭṭanasamodhānā usmā jāyati, tejo abhinibbattati. Tesaṃyeva kaṭṭhānaṃ nānābhāvā vinikkhepā, yā tajjā usmā, sā nirujjhati, sā vūpasammati. Evameva kho, bhikkhave, imā tisso vedanā phassajā phassamūlakā phassanidānā phassapaccayā. Tajjaṃ phassaṃ paṭicca tajjā vedanā uppajjanti. Tajjassa phassassa nirodhā tajjā vedanā nirujjhantī’’ti. Dasamaṃ.",
+   "zh": "“诸比丘，有这三种感受，依触而生，以触为根本，以触为来源，以触为缘。哪三种？乐受、苦受、不苦不乐受。诸比丘，依于可感受乐的触，乐受便生起。当那可感受乐的触止息时，随之而生、依彼触而起的乐受，即灭去、平息。诸比丘，依于可感受苦的触，苦受便生起。当那可感受苦的触止息时，随之而生、依彼触而起的苦受，即灭去、平息。诸比丘，依于可感受不苦不乐受的触，不苦不乐受便生起。当那可感受不苦不乐受的触止息时，随之而生、依彼触而起的不苦不乐受，即灭去、平息。诸比丘，犹如两根木棒彼此摩擦、会合，产生热量，生起火来。当那两根木棒被分开、被丢弃时，随之而生的热量即灭去、平息。同样地，诸比丘，这三种感受，依触而生，以触为根本，以触为来源，以触为缘。依于相应的触，相应的感受便生起；当相应的触止息时，相应的感受便灭去。” 第十经。",
+   "n": "258"
+  },
+  {
+   "idx": 190,
+   "pali": "Sagāthāvaggo paṭhamo .",
+   "zh": "有偈品第一"
+  },
+  {
+   "idx": 191,
+   "pali": "Tassuddānaṃ –",
+   "zh": "其摄颂："
+  },
+  {
+   "idx": 82,
+   "pali": "Samādhi sukhaṃ pahānena, pātālaṃ daṭṭhabbena ca;",
+   "zh": "定、乐与舍断，深渊及应见；",
+   "type": "verse"
+  },
+  {
+   "idx": 83,
+   "pali": "Sallena ceva gelaññā, anicca phassamūlakāti.",
+   "zh": "箭、诸病、无常，皆以触为根本。",
+   "type": "verse"
+  },
+  {
+   "idx": 84,
+   "pali": "2. Rahogatavaggo",
+   "zh": "2. 独处品"
+  },
+  {
+   "idx": 193,
+   "pali": "1. Rahogatasuttaṃ",
+   "zh": "1. [[rahogatasutta|独处经]]"
+  },
+  {
+   "idx": 86,
+   "pali": "Atha kho aññataro bhikkhu yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho so bhikkhu bhagavantaṃ etadavoca – ‘‘idha mayhaṃ, bhante, rahogatassa paṭisallīnassa evaṃ cetaso parivitakko udapādi – ‘tisso vedanā vuttā bhagavatā. Sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā – imā tisso vedanā vuttā bhagavatā. Vuttaṃ kho panetaṃ bhagavatā – ‘yaṃ kiñci vedayitaṃ taṃ dukkhasmi’nti. Kiṃ nu kho etaṃ bhagavatā sandhāya bhāsitaṃ – ‘yaṃ kiñci vedayitaṃ taṃ dukkhasmi’’’nti?",
+   "zh": "那时，有一位比丘来到世尊面前。到了之后，向世尊礼敬，坐在一旁。坐定后，那位比丘对世尊这样说：“尊者，刚才我独自静处时，心中生起了这样的思虑：‘世尊说过三种受：乐受、苦受、不苦不乐受——这是世尊所说的三种受。然而，世尊又曾说过：“凡有所感受，都在苦中。”世尊是依据什么而说“凡有所感受，都在苦中”的呢？’”",
+   "n": "259"
+  },
+  {
+   "idx": 87,
+   "pali": "‘‘Sādhu sādhu, bhikkhu! Tisso imā, bhikkhu, vedanā vuttā mayā. Sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā – imā tisso vedanā vuttā mayā. Vuttaṃ kho panetaṃ, bhikkhu, mayā – ‘yaṃ kiñci vedayitaṃ, taṃ dukkhasmi’nti. Taṃ kho panetaṃ, bhikkhu, mayā saṅkhārānaṃyeva aniccataṃ sandhāya bhāsitaṃ – ‘yaṃ kiñci vedayitaṃ taṃ dukkhasmi’nti . Taṃ kho panetaṃ, bhikkhu, mayā saṅkhārānaṃyeva khayadhammataṃ…pe… vayadhammataṃ…pe… virāgadhammataṃ …pe… nirodhadhammataṃ…pe… vipariṇāmadhammataṃ sandhāya bhāsitaṃ – ‘yaṃ kiñci vedayitaṃ taṃ dukkhasmi’nti. Atha kho pana, bhikkhu, mayā anupubbasaṅkhārānaṃ nirodho akkhāto. Paṭhamaṃ jhānaṃ samāpannassa vācā niruddhā hoti. Dutiyaṃ jhānaṃ samāpannassa vitakkavicārā niruddhā honti. Tatiyaṃ jhānaṃ samāpannassa pīti niruddhā hoti. Catutthaṃ jhānaṃ samāpannassa assāsapassāsā niruddhā honti. Ākāsānañcāyatanaṃ samāpannassa rūpasaññā niruddhā hoti. Viññāṇañcāyatanaṃ samāpannassa ākāsānañcāyatanasaññā niruddhā hoti. Ākiñcaññāyatanaṃ samāpannassa viññāṇañcāyatanasaññā niruddhā hoti. Nevasaññānāsaññāyatanaṃ samāpannassa ākiñcaññāyatanasaññā niruddhā hoti. Saññāvedayitanirodhaṃ samāpannassa saññā ca vedanā ca niruddhā honti. Khīṇāsavassa bhikkhuno rāgo niruddho hoti, doso niruddho hoti, moho niruddho hoti. Atha kho, bhikkhu, mayā anupubbasaṅkhārānaṃ vūpasamo akkhāto. Paṭhamaṃ jhānaṃ samāpannassa vācā vūpasantā hoti. Dutiyaṃ jhānaṃ samāpannassa vitakkavicārā vūpasantā honti…pe… saññāvedayitanirodhaṃ samāpannassa saññā ca vedanā ca vūpasantā honti. Khīṇāsavassa bhikkhuno rāgo vūpasanto hoti, doso vūpasanto hoti, moho vūpasanto hoti. Chayimā, bhikkhu, passaddhiyo. Paṭhamaṃ jhānaṃ samāpannassa vācā paṭippassaddhā hoti. Dutiyaṃ jhānaṃ samāpannassa vitakkavicārā paṭippassaddhā honti. Tatiyaṃ jhānaṃ samāpannassa pīti paṭippassaddhā hoti. Catutthaṃ jhānaṃ samāpannassa assāsapassāsā paṭippassaddhā honti . Saññāvedayitanirodhaṃ samāpannassa saññā ca vedanā ca paṭippassaddhā honti. Khīṇāsavassa bhikkhuno rāgo paṭippassaddho hoti, doso paṭippassaddho hoti, moho paṭippassaddho hotī’’ti. Paṭhamaṃ.",
+   "zh": "“善哉，善哉，比丘！比丘，此三种受，是我所说：乐受、苦受、不苦不乐受。此三种受，是我所说。然，比丘，我亦曾如是言：‘凡有所感受，皆在苦中。’比丘，此语乃我针对诸行无常而说：‘凡有所感受，皆在苦中。’比丘，此语乃我针对诸行是灭尽法……是衰败法……是离贪法……是灭法……是变易法，针对这些而说：‘凡有所感受，皆在苦中。’复次，比丘，我亦次第解说了诸行的止息。入初禅那者，语言止息。入第二禅那者，寻与伺止息。入第三禅那者，喜止息。入第四禅那者，呼吸止息。入空无边处者，色想止息。入识无边处者，空无边处想止息。入无所有处者，识无边处想止息。入非想非非想处者，无所有处想止息。入想受灭定者，想与受止息。漏尽比丘，贪止息，嗔止息，痴止息。再有，比丘，我亦次第解说了诸行的平静。入初禅那者，语言归于平静。入第二禅那者，寻与伺归于平静……入想受灭定者，想与受归于平静。漏尽比丘，贪归于平静，嗔归于平静，痴归于平静。比丘，有六种轻安。入初禅那者，语言得轻安。入第二禅那者，寻与伺得轻安。入第三禅那者，喜得轻安。入第四禅那者，呼吸得轻安。入想受灭定者，想与受得轻安。漏尽比丘，贪得轻安，嗔得轻安，痴得轻安。 ”第一经。"
+  },
+  {
+   "idx": 194,
+   "pali": "2. Paṭhamaākāsasuttaṃ",
+   "zh": "2. [[paṭhamaākāsasutta|虚空中经（初）]]"
+  },
+  {
+   "idx": 89,
+   "pali": "‘‘Seyyathāpi, bhikkhave, ākāse vividhā vātā vāyanti. Puratthimāpi vātā vāyanti, pacchimāpi vātā vāyanti, uttarāpi vātā vāyanti, dakkhiṇāpi vātā vāyanti, sarajāpi vātā vāyanti, arajāpi vātā vāyanti, sītāpi vātā vāyanti, uṇhāpi vātā vāyanti, parittāpi vātā vāyanti, adhimattāpi vātā vāyanti. Evameva kho, bhikkhave, imasmiṃ kāyasmiṃ vividhā vedanā uppajjanti, sukhāpi vedanā uppajjati, dukkhāpi vedanā uppajjati, adukkhamasukhāpi vedanā uppajjatī’’ti.",
+   "zh": "“诸比丘，譬如虚空中吹着种种风——从东方吹来的风、从西方吹来的风、从北方吹来的风、从南方吹来的风，有带尘的风、无尘的风，有冷风、热风，有微风，也有狂风。同样地，在此身中，种种受生起：乐受生起，苦受生起，不苦不乐受也生起。”",
+   "n": "260"
+  },
+  {
+   "idx": 90,
+   "pali": "‘‘Yathāpi vātā ākāse, vāyanti vividhā puthū;",
+   "zh": "“如彼虚空中，种种风阵阵吹送；",
+   "type": "verse"
+  },
+  {
+   "idx": 91,
+   "pali": "Puratthimā pacchimā cāpi, uttarā atha dakkhiṇā.",
+   "zh": "从东方与西方，从北方与南方。",
+   "type": "verse"
+  },
+  {
+   "idx": 92,
+   "pali": "‘‘Sarajā arajā capi, sītā uṇhā ca ekadā;",
+   "zh": "“有的风带着尘土，有的清净无尘；时而清凉，时而炎热；",
+   "type": "verse"
+  },
+  {
+   "idx": 93,
+   "pali": "Adhimattā parittā ca, puthū vāyanti mālutā.",
+   "zh": "或猛烈，或微弱——种种不同的风四处吹拂。",
+   "type": "verse"
+  },
+  {
+   "idx": 94,
+   "pali": "‘‘Tathevimasmiṃ kāyasmiṃ, samuppajjanti vedanā;",
+   "zh": "“同样地，于此身中，种种感受生起；",
+   "type": "verse"
+  },
+  {
+   "idx": 95,
+   "pali": "Sukhadukkhasamuppatti, adukkhamasukhā ca yā.",
+   "zh": "乐受生起、苦受生起，以及那不苦不乐受的生起。",
+   "type": "verse"
+  },
+  {
+   "idx": 22,
+   "pali": "‘‘Yato ca bhikkhu ātāpī, sampajaññaṃ na riñcati;",
+   "zh": "“而当比丘精勤，正知不失，",
+   "type": "verse"
+  },
+  {
+   "idx": 23,
+   "pali": "Tato so vedanā sabbā, parijānāti paṇḍito.",
+   "zh": "那时，这位智者便遍知一切受。",
+   "type": "verse"
+  },
+  {
+   "idx": 98,
+   "pali": "‘‘So vedanā pariññāya, diṭṭhe dhamme anāsavo;",
+   "zh": "“他遍知诸受，于现法中已无漏；",
+   "type": "verse"
+  },
+  {
+   "idx": 99,
+   "pali": "Kāyassa bhedā dhammaṭṭho, saṅkhyaṃ nopeti vedagū’’ti. dutiyaṃ;",
+   "zh": "身体崩溃后，立于法者、知法者，不堕入数。第二经终。",
+   "type": "verse"
+  },
+  {
+   "idx": 195,
+   "pali": "3. Dutiyaākāsasuttaṃ",
+   "zh": "3. [[dutiyaākāsasutta|第二虚空经]]"
+  },
+  {
+   "idx": 101,
+   "pali": "‘‘Seyyathāpi , bhikkhave, ākāse vividhā vātā vāyanti. Puratthimāpi vātā vāyanti…pe… adhimattāpi vātā vāyanti. Evameva kho, bhikkhave, imasmiṃ kāyasmiṃ vividhā vedanā uppajjanti, sukhāpi vedanā uppajjati, dukkhāpi vedanā uppajjati, adukkhamasukhāpi vedanā uppajjatī’’ti. Tatiyaṃ.",
+   "zh": "“诸比丘，犹如虚空中吹着种种风：从东方吹来的风……乃至极度猛烈的风。同样地，诸比丘，于此身中生起种种受：乐受生起，苦受生起，不苦不乐受生起。”第三经。",
+   "n": "261"
+  },
+  {
+   "idx": 196,
+   "pali": "4. Agārasuttaṃ",
+   "zh": "4. [[agārasutta|屋经]]"
+  },
+  {
+   "idx": 103,
+   "pali": "‘‘Seyyathāpi, bhikkhave, āgantukāgāraṃ. Tattha puratthimāyapi disāya āgantvā vāsaṃ kappenti, pacchimāyapi disāya āgantvā vāsaṃ kappenti, uttarāyapi disāya āgantvā vāsaṃ kappenti, dakkhiṇāyapi disāya āgantvā vāsaṃ kappenti. Khattiyāpi āgantvā vāsaṃ kappenti, brāhmaṇāpi āgantvā vāsaṃ kappenti, vessāpi āgantvā vāsaṃ kappenti, suddāpi āgantvā vāsaṃ kappenti. Evameva kho, bhikkhave, imasmiṃ kāyasmiṃ vividhā vedanā uppajjanti. Sukhāpi vedanā uppajjati, dukkhāpi vedanā uppajjati, adukkhamasukhāpi vedanā uppajjati. Sāmisāpi sukhā vedanā uppajjati, sāmisāpi dukkhā vedanā uppajjati, sāmisāpi adukkhamasukhā vedanā uppajjati. Nirāmisāpi sukhā vedanā uppajjati, nirāmisāpi dukkhā vedanā uppajjati, nirāmisāpi adukkhamasukhā vedanā uppajjatī’’ti. Catutthaṃ.",
+   "zh": "“诸比丘，正如有一间客舍。从东方来的人在此投宿，从西方来的人在此投宿，从北方来的人在此投宿，从南方来的人在此投宿。刹帝利、婆罗门、吠舍、首陀罗也都前来投宿。同样地，诸比丘，在这身体中生起种种受：乐受生起，苦受生起，不苦不乐受生起；有执著的乐受生起，有执著的苦受生起，有执著的不苦不乐受生起；无执著的乐受生起，无执著的苦受生起，无执著的不苦不乐受生起。”第四经。",
+   "n": "262"
+  },
+  {
+   "idx": 197,
+   "pali": "5. Paṭhamaānandasuttaṃ",
+   "zh": "5. [[paṭhamaānandasutta|第一阿难经]]"
+  },
+  {
+   "idx": 105,
+   "pali": "Atha kho āyasmā ānando yena bhagavā tenupasaṅkami; upasaṅkamitvā ekamantaṃ nisīdi , ekamantaṃ nisinno kho āyasmā ānando bhagavantaṃ etadavoca – ‘‘katamā nu kho, bhante, vedanā, katamo vedanāsamudayo, katamo vedanānirodho, katamā vedanānirodhagāminī paṭipadā? Ko vedanāya assādo, ko ādīnavo, kiṃ nissaraṇanti? Tisso imā, ānanda, vedanā – sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā – imā vuccanti, ānanda, vedanā. Phassasamudayā vedanāsamudayo; phassanirodhā vedanānirodho. Ayameva ariyo aṭṭhaṅgiko maggo vedanānirodhagāminī paṭipadā, seyyathidaṃ – sammādiṭṭhi…pe… sammāsamādhi. Yaṃ vedanaṃ paṭicca uppajjati sukhaṃ somanassaṃ, ayaṃ vedanāya assādo. Yā vedanā aniccā dukkhā vipariṇāmadhammā, ayaṃ vedanāya ādīnavo. Yo vedanāya chandarāgavinayo chandarāgappahānaṃ, idaṃ vedanāya nissaraṇaṃ. Atha kho panānanda, mayā anupubbasaṅkhārānaṃ nirodho akkhāto. Paṭhamaṃ jhānaṃ samāpannassa vācā niruddhā hoti…pe… saññāvedayitanirodhaṃ samāpannassa saññā ca vedanā ca niruddhā honti. Khīṇāsavassa bhikkhuno rāgo niruddho hoti, doso niruddho hoti, moho niruddho hoti. Atha kho panānanda, mayā anupubbasaṅkhārānaṃ vūpasamo akkhāto. Paṭhamaṃ jhānaṃ samāpannassa vācā vūpasantā hoti…pe… saññāvedayitanirodhaṃ samāpannassa saññā ca vedanā ca vūpasantā honti. Khīṇāsavassa bhikkhuno rāgo vūpasanto hoti, doso vūpasanto hoti, moho vūpasanto hoti. Atha kho panānanda, mayā anupubbasaṅkhārānaṃ paṭippassaddhi akkhātā. Paṭhamaṃ jhānaṃ samāpannassa vācā paṭippassaddhā hoti…pe… ākāsānañcāyatanaṃ samāpannassa rūpasaññā paṭippassaddhā hoti. Viññāṇañcāyatanaṃ samāpannassa ākāsānañcāyatanasaññā paṭippassaddhā hoti. Ākiñcaññāyatanaṃ samāpannassa viññāṇañcāyatanasaññā paṭippassaddhā hoti. Nevasaññānāsaññāyatanaṃ samāpannassa ākiñcaññāyatanasaññā paṭippassaddhā hoti. Saññāvedayitanirodhaṃ samāpannassa saññā ca vedanā ca paṭippassaddhā honti. Khīṇāsavassa bhikkhuno rāgo paṭippassaddho hoti, doso paṭippassaddho hoti, moho paṭippassaddho hotī’’ti. Pañcamaṃ.",
+   "zh": "那时，具寿[[ānanda|阿难]]来到世尊所在之处；到了之后，在一旁坐下。坐于一旁的具寿[[ānanda|阿难]]对世尊这样说道：“尊者，什么是受？什么是受的集起？什么是受的灭去？什么是导向受灭之道？受的味是什么？患是什么？出离是什么？”“[[ānanda|阿难]]，有这三种受——乐受、苦受、不苦不乐受——[[ānanda|阿难]]，这些便称为受。由触的集起而有受的集起；由触的灭尽而有受的灭尽。此八支圣道即是导向受灭之道，就是：正见……（中略）……正定。缘于受而生的乐与喜悦，这是受的味。受是无常、苦、变易之法，这是受的患。调伏欲贪、舍断欲贪而超越受，这是受的出离。再者，[[ānanda|阿难]]，我已说过诸行的次第灭：证得初禅那者，语已灭；……（中略）……证得想受灭者，想与受已灭。漏尽比丘，贪已灭、嗔已灭、痴已灭。再者，[[ānanda|阿难]]，我已说过诸行的次第止息：证得初禅那者，语已止息；……（中略）……证得想受灭者，想与受已止息。漏尽比丘，贪已止息、嗔已止息、痴已止息。再者，[[ānanda|阿难]]，我已说过诸行的次第轻安：证得初禅那者，语已轻安；……（中略）……证得虚空无边处者，色想已轻安。证得识无边处者，虚空无边处想已轻安。证得无所有处者，识无边处想已轻安。证得非想非非想处者，无所有处想已轻安。证得想受灭者，想与受已轻安。漏尽比丘，贪已轻安、嗔已轻安、痴已轻安。”第五经。",
+   "n": "263"
+  },
+  {
+   "idx": 198,
+   "pali": "6. Dutiyaānandasuttaṃ",
+   "zh": "6. [[dutiyaānandasutta|第二阿难经]]"
+  },
+  {
+   "idx": 107,
+   "pali": "Atha kho āyasmā ānando yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinnaṃ kho āyasmantaṃ ānandaṃ bhagavā etadavoca – ‘‘katamā nu kho, ānanda, vedanā, katamo vedanāsamudayo, katamo vedanānirodho , katamā vedanānirodhagāminī paṭipadā? Ko vedanāya assādo, ko ādīnavo, kiṃ nissaraṇa’’nti? ‘‘Bhagavaṃmūlakā no, bhante, dhammā bhagavannettikā bhagavampaṭisaraṇā. Sādhu, bhante, bhagavantaññeva paṭibhātu etassa bhāsitassa attho. Bhagavato sutvā bhikkhū dhāressantī’’ti. ‘‘Tena hi, ānanda, suṇohi, sādhukaṃ manasi karohi; bhāsissāmī’’ti. ‘‘Evaṃ, bhante’’ti kho āyasmā ānando bhagavato paccassosi. Bhagavā etadavoca – ‘‘tisso imā, ānanda, vedanā – sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā – imā vuccanti, ānanda, vedanā…pe… phassasamudayā…pe… khīṇāsavassa bhikkhuno rāgo paṭippassaddho hoti, doso paṭippassaddho hoti, moho paṭippassaddho hotī’’ti. Chaṭṭhaṃ.",
+   "zh": "那时，具寿[[ānanda|阿难]]来到世尊处，顶礼世尊，在一旁坐下，然后将他们所讨论的全部告诉了世尊。世尊便对具寿[[ānanda|阿难]]说：“[[ānanda|阿难]]，什么是受？什么是受集？什么是受灭？什么是导向受灭的道迹？受的味是什么？患是什么？出离又是什么？”“尊者，我们的法以世尊为根本，以世尊为导引，以世尊为依止。尊者，愿世尊能够就此意义而说！比丘们听闻世尊的开示后，定会受持。” “那么，[[ānanda|阿难]]，你要谛听，善作意！我将说。” “是的，尊者。”具寿[[ānanda|阿难]]应答世尊。世尊这样说道：“[[ānanda|阿难]]，有这三种受——乐受、苦受、不苦不乐受。[[ānanda|阿难]]，这些即被称为受……（中略）……依触而集……（中略）……漏尽比丘，贪已止息，嗔已止息，痴已止息。”第六经。",
+   "n": "264"
+  },
+  {
+   "idx": 199,
+   "pali": "7. Paṭhamasambahulasuttaṃ",
+   "zh": "7. [[paṭhamasambahulasutta|第一众多经]]"
+  },
+  {
+   "idx": 152,
+   "pali": "Atha kho sambahulā bhikkhū yena bhagavā tenupasaṅkamiṃsu; upasaṅkamitvā…pe… ekamantaṃ nisinnā kho te bhikkhū bhagavantaṃ etadavocuṃ – ‘‘katamā nu kho, bhante, vedanā, katamo vedanāsamudayo, katamā vedanāsamudayagāminī paṭipadā? Katamo vedanānirodho, katamā vedanānirodhagāminī paṭipadā? Ko vedanāya assādo, ko ādīnavo, kiṃ nissaraṇa’’nti? ‘‘Tisso imā, bhikkhave, vedanā – sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā. Imā vuccanti, bhikkhave, vedanā. Phassasamudayā vedanāsamudayo. Taṇhā vedanāsamudayagāminī paṭipadā. Phassanirodhā…pe… yo vedanāya chandarāgavinayo chandarāgappahānaṃ. Idaṃ vedanāya nissaraṇa’’nti. Chaṭṭhaṃ.",
+   "zh": "那时，众多比丘来到世尊处。到后，退坐一面。那些比丘对世尊这样说：“尊者，什么是受？什么是受的集起？什么是导向受集起的行道？什么是受的灭？什么是导向受灭的行道？什么是受的味？什么是受的过患？什么是受的出离？”“比丘们，有这三种受：乐受、苦受、不苦不乐受。比丘们，这些便称为受。以触的集起，有受的集起。渴爱是导向受集起的行道。以触的灭……于受的欲贪调伏、断除，这就是受的出离。”第六经。",
+   "n": "265"
+  },
+  {
+   "idx": 110,
+   "pali": "‘‘Atha kho pana, bhikkhave, mayā anupubbasaṅkhārānaṃ nirodho akkhāto. Paṭhamaṃ jhānaṃ samāpannassa vācā niruddhā hoti…pe… khīṇāsavassa bhikkhuno rāgo niruddho hoti, doso niruddho hoti, moho niruddho hoti. Atha kho pana, bhikkhave, mayā anupubbasaṅkhārānaṃ vūpasamo akkhāto. Paṭhamaṃ jhānaṃ samāpannassa vācā vūpasantā hoti…pe… khīṇāsavassa bhikkhuno rāgo vūpasanto hoti, doso vūpasanto hoti, moho vūpasanto hoti. Chayimā, bhikkhave, passaddhiyo. Paṭhamaṃ jhānaṃ samāpannassa vācā paṭippassaddhā hoti. Dutiyaṃ jhānaṃ samāpannassa vitakkavicārā paṭippassaddhā honti. Tatiyaṃ jhānaṃ samāpannassa pīti paṭippassaddhā hoti. Catutthaṃ jhānaṃ samāpannassa assāsapassāsā paṭippassaddhā honti. Saññāvedayitanirodhaṃ samāpannassa saññā ca vedanā ca paṭippassaddhā honti. Khīṇāsavassa bhikkhuno rāgo paṭippassaddho hoti, doso paṭippassaddho hoti, moho paṭippassaddho hotī’’ti. Sattamaṃ.",
+   "zh": "“再者，比丘们，我宣说了诸行的渐次灭。进入初禅者，言语灭；……乃至漏尽的比丘，贪灭、嗔灭、痴灭。再者，比丘们，我宣说了诸行的渐次寂止。进入初禅者，言语寂止；……乃至漏尽的比丘，贪寂止、嗔寂止、痴寂止。比丘们，有这六种轻安：进入初禅者，言语得轻安；进入第二禅者，寻与伺得轻安；进入第三禅者，喜得轻安；进入第四禅者，入出息得轻安；进入想受灭定者，想与受得轻安；漏尽的比丘，贪得轻安、嗔得轻安、痴得轻安。”第七经。"
+  },
+  {
+   "idx": 200,
+   "pali": "8. Dutiyasambahulasuttaṃ",
+   "zh": "8. [[dutiyasambahulasutta|第二众多经]]"
+  },
+  {
+   "idx": 109,
+   "pali": "Atha kho sambahulā bhikkhū yena bhagavā tenupasaṅkamiṃsu; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdiṃsu. Ekamantaṃ nisinnā kho te bhikkhū bhagavantaṃ etadavocuṃ – ‘‘katamā nu kho, bhante, vedanā, katamo vedanāsamudayo, katamo vedanānirodho, katamā vedanānirodhagāminī paṭipadā? Ko vedanāya assādo, ko ādīnavo, kiṃ nissaraṇa’’nti? ‘‘Tisso imā, bhikkhave, vedanā – sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā – imā vuccanti, bhikkhave, vedanā. Phassasamudayā vedanāsamudayo; phassanirodhā vedanānirodho. Ayameva ariyo aṭṭhaṅgiko maggo vedanānirodhagāminī paṭipadā, seyyathidaṃ – sammādiṭṭhi…pe… sammāsamādhi. Yaṃ vedanaṃ paṭicca uppajjati sukhaṃ somanassaṃ, ayaṃ vedanāya assādo. Yā vedanā aniccā dukkhā vipariṇāmadhammā, ayaṃ vedanāya ādīnavo. Yo vedanāya chandarāgavinayo chandarāgappahānaṃ, idaṃ vedanāya nissaraṇaṃ.",
+   "zh": "那时，众多比丘来到世尊处，向世尊行礼后，退坐一面。坐定之后，那些比丘对世尊这样说：“尊者，什么是感受？什么是感受的集？什么是感受的灭？什么是通往感受灭的道路？什么是感受的乐味？什么是感受的过患？什么是感受的出离？”世尊这样说道：“比丘们，有三种感受——乐受、苦受、不苦不乐受。比丘们，这些就叫作感受。以触的集起而有感受的集；以触的灭而有感受的灭。这条八圣道便是通往感受灭的道路，也就是正见……乃至正定。以感受为缘而生起的快乐与喜悦，这是感受的乐味。感受是无常的、苦的、变易之法，这是感受的过患。调伏对感受的欲贪、断除欲贪，这是感受的出离。”",
+   "n": "266"
+  },
+  {
+   "idx": 201,
+   "pali": "9. Pañcakaṅgasuttaṃ",
+   "zh": "9. [[pañcakaṅgasutta|五支经]]"
+  },
+  {
+   "idx": 114,
+   "pali": "Atha kho pañcakaṅgo thapati yenāyasmā udāyī tenupasaṅkami; upasaṅkamitvā āyasmantaṃ udāyiṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho pañcakaṅgo thapati āyasmantaṃ udāyiṃ etadavoca – ‘‘kati nu kho, bhante udāyi, vedanā vuttā bhagavatā’’ti? ‘‘Tisso kho, thapati, vedanā vuttā bhagavatā. Sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā – imā kho, thapati, tisso vedanā vuttā bhagavatā’’ti. Evaṃ vutte, pañcakaṅgo thapati āyasmantaṃ udāyiṃ etadavoca – ‘‘na kho, bhante udāyi, tisso vedanā vuttā bhagavatā. Dve vedanā vuttā bhagavatā – sukhā vedanā, dukkhā vedanā. Yāyaṃ, bhante, adukkhamasukhā vedanā, santasmiṃ esā paṇīte sukhe vuttā bhagavatā’’ti. Dutiyampi kho āyasmā udāyī pañcakaṅgaṃ thapatiṃ etadavoca – ‘‘na kho, thapati, dve vedanā vuttā bhagavatā. Tisso vedanā vuttā bhagavatā. Sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā – imā tisso vedanā vuttā bhagavatā’’ti. Dutiyampi kho pañcakaṅgo thapati āyasmantaṃ udāyiṃ etadavoca – ‘‘na kho, bhante udāyi, tisso vedanā vuttā bhagavatā. Dve vedanā vuttā bhagavatā – sukhā vedanā, dukkhā vedanā. Yāyaṃ, bhante, adukkhamasukhā vedanā, santasmiṃ esā paṇīte sukhe vuttā bhagavatā’’ti. Tatiyampi kho āyasmā udāyī pañcakaṅgaṃ thapatiṃ etadavoca – ‘‘na kho, thapati, dve vedanā vuttā bhagavatā. Tisso vedanā vuttā bhagavatā. Sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā – imā tisso vedanā vuttā bhagavatā’’ti. Tatiyampi kho pañcakaṅgo thapati āyasmantaṃ udāyiṃ etadavoca – ‘‘na kho, bhante udāyi, tisso vedanā vuttā bhagavatā. Dve vedanā vuttā bhagavatā – sukhā vedanā, dukkhā vedanā. Yāyaṃ, bhante, adukkhamasukhā vedanā, santasmiṃ esā paṇīte sukhe vuttā bhagavatā’’ti. Neva sakkhi āyasmā udāyī pañcakaṅgaṃ thapatiṃ saññāpetuṃ, na panāsakkhi pañcakaṅgo thapati āyasmantaṃ udāyiṃ saññāpetuṃ. Assosi kho āyasmā ānando āyasmato udāyissa pañcakaṅgena thapatinā saddhiṃ imaṃ kathāsallāpaṃ.",
+   "zh": "那时，[[pañcakaṅga|五支]]前往[[udāyī|优陀夷]]尊者处。抵达后，向[[udāyī|优陀夷]]尊者行礼，坐在一旁。坐定之后，[[pañcakaṅga|五支]]对[[udāyī|优陀夷]]尊者说：“[[udāyī|优陀夷]]尊者，世尊说过几种受？”[[udāyī|优陀夷]]尊者回答：“工匠，世尊说过三种受——乐受、苦受、不苦不乐受。工匠，这便是世尊所说三种受。”听了这话，[[pañcakaṅga|五支]]便对[[udāyī|优陀夷]]尊者说：“[[udāyī|优陀夷]]尊者，世尊并未说过三种受。世尊说过两种受——乐受与苦受。尊者，那不苦不乐受，在其寂静之中，被世尊称为殊妙之乐。”[[udāyī|优陀夷]]尊者第二次对[[pañcakaṅga|五支]]说：“工匠，世尊并未说过两种受。世尊说过三种受——乐受、苦受、不苦不乐受。这便是世尊所说三种受。”[[pañcakaṅga|五支]]第二次对[[udāyī|优陀夷]]尊者说：“[[udāyī|优陀夷]]尊者，世尊并未说过三种受。世尊说过两种受——乐受与苦受。尊者，那不苦不乐受，在其寂静之中，被世尊称为殊妙之乐。”[[udāyī|优陀夷]]尊者第三次对[[pañcakaṅga|五支]]说：“工匠，世尊并未说过两种受。世尊说过三种受——乐受、苦受、不苦不乐受。这便是世尊所说三种受。”[[pañcakaṅga|五支]]第三次对[[udāyī|优陀夷]]尊者说：“[[udāyī|优陀夷]]尊者，世尊并未说过三种受。世尊说过两种受——乐受与苦受。尊者，那不苦不乐受，在其寂静之中，被世尊称为殊妙之乐。”[[udāyī|优陀夷]]尊者未能令[[pañcakaṅga|五支]]信服，[[pañcakaṅga|五支]]也未能令[[udāyī|优陀夷]]尊者信服。[[ānanda|阿难]]尊者听见了[[udāyī|优陀夷]]尊者与[[pañcakaṅga|五支]]之间的这番对话。",
+   "n": "267"
+  },
+  {
+   "idx": 115,
+   "pali": "Atha kho āyasmā ānando yena bhagavā tenupasaṅkami; upasaṅkamitvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho āyasmā ānando yāvatako āyasmato udāyissa pañcakaṅgena thapatinā saddhiṃ ahosi kathāsallāpo taṃ sabbaṃ bhagavato ārocesi.",
+   "zh": "那时，[[ānanda|阿难]]尊者来到世尊跟前，在一边坐下。坐定后，[[ānanda|阿难]]尊者便将[[udāyī|优陀夷]]尊者与[[pañcakaṅga|五支]]之间的全部对话禀告了世尊。"
+  },
+  {
+   "idx": 116,
+   "pali": "‘‘Santameva, ānanda, pariyāyaṃ pañcakaṅgo thapati udāyissa bhikkhuno nābbhanumodi; santañca panānanda, pariyāyaṃ udāyī bhikkhu pañcakaṅgassa thapatino nābbhanumodi. Dvepi mayā, ānanda, vedanā vuttā pariyāyena. Tissopi mayā vedanā vuttā pariyāyena. Pañcapi mayā vedanā vuttā pariyāyena. Chapi mayā vedanā vuttā pariyāyena. Aṭṭhārasāpi mayā vedanā vuttā pariyāyena. Chattiṃsāpi mayā vedanā vuttā pariyāyena. Aṭṭhasatampi mayā vedanā vuttā pariyāyena. Evaṃ pariyāyadesito kho, ānanda, mayā dhammo. Evaṃ pariyāyadesite kho, ānanda, mayā dhamme ye aññamaññassa subhāsitaṃ sulapitaṃ, na samanumaññissanti, na samanujānissanti, na samanumodissanti, tesaṃ etaṃ pāṭikaṅkhaṃ – bhaṇḍanajātā kalahajātā vivādāpannā aññamaññaṃ mukhasattīhi vitudantā viharissantīti . Evaṃ pariyāyadesito kho, ānanda, mayā dhammo. Evaṃ pariyāyadesite kho, ānanda, mayā dhamme ye aññamaññassa subhāsitaṃ sulapitaṃ samanumaññissanti samanujānissanti samanumodissanti, tesaṃ etaṃ pāṭikaṅkhaṃ – samaggā sammodamānā avivadamānā khīrodakībhūtā aññamaññaṃ piyacakkhūhi sampassantā viharissantī’’ti.",
+   "zh": "“[[ānanda|阿难]]，[[pañcakaṅga|五支]]确实未认可[[udāyī|优陀夷]]比丘那真实有效的说法；而[[udāyī|优陀夷]]比丘也确实未认可[[pañcakaṅga|五支]]那真实有效的说法。[[ānanda|阿难]]，我曾以某种理路宣说过两种受，也曾以某种理路宣说过三种受；以某种理路宣说过五种受，也以某种理路宣说过六种受；以某种理路宣说过十八种受，也以某种理路宣说过三十六种受，更以理路宣说过一百零八种受。[[ānanda|阿难]]，法正是由我这般以不同理路所宣说的。[[ānanda|阿难]]，对于如此以不同理路宣说的法，若有人不互相认同彼此的善说与善语，不随喜、不赞同，那便可以预期：他们必将陷入口角、争斗、诤论，彼此以口舌之刺互相刺伤而过日子。[[ānanda|阿难]]，对于如此以不同理路宣说的法，若有人能够互相认同彼此的善说与善语，随喜、赞同，那便可以预期：他们必将和合、欢喜、无诤，如水乳交融，彼此以爱眼相视而过日子。”"
+  },
+  {
+   "idx": 117,
+   "pali": "‘‘Pañcime, ānanda, kāmaguṇā. Katame pañca? Cakkhuviññeyyā rūpā iṭṭhā kantā manāpā piyarūpā kāmūpasaṃhitā rajanīyā…pe… kāyaviññeyyā phoṭṭhabbā iṭṭhā kantā manāpā piyarūpā kāmūpasaṃhitā rajanīyā. Ime kho, ānanda, pañca kāmaguṇā . Yaṃ kho, ānanda , ime pañca kāmaguṇe paṭicca uppajjati sukhaṃ somanassaṃ – idaṃ vuccati kāmasukhaṃ. Ye kho, ānanda, evaṃ vadeyyuṃ – ‘etaṃparamaṃ santaṃ sukhaṃ somanassaṃ paṭisaṃvedentī’ti – idaṃ nesāhaṃ nānujānāmi. Taṃ kissa hetu? Atthānanda, etamhā sukhā aññaṃ sukhaṃ abhikkantatarañca paṇītatarañca.",
+   "zh": "“[[ānanda|阿难]]，有五种欲。哪五种？眼所识知的色，可爱、可悦、可意、悦目、与欲相应、引生贪染；耳所识知的声，……；鼻所识知的香，……；舌所识知的味，……；身所识知的触，可爱、可悦、可意、悦目、与欲相应、引生贪染。[[ānanda|阿难]]，这便是五种欲。[[ānanda|阿难]]，依此五种欲而生起的乐与喜悦，即称为欲乐。[[ānanda|阿难]]，若有人这样说：‘他们领受了这至高的、寂静的乐与喜悦。’——对此，我不予认同。为何如此？[[ānanda|阿难]]，因为还有比此乐更殊胜、更微妙的另一种乐。”"
+  },
+  {
+   "idx": 118,
+   "pali": "‘‘Katamañcānanda, etamhā sukhā aññaṃ sukhaṃ abhikkantatarañca paṇītatarañca? Idhānanda, bhikkhu vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṃ savicāraṃ vivekajaṃ pītisukhaṃ paṭhamaṃ jhānaṃ upasampajja viharati. Idaṃ kho, ānanda, etamhā sukhā aññaṃ sukhaṃ abhikkantatarañca paṇītatarañca. Ye kho, ānanda, evaṃ vadeyyuṃ – ‘etaṃparamaṃ santaṃ sukhaṃ somanassaṃ paṭisaṃvedentī’ti – idaṃ nesāhaṃ nānujānāmi. Taṃ kissa hetu? Atthānanda, etamhā sukhā aññaṃ sukhaṃ abhikkantatarañca paṇītatarañca.",
+   "zh": "“[[ānanda|阿难]]，什么是比此乐更殊胜、更微妙的乐呢？[[ānanda|阿难]]，有比丘于此，远离欲，远离不善法，有寻有伺，由远离而生起喜与乐，进入并安住于初禅。[[ānanda|阿难]]，这就是比彼乐更殊胜、更微妙的另一种乐。[[ānanda|阿难]]，若有人这样说：‘我们体验了这最高、最寂静的乐与喜悦。’我不赞同。为什么呢？[[ānanda|阿难]]，因为还有比彼乐更殊胜、更微妙的另一种乐。”"
+  },
+  {
+   "idx": 119,
+   "pali": "‘‘Katamañcānanda, etamhā sukhā aññaṃ sukhaṃ abhikkantatarañca paṇītatarañca? Idhānanda, bhikkhu, vitakkavicārānaṃ vūpasamā ajjhattaṃ sampasādanaṃ cetaso ekodibhāvaṃ avitakkaṃ avicāraṃ samādhijaṃ pītisukhaṃ dutiyaṃ jhānaṃ upasampajja viharati. Idaṃ kho, ānanda, etamhā sukhā aññaṃ sukhaṃ abhikkantatarañca paṇītatarañca. Ye kho, ānanda, evaṃ vadeyyuṃ – ‘etaṃparamaṃ santaṃ sukhaṃ somanassaṃ paṭisaṃvedentī’ti – idaṃ nesāhaṃ nānujānāmi. Taṃ kissa hetu? Atthānanda, etamhā sukhā aññaṃ sukhaṃ abhikkantatarañca paṇītatarañca.",
+   "zh": "“[[ānanda|阿难]]，什么是比此乐更殊胜、更微妙的乐呢？[[ānanda|阿难]]，有比丘于此，因寻与伺的止息，内心明净，心转专一，无寻无伺，由定而生起喜与乐，进入并安住于二禅。[[ānanda|阿难]]，这就是比彼乐更殊胜、更微妙的另一种乐。[[ānanda|阿难]]，若有人这样说：‘我们体验了这最高、最寂静的乐与喜悦。’我不赞同。为什么呢？[[ānanda|阿难]]，因为还有比彼乐更殊胜、更微妙的另一种乐。”"
+  },
+  {
+   "idx": 120,
+   "pali": "‘‘Katamañcānanda, etamhā sukhā aññaṃ sukhaṃ abhikkantatarañca paṇītatarañca? Idhānanda, bhikkhu pītiyā ca virāgā upekkhako ca viharati sato ca sampajāno, sukhañca kāyena paṭisaṃvedeti, yaṃ taṃ ariyā ācikkhanti – ‘upekkhako satimā sukhavihārī’ti tatiyaṃ jhānaṃ upasampajja viharati. Idaṃ kho, ānanda, etamhā sukhā aññaṃ sukhaṃ abhikkantatarañca paṇītatarañca. Ye kho, ānanda, evaṃ vadeyyuṃ – ‘etaṃparamaṃ santaṃ sukhaṃ somanassaṃ paṭisaṃvedentī’ti – idaṃ nesāhaṃ nānujānāmi. Taṃ kissa hetu? Atthānanda, etamhā sukhā aññaṃ sukhaṃ abhikkantatarañca paṇītatarañca.",
+   "zh": "“[[ānanda|阿难]]，比此乐更殊胜、更微妙的是哪一种乐呢？在此，[[ānanda|阿难]]，比丘因离于喜，住于舍，具念、正知，以身受乐——这正是圣者们所称叹的‘舍、念、乐住’，他入第三禅那而住。[[ānanda|阿难]]，这就是比前一种乐更殊胜、更微妙的另一种乐。若有人这样说：‘我们已证得这最高、最寂静的乐与喜悦。’我不赞同他此说。为什么呢？[[ānanda|阿难]]，因为另有比此乐更殊胜、更微妙的乐。”"
+  },
+  {
+   "idx": 121,
+   "pali": "‘‘Katamañcānanda, etamhā sukhā aññaṃ sukhaṃ abhikkantatarañca paṇītatarañca? Idhānanda , bhikkhu sukhassa ca pahānā dukkhassa ca pahānā pubbeva somanassadomanassānaṃ atthaṅgamā adukkhamasukhaṃ upekkhāsatipārisuddhiṃ catutthaṃ jhānaṃ upasampajja viharati. Idaṃ kho, ānanda, etamhā sukhā aññaṃ sukhaṃ abhikkantatarañca paṇītatarañca. Ye kho, ānanda, evaṃ vadeyyuṃ – ‘etaṃparamaṃ santaṃ sukhaṃ somanassaṃ paṭisaṃvedentī’ti – idaṃ nesāhaṃ nānujānāmi . Taṃ kissa hetu? Atthānanda, etamhā sukhā aññaṃ sukhaṃ abhikkantatarañca paṇītatarañca.",
+   "zh": "“[[ānanda|阿难]]，什么是比这种乐更殊胜、更微妙的另一种乐呢？[[ānanda|阿难]]，在此，比丘舍断了乐，也舍断了苦，先前所有的喜与忧皆已息灭，不苦不乐，舍念清净，进入并安住于第四禅那。[[ānanda|阿难]]，这就是比那种乐更殊胜、更微妙的另一种乐。[[ānanda|阿难]]，若有人这样说：‘我们领受了这最高、最寂静的乐与喜悦。’——我不赞同他这样说。这是什么缘故呢？[[ānanda|阿难]]，因为还有比这种乐更殊胜、更微妙的另一种乐。”"
+  },
+  {
+   "idx": 122,
+   "pali": "‘‘Katamañcānanda , etamhā sukhā aññaṃ sukhaṃ abhikkantatarañca paṇītatarañca? Idhānanda, bhikkhu sabbaso rūpasaññānaṃ samatikkamā, paṭighasaññānaṃ atthaṅgamā, nānattasaññānaṃ amanasikārā, ‘ananto ākāso’ti ākāsānañcāyatanaṃ upasampajja viharati. Idaṃ kho, ānanda, etamhā sukhā aññaṃ sukhaṃ abhikkantatarañca paṇītatarañca. Ye kho, ānanda, evaṃ vadeyyuṃ – ‘etaṃparamaṃ santaṃ sukhaṃ somanassaṃ paṭisaṃvedentī’ti – idaṃ nesāhaṃ nānujānāmi. Taṃ kissa hetu? Atthānanda, etamhā sukhā aññaṃ sukhaṃ abhikkantatarañca paṇītatarañca.",
+   "zh": "“[[ānanda|阿难]]，较此种乐更为殊胜、更为微妙的另一种乐，是何等呢？[[ānanda|阿难]]，在此，有一位比丘完全超越一切色想，有对想止息，不再作意于种种想，以‘虚空无边际’而入于空无边处，安住其中。[[ānanda|阿难]]，这即是较那种乐更为殊胜、更为微妙的另一种乐。[[ānanda|阿难]]，若有人作如是说：‘我们领受此最殊胜、最寂静的乐与喜悦。’——对此，我不予认同。何以故呢？[[ānanda|阿难]]，因为尚有较此乐更为殊胜、更为微妙的另一种乐。”"
+  },
+  {
+   "idx": 123,
+   "pali": "‘‘Katamañcānanda, etamhā sukhā aññaṃ sukhaṃ abhikkantatarañca paṇītatarañca? Idhānanda, bhikkhu sabbaso ākāsānañcāyatanaṃ samatikkamma, ‘anantaṃ viññāṇa’nti viññāṇañcāyatanaṃ upasampajja viharati. Idaṃ kho, ānanda, etamhā sukhā aññaṃ sukhaṃ abhikkantatarañca paṇītatarañca. Ye kho, ānanda, evaṃ vadeyyuṃ – ‘etaṃparamaṃ santaṃ sukhaṃ somanassaṃ paṭisaṃvedentī’ti – idaṃ nesāhaṃ nānujānāmi. Taṃ kissa hetu? Atthānanda, etamhā sukhā aññaṃ sukhaṃ abhikkantatarañca paṇītatarañca.",
+   "zh": "“[[ānanda|阿难]]，什么是比那种乐更殊胜、更微妙的乐呢？[[ānanda|阿难]]，于此，比丘完全超越空无边处，作意“识是无限的”，进入并安住于识无边处。[[ānanda|阿难]]，这便是比那种乐更殊胜、更微妙的乐。[[ānanda|阿难]]，若有人说：‘他们所感受的，就是最极致、最寂静的乐与喜悦。’我对此是不认同的。为什么呢？[[ānanda|阿难]]，因为还有比那种乐更殊胜、更微妙的乐。”"
+  },
+  {
+   "idx": 124,
+   "pali": "‘‘Katamañcānanda, etamhā sukhā aññaṃ sukhaṃ abhikkantatarañca paṇītatarañca? Idhānanda, bhikkhu sabbaso viññāṇañcāyatanaṃ samatikkamma, ‘natthi kiñcī’ti ākiñcaññāyatanaṃ upasampajja viharati. Idaṃ kho, ānanda, etamhā sukhā aññaṃ sukhaṃ abhikkantatarañca paṇītatarañca . Ye kho, ānanda, evaṃ vadeyyuṃ – ‘etaṃparamaṃ santaṃ sukhaṃ somanassaṃ paṭisaṃvedentī’ti – idaṃ nesāhaṃ nānujānāmi. Taṃ kissa hetu? Atthānanda, etamhā sukhā aññaṃ sukhaṃ abhikkantatarañca paṇītatarañca.",
+   "zh": "“[[ānanda|阿难]]，什么是比那种乐更殊胜、更微妙的乐呢？[[ānanda|阿难]]，于此，比丘完全超越识无边处，作意“无所有”，进入并安住于无所有处。[[ānanda|阿难]]，这便是比那种乐更殊胜、更微妙的乐。[[ānanda|阿难]]，若有人说：‘他们所感受的，就是最极致、最寂静的乐与喜悦。’我对此是不认同的。为什么呢？[[ānanda|阿难]]，因为还有比那种乐更殊胜、更微妙的乐。”"
+  },
+  {
+   "idx": 125,
+   "pali": "‘‘Katamañcānanda , etamhā sukhā aññaṃ sukhaṃ abhikkantatarañca paṇītatarañca? Idhānanda, bhikkhu sabbaso ākiñcaññāyatanaṃ samatikkamma nevasaññānāsaññāyatanaṃ upasampajja viharati. Idaṃ kho, ānanda , etamhā sukhā aññaṃ sukhaṃ abhikkantatarañca paṇītatarañca. Ye kho, ānanda, evaṃ vadeyyuṃ – ‘etaṃparamaṃ santaṃ sukhaṃ somanassaṃ paṭisaṃvedentī’ti – idaṃ nesāhaṃ nānujānāmi. Taṃ kissa hetu? Atthānanda, etamhā sukhā aññaṃ sukhaṃ abhikkantatarañca paṇītatarañca.",
+   "zh": "“[[ānanda|阿难]]，什么是比彼乐更殊胜、更微妙的乐呢？[[ānanda|阿难]]，于此，比丘完全超越无所有处，成就并安住于非想非非想处。[[ānanda|阿难]]，这就是比彼乐更殊胜、更微妙的乐。[[ānanda|阿难]]，若有人这样说：‘他们体验了最极致、最寂静的乐与喜悦。’我不认同。为什么呢？[[ānanda|阿难]]，因为还有比彼乐更殊胜、更微妙的另一种乐。”"
+  },
+  {
+   "idx": 126,
+   "pali": "‘‘Katamañcānanda, etamhā sukhā aññaṃ sukhaṃ abhikkantatarañca paṇītatarañca? Idhānanda, bhikkhu sabbaso nevasaññānāsaññāyatanaṃ samatikkamma saññāvedayitanirodhaṃ upasampajja viharati. Idaṃ kho, ānanda, etamhā sukhā aññaṃ sukhaṃ abhikkantatarañca paṇītatarañca.",
+   "zh": "“[[ānanda|阿难]]，什么是比那种乐更殊胜、更微妙的乐呢？[[ānanda|阿难]]，于此，比丘完全超越非想非非想处，进入并安住于想受灭。[[ānanda|阿难]]，这便是比那种乐更殊胜、更微妙的乐。"
+  },
+  {
+   "idx": 127,
+   "pali": "‘‘Ṭhānaṃ kho panetaṃ, ānanda, vijjati yaṃ aññatitthiyā paribbājakā evaṃ vadeyyuṃ – ‘saññāvedayitanirodhaṃ samaṇo gotamo āha, tañca sukhasmiṃ paññapeti. Tayidaṃ kiṃsu, tayidaṃ kathaṃsū’ti? Evaṃvādino, ānanda, aññatitthiyā paribbājakā evamassu vacanīyā – ‘na kho, āvuso , bhagavā sukhaññeva vedanaṃ sandhāya sukhasmiṃ paññapeti. Yattha yattha, āvuso, sukhaṃ upalabbhati, yahiṃ yahiṃ , taṃ taṃ tathāgato sukhasmiṃ paññapetī’’’ti. Navamaṃ.",
+   "zh": "“[[ānanda|阿难]]，这是可能发生的：外道游行者们也许会这样说：‘沙门[[gotama|乔达摩]]宣说了想受灭，却又将它安立为乐。这是什么原因？这又如何解释？’[[ānanda|阿难]]，当外道游行者们这样说时，应当这样回答他们：‘朋友们，世尊并非只把乐受安立为乐。朋友们，无论乐在何处、以何种方式得到，如来便将那个安立为乐，并以那种方式安立为乐。’”第九经。"
+  },
+  {
+   "idx": 202,
+   "pali": "10. Bhikkhusuttaṃ",
+   "zh": "10. [[bhikkhusutta|比丘经]]"
+  },
+  {
+   "idx": 129,
+   "pali": "‘‘Dvepi mayā, bhikkhave, vedanā vuttā pariyāyena, tissopi mayā vedanā vuttā pariyāyena, pañcapi mayā vedanā vuttā pariyāyena, chapi mayā vedanā vuttā pariyāyena, aṭṭhārasāpi mayā vedanā vuttā pariyāyena, chattiṃsāpi mayā vedanā vuttā pariyāyena, aṭṭhasatampi mayā vedanā vuttā pariyāyena. Evaṃ pariyāyadesito, bhikkhave, mayā dhammo. Evaṃ pariyāyadesite kho, bhikkhave, mayā dhamme ye aññamaññassa subhāsitaṃ sulapitaṃ na samanumaññissanti, na samanujānissanti, na samanumodissanti, tesaṃ etaṃ pāṭikaṅkhaṃ – bhaṇḍanajātā kalahajātā vivādāpannā aññamaññaṃ mukhasattīhi vitudantā viharissantīti. Evaṃ pariyāyadesito, bhikkhave, mayā dhammo. Evaṃ pariyāyadesite kho, bhikkhave, mayā dhamme ye aññamaññassa subhāsitaṃ sulapitaṃ samanumaññissanti samanujānissanti samanumodissanti, tesaṃ etaṃ pāṭikaṅkhaṃ – samaggā sammodamānā avivadamānā khīrodakībhūtā aññamaññaṃ piyacakkhūhi sampassantā viharissantīti.",
+   "zh": "“诸比丘，我以教说的方式说过二受，我也以教说的方式说过三受，我也以教说的方式说过五受，我也以教说的方式说过六受，我也以教说的方式说过十八受，我也以教说的方式说过三十六受，我也以教说的方式说过一百零八受。诸比丘，法便是这样由我以教说的方式开示的。诸比丘，对于我以教说的方式所开示的法，若有人对他人善说、善解的法不认可、不同意、不随喜，那么，可以预计他们会陷于争吵、陷于斗争、陷于诤论，彼此以口舌之剑相互刺击而住。诸比丘，法便是这样由我以教说的方式开示的。诸比丘，对于我以教说的方式所开示的法，若有人对他人善说、善解的法认可、同意、随喜，那么，可以预计他们会和合、欢喜、无诤，如水乳交融，彼此以慈爱的目光相互看待而住。",
+   "n": "268"
+  },
+  {
+   "idx": 130,
+   "pali": "‘‘Pañcime, bhikkhave, kāmaguṇā…pe… ṭhānaṃ kho panetaṃ, bhikkhave, vijjati yaṃ aññatitthiyā paribbājakā evaṃ vadeyyuṃ – ‘saññāvedayitanirodhaṃ samaṇo gotamo āha, tañca sukhasmiṃ paññapeti. Tayidaṃ kiṃsu, tayidaṃ kathaṃsū’ti? Evaṃvādino, bhikkhave, aññatitthiyā paribbājakā evamassu vacanīyā – ‘na kho, āvuso, bhagavā sukhaññeva vedanaṃ sandhāya sukhasmiṃ paññapeti. Yattha yattha, āvuso, sukhaṃ upalabbhati yahiṃ yahiṃ , taṃ taṃ tathāgato sukhasmiṃ paññapetī’’ti. Dasamaṃ.",
+   "zh": "“诸比丘，有五种欲的享受……诸比丘，这是有可能的：其他外道的遍行者或许会这样问：‘沙门[[gotama|乔达摩]]讲了想受灭，却又把它安立为乐，这到底是为什么？怎么解释呢？’诸比丘，若有其他外道的遍行者这样问，你们应当这样回答：‘朋友，世尊并非仅仅把乐受才安立为乐；朋友，如来是在任何处所、以任何方式体验到乐，便把那种方式、那种处所安立为乐。’” 第十经。"
+  },
+  {
+   "idx": 203,
+   "pali": "Rahogatavaggo dutiyo.",
+   "zh": "独处品第二。"
+  },
+  {
+   "idx": 204,
+   "pali": "Tassuddānaṃ –",
+   "zh": "其摄颂："
+  },
+  {
+   "idx": 133,
+   "pali": "Rahogataṃ dve ākāsaṃ, agāraṃ dve ca ānandā;",
+   "zh": "“独处，二虚空，在家，二[[ānanda|阿难]]；”",
+   "type": "verse"
+  },
+  {
+   "idx": 134,
+   "pali": "Sambahulā duve vuttā, pañcakaṅgo ca bhikkhunāti.",
+   "zh": "“众多，复二说，[[pañcakaṅga|五支]]与比丘。”",
+   "type": "verse"
+  },
+  {
+   "idx": 135,
+   "pali": "3. Aṭṭhasatapariyāyavaggo",
+   "zh": "3. 一百零八解说品"
+  },
+  {
+   "idx": 205,
+   "pali": "1. Sīvakasuttaṃ",
+   "zh": "1. [[sīvakasutta|西瓦卡经]]"
+  },
+  {
+   "idx": 137,
+   "pali": "Ekaṃ samayaṃ bhagavā rājagahe viharati veḷuvane kalandakanivāpe. Atha kho moḷiyasīvako paribbājako yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṃ sammodi. Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho moḷiyasīvako paribbājako bhagavantaṃ etadavoca – ‘‘santi, bho gotama, eke samaṇabrāhmaṇā evaṃvādino evaṃdiṭṭhino – ‘yaṃ kiñcāyaṃ purisapuggalo paṭisaṃvedeti sukhaṃ vā dukkhaṃ vā adukkhamasukhaṃ vā sabbaṃ taṃ pubbekatahetū’ti. Idha bhavaṃ gotamo kimāhā’’ti?",
+   "zh": "如是我闻：一时，世尊住在[[rājagaha|王舍城]]竹林中的松鼠喂养处。那时，游行者茉莉亚·尸婆迦来到世尊处，与世尊互相问候。欢喜亲切的寒暄过后，他在一旁坐下。坐于一旁的游行者茉莉亚·尸婆迦对世尊说：“[[gotama|乔达摩尊]]者，有些沙门和婆罗门持这样的观点和见解：‘一个人所感受到的任何乐、苦或不苦不乐，全部是由过去所造之业所致。’[[gotama|乔达摩尊]]者，对此您怎么说呢？”",
+   "n": "269"
+  },
+  {
+   "idx": 138,
+   "pali": "‘‘Pittasamuṭṭhānānipi kho, sīvaka, idhekaccāni vedayitāni uppajjanti. Sāmampi kho etaṃ, sīvaka, veditabbaṃ yathā pittasamuṭṭhānānipi idhekaccāni vedayitāni uppajjanti; lokassapi kho etaṃ, sīvaka, saccasammataṃ yathā pittasamuṭṭhānānipi idhekaccāni vedayitāni uppajjanti. Tatra, sīvaka, ye te samaṇabrāhmaṇā evaṃvādino evaṃdiṭṭhino – ‘yaṃ kiñcāyaṃ purisapuggalo paṭisaṃvedeti sukhaṃ vā dukkhaṃ vā adukkhamasukhaṃ vā sabbaṃ taṃ pubbekatahetū’ti. Yañca sāmaṃ ñātaṃ tañca atidhāvanti, yañca loke saccasammataṃ tañca atidhāvanti. Tasmā tesaṃ samaṇabrāhmaṇānaṃ micchāti vadāmi.",
+   "zh": "“西瓦卡，有些感受是由胆汁引生而起的。西瓦卡，从自身经验也能知道，有些感受是由胆汁引生而起的；世间也公认，有些感受是由胆汁引生而起的。西瓦卡，那些持如此说、如此见的沙门与婆罗门——‘一个人所感受的任何乐受、苦受或不苦不乐受，全都源于过去所造之业’——他们既与自身的亲知相违背，也与世间公认的真实相违背。因此，我说那些沙门与婆罗门是错误的。”"
+  },
+  {
+   "idx": 139,
+   "pali": "‘‘Semhasamuṭṭhānānipi kho, sīvaka…pe… vātasamuṭṭhānānipi kho, sīvaka…pe… sannipātikānipi kho, sīvaka…pe… utupariṇāmajānipi kho, sīvaka…pe… visamaparihārajānipi kho, sīvaka…pe… opakkamikānipi kho, sīvaka…pe… kammavipākajānipi kho, sīvaka, idhekaccāni vedayitāni uppajjanti. Sāmampi kho etaṃ, sīvaka, veditabbaṃ. Yathā kammavipākajānipi idhekaccāni vedayitāni uppajjanti; lokassapi kho etaṃ, sīvaka, saccasammataṃ. Yathā kammavipākajānipi idhekaccāni vedayitāni uppajjanti; tatra, sīvaka, ye te samaṇabrāhmaṇā evaṃvādino evaṃdiṭṭhino – ‘yaṃ kiñcāyaṃ purisapuggalo paṭisaṃvedeti sukhaṃ vā dukkhaṃ vā adukkhamasukhaṃ vā sabbaṃ taṃ pubbekatahetū’ti. Yañca sāmaṃ ñātaṃ tañca atidhāvanti yañca loke saccasammataṃ tañca atidhāvanti. Tasmā tesaṃ samaṇabrāhmaṇānaṃ micchāti vadāmīti. Evaṃ vutte, moḷiyasīvako paribbājako bhagavantaṃ etadavoca – ‘abhikkantaṃ, bho gotama, abhikkantaṃ, bho gotama …pe… upāsakaṃ maṃ bhavaṃ gotamo dhāretu ajjatagge pāṇupetaṃ saraṇaṃ gata’’’nti.",
+   "zh": "“西瓦卡，有些感受由痰而生起，有些由风而生起，有些由三种体液和合而生起，有些由季节变化而生起，有些由环境适应不当而生起，有些由外伤而生起，有些由业果而生起。西瓦卡，你自己也应当了知，有些感受是由业果而生起的；世间也都公认，有些感受是由业果而生起的。西瓦卡，凡是那些持有这样的说法、这样的见解——‘一个人所感受到的任何乐受、苦受或不苦不乐受，这一切完全是由过去所造之业所致’——的沙门和婆罗门，他们既背离了亲身所证的事实，也背离了世间公认的真实。因此，我说这些沙门和婆罗门是错误的。世尊如此说时，游方行者摩利西瓦卡对世尊这样说道：‘太殊胜了，[[gotama|乔达摩]]大师！太殊胜了，[[gotama|乔达摩]]大师！……请[[gotama|乔达摩]]大师接受我为近事男，从今日起，尽此一生，皈依为依怙。’”"
+  },
+  {
+   "idx": 140,
+   "pali": "‘‘Pittaṃ semhañca vāto ca, sannipātā utūni ca;",
+   "zh": "“胆汁、痰与风，三者和合，季节变化，",
+   "type": "verse"
+  },
+  {
+   "idx": 141,
+   "pali": "Visamaṃ opakkamikaṃ, kammavipākena aṭṭhamī’’ti. paṭhamaṃ;",
+   "zh": "时节不宜、自造伤损，第八则为业果。第一品。",
+   "type": "verse"
+  },
+  {
+   "idx": 206,
+   "pali": "2. Aṭṭhasatasuttaṃ",
+   "zh": "2. [[aṭṭhasatasutta|一百零八经]]"
+  },
+  {
+   "idx": 143,
+   "pali": "‘‘Aṭṭhasatapariyāyaṃ vo, bhikkhave, dhammapariyāyaṃ desessāmi. Taṃ suṇātha. Katamo ca, bhikkhave, aṭṭhasatapariyāyo, dhammapariyāyo? Dvepi mayā, bhikkhave, vedanā vuttā pariyāyena; tissopi mayā vedanā vuttā pariyāyena; pañcapi mayā vedanā vuttā pariyāyena; chapi mayā vedanā vuttā pariyāyena; aṭṭhārasāpi mayā vedanā vuttā pariyāyena; chattiṃsāpi mayā vedanā vuttā pariyāyena; aṭṭhasatampi mayā vedanā vuttā pariyāyena. ‘‘Katamā ca, bhikkhave, dve vedanā? Kāyikā ca cetasikā ca – imā vuccanti, bhikkhave, dve vedanā. Katamā ca, bhikkhave, tisso vedanā? Sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā – imā vuccanti, bhikkhave, tisso vedanā. Katamā ca, bhikkhave, pañca vedanā? Sukhindriyaṃ, dukkhindriyaṃ, somanassindriyaṃ, domanassindriyaṃ, upekkhindriyaṃ – imā vuccanti, bhikkhave, pañca vedanā. Katamā ca, bhikkhave, cha vedanā? Cakkhusamphassajā vedanā…pe… manosamphassajā vedanā – imā vuccanti, bhikkhave, cha vedanā. Katamā ca, bhikkhave, aṭṭhārasa vedanā? Cha somanassūpavicārā, cha domanassūpavicārā, cha upekkhūpavicārā – imā vuccanti, bhikkhave, aṭṭhārasa vedanā. Katamā ca, bhikkhave, chattiṃsa vedanā? Cha gehasitāni somanassāni, cha nekkhammasitāni somanassāni, cha gehasitāni domanassāni, cha nekkhammasitāni domanassāni, cha gehasitā upekkhā , cha nekkhammasitā upekkhā – imā vuccanti, bhikkhave, chattiṃsa vedanā. Katamañca, bhikkhave, aṭṭhasataṃ vedanā? Atītā chattiṃsa vedanā, anāgatā chattiṃsa vedanā, paccuppannā chattiṃsa vedanā – imā vuccanti, bhikkhave, aṭṭhasataṃ vedanā. Ayaṃ, bhikkhave, aṭṭhasatapariyāyo dhammapariyāyo’’ti. Dutiyaṃ.",
+   "zh": "“诸比丘，我将为你们开示一百零八种法门的解说。你们仔细听。诸比丘，什么是一百零八种法门的解说呢？诸比丘，我曾以法门说过两种受，以法门说过三种受，以法门说过五种受，以法门说过六种受，以法门说过十八种受，以法门说过三十六种受，以法门说过一百零八种受。诸比丘，什么是两种受？身的受与心的受——这称为两种受。诸比丘，什么是三种受？乐受、苦受、不苦不乐受——这称为三种受。诸比丘，什么是五种受？乐根、苦根、喜根、忧根、舍根——这称为五种受。诸比丘，什么是六种受？眼触所生受……（中略）……意触所生受——这称为六种受。诸比丘，什么是十八种受？六种伴随喜的伺察、六种伴随忧的伺察、六种伴随舍的伺察——这称为十八种受。诸比丘，什么是三十六种受？六种系着在家的喜、六种系着出离的喜、六种系着在家的忧、六种系着出离的忧、六种系着在家的舍、六种系着出离的舍——这称为三十六种受。诸比丘，什么是一百零八种受？过去三十六种受、未来三十六种受、现在三十六种受——这称为一百零八种受。诸比丘，这就是一百零八种法门的解说。”第二品。",
+   "n": "270"
+  },
+  {
+   "idx": 207,
+   "pali": "3. Aññatarabhikkhusuttaṃ",
+   "zh": "3. [[aññatarabhikkhusutta|某比丘经]]"
+  },
+  {
+   "idx": 145,
+   "pali": "Atha kho aññataro bhikkhu yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho so bhikkhu bhagavantaṃ etadavoca – ‘‘katamā nu kho, bhante, vedanā, katamo vedanāsamudayo, katamā vedanāsamudayagāminī paṭipadā? Katamo vedanānirodho, katamā vedanānirodhagāminī paṭipadā? Ko vedanāya assādo, ko ādīnavo, kiṃ nissaraṇa’’nti?",
+   "zh": "那时，有一位比丘来到世尊前，顶礼之后，在一旁坐下。坐定之后，这位比丘对世尊说：“尊者，何为受？何为受的集起？何为导向受集起的行道？何为受的灭？何为导向受灭的行道？何为受的味？何为受的过患？何为出离？”",
+   "n": "271"
+  },
+  {
+   "idx": 146,
+   "pali": "‘‘Tisso imā, bhikkhu, vedanā – sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā. Imā vuccanti, bhikkhu, vedanā. Phassasamudayā vedanāsamudayo. Taṇhā vedanāsamudayagāminī paṭipadā. Phassanirodhā vedanānirodho. Ayameva ariyo aṭṭhaṅgiko maggo vedanānirodhagāminī paṭipadā, seyyathidaṃ – sammādiṭṭhi…pe… sammāsamādhi. Yaṃ vedanaṃ paṭicca uppajjati sukhaṃ somanassaṃ, ayaṃ vedanāya assādo; yā vedanā aniccā dukkhā vipariṇāmadhammā, ayaṃ vedanāya ādīnavo; yo vedanāya chandarāgavinayo chandarāgappahānaṃ, idaṃ vedanāya nissaraṇa’’nti. Tatiyaṃ.",
+   "zh": "“比丘，有此三种受：乐受、苦受、不苦不乐受。比丘，这些即称为受。触的集起而有受的集起；爱是导向受集起的行道；触灭则受灭。导向受灭的行道，就是这八支圣道，即正见……正定。缘于受而生起的快乐与喜悦，这是受的味；受是无常、苦、变易之法，这是受的过患；对受的欲贪的调伏与断除，这是受的出离。”第三经。"
+  },
+  {
+   "idx": 208,
+   "pali": "4. Pubbasuttaṃ",
+   "zh": "4. [[pubbasutta|前经]]"
+  },
+  {
+   "idx": 148,
+   "pali": "‘‘Pubbeva me, bhikkhave, sambodhā anabhisambuddhassa bodhisattasseva sato etadahosi – ‘katamā nu kho vedanā, katamo vedanāsamudayo, katamā vedanāsamudayagāminī paṭipadā, katamo vedanānirodho, katamā vedanānirodhagāminī paṭipadā? Ko vedanāya assādo, ko ādīnavo, kiṃ nissaraṇa’nti? Tassa mayhaṃ, bhikkhave, etadahosi – ‘tisso imā vedanā – sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā. Imā vuccanti vedanā. Phassasamudayā vedanāsamudayo. Taṇhā vedanāsamudayagāminī paṭipadā…pe… yo vedanāya chandarāgavinayo chandarāgappahānaṃ. Idaṃ vedanāya nissaraṇa’’’nti. Catutthaṃ.",
+   "zh": "“诸比丘，在我尚未成就正觉、仍是未正觉的菩萨时，心中生起此念：‘什么是受？什么是受的集？什么是导向受集的行道？什么是受的灭？什么是导向受灭的行道？什么是受的乐味，什么是过患，什么是出离？’ 诸比丘，那时我这样想：‘有这三种受——乐受、苦受、不苦不乐受。这些便名为受。触集则受集。渴爱是导向受集的行道……对受的欲贪调伏、欲贪断除，这便是受的出离。’ 第四前经。",
+   "n": "272"
+  },
+  {
+   "idx": 209,
+   "pali": "5. Ñāṇasuttaṃ",
+   "zh": "5. [[ñāṇasutta|智经]]"
+  },
+  {
+   "idx": 150,
+   "pali": "‘‘‘Imā vedanā’ti me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṃ udapādi, ñāṇaṃ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi. ‘Ayaṃ vedanāsamudayo’ti me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṃ udapādi…pe… āloko udapādi. ‘Ayaṃ vedanāsamudayagāminī paṭipadā’ti me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṃ udapādi…pe… ‘ayaṃ vedanānirodho’ti me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṃ udapādi …pe… ‘ayaṃ vedanānirodhagāminī paṭipadā’ti me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṃ udapādi…pe… ‘ayaṃ vedanāya assādo’ti me, bhikkhave, pubbe ananussutesu dhammesu…pe… ‘ayaṃ vedanāya ādīnavo’ti me, bhikkhave, pubbe ananussutesu dhammesu…pe… ‘idaṃ kho nissaraṇa’nti me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṃ udapādi, ñāṇaṃ udapādi, paññā udapādi, vijjā udapādi, āloko udapādī’’ti. Pañcamaṃ.",
+   "zh": "“诸比丘，对于‘这是受’这个前所未闻的法，我的眼生起，智生起，慧生起，明生起，光生起。诸比丘，对于‘这是受的集起’这个前所未闻的法，我的眼生起……光生起。诸比丘，对于‘这是导向受的集起的行道’这个前所未闻的法，我的眼生起……诸比丘，对于‘这是受的灭’这个前所未闻的法，我的眼生起……诸比丘，对于‘这是导向受的灭的行道’这个前所未闻的法，我的眼生起……诸比丘，对于‘这是受的味’这个前所未闻的法……诸比丘，对于‘这是受的患’这个前所未闻的法……诸比丘，对于‘这就是离’这个前所未闻的法，我的眼生起，智生起，慧生起，明生起，光生起。\n”第五经。",
+   "n": "273"
+  },
+  {
+   "idx": 210,
+   "pali": "6. Sambahulabhikkhusuttaṃ",
+   "zh": "6. [[sambahulabhikkhusutta|众多比丘经]]"
+  },
+  {
+   "idx": 112,
+   "pali": "Atha kho sambahulā bhikkhū yena bhagavā tenupasaṅkamiṃsu…pe… ekamantaṃ nisinnā kho te bhikkhū bhagavā etadavoca – ‘‘katamā nu kho, bhikkhave, vedanā, katamo vedanāsamudayo, katamo vedanānirodho, katamā vedanānirodhagāminī paṭipadā? Ko vedanāya assādo, ko ādīnavo, kiṃ nissaraṇa’’nti? ‘‘Bhagavaṃmūlakā no, bhante, dhammā…pe…’’ ‘‘tisso imā, bhikkhave, vedanā – sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā – imā vuccanti, bhikkhave, vedanā…pe… phassasamudayā…pe…. (Yathā purimasuttante, tathā vitthāretabbo.) Aṭṭhamaṃ.",
+   "zh": "那时，众多比丘来到世尊处……在一旁坐下后，世尊便对那些比丘说：“诸比丘，什么是受？什么是受的集？什么是受的灭？什么是通往受灭的道路？什么是受的味？什么是受的过患？什么是受的出离？”“尊者，对我们来说，法是以世尊为根本的……”世尊说：“诸比丘，有这三种受——乐受、苦受、不苦不乐受。诸比丘，这些就叫作受。……以触的集……（应如前经详说。）。”第八经。",
+   "n": "274"
+  },
+  {
+   "idx": 211,
+   "pali": "7. Paṭhamasamaṇabrāhmaṇasuttaṃ",
+   "zh": "7. [[paṭhamasamaṇabrāhmaṇasutta|第一沙门婆罗门经]]"
+  },
+  {
+   "idx": 154,
+   "pali": "‘‘Tisso imā, bhikkhave, vedanā. Katamā tisso? Sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā. Ye hi keci, bhikkhave, samaṇā vā brāhmaṇā vā imāsaṃ tissannaṃ vedanānaṃ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṃ nappajānanti. Na me te, bhikkhave, samaṇā vā brāhmaṇā vā samaṇesu vā samaṇasammatā brāhmaṇesu vā brāhmaṇasammatā, na ca pana te āyasmanto sāmaññatthaṃ vā brahmaññatthaṃ vā diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharanti. Ye ca kho keci, bhikkhave, samaṇā vā brāhmaṇā vā imāsaṃ tissannaṃ vedanānaṃ samudayañca atthaṅgamañca assādañca ādīnavaṃ ca nissaraṇañca yathābhūtaṃ pajānanti. Te kho me, bhikkhave, samaṇā vā brāhmaṇā vā samaṇesu ceva samaṇasammatā brāhmaṇesu ca brāhmaṇasammatā. Te ca panāyasmanto sāmaññatthañca brahmaññatthañca, diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharantī’’ti. Sattamaṃ.",
+   "zh": "“诸比丘，有这三种受。哪三种？乐受、苦受、不苦不乐受。诸比丘，凡是那些沙门或婆罗门，对于这三种受的集起、消逝、味、患、离，不如实了知——诸比丘，我不认为这些沙门或婆罗门在沙门中堪为沙门，在婆罗门中堪为婆罗门；这些尊者也不于现法中，以证智自证、现证沙门义或梵行义而安住。但诸比丘，凡是那些沙门或婆罗门，对于这三种受的集起、消逝、味、患、离，如实地了知——诸比丘，我认为这些沙门或婆罗门，在沙门中堪为沙门，在婆罗门中堪为婆罗门；这些尊者则于现法中，以证智自证、现证沙门义或梵行义而安住。”第七经。",
+   "n": "275"
+  },
+  {
+   "idx": 212,
+   "pali": "8. Dutiyasamaṇabrāhmaṇasuttaṃ",
+   "zh": "8. [[dutiyasamaṇabrāhmaṇasutta|第二沙门婆罗门经]]"
+  },
+  {
+   "idx": 156,
+   "pali": "‘‘Tisso imā, bhikkhave, vedanā. Katamā tisso? Sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā. Ye hi keci, bhikkhave, samaṇā vā brāhmaṇā vā imāsaṃ tissannaṃ vedanānaṃ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṃ nappajānanti…pe… pajānanti…pe… sayaṃ abhiññā sacchikatvā upasampajja viharantī’’ti. Aṭṭhamaṃ.",
+   "zh": "“诸比丘，有三种受。哪三种？乐受、苦受、不苦不乐受。诸比丘，凡有沙门或婆罗门，对于这三种受的集起、灭去、味、患、出离，不能如实了知……能如实了知……能以证智亲自证得、现证而安住。”第八经。",
+   "n": "276"
+  },
+  {
+   "idx": 213,
+   "pali": "9. Tatiyasamaṇabrāhmaṇasuttaṃ",
+   "zh": "9. [[tatiyasamaṇabrāhmaṇasutta|第三沙门婆罗门经]]"
+  },
+  {
+   "idx": 158,
+   "pali": "‘‘Ye hi keci, bhikkhave, samaṇā vā brāhmaṇā vā vedanaṃ nappajānanti, vedanāsamudayaṃ nappajānanti, vedanānirodhaṃ nappajānanti, vedanānirodhagāminiṃ paṭipadaṃ nappajānanti…pe… pajānanti…pe… sayaṃ abhiññā sacchikatvā upasampajja viharantī’’ti. Navamaṃ.",
+   "zh": "“诸比丘，若有沙门或婆罗门，于感受不能了知，于感受的集起不能了知，于感受的灭尽不能了知，于通达感受灭尽的行道不能了知……能了知……他们以胜智亲自证得后，具足而住。”第九经。",
+   "n": "277"
+  },
+  {
+   "idx": 214,
+   "pali": "10. Suddhikasuttaṃ",
+   "zh": "10. [[suddhikasutta|纯净经]]"
+  },
+  {
+   "idx": 160,
+   "pali": "‘‘Tisso imā, bhikkhave, vedanā. Katamā tisso? Sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā – imā kho, bhikkhave, tisso vedanā’’ti. Dasamaṃ.",
+   "zh": "“诸比丘，有三种受。哪三种？乐受、苦受、不苦不乐受。诸比丘，这便是三种受。”第十经。",
+   "n": "278"
+  },
+  {
+   "idx": 215,
+   "pali": "11. Nirāmisasuttaṃ",
+   "zh": "11. [[nirāmisasutta|无食经]]"
+  },
+  {
+   "idx": 162,
+   "pali": "‘‘Atthi , bhikkhave, sāmisā pīti, atthi nirāmisā pīti, atthi nirāmisā nirāmisatarā pīti; atthi sāmisaṃ sukhaṃ, atthi nirāmisaṃ sukhaṃ, atthi nirāmisā nirāmisataraṃ sukhaṃ; atthi sāmisā upekkhā, atthi nirāmisā upekkhā, atthi nirāmisā nirāmisatarā upekkhā; atthi sāmiso vimokkho, atthi nirāmiso vimokkho, atthi nirāmisā nirāmisataro vimokkho. Katamā ca, bhikkhave, sāmisā pīti? Pañcime, bhikkhave, kāmaguṇā. Katame pañca? Cakkhuviññeyyā rūpā iṭṭhā kantā manāpā piyarūpā kāmūpasaṃhitā rajanīyā…pe… kāyaviññeyyā phoṭṭhabbā iṭṭhā kantā manāpā piyarūpā kāmūpasaṃhitā rajanīyā. Ime kho, bhikkhave, pañca kāmaguṇā. Yā kho, bhikkhave, ime pañca kāmaguṇe paṭicca uppajjati pīti, ayaṃ vuccati, bhikkhave, sāmisā pīti.",
+   "zh": "“诸比丘，有依于物质的喜，有不依于物质的喜，有比不依于物质更超然的喜；有依于物质的乐，有不依于物质的乐，有比不依于物质更超然的乐；有依于物质的舍，有不依于物质的舍，有比不依于物质更超然的舍；有依于物质的解脱，有不依于物质的解脱，有比不依于物质更超然的解脱。诸比丘，什么是依于物质的喜？诸比丘，有此五种感官欲乐。哪五种？眼所识别的那些令人满意、可爱、称心、讨喜、与感官欲乐相应、能引发贪染的色……身所识别的那些令人满意、可爱、称心、讨喜、与感官欲乐相应、能引发贪染的触。诸比丘，这便是五种感官欲乐。诸比丘，依此五种感官欲乐而生起的喜，便称为依于物质的喜。",
+   "n": "279"
+  },
+  {
+   "idx": 163,
+   "pali": "‘‘Katamā ca, bhikkhave, nirāmisā pīti? Idha, bhikkhave, bhikkhu vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṃ savicāraṃ vivekajaṃ pītisukhaṃ paṭhamaṃ jhānaṃ upasampajja viharati. Vitakkavicārānaṃ vūpasamā ajjhattaṃ sampasādanaṃ cetaso ekodibhāvaṃ avitakkaṃ avicāraṃ samādhijaṃ pītisukhaṃ dutiyaṃ jhānaṃ upasampajja viharati. Ayaṃ vuccati, bhikkhave, nirāmisā pīti.",
+   "zh": "“诸比丘，什么是不依于物质的喜？诸比丘，一位比丘远离感官欲乐，远离不善法，有寻有伺，由远离而生起喜与乐，进入并安住于初禅。由寻伺止息，内心平静，心念专一，无寻无伺，由定而生起喜与乐，进入并安住于第二禅。诸比丘，这便称为不依于物质的喜。"
+  },
+  {
+   "idx": 164,
+   "pali": "‘‘Katamā ca, bhikkhave, nirāmisā nirāmisatarā pīti? Yā kho, bhikkhave, khīṇāsavassa bhikkhuno rāgā cittaṃ vimuttaṃ paccavekkhato, dosā cittaṃ vimuttaṃ paccavekkhato, mohā cittaṃ vimuttaṃ paccavekkhato uppajjati pīti, ayaṃ vuccati, bhikkhave, nirāmisā nirāmisatarā pīti.",
+   "zh": "“诸比丘，什么是比不依于物质更超然的喜？诸比丘，当一位灭尽烦恼的比丘观察心从贪欲中解脱、观察心从嗔恨中解脱、观察心从愚痴中解脱时，所生起的喜——诸比丘，这便称为比不依于物质更超然的喜。"
+  },
+  {
+   "idx": 165,
+   "pali": "‘‘Katamañca , bhikkhave, sāmisaṃ sukhaṃ? Pañcime, bhikkhave, kāmaguṇā. Katame pañca? Cakkhuviññeyyā rūpā iṭṭhā kantā manāpā piyarūpā kāmūpasaṃhitā rajanīyā…pe… kāyaviññeyyā phoṭṭhabbā iṭṭhā kantā manāpā piyarūpā kāmūpasaṃhitā rajanīyā. Ime kho, bhikkhave, pañca kāmaguṇā. Yaṃ kho, bhikkhave, ime pañca kāmaguṇe paṭicca uppajjati sukhaṃ somanassaṃ, idaṃ vuccati, bhikkhave, sāmisaṃ sukhaṃ.",
+   "zh": "“比丘们，什么是伴随物质之乐？比丘们，有五种感官欲乐。哪五种？眼所识知的色，可意、可爱、可悦、讨喜、感官所摄、能引染着……身所识知的触，可意、可爱、可悦、讨喜、感官所摄、能引染着。比丘们，这便是五种感官欲乐。比丘们，缘此五种感官欲乐而生起的乐与心之愉悦，即称为伴随物质之乐。"
+  },
+  {
+   "idx": 166,
+   "pali": "‘‘Katamañca , bhikkhave, nirāmisaṃ sukhaṃ? Idha, bhikkhave, bhikkhu vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṃ savicāraṃ vivekajaṃ pītisukhaṃ paṭhamaṃ jhānaṃ upasampajja viharati. Vitakkavicārānaṃ vūpasamā ajjhattaṃ sampasādanaṃ cetaso ekodibhāvaṃ avitakkaṃ avicāraṃ samādhijaṃ pītisukhaṃ dutiyaṃ jhānaṃ upasampajja viharati. Pītiyā ca virāgā upekkhako ca viharati sato ca sampajāno sukhañca kāyena paṭisaṃvedeti, yaṃ taṃ ariyā ācikkhanti – ‘upekkhako satimā sukhavihārī’ti tatiyaṃ jhānaṃ upasampajja viharati. Idaṃ vuccati, bhikkhave, nirāmisaṃ sukhaṃ.",
+   "zh": "“比丘们，什么是无物质之乐？比丘们，于此，比丘远离感官欲乐，远离不善法，有寻有伺，由远离生起的喜与乐，进入并安住于初禅。由寻伺的止息，内心澄净，心一境性，无寻无伺，由定生起的喜与乐，进入并安住于第二禅。又由离喜，住于舍，正念正知，以身受乐，正如圣者们所说：‘舍、念、住乐’，进入并安住于第三禅。比丘们，此即名为无物质之乐。”"
+  },
+  {
+   "idx": 167,
+   "pali": "‘‘Katamañca, bhikkhave, nirāmisā nirāmisataraṃ sukhaṃ? Yaṃ kho, bhikkhave, khīṇāsavassa bhikkhuno rāgā cittaṃ vimuttaṃ paccavekkhato, dosā cittaṃ vimuttaṃ paccavekkhato , mohā cittaṃ vimuttaṃ paccavekkhato uppajjati sukhaṃ somanassaṃ, idaṃ vuccati, bhikkhave, nirāmisā nirāmisataraṃ sukhaṃ.",
+   "zh": "“比丘们，什么是无物质且更无物质之乐？比丘们，当漏尽比丘反观自心，已从贪解脱、从嗔解脱、从痴解脱时，所生起的乐与喜悦，比丘们，这就称为无物质且更无物质之乐。"
+  },
+  {
+   "idx": 168,
+   "pali": "‘‘Katamā ca, bhikkhave, sāmisā upekkhā? Pañcime, bhikkhave, kāmaguṇā. Katame pañca? Cakkhuviññeyyā rūpā iṭṭhā kantā manāpā piyarūpā kāmūpasaṃhitā rajanīyā…pe… kāyaviññeyyā phoṭṭhabbā iṭṭhā kantā manāpā piyarūpā kāmūpasaṃhitā rajanīyā. Ime kho, bhikkhave, pañca kāmaguṇā. Yā kho, bhikkhave, ime pañca kāmaguṇe paṭicca uppajjati upekkhā, ayaṃ vuccati, bhikkhave, sāmisā upekkhā.",
+   "zh": "“诸比丘，什么是有执着的舍呢？诸比丘，有这五种感官欲乐。哪五种？眼所能识知的色，合意、可爱、可悦、令人喜爱、与欲相连、引发贪染；乃至身所能识知的触，合意、可爱、可悦、令人喜爱、与欲相连、引发贪染。诸比丘，这便是五种感官欲乐。诸比丘，依此五种感官欲乐而生起的舍，即称为有执着的舍。"
+  },
+  {
+   "idx": 169,
+   "pali": "‘‘Katamā ca, bhikkhave, nirāmisā upekkhā? Idha, bhikkhave, bhikkhu sukhassa ca pahānā, dukkhassa ca pahānā, pubbeva somanassadomanassānaṃ atthaṅgamā, adukkhamasukhaṃ upekkhāsatipārisuddhiṃ catutthaṃ jhānaṃ upasampajja viharati. Ayaṃ vuccati, bhikkhave, nirāmisā upekkhā.",
+   "zh": "“诸比丘，什么是无质料之舍呢？诸比丘，在此，比丘以乐之舍断与苦之舍断，并先行灭没喜悦与忧恼，进入并安住于不苦不乐、舍念清净的第四禅。诸比丘，这便称为无质料之舍。"
+  },
+  {
+   "idx": 170,
+   "pali": "‘‘Katamā ca, bhikkhave, nirāmisā nirāmisatarā upekkhā? Yā kho, bhikkhave, khīṇāsavassa bhikkhuno rāgā cittaṃ vimuttaṃ paccavekkhato, dosā cittaṃ vimuttaṃ paccavekkhato, mohā cittaṃ vimuttaṃ paccavekkhato uppajjati upekkhā, ayaṃ vuccati, bhikkhave, nirāmisā nirāmisatarā upekkhā.",
+   "zh": "“诸比丘，什么是比无质料更无质料之舍呢？诸比丘，一位漏尽的比丘在观察自己的心从贪中解脱、从嗔中解脱、从痴中解脱时，所生起的舍，诸比丘，这就称为比无质料更无质料之舍。"
+  },
+  {
+   "idx": 171,
+   "pali": "‘‘Katamo ca, bhikkhave, sāmiso vimokkho? Rūpappaṭisaṃyutto vimokkho sāmiso vimokkho.",
+   "zh": "“诸比丘，什么是带有物质的解脱？与色相关的解脱，即是带有物质的解脱。"
+  },
+  {
+   "idx": 172,
+   "pali": "‘‘Katamo ca, bhikkhave, nirāmiso vimokkho? Arūpappaṭisaṃyutto vimokkho nirāmiso vimokkho.",
+   "zh": "“诸比丘，什么是不带物质的解脱？与无色相关的解脱，即是不带物质的解脱。"
+  },
+  {
+   "idx": 173,
+   "pali": "‘‘Katamo ca, bhikkhave, nirāmisā nirāmisataro vimokkho? Yo kho, bhikkhave, khīṇāsavassa bhikkhuno rāgā cittaṃ vimuttaṃ paccavekkhato, dosā cittaṃ vimuttaṃ paccavekkhato, mohā cittaṃ vimuttaṃ paccavekkhato uppajjati vimokkho, ayaṃ vuccati, bhikkhave, nirāmisā nirāmisataro vimokkho’’ti. Ekādasamaṃ.",
+   "zh": "“诸比丘，什么是比不带物质更不带物质的解脱？诸比丘，当漏尽比丘观察自心从贪、嗔、痴中解脱时，所生起的解脱，便称为比不带物质更不带物质的解脱。”第十一经。"
+  },
+  {
+   "idx": 216,
+   "pali": "Aṭṭhasatapariyāyavaggo tatiyo.",
+   "zh": "一百零八解说品第三"
+  },
+  {
+   "idx": 176,
+   "pali": "Sīvakaaṭṭhasataṃ bhikkhu, pubbe ñāṇañca bhikkhunā;",
+   "zh": "希瓦咖百八比丘、往昔智与比丘；",
+   "type": "verse"
+  },
+  {
+   "idx": 177,
+   "pali": "Samaṇabrāhmaṇā tīṇi, suddhikañca nirāmisanti.",
+   "zh": "沙门婆罗门三则、清净与无物质。",
+   "type": "verse"
+  },
+  {
+   "idx": 218,
+   "pali": "Vedanāsaṃyuttaṃ samattaṃ.",
+   "zh": "受相应终"
+  }
+ ]
+}

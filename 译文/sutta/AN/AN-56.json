@@ -1,0 +1,142 @@
+{
+ "uid": 56,
+ "title": "7. 业道略",
+ "nik": "AN",
+ "segs": [
+  {
+   "idx": 0,
+   "pali": "(17) 7. Kammapathapeyyālaṃ",
+      "zh": "（十七）第七 业道略"
+  },
+  {
+   "idx": 1,
+   "pali": "‘‘Tīhi , bhikkhave, dhammehi samannāgato yathābhataṃ nikkhitto evaṃ niraye. Katamehi tīhi? Attanā ca pāṇātipātī hoti, parañca pāṇātipāte samādapeti, pāṇātipāte ca samanuñño hoti. Imehi kho, bhikkhave, tīhi dhammehi samannāgato yathābhataṃ nikkhitto evaṃ niraye.",
+   "zh": "“诸比丘，具足三法者，如其所带，必堕地狱。哪三法？自己杀生，又劝导他人杀生，且赞许杀生。诸比丘，具足此三法者，如其所带，必堕地狱。",
+   "n": "164-183"
+  },
+  {
+   "idx": 2,
+   "pali": "‘‘Tīhi, bhikkhave, dhammehi samannāgato yathābhataṃ nikkhitto evaṃ sagge. Katamehi tīhi? Attanā ca pāṇātipātā paṭivirato hoti, parañca pāṇātipātā veramaṇiyā samādapeti, pāṇātipātā veramaṇiyā ca samanuñño hoti….",
+   "zh": "“诸比丘，具足三法者，如其所携而被放置于天界。哪三法？自己远离杀生，也劝导他人远离杀生，并赞许远离杀生。……"
+  },
+  {
+   "idx": 3,
+   "pali": "‘‘Attanā ca adinnādāyī hoti, parañca adinnādāne samādapeti, adinnādāne ca samanuñño hoti….",
+   "zh": "“自己是偷盗者，也劝导他人是偷盗者，且赞许是偷盗者……"
+  },
+  {
+   "idx": 4,
+   "pali": "‘‘Attanā ca adinnādānā paṭivirato hoti, parañca adinnādānā veramaṇiyā samādapeti, adinnādānā veramaṇiyā ca samanuñño hoti….",
+   "zh": "“自己远离不与取，也劝导他人远离不与取，并随喜远离不与取……"
+  },
+  {
+   "idx": 5,
+   "pali": "‘‘Attanā ca kāmesumicchācārī hoti, parañca kāmesumicchācāre samādapeti, kāmesumicchācāre ca samanuñño hoti….",
+   "zh": "“自己行欲邪行，也劝导他人行欲邪行，并随喜欲邪行……"
+  },
+  {
+   "idx": 6,
+   "pali": "‘‘Attanā ca kāmesumicchācārā paṭivirato hoti, parañca kāmesumicchācārā veramaṇiyā samādapeti, kāmesumicchācārā veramaṇiyā ca samanuñño hoti….",
+   "zh": "“自己远离欲邪行，也劝导他人远离欲邪行，并随喜远离欲邪行……"
+  },
+  {
+   "idx": 7,
+   "pali": "‘‘Attanā ca musāvādī hoti, parañca musāvāde samādapeti, musāvāde ca samanuñño hoti….",
+   "zh": "“自己是妄语者，又教人是妄语者，且赞同是妄语者……"
+  },
+  {
+   "idx": 8,
+   "pali": "‘‘Attanā ca musāvādā paṭivirato hoti, parañca musāvādā veramaṇiyā samādapeti, musāvādā veramaṇiyā ca samanuñño hoti….",
+   "zh": "“自己离妄语，又教人离妄语，且随喜离妄语……"
+  },
+  {
+   "idx": 9,
+   "pali": "‘‘Attanā ca pisuṇavāco hoti, parañca pisuṇāya vācāya samādapeti, pisuṇāya vācāya ca samanuñño hoti….",
+   "zh": "“自己两舌，又教人两舌，且赞同两舌……"
+  },
+  {
+   "idx": 10,
+   "pali": "‘‘Attanā ca pisuṇāya vācāya paṭivirato hoti, parañca pisuṇāya vācāya veramaṇiyā samādapeti, pisuṇāya vācāya veramaṇiyā ca samanuñño hoti….",
+   "zh": "“自己远离两舌，也劝导他人远离两舌，并赞同远离两舌……"
+  },
+  {
+   "idx": 11,
+   "pali": "‘‘Attanā ca pharusavāco hoti, parañca pharusāya vācāya samādapeti, pharusāya vācāya ca samanuñño hoti….",
+   "zh": "“自己行粗恶语，也劝导他人行粗恶语，并赞同粗恶语……"
+  },
+  {
+   "idx": 12,
+   "pali": "‘‘Attanā ca pharusāya vācāya paṭivirato hoti, parañca pharusāya vācāya veramaṇiyā samādapeti, pharusāya vācāya veramaṇiyā ca samanuñño hoti….",
+   "zh": "“自己远离粗恶语，也劝导他人远离粗恶语，并赞同远离粗恶语……"
+  },
+  {
+   "idx": 13,
+   "pali": "‘‘Attanā ca samphappalāpī hoti, parañca samphappalāpe samādapeti, samphappalāpe ca samanuñño hoti….",
+   "zh": "“自身是杂秽语者，并劝导他人行杂秽语，亦赞许杂秽语……"
+  },
+  {
+   "idx": 14,
+   "pali": "‘‘Attanā ca samphappalāpā paṭivirato hoti, parañca samphappalāpā veramaṇiyā samādapeti, samphappalāpā veramaṇiyā ca samanuñño hoti….",
+   "zh": "“自身远离杂秽语，并劝导他人远离杂秽语，亦赞许远离杂秽语……"
+  },
+  {
+   "idx": 15,
+   "pali": "‘‘Attanā ca abhijjhālu hoti, parañca abhijjhāya samādapeti, abhijjhāya ca samanuñño hoti….",
+   "zh": "“自身是贪求者，并劝导他人行贪求，亦赞许贪求……"
+  },
+  {
+   "idx": 16,
+   "pali": "‘‘Attanā ca anabhijjhālu hoti, parañca anabhijjhāya samādapeti, anabhijjhāya ca samanuñño hoti….",
+   "zh": "“自己无有贪求，亦劝导他人不贪求，且随喜不贪求……"
+  },
+  {
+   "idx": 17,
+   "pali": "‘‘Attanā ca byāpannacitto hoti, parañca byāpāde samādapeti, byāpāde ca samanuñño hoti….",
+   "zh": "“自己心怀嗔恨，亦劝导他人嗔恨，且随喜嗔恨……"
+  },
+  {
+   "idx": 18,
+   "pali": "‘‘Attanā ca abyāpannacitto hoti, parañca abyāpāde samādapeti, abyāpāde ca samanuñño hoti….",
+   "zh": "“自己心无嗔恨，亦劝导他人无嗔恨，且随喜无嗔恨……"
+  },
+  {
+   "idx": 19,
+   "pali": "‘‘Attanā ca micchādiṭṭhiko hoti, parañca micchādiṭṭhiyā samādapeti, micchādiṭṭhiyā ca samanuñño hoti ….",
+   "zh": "“自己持邪见，又劝导他人持邪见，也赞同邪见……"
+  },
+  {
+   "idx": 20,
+   "pali": "‘‘Attanā ca sammādiṭṭhiko hoti, parañca sammādiṭṭhiyā samādapeti, sammādiṭṭhiyā ca samanuñño hoti. Imehi kho, bhikkhave, tīhi dhammehi samannāgato yathābhataṃ nikkhitto evaṃ sagge’’ti.",
+   "zh": "“自己持正见，也劝导他人正见，也赞同正见。诸比丘！具足这三法者，便如其所为，投生天界。”"
+  },
+  {
+   "idx": 21,
+   "pali": "Kammapathapeyyālaṃ niṭṭhitaṃ.",
+   "zh": "业道略说品终",
+   "type": "colophon"
+  },
+  {
+   "idx": 22,
+   "pali": "Tassuddānaṃ –",
+   "zh": "其摄颂："
+  },
+  {
+   "idx": 23,
+   "pali": "Pāṇaṃ adinnamicchā ca, musāvādī ca pisuṇā;",
+   "zh": "杀生、不与取、邪淫，妄语及两舌；",
+   "type": "verse"
+  },
+  {
+   "idx": 24,
+   "pali": "Pharusā samphappalāpo ca, abhijjhā byāpādadiṭṭhi ca;",
+   "zh": "粗恶语及绮语，贪欲、嗔恚及邪见。",
+   "type": "verse"
+  },
+  {
+   "idx": 25,
+   "pali": "Kammapathesu peyyālaṃ, tikakena niyojayeti.",
+   "zh": "于诸业道，略说即是以三法来统摄。",
+   "type": "verse"
+  }
+ ]
+}

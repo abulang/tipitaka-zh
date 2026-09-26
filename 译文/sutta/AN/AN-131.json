@@ -1,0 +1,374 @@
+{
+ "uid": 131,
+ "title": "4. 天神品",
+ "nik": "AN",
+ "segs": [
+  {
+   "idx": 0,
+   "pali": "4. Devatāvaggo",
+   "zh": "4. 天神品"
+  },
+  {
+   "idx": 1,
+   "pali": "1. Appamādagāravasuttaṃ",
+   "zh": "1. [[appamādagāravasutta|不放逸恭敬经]]"
+  },
+  {
+   "idx": 2,
+   "pali": "Atha kho aññatarā devatā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṃ jetavanaṃ obhāsetvā yena bhagavā tenupasaṅkami ; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ aṭṭhāsi. Ekamantaṃ ṭhitā kho sā devatā bhagavantaṃ etadavoca –",
+   "zh": "那时，后夜时分，有位天人以殊胜容色遍照祇园，来到世尊跟前。来到后，礼敬世尊，立于一旁。这位天人站在一旁，对世尊这样说：",
+   "n": "32"
+  },
+  {
+   "idx": 3,
+   "pali": "‘‘Sattime, bhante, dhammā bhikkhuno aparihānāya saṃvattanti. Katame satta? Satthugāravatā, dhammagāravatā, saṅghagāravatā, sikkhāgāravatā, samādhigāravatā, appamādagāravatā, paṭisanthāragāravatā. Ime kho, bhante, satta dhammā bhikkhuno aparihānāya saṃvattantī’’ti. Idamavoca sā devatā. Samanuñño satthā ahosi. Atha kho sā devatā ‘‘samanuñño me satthā’’ti bhagavantaṃ abhivādetvā padakkhiṇaṃ katvā tatthevantaradhāyi.",
+   "zh": "“尊者，有七法能令比丘不退失。哪七法？敬导师、敬法、敬僧团、敬学、敬定、敬不放逸、敬亲善接待。尊者，正是此七法能令比丘不退失。”那位天人说了这番话。导师表示认可。那位天人了知“导师已认可我”，便礼敬世尊，右绕之后，当即于彼处消失。"
+  },
+  {
+   "idx": 4,
+   "pali": "Atha kho bhagavā tassā rattiyā accayena bhikkhū āmantesi – ‘‘imaṃ, bhikkhave, rattiṃ aññatarā devatā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṃ jetavanaṃ obhāsetvā yenāhaṃ tenupasaṅkami; upasaṅkamitvā maṃ abhivādetvā ekamantaṃ aṭṭhāsi. Ekamantaṃ ṭhitā kho, bhikkhave, sā devatā maṃ etadavoca – ‘sattime, bhante, dhammā bhikkhuno aparihānāya saṃvattanti. Katame satta? Satthugāravatā, dhammagāravatā, saṅghagāravatā, sikkhāgāravatā, samādhigāravatā, appamādagāravatā, paṭisanthāragāravatā – ime kho, bhante, satta dhammā bhikkhuno aparihānāya saṃvattantī’ti. Idamavoca, bhikkhave, sā devatā. Idaṃ vatvā maṃ abhivādetvā padakkhiṇaṃ katvā tatthevantaradhāyī’’ti.",
+   "zh": "那时，世尊度过那一夜后，召唤比丘们：“比丘们，昨夜，有一位天人在深夜时分，以殊胜的容色照亮整座祇园后，来到我面前；来到之后，礼敬我，站在一旁。比丘们，那位站在一旁的天人对我这样说：‘尊者，有七法导向比丘的不退失。哪七法呢？即：尊敬导师、尊敬法、尊敬僧团、尊敬学、尊敬定、尊敬不放逸、尊敬欢迎——尊者，这七法导向比丘的不退失。’比丘们，那位天人说了这番话。语毕，礼敬我，右绕后，便在那里消失了。”"
+  },
+  {
+   "idx": 5,
+   "pali": "‘‘Satthugaru dhammagaru, saṅghe ca tibbagāravo;",
+   "zh": "“恭敬导师、恭敬法，于僧团深怀恭敬；",
+   "type": "verse"
+  },
+  {
+   "idx": 6,
+   "pali": "Samādhigaru ātāpī , sikkhāya tibbagāravo.",
+   "zh": "于定敬重、精勤不懈，于学处深怀恭敬；",
+   "type": "verse"
+  },
+  {
+   "idx": 7,
+   "pali": "‘‘Appamādagaru bhikkhu, paṭisanthāragāravo;",
+   "zh": "“比丘敬重不放逸，亦敬重亲切接待；",
+   "type": "verse"
+  },
+  {
+   "idx": 8,
+   "pali": "Abhabbo parihānāya, nibbānasseva santike’’ti. paṭhamaṃ;",
+   "zh": "不再退堕，近于涅槃。第一终",
+   "type": "verse"
+  },
+  {
+   "idx": 9,
+   "pali": "2. Hirīgāravasuttaṃ",
+   "zh": "2. [[hirīgāravasutta|惭敬重经]]"
+  },
+  {
+   "idx": 10,
+   "pali": "‘‘Imaṃ, bhikkhave, rattiṃ aññatarā devatā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṃ jetavanaṃ obhāsetvā yenāhaṃ tenupasaṅkami; upasaṅkamitvā maṃ abhivādetvā ekamantaṃ aṭṭhāsi. Ekamantaṃ ṭhitā kho, bhikkhave, sā devatā maṃ etadavoca – ‘sattime, bhante, dhammā bhikkhuno aparihānāya saṃvattanti. Katame satta? Satthugāravatā, dhammagāravatā, saṅghagāravatā, sikkhāgāravatā, samādhigāravatā, hirigāravatā, ottappagāravatā. Ime kho, bhante, satta dhammā bhikkhuno aparihānāya saṃvattantī’ti. Idamavoca, bhikkhave, sā devatā. Idaṃ vatvā maṃ abhivādetvā padakkhiṇaṃ katvā tatthevantaradhāyī’’ti.",
+   "zh": "“诸比丘，昨夜，有一殊胜天人在后夜时分，以绝妙容光遍照整座祇园，来到我的跟前。到来后，向我行礼，立于一边。诸比丘，那位立于一边的天人对我这样说：‘尊者，有七法能令比丘不退堕。哪七法？即恭敬导师、恭敬法、恭敬僧团、恭敬修学、恭敬禅定、恭敬惭、恭敬愧。尊者，正是这七法能令比丘不退堕。’诸比丘，那位天人如此言说。说罢，向我行礼，右旋作礼后，便于彼处隐没不见。”",
+   "n": "33"
+  },
+  {
+   "idx": 11,
+   "pali": "‘‘Satthugaru dhammagaru, saṅghe ca tibbagāravo;",
+   "zh": "“恭敬导师、恭敬法，于僧团深怀恭敬；",
+   "type": "verse"
+  },
+  {
+   "idx": 12,
+   "pali": "Samādhigaru ātāpī, sikkhāya tibbagāravo.",
+   "zh": "于定敬重、精勤不懈，于学处深怀恭敬；",
+   "type": "verse"
+  },
+  {
+   "idx": 13,
+   "pali": "‘‘Hiri ottappasampanno, sappatisso sagāravo;",
+   "zh": "“具足惭与愧，心怀恭敬与尊重；",
+   "type": "verse"
+  },
+  {
+   "idx": 14,
+   "pali": "Abhabbo parihānāya, nibbānasseva santike’’ti. dutiyaṃ;",
+   "zh": "不会退堕，近于涅槃。第二",
+   "type": "verse"
+  },
+  {
+   "idx": 15,
+   "pali": "3. Paṭhamasovacassatāsuttaṃ",
+   "zh": "3. [[paṭhamasovacassatāsutta|第一易教经]]"
+  },
+  {
+   "idx": 16,
+   "pali": "‘‘Imaṃ , bhikkhave, rattiṃ aññatarā devatā…pe… maṃ etadavoca – ‘sattime, bhante, dhammā bhikkhuno aparihānāya saṃvattanti. Katame satta? Satthugāravatā, dhammagāravatā, saṅghagāravatā, sikkhāgāravatā, samādhigāravatā, sovacassatā, kalyāṇamittatā. Ime kho, bhante, satta dhammā bhikkhuno aparihānāya saṃvattantī’ti. Idamavoca, bhikkhave , sā devatā. Idaṃ vatvā maṃ abhivādetvā padakkhiṇaṃ katvā tatthevantaradhāyī’’ti.",
+   "zh": "“诸比丘，今夜有一位天众……（中略）……对我这样说：‘尊者，有七法导向比丘之不退失。哪七种？尊重导师、尊重法、尊重僧团、尊重学处、尊重定、易受教诫、善友。尊者，这七法导向比丘之不退失。’诸比丘，那位天众说了此话，说完便礼敬于我，右绕，于彼处隐没。”",
+   "n": "34"
+  },
+  {
+   "idx": 17,
+   "pali": "‘‘Satthugaru dhammagaru, saṅghe ca tibbagāravo;",
+   "zh": "“恭敬导师、恭敬法，于僧团深怀恭敬；",
+   "type": "verse"
+  },
+  {
+   "idx": 18,
+   "pali": "Samādhigaru ātāpī, sikkhāya tibbagāravo.",
+   "zh": "于定敬重、精勤不懈，于学处深怀恭敬；",
+   "type": "verse"
+  },
+  {
+   "idx": 19,
+   "pali": "‘‘Kalyāṇamitto suvaco, sappatisso sagāravo;",
+   "zh": "“善友、易受教诫，恭敬、尊重；",
+   "type": "verse"
+  },
+  {
+   "idx": 20,
+   "pali": "Abhabbo parihānāya, nibbānasseva santike’’ti. tatiyaṃ;",
+   "zh": "必无退堕，已近涅槃。第三",
+   "type": "verse"
+  },
+  {
+   "idx": 21,
+   "pali": "4. Dutiyasovacassatāsuttaṃ",
+   "zh": "4. [[dutiyasovacassatāsutta|第二易教经]]"
+  },
+  {
+   "idx": 22,
+   "pali": "‘‘Imaṃ , bhikkhave, rattiṃ aññatarā devatā abhikkantāya rattiyā abhikkantavaṇṇā…pe… ‘sattime, bhante, dhammā bhikkhuno aparihānāya saṃvattanti. Katame satta? Satthugāravatā, dhammagāravatā, saṅghagāravatā, sikkhāgāravatā, samādhigāravatā, sovacassatā, kalyāṇamittatā. Ime kho, bhante, satta dhammā bhikkhuno aparihānāya saṃvattantī’ti. Idamavoca, bhikkhave, sā devatā. Idaṃ vatvā maṃ abhivādetvā padakkhiṇaṃ katvā tatthevantaradhāyī’’ti.",
+   "zh": "“诸比丘！昨夜后夜时分，有一位容色殊胜的天人……对我说了这样的话：‘尊者！有七法能令比丘不退失。哪七法呢？恭敬导师、恭敬法、恭敬僧团、恭敬学、恭敬定、易受教诫、善友性。尊者，正是这七法导向比丘的不退失。’ 诸比丘，那位天人如此说已，向我礼敬、右绕，便在那里隐没不现。”",
+   "n": "35"
+  },
+  {
+   "idx": 23,
+   "pali": "Evaṃ vutte āyasmā sāriputto bhagavantaṃ etadavoca – ‘‘imassa kho ahaṃ, bhante, bhagavatā saṃkhittena bhāsitassa evaṃ vitthārena atthaṃ ājānāmi. Idha, bhante, bhikkhu attanā ca satthugāravo hoti, satthugāravatāya ca vaṇṇavādī. Ye caññe bhikkhū na satthugāravā te ca satthugāravatāya samādapeti. Ye caññe bhikkhū satthugāravā tesañca vaṇṇaṃ bhaṇati bhūtaṃ tacchaṃ kālena. Attanā ca dhammagāravo hoti…pe… saṅghagāravo hoti… sikkhāgāravo hoti… samādhigāravo hoti… suvaco hoti… kalyāṇamitto hoti, kalyāṇamittatāya ca vaṇṇavādī. Ye caññe bhikkhū na kalyāṇamittā te ca kalyāṇamittatāya samādapeti . Ye caññe bhikkhū kalyāṇamittā tesañca vaṇṇaṃ bhaṇati bhūtaṃ tacchaṃ kālenāti. Imassa kho ahaṃ, bhante, bhagavatā saṃkhittena bhāsitassa evaṃ vitthārena atthaṃ ājānāmī’’ti.",
+   "zh": "如是说已，具寿[[Sāriputta|舍利弗]]对世尊这样说：“尊者！世尊所简略说的义理，我这样详细了知。尊者！在此，比丘自己恭敬导师，并赞叹恭敬导师；对于其他不恭敬导师的比丘，便劝导他们恭敬导师；对于已经恭敬导师的比丘，则在适当的时候如实、真诚地赞叹他们。自己恭敬法……恭敬僧团……恭敬学……恭敬定……易受教诫……具足善友性，并赞叹善友性；对于其他不是善友的比丘，便劝导他们成为善友；对于已经是善友的比丘，则在适当的时候如实、真诚地赞叹他们。尊者！世尊所简略说的义理，我这样详细了知。”"
+  },
+  {
+   "idx": 24,
+   "pali": "‘‘Sādhu sādhu, sāriputta! Sādhu kho tvaṃ, sāriputta, imassa mayā saṃkhittena bhāsitassa evaṃ vitthārena atthaṃ ājānāsi. Idha, sāriputta, bhikkhu attanā ca satthugāravo hoti, satthugāravatāya ca vaṇṇavādī. Ye caññe bhikkhū na satthugāravā te ca satthugāravatāya samādapeti . Ye caññe bhikkhū satthugāravā tesañca vaṇṇaṃ bhaṇati bhūtaṃ tacchaṃ kālena. Attanā ca dhammagāravo hoti…pe… saṅghagāravo hoti… sikkhāgāravo hoti… samādhigāravo hoti… suvaco hoti… kalyāṇamitto hoti, kalyāṇamittatāya ca vaṇṇavādī. Ye caññe bhikkhū na kalyāṇamittā te ca kalyāṇamittatāya samādapeti. Ye caññe bhikkhū kalyāṇamittā tesañca vaṇṇaṃ bhaṇati bhūtaṃ tacchaṃ kālenāti. Imassa kho, sāriputta, mayā saṃkhittena bhāsitassa evaṃ vitthārena attho daṭṭhabbo’’ti. Catutthaṃ.",
+   "zh": "“善哉！善哉！[[Sāriputta|舍利弗]]！你善于将我简略所说的义理，如此详细地了知。[[Sāriputta|舍利弗]]！此处，比丘自己恭敬导师，并赞叹恭敬导师；对于其他不恭敬导师的比丘，便劝导他们恭敬导师；对于已经恭敬导师的比丘，则在适当的时候如实、真实地称赞他们。自己恭敬法，并赞叹恭敬法；对于其他不恭敬法的比丘，便劝导他们恭敬法；对于已经恭敬法的比丘，则在适当的时候如实、真实地称赞他们。自己恭敬僧团，并赞叹恭敬僧团；对于其他不恭敬僧团的比丘，便劝导他们恭敬僧团；对于已经恭敬僧团的比丘，则在适当的时候如实、真实地称赞他们。自己恭敬学，并赞叹恭敬学；对于其他不恭敬学的比丘，便劝导他们恭敬学；对于已经恭敬学的比丘，则在适当的时候如实、真实地称赞他们。自己恭敬定，并赞叹恭敬定；对于其他不恭敬定的比丘，便劝导他们恭敬定；对于已经恭敬定的比丘，则在适当的时候如实、真实地称赞他们。自己易受教诫，并赞叹易受教诫；对于其他不易受教诫的比丘，便劝导他们易受教诫；对于已经易受教诫的比丘，则在适当的时候如实、真实地称赞他们。具足善友性，并赞叹善友性；对于其他不是善友的比丘，便劝导他们成为善友；对于已经是善友的比丘，则在适当的时候如实、真实地称赞他们。[[Sāriputta|舍利弗]]！对我所简略说的，应当这样详细地理解其义。”第四经。"
+  },
+  {
+   "idx": 25,
+   "pali": "5. Paṭhamamittasuttaṃ",
+   "zh": "5. [[paṭhamamittasutta|第一善友经]]"
+  },
+  {
+   "idx": 26,
+   "pali": "‘‘Sattahi, bhikkhave, aṅgehi samannāgato mitto sevitabbo. Katamehi sattahi? Duddadaṃ dadāti, dukkaraṃ karoti, dukkhamaṃ khamati, guyhamassa āvi karoti, guyhamassa pariguhati , āpadāsu na jahati, khīṇena nātimaññati. Imehi kho, bhikkhave, sattahi aṅgehi samannāgato mitto sevitabbo’’ti .",
+   "zh": "“诸比丘！具足七支的朋友应当亲近。哪七支？他给予难给予的，做难做的，忍受难忍的；他向你显露自己的秘密，守护你的秘密；在困厄时不舍弃你，在你衰败时不轻视你。诸比丘！具足这七支的朋友应当亲近。”",
+   "n": "36"
+  },
+  {
+   "idx": 27,
+   "pali": "‘‘Duddadaṃ dadāti mitto, dukkarañcāpi kubbati;",
+   "zh": "“朋友给予那难施的，也做那难做的；",
+   "type": "verse"
+  },
+  {
+   "idx": 28,
+   "pali": "Athopissa duruttāni, khamati dukkhamāni ca .",
+   "zh": "而且他忍受他的恶言，以及种种难忍之事。",
+   "type": "verse"
+  },
+  {
+   "idx": 29,
+   "pali": "‘‘Guyhañca tassa akkhāti, guyhassa parigūhati;",
+   "zh": "“他向他吐露秘密，亦守护秘密；",
+   "type": "verse"
+  },
+  {
+   "idx": 30,
+   "pali": "Āpadāsu na jahāti, khīṇena nātimaññati.",
+   "zh": "于危难中不舍弃，不因衰败而轻视。",
+   "type": "verse"
+  },
+  {
+   "idx": 31,
+   "pali": "‘‘Yamhi etāni ṭhānāni, saṃvijjantīdha puggale;",
+   "zh": "“凡是于此处具足这些特质的人，",
+   "type": "verse"
+  },
+  {
+   "idx": 32,
+   "pali": "So mitto mittakāmena, bhajitabbo tathāvidho’’ti. pañcamaṃ;",
+   "zh": "这样的朋友，求友者应当亲近、交往。”第五",
+   "type": "verse"
+  },
+  {
+   "idx": 33,
+   "pali": "6. Dutiyamittasuttaṃ",
+   "zh": "6. [[dutiyamittasutta|第二善友经]]"
+  },
+  {
+   "idx": 34,
+   "pali": "‘‘Sattahi , bhikkhave, dhammehi samannāgato bhikkhu mitto sevitabbo bhajitabbo payirupāsitabbo api panujjamānenapi . Katamehi sattahi? Piyo ca hoti manāpo ca garu ca bhāvanīyo ca vattā ca vacanakkhamo ca gambhīrañca kathaṃ kattā hoti, no ca aṭṭhāne niyojeti . Imehi kho, bhikkhave, sattahi dhammehi samannāgato bhikkhu mitto sevitabbo bhajitabbo payirupāsitabbo api panujjamānenapī’’ti.",
+   "zh": "“比丘们，具足七种法的比丘善友，应当亲近、交往、承事，即使遭到拒绝，也当如此。哪七种？他令人喜爱、令人愉悦、可敬、应受尊重，善于言说，堪忍言语，能作深妙之论，不令人行于非处。比丘们，比丘具足这七种法，是善友，应当亲近、交往、承事，即使遭到拒绝，也当如此。”",
+   "n": "37"
+  },
+  {
+   "idx": 35,
+   "pali": "‘‘Piyo garu bhāvanīyo, vattā ca vacanakkhamo;",
+   "zh": "“令人喜爱、可敬、应受尊重，善于言说而能堪忍言语，",
+   "type": "verse"
+  },
+  {
+   "idx": 36,
+   "pali": "Gambhīrañca kathaṃ kattā, no caṭṭhāne niyojako .",
+   "zh": "能说甚深之法，但不引导至不当之处。",
+   "type": "verse"
+  },
+  {
+   "idx": 37,
+   "pali": "‘‘Yamhi etāni ṭhānāni, saṃvijjantīdha puggale;",
+   "zh": "“若有人具足这些特质，",
+   "type": "verse"
+  },
+  {
+   "idx": 38,
+   "pali": "So mitto mittakāmena, atthakāmānukampato;",
+   "zh": "这样的朋友，是希求友谊、心怀利益与哀愍者所应亲近的。",
+   "type": "verse"
+  },
+  {
+   "idx": 39,
+   "pali": "Api nāsiyamānena, bhajitabbo tathāvidho’’ti. chaṭṭhaṃ;",
+   "zh": "即使被摈弃，也应亲近如是之人。”第六经。",
+   "type": "verse"
+  },
+  {
+   "idx": 40,
+   "pali": "7. Paṭhamapaṭisambhidāsuttaṃ",
+   "zh": "7. [[paṭhamapaṭisambhidāsutta|第一无碍解经]]"
+  },
+  {
+   "idx": 41,
+   "pali": "‘‘Sattahi, bhikkhave, dhammehi samannāgato bhikkhu nacirasseva catasso paṭisambhidā sayaṃ abhiññā sacchikatvā upasampajja vihareyya. Katamehi sattahi? Idha, bhikkhave, bhikkhu ‘idaṃ me cetaso līnatta’nti yathābhūtaṃ pajānāti; ajjhattaṃ saṃkhittaṃ vā cittaṃ ‘ajjhattaṃ me saṃkhittaṃ citta’nti yathābhūtaṃ pajānāti; bahiddhā vikkhittaṃ vā cittaṃ ‘bahiddhā me vikkhittaṃ citta’nti yathābhūtaṃ pajānāti; tassa viditā vedanā uppajjanti, viditā upaṭṭhahanti, viditā abbhatthaṃ gacchanti; viditā saññā uppajjanti, viditā upaṭṭhahanti, viditā abbhatthaṃ gacchanti; viditā vitakkā uppajjanti, viditā upaṭṭhahanti, viditā abbhatthaṃ gacchanti; sappāyāsappāyesu kho panassa dhammesu hīnappaṇītesu kaṇhasukkasappatibhāgesu nimittaṃ suggahitaṃ hoti sumanasikataṃ sūpadhāritaṃ suppaṭividdhaṃ paññāya. Imehi kho, bhikkhave, sattahi dhammehi samannāgato bhikkhu nacirasseva catasso paṭisambhidā sayaṃ abhiññā sacchikatvā upasampajja vihareyyā’’ti. Sattamaṃ.",
+   "zh": "“诸比丘！具足七法的比丘，不久便能以证智亲自觉证四无碍解，并完全安住其中。哪七种？诸比丘！在此，比丘如实了知‘此是我心的沉没’；如实了知内在收摄之心为‘我的心内在收摄’；如实了知外散之心为‘我的心外散’；他能了知受的生起、了知受的持续、了知受的灭去；能了知想的生起、了知想的持续、了知想的灭去；能了知寻的生起、了知寻的持续、了知寻的灭去；对于适与不适、劣与胜、黑白相对的一切法，他能善巧把握其相，善巧作意，善巧忆持，以智慧善巧通达。诸比丘！具足此七法的比丘，不久便能以证智亲自觉证四无碍解，并完全安住其中。”第七经。",
+   "n": "38"
+  },
+  {
+   "idx": 42,
+   "pali": "8. Dutiyapaṭisambhidāsuttaṃ",
+   "zh": "8. [[dutiyapaṭisambhidāsutta|第二无碍解经]]"
+  },
+  {
+   "idx": 43,
+   "pali": "‘‘Sattahi , bhikkhave, dhammehi samannāgato sāriputto catasso paṭisambhidā sayaṃ abhiññā sacchikatvā upasampajja viharati. Katamehi sattahi? Idha, bhikkhave, sāriputto ‘idaṃ me cetaso līnatta’nti yathābhūtaṃ pajānāti; ajjhattaṃ saṃkhittaṃ vā cittaṃ ‘ajjhattaṃ me saṃkhittaṃ citta’nti yathābhūtaṃ pajānāti; bahiddhā vikkhittaṃ vā cittaṃ ‘bahiddhā me vikkhittaṃ citta’nti yathābhūtaṃ pajānāti; tassa viditā vedanā uppajjanti, viditā upaṭṭhahanti, viditā abbhatthaṃ gacchanti; viditā saññā…pe… vitakkā uppajjanti, viditā upaṭṭhahanti, viditā abbhatthaṃ gacchanti; sappāyāsappāyesu kho panassa dhammesu hīnappaṇītesu kaṇhasukkasappatibhāgesu nimittaṃ suggahitaṃ sumanasikataṃ sūpadhāritaṃ suppaṭividdhaṃ paññāya. Imehi kho, bhikkhave, sattahi dhammehi samannāgato sāriputto catasso paṭisambhidā sayaṃ abhiññā sacchikatvā upasampajja viharatī’’ti. Aṭṭhamaṃ.",
+   "zh": "“比丘们！[[Sāriputta|舍利弗]]具足七法，便以自证智证得四无碍解，安住其中。哪七法呢？比丘们，在此，[[Sāriputta|舍利弗]]如实了知‘这是我心的沉没’；如实了知内收之心为‘我心内收’；如实了知外散之心为‘我心外散’；对于受，他了知其生起、了知其住立、了知其灭去；对于想，他了知其生起、了知其住立、了知其灭去；对于寻，他了知其生起、了知其住立、了知其灭去；在合适与不合适、低劣与殊胜、黑白相对的诸法中，他对相善加把握、善作意、善忆持、以慧善通达。比丘们！[[Sāriputta|舍利弗]]正是具足这七法，便以自证智证得四无碍解，安住其中。”第八经。",
+   "n": "39"
+  },
+  {
+   "idx": 44,
+   "pali": "9. Paṭhamavasasuttaṃ",
+   "zh": "9. [[paṭhamavasasutta|第一自在经]]"
+  },
+  {
+   "idx": 45,
+   "pali": "‘‘Sattahi , bhikkhave, dhammehi samannāgato bhikkhu cittaṃ vase vatteti, no ca bhikkhu cittassa vasena vattati. Katamehi sattahi? Idha, bhikkhave, bhikkhu samādhikusalo hoti, samādhissa samāpattikusalo hoti, samādhissa ṭhitikusalo hoti, samādhissa vuṭṭhānakusalo hoti, samādhissa kalyāṇakusalo hoti, samādhissa gocarakusalo hoti, samādhissa abhinīhārakusalo hoti. Imehi kho, bhikkhave, sattahi dhammehi samannāgato bhikkhu cittaṃ vase vatteti, no ca bhikkhu cittassa vasena vattatī’’ti. Navamaṃ.",
+   "zh": "“比丘们！具足七法的比丘，能令心自在而转，而不随心的自在而转。哪七法呢？比丘们，在此，比丘善巧于定，善巧于入定，善巧于住定，善巧于出定，善巧于定的胜妙，善巧于定的行境，善巧于定的策向。比丘们！具足这七法的比丘，便能令心自在而转，而不随心的自在而转。”第九经。",
+   "n": "40"
+  },
+  {
+   "idx": 46,
+   "pali": "10. Dutiyavasasuttaṃ",
+   "zh": "10. [[dutiyavasasutta|第二自在经]]"
+  },
+  {
+   "idx": 47,
+   "pali": "‘‘Sattahi, bhikkhave, dhammehi samannāgato sāriputto cittaṃ vase vatteti, no ca sāriputto cittassa vasena vattati. Katamehi sattahi? Idha, bhikkhave, sāriputto samādhikusalo hoti, samādhissa samāpattikusalo, samādhissa ṭhitikusalo, samādhissa vuṭṭhānakusalo, samādhissa kalyāṇakusalo, samādhissa gocarakusalo, samādhissa abhinīhārakusalo hoti. Imehi kho, bhikkhave , sattahi dhammehi samannāgato sāriputto cittaṃ vase vatteti, no ca sāriputto cittassa vasena vattatī’’ti. Dasamaṃ.",
+   "zh": "“诸比丘！[[Sāriputta|舍利弗]]具足七法，能令心随自在而转，而不为心所转。哪七法呢？诸比丘！于此，[[Sāriputta|舍利弗]]于定善巧，于入定善巧，于住定善巧，于出定善巧，于定之胜妙善巧，于定之行境善巧，于定之引向善巧。诸比丘！[[Sāriputta|舍利弗]]具足此七法，能令心随自在而转，而不为心所转。”\n第十经。",
+   "n": "41"
+  },
+  {
+   "idx": 48,
+   "pali": "11. Paṭhamaniddasasuttaṃ",
+   "zh": "11. [[paṭhamaniddasasutta|第一无过经]]"
+  },
+  {
+   "idx": 49,
+   "pali": "Atha kho āyasmā sāriputto pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya sāvatthiṃ piṇḍāya pāvisi. Atha kho āyasmato sāriputtassa etadahosi – ‘‘atippago kho tāva sāvatthiyaṃ piṇḍāya carituṃ. Yaṃnūnāhaṃ yena aññatitthiyānaṃ paribbājakānaṃ ārāmo tenupasaṅkameyya’’nti. Atha kho āyasmā sāriputto yena aññatitthiyānaṃ paribbājakānaṃ ārāmo tenupasaṅkami; upasaṅkamitvā tehi aññatitthiyehi paribbājakehi saddhiṃ sammodi. Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdi. Tena kho pana samayena tesaṃ aññatitthiyānaṃ paribbājakānaṃ sannisinnānaṃ sannipatitānaṃ ayamantarākathā udapādi – ‘‘yo hi koci, āvuso, dvādasavassāni paripuṇṇaṃ parisuddhaṃ brahmacariyaṃ carati, ‘niddaso bhikkhū’ti alaṃ vacanāyā’’ti.",
+   "zh": "其时，具寿舍利弗于午前时分着衣持钵，进入[[sāvatthī|舍卫城]]乞食。当时，具寿舍利弗心想：“此刻在[[sāvatthī|舍卫城]]乞食，时候还太早。我何不先往外道游方者的园林一趟呢？”于是，具寿舍利弗便前往外道游方者的园林。抵达后，与那些外道游方者互相问候致意，彼此作了亲切、值得忆念的交谈，然后在一旁坐下。那时，那些外道游方者正聚集共坐，生起了这样一段议论：“贤友们！无论何人，若能行持圆满、清净的梵行满十二年，便足以被称为‘无过比丘’。”",
+   "n": "42"
+  },
+  {
+   "idx": 50,
+   "pali": "Atha kho āyasmā sāriputto tesaṃ aññatitthiyānaṃ paribbājakānaṃ bhāsitaṃ neva abhinandi nappaṭikkosi. Anabhinanditvā appaṭikkositvā uṭṭhāyāsanā pakkāmi – ‘‘bhagavato santike etassa bhāsitassa atthaṃ ājānissāmī’’ti. Atha kho āyasmā sāriputto sāvatthiyaṃ piṇḍāya caritvā pacchābhattaṃ piṇḍapātapaṭikkanto yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho āyasmā sāriputto bhagavantaṃ etadavoca –",
+   "zh": "当时，具寿舍利弗对那些外道游方者所说的话，既不随喜，也不驳斥。不随喜、不驳斥之后，他便从座起身离去，心想：“我当在世尊面前，了知这番话的义理。”于是，具寿舍利弗在[[sāvatthī|舍卫城]]中次第乞食，食毕，从乞食处返回后，便前往世尊所在之处。抵达后，礼敬世尊，然后在一旁坐下。在一旁坐下的具寿舍利弗，便对世尊这样说："
+  },
+  {
+   "idx": 51,
+   "pali": "‘‘Idhāhaṃ, bhante, pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya sāvatthiṃ piṇḍāya pāvisiṃ. Tassa mayhaṃ, bhante, etadahosi – ‘atippago kho tāva sāvatthiyaṃ piṇḍāya carituṃ. Yaṃnūnāhaṃ yena aññatitthiyānaṃ paribbājakānaṃ ārāmo tenupasaṅkameyya’nti. Atha khvāhaṃ, bhante, yena aññatitthiyānaṃ paribbājakānaṃ ārāmo tenupasaṅkamiṃ; upasaṅkamitvā tehi aññatitthiyehi paribbājakehi saddhiṃ sammodiṃ. Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdiṃ. Tena kho pana, bhante, samayena tesaṃ aññatitthiyānaṃ paribbājakānaṃ sannisinnānaṃ sannipatitānaṃ ayamantarākathā udapādi – ‘yo hi koci, āvuso, dvādasavassāni paripuṇṇaṃ parisuddhaṃ brahmacariyaṃ carati, niddaso bhikkhūti alaṃ vacanāyā’ti. Atha khvāhaṃ, bhante, tesaṃ aññatitthiyānaṃ paribbājakānaṃ bhāsitaṃ neva abhinandiṃ nappaṭikkosiṃ. Anabhinanditvā appaṭikkositvā uṭṭhāyāsanā pakkamiṃ – ‘bhagavato santike etassa atthaṃ ājānissāmī’ti. Sakkā nu kho, bhante, imasmiṃ dhammavinaye kevalaṃ vassagaṇanamattena niddaso bhikkhu paññāpetu’’nti?",
+   "zh": "“尊者！在此，我于午前时分着衣持钵，入[[sāvatthī|舍卫城]]乞食。当时，我心中这样想：‘此刻在[[sāvatthī|舍卫城]]乞食，时候还太早。我何不先往外道游方者的园林一趟呢？’尊者！于是我便前往外道游方者的园林。到了以后，和那些外道游方者互相问候致意，作了亲切、值得忆念的交谈，便在一旁坐下。尊者！那时，那些外道游方者正聚集共坐，生起了这样一段议论：‘贤友们！无论何人，若能行持圆满、清净的梵行满十二年，便足以被称为“无过比丘”。’尊者！当时，我对于那些外道游方者所说的话，既不随喜，也不驳斥。不随喜、不驳斥之后，我便从座起身离去，心想：‘我当在世尊面前，了知此义。’尊者！于此法、律之中，难道仅凭年数的计算，就可以安立‘无过比丘’吗？”"
+  },
+  {
+   "idx": 52,
+   "pali": "‘‘Na kho, sāriputta, sakkā imasmiṃ dhammavinaye kevalaṃ vassagaṇanamattena niddaso bhikkhu paññāpetuṃ. Satta kho imāni, sāriputta, niddasavatthūni mayā sayaṃ abhiññā sacchikatvā paveditāni.",
+   "zh": "“[[Sāriputta|舍利弗]]，在此法与律中，不可能仅凭年岁多少便施设一位比丘为无过者。[[Sāriputta|舍利弗]]，这七种无过之事，是我以证智亲自证知后所宣说的。"
+  },
+  {
+   "idx": 53,
+   "pali": "‘‘Katamāni satta? Idha, sāriputta, bhikkhu sikkhāsamādāne tibbacchando hoti āyatiñca sikkhāsamādāne avigatapemo, dhammanisantiyā tibbacchando hoti āyatiñca dhammanisantiyā avigatapemo, icchāvinaye tibbacchando hoti āyatiñca icchāvinaye avigatapemo, paṭisallāne tibbacchando hoti āyatiñca paṭisallāne avigatapemo, vīriyārambhe tibbacchando hoti āyatiñca vīriyārambhe avigatapemo, satinepakke tibbacchando hoti āyatiñca satinepakke avigatapemo, diṭṭhipaṭivedhe tibbacchando hoti āyatiñca diṭṭhipaṭivedhe avigatapemo. Imāni kho, sāriputta, satta niddasavatthūni mayā sayaṃ abhiññā sacchikatvā paveditāni. Imehi kho, sāriputta, sattahi niddasavatthūhi samannāgato bhikkhu dvādasa cepi vassāni paripuṇṇaṃ parisuddhaṃ brahmacariyaṃ carati, ‘niddaso bhikkhū’ti alaṃ vacanāya; catubbīsati cepi vassāni paripuṇṇaṃ parisuddhaṃ brahmacariyaṃ carati, ‘niddaso bhikkhū’ti alaṃ vacanāya; chattiṃsati cepi vassāni paripuṇṇaṃ parisuddhaṃ brahmacariyaṃ carati, ‘niddaso bhikkhū’ti alaṃ vacanāya, aṭṭhacattārīsaṃ cepi vassāni paripuṇṇaṃ parisuddhaṃ brahmacariyaṃ carati, ‘niddaso bhikkhū’ti alaṃ vacanāyā’’ti. Ekādasamaṃ.",
+   "zh": "“哪七种呢？[[Sāriputta|舍利弗]]，在此，比丘对受持学处有强烈的欲求，于未来对受持学处亦不失爱乐；对法之审察有强烈的欲求，于未来对法之审察亦不失爱乐；对调伏欲望有强烈的欲求，于未来对调伏欲望亦不失爱乐；对独处有强烈的欲求，于未来对独处亦不失爱乐；对发起精进有强烈的欲求，于未来对发起精进亦不失爱乐；对念慧有强烈的欲求，于未来对念慧亦不失爱乐；对见之通达有强烈的欲求，于未来对见之通达亦不失爱乐。[[Sāriputta|舍利弗]]，这七种无过基础，是我以证智亲自证知后所宣说的。[[Sāriputta|舍利弗]]，具足这七种无过基础的比丘，即使圆满修习清净梵行仅十二年，也足以称为‘无过比丘’；即使圆满修习清净梵行二十四年，也足以称为‘无过比丘’；即使圆满修习清净梵行三十六年，也足以称为‘无过比丘’；即使圆满修习清净梵行四十八年，也足以称为‘无过比丘’。”第十一经。"
+  },
+  {
+   "idx": 54,
+   "pali": "12. Dutiyaniddasasuttaṃ",
+   "zh": "12. [[dutiyaniddasasutta|第二无过经]]"
+  },
+  {
+   "idx": 55,
+   "pali": "Evaṃ me sutaṃ – ekaṃ samayaṃ bhagavā kosambiyaṃ viharati ghositārāme. Atha kho āyasmā ānando pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya kosambiṃ piṇḍāya pāvisi. Atha kho āyasmato ānandassa etadahosi – ‘‘atippago kho tāva kosambiyaṃ piṇḍāya carituṃ. Yaṃnūnāhaṃ yena aññatitthiyānaṃ paribbājakānaṃ ārāmo tenupasaṅkameyya’’nti. Atha kho āyasmā ānando yena aññatitthiyānaṃ paribbājakānaṃ ārāmo tenupasaṅkami ; upasaṅkamitvā tehi aññatitthiyehi paribbājakehi saddhiṃ sammodi. Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdi.",
+   "zh": "如是我闻：一时，世尊住在[[kosambī|憍赏弥]]城的瞿师罗。那时，具寿[[ānanda|阿难]]于上午身着法衣，持钵与衣，入[[kosambī|憍赏弥]]城乞食。当时，具寿[[ānanda|阿难]]心中思惟：“此时入[[kosambī|憍赏弥]]城乞食，为时尚早。我何不前往外道游方者的园林一行？”于是，具寿[[ānanda|阿难]]便前往外道游方者的园林；到了之后，与那些外道游方者共相问候，叙谈令人欢喜、值得忆念的话语，而后退坐一面。",
+   "n": "43"
+  },
+  {
+   "idx": 56,
+   "pali": "Tena kho pana samayena tesaṃ aññatitthiyānaṃ paribbājakānaṃ sannisinnānaṃ sannipatitānaṃ ayamantarākathā udapādi – ‘‘yo hi koci, āvuso, dvādasa vassāni paripuṇṇaṃ parisuddhaṃ brahmacariyaṃ carati, ‘niddaso bhikkhū’ti alaṃ vacanāyā’’ti.",
+   "zh": "那时，那些外道游方者共聚一处，于集会中生起这样的议论：“贤友，若有人修习圆满清净的梵行十二年，便足以被称为‘无过比丘’。”"
+  },
+  {
+   "idx": 57,
+   "pali": "Atha kho āyasmā ānando tesaṃ aññatitthiyānaṃ paribbājakānaṃ bhāsitaṃ neva abhinandi nappaṭikkosi. Anabhinanditvā appaṭikkositvā uṭṭhāyāsanā pakkāmi – ‘‘bhagavato santike etassa bhāsitassa atthaṃ ājānissāmī’’ti. Atha kho āyasmā ānando kosambiyaṃ piṇḍāya caritvā pacchābhattaṃ piṇḍapātapaṭikkanto yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho āyasmā ānando bhagavantaṃ etadavoca –",
+   "zh": "当时，具寿[[ānanda|阿难]]对于那些外道游方者所说的话，既不随喜，亦不反驳。他既不随喜，也不反驳，便从座起身离去，心想：“我当于世尊座下，了知此段议论的义理。”那时，具寿[[ānanda|阿难]]在[[kosambī|憍赏弥]]城乞食已，食毕从施食处返回，便前往世尊所在之处；到了之后，向世尊顶礼，退坐一面。坐定之后，具寿[[ānanda|阿难]]即对世尊禀白："
+  },
+  {
+   "idx": 58,
+   "pali": "‘‘Idhāhaṃ, bhante, pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya kosambiṃ piṇḍāya pāvisiṃ. Tassa mayhaṃ, bhante, etadahosi – ‘atippago kho tāva kosambiyaṃ piṇḍāya carituṃ. Yaṃnūnāhaṃ yena aññatitthiyānaṃ paribbājakānaṃ ārāmo tenupasaṅkameyya’nti…pe… tehi saddhiṃ sammodiṃ. Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdiṃ.",
+   "zh": "“尊者，我于上午时分着下衣，持钵与衣，进入[[kosambī|憍赏弥]]城托钵。尊者，那时我心念：‘此刻入[[kosambī|憍赏弥]]城托钵尚早。我何不前往外道游方者的园林呢？’……（中略）……在那里，我与他们互相问候，叙说了亲切而堪可忆念的话语后，于一旁坐下。"
+  },
+  {
+   "idx": 59,
+   "pali": "‘‘Tena kho pana, bhante, samayena tesaṃ aññatitthiyānaṃ paribbājakānaṃ sannisinnānaṃ sannipatitānaṃ ayamantarākathā udapādi – ‘yo hi koci, āvuso, dvādasavassāni paripuṇṇaṃ parisuddhaṃ brahmacariyaṃ carati, niddaso bhikkhūti alaṃ vacanāyā’ti. Atha khvāhaṃ, bhante, tesaṃ aññatitthiyānaṃ paribbājakānaṃ bhāsitaṃ neva abhinandiṃ nappaṭikkosiṃ. Anabhinanditvā, appaṭikkositvā uṭṭhāyāsanā pakkamiṃ – ‘bhagavato santike etassa bhāsitassa atthaṃ ājānissāmī’ti. Sakkā nu kho, bhante, imasmiṃ dhammavinaye kevalaṃ vassagaṇanamattena niddaso bhikkhu paññāpetu’’nti?",
+   "zh": "“尊者，那时，那些外道游方者集会共坐，生起了如是的闲谈：‘贤友们，若有人修习圆满清净的梵行满十二年，便足以称为“无十比丘”。’尊者，我听了那些外道游方者的话，既不随喜，也不反驳。不随喜、不反驳之后，我从座而起，离去时心想：‘我当在世尊面前了知这番话的意义。’尊者，于此法与律中，难道可以仅依瓦萨的数目来安立比丘为无十者吗？”"
+  },
+  {
+   "idx": 60,
+   "pali": "‘‘Na kho, ānanda, sakkā imasmiṃ dhammavinaye kevalaṃ vassagaṇanamattena niddaso bhikkhu paññāpetuṃ. Satta kho imāni, ānanda, niddasavatthūni mayā sayaṃ abhiññā sacchikatvā paveditāni.",
+   "zh": "“[[ānanda|阿难]]，于此法与律中，不可仅仅依瓦萨的数目便安立比丘为漏尽者。[[ānanda|阿难]]，此七种堪称漏尽者之事，乃我亲以证智作证后所宣说。"
+  },
+  {
+   "idx": 61,
+   "pali": "‘‘Katamāni satta? Idhānanda, bhikkhu, saddho hoti, hirīmā hoti, ottappī hoti, bahussuto hoti, āraddhavīriyo hoti, satimā hoti, paññavā hoti. Imāni kho, ānanda, satta niddasavatthūni mayā sayaṃ abhiññā sacchikatvā paveditāni. Imehi kho, ānanda, sattahi niddasavatthūhi samannāgato bhikkhu dvādasa cepi vassāni paripuṇṇaṃ parisuddhaṃ brahmacariyaṃ carati, ‘niddaso bhikkhū’ti alaṃ vacanāya; catubbīsati cepi vassāni paripuṇṇaṃ parisuddhaṃ brahmacariyaṃ carati, ‘niddaso bhikkhū’ti alaṃ vacanāya; chattiṃsati cepi vassāni paripuṇṇaṃ parisuddhaṃ brahmacariyaṃ carati, ‘niddaso bhikkhū’ti alaṃ vacanāya, aṭṭhacattārīsaṃ cepi vassāni paripuṇṇaṃ parisuddhaṃ brahmacariyaṃ carati, ‘niddaso bhikkhū’ti alaṃ vacanāyā’’ti. Dvādasamaṃ.",
+   "zh": "“哪七种呢？[[ānanda|阿难]]，此处，比丘有信、有惭、有愧，多闻、精进已发、具念、具慧。[[ānanda|阿难]]，这七种无十事，是我亲自以证智证知后所宣说。[[ānanda|阿难]]，成就此七种无十事的比丘，即使圆满行清净梵行十二年，也足以称为‘无十比丘’；即使圆满行清净梵行二十四年，也足以称为‘无十比丘’；即使圆满行清净梵行三十六年，也足以称为‘无十比丘’；即使圆满行清净梵行四十八年，也足以称为‘无十比丘’。”第十二经。"
+  },
+  {
+   "idx": 62,
+   "pali": "Devatāvaggo catuttho.",
+   "zh": "天神品第四"
+  },
+  {
+   "idx": 63,
+   "pali": "Tassuddānaṃ –",
+   "zh": "其摄颂："
+  },
+  {
+   "idx": 64,
+   "pali": "Appamādo hirī ceva, dve suvacā duve mittā;",
+   "zh": "不放逸与惭，及两种易受教者、两种朋友；",
+   "type": "verse"
+  },
+  {
+   "idx": 65,
+   "pali": "Dve paṭisambhidā dve vasā, duve niddasavatthunāti.",
+   "zh": "两种无碍解，两种自在，与两种漏尽者之基。",
+   "type": "verse"
+  }
+ ]
+}

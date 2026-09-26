@@ -1,0 +1,77 @@
+{
+ "uid": 28,
+ "title": "3. 有相品",
+ "nik": "AN",
+ "segs": [
+  {
+   "idx": 0,
+   "pali": "(8) 3. Sanimittavaggo",
+   "zh": "（8） 3. 有相品"
+  },
+  {
+   "idx": 1,
+   "pali": "‘‘Sanimittā , bhikkhave, uppajjanti pāpakā akusalā dhammā, no animittā. Tasseva nimittassa pahānā evaṃ te pāpakā akusalā dhammā na hontī’’ti.",
+   "zh": "“诸比丘，恶不善法有相而生起，非无相。由舍断彼相故，如是他们恶不善法即不复存在。”",
+   "n": "78"
+  },
+  {
+   "idx": 2,
+   "pali": "‘‘Sanidānā, bhikkhave, uppajjanti pāpakā akusalā dhammā, no anidānā. Tasseva nidānassa pahānā evaṃ te pāpakā akusalā dhammā na hontī’’ti.",
+   "zh": "“诸比丘，诸恶不善法皆有因缘而生起，非无因缘。断除了那因缘，那些恶不善法便不复存在。”",
+   "n": "79"
+  },
+  {
+   "idx": 3,
+   "pali": "‘‘Sahetukā, bhikkhave, uppajjanti pāpakā akusalā dhammā, no ahetukā. Tasseva hetussa pahānā evaṃ te pāpakā akusalā dhammā na hontī’’ti.",
+   "zh": "“诸比丘，诸恶不善法皆有因而生起，非无因。断除了那因，那些恶不善法便不复存在。”",
+   "n": "80"
+  },
+  {
+   "idx": 4,
+   "pali": "‘‘Sasaṅkhārā, bhikkhave, uppajjanti pāpakā akusalā dhammā, no asaṅkhārā. Tesaṃyeva saṅkhārānaṃ pahānā evaṃ te pāpakā akusalā dhammā na hontī’’ti.",
+   "zh": "“诸比丘，恶不善法有行而生起，非无行。由舍断彼行故，如是那些恶不善法即不复存在。”",
+   "n": "81"
+  },
+  {
+   "idx": 5,
+   "pali": "‘‘Sappaccayā , bhikkhave, uppajjanti pāpakā akusalā dhammā, no appaccayā. Tasseva paccayassa pahānā evaṃ te pāpakā akusalā dhammā na hontī’’ti.",
+   "zh": "“诸比丘，恶不善法有缘而生起，非无缘。由舍断彼缘故，如是他们恶不善法即不复存在。”",
+   "n": "82"
+  },
+  {
+   "idx": 6,
+   "pali": "‘‘Sarūpā , bhikkhave, uppajjanti pāpakā akusalā dhammā, no arūpā. Tasseva rūpassa pahānā evaṃ te pāpakā akusalā dhammā na hontī’’ti.",
+   "zh": "“诸比丘，诸恶不善法依色而生起，并非不依色。舍断了那色，那些恶不善法便不再存在。”",
+   "n": "83"
+  },
+  {
+   "idx": 7,
+   "pali": "‘‘Savedanā, bhikkhave, uppajjanti pāpakā akusalā dhammā, no avedanā. Tassāyeva vedanāya pahānā evaṃ te pāpakā akusalā dhammā na hontī’’ti.",
+   "zh": "“诸比丘，诸恶不善法依受而生起，并非不依受。舍断了那受，那些恶不善法便不再存在。”",
+   "n": "84"
+  },
+  {
+   "idx": 8,
+   "pali": "‘‘Sasaññā, bhikkhave, uppajjanti pāpakā akusalā dhammā, no asaññā. Tassāyeva saññāya pahānā evaṃ te pāpakā akusalā dhammā na hontī’’ti.",
+   "zh": "“诸比丘，诸恶不善法依想而生起，并非不依想。舍断了那想，那些恶不善法便不再存在。”",
+   "n": "85"
+  },
+  {
+   "idx": 9,
+   "pali": "‘‘Saviññāṇā , bhikkhave, uppajjanti pāpakā akusalā dhammā, no aviññāṇā. Tasseva viññāṇassa pahānā evaṃ te pāpakā akusalā dhammā na hontī’’ti.",
+   "zh": "“诸比丘！恶不善法依识而生起，非无有识。即由断除彼识，如是他们恶不善法便无有。”",
+   "n": "86"
+  },
+  {
+   "idx": 10,
+   "pali": "‘‘Saṅkhatārammaṇā, bhikkhave, uppajjanti pāpakā akusalā dhammā, no asaṅkhatārammaṇā. Tasseva saṅkhatassa pahānā evaṃ te pāpakā akusalā dhammā na hontī’’ti.",
+   "zh": "“诸比丘！恶不善法以有为为所缘而生起，非以无为为所缘。即由断除彼有为，如是他们恶不善法便无有。”",
+   "n": "87"
+  },
+  {
+   "idx": 11,
+   "pali": "Sanimittavaggo tatiyo.",
+   "zh": "有相品第三"
+  }
+ ]
+}

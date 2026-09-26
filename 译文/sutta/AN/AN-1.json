@@ -1,0 +1,82 @@
+{
+ "uid": 1,
+ "title": "1. 色等品",
+ "nik": "AN",
+ "segs": [
+  {
+   "idx": 15,
+   "pali": "1. Rūpādivaggo",
+   "zh": "1. 色等品"
+  },
+  {
+   "idx": 4,
+   "pali": "Evaṃ me sutaṃ – ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Tatra kho bhagavā bhikkhū āmantesi – ‘‘bhikkhavo’’ti. ‘‘Bhadante’’ti te bhikkhū bhagavato paccassosuṃ. Bhagavā etadavoca –",
+   "zh": "如是我闻：一时，世尊住在[[sāvatthī|舍卫城]]祇树[[Anāthapiṇḍika|给孤独]]园。在那里，世尊称呼诸比丘：“诸比丘。”那些比丘回答世尊：“尊者。”世尊如是说：",
+   "n": "1"
+  },
+  {
+   "idx": 5,
+   "pali": "‘‘Nāhaṃ, bhikkhave, aññaṃ ekarūpampi samanupassāmi yaṃ evaṃ purisassa cittaṃ pariyādāya tiṭṭhati yathayidaṃ, bhikkhave, itthirūpaṃ. Itthirūpaṃ, bhikkhave, purisassa cittaṃ pariyādāya tiṭṭhatī’’ti. Paṭhamaṃ.",
+   "zh": "“诸比丘，我不见有任何其他一种色，会像女人的色那样，彻底占据男人的心而盘踞着。诸比丘，女人的色，确实会彻底占据男人的心而盘踞着。”第一经。"
+  },
+  {
+   "idx": 6,
+   "pali": "‘‘Nāhaṃ, bhikkhave, aññaṃ ekasaddampi samanupassāmi yaṃ evaṃ purisassa cittaṃ pariyādāya tiṭṭhati yathayidaṃ, bhikkhave, itthisaddo. Itthisaddo, bhikkhave, purisassa cittaṃ pariyādāya tiṭṭhatī’’ti. Dutiyaṃ.",
+   "zh": "“诸比丘，我不见有任何其他一种声，能像女人的声音那样占据男子的心并盘踞其中。诸比丘，女人的声音正是如此占据男子的心而盘踞其中。”第二经。",
+   "n": "2"
+  },
+  {
+   "idx": 7,
+   "pali": "‘‘Nāhaṃ, bhikkhave, aññaṃ ekagandhampi samanupassāmi yaṃ evaṃ purisassa cittaṃ pariyādāya tiṭṭhati yathayidaṃ, bhikkhave, itthigandho. Itthigandho, bhikkhave, purisassa cittaṃ pariyādāya tiṭṭhatī’’ti. Tatiyaṃ.",
+   "zh": "“诸比丘，我不见有任何其他一种香，能像女人的香气那样占据男子的心并盘踞其中。诸比丘，女人的香气正是如此占据男子的心而盘踞其中。”第三经。",
+   "n": "3"
+  },
+  {
+   "idx": 8,
+   "pali": "‘‘Nāhaṃ , bhikkhave, aññaṃ ekarasampi samanupassāmi yaṃ evaṃ purisassa cittaṃ pariyādāya tiṭṭhati yathayidaṃ, bhikkhave, itthiraso. Itthiraso, bhikkhave, purisassa cittaṃ pariyādāya tiṭṭhatī’’ti. Catutthaṃ.",
+   "zh": "“诸比丘，我不见有任何其他一种味，能像女人的味道那样占据男子的心并盘踞其中。诸比丘，女人的味道正是如此占据男子的心而盘踞其中。”第四经。",
+   "n": "4"
+  },
+  {
+   "idx": 9,
+   "pali": "‘‘Nāhaṃ , bhikkhave, aññaṃ ekaphoṭṭhabbampi samanupassāmi yaṃ evaṃ purisassa cittaṃ pariyādāya tiṭṭhati yathayidaṃ, bhikkhave, itthiphoṭṭhabbo. Itthiphoṭṭhabbo, bhikkhave, purisassa cittaṃ pariyādāya tiṭṭhatī’’ti. Pañcamaṃ.",
+   "zh": "“诸比丘，我不见有其他任何一种触，能像女人的触这般全然占据男子的心，并盘踞不离。诸比丘，女人的触正是这样占据男子的心，盘踞不离。第五经。”",
+   "n": "5"
+  },
+  {
+   "idx": 10,
+   "pali": "‘‘Nāhaṃ, bhikkhave, aññaṃ ekarūpampi samanupassāmi yaṃ evaṃ itthiyā cittaṃ pariyādāya tiṭṭhati yathayidaṃ, bhikkhave, purisarūpaṃ. Purisarūpaṃ, bhikkhave, itthiyā cittaṃ pariyādāya tiṭṭhatī’’ti. Chaṭṭhaṃ.",
+   "zh": "“诸比丘，我不见有其他任何一种色，能像男子之色这般全然占据女人的心，并盘踞不离。诸比丘，男子之色正是这样占据女人的心，盘踞不离。第六经。”",
+   "n": "6"
+  },
+  {
+   "idx": 11,
+   "pali": "‘‘Nāhaṃ, bhikkhave, aññaṃ ekasaddampi samanupassāmi yaṃ evaṃ itthiyā cittaṃ pariyādāya tiṭṭhati yathayidaṃ, bhikkhave, purisasaddo. Purisasaddo, bhikkhave, itthiyā cittaṃ pariyādāya tiṭṭhatī’’ti. Sattamaṃ.",
+   "zh": "“诸比丘，我不见有其他任何一种声，能像男子之声这般全然占据女人的心，并盘踞不离。诸比丘，男子之声正是这样占据女人的心，盘踞不离。第七经。”",
+   "n": "7"
+  },
+  {
+   "idx": 12,
+   "pali": "‘‘Nāhaṃ, bhikkhave, aññaṃ ekagandhampi samanupassāmi yaṃ evaṃ itthiyā cittaṃ pariyādāya tiṭṭhati yathayidaṃ, bhikkhave, purisagandho. Purisagandho, bhikkhave, itthiyā cittaṃ pariyādāya tiṭṭhatī’’ti. Aṭṭhamaṃ.",
+   "zh": "“诸比丘，我不见有其他任何一种香，能像男子之香这样盘踞女人的心。诸比丘，男子之香盘踞女人的心。第八经。”",
+   "n": "8"
+  },
+  {
+   "idx": 13,
+   "pali": "‘‘Nāhaṃ, bhikkhave, aññaṃ ekarasampi samanupassāmi yaṃ evaṃ itthiyā cittaṃ pariyādāya tiṭṭhati yathayidaṃ, bhikkhave, purisaraso. Purisaraso, bhikkhave, itthiyā cittaṃ pariyādāya tiṭṭhatī’’ti. Navamaṃ.",
+   "zh": "“诸比丘，我不见有其他任何一种味，能像男子之味这样盘踞女人的心。诸比丘，男子之味盘踞女人的心。第九经。”",
+   "n": "9"
+  },
+  {
+   "idx": 14,
+   "pali": "‘‘Nāhaṃ, bhikkhave, aññaṃ ekaphoṭṭhabbampi samanupassāmi yaṃ evaṃ itthiyā cittaṃ pariyādāya tiṭṭhati yathayidaṃ, bhikkhave, purisaphoṭṭhabbo. Purisaphoṭṭhabbo, bhikkhave, itthiyā cittaṃ pariyādāya tiṭṭhatī’’ti. Dasamaṃ.",
+   "zh": "“诸比丘，我不见有其他任何一种触，能像男子之触这样盘踞女人的心。诸比丘，男子之触盘踞女人的心。第十经。”",
+   "n": "10"
+  },
+  {
+   "idx": 16,
+   "pali": "Rūpādivaggo paṭhamo.",
+   "zh": "色等品第一"
+  }
+ ]
+}

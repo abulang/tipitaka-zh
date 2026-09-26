@@ -1,0 +1,144 @@
+{
+  "uid": 136,
+  "title": "9. 沙门品",
+  "nik": "AN",
+  "segs": [
+    {
+      "idx": 0,
+      "pali": "9. Samaṇavaggo",
+      "zh": "9. 沙门品"
+    },
+    {
+      "idx": 1,
+      "pali": "1. Bhikkhusuttaṃ",
+      "zh": "1. [[bhikkhusutta|比丘经]]"
+    },
+    {
+      "idx": 2,
+      "pali": "‘‘Sattannaṃ , bhikkhave, dhammānaṃ bhinnattā bhikkhu hoti. Katamesaṃ sattannaṃ? Sakkāyadiṭṭhi bhinnā hoti, vicikicchā bhinnā hoti, sīlabbataparāmāso bhinno hoti, rāgo bhinno hoti, doso bhinno hoti, moho bhinno hoti, māno bhinno hoti. Imesaṃ kho, bhikkhave, sattannaṃ dhammānaṃ bhinnattā bhikkhu hotī’’ti. Paṭhamaṃ.",
+      "zh": "“诸比丘！由于七法断除，便成为比丘。哪七法？有身见断除，疑断除，戒禁取断除，贪断除，嗔断除，痴断除，慢断除。诸比丘！正是由于这七法的断除，便成为比丘。第一经。”",
+      "n": "85"
+    },
+    {
+      "idx": 3,
+      "pali": "2. Samaṇasuttaṃ",
+      "zh": "2. [[samaṇasutta|沙门经]]"
+    },
+    {
+      "idx": 4,
+      "pali": "Sattannaṃ, bhikkhave, dhammānaṃ samitattā samaṇo hoti…pe…. Dutiyaṃ.",
+      "zh": "诸比丘，由七法的止息而成为沙门……（中略）……第二经。",
+      "n": "86"
+    },
+    {
+      "idx": 5,
+      "pali": "3. Brāhmaṇasuttaṃ",
+      "zh": "3. [[brāhmaṇasutta|婆罗门经]]"
+    },
+    {
+      "idx": 6,
+      "pali": "Bāhitattā brāhmaṇo hoti…pe…. Tatiyaṃ.",
+      "zh": "由排除而成为婆罗门……（中略）……第三经。",
+      "n": "87"
+    },
+    {
+      "idx": 7,
+      "pali": "4. Sottiyasuttaṃ",
+      "zh": "4. [[sottiyasutta|多闻者经]]"
+    },
+    {
+      "idx": 8,
+      "pali": "Nissutattā sottiyo hoti…pe…. Catutthaṃ.",
+      "zh": "因脱离故，是闻法者……（中略）……第四经。",
+      "n": "88"
+    },
+    {
+      "idx": 9,
+      "pali": "5. Nhātakasuttaṃ",
+      "zh": "5. [[nhātakasutta|沐浴者经]]"
+    },
+    {
+      "idx": 10,
+      "pali": "Nhātattā nhātako hoti…pe…. Pañcamaṃ.",
+      "zh": "因已沐浴，即名沐浴者……（中略）……第五经。",
+      "n": "89"
+    },
+    {
+      "idx": 11,
+      "pali": "6. Vedagūsuttaṃ",
+      "zh": "6. [[vedagūsutta|吠陀通达者经]]"
+    },
+    {
+      "idx": 12,
+      "pali": "Viditattā vedagū hoti…pe…. Chaṭṭhaṃ.",
+      "zh": "因已了知，即名吠陀通达者……（中略）……第六经。",
+      "n": "90"
+    },
+    {
+      "idx": 13,
+      "pali": "7. Ariyasuttaṃ",
+      "zh": "7. [[ariyasutta|圣者经]]"
+    },
+    {
+      "idx": 14,
+      "pali": "Ārakattā ariyo hoti…pe…. Sattamaṃ.",
+      "zh": "因远离而成为圣者……（中略）……第七经。",
+      "n": "91"
+    },
+    {
+      "idx": 15,
+      "pali": "8. Arahāsuttaṃ",
+      "zh": "8. [[arahāsutta|阿拉汉经]]"
+    },
+    {
+      "idx": 16,
+      "pali": "‘‘Ārakattā arahā hoti. Katamesaṃ sattannaṃ? Sakkāyadiṭṭhi ārakā hoti, vicikicchā ārakā hoti, sīlabbataparāmāso ārako hoti, rāgo ārako hoti, doso ārako hoti, moho ārako hoti, māno ārako hoti. Imesaṃ kho, bhikkhave, sattannaṃ dhammānaṃ ārakattā arahā hotī’’ti. Aṭṭhamaṃ.",
+      "zh": "“由于远离故，名为阿拉汉。以哪七法远故？诸比丘，有身见已远，疑已远，戒禁取已远，贪已远，嗔已远，痴已远，慢已远。诸比丘，正因这七法之远故，名为阿拉汉。”第八经。",
+      "n": "92"
+    },
+    {
+      "idx": 17,
+      "pali": "9. Asaddhammasuttaṃ",
+      "zh": "9. [[asaddhammasutta|非正法经]]"
+    },
+    {
+      "idx": 18,
+      "pali": "‘‘Sattime, bhikkhave, asaddhammā. Katame satta? Assaddho hoti, ahiriko hoti, anottappī hoti, appassuto hoti, kusīto hoti, muṭṭhassati hoti, duppañño hoti. Ime kho, bhikkhave, satta asaddhammā’’ti. Navamaṃ.",
+      "zh": "“诸比丘，有此七非正法。哪七种？无信、无惭、无愧、少闻、懈怠、失念、劣慧。诸比丘，即此七非正法。”第九经。",
+      "n": "93"
+    },
+    {
+      "idx": 19,
+      "pali": "10. Saddhammasuttaṃ",
+      "zh": "10. [[saddhammasutta|正法经]]"
+    },
+    {
+      "idx": 20,
+      "pali": "‘‘Sattime, bhikkhave, saddhammā. Katame satta? Saddho hoti, hirīmā hoti, ottappī hoti, bahussuto hoti, āraddhavīriyo hoti, satimā hoti, paññavā hoti. Ime kho, bhikkhave, satta saddhammā’’ti. Dasamaṃ.",
+      "zh": "“诸比丘，有此七种善法。哪七种呢？具信、具惭、具愧、多闻、精进已发、具念、具慧。诸比丘，此是七种善法。第十经。”",
+      "n": "94"
+    },
+    {
+      "idx": 21,
+      "pali": "Samaṇavaggo navamo.",
+      "zh": "沙门品第九"
+    },
+    {
+      "idx": 22,
+      "pali": "Tassuddānaṃ –",
+      "zh": "其摄颂："
+    },
+    {
+      "idx": 23,
+      "pali": "Bhikkhuṃ samaṇo brāhmaṇo, sottiyo ceva nhātako;",
+      "zh": "比丘、沙门、婆罗门，闻者与沐浴者；",
+      "type": "verse"
+    },
+    {
+      "idx": 24,
+      "pali": "Vedagū ariyo arahā, asaddhammā ca saddhammāti.",
+      "zh": "吠陀通达者、圣者、阿拉汉，非善法与善法。",
+      "type": "verse"
+    }
+  ]
+}

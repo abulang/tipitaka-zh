@@ -1,0 +1,2010 @@
+{
+ "uid": 7,
+ "title": "7. 婆罗门相应",
+ "nik": "SN",
+ "segs": [
+  {
+   "idx": 345,
+   "pali": "7. Brāhmaṇasaṃyuttaṃ",
+   "zh": "7. 婆罗门相应"
+  },
+  {
+   "idx": 346,
+   "pali": "1. Arahantavaggo",
+   "zh": "1. 阿拉汉品"
+  },
+  {
+   "idx": 347,
+   "pali": "1. Dhanañjānīsuttaṃ",
+   "zh": "1. [[dhanañjānīsutta|陀然阇尼经]]"
+  },
+  {
+   "idx": 3,
+   "pali": "Evaṃ me sutaṃ – ekaṃ samayaṃ bhagavā rājagahe viharati veḷuvane kalandakanivāpe. Tena kho pana samayena aññatarassa bhāradvājagottassa brāhmaṇassa dhanañjānī nāma brāhmaṇī abhippasannā hoti buddhe ca dhamme ca saṅghe ca. Atha kho dhanañjānī brāhmaṇī bhāradvājagottassa brāhmaṇassa bhattaṃ upasaṃharantī upakkhalitvā tikkhattuṃ udānaṃ udānesi –",
+   "zh": "如是我闻：一时，世尊住在[[rājagaha|王舍城]]竹林松鼠觅食处。那时，有位婆罗堕婆阇族婆罗门，他的妻子便是婆罗门女[[dhanañjāni|陀然]]阇尼，她对佛、法、僧已生起深切的净信。一天，[[dhanañjāni|陀然]]阇尼婆罗门女在给婆罗堕婆阇族婆罗门送饭时，不慎绊了一下，便一连三次发出由衷的赞叹：",
+   "n": "187"
+  },
+  {
+   "type": "verse",
+   "idx": 4,
+   "pali": "‘‘Namo tassa bhagavato arahato sammāsambuddhassa;",
+   "zh": "“礼敬彼世尊、阿拉汉、正自觉者"
+  },
+  {
+   "type": "verse",
+   "idx": 5,
+   "pali": "Namo tassa bhagavato arahato sammāsambuddhassa;",
+   "zh": "礼敬彼世尊、阿拉汉、正自觉者"
+  },
+  {
+   "type": "verse",
+   "idx": 6,
+   "pali": "Namo tassa bhagavato arahato sammāsambuddhassā’’ti.",
+   "zh": "礼敬彼世尊、阿拉汉、正自觉者！”"
+  },
+  {
+   "idx": 7,
+   "pali": "Evaṃ vutte, bhāradvājagotto brāhmaṇo dhanañjāniṃ brāhmaṇiṃ etadavoca – ‘‘evamevaṃ panāyaṃ vasalī yasmiṃ vā tasmiṃ vā tassa muṇḍakassa samaṇassa vaṇṇaṃ bhāsati. Idāni tyāhaṃ, vasali, tassa satthuno vādaṃ āropessāmī’’ti. ‘‘Na khvāhaṃ taṃ, brāhmaṇa, passāmi sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya, yo tassa bhagavato vādaṃ āropeyya arahato sammāsambuddhassa. Api ca tvaṃ, brāhmaṇa, gaccha, gantvā vijānissasī’’ti .",
+   "zh": "闻听此言，巴拉德瓦迦族婆罗门对[[dhanañjāni|陀然]]婆罗门女说道：“正是如此，这个贱女人，随处都在称赞那个秃头沙门！贱女人，我现在就去驳倒你那位老师的教说！”“婆罗门，在诸天神、魔罗、梵天所处的世间，在沙门、婆罗门、天与人之中，我不见有任何人能驳倒彼世尊、阿拉汉、正自觉者的教说。不过，婆罗门，您去吧，去了以后，您自会明白。”"
+  },
+  {
+   "idx": 8,
+   "pali": "Atha kho bhāradvājagotto brāhmaṇo kupito anattamano yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṃ sammodi. Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho bhāradvājagotto brāhmaṇo bhagavantaṃ gāthāya ajjhabhāsi –",
+   "zh": "那时，巴拉德瓦迦族出身的婆罗门心生嗔怒、面有不悦，便向世尊所在处走去。到后，与世尊互相问候。彼此致过亲切友善的寒暄之后，在一旁坐下。坐定之后，这位巴拉德瓦迦族出身的婆罗门便以偈颂对世尊说："
+  },
+  {
+   "idx": 9,
+   "pali": "‘‘Kiṃsu chetvā sukhaṃ seti, kiṃsu chetvā na socati;",
+   "zh": "“断除何法，能得安眠？断除何法，能无忧愁？",
+   "type": "verse"
+  },
+  {
+   "idx": 10,
+   "pali": "Kissassu ekadhammassa, vadhaṃ rocesi gotamā’’ti.",
+   "zh": "“[[gotama|乔达摩]]，您赞同杀害哪一法呢？”",
+   "type": "verse"
+  },
+  {
+   "idx": 11,
+   "pali": "‘‘Kodhaṃ chetvā sukhaṃ seti, kodhaṃ chetvā na socati;",
+   "zh": "“斩断愤怒，安眠自在；斩断愤怒，便无忧愁。",
+   "type": "verse"
+  },
+  {
+   "idx": 12,
+   "pali": "Kodhassa visamūlassa, madhuraggassa brāhmaṇa;",
+   "zh": "婆罗门，愤怒之根有毒，滋味却甜美；",
+   "type": "verse"
+  },
+  {
+   "idx": 13,
+   "pali": "Vadhaṃ ariyā pasaṃsanti, tañhi chetvā na socatī’’ti.",
+   "zh": "圣者们称赞断除它，因为斩断它，便不再忧愁。”",
+   "type": "verse"
+  },
+  {
+   "idx": 14,
+   "pali": "Evaṃ vutte, bhāradvājagotto brāhmaṇo bhagavantaṃ etadavoca – ‘‘abhikkantaṃ, bho gotama, abhikkantaṃ, bho gotama! Seyyathāpi, bho gotama, nikkujjitaṃ vā ukkujjeyya, paṭicchannaṃ vā vivareyya, mūḷhassa vā maggaṃ ācikkheyya, andhakāre vā telapajjotaṃ dhāreyya – cakkhumanto rūpāni dakkhantīti; evamevaṃ bhotā gotamena anekapariyāyena dhammo pakāsito. Esāhaṃ, bhante, bhagavantaṃ gotamaṃ saraṇaṃ gacchāmi dhammañca bhikkhusaṅghañca. Labheyyāhaṃ bhoto gotamassa santike pabbajjaṃ, labheyyaṃ upasampada’’nti.",
+   "zh": "听了这话，婆罗门巴拉德瓦迦对世尊这样说：“真是殊胜啊，[[gotama|乔达摩尊]]者！真是殊胜啊，[[gotama|乔达摩尊]]者！正如有人将倒扣的扶正，将隐藏的揭开，为迷途者指明道路，在黑暗中擎起明灯，让有眼之人得以见色；同样地，[[gotama|乔达摩尊]]者以种种方便，将法清晰地阐明了。[[gotama|乔达摩尊]]者，我从今日起皈依世尊乔达摩、皈依法、皈依比丘僧团。愿我能在[[gotama|乔达摩尊]]者座下出家，受具足戒。”"
+  },
+  {
+   "idx": 15,
+   "pali": "Alattha kho bhāradvājagotto brāhmaṇo bhagavato santike pabbajjaṃ, alattha upasampadaṃ. Acirūpasampanno kho panāyasmā bhāradvājo eko vūpakaṭṭho appamatto ātāpī pahitatto viharanto nacirasseva – yassatthāya kulaputtā sammadeva agārasmā anagāriyaṃ pabbajanti tadanuttaraṃ – brahmacariyapariyosānaṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja vihāsi. ‘‘Khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyā’’ti abbhaññāsi. Aññataro ca panāyasmā bhāradvājo arahataṃ ahosīti.",
+   "zh": "巴拉德瓦迦族的婆罗门便从世尊座下获得出家，并获得具足戒。受具足戒后不久，尊者巴拉德瓦迦独住静处，不放逸、精勤、心志坚定而安住。不久，他就在现法中以自己的智证知、亲证并安住于那无上的目标——正是为了这一目标，善男子们正确地舍离居家、步入无家的生活——也就是梵行的终极圆满。他彻知：“生已尽，梵行已立，应作已作，不受后有。”如是，尊者巴拉德瓦迦成为阿拉汉中的一位。"
+  },
+  {
+   "idx": 348,
+   "pali": "2. Akkosasuttaṃ",
+   "zh": "2. [[akkosasutta|骂詈经]]"
+  },
+  {
+   "idx": 17,
+   "pali": "Ekaṃ samayaṃ bhagavā rājagahe viharati veḷuvane kalandakanivāpe. Assosi kho akkosakabhāradvājo brāhmaṇo – ‘‘bhāradvājagotto kira brāhmaṇo samaṇassa gotamassa santike agārasmā anagāriyaṃ pabbajito’’ti kupito anattamano yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ asabbhāhi pharusāhi vācāhi akkosati paribhāsati.",
+   "zh": "一时，世尊住在[[rājagaha|王舍城]]的竹林迦兰陀迦园。那位暴躁的巴拉德瓦迦婆罗门听说：“同是巴拉德瓦迦族的婆罗门，竟然在沙门[[gotama|乔达摩]]座下从在家而出家了。”得知此事后，他心生忿怒，满怀不悦，便前往世尊那里。到了以后，便用种种粗鄙、刻薄的言语辱骂、毁谤世尊。",
+   "n": "188"
+  },
+  {
+   "idx": 18,
+   "pali": "Evaṃ vutte, bhagavā akkosakabhāradvājaṃ brāhmaṇaṃ etadavoca – ‘‘taṃ kiṃ maññasi, brāhmaṇa, api nu kho te āgacchanti mittāmaccā ñātisālohitā atithiyo ’’ti? ‘‘Appekadā me, bho gotama, āgacchanti mittāmaccā ñātisālohitā atithiyo’’ti. ‘‘‘Taṃ kiṃ maññasi, brāhmaṇa, api nu tesaṃ anuppadesi khādanīyaṃ vā bhojanīyaṃ vā sāyanīyaṃ vā’’’ti? ‘‘‘Appekadā nesāhaṃ, bho gotama, anuppademi khādanīyaṃ vā bhojanīyaṃ vā sāyanīyaṃ vā’’’ti. ‘‘‘Sace kho pana te, brāhmaṇa, nappaṭiggaṇhanti , kassa taṃ hotī’’’ti? ‘‘‘Sace te, bho gotama, nappaṭiggaṇhanti, amhākameva taṃ hotī’’’ti. ‘‘Evameva kho, brāhmaṇa, yaṃ tvaṃ amhe anakkosante akkosasi, arosente rosesi, abhaṇḍante bhaṇḍasi, taṃ te mayaṃ nappaṭiggaṇhāma. Tavevetaṃ, brāhmaṇa, hoti; tavevetaṃ, brāhmaṇa, hoti’’.",
+   "zh": "听了这番话，世尊对性好骂詈的巴拉德瓦迦婆罗门说道：“婆罗门，你认为如何？你的朋友、同僚、亲戚、血亲以及客人，是否会来拜访你？”“[[gotama|乔达摩尊]]者，有时我的朋友、同僚、亲戚、血亲及客人的确会来拜访。”“婆罗门，你认为如何？你可曾为他们备办嚼食、饭食或点心呢？”“[[gotama|乔达摩尊]]者，有时我确实会为他们备办嚼食、饭食或点心。”“然而，婆罗门，倘若他们不接受，那么这些东西归属于谁？”“[[gotama|乔达摩尊]]者，他们若不接受，这些东西自然仍归我们所有。”“同样的道理，婆罗门，你对从不辱骂的人辱骂，对从不发怒的人发怒，对从不与之争竞的人争竞——这些我们一概不接受。那么，婆罗门，它便还是属于你的东西；婆罗门，它还是属于你的。”"
+  },
+  {
+   "idx": 19,
+   "pali": "‘‘Yo kho, brāhmaṇa, akkosantaṃ paccakkosati, rosentaṃ paṭiroseti, bhaṇḍantaṃ paṭibhaṇḍati, ayaṃ vuccati, brāhmaṇa, sambhuñjati vītiharatīti. Te mayaṃ tayā neva sambhuñjāma na vītiharāma. Tavevetaṃ, brāhmaṇa, hoti; tavevetaṃ, brāhmaṇa, hotī’’ti. ‘‘Bhavantaṃ kho gotamaṃ sarājikā parisā evaṃ jānāti – ‘arahaṃ samaṇo gotamo’ti. Atha ca pana bhavaṃ gotamo kujjhatī’’ti.",
+   "zh": "“婆罗门，若有人被辱骂便反骂，被恼怒便反怒，被诤论便反诤——婆罗门，这便叫作‘他一同享用、有所反应’。而我们既不与你一同享用，也不作反应。因此，婆罗门，它依然归你所有；婆罗门，它依然归你所有。”“[[gotama|乔达摩尊]]者，国王连同他身边的大众都知道：‘[[gotama|沙门乔达摩]]是阿拉汉。’可是，[[gotama|乔达摩尊]]者竟然还会生气。”"
+  },
+  {
+   "idx": 20,
+   "pali": "‘‘Akkodhassa kuto kodho, dantassa samajīvino;",
+   "zh": "“无嗔者、已调伏而如法生活者，嗔怒从何而来？",
+   "type": "verse"
+  },
+  {
+   "idx": 21,
+   "pali": "Sammadaññā vimuttassa, upasantassa tādino.",
+   "zh": "依正智解脱、寂静、如如不动者。",
+   "type": "verse"
+  },
+  {
+   "idx": 22,
+   "pali": "‘‘Tasseva tena pāpiyo, yo kuddhaṃ paṭikujjhati;",
+   "zh": "“对愤怒者还以愤怒，只会让自己更糟。",
+   "type": "verse"
+  },
+  {
+   "idx": 23,
+   "pali": "Kuddhaṃ appaṭikujjhanto, saṅgāmaṃ jeti dujjayaṃ.",
+   "zh": "面对愤怒者而不起嗔心的人，赢得了那难以战胜的战斗。",
+   "type": "verse"
+  },
+  {
+   "idx": 24,
+   "pali": "‘‘Ubhinnamatthaṃ carati, attano ca parassa ca;",
+   "zh": "“他践行自他双方的利益。",
+   "type": "verse"
+  },
+  {
+   "idx": 25,
+   "pali": "Paraṃ saṅkupitaṃ ñatvā, yo sato upasammati.",
+   "zh": "他明知他人正在愤怒，却能保持正念，心得平静。",
+   "type": "verse"
+  },
+  {
+   "idx": 26,
+   "pali": "‘‘Ubhinnaṃ tikicchantānaṃ, attano ca parassa ca;",
+   "zh": "“正在治疗自他双方的人，",
+   "type": "verse"
+  },
+  {
+   "idx": 39,
+   "pali": "Janā maññanti bāloti, ye dhammassa akovidā’’ti.",
+   "zh": "不善解法的世人，却把他看作愚人。”",
+   "type": "verse"
+  },
+  {
+   "idx": 28,
+   "pali": "Evaṃ vutte, akkosakabhāradvājo brāhmaṇo bhagavantaṃ etadavoca – ‘‘abhikkantaṃ, bho gotama…pe… esāhaṃ bhavantaṃ gotamaṃ saraṇaṃ gacchāmi dhammañca bhikkhusaṅghañca. Labheyyāhaṃ, bhante, bhoto gotamassa santike pabbajjaṃ, labheyyaṃ upasampada’’nti.",
+   "zh": "如是说已，骂者巴拉德瓦迦婆罗门对世尊说：“妙哉，[[gotama|乔达摩尊]]者！……我皈依[[gotama|乔达摩尊]]者、法和比丘僧团。尊者，愿我能在[[gotama|乔达摩尊]]者的座下出家，受具足戒。"
+  },
+  {
+   "idx": 29,
+   "pali": "Alattha kho akkosakabhāradvājo brāhmaṇo bhagavato santike pabbajjaṃ, alattha upasampadaṃ. Acirūpasampanno kho panāyasmā akkosakabhāradvājo eko vūpakaṭṭho appamatto ātāpī pahitatto viharanto nacirasseva – yassatthāya kulaputtā sammadeva agārasmā anagāriyaṃ pabbajanti tadanuttaraṃ – brahmacariyapariyosānaṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja vihāsi. ‘‘Khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ nāparaṃ itthattāyā’’ti abbhaññāsi. Aññataro ca panāyasmā bhāradvājo arahataṃ ahosīti.",
+   "zh": "骂者巴拉德瓦迦婆罗门在世尊座下出家，受持具足戒。受具足戒后不久，尊者骂者巴拉德瓦迦独自远离、不放逸、精勤热忱、心意坚定而住，不久便以智慧亲自证悟了那无上的梵行究竟——善男子们为它而正确地舍家出家——并于现法中安住于圆满。他了知：“生已尽，梵行已立，应作已作，不受后有。”尊者巴拉德瓦迦成为了一位阿拉汉。"
+  },
+  {
+   "idx": 349,
+   "pali": "3. Asurindakasuttaṃ",
+   "zh": "3. [[asurindakasutta|阿苏林德咖经]]"
+  },
+  {
+   "idx": 31,
+   "pali": "Ekaṃ samayaṃ bhagavā rājagahe viharati veḷuvane kalandakanivāpe. Assosi kho asurindakabhāradvājo brāhmaṇo – ‘‘bhāradvājagotto brāhmaṇo kira samaṇassa gotamassa santike agārasmā anagāriyaṃ pabbajito’’ti kupito anattamano yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ asabbhāhi pharusāhi vācāhi akkosati paribhāsati. Evaṃ vutte, bhagavā tuṇhī ahosi. Atha kho asurindakabhāradvājo brāhmaṇo bhagavantaṃ etadavoca – ‘‘jitosi, samaṇa, jitosi, samaṇā’’ti.",
+   "zh": "一时，世尊住在[[rājagaha|王舍城]]竹林迦兰陀园。阿苏琳达卡巴拉德瓦迦婆罗门听说：“一位巴拉德瓦迦族的婆罗门，已在沙门[[gotama|乔达摩]]座下舍家出家。”他愤怒不悦，便前往世尊那里。到了之后，用粗野、恶毒的言语辱骂、诽谤世尊。他说了这些，世尊默然不语。于是，阿苏琳达卡巴拉德瓦迦婆罗门对世尊说：“你输了，沙门！你输了，沙门！”",
+   "n": "189"
+  },
+  {
+   "idx": 32,
+   "pali": "‘‘Jayaṃ ve maññati bālo, vācāya pharusaṃ bhaṇaṃ;",
+   "zh": "“愚者口出粗暴之语时，便自以为胜；",
+   "type": "verse"
+  },
+  {
+   "idx": 33,
+   "pali": "Jayañcevassa taṃ hoti, yā titikkhā vijānato.",
+   "zh": "然而，对于智者，安忍才是真正的胜利。",
+   "type": "verse"
+  },
+  {
+   "idx": 34,
+   "pali": "‘‘Tasseva tena pāpiyo, yo kuddhaṃ paṭikujjhati;",
+   "zh": "“若对愤怒者回以愤怒，反令自己更为不堪；",
+   "type": "verse"
+  },
+  {
+   "idx": 35,
+   "pali": "Kuddhaṃ appaṭikujjhanto, saṅgāmaṃ jeti dujjayaṃ.",
+   "zh": "面对愤怒之人而不以愤怒回应，他便赢得了这场难以取胜的战斗。",
+   "type": "verse"
+  },
+  {
+   "idx": 36,
+   "pali": "‘‘Ubhinnamatthaṃ carati, attano ca parassa ca;",
+   "zh": "“他行于双方的利益——既为自身，也为他人的利益；",
+   "type": "verse"
+  },
+  {
+   "idx": 37,
+   "pali": "Paraṃ saṅkupitaṃ ñatvā, yo sato upasammati.",
+   "zh": "了知对方已被激怒，他保持正念，平息下来。",
+   "type": "verse"
+  },
+  {
+   "idx": 38,
+   "pali": "‘‘Ubhinnaṃ tikicchantānaṃ, attano ca parassa ca;",
+   "zh": "“正在治疗自他双方的人，",
+   "type": "verse"
+  },
+  {
+   "idx": 27,
+   "pali": "Janā maññanti bāloti, ye dhammassa akovidā’’ti.",
+   "zh": "不通达法之人，却视其为愚者。”",
+   "type": "verse"
+  },
+  {
+   "idx": 40,
+   "pali": "Evaṃ vutte, asurindakabhāradvājo brāhmaṇo bhagavantaṃ etadavoca – ‘‘abhikkantaṃ, bho gotama…pe… abbhaññāsi. Aññataro ca panāyasmā bhāradvājo arahataṃ ahosī’’ti.",
+   "zh": "如此说时，阿苏林达迦·巴拉德瓦迦婆罗门对世尊这样说：“殊胜啊，[[gotama|乔达摩]]尊者！……我已了悟。而尊者巴拉德瓦迦已成为阿拉汉之一。”"
+  },
+  {
+   "idx": 350,
+   "pali": "4. Bilaṅgikasuttaṃ",
+   "zh": "4. [[bilaṅgikasutta|比朗吉咖经]]"
+  },
+  {
+   "idx": 42,
+   "pali": "Ekaṃ samayaṃ bhagavā rājagahe viharati veḷuvane kalandakanivāpe. Assosi kho bilaṅgikabhāradvājo brāhmaṇo – ‘‘bhāradvājagotto kira brāhmaṇo samaṇassa gotamassa santike agārasmā anagāriyaṃ pabbajito’’ti kupito anattamano yena bhagavā tenupasaṅkami; upasaṅkamitvā tuṇhībhūto ekamantaṃ aṭṭhāsi. Atha kho bhagavā bilaṅgikassa bhāradvājassa brāhmaṇassa cetasā cetoparivitakkamaññāya bilaṅgikaṃ bhāradvājaṃ brāhmaṇaṃ gāthāya ajjhabhāsi –",
+   "zh": "一时，世尊住在[[rājagaha|王舍城]]的竹林松鼠园。那时，比蓝耆迦·巴拉德瓦迦婆罗门听闻：“巴拉德瓦迦族姓的婆罗门，竟在沙门[[gotama|乔达摩]]跟前从在家出家了。”他愤怒、不悦，便往诣世尊。到了以后，默然立于一旁。当时，世尊以自心了知比蓝耆迦·巴拉德瓦迦婆罗门心中的念想，便以偈颂对他说：",
+   "n": "190"
+  },
+  {
+   "idx": 43,
+   "pali": "‘‘Yo appaduṭṭhassa narassa dussati,",
+   "zh": "“若对那无过失的人施以恶行，",
+   "type": "verse"
+  },
+  {
+   "idx": 44,
+   "pali": "Suddhassa posassa anaṅgaṇassa;",
+   "zh": "对那清净无垢者，",
+   "type": "verse"
+  },
+  {
+   "idx": 45,
+   "pali": "Tameva bālaṃ pacceti pāpaṃ,",
+   "zh": "那恶行便返归愚者自身，",
+   "type": "verse"
+  },
+  {
+   "idx": 46,
+   "pali": "Sukhumo rajo paṭivātaṃva khitto’’ti.",
+   "zh": "犹如被逆风抛掷的细尘。”",
+   "type": "verse"
+  },
+  {
+   "idx": 47,
+   "pali": "Evaṃ vutte, vilaṅgikabhāradvājo brāhmaṇo bhagavantaṃ etadavoca – ‘‘abhikkantaṃ, bho gotama…pe… abbhaññāsi. Aññataro ca panāyasmā bhāradvājo arahataṃ ahosī’’ti.",
+   "zh": "如此说时，维兰吉卡·巴拉德瓦迦婆罗门对世尊说：“真是殊胜啊，[[gotama|乔达摩]]尊者！……他了知了。”而这位巴拉德瓦迦尊者成为了一位阿拉汉。"
+  },
+  {
+   "idx": 351,
+   "pali": "5. Ahiṃsakasuttaṃ",
+   "zh": "5. [[ahiṃsakasutta|不害者经]]"
+  },
+  {
+   "idx": 49,
+   "pali": "Sāvatthinidānaṃ. Atha kho ahiṃsakabhāradvājo brāhmaṇo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṃ sammodi. Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho ahiṃsakabhāradvājo brāhmaṇo bhagavantaṃ etadavoca – ‘‘ahiṃsakāhaṃ, bho gotama, ahiṃsakāhaṃ, bho gotamā’’ti.",
+   "zh": "[[sāvatthī|舍卫城]]因缘。那时，不害·巴拉德瓦迦婆罗门来到世尊面前。到后，与世尊互致问候。彼此寒暄完毕，便退坐一面。坐定后，不害·巴拉德瓦迦婆罗门对世尊说：“[[gotama|乔达摩尊]]者，我名不害；[[gotama|乔达摩尊]]者，我名不害。”",
+   "n": "191"
+  },
+  {
+   "idx": 50,
+   "pali": "‘‘Yathā nāmaṃ tathā cassa, siyā kho tvaṃ ahiṃsako;",
+   "zh": "“若你果真循名责实，便可称得上一位‘无害’；",
+   "type": "verse"
+  },
+  {
+   "idx": 51,
+   "pali": "Yo ca kāyena vācāya, manasā ca na hiṃsati;",
+   "zh": "然而，真正无害的人，是在身行、口说、心意上皆不作害的人，",
+   "type": "verse"
+  },
+  {
+   "idx": 52,
+   "pali": "Sa ve ahiṃsako hoti, yo paraṃ na vihiṃsatī’’ti.",
+   "zh": "不害他众生者，方才名为真无害。”",
+   "type": "verse"
+  },
+  {
+   "idx": 53,
+   "pali": "Evaṃ vutte, ahiṃsakabhāradvājo brāhmaṇo bhagavantaṃ etadavoca – ‘‘abhikkantaṃ, bho gotama…pe… abbhaññāsi. Aññataro ca panāyasmā ahiṃsakabhāradvājo arahataṃ ahosī’’ti.",
+   "zh": "听了这话后，不害巴拉德瓦迦婆罗门对世尊说：“真是殊胜啊，[[gotama|乔达摩]]尊者！……他已然证知。”而尊者不害巴拉德瓦迦也成为了一位阿拉汉。"
+  },
+  {
+   "idx": 352,
+   "pali": "6. Jaṭāsuttaṃ",
+   "zh": "6. [[jaṭāsutta|结发经]]"
+  },
+  {
+   "idx": 55,
+   "pali": "Sāvatthinidānaṃ . Atha kho jaṭābhāradvājo brāhmaṇo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṃ sammodi. Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho jaṭābhāradvājo brāhmaṇo bhagavantaṃ gāthāya ajjhabhāsi –",
+   "zh": "[[sāvatthī|舍卫城]]因缘。那时，结发巴拉德瓦迦婆罗门来到世尊处，到后与世尊互相问候。互致问候与应酬语后，他坐在一旁。坐在一旁的结发巴拉德瓦迦婆罗门以偈颂对世尊说：",
+   "n": "192"
+  },
+  {
+   "idx": 56,
+   "pali": "‘‘Antojaṭā bahijaṭā, jaṭāya jaṭitā pajā;",
+   "zh": "“内有缠结，外有缠结，众生皆被缠结所缠缚；",
+   "type": "verse"
+  },
+  {
+   "idx": 57,
+   "pali": "Taṃ taṃ gotama pucchāmi, ko imaṃ vijaṭaye jaṭa’’nti.",
+   "zh": "[[gotama|乔达摩]]，我这样问你：谁能解开这团缠结？”",
+   "type": "verse"
+  },
+  {
+   "idx": 58,
+   "pali": "‘‘Sīle patiṭṭhāya naro sapañño, cittaṃ paññañca bhāvayaṃ;",
+   "zh": "“智者立足于戒，修习心与慧；",
+   "type": "verse"
+  },
+  {
+   "idx": 59,
+   "pali": "Ātāpī nipako bhikkhu, so imaṃ vijaṭaye jaṭaṃ.",
+   "zh": "热诚又明智的比丘，他能解开这个结缚。",
+   "type": "verse"
+  },
+  {
+   "idx": 60,
+   "pali": "‘‘Yesaṃ rāgo ca doso ca, avijjā ca virājitā;",
+   "zh": "“那些贪、嗔、无明已消褪的人，",
+   "type": "verse"
+  },
+  {
+   "idx": 61,
+   "pali": "Khīṇāsavā arahanto, tesaṃ vijaṭitā jaṭā.",
+   "zh": "诸漏已尽的阿拉汉，他们的缠结已经解开。",
+   "type": "verse"
+  },
+  {
+   "idx": 62,
+   "pali": "‘‘Yattha nāmañca rūpañca, asesaṃ uparujjhati;",
+   "zh": "“在那里，名与色灭尽无余；",
+   "type": "verse"
+  },
+  {
+   "idx": 63,
+   "pali": "Paṭighaṃ rūpasaññā ca, etthesā chijjate jaṭā’’ti.",
+   "zh": "有对与色想——就在那里，这缠结被切断。”",
+   "type": "verse"
+  },
+  {
+   "idx": 64,
+   "pali": "Evaṃ vutte, jaṭābhāradvājo bhagavantaṃ etadavoca – ‘‘abhikkantaṃ, bho gotama…pe… aññataro ca panāyasmā bhāradvājo arahataṃ ahosī’’ti.",
+   "zh": "如此说已，结发·巴拉德瓦迦对世尊说：“真是殊胜啊，[[gotama|乔达摩]]尊者！……（中略）……而这位巴拉德瓦迦尊者成为了一位阿拉汉。”"
+  },
+  {
+   "idx": 353,
+   "pali": "7. Suddhikasuttaṃ",
+   "zh": "7. [[suddhikasutta|纯净经]]"
+  },
+  {
+   "idx": 66,
+   "pali": "Sāvatthinidānaṃ . Atha kho suddhikabhāradvājo brāhmaṇo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṃ sammodi. Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho suddhikabhāradvājo brāhmaṇo bhagavato santike imaṃ gāthaṃ ajjhabhāsi –",
+   "zh": "[[sāvatthī|舍卫城]]。那时，清净·巴拉德瓦迦婆罗门来至世尊前，与世尊互相问候，谈过令人欢喜、值得忆念的话后，便退坐一面。退坐一面后，清净·巴拉德瓦迦婆罗门在世尊面前说此偈：",
+   "n": "193"
+  },
+  {
+   "idx": 67,
+   "pali": "‘‘Na brāhmaṇo sujjhati koci, loke sīlavāpi tapokaraṃ;",
+   "zh": "“在这个世间，没有任何婆罗门能仅凭持戒与苦行而得清净；",
+   "type": "verse"
+  },
+  {
+   "idx": 68,
+   "pali": "Vijjācaraṇasampanno, so sujjhati na aññā itarā pajā’’ti.",
+   "zh": "唯有具足明与行的人能得清净，其余的众生则不能。”",
+   "type": "verse"
+  },
+  {
+   "idx": 69,
+   "pali": "‘‘Bahumpi palapaṃ jappaṃ, na jaccā hoti brāhmaṇo;",
+   "zh": "“纵然念诵许多无益的闲谈，一个人也不会因出身而成为婆罗门；",
+   "type": "verse"
+  },
+  {
+   "idx": 70,
+   "pali": "Antokasambu saṅkiliṭṭho, kuhanaṃ upanissito.",
+   "zh": "内心垢秽不净，凭靠谄诈维生。",
+   "type": "verse"
+  },
+  {
+   "idx": 71,
+   "pali": "‘‘Khattiyo brāhmaṇo vesso, suddo caṇḍālapukkuso;",
+   "zh": "“无论是刹帝利、婆罗门、吠舍、首陀罗，还是旃陀罗与清道夫，",
+   "type": "verse"
+  },
+  {
+   "idx": 72,
+   "pali": "Āraddhavīriyo pahitatto, niccaṃ daḷhaparakkamo;",
+   "zh": "只要他精进勤勉、意志坚定，恒常勇猛精勤，",
+   "type": "verse"
+  },
+  {
+   "idx": 73,
+   "pali": "Pappoti paramaṃ suddhiṃ, evaṃ jānāhi brāhmaṇā’’ti.",
+   "zh": "（这样的人）便达至最上的清净。婆罗门，你应当这样了知！”",
+   "type": "verse"
+  },
+  {
+   "idx": 74,
+   "pali": "Evaṃ vutte, suddhikabhāradvājo brāhmaṇo bhagavantaṃ etadavoca – ‘‘abhikkantaṃ, bho gotama…pe… aññataro ca panāyasmā bhāradvājo arahataṃ ahosī’’ti.",
+   "zh": "听了这话，清净·巴拉德瓦迦婆罗门对世尊说：“真是殊胜啊，[[gotama|乔达摩]]尊者！……（中略）……而尊者巴拉德瓦迦则成为了阿拉汉。”"
+  },
+  {
+   "idx": 354,
+   "pali": "8. Aggikasuttaṃ",
+   "zh": "8. [[aggikasutta|火祀经]]"
+  },
+  {
+   "idx": 76,
+   "pali": "Ekaṃ samayaṃ bhagavā rājagahe viharati veḷuvane kalandakanivāpe. Tena kho pana samayena aggikabhāradvājassa brāhmaṇassa sappinā pāyaso sannihito hoti – ‘‘aggiṃ juhissāmi, aggihuttaṃ paricarissāmī’’ti.",
+   "zh": "一时，世尊住在[[rājagaha|王舍城]]的竹林精舍，松鼠栖息觅食之处。那时，拜火婆罗门阿耆哥·巴拉德瓦迦已备好了酥油乳粥，他心想：“我要供奉圣火，举行火供仪式。”",
+   "n": "194"
+  },
+  {
+   "idx": 77,
+   "pali": "Atha kho bhagavā pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya rājagahaṃ piṇḍāya pāvisi. Rājagahe sapadānaṃ piṇḍāya caramāno yena aggikabhāradvājassa brāhmaṇassa nivesanaṃ tenupasaṅkami ; upasaṅkamitvā ekamantaṃ aṭṭhāsi. Addasā kho aggikabhāradvājo brāhmaṇo bhagavantaṃ piṇḍāya ṭhitaṃ. Disvāna bhagavantaṃ gāthāya ajjhabhāsi –",
+   "zh": "那时，世尊于午前时分，着下衣，持钵与袈裟，入[[rājagaha|王舍城]]乞食。他在[[rājagaha|王舍城]]次第乞食，来到拜火婆罗门阿耆哥·巴拉德瓦迦的住处后，立于一旁。拜火婆罗门阿耆哥·巴拉德瓦迦看见世尊站立乞食，便以偈颂对世尊说："
+  },
+  {
+   "idx": 78,
+   "pali": "‘‘Tīhi vijjāhi sampanno, jātimā sutavā bahū;",
+   "zh": "“具足三明，出身高贵，且博学多闻者；",
+   "type": "verse"
+  },
+  {
+   "idx": 85,
+   "pali": "Vijjācaraṇasampanno, somaṃ bhuñjeyya pāyasa’’nti.",
+   "zh": "明行具足者，方可受用此乳粥。”",
+   "type": "verse"
+  },
+  {
+   "idx": 80,
+   "pali": "‘‘Bahumpi palapaṃ jappaṃ, na jaccā hoti brāhmaṇo;",
+   "zh": "“即使低声念诵再多无益的闲谈，也不因出身而成为婆罗门；",
+   "type": "verse"
+  },
+  {
+   "idx": 81,
+   "pali": "Antokasambu saṃkiliṭṭho, kuhanāparivārito.",
+   "zh": "内心污秽不净，被谄诈所围绕。",
+   "type": "verse"
+  },
+  {
+   "idx": 82,
+   "pali": "‘‘Pubbenivāsaṃ yo vedī, saggāpāyañca passati;",
+   "zh": "“了知过去世住处，照见天界与恶趣；",
+   "type": "verse"
+  },
+  {
+   "idx": 83,
+   "pali": "Atho jātikkhayaṃ patto, abhiññāvosito muni.",
+   "zh": "亦证得生的灭尽，是具足证智的牟尼。",
+   "type": "verse"
+  },
+  {
+   "idx": 84,
+   "pali": "‘‘Etāhi tīhi vijjāhi, tevijjo hoti brāhmaṇo;",
+   "zh": "“依此三明，便成三明婆罗门。",
+   "type": "verse"
+  },
+  {
+   "idx": 79,
+   "pali": "Vijjācaraṇasampanno, somaṃ bhuñjeyya pāyasa’’nti.",
+   "zh": "明行具足者，方可受用此乳粥。”",
+   "type": "verse"
+  },
+  {
+   "idx": 86,
+   "pali": "‘‘Bhuñjatu bhavaṃ gotamo. Brāhmaṇo bhava’’nti.",
+   "zh": "“请[[gotama|乔达摩]]尊者受食！您就是婆罗门。"
+  },
+  {
+   "idx": 112,
+   "pali": "‘‘Gāthābhigītaṃ me abhojaneyyaṃ,",
+   "zh": "“经由诵偈祝祷的食，非我所应食。",
+   "type": "verse"
+  },
+  {
+   "idx": 113,
+   "pali": "Sampassataṃ brāhmaṇa nesa dhammo;",
+   "zh": "婆罗门，这并非具见者的法则。",
+   "type": "verse"
+  },
+  {
+   "idx": 114,
+   "pali": "Gāthābhigītaṃ panudanti buddhā,",
+   "zh": "诸佛摒弃由偈颂所得的食物。",
+   "type": "verse"
+  },
+  {
+   "idx": 199,
+   "pali": "Dhamme sati brāhmaṇa vuttiresā.",
+   "zh": "婆罗门，只要法在，这便是所说的生活方式。",
+   "type": "verse"
+  },
+  {
+   "idx": 200,
+   "pali": "‘‘Aññena ca kevalinaṃ mahesiṃ,",
+   "zh": "“以其他饮食，侍奉那圆满的大圣者，",
+   "type": "verse"
+  },
+  {
+   "idx": 201,
+   "pali": "Khīṇāsavaṃ kukkuccavūpasantaṃ;",
+   "zh": "那漏尽者，恶作已止息；",
+   "type": "verse"
+  },
+  {
+   "idx": 93,
+   "pali": "Annena pānena upaṭṭhahassu,",
+   "zh": "你当以食与饮，殷重供养。",
+   "type": "verse"
+  },
+  {
+   "idx": 94,
+   "pali": "Khettañhi taṃ puññapekkhassa hotī’’ti.",
+   "zh": "因为那正是求功德者的福田。”",
+   "type": "verse"
+  },
+  {
+   "idx": 95,
+   "pali": "Evaṃ vutte, aggikabhāradvājo brāhmaṇo bhagavantaṃ etadavoca – ‘‘abhikkantaṃ, bho gotama…pe… aññataro ca panāyasmā aggikabhāradvājo arahataṃ ahosī’’ti.",
+   "zh": "听了这番话，常拜火巴拉德瓦迦婆罗门对世尊说：“真是殊胜啊，[[gotama|乔达摩]]尊者！……（中略）……而尊者常拜火巴拉德瓦迦便成为了一位阿拉汉。”"
+  },
+  {
+   "idx": 355,
+   "pali": "9. Sundarikasuttaṃ",
+   "zh": "9. [[sundarikasutta|孙德利咖经]]"
+  },
+  {
+   "idx": 97,
+   "pali": "Ekaṃ samayaṃ bhagavā kosalesu viharati sundarikāya nadiyā tīre. Tena kho pana samayena sundarikabhāradvājo brāhmaṇo sundarikāya nadiyā tīre aggiṃ juhati, aggihuttaṃ paricarati. Atha kho sundarikabhāradvājo brāhmaṇo aggiṃ juhitvā aggihuttaṃ paricaritvā uṭṭhāyāsanā samantā catuddisā anuvilokesi – ‘‘ko nu kho imaṃ habyasesaṃ bhuñjeyyā’’ti? Addasā kho sundarikabhāradvājo brāhmaṇo bhagavantaṃ aññatarasmiṃ rukkhamūle sasīsaṃ pārutaṃ nisinnaṃ. Disvāna vāmena hatthena habyasesaṃ gahetvā dakkhiṇena hatthena kamaṇḍaluṃ gahetvā yena bhagavā tenupasaṅkami. Atha kho bhagavā sundarikabhāradvājassa brāhmaṇassa padasaddena sīsaṃ vivari. Atha kho sundarikabhāradvājo brāhmaṇo ‘muṇḍo ayaṃ bhavaṃ, muṇḍako ayaṃ bhava’nti tatova puna nivattitukāmo ahosi. Atha kho sundarikabhāradvājassa brāhmaṇassa etadahosi – ‘muṇḍāpi hi idhekacce brāhmaṇā bhavanti; yaṃnūnāhaṃ taṃ upasaṅkamitvā jātiṃ puccheyya’nti.",
+   "zh": "一时，世尊住在[[kosala|憍萨罗]]的孙德利咖河岸边。那时，孙德利咖·巴拉德瓦迦婆罗门正在孙德利咖河岸边供奉圣火、举行火祭。供养火、举行火祭毕，他从座位起身，向四方环视，想道：“谁能享用这些剩余的祭物呢？”此时，孙德利咖·巴拉德瓦迦婆罗门看见世尊坐在一棵树下，衣覆头而安坐。见到之后，他便左手捧着剩余的祭物，右手提着水瓶，朝世尊走去。世尊听到孙德利咖·巴拉德瓦迦婆罗门的脚步声，便露出头来。这时，孙德利咖·巴拉德瓦迦婆罗门心想：“这位是剃发的，是个剃了发的人”，便想从那里折返。随后，他又这样想：“这里也有一些剃发的婆罗门，何不前去问问他的出身呢？”",
+   "n": "195"
+  },
+  {
+   "idx": 98,
+   "pali": "Atha kho sundarikabhāradvājo brāhmaṇo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ etadavoca – ‘kiṃjacco bhava’nti?",
+   "zh": "于是，孙德利咖·巴拉德瓦迦婆罗门走到世尊跟前，对世尊说：“尊者，您出身何族？”"
+  },
+  {
+   "idx": 356,
+   "pali": "‘‘Mā jātiṃ puccha caraṇañca puccha,",
+   "zh": "“莫问出身，当问其行；",
+   "type": "verse"
+  },
+  {
+   "idx": 100,
+   "pali": "Kaṭṭhā have jāyati jātavedo;",
+   "zh": "木柴之中，的确能生火焰；",
+   "type": "verse"
+  },
+  {
+   "idx": 101,
+   "pali": "Nīcākulīnopi muni dhitimā,",
+   "zh": "纵使牟尼出身低微，却坚毅稳固；",
+   "type": "verse"
+  },
+  {
+   "idx": 102,
+   "pali": "Ājānīyo hoti hirīnisedho.",
+   "zh": "堪为良驹，以惭耻自律。",
+   "type": "verse"
+  },
+  {
+   "idx": 103,
+   "pali": "‘‘Saccena danto damasā upeto,",
+   "zh": "“以真理调伏，以调御圆满，",
+   "type": "verse"
+  },
+  {
+   "idx": 104,
+   "pali": "Vedantagū vusitabrahmacariyo;",
+   "zh": "通达吠陀之究竟，梵行已立，",
+   "type": "verse"
+  },
+  {
+   "idx": 105,
+   "pali": "Yaññopanīto tamupavhayetha,",
+   "zh": "应邀请那位被引至祭祀的人。",
+   "type": "verse"
+  },
+  {
+   "idx": 106,
+   "pali": "Kālena so juhati dakkhiṇeyye’’ti.",
+   "zh": "他于适当之时，供养应受供养者。”",
+   "type": "verse"
+  },
+  {
+   "idx": 107,
+   "pali": "‘‘Addhā suyiṭṭhaṃ suhutaṃ mama yidaṃ,",
+   "zh": "“确实，我这次的祭祀，是善祭祀、善供养。",
+   "type": "verse"
+  },
+  {
+   "idx": 108,
+   "pali": "Yaṃ tādisaṃ vedagumaddasāmi;",
+   "zh": "因为我见到了这样的吠陀通达者。",
+   "type": "verse"
+  },
+  {
+   "idx": 109,
+   "pali": "Tumhādisānañhi adassanena,",
+   "zh": "因为未曾遇见像您这样的人，",
+   "type": "verse"
+  },
+  {
+   "idx": 110,
+   "pali": "Añño jano bhuñjati habyasesa’’nti.",
+   "zh": "其他的人便享用了那些祭品的残余。”",
+   "type": "verse"
+  },
+  {
+   "idx": 111,
+   "pali": "‘‘Bhuñjatu bhavaṃ gotamo. Brāhmaṇo bhava’’nti.",
+   "zh": "“请[[gotama|乔达摩]]尊者享用吧，您是位婆罗门。"
+  },
+  {
+   "idx": 196,
+   "pali": "‘‘Gāthābhigītaṃ me abhojaneyyaṃ,",
+   "zh": "“以偈颂得来的食物，我不应受用；",
+   "type": "verse"
+  },
+  {
+   "idx": 197,
+   "pali": "Sampassataṃ brāhmaṇa nesa dhammo;",
+   "zh": "婆罗门，这并非具见者的法则。",
+   "type": "verse"
+  },
+  {
+   "idx": 198,
+   "pali": "Gāthābhigītaṃ panudanti buddhā,",
+   "zh": "诸佛摒弃由偈颂所得的食物。",
+   "type": "verse"
+  },
+  {
+   "idx": 115,
+   "pali": "Dhamme sati brāhmaṇa vuttiresā.",
+   "zh": "婆罗门，只要法在，这便是所说的生活方式。",
+   "type": "verse"
+  },
+  {
+   "idx": 116,
+   "pali": "‘‘Aññena ca kevalinaṃ mahesiṃ,",
+   "zh": "“当以余食供养那圆满大圣，",
+   "type": "verse"
+  },
+  {
+   "idx": 117,
+   "pali": "Khīṇāsavaṃ kukkuccavūpasantaṃ;",
+   "zh": "那漏尽者，恶作已止息；",
+   "type": "verse"
+  },
+  {
+   "idx": 202,
+   "pali": "Annena pānena upaṭṭhahassu,",
+   "zh": "当以饮食供养他。",
+   "type": "verse"
+  },
+  {
+   "idx": 203,
+   "pali": "Khettañhi taṃ puññapekkhassa hotī’’ti.",
+   "zh": "因为那正是求功德者的福田。”",
+   "type": "verse"
+  },
+  {
+   "idx": 120,
+   "pali": "‘‘Atha kassa cāhaṃ, bho gotama, imaṃ habyasesaṃ dammī’’ti? ‘‘Na khvāhaṃ, brāhmaṇa, passāmi sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya yasseso habyaseso bhutto sammā pariṇāmaṃ gaccheyya aññatra, brāhmaṇa, tathāgatassa vā tathāgatasāvakassa vā. Tena hi tvaṃ, brāhmaṇa, taṃ habyasesaṃ appaharite vā chaḍḍehi appāṇake vā udake opilāpehī’’ti.",
+   "zh": "“于是，孙德利咖·巴拉德瓦迦婆罗门说：‘[[gotama|乔达摩]]尊者，那么我应将这些祭品的残余施给谁呢？’“婆罗门，在含有天神、魔罗与梵天的世间，在所有沙门、婆罗门与天、人等众生之中，除了如来或如来的弟子，我看不到任何人能够受用这份祭余并令它善为消化。所以，婆罗门，你将这份祭余弃于无草之地，或投入没有生灵的水中吧。””"
+  },
+  {
+   "idx": 121,
+   "pali": "Atha kho sundarikabhāradvājo brāhmaṇo taṃ habyasesaṃ appāṇake udake opilāpesi. Atha kho so habyaseso udake pakkhitto cicciṭāyati ciṭiciṭāyati sandhūpāyati sampadhūpāyati . Seyyathāpi nāma phālo divasaṃsantatto udake pakkhitto cicciṭāyati ciṭiciṭāyati sandhūpāyati sampadhūpāyati; evameva so habyaseso udake pakkhitto cicciṭāyati ciṭiciṭāyati sandhūpāyati sampadhūpāyati.",
+   "zh": "于是，孙德利咖·巴拉德瓦迦婆罗门将剩余的祭品投入无昆虫的水中。那祭品残余一落入水中，便嘶嘶作响、咝咝发声，烟气蒸腾、浓烟滚滚。犹如一块被烈日烘烤一整天的犁刃，投进水中便嘶嘶作响、咝咝发声，烟气蒸腾、浓烟滚滚；那祭品残余投入水中时，也是如此嘶嘶作响、咝咝发声，烟气蒸腾、浓烟滚滚。"
+  },
+  {
+   "idx": 122,
+   "pali": "Atha kho sundarikabhāradvājo brāhmaṇo saṃviggo lomahaṭṭhajāto yena bhagavā tenupasaṅkami; upasaṅkamitvā ekamantaṃ aṭṭhāsi. Ekamantaṃ ṭhitaṃ kho sundarikabhāradvājaṃ brāhmaṇaṃ bhagavā gāthāhi ajjhabhāsi –",
+   "zh": "那时，孙德利咖·巴拉德瓦迦婆罗门心中惊惶，身毛竖立，便来到世尊处，站在一旁。世尊以偈颂对站在一旁的孙德利咖·巴拉德瓦迦婆罗门说："
+  },
+  {
+   "idx": 123,
+   "pali": "‘‘Mā brāhmaṇa dāru samādahāno,",
+   "zh": "“婆罗门，不要以为堆柴点火便是清净，那只是外在的。善巧之人说，向外界寻求清净，绝非清净之道。婆罗门，我舍弃了点燃外在的薪柴，如今只燃内在的火焰。恒久炽燃、……",
+   "type": "verse"
+  },
+  {
+   "idx": 124,
+   "pali": "Suddhiṃ amaññi bahiddhā hi etaṃ;",
+   "zh": "你以为这便是清净，然而这只是外在的。",
+   "type": "verse"
+  },
+  {
+   "idx": 125,
+   "pali": "Na hi tena suddhiṃ kusalā vadanti,",
+   "zh": "善巧者不说以此能得清净，",
+   "type": "verse"
+  },
+  {
+   "idx": 126,
+   "pali": "Yo bāhirena parisuddhimicche.",
+   "zh": "若有人于外在寻求清净。",
+   "type": "verse"
+  },
+  {
+   "idx": 127,
+   "pali": "‘‘Hitvā ahaṃ brāhmaṇa dārudāhaṃ",
+   "zh": "“婆罗门，我已舍离燃木之火，",
+   "type": "verse"
+  },
+  {
+   "idx": 128,
+   "pali": "Ajjhattamevujjalayāmi jotiṃ;",
+   "zh": "我只燃起内在的光焰；",
+   "type": "verse"
+  },
+  {
+   "idx": 129,
+   "pali": "Niccagginī niccasamāhitatto,",
+   "zh": "常燃之火，恒常具足定力者，",
+   "type": "verse"
+  },
+  {
+   "idx": 130,
+   "pali": "Arahaṃ ahaṃ brahmacariyaṃ carāmi.",
+   "zh": "我为阿拉汉，我行持梵行。",
+   "type": "verse"
+  },
+  {
+   "idx": 131,
+   "pali": "‘‘Māno hi te brāhmaṇa khāribhāro,",
+   "zh": "“婆罗门，这傲慢确是你肩头之担；",
+   "type": "verse"
+  },
+  {
+   "idx": 132,
+   "pali": "Kodho dhumo bhasmani mosavajjaṃ;",
+   "zh": "愤怒为烟，妄语成灰；",
+   "type": "verse"
+  },
+  {
+   "idx": 133,
+   "pali": "Jivhā sujā hadayaṃ jotiṭhānaṃ,",
+   "zh": "舌为祭勺，心为光辉所依，",
+   "type": "verse"
+  },
+  {
+   "idx": 134,
+   "pali": "Attā sudanto purisassa joti.",
+   "zh": "善自调御的自己，方为人之光辉。",
+   "type": "verse"
+  },
+  {
+   "idx": 135,
+   "pali": "‘‘Dhammo rahado brāhmaṇa sīlatittho,",
+   "zh": "“法譬如湖，婆罗门，戒是其渡口，",
+   "type": "verse"
+  },
+  {
+   "idx": 136,
+   "pali": "Anāvilo sabbhi sataṃ pasattho;",
+   "zh": "澄清无浊，为善人所共称叹；",
+   "type": "verse"
+  },
+  {
+   "idx": 137,
+   "pali": "Yattha have vedaguno sinātā,",
+   "zh": "通达者们在此沐浴，",
+   "type": "verse"
+  },
+  {
+   "idx": 138,
+   "pali": "Anallagattāva taranti pāraṃ.",
+   "zh": "肢体不沾水，便渡过彼岸。",
+   "type": "verse"
+  },
+  {
+   "idx": 139,
+   "pali": "‘‘Saccaṃ dhammo saṃyamo brahmacariyaṃ,",
+   "zh": "“真实、法、调御与梵行，",
+   "type": "verse"
+  },
+  {
+   "idx": 140,
+   "pali": "Majjhe sitā brāhmaṇa brahmapatti;",
+   "zh": "婆罗门，安住中道而证得梵果，",
+   "type": "verse"
+  },
+  {
+   "idx": 141,
+   "pali": "Sa tujjubhūtesu namo karohi,",
+   "zh": "向正直者致敬，",
+   "type": "verse"
+  },
+  {
+   "idx": 142,
+   "pali": "Tamahaṃ naraṃ dhammasārīti brūmī’’ti.",
+   "zh": "我称此人为法随者。”",
+   "type": "verse"
+  },
+  {
+   "idx": 143,
+   "pali": "Evaṃ vutte, sundarikabhāradvājo brāhmaṇo bhagavantaṃ etadavoca – ‘‘abhikkantaṃ, bho gotama…pe… aññataro ca panāyasmā bhāradvājo arahataṃ ahosī’’ti.",
+   "zh": "听了这话，孙德利咖·巴拉德瓦迦婆罗门对世尊这样说：“真是殊胜啊，[[gotama|乔达摩]]尊者！……（中略）……而尊者巴拉德瓦迦即成为一位阿拉汉。”"
+  },
+  {
+   "idx": 357,
+   "pali": "10. Bahudhītarasuttaṃ",
+   "zh": "10. [[bahudhītarasutta|多女经]]"
+  },
+  {
+   "idx": 145,
+   "pali": "Ekaṃ samayaṃ bhagavā kosalesu viharati aññatarasmiṃ vanasaṇḍe. Tena kho pana samayena aññatarassa bhāradvājagottassa brāhmaṇassa catuddasa balībaddā naṭṭhā honti. Atha kho bhāradvājagotto brāhmaṇo te balībadde gavesanto yena so vanasaṇḍo tenupasaṅkami; upasaṅkamitvā addasa bhagavantaṃ tasmiṃ vanasaṇḍe nisinnaṃ pallaṅkaṃ ābhujitvā ujuṃ kāyaṃ paṇidhāya parimukhaṃ satiṃ upaṭṭhapetvā. Disvāna yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavato santike imā gāthāyo abhāsi –",
+   "zh": "有一次，世尊住在憍萨罗国的一处丛林中。那时，有一位婆罗门巴拉德瓦迦丢失了十四头公牛。他在寻找那些牛时，来到了那片丛林。进入后，他看见世尊正结跏趺坐，挺直身体，正念安立在面前。看见后，便上前走近世尊；来到世尊跟前，即以偈颂说道：",
+   "n": "196"
+  },
+  {
+   "idx": 146,
+   "pali": "‘‘Na hi nūnimassa samaṇassa, balībaddā catuddasa;",
+   "zh": "“这位沙门确实没有十四头公牛，",
+   "type": "verse"
+  },
+  {
+   "idx": 147,
+   "pali": "Ajjasaṭṭhiṃ na dissanti, tenāyaṃ samaṇo sukhī.",
+   "zh": "至今已六日不见（他们），故而这位沙门这般快乐。",
+   "type": "verse"
+  },
+  {
+   "idx": 148,
+   "pali": "‘‘Na hi nūnimassa samaṇassa, tilākhettasmi pāpakā;",
+   "zh": "“这位沙门确实没有芝麻田里的恶物；",
+   "type": "verse"
+  },
+  {
+   "idx": 149,
+   "pali": "Ekapaṇṇā dupaṇṇā ca, tenāyaṃ samaṇo sukhī.",
+   "zh": "只有一叶或两叶，这位沙门因此快乐。",
+   "type": "verse"
+  },
+  {
+   "idx": 150,
+   "pali": "‘‘Na hi nūnimassa samaṇassa, tucchakoṭṭhasmi mūsikā;",
+   "zh": "“此沙门的空谷仓里，必定没有老鼠；",
+   "type": "verse"
+  },
+  {
+   "idx": 151,
+   "pali": "Ussoḷhikāya naccanti, tenāyaṃ samaṇo sukhī.",
+   "zh": "（它们）卖力地跳着舞，因此这位沙门快乐。",
+   "type": "verse"
+  },
+  {
+   "idx": 152,
+   "pali": "‘‘Na hi nūnimassa samaṇassa, santhāro sattamāsiko;",
+   "zh": "“这沙门必定没有七个月之久的铺草，",
+   "type": "verse"
+  },
+  {
+   "idx": 153,
+   "pali": "Uppāṭakehi sañchanno, tenāyaṃ samaṇo sukhī.",
+   "zh": "长满了跳蚤；故此沙门如此安乐。",
+   "type": "verse"
+  },
+  {
+   "idx": 154,
+   "pali": "‘‘Na hi nūnimassa samaṇassa, vidhavā satta dhītaro;",
+   "zh": "“这位沙门想必没有七位寡居的女儿，",
+   "type": "verse"
+  },
+  {
+   "idx": 155,
+   "pali": "Ekaputtā duputtā ca, tenāyaṃ samaṇo sukhī.",
+   "zh": "她们各有一子或二子，故这位沙门快乐。",
+   "type": "verse"
+  },
+  {
+   "idx": 156,
+   "pali": "‘‘Na hi nūnimassa samaṇassa, piṅgalā tilakāhatā;",
+   "zh": "“这位沙门必定没有一位面色蜡黄、斑点密布的妻子。",
+   "type": "verse"
+  },
+  {
+   "idx": 157,
+   "pali": "Sottaṃ pādena bodheti, tenāyaṃ samaṇo sukhī.",
+   "zh": "会用脚将他从睡梦中踢醒，所以这位沙门快乐。",
+   "type": "verse"
+  },
+  {
+   "idx": 158,
+   "pali": "‘‘Na hi nūnimassa samaṇassa, paccūsamhi iṇāyikā;",
+   "zh": "“这位沙门确实没有一大清早就来敲门的债主；",
+   "type": "verse"
+  },
+  {
+   "idx": 159,
+   "pali": "Detha dethāti codenti, tenāyaṃ samaṇo sukhī’’ti.",
+   "zh": "他们催促说：‘给！给！’，所以这位沙门快乐。”",
+   "type": "verse"
+  },
+  {
+   "idx": 160,
+   "pali": "‘‘Na hi mayhaṃ brāhmaṇa, balībaddā catuddasa;",
+   "zh": "“婆罗门，我确实没有十四头公牛；",
+   "type": "verse"
+  },
+  {
+   "idx": 161,
+   "pali": "Ajjasaṭṭhiṃ na dissanti, tenāhaṃ brāhmaṇā sukhī.",
+   "zh": "今日不见那六十之数（的谷物），婆罗门，是故我很快乐。",
+   "type": "verse"
+  },
+  {
+   "idx": 162,
+   "pali": "‘‘Na hi mayhaṃ brāhmaṇa, tilākhettasmi pāpakā;",
+   "zh": "“婆罗门，我的芝麻田中确实没有坏的；",
+   "type": "verse"
+  },
+  {
+   "idx": 163,
+   "pali": "Ekapaṇṇā dupaṇṇā ca, tenāhaṃ brāhmaṇā sukhī.",
+   "zh": "婆罗门，一片叶和两片叶，我因此过得快乐。",
+   "type": "verse"
+  },
+  {
+   "idx": 164,
+   "pali": "‘‘Na hi mayhaṃ brāhmaṇa, tucchakoṭṭhasmi mūsikā;",
+   "zh": "“婆罗门，我的空谷仓中的确没有老鼠；",
+   "type": "verse"
+  },
+  {
+   "idx": 165,
+   "pali": "Ussoḷhikāya naccanti, tenāhaṃ brāhmaṇā sukhī.",
+   "zh": "因精进而起舞，婆罗门，所以我很快乐。",
+   "type": "verse"
+  },
+  {
+   "idx": 166,
+   "pali": "‘‘Na hi mayhaṃ brāhmaṇa, santhāro sattamāsiko;",
+   "zh": "“的确，婆罗门，我没有用了七个月的卧具；",
+   "type": "verse"
+  },
+  {
+   "idx": 167,
+   "pali": "Uppāṭakehi sañchanno, tenāhaṃ brāhmaṇā sukhī.",
+   "zh": "那卧具被跳蚤所覆，婆罗门，所以我快乐。",
+   "type": "verse"
+  },
+  {
+   "idx": 168,
+   "pali": "‘‘Na hi mayhaṃ brāhmaṇa, vidhavā satta dhītaro;",
+   "zh": "“的确，婆罗门，我没有七个守寡的女儿；",
+   "type": "verse"
+  },
+  {
+   "idx": 169,
+   "pali": "Ekaputtā duputtā ca, tenāhaṃ brāhmaṇā sukhī.",
+   "zh": "她们各有一子或二子，所以我快乐，婆罗门。",
+   "type": "verse"
+  },
+  {
+   "idx": 170,
+   "pali": "‘‘Na hi mayhaṃ brāhmaṇa, piṅgalā tilakāhatā;",
+   "zh": "“婆罗门，我没有一位红褐肤色、面带斑痣的妻子；",
+   "type": "verse"
+  },
+  {
+   "idx": 171,
+   "pali": "Sottaṃ pādena bodheti, tenāhaṃ brāhmaṇā sukhī.",
+   "zh": "她用脚把沉睡的我踢醒，所以我快乐，婆罗门。",
+   "type": "verse"
+  },
+  {
+   "idx": 172,
+   "pali": "‘‘Na hi mayhaṃ brāhmaṇa, paccūsamhi iṇāyikā;",
+   "zh": "“婆罗门，我确实没有在清晨登门催债的债主。",
+   "type": "verse"
+  },
+  {
+   "idx": 173,
+   "pali": "Detha dethāti codenti, tenāhaṃ brāhmaṇā sukhī’’ti.",
+   "zh": "他们催逼着：‘给！给！’——婆罗门，我因此而快乐。”",
+   "type": "verse"
+  },
+  {
+   "idx": 311,
+   "pali": "Evaṃ vutte, bhāradvājagotto brāhmaṇo bhagavantaṃ etadavoca – ‘‘abhikkantaṃ, bho gotama abhikkantaṃ, bho gotama…pe… ajjatagge pāṇupetaṃ saraṇaṃ gata’’nti.",
+   "zh": "听了这话，那位婆罗豆婆遮婆罗门对世尊这样说：“真是殊胜啊，[[gotama|乔达摩]]大师！真是殊胜啊，[[gotama|乔达摩]]大师！……从今日起，直至命终，我都皈依了。”"
+  },
+  {
+   "idx": 175,
+   "pali": "Alattha kho bhāradvājagotto brāhmaṇo bhagavato santike pabbajjaṃ, alattha upasampadaṃ. Acirūpasampanno panāyasmā bhāradvājo eko vūpakaṭṭho appamatto ātāpī pahitatto viharanto nacirasseva – yassatthāya kulaputtā sammadeva agārasmā anagāriyaṃ pabbajanti, tadanuttaraṃ – brahmacariyapariyosānaṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja vihāsi. ‘‘Khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyā’’ti abbhaññāsi. Aññataro ca panāyasmā bhāradvājo arahataṃ ahosīti.",
+   "zh": "于是，婆罗门巴拉德瓦迦族人在世尊座下出家，受具足戒。受具足戒不久，巴拉德瓦迦尊者便独自隐居、远离愦闹，住于不放逸、精勤策励。善男子正确地从在家出家，所追求的正是那无上的目标——梵行的究竟；不久，他就在当生以自己的证智通达、证得并安住其中。他了知：“生已尽，梵行已立，应作已作，不受后有。”巴拉德瓦迦尊者遂成为阿拉汉之一。"
+  },
+  {
+   "idx": 358,
+   "pali": "Arahantavaggo paṭhamo.",
+   "zh": "阿拉汉品第一。"
+  },
+  {
+   "idx": 359,
+   "pali": "Tassuddānaṃ –",
+   "zh": "其摄颂："
+  },
+  {
+   "idx": 178,
+   "pali": "Dhanañjānī ca akkosaṃ, asurindaṃ bilaṅgikaṃ;",
+   "zh": "[[dhanañjāni|陀然]]、辱骂、阿修罗王、崩伽利卡，",
+   "type": "verse"
+  },
+  {
+   "idx": 179,
+   "pali": "Ahiṃsakaṃ jaṭā ceva, suddhikañceva aggikā;",
+   "zh": "不害、结发、清净与火祀。",
+   "type": "verse"
+  },
+  {
+   "idx": 180,
+   "pali": "Sundarikaṃ bahudhītarena ca te dasāti.",
+   "zh": "孙德利咖与诸女，凡十篇。",
+   "type": "verse"
+  },
+  {
+   "idx": 181,
+   "pali": "2. Upāsakavaggo",
+   "zh": "2. 近事男品"
+  },
+  {
+   "idx": 361,
+   "pali": "1. Kasibhāradvājasuttaṃ",
+   "zh": "1. [[kasibhāradvājasutta|耕田婆罗堕阇经]]"
+  },
+  {
+   "idx": 183,
+   "pali": "Evaṃ me sutaṃ – ekaṃ samayaṃ bhagavā magadhesu viharati dakkhiṇāgirismiṃ ekanāḷāyaṃ brāhmaṇagāme. Tena kho pana samayena kasibhāradvājassa brāhmaṇassa pañcamattāni naṅgalasatāni payuttāni honti vappakāle. Atha kho bhagavā pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya yena kasibhāradvājassa brāhmaṇassa kammanto tenupasaṅkami.",
+   "zh": "如是我闻：一时，世尊住在摩揭陀国南山的一[[nāḷā|那罗]]婆罗门村。那时，正值播种时节，耕者巴拉德瓦迦婆罗门约有五百具犁正用于田间。世尊于午前穿好袈裟，持钵与僧袍，前往耕者巴拉德瓦迦婆罗门劳作之处。",
+   "n": "197"
+  },
+  {
+   "idx": 184,
+   "pali": "Tena kho pana samayena kasibhāradvājassa brāhmaṇassa parivesanā vattati. Atha kho bhagavā yena parivesanā tenupasaṅkami; upasaṅkamitvā ekamantaṃ aṭṭhāsi. Addasā kho kasibhāradvājo brāhmaṇo bhagavantaṃ piṇḍāya ṭhitaṃ. Disvā bhagavantaṃ etadavoca – ‘‘ahaṃ kho, samaṇa, kasāmi ca vapāmi ca, kasitvā ca vapitvā ca bhuñjāmi. Tvampi, samaṇa, kasassu ca vapassu ca, kasitvā ca vapitvā ca bhuñjassū’’ti. ‘‘Ahampi kho, brāhmaṇa, kasāmi ca vapāmi ca, kasitvā ca vapitvā ca bhuñjāmī’’ti. Na kho mayaṃ passāma bhoto gotamassa yugaṃ vā naṅgalaṃ vā phālaṃ vā pācanaṃ vā balībadde vā, atha ca pana bhavaṃ gotamo evamāha – ‘‘ahampi kho, brāhmaṇa, kasāmi ca vapāmi ca, kasitvā ca vapitvā ca bhuñjāmī’’ti . Atha kho kasibhāradvājo brāhmaṇo bhagavantaṃ gāthāya ajjhabhāsi –",
+   "zh": "那时，耕者巴拉德瓦迦婆罗门正在分发食物。世尊便前往分发食物之处，到后立于一面。耕者巴拉德瓦迦婆罗门见世尊站立乞食，便对世尊说：“沙门，我耕田、播种，耕了田、播了种，然后进食。沙门，你也应当耕田、播种，耕了田、播了种，然后进食。” “婆罗门，我同样耕田、播种，耕了田、播了种，然后进食。” “可是我们并未见到[[gotama|乔达摩尊]]者有轭、有犁、有犁头、有刺棒、有耕牛，而[[gotama|乔达摩尊]]者却说：‘婆罗门，我同样耕田、播种，耕了田、播了种，然后进食。’” 于是耕者巴拉德瓦迦婆罗门以偈颂对世尊说："
+  },
+  {
+   "idx": 185,
+   "pali": "‘‘Kassako paṭijānāsi, na ca passāmi te kasiṃ;",
+   "zh": "“你自称是耕者，我却不见你耕作；",
+   "type": "verse"
+  },
+  {
+   "idx": 186,
+   "pali": "Kassako pucchito brūhi, kathaṃ jānemu taṃ kasi’’nti.",
+   "zh": "耕作者，有人问你时，请说吧：我们如何能了知你的耕作？”",
+   "type": "verse"
+  },
+  {
+   "idx": 187,
+   "pali": "‘‘Saddhā bījaṃ tapo vuṭṭhi, paññā me yuganaṅgalaṃ;",
+   "zh": "“信是种子，苦行是雨水，慧是我的轭和犁；",
+   "type": "verse"
+  },
+  {
+   "idx": 188,
+   "pali": "Hirī īsā mano yottaṃ, sati me phālapācanaṃ.",
+   "zh": "惭是犁辕，意是缰绳，正念是我的犁头与刺棒。",
+   "type": "verse"
+  },
+  {
+   "idx": 189,
+   "pali": "‘‘Kāyagutto vacīgutto, āhāre udare yato;",
+   "zh": "“我身善护，语善护，于饮食节制口腹；",
+   "type": "verse"
+  },
+  {
+   "idx": 190,
+   "pali": "Saccaṃ karomi niddānaṃ, soraccaṃ me pamocanaṃ.",
+   "zh": "我以真实为镰刀，柔和便是我的卸轭。",
+   "type": "verse"
+  },
+  {
+   "idx": 191,
+   "pali": "‘‘Vīriyaṃ me dhuradhorayhaṃ, yogakkhemādhivāhanaṃ;",
+   "zh": "“精进是我负轭的公牛，运载我至离轭安稳的涅槃。",
+   "type": "verse"
+  },
+  {
+   "idx": 192,
+   "pali": "Gacchati anivattantaṃ, yattha gantvā na socati.",
+   "zh": "它一直向前行去，绝不退转；到达那里，便不再有忧悲。",
+   "type": "verse"
+  },
+  {
+   "idx": 193,
+   "pali": "‘‘Evamesā kasī kaṭṭhā, sā hoti amatapphalā;",
+   "zh": "“如此耕耘已毕，便会结出不死的果实。",
+   "type": "verse"
+  },
+  {
+   "idx": 194,
+   "pali": "Etaṃ kasiṃ kasitvāna, sabbadukkhā pamuccatī’’ti.",
+   "zh": "完成了这番耕耘，便能从一切苦中解脱。”",
+   "type": "verse"
+  },
+  {
+   "idx": 195,
+   "pali": "‘‘Bhuñjatu bhavaṃ gotamo. Kassako bhavaṃ. Yañhi bhavaṃ gotamo amatapphalampi kasiṃ kasatī’’ti .",
+   "zh": "“请尊者[[gotama|乔达摩]]享用。您是耕作者，因为您所耕作的，正是结出不死的果实之耕作。”"
+  },
+  {
+   "idx": 87,
+   "pali": "‘‘Gāthābhigītaṃ me abhojaneyyaṃ,",
+   "zh": "“以吟诵偈颂所得的食物，于我是不应受用的。",
+   "type": "verse"
+  },
+  {
+   "idx": 88,
+   "pali": "Sampassataṃ brāhmaṇa nesa dhammo;",
+   "zh": "婆罗门，这并非具见者的法则。",
+   "type": "verse"
+  },
+  {
+   "idx": 89,
+   "pali": "Gāthābhigītaṃ panudanti buddhā,",
+   "zh": "诸佛摒弃由偈颂所得的食物。",
+   "type": "verse"
+  },
+  {
+   "idx": 90,
+   "pali": "Dhamme sati brāhmaṇa vuttiresā.",
+   "zh": "婆罗门，只要法在，这便是所说的生活方式。",
+   "type": "verse"
+  },
+  {
+   "idx": 91,
+   "pali": "‘‘Aññena ca kevalinaṃ mahesiṃ,",
+   "zh": "“你应以其他的饮食，对那位圆满的大仙——",
+   "type": "verse"
+  },
+  {
+   "idx": 92,
+   "pali": "Khīṇāsavaṃ kukkuccavūpasantaṃ;",
+   "zh": "那漏尽者，恶作已止息；",
+   "type": "verse"
+  },
+  {
+   "idx": 118,
+   "pali": "Annena pānena upaṭṭhahassu,",
+   "zh": "以食物和饮料来供养他，",
+   "type": "verse"
+  },
+  {
+   "idx": 119,
+   "pali": "Khettañhi taṃ puññapekkhassa hotī’’ti.",
+   "zh": "因为那正是求功德者的福田。”",
+   "type": "verse"
+  },
+  {
+   "idx": 362,
+   "pali": "Evaṃ vutte, kasibhāradvājo brāhmaṇo bhagavantaṃ etadavoca – ‘‘abhikkantaṃ, bho gotama…pe… ajjatagge pāṇupetaṃ saraṇaṃ gata’’nti.",
+   "zh": "闻此，耕者婆罗堕婆阇婆罗门对世尊说道：“真是殊胜啊，[[gotama|乔达摩尊]]者！……从今日起，直至命终，我皈依世尊，愿[[gotama|乔达摩尊]]者忆念我为终身皈依的在家弟子。”"
+  },
+  {
+   "idx": 363,
+   "pali": "2. Udayasuttaṃ",
+   "zh": "2. [[udayasutta|优陀耶经]]"
+  },
+  {
+   "idx": 206,
+   "pali": "Sāvatthinidānaṃ. Atha kho bhagavā pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya yena udayassa brāhmaṇassa nivesanaṃ tenupasaṅkami. Atha kho udayo brāhmaṇo bhagavato pattaṃ odanena pūresi. Dutiyampi kho bhagavā pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya yena udayassa brāhmaṇassa nivesanaṃ tenupasaṅkami…pe… tatiyampi kho udayo brāhmaṇo bhagavato pattaṃ odanena pūretvā bhagavantaṃ etadavoca – ‘‘pakaṭṭhakoyaṃ samaṇo gotamo punappunaṃ āgacchatī’’ti.",
+   "zh": "在[[sāvatthī|舍卫城]]。那时，世尊于清晨时分，着下衣，持衣钵，前往优陀耶婆罗门的住处。优陀耶婆罗门用饭食盛满了世尊的钵。第二日，世尊又于清晨时分，着下衣，持衣钵……到了第三次，优陀耶婆罗门再用饭食盛满世尊的钵后，对世尊这样说：“这位沙门[[gotama|乔达摩]]真是贪口腹，一而再、再而三地前来。”",
+   "n": "198"
+  },
+  {
+   "idx": 207,
+   "pali": "‘‘Punappunañceva vapanti bījaṃ, punappunaṃ vassati devarājā;",
+   "zh": "“世人一再播种，天王一再降雨；",
+   "type": "verse"
+  },
+  {
+   "idx": 208,
+   "pali": "Punappunaṃ khettaṃ kasanti kassakā, punappunaṃ dhaññamupeti raṭṭhaṃ.",
+   "zh": "农夫一再耕田，谷物一再运抵国中；",
+   "type": "verse"
+  },
+  {
+   "idx": 209,
+   "pali": "‘‘Punappunaṃ yācakā yācayanti, punappunaṃ dānapatī dadanti;",
+   "zh": "“乞者一再乞求，施主一再布施；",
+   "type": "verse"
+  },
+  {
+   "idx": 210,
+   "pali": "Punappunaṃ dānapatī daditvā, punappunaṃ saggamupenti ṭhānaṃ.",
+   "zh": "施主们一再行布施，便一再生于天界。",
+   "type": "verse"
+  },
+  {
+   "idx": 211,
+   "pali": "‘‘Punappunaṃ khīranikā duhanti, punappunaṃ vaccho upeti mātaraṃ;",
+   "zh": "“挤奶工一再挤奶，小牛一再走向母牛；",
+   "type": "verse"
+  },
+  {
+   "idx": 212,
+   "pali": "Punappunaṃ kilamati phandati ca, punappunaṃ gabbhamupeti mando.",
+   "zh": "一再地疲惫与悸动，愚者便一再入于母胎。",
+   "type": "verse"
+  },
+  {
+   "idx": 213,
+   "pali": "‘‘Punappunaṃ jāyati mīyati ca, punappunaṃ sivathikaṃ haranti;",
+   "zh": "“他一次又一次地受生、死去，又一次一次地被送往尸陀林。",
+   "type": "verse"
+  },
+  {
+   "idx": 214,
+   "pali": "Maggañca laddhā apunabbhavāya, na punappunaṃ jāyati bhūripañño’’ti .",
+   "zh": "“既已证得不复再生之道，具广大慧者便不再辗转受生。”",
+   "type": "verse"
+  },
+  {
+   "idx": 215,
+   "pali": "Evaṃ vutte, udayo brāhmaṇo bhagavantaṃ etadavoca – ‘‘abhikkantaṃ, bho gotama…pe… upāsakaṃ maṃ bhavaṃ gotamo dhāretu ajjatagge pāṇupetaṃ saraṇaṃ gata’’nti.",
+   "zh": "听闻此言，乌达亚婆罗门对世尊说：“真是殊胜啊，[[gotama|乔达摩尊]]者！……请[[gotama|乔达摩尊]]者摄受我为在家弟子，从今日起，我尽形寿皈依。”"
+  },
+  {
+   "idx": 364,
+   "pali": "3. Devahitasuttaṃ",
+   "zh": "3. [[devahitasutta|天利经]]"
+  },
+  {
+   "idx": 217,
+   "pali": "Sāvatthinidānaṃ . Tena kho pana samayena bhagavā vātehābādhiko hoti; āyasmā ca upavāṇo bhagavato upaṭṭhāko hoti. Atha kho bhagavā āyasmantaṃ upavāṇaṃ āmantesi – ‘‘iṅgha me tvaṃ, upavāṇa, uṇhodakaṃ jānāhī’’ti. ‘‘Evaṃ, bhante’’ti kho āyasmā upavāṇo bhagavato paṭissutvā nivāsetvā pattacīvaramādāya yena devahitassa brāhmaṇassa nivesanaṃ tenupasaṅkami; upasaṅkamitvā tuṇhībhūto ekamantaṃ aṭṭhāsi. Addasā kho devahito brāhmaṇo āyasmantaṃ upavāṇaṃ tuṇhībhūtaṃ ekamantaṃ ṭhitaṃ. Disvāna āyasmantaṃ upavāṇaṃ gāthāya ajjhabhāsi –",
+   "zh": "在[[sāvatthī|舍卫城]]。那时，世尊为风病所恼，具寿优波婆那正是世尊的侍者。于是，世尊对具寿优波婆那说：“优波婆那，你去为我取些热水来。”“是，尊者。”具寿优波婆那应答后，便着衣持钵与袈裟，前往德瓦希塔婆罗门的住处。到了之后，他默然立于一旁。德瓦希塔婆罗门看见具寿优波婆那默然立于一旁，便以偈颂对他说：",
+   "n": "199"
+  },
+  {
+   "idx": 218,
+   "pali": "‘‘Tuṇhībhūto bhavaṃ tiṭṭhaṃ, muṇḍo saṅghāṭipāruto;",
+   "zh": "“尊者剃除须发，身披袈裟，默然站立。”",
+   "type": "verse"
+  },
+  {
+   "idx": 219,
+   "pali": "Kiṃ patthayāno kiṃ esaṃ, kiṃ nu yācitumāgato’’ti.",
+   "zh": "您希求什么？寻觅什么？您究竟是为了乞求何物而来？",
+   "type": "verse"
+  },
+  {
+   "idx": 220,
+   "pali": "‘‘Arahaṃ sugato loke, vātehābādhiko muni;",
+   "zh": "“世间中的应供、善逝、牟尼，正为风病所苦；",
+   "type": "verse"
+  },
+  {
+   "idx": 221,
+   "pali": "Sace uṇhodakaṃ atthi, munino dehi brāhmaṇa.",
+   "zh": "若有热水，婆罗门，请给予牟尼。",
+   "type": "verse"
+  },
+  {
+   "idx": 222,
+   "pali": "‘‘Pūjito pūjaneyyānaṃ, sakkareyyāna sakkato;",
+   "zh": "“为应供养者所供养，为应恭敬者所恭敬，",
+   "type": "verse"
+  },
+  {
+   "idx": 223,
+   "pali": "Apacito apaceyyānaṃ , tassa icchāmi hātave’’ti.",
+   "zh": "为应礼敬者所礼敬，我愿将此物呈送给他。”",
+   "type": "verse"
+  },
+  {
+   "idx": 224,
+   "pali": "Atha kho devahito brāhmaṇo uṇhodakassa kājaṃ purisena gāhāpetvā phāṇitassa ca puṭaṃ āyasmato upavāṇassa pādāsi. Atha kho āyasmā upavāṇo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ uṇhodakena nhāpetvā uṇhodakena phāṇitaṃ āloletvā bhagavato pādāsi. Atha kho bhagavato ābādho paṭippassambhi.",
+   "zh": "那时，德瓦希陀婆罗门令一人挑来一担热水，又将一包糖交给具寿优波哇那。于是，具寿优波哇那来到世尊处，以热水为世尊沐浴，又用热水将糖化开，奉与世尊。当时，世尊的病痛便止息了。"
+  },
+  {
+   "idx": 225,
+   "pali": "Atha kho devahito brāhmaṇo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṃ sammodi. Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho devahito brāhmaṇo bhagavantaṃ gāthāya ajjhabhāsi –",
+   "zh": "那时，德瓦希塔婆罗门来至世尊处，与世尊亲切问讯。彼此共叙令人欢喜、值得忆念的话语后，便退坐一面。坐定后，德瓦希塔婆罗门以偈颂对世尊说："
+  },
+  {
+   "idx": 226,
+   "pali": "‘‘Kattha dajjā deyyadhammaṃ, kattha dinnaṃ mahapphalaṃ;",
+   "zh": "“应于何处布施可施之物？布施于何处得大果报？",
+   "type": "verse"
+  },
+  {
+   "idx": 227,
+   "pali": "Kathañhi yajamānassa, kathaṃ ijjhati dakkhiṇā’’ti.",
+   "zh": "供养之人，如何令所施得以成就？”",
+   "type": "verse"
+  },
+  {
+   "idx": 228,
+   "pali": "‘‘Pubbenivāsaṃ yo vedī, saggāpāyañca passati;",
+   "zh": "“他知悉过去的宿命，复能照见天界与恶道；",
+   "type": "verse"
+  },
+  {
+   "idx": 229,
+   "pali": "Atho jātikkhayaṃ patto, abhiññāvosito muni.",
+   "zh": "进而证得生已灭尽，是具足胜智、圆满成就的牟尼。",
+   "type": "verse"
+  },
+  {
+   "idx": 230,
+   "pali": "‘‘Ettha dajjā deyyadhammaṃ, ettha dinnaṃ mahapphalaṃ;",
+   "zh": "“应在此处布施可施之物，此处所施得大果报；",
+   "type": "verse"
+  },
+  {
+   "idx": 231,
+   "pali": "Evañhi yajamānassa, evaṃ ijjhati dakkhiṇā’’ti.",
+   "zh": "如是，供养者的布施确能如此成就。”",
+   "type": "verse"
+  },
+  {
+   "idx": 232,
+   "pali": "Evaṃ vutte, devahito brāhmaṇo bhagavantaṃ etadavoca – ‘‘abhikkantaṃ bho gotama…pe… upāsakaṃ maṃ bhavaṃ gotamo dhāretu ajjatagge pāṇupetaṃ saraṇaṃ gata’’nti.",
+   "zh": "听了这话，德瓦希塔婆罗门对世尊说：“真是殊胜啊，[[gotama|乔达摩尊]]者！……从今日起，愿[[gotama|乔达摩尊]]者记我为终生皈依的近事男。”"
+  },
+  {
+   "idx": 365,
+   "pali": "4. Mahāsālasuttaṃ",
+   "zh": "4. [[mahāsālasutta|大富婆罗门经]]"
+  },
+  {
+   "idx": 234,
+   "pali": "Sāvatthinidānaṃ . Atha kho aññataro brāhmaṇamahāsālo lūkho lūkhapāvuraṇo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṃ sammodi. Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdi. Ekamantaṃ nisinnaṃ kho taṃ brāhmaṇamahāsālaṃ bhagavā etadavoca – ‘‘kinnu tvaṃ, brāhmaṇa, lūkho lūkhapāvuraṇo’’ti? ‘‘Idha me, bho gotama, cattāro puttā. Te maṃ dārehi saṃpuccha gharā nikkhāmentī’’ti. ‘‘Tena hi tvaṃ, brāhmaṇa, imā gāthāyo pariyāpuṇitvā sabhāyaṃ mahājanakāye sannipatite puttesu ca sannisinnesu bhāsassu –",
+   "zh": "在[[sāvatthī|舍卫城]]。那时，有一位大富婆罗门，形容粗陋，身着粗劣衣袍，来到世尊处。他向世尊行至，互致问候，说了一番亲切、悦意的话语后，便坐在一旁。世尊对坐在一旁的那位大富婆罗门说：“婆罗门，你为何如此粗陋，身着这般粗劣的衣袍？”“[[gotama|乔达摩]]大师，我有四个儿子。他们与妻子们商议后，把我从家中赶了出来。”“婆罗门，既然如此，你把这些偈颂学去，等到大众齐聚于会堂、儿子们也在场时，便如此诵出——",
+   "n": "200"
+  },
+  {
+   "idx": 235,
+   "pali": "‘‘Yehi jātehi nandissaṃ, yesañca bhavamicchisaṃ;",
+   "zh": "“我曾为他们的降生而满怀欢喜，也曾期盼他们安乐富足；",
+   "type": "verse"
+  },
+  {
+   "idx": 236,
+   "pali": "Te maṃ dārehi saṃpuccha, sāva vārenti sūkaraṃ.",
+   "zh": "他们跟妻子们商量过后，就像狗驱赶野猪一样把我驱赶。",
+   "type": "verse"
+  },
+  {
+   "idx": 237,
+   "pali": "‘‘Asantā kira maṃ jammā, tāta tātāti bhāsare;",
+   "zh": "“这些下劣之人，口口声声唤我‘爸爸，爸爸’，实则不仁不义。",
+   "type": "verse"
+  },
+  {
+   "idx": 249,
+   "pali": "Rakkhasā puttarūpena, te jahanti vayogataṃ.",
+   "zh": "他们现作儿子形貌，实为罗刹，待我老迈便将我遗弃。",
+   "type": "verse"
+  },
+  {
+   "idx": 239,
+   "pali": "‘‘Assova jiṇṇo nibbhogo, khādanā apanīyati;",
+   "zh": "“犹如老朽无用的马，被牵离草料；",
+   "type": "verse"
+  },
+  {
+   "idx": 240,
+   "pali": "Bālakānaṃ pitā thero, parāgāresu bhikkhati.",
+   "zh": "那些孩子的父亲，这位年迈者，却在别人家乞食。",
+   "type": "verse"
+  },
+  {
+   "idx": 241,
+   "pali": "‘‘Daṇḍova kira me seyyo, yañce puttā anassavā;",
+   "zh": "“对我来说，棍杖的确胜过不听话的儿子们。",
+   "type": "verse"
+  },
+  {
+   "idx": 242,
+   "pali": "Caṇḍampi goṇaṃ vāreti, atho caṇḍampi kukkuraṃ.",
+   "zh": "它能挡开凶悍的公牛，也能挡开凶狠的狗。",
+   "type": "verse"
+  },
+  {
+   "idx": 243,
+   "pali": "‘‘Andhakāre pure hoti, gambhīre gādhamedhati;",
+   "zh": "“它在黑暗中在前探路，在深水中能觅得立足处。",
+   "type": "verse"
+  },
+  {
+   "idx": 244,
+   "pali": "Daṇḍassa ānubhāvena, khalitvā patitiṭṭhatī’’ti.",
+   "zh": "凭此杖的殊胜之力，失足时亦能重新站稳。”",
+   "type": "verse"
+  },
+  {
+   "idx": 245,
+   "pali": "Atha kho so brāhmaṇamahāsālo bhagavato santike imā gāthāyo pariyāpuṇitvā sabhāyaṃ mahājanakāye sannipatite puttesu ca sannisinnesu abhāsi –",
+   "zh": "那时，那位大富婆罗门在世尊座前学得这些偈颂后，来到会议厅，当大众聚集、儿子们皆在座时，诵出偈颂说："
+  },
+  {
+   "idx": 246,
+   "pali": "‘‘Yehi jātehi nandissaṃ, yesañca bhavamicchisaṃ;",
+   "zh": "“我因他们的降生而欢喜，亦盼望他们安乐度日。",
+   "type": "verse"
+  },
+  {
+   "idx": 247,
+   "pali": "Te maṃ dārehi saṃpuccha, sāva vārenti sūkaraṃ.",
+   "zh": "他们跟妻子们商量过后，就像狗驱赶野猪一样把我驱赶。",
+   "type": "verse"
+  },
+  {
+   "idx": 248,
+   "pali": "‘‘Asantā kira maṃ jammā, tāta tātāti bhāsare;",
+   "zh": "“这些下劣之人，确实称我为‘父亲，父亲’，",
+   "type": "verse"
+  },
+  {
+   "idx": 238,
+   "pali": "Rakkhasā puttarūpena, te jahanti vayogataṃ.",
+   "zh": "化作儿形的罗刹，便如此将衰老者遗弃。",
+   "type": "verse"
+  },
+  {
+   "idx": 250,
+   "pali": "‘‘Assova jiṇṇo nibbhogo, khādanā apanīyati;",
+   "zh": "“犹如衰老无用之马，被牵离草料；",
+   "type": "verse"
+  },
+  {
+   "idx": 251,
+   "pali": "Bālakānaṃ pitā thero, parāgāresu bhikkhati.",
+   "zh": "那些孩子的父亲，这位年迈者，却在别人家乞食。",
+   "type": "verse"
+  },
+  {
+   "idx": 252,
+   "pali": "‘‘Daṇḍova kira me seyyo, yañce puttā anassavā;",
+   "zh": "“对我来说，棍杖的确胜过不听话的儿子们。",
+   "type": "verse"
+  },
+  {
+   "idx": 366,
+   "pali": "Caṇḍampi goṇaṃ vāreti, atho caṇḍampi kukkuraṃ.",
+   "zh": "能御凶牛，亦能御恶犬。",
+   "type": "verse"
+  },
+  {
+   "idx": 367,
+   "pali": "‘‘Andhakāre pure hoti, gambhīre gādhamedhati;",
+   "zh": "“于暗处能为前导，于深处可测浅深。",
+   "type": "verse"
+  },
+  {
+   "idx": 368,
+   "pali": "Daṇḍassa ānubhāvena, khalitvā patitiṭṭhatī’’ti.",
+   "zh": "凭依手杖之力，纵然跌倒，仍能立起。”",
+   "type": "verse"
+  },
+  {
+   "idx": 256,
+   "pali": "Atha kho naṃ brāhmaṇamahāsālaṃ puttā gharaṃ netvā nhāpetvā paccekaṃ dussayugena acchādesuṃ. Atha kho so brāhmaṇamahāsālo ekaṃ dussayugaṃ ādāya yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṃ sammodi. Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho brāhmaṇamahāsālo bhagavantaṃ etadavoca – ‘‘mayaṃ, bho gotama, brāhmaṇā nāma ācariyassa ācariyadhanaṃ pariyesāma. Paṭiggaṇhatu me bhavaṃ gotamo ācariyadhana’’nti. Paṭiggahesi bhagavā anukampaṃ upādāya. Atha kho so brāhmaṇamahāsālo bhagavantaṃ etadavoca – ‘‘abhikkantaṃ, bho gotama…pe… upāsakaṃ maṃ bhavaṃ gotamo dhāretu ajjatagge pāṇupetaṃ saraṇaṃ gata’’nti.",
+   "zh": "那时，他的儿子们将这位大富婆罗门带回家中，为他沐浴，并各自用一套衣服为他穿上。随后，这位大富婆罗门取了一套衣服，前往世尊那里。到了之后，与世尊互相问候、亲切交谈。互致令人难忘的善语后，他退坐一面。坐定后，大富婆罗门对世尊说：“[[gotama|乔达摩尊]]者，我们婆罗门有寻求师长酬金的传统，恳请[[gotama|乔达摩尊]]者接受我供奉的师长酬金。”世尊出于悲悯，纳受了。这时，大富婆罗门对世尊说：“真是殊胜啊，[[gotama|乔达摩尊]]者！……愿[[gotama|乔达摩尊]]者接纳我为在家弟子，从今日起，直至命终，我皆皈依。”"
+  },
+  {
+   "idx": 369,
+   "pali": "5. Mānatthaddhasuttaṃ",
+   "zh": "5. [[mānatthaddhasutta|慢傲经]]"
+  },
+  {
+   "idx": 258,
+   "pali": "Sāvatthinidānaṃ . Tena kho pana samayena mānatthaddho nāma brāhmaṇo sāvatthiyaṃ paṭivasati. So neva mātaraṃ abhivādeti, na pitaraṃ abhivādeti, na ācariyaṃ abhivādeti, na jeṭṭhabhātaraṃ abhivādeti. Tena kho pana samayena bhagavā mahatiyā parisāya parivuto dhammaṃ deseti. Atha kho mānatthaddhassa brāhmaṇassa etadahosi – ‘‘ayaṃ kho samaṇo gotamo mahatiyā parisāya parivuto dhammaṃ deseti. Yaṃnūnāhaṃ yena samaṇo gotamo tenupasaṅkameyyaṃ. Sace maṃ samaṇo gotamo ālapissati, ahampi taṃ ālapissāmi. No ce maṃ samaṇo gotamo ālapissati, ahampi nālapissāmī’’ti. Atha kho mānatthaddho brāhmaṇo yena bhagavā tenupasaṅkami; upasaṅkamitvā tuṇhībhūto ekamantaṃ aṭṭhāsi. Atha kho bhagavā taṃ nālapi. Atha kho mānatthaddho brāhmaṇo – ‘nāyaṃ samaṇo gotamo kiñci jānātī’ti tatova puna nivattitukāmo ahosi. Atha kho bhagavā mānatthaddhassa brāhmaṇassa cetasā cetoparivitakkamaññāya mānatthaddhaṃ brāhmaṇaṃ gāthāya ajjhabhāsi –",
+   "zh": "[[sāvatthī|舍卫城]]因缘。那时，有一位名为“慢心坚固”的婆罗门住在[[sāvatthī|舍卫城]]。他既不礼敬母亲，也不礼敬父亲，不礼敬师长，亦不礼敬兄长。其时，世尊正被大众围绕，宣说正法。慢心坚固婆罗门便这样想：“这位[[gotama|沙门乔达摩]]正被大众围绕说法，我不妨到[[gotama|沙门乔达摩]]那里去。如果[[gotama|沙门乔达摩]]与我交谈，我便与他交谈；如果他不与我交谈，我也不与他交谈。”于是，慢心坚固婆罗门来到世尊处，到了之后，便默然立于一旁。世尊并未与他交谈。这时，慢心坚固婆罗门心想：“这位[[gotama|沙门乔达摩]]什么都不懂。”便想转身离去。世尊以自己的心，了知慢心坚固婆罗门心中的念头后，便以偈颂对他说：",
+   "n": "201"
+  },
+  {
+   "idx": 259,
+   "pali": "‘‘Na mānaṃ brāhmaṇa sādhu, atthikassīdha brāhmaṇa;",
+   "zh": "“婆罗门，你若是在这里为自身谋求利益，怀持慢心并非善事，",
+   "type": "verse"
+  },
+  {
+   "idx": 260,
+   "pali": "Yena atthena āgacchi, tamevamanubrūhaye’’ti.",
+   "zh": "你为了何种目的而来，便应专注于成就那件事。”",
+   "type": "verse"
+  },
+  {
+   "idx": 261,
+   "pali": "Atha kho mānatthaddho brāhmaṇo – ‘‘cittaṃ me samaṇo gotamo jānātī’’ti tattheva bhagavato pādesu sirasā nipatitvā bhagavato pādāni mukhena ca paricumbati pāṇīhi ca parisambāhati, nāmañca sāveti – ‘‘mānatthaddhāhaṃ, bho gotama, mānatthaddhāhaṃ, bho gotamā’’ti. Atha kho sā parisā abbhutacittajātā ahosi – ‘acchariyaṃ vata bho, abbhutaṃ vata bho! Ayañhi mānatthaddho brāhmaṇo neva mātaraṃ abhivādeti, na pitaraṃ abhivādeti, na ācariyaṃ abhivādeti, na jeṭṭhabhātaraṃ abhivādeti; atha ca pana samaṇe gotame evarūpaṃ paramanipaccakāraṃ karotī’ti. Atha kho bhagavā mānatthaddhaṃ brāhmaṇaṃ etadavoca – ‘‘alaṃ, brāhmaṇa , uṭṭhehi, sake āsane nisīda. Yato te mayi cittaṃ pasanna’’nti. Atha kho mānatthaddho brāhmaṇo sake āsane nisīditvā bhagavantaṃ gāthāya ajjhabhāsi –",
+   "zh": "那时，慢心坚固婆罗门心想：“[[gotama|沙门乔达摩]]已知道我的心意。”他便就地以头触世尊的双足，用口亲吻世尊的双足，用手抚摩，并报上自己的名字：“我是慢心坚固，[[gotama|乔达摩尊]]者！我是慢心坚固，[[gotama|乔达摩尊]]者！” 此时，在场的会众心中生起极大的惊奇：“啊，真是稀有！啊，真是不可思议！这位慢心坚固婆罗门，从来不对母亲行礼，不对父亲行礼，不对师长行礼，不对兄长行礼，现在竟然对[[gotama|沙门乔达摩]]行如此最极致的恭敬。” 这时，世尊对慢心坚固婆罗门说：“好了，婆罗门，起来吧，坐到自己的座位上。你对我已生起了净信。” 于是，慢心坚固婆罗门坐到自己的座位上，以偈颂对世尊说："
+  },
+  {
+   "idx": 262,
+   "pali": "‘‘Kesu na mānaṃ kayirātha, kesu cassa sagāravo;",
+   "zh": "“对谁不应生慢？对谁应具恭敬？",
+   "type": "verse"
+  },
+  {
+   "idx": 263,
+   "pali": "Kyassa apacitā assu, kyassu sādhu supūjitā’’ti.",
+   "zh": "应恭敬谁？应善供养谁？”",
+   "type": "verse"
+  },
+  {
+   "idx": 264,
+   "pali": "‘‘Mātari pitari cāpi, atho jeṭṭhamhi bhātari;",
+   "zh": "“于母、于父，于最长之兄长，",
+   "type": "verse"
+  },
+  {
+   "idx": 265,
+   "pali": "Ācariye catutthamhi,",
+   "zh": "老师居第四位——",
+   "type": "verse"
+  },
+  {
+   "idx": 266,
+   "pali": "Tesu na mānaṃ kayirātha;",
+   "zh": "于这些人，不应生起傲慢；",
+   "type": "verse"
+  },
+  {
+   "idx": 267,
+   "pali": "Tesu assa sagāravo,",
+   "zh": "对他们，他应心怀敬意；",
+   "type": "verse"
+  },
+  {
+   "idx": 268,
+   "pali": "Tyassa apacitā assu;",
+   "zh": "对他们，他应予以尊重；",
+   "type": "verse"
+  },
+  {
+   "idx": 269,
+   "pali": "Tyassu sādhu supūjitā.",
+   "zh": "对他们，应作如法的至诚供养。",
+   "type": "verse"
+  },
+  {
+   "idx": 270,
+   "pali": "‘‘Arahante sītībhūte, katakicce anāsave;",
+   "zh": "“阿拉汉们已得清凉，应作已办，无漏；",
+   "type": "verse"
+  },
+  {
+   "idx": 271,
+   "pali": "Nihacca mānaṃ athaddho, te namasse anuttare’’ti.",
+   "zh": "降伏慢心、不再顽固，他礼敬这些无上尊者们。”",
+   "type": "verse"
+  },
+  {
+   "idx": 272,
+   "pali": "Evaṃ vutte, mānatthaddho brāhmaṇo bhagavantaṃ etadavoca – ‘‘abhikkantaṃ, bho gotama…pe… upāsakaṃ maṃ bhavaṃ gotamo dhāretu ajjatagge pāṇupetaṃ saraṇaṃ gata’’nti.",
+   "zh": "听了这话，慢心坚固的婆罗门对世尊说：“真是殊胜啊，[[gotama|乔达摩尊]]者！……请[[gotama|乔达摩尊]]者接受我为近事男，从今日起，尽形寿皈依。”"
+  },
+  {
+   "idx": 371,
+   "pali": "6. Paccanīkasuttaṃ",
+   "zh": "6. [[paccanīkasutta|好诤论者经]]"
+  },
+  {
+   "idx": 274,
+   "pali": "Sāvatthinidānaṃ . Tena kho pana samayena paccanīkasāto nāma brāhmaṇo sāvatthiyaṃ paṭivasati. Atha kho paccanīkasātassa brāhmaṇassa etadahosi – ‘‘yaṃnūnāhaṃ yena samaṇo gotamo tenupasaṅkameyyaṃ. Yaṃ yadeva samaṇo gotamo bhāsissati taṃ tadevassāhaṃ paccanīkāssa’’nti . Tena kho pana samayena bhagavā abbhokāse caṅkamati. Atha kho paccanīkasāto brāhmaṇo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ caṅkamantaṃ etadavoca – ‘bhaṇa samaṇadhamma’nti.",
+   "zh": "[[sāvatthī|舍卫城]]缘起。那时，有一位名为好诤论者的婆罗门住在[[sāvatthī|舍卫城]]。其时，这位好诤论者婆罗门心中思惟：“我何不去见[[gotama|沙门乔达摩]]？无论[[gotama|沙门乔达摩]]说什么，我都反其道而行。”当时，世尊正在露地经行。于是，好诤论者婆罗门来到世尊处，近前对正在经行的世尊这样说：“沙门，请说法吧！”",
+   "n": "202"
+  },
+  {
+   "idx": 275,
+   "pali": "‘‘Na paccanīkasātena, suvijānaṃ subhāsitaṃ;",
+   "zh": "“好诤论者不能轻易理解善说；",
+   "type": "verse"
+  },
+  {
+   "idx": 276,
+   "pali": "Upakkiliṭṭhacittena, sārambhabahulena ca.",
+   "zh": "心被染污、充满敌意之人。",
+   "type": "verse"
+  },
+  {
+   "idx": 277,
+   "pali": "‘‘Yo ca vineyya sārambhaṃ, appasādañca cetaso;",
+   "zh": "“若能调伏敌意，荡除内心不悦，",
+   "type": "verse"
+  },
+  {
+   "idx": 278,
+   "pali": "Āghātaṃ paṭinissajja, sa ve jaññā subhāsita’’nti.",
+   "zh": "舍弃嫌恶、瞋怒、憎恨，即能了知善说。”",
+   "type": "verse"
+  },
+  {
+   "idx": 279,
+   "pali": "Evaṃ vutte, paccanīkasāto brāhmaṇo bhagavantaṃ etadavoca – ‘‘abhikkantaṃ, bho gotama, abhikkantaṃ, bho gotama…pe… upāsakaṃ maṃ bhavaṃ gotamo dhāretu ajjatagge pāṇupetaṃ saraṇaṃ gata’’nti.",
+   "zh": "听了这番话，生性对抗的婆罗门对世尊说：“真是殊胜啊，[[gotama|乔达摩尊]]者！真是殊胜啊，[[gotama|乔达摩尊]]者！……请[[gotama|乔达摩尊]]者接受我为近事男，从今日起，直至此生终了，我都皈依。”"
+  },
+  {
+   "idx": 372,
+   "pali": "7. Navakammikasuttaṃ",
+   "zh": "7. [[navakammikasutta|造屋者经]]"
+  },
+  {
+   "idx": 281,
+   "pali": "Ekaṃ samayaṃ bhagavā kosalesu viharati aññatarasmiṃ vanasaṇḍe . Tena kho pana samayena navakammikabhāradvājo brāhmaṇo tasmiṃ vanasaṇḍe kammantaṃ kārāpeti. Addasā kho navakammikabhāradvājo brāhmaṇo bhagavantaṃ aññatarasmiṃ sālarukkhamūle nisinnaṃ pallaṅkaṃ ābhujitvā ujuṃ kāyaṃ paṇidhāya parimukhaṃ satiṃ upaṭṭhapetvā. Disvānassa etadahosi – ‘‘ahaṃ kho imasmiṃ vanasaṇḍe kammantaṃ kārāpento ramāmi. Ayaṃ samaṇo gotamo kiṃ kārāpento ramatī’’ti? Atha kho navakammikabhāradvājo brāhmaṇo yena bhagavā tenupasaṅkami. Upasaṅkamitvā bhagavantaṃ gāthāya ajjhabhāsi –",
+   "zh": "一时，世尊住于憍萨罗国中的一处林野。那时，造屋者巴拉德瓦迦婆罗门正在那片林野中监工。造屋者巴拉德瓦迦婆罗门看见世尊盘腿端坐在一棵沙罗树下，身体挺直，正念现前。见后，他心想：“我在这林野中监工，甚感快乐。这位沙门[[gotama|乔达摩]]在做什么，也这般快乐呢？”于是，造屋者巴拉德瓦迦婆罗门来到世尊跟前，以偈颂问道：",
+   "n": "203"
+  },
+  {
+   "idx": 282,
+   "pali": "‘‘Ke nu kammantā karīyanti, bhikkhu sālavane tava;",
+   "zh": "“比丘，你在娑罗林中做些什么活计？”",
+   "type": "verse"
+  },
+  {
+   "idx": 283,
+   "pali": "Yadekako araññasmiṃ, ratiṃ vindati gotamo’’ti.",
+   "zh": "[[gotama|乔达摩]]，你独自在林野中，如何寻得喜悦？",
+   "type": "verse"
+  },
+  {
+   "idx": 284,
+   "pali": "‘‘Na me vanasmiṃ karaṇīyamatthi,",
+   "zh": "“我在林中，已无事可为；",
+   "type": "verse"
+  },
+  {
+   "idx": 285,
+   "pali": "Ucchinnamūlaṃ me vanaṃ visūkaṃ;",
+   "zh": "我的爱欲之林已连根斩断，已然枯萎；",
+   "type": "verse"
+  },
+  {
+   "idx": 286,
+   "pali": "Svāhaṃ vane nibbanatho visallo,",
+   "zh": "我于林中，既无爱欲的缠缚，亦无烦恼之箭刺，",
+   "type": "verse"
+  },
+  {
+   "idx": 287,
+   "pali": "Eko rame aratiṃ vippahāyā’’ti.",
+   "zh": "我独享欢愉，舍离了不乐。”",
+   "type": "verse"
+  },
+  {
+   "idx": 288,
+   "pali": "Evaṃ vutte, navakammikabhāradvājo brāhmaṇo bhagavantaṃ etadavoca – ‘‘abhikkantaṃ, bho gotama…pe… upāsakaṃ maṃ bhavaṃ gotamo dhāretu ajjatagge pāṇupetaṃ saraṇaṃ gata’’nti.",
+   "zh": "听世尊这样说后，负责营建的婆罗门巴拉德瓦迦对世尊说：“真是殊胜啊，[[gotama|乔达摩尊]]者！……从今日起尽形寿皈依，愿[[gotama|乔达摩尊]]者摄受我为近事男。”"
+  },
+  {
+   "idx": 373,
+   "pali": "8. Kaṭṭhahārasuttaṃ",
+   "zh": "8. [[kaṭṭhahārasutta|拾薪经]]"
+  },
+  {
+   "idx": 290,
+   "pali": "Ekaṃ samayaṃ bhagavā kosalesu viharati aññatarasmiṃ vanasaṇḍe. Tena kho pana samayena aññatarassa bhāradvājagottassa brāhmaṇassa sambahulā antevāsikā kaṭṭhahārakā māṇavakā yena vanasaṇḍo tenupasaṅkamiṃsu; upasaṅkamitvā addasaṃsu bhagavantaṃ tasmiṃ vanasaṇḍe nisinnaṃ pallaṅkaṃ ābhujitvā ujuṃ kāyaṃ paṇidhāya parimukhaṃ satiṃ upaṭṭhapetvā. Disvāna yena bhāradvājagotto brāhmaṇo tenupasaṅkamiṃsu; upasaṅkamitvā bhāradvājagottaṃ brāhmaṇaṃ etadavocuṃ – ‘‘yagghe, bhavaṃ jāneyyāsi! Asukasmiṃ vanasaṇḍe samaṇo nisinno pallaṅkaṃ ābhujitvā ujuṃ kāyaṃ paṇidhāya parimukhaṃ satiṃ upaṭṭhapetvā’’. Atha kho bhāradvājagotto brāhmaṇo tehi māṇavakehi saddhiṃ yena so vanasaṇḍo tenupasaṅkami. Addasā kho bhagavantaṃ tasmiṃ vanasaṇḍe nisinnaṃ pallaṅkaṃ ābhujitvā ujuṃ kāyaṃ paṇidhāya parimukhaṃ satiṃ upaṭṭhapetvā. Disvāna yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ gāthāya ajjhabhāsi –",
+   "zh": "一时，世尊住于憍萨罗国的一处林野间。那时，巴拉德瓦迦族的婆罗门有许多学生，是一群拾柴的青年，来到那片林野。到后，他们看见世尊在那片林野中结跏趺坐，身体挺直，安住正念于面前。见后，他们便前往巴拉德瓦迦族婆罗门处，到了之后，对巴拉德瓦迦族婆罗门这样说：“尊者，您应当知道！在某处林野中，有一位沙门正结跏趺坐，身体挺直，安住正念于面前。”于是，巴拉德瓦迦族婆罗门便与那些青年一同前往那片林野。他看见世尊在那片林野中结跏趺坐，身体挺直，安住正念于面前。见后，他来到世尊处，以偈颂对世尊说：",
+   "n": "204"
+  },
+  {
+   "idx": 291,
+   "pali": "‘‘Gambhīrarūpe bahubherave vane,",
+   "zh": "“在那幽深可怖、险象环生的森林中，",
+   "type": "verse"
+  },
+  {
+   "idx": 292,
+   "pali": "Suññaṃ araññaṃ vijanaṃ vigāhiya;",
+   "zh": "你进入这空旷无人、寂静幽深的森林；",
+   "type": "verse"
+  },
+  {
+   "idx": 293,
+   "pali": "Aniñjamānena ṭhitena vaggunā,",
+   "zh": "你却安住不动，威仪端严，",
+   "type": "verse"
+  },
+  {
+   "idx": 294,
+   "pali": "Sucārurūpaṃ vata bhikkhu jhāyasi.",
+   "zh": "比丘，你禅修之姿实在端严妙好。",
+   "type": "verse"
+  },
+  {
+   "idx": 295,
+   "pali": "‘‘Na yattha gītaṃ napi yattha vāditaṃ,",
+   "zh": "“那里没有歌声，也没有乐声，",
+   "type": "verse"
+  },
+  {
+   "idx": 296,
+   "pali": "Eko araññe vanavassito muni;",
+   "zh": "一位牟尼独自栖居林野。",
+   "type": "verse"
+  },
+  {
+   "idx": 297,
+   "pali": "Accherarūpaṃ paṭibhāti maṃ idaṃ,",
+   "zh": "这在我看来，真是奇妙，",
+   "type": "verse"
+  },
+  {
+   "idx": 298,
+   "pali": "Yadekako pītimano vane vase.",
+   "zh": "您独自一人，满怀喜悦地安住于林中。",
+   "type": "verse"
+  },
+  {
+   "idx": 299,
+   "pali": "‘‘Maññāmahaṃ lokādhipatisahabyataṃ,",
+   "zh": "“我心想，你所希求的，是与世界之主共住吧。",
+   "type": "verse"
+  },
+  {
+   "idx": 300,
+   "pali": "Ākaṅkhamāno tidivaṃ anuttaraṃ;",
+   "zh": "希求那无上的天界。",
+   "type": "verse"
+  },
+  {
+   "idx": 301,
+   "pali": "Kasmā bhavaṃ vijanamaraññamassito,",
+   "zh": "您为何栖身于这无人林野？",
+   "type": "verse"
+  },
+  {
+   "idx": 302,
+   "pali": "Tapo idha kubbasi brahmapattiyā’’ti.",
+   "zh": "您在此修习苦行，是为了证得梵的境界吗？”",
+   "type": "verse"
+  },
+  {
+   "idx": 303,
+   "pali": "‘‘Yā kāci kaṅkhā abhinandanā vā,",
+   "zh": "“于种种界，常怀种种疑惑与爱乐──",
+   "type": "verse"
+  },
+  {
+   "idx": 304,
+   "pali": "Anekadhātūsu puthū sadāsitā;",
+   "zh": "于种种界，常怀种种执取与爱乐──",
+   "type": "verse"
+  },
+  {
+   "idx": 305,
+   "pali": "Aññāṇamūlappabhavā pajappitā,",
+   "zh": "这些以无明为根所生的渴爱与贪求，",
+   "type": "verse"
+  },
+  {
+   "idx": 306,
+   "pali": "Sabbā mayā byantikatā samūlikā.",
+   "zh": "我已将这一切连根拔除。",
+   "type": "verse"
+  },
+  {
+   "idx": 307,
+   "pali": "‘‘Svāhaṃ akaṅkho asito anūpayo,",
+   "zh": "“这样的我，无有疑惑，不依止，不趋就。",
+   "type": "verse"
+  },
+  {
+   "idx": 308,
+   "pali": "Sabbesu dhammesu visuddhadassano;",
+   "zh": "于一切法，我得清净见。",
+   "type": "verse"
+  },
+  {
+   "idx": 309,
+   "pali": "Pappuyya sambodhimanuttaraṃ sivaṃ,",
+   "zh": "我已证得无上安稳的正觉，",
+   "type": "verse"
+  },
+  {
+   "idx": 310,
+   "pali": "Jhāyāmahaṃ brahma raho visārado’’ti.",
+   "zh": "婆罗门，我在独处中无畏地禅修。”",
+   "type": "verse"
+  },
+  {
+   "idx": 174,
+   "pali": "Evaṃ vutte, bhāradvājagotto brāhmaṇo bhagavantaṃ etadavoca – ‘‘abhikkantaṃ, bho gotama, abhikkantaṃ, bho gotama! Seyyathāpi, bho gotama, nikkujjitaṃ vā ukkujjeyya, paṭicchannaṃ vā vivareyya, mūḷhassa vā maggaṃ ācikkheyya, andhakāre vā telapajjotaṃ dhāreyya – cakkhumanto rūpāni dakkhantīti; evameva bhotā gotamena anekapariyāyena dhammo pakāsito. Esāhaṃ bhavantaṃ gotamaṃ saraṇaṃ gacchāmi dhammañca bhikkhusaṅghañca. Labheyyāhaṃ bhoto gotamassa santike pabbajjaṃ, labheyyaṃ upasampada’’nti.",
+   "zh": "听了这话，婆罗门巴拉德瓦迦对世尊说：“真是殊胜啊，[[gotama|乔达摩尊]]者！真是殊胜啊，[[gotama|乔达摩尊]]者！[[gotama|乔达摩尊]]者，就好像有人把倒下的扶起来，把隐藏的揭开，为迷路的人指明道路，或者在黑暗中举灯，让有眼者得以见色；同样，[[gotama|乔达摩尊]]者以种种方式阐明了法。我皈依[[gotama|乔达摩尊]]者、法与比丘僧团。我愿在[[gotama|乔达摩尊]]者座下出家，受具足戒。”"
+  },
+  {
+   "idx": 374,
+   "pali": "9. Mātuposakasuttaṃ",
+   "zh": "9. [[mātuposakasutta|奉养母亲经]]"
+  },
+  {
+   "idx": 313,
+   "pali": "Sāvatthinidānaṃ. Atha kho mātuposako brāhmaṇo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṃ sammodi. Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho mātuposako brāhmaṇo bhagavantaṃ etadavoca – ‘‘ahañhi, bho gotama, dhammena bhikkhaṃ pariyesāmi, dhammena bhikkhaṃ pariyesitvā mātāpitaro posemi. Kaccāhaṃ, bho gotama, evaṃkārī kiccakārī homī’’ti? ‘‘Taggha tvaṃ, brāhmaṇa, evaṃkārī kiccakārī hosi. Yo kho, brāhmaṇa, dhammena bhikkhaṃ pariyesati, dhammena bhikkhaṃ pariyesitvā mātāpitaro poseti, bahuṃ so puññaṃ pasavatī’’ti.",
+   "zh": "这是发生在[[sāvatthī|舍卫城]]的。\n那时，一位奉养母亲的婆罗门前来拜见世尊。到后，与世尊互相问候，互道亲切的、可忆念的话语后，他在一旁坐下。坐于一旁后，这位婆罗门对世尊说：\n“[[gotama|乔达摩尊]]者，我以如法的方式寻求食物，并以如法所得奉养父母。我这样做，是否尽到了责任？”\n“确实如此，婆罗门！你这样做，就是尽责之人。婆罗门，任何人若以如法的方式寻求食物，并以如法所得奉养父母，便能生起众多福德。”",
+   "n": "205"
+  },
+  {
+   "idx": 314,
+   "pali": "‘‘Yo mātaraṃ pitaraṃ vā, macco dhammena posati;",
+   "zh": "“若人能依法奉养母亲或父亲，",
+   "type": "verse"
+  },
+  {
+   "idx": 315,
+   "pali": "Tāya naṃ pāricariyāya, mātāpitūsu paṇḍitā;",
+   "zh": "因如此奉养父母，智者",
+   "type": "verse"
+  },
+  {
+   "idx": 316,
+   "pali": "Idheva naṃ pasaṃsanti, pecca sagge pamodatī’’ti.",
+   "zh": "于此世间即为人所称叹，命终之后在天界欢喜。”",
+   "type": "verse"
+  },
+  {
+   "idx": 317,
+   "pali": "Evaṃ vutte, mātuposako brāhmaṇo bhagavantaṃ etadavoca – ‘‘abhikkantaṃ bho gotama, abhikkantaṃ, bho gotama…pe… upāsakaṃ maṃ bhavaṃ gotamo dhāretu ajjatagge pāṇupetaṃ saraṇaṃ gata’’nti.",
+   "zh": "听了这话，孝养母亲的婆罗门对世尊这样说：“真是殊胜啊，[[gotama|乔达摩尊]]者！真是殊胜啊，[[gotama|乔达摩尊]]者！……请[[gotama|乔达摩尊]]者接纳我为近事男，从今日起，尽形寿皈依！”"
+  },
+  {
+   "idx": 375,
+   "pali": "10. Bhikkhakasuttaṃ",
+   "zh": "10. [[bhikkhakasutta|乞食经]]"
+  },
+  {
+   "idx": 319,
+   "pali": "Sāvatthinidānaṃ. Atha kho bhikkhako brāhmaṇo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṃ sammodi. Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho bhikkhako brāhmaṇo bhagavantaṃ etadavoca – ‘‘ahampi kho, bho gotama, bhikkhako, bhavampi bhikkhako, idha no kiṃ nānākaraṇa’’nti?",
+   "zh": "[[sāvatthī|舍卫城]]缘起。那时，乞食婆罗门来到世尊面前。彼此问候、亲切寒暄之后，便坐在一旁。坐定后，乞食婆罗门对世尊这样说：“[[gotama|乔达摩]]尊者，我也是乞食者，您也是乞食者。我们之间有什么差别呢？”",
+   "n": "206"
+  },
+  {
+   "idx": 320,
+   "pali": "‘‘Na tena bhikkhako hoti, yāvatā bhikkhate pare;",
+   "zh": "“并非仅仅因为向他人乞食，便可称为乞食者。",
+   "type": "verse"
+  },
+  {
+   "idx": 376,
+   "pali": "Vissaṃ dhammaṃ samādāya, bhikkhu hoti na tāvatā.",
+   "zh": "接受了不正之法，并不因此就是比丘。",
+   "type": "verse"
+  },
+  {
+   "idx": 322,
+   "pali": "‘‘Yodha puññañca pāpañca, bāhitvā brahmacariyaṃ;",
+   "zh": "“他于此舍断福德与罪恶，过着清净梵行，",
+   "type": "verse"
+  },
+  {
+   "idx": 323,
+   "pali": "Saṅkhāya loke carati, sa ve bhikkhūti vuccatī’’ti.",
+   "zh": "了知世间而游行，他才堪称为比丘。”",
+   "type": "verse"
+  },
+  {
+   "idx": 324,
+   "pali": "Evaṃ vutte, bhikkhako brāhmaṇo bhagavantaṃ etadavoca – ‘‘abhikkantaṃ, bho gotama, abhikkantaṃ, bho gotama…pe… upāsakaṃ maṃ bhavaṃ gotamo dhāretu ajjatagge pāṇupetaṃ saraṇaṃ gata’’nti.",
+   "zh": "听了这话，乞食婆罗门对世尊说：“真是殊胜啊，[[gotama|乔达摩尊]]者！真是殊胜啊，[[gotama|乔达摩尊]]者！……请[[gotama|乔达摩尊]]者纳我为近事男，从今日起，尽形寿皈依！”"
+  },
+  {
+   "idx": 377,
+   "pali": "11. Saṅgāravasuttaṃ",
+   "zh": "11. [[saṅgāravasutta|伤歌逻经]]"
+  },
+  {
+   "idx": 326,
+   "pali": "Sāvatthinidānaṃ. Tena kho pana samayena saṅgāravo nāma brāhmaṇo sāvatthiyaṃ paṭivasati udakasuddhiko, udakena parisuddhiṃ pacceti, sāyaṃ pātaṃ udakorohanānuyogamanuyutto viharati. Atha kho āyasmā ānando pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya sāvatthiṃ piṇḍāya pāvisi. Sāvatthiyaṃ piṇḍāya caritvā pacchābhattaṃ piṇḍapātapaṭikkanto yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho āyasmā ānando bhagavantaṃ etadavoca – ‘‘idha, bhante, saṅgāravo nāma brāhmaṇo sāvatthiyaṃ paṭivasati udakasuddhiko , udakena suddhiṃ pacceti, sāyaṃ pātaṃ udakorohanānuyogamanuyutto viharati. Sādhu, bhante, bhagavā yena saṅgāravassa brāhmaṇassa nivesanaṃ tenupasaṅkamatu anukampaṃ upādāyā’’ti. Adhivāsesi bhagavā tuṇhībhāvena.",
+   "zh": "[[sāvatthī|舍卫城]]因缘。那时，有一位名叫伤歌逻的婆罗门住在[[sāvatthī|舍卫城]]，他信奉水能清净，认为通过水便能获得净化，日夜精勤于入水沐浴。那时，尊者[[ānanda|阿难]]于午前时分着衣持钵，进入[[sāvatthī|舍卫城]]托钵。在[[sāvatthī|舍卫城]]托钵乞食后，用过斋饭，托钵归来，便前往世尊那里。到达后，向世尊行礼，坐在一旁。坐在一旁的尊者[[ānanda|阿难]]对世尊说：“尊者，这里有一位名叫伤歌逻的婆罗门住在[[sāvatthī|舍卫城]]，信奉水能清净，认为通过水便能获得净化，日夜精勤于入水沐浴。善哉，尊者！惟愿世尊出于哀悯，前往伤歌逻婆罗门的住处。”世尊默然同意。",
+   "n": "207"
+  },
+  {
+   "idx": 327,
+   "pali": "Atha kho bhagavā pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya yena saṅgāravassa brāhmaṇassa nivesanaṃ tenupasaṅkami ; upasaṅkamitvā paññatte āsane nisīdi. Atha kho saṅgāravo brāhmaṇo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṃ sammodi. Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdi. Ekamantaṃ nisinnaṃ kho saṅgāravaṃ brāhmaṇaṃ bhagavā etadavoca – ‘‘saccaṃ kira tvaṃ, brāhmaṇa, udakasuddhiko, udakena suddhiṃ paccesi, sāyaṃ pātaṃ udakorohanānuyogamanuyutto viharasī’’ti? ‘‘Evaṃ, bho gotama’’. ‘‘Kiṃ pana tvaṃ, brāhmaṇa, atthavasaṃ sampassamāno udakasuddhiko, udakasuddhiṃ paccesi, sāyaṃ pātaṃ udakorohanānuyogamanuyutto viharasī’’ti? ‘‘Idha me, bho gotama , yaṃ divā pāpakammaṃ kataṃ hoti, taṃ sāyaṃ nhānena pavāhemi, yaṃ rattiṃ pāpakammaṃ kataṃ hoti taṃ pātaṃ nhānena pavāhemi. Imaṃ khvāhaṃ, bho gotama, atthavasaṃ sampassamāno udakasuddhiko, udakena suddhiṃ paccemi, sāyaṃ pātaṃ udakorohanānuyogamanuyutto viharāmī’’ti.",
+   "zh": "世尊于清晨时分，着下衣，持钵与上衣，前往伤歌逻婆罗门的住处；到达后，在已铺好的座位上坐下。那时，伤歌逻婆罗门来到世尊跟前，与世尊互相问候。互致亲切欢喜、令人忆念的交谈后，他坐在一旁。世尊对坐在一旁的伤歌逻婆罗门说：“婆罗门，听说你崇尚以水为净，相信水能净化，早晚勤于入水沐浴，是这样吗？”“是的，[[gotama|乔达摩]]大师。”“婆罗门，你是见到了什么利益，而崇尚以水为净，相信水能净化，早晚勤于入水沐浴呢？”“[[gotama|乔达摩]]大师，我白天所造的恶业，晚间沐浴时冲去；夜晚所造的恶业，清晨沐浴时冲去。[[gotama|乔达摩]]大师，我见到这样的利益，所以崇尚以水为净，相信水能净化，早晚勤行沐浴。”"
+  },
+  {
+   "idx": 378,
+   "pali": "‘‘Dhammo rahado brāhmaṇa sīlatittho,",
+   "zh": "“婆罗门，法为湖，戒为渡口；",
+   "type": "verse"
+  },
+  {
+   "idx": 329,
+   "pali": "Anāvilo sabbhi sataṃ pasattho;",
+   "zh": "它澄净无浊，为善士所称扬；",
+   "type": "verse"
+  },
+  {
+   "idx": 330,
+   "pali": "Yattha have vedaguno sinātā,",
+   "zh": "在那里，通达智慧者沐浴其中，",
+   "type": "verse"
+  },
+  {
+   "idx": 331,
+   "pali": "Anallagattāva taranti pāra’’nti.",
+   "zh": "他们犹如身不沾水，渡至彼岸。”",
+   "type": "verse"
+  },
+  {
+   "idx": 332,
+   "pali": "Evaṃ vutte, saṅgāravo brāhmaṇo bhagavantaṃ etadavoca – ‘‘abhikkantaṃ, bho gotama, abhikkantaṃ, bho gotama…pe… upāsakaṃ maṃ bhavaṃ gotamo dhāretu ajjatagge pāṇupetaṃ saraṇaṃ gata’’nti.",
+   "zh": "如此说已，伤歌逻婆罗门对世尊这样说：“真是殊胜啊，[[gotama|乔达摩尊]]者！真是殊胜啊，[[gotama|乔达摩尊]]者！……愿[[gotama|乔达摩尊]]者纳受我为近事男，从今日起，尽形寿皈依。”"
+  },
+  {
+   "idx": 379,
+   "pali": "12. Khomadussasuttaṃ",
+   "zh": "12. [[khomadussasutta|麻布经]]"
+  },
+  {
+   "idx": 334,
+   "pali": "Evaṃ me sutaṃ – ekaṃ samayaṃ bhagavā sakkesu viharati khomadussaṃ nāmaṃ sakyānaṃ nigamo. Atha kho bhagavā pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya khomadussaṃ nigamaṃ piṇḍāya pāvisi. Tena kho pana samayena khomadussakā brāhmaṇagahapatikā sabhāyaṃ sannipatitā honti kenacideva karaṇīyena, devo ca ekamekaṃ phusāyati. Atha kho bhagavā yena sā sabhā tenupasaṅkami. Addasaṃsu khomadussakā brāhmaṇagahapatikā bhagavantaṃ dūratova āgacchantaṃ. Disvāna etadavocuṃ – ‘‘ke ca muṇḍakā samaṇakā, ke ca sabhādhammaṃ jānissantī’’ti? Atha kho bhagavā khomadussake brāhmaṇagahapatike gāthāya ajjhabhāsi –",
+   "zh": "如是我闻：一时，世尊住在释迦族中一个名为寇玛杜萨的释迦族城镇。那时，世尊于午前穿好下衣，持钵与衣，进入寇玛杜萨城镇行乞。其时，寇玛杜萨的婆罗门和居士们正因某事聚集在会堂，天空飘着零星细雨。于是，世尊便前往那处会堂。寇玛杜萨的婆罗门和居士们远远望见世尊走来，见后便说：“这些秃头沙门算得了什么，他们哪里懂得集会之事？”于是，世尊以偈颂对寇玛杜萨的婆罗门和居士们说道：",
+   "n": "208"
+  },
+  {
+   "idx": 335,
+   "pali": "‘‘Nesā sabhā yattha na santi santo,",
+   "zh": "“没有圣者在其中，便不是集会；",
+   "type": "verse"
+  },
+  {
+   "idx": 336,
+   "pali": "Santo na te ye na vadanti dhammaṃ;",
+   "zh": "善人并非那些不宣说正法者；",
+   "type": "verse"
+  },
+  {
+   "idx": 337,
+   "pali": "Rāgañca dosañca pahāya mohaṃ,",
+   "zh": "已断除贪、嗔、痴，",
+   "type": "verse"
+  },
+  {
+   "idx": 338,
+   "pali": "Dhammaṃ vadantā ca bhavanti santo’’ti.",
+   "zh": "宣说正法者，方为善人。”",
+   "type": "verse"
+  },
+  {
+   "idx": 339,
+   "pali": "Evaṃ vutte, khomadussakā brāhmaṇagahapatikā bhagavantaṃ etadavocuṃ – ‘‘abhikkantaṃ, bho gotama, abhikkantaṃ, bho gotama; seyyathāpi, bho gotama, nikkujjitaṃ vā ukkujjeyya, paṭicchannaṃ vā vivareyya, mūḷhassa vā maggaṃ ācikkheyya, andhakāre vā telapajjotaṃ dhāreyya – cakkhumanto rūpāni dakkhantīti, evamevaṃ bhotā gotamena anekapariyāyena dhammo pakāsito. Ete mayaṃ bhavantaṃ gotamaṃ saraṇaṃ gacchāma dhammañca bhikkhusaṅghañca. Upāsake no bhavaṃ gotamo dhāretu ajjatagge pāṇupete saraṇaṃ gate’’ti.",
+   "zh": "如此说时，寇玛杜萨的婆罗门在家众对世尊说：“真是殊胜啊，[[gotama|乔达摩尊]]者！真是殊胜啊，[[gotama|乔达摩尊]]者！[[gotama|乔达摩尊]]者，就好像有人把倒下的扶起来，把隐藏的揭开，为迷路的人指明道路，在黑暗中举起油灯，让有眼者能看见诸色——同样地，[[gotama|乔达摩尊]]者以种种方式阐明了法。我们皈依[[gotama|乔达摩尊]]者、法及比丘僧团。愿[[gotama|乔达摩尊]]者纳受我们为在家弟子，从今日起直至命终，我们已作皈依。”"
+  },
+  {
+   "idx": 380,
+   "pali": "Upāsakavaggo dutiyo.",
+   "zh": "近事男品第二"
+  },
+  {
+   "idx": 381,
+   "pali": "Tassuddānaṃ –",
+   "zh": "其摄颂："
+  },
+  {
+   "idx": 342,
+   "pali": "Kasi udayo devahito, aññataramahāsālaṃ;",
+   "zh": "耕田者、优陀耶、提婆希多、某位大富长者；",
+   "type": "verse"
+  },
+  {
+   "idx": 343,
+   "pali": "Mānathaddhaṃ paccanīkaṃ, navakammikakaṭṭhahāraṃ;",
+   "zh": "慢坚（经）、敌对者（经），及营建者、拾薪（经）。",
+   "type": "verse"
+  },
+  {
+   "idx": 344,
+   "pali": "Mātuposakaṃ bhikkhako, saṅgāravo ca khomadussena dvādasāti.",
+   "zh": "养母者、乞食者，以及伤歌逻与寇玛杜萨两位婆罗门——总计十二位。",
+   "type": "verse"
+  },
+  {
+   "idx": 382,
+   "pali": "Brāhmaṇasaṃyuttaṃ samattaṃ.",
+   "zh": "《婆罗门相应》终"
+  }
+ ]
+}

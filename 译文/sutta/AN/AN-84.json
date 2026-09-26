@@ -1,0 +1,177 @@
+{
+ "uid": 84,
+ "title": "1. 杀生者经",
+ "nik": "AN",
+ "segs": [
+  {
+   "idx": 0,
+   "pali": "(27) 7. Kammapathavaggo",
+   "zh": "（27） 7. 业道品"
+  },
+  {
+   "idx": 1,
+   "pali": "1. Pāṇātipātīsuttaṃ",
+   "zh": "1. [[pāṇātipātīsutta|杀生者经]]"
+  },
+  {
+   "idx": 2,
+   "pali": "‘‘Catūhi , bhikkhave, dhammehi samannāgato yathābhataṃ nikkhitto evaṃ niraye. Katamehi catūhi? Attanā ca pāṇātipātī hoti, parañca pāṇātipāte samādapeti, pāṇātipāte ca samanuñño hoti, pāṇātipātassa ca vaṇṇaṃ bhāsati – imehi kho, bhikkhave, catūhi dhammehi samannāgato yathābhataṃ nikkhitto evaṃ niraye.",
+   "zh": "“诸比丘，具足四法者，犹如被带来投入地狱一般。哪四种？自己行杀生，又劝导他人杀生，于杀生随喜，并赞叹杀生——诸比丘，具足此四法者，犹如被带来投入地狱一般。”",
+   "n": "264"
+  },
+  {
+   "idx": 3,
+   "pali": "‘‘Catūhi, bhikkhave, dhammehi samannāgato yathābhataṃ nikkhitto evaṃ sagge. Katamehi catūhi? Attanā ca pāṇātipātā paṭivirato hoti, parañca pāṇātipātā veramaṇiyā samādapeti, pāṇātipātā veramaṇiyā ca samanuñño hoti, pāṇātipātā veramaṇiyā ca vaṇṇaṃ bhāsati – imehi kho, bhikkhave, catūhi dhammehi samannāgato yathābhataṃ nikkhitto evaṃ sagge’’ti. Paṭhamaṃ.",
+   "zh": "“诸比丘，具足四法者，犹如被运来安置于天界一般。哪四种？自己远离杀生，也劝导他人远离杀生，于远离杀生随喜，并赞叹远离杀生——诸比丘，具足此四法者，犹如被运来安置于天界一般。”第一。"
+  },
+  {
+   "idx": 4,
+   "pali": "2. Adinnādāyīsuttaṃ",
+   "zh": "2. [[adinnādāyīsutta|不与取者经]]"
+  },
+  {
+   "idx": 5,
+   "pali": "‘‘Catūhi, bhikkhave, dhammehi samannāgato yathābhataṃ nikkhitto evaṃ niraye. Katamehi catūhi? Attanā ca adinnādāyī hoti, parañca adinnādāne samādapeti, adinnādāne ca samanuñño hoti, adinnādānassa ca vaṇṇaṃ bhāsati – imehi kho…pe….",
+   "zh": "“诸比丘，具足四法者，犹如被带来弃掷于地狱之中。哪四种？自己不与取，劝他人不与取，赞同不与取，赞叹不与取——具足这四种法者，即如被带来弃掷于地狱之中。”",
+   "n": "265"
+  },
+  {
+   "idx": 6,
+   "pali": "‘‘Attanā ca adinnādānā paṭivirato hoti, parañca adinnādānā veramaṇiyā samādapeti, adinnādānā veramaṇiyā ca samanuñño hoti, adinnādānā veramaṇiyā ca vaṇṇaṃ bhāsati – imehi kho, bhikkhave…pe…. Dutiyaṃ.",
+   "zh": "“自己远离不与取，亦劝导他人远离不与取，赞同远离不与取，赞叹远离不与取——诸比丘，具足这些法者……” 第二。"
+  },
+  {
+   "idx": 7,
+   "pali": "3. Micchācārīsuttaṃ",
+   "zh": "3. [[micchācārīsutta|邪行者经]]"
+  },
+  {
+   "idx": 8,
+   "pali": "… Attanā ca kāmesumicchācārī hoti, parañca kāmesumicchācāre samādapeti, kāmesumicchācāre ca samanuñño hoti, kāmesumicchācārassa ca vaṇṇaṃ bhāsati – imehi kho…pe….",
+   "zh": "自己行欲邪行，劝他人行欲邪行，赞同欲邪行，赞叹欲邪行——以此……",
+   "n": "266"
+  },
+  {
+   "idx": 9,
+   "pali": "Attanā ca kāmesumicchācārā paṭivirato hoti, parañca kāmesumicchācārā veramaṇiyā samādapeti, kāmesumicchācārā veramaṇiyā ca samanuñño hoti, kāmesumicchācārā veramaṇiyā ca vaṇṇaṃ bhāsati – imehi kho…pe…. Tatiyaṃ.",
+   "zh": "自己远离欲邪行，亦劝导他人远离欲邪行，赞同远离欲邪行，赞叹远离欲邪行——以这些……第三。"
+  },
+  {
+   "idx": 10,
+   "pali": "4. Musāvādīsuttaṃ",
+   "zh": "4. [[musāvādīsutta|妄语者经]]"
+  },
+  {
+   "idx": 11,
+   "pali": "… Attanā ca musāvādī hoti, parañca musāvāde samādapeti, musāvāde ca samanuñño hoti, musāvādassa ca vaṇṇaṃ bhāsati – imehi kho…pe….",
+   "zh": "他不仅自己妄语，还教他人妄语，赞同妄语，并称赞妄语——以此……",
+   "n": "267"
+  },
+  {
+   "idx": 12,
+   "pali": "Attanā ca musāvādā paṭivirato hoti, parañca musāvādā veramaṇiyā samādapeti, musāvādā veramaṇiyā ca samanuñño hoti, musāvādā veramaṇiyā ca vaṇṇaṃ bhāsati – imehi…pe…. Catutthaṃ.",
+   "zh": "他自己远离妄语，也劝他人远离妄语，赞同远离妄语，并称赞远离妄语——以此……第四。"
+  },
+  {
+   "idx": 13,
+   "pali": "5. Pisuṇavācāsuttaṃ",
+   "zh": "5. [[pisuṇavācāsutta|两舌经]]"
+  },
+  {
+   "idx": 14,
+   "pali": "… Attanā ca pisuṇavāco hoti, parañca pisuṇāya vācāya samādapeti, pisuṇāya vācāya ca samanuñño hoti, pisuṇāya vācāya ca vaṇṇaṃ bhāsati – imehi…pe….",
+   "zh": "自己两舌，也劝导他人两舌，随喜两舌，赞叹两舌……",
+   "n": "268"
+  },
+  {
+   "idx": 15,
+   "pali": "Attanā ca pisuṇāya vācāya paṭivirato hoti, parañca pisuṇāya vācāya veramaṇiyā samādapeti, pisuṇāya vācāya veramaṇiyā ca samanuñño hoti, pisuṇāya vācāya veramaṇiyā ca vaṇṇaṃ bhāsati – imehi…pe…. Pañcamaṃ.",
+   "zh": "自己远离两舌，亦劝导他人远离两舌，赞同远离两舌，赞叹远离两舌。第五。"
+  },
+  {
+   "idx": 16,
+   "pali": "6. Pharusavācāsuttaṃ",
+   "zh": "6. [[pharusavācāsutta|粗恶语经]]"
+  },
+  {
+   "idx": 17,
+   "pali": "… Attanā ca pharusavāco hoti, parañca pharusāya vācāya samādapeti, pharusāya vācāya ca samanuñño hoti, pharusāya vācāya ca vaṇṇaṃ bhāsati…pe….",
+   "zh": "……他自己说粗恶语，也劝导他人说粗恶语，随喜粗恶语，赞叹粗恶语……",
+   "n": "269"
+  },
+  {
+   "idx": 18,
+   "pali": "Attanā ca pharusāya vācāya paṭivirato hoti, parañca pharusāya vācāya veramaṇiyā samādapeti, pharusāya vācāya veramaṇiyā ca samanuñño hoti, pharusāya vācāya veramaṇiyā ca vaṇṇaṃ bhāsati – imehi kho…pe…. Chaṭṭhaṃ.",
+   "zh": "他自己远离粗恶语，也劝导他人远离粗恶语，随喜远离粗恶语，赞叹远离粗恶语——以这些……第六。"
+  },
+  {
+   "idx": 19,
+   "pali": "7. Samphappalāpasuttaṃ",
+   "zh": "7. [[samphappalāpasutta|杂秽语经]]"
+  },
+  {
+   "idx": 20,
+   "pali": "… Attanā ca samphappalāpī hoti, parañca samphappalāpe samādapeti, samphappalāpe ca samanuñño hoti, samphappalāpassa ca vaṇṇaṃ bhāsati – imehi…pe….",
+   "zh": "自己说绮语，也劝导他人说绮语，随喜说绮语，称扬赞叹绮语——以此……",
+   "n": "270"
+  },
+  {
+   "idx": 21,
+   "pali": "Attanā ca samphappalāpā paṭivirato hoti, parañca samphappalāpā veramaṇiyā samādapeti, samphappalāpā veramaṇiyā ca samanuñño hoti, samphappalāpā veramaṇiyā ca vaṇṇaṃ bhāsati – imehi kho, bhikkhave…pe…. Sattamaṃ.",
+   "zh": "自己远离绮语，也劝导他人远离绮语，赞同远离绮语，称扬赞叹远离绮语——诸比丘，以此……第七。"
+  },
+  {
+   "idx": 22,
+   "pali": "8. Abhijjhālusuttaṃ",
+   "zh": "8. [[abhijjhālusutta|贪欲者经]]"
+  },
+  {
+   "idx": 23,
+   "pali": "… Attanā ca abhijjhālu hoti, parañca abhijjhāya samādapeti, abhijjhāya ca samanuñño hoti, abhijjhāya ca vaṇṇaṃ bhāsati…pe….",
+   "zh": "自己心怀贪婪，也教人贪婪，随喜贪婪，赞叹贪婪……",
+   "n": "271"
+  },
+  {
+   "idx": 24,
+   "pali": "‘‘Attanā ca anabhijjhālu hoti, parañca anabhijjhāya samādapeti, anabhijjhāya ca samanuñño hoti, anabhijjhāya ca vaṇṇaṃ bhāsati – imehi kho…pe…. Aṭṭhamaṃ.",
+   "zh": "“自己心离贪婪，也教人不贪婪，随喜不贪婪，赞叹不贪婪——以这些……”第八。"
+  },
+  {
+   "idx": 25,
+   "pali": "9. Byāpannacittasuttaṃ",
+   "zh": "9. [[byāpannacittasutta|心嗔害者经]]"
+  },
+  {
+   "idx": 26,
+   "pali": "… Attanā ca byāpannacitto hoti, parañca byāpāde samādapeti, byāpāde ca samanuñño hoti, byāpādassa ca vaṇṇaṃ bhāsati – imehi…pe….",
+   "zh": "自己心怀瞋恨，也劝导他人瞋恨，赞同瞋恨，又赞叹瞋恨——以这些……",
+   "n": "272"
+  },
+  {
+   "idx": 27,
+   "pali": "Attanā ca abyāpannacitto hoti, parañca abyāpāde samādapeti, abyāpāde ca samanuñño hoti, abyāpādassa ca vaṇṇaṃ bhāsati – imehi kho…pe…. Navamaṃ.",
+   "zh": "自己心无瞋恨，也劝导他人无瞋恨，赞同无瞋恨，又赞叹无瞋恨——以这些……第九。"
+  },
+  {
+   "idx": 28,
+   "pali": "10. Micchādiṭṭhisuttaṃ",
+   "zh": "10. [[micchādiṭṭhisutta|邪见经]]"
+  },
+  {
+   "idx": 29,
+   "pali": "… Attanā ca micchādiṭṭhiko hoti, parañca micchādiṭṭhiyā samādapeti, micchādiṭṭhiyā ca samanuñño hoti, micchādiṭṭhiyā ca vaṇṇaṃ bhāsati – imehi…pe….",
+   "zh": "自己执持邪见，也劝导他人执持邪见，赞同邪见，又称赞邪见——以这些……",
+   "n": "273"
+  },
+  {
+   "idx": 30,
+   "pali": "Attanā ca sammādiṭṭhiko hoti, parañca sammādiṭṭhiyā samādapeti, sammādiṭṭhiyā ca samanuñño hoti, sammādiṭṭhiyā ca vaṇṇaṃ bhāsati – imehi kho, bhikkhave, catūhi dhammehi samannāgato yathābhataṃ nikkhitto evaṃ saggeti. Dasamaṃ.",
+   "zh": "自身具足正见，又能劝导他人确立正见，随喜正见，并赞叹正见——诸比丘，具足此四法者，犹如被携来而安置于天界。第十。"
+  },
+  {
+   "idx": 31,
+   "pali": "Kammapathavaggo sattamo.",
+   "zh": "第七 业道品"
+  }
+ ]
+}

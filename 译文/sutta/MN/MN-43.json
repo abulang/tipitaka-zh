@@ -1,0 +1,418 @@
+{
+ "uid": 43,
+ "title": "大韦达喇经",
+ "nik": "MN",
+ "segs": [
+  {
+   "idx": 64,
+   "pali": "Evaṃ me sutaṃ – ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Atha kho āyasmā mahākoṭṭhiko sāyanhasamayaṃ paṭisallānā vuṭṭhito yenāyasmā sāriputto tenupasaṅkami; upasaṅkamitvā āyasmatā sāriputtena saddhiṃ sammodi. Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho āyasmā mahākoṭṭhiko āyasmantaṃ sāriputtaṃ etadavoca –",
+   "zh": "如是我闻：一时，世尊住在[[sāvatthī|舍卫城]]的祇树[[Anāthapiṇḍika|给孤独]]园。那时，具寿[[mahākoṭṭhika|大拘絺罗]]于傍晚时分，从禅坐中起来，前往具寿舍利弗处。到了之后，与具寿舍利弗互相问候，亲切交谈已毕，便退坐一面。退坐一面后，具寿[[mahākoṭṭhika|大拘絺罗]]这样问具寿舍利弗：",
+   "n": "449"
+  },
+  {
+   "idx": 65,
+   "pali": "‘‘‘Duppañño duppañño’ti, āvuso, vuccati. Kittāvatā nu kho, āvuso, duppaññoti vuccatī’’ti?",
+   "zh": "“贤友，人们常说‘劣慧者、劣慧者’。贤友，究竟怎样才被称为劣慧者呢？”"
+  },
+  {
+   "idx": 66,
+   "pali": "‘‘‘Nappajānāti nappajānātī’ti kho, āvuso, tasmā duppaññoti vuccati.",
+   "zh": "“贤友，因为‘他不了知、他不了知’，所以称为劣慧者。”"
+  },
+  {
+   "idx": 67,
+   "pali": "‘‘Kiñca nappajānāti? ‘Idaṃ dukkha’nti nappajānāti, ‘ayaṃ dukkhasamudayo’ti nappajānāti, ‘ayaṃ dukkhanirodho’ti nappajānāti, ‘ayaṃ dukkhanirodhagāminī paṭipadā’ti nappajānāti. ‘Nappajānāti nappajānātī’ti kho, āvuso, tasmā duppaññoti vuccatī’’ti.",
+   "zh": "“他不了知的是什么呢？他不了知“此是苦”，不了知“此是苦集”，不了知“此是苦灭”，不了知“此是趣向苦灭之道”。贤友，正因为“他不了知、他不了知”，才被称为劣慧者。”"
+  },
+  {
+   "idx": 68,
+   "pali": "‘‘‘Sādhāvuso’ti kho āyasmā mahākoṭṭhiko āyasmato sāriputtassa bhāsitaṃ abhinanditvā anumoditvā āyasmantaṃ sāriputtaṃ uttariṃ pañhaṃ apucchi –",
+   "zh": "“善哉，贤友！”具寿[[mahākoṭṭhika|大拘絺罗]]对具寿[[Sāriputta|舍利弗]]的解说心生欢喜，深表赞同，接着又问了一个更深入的问题："
+  },
+  {
+   "idx": 69,
+   "pali": "‘‘‘Paññavā paññavā’ti, āvuso, vuccati. Kittāvatā nu kho, āvuso, paññavāti vuccatī’’ti?",
+   "zh": "“贤友，人们常称‘有慧者、有慧者’。那么，要怎样才可称为有慧者呢？”"
+  },
+  {
+   "idx": 70,
+   "pali": "‘‘‘Pajānāti pajānātī’ti kho, āvuso, tasmā paññavāti vuccati.",
+   "zh": "“他了知、他了知”，贤友，正因为如此，才称他为有慧者。"
+  },
+  {
+   "idx": 71,
+   "pali": "‘‘Kiñca pajānāti? ‘Idaṃ dukkha’nti pajānāti, ‘ayaṃ dukkhasamudayo’ti pajānāti, ‘ayaṃ dukkhanirodho’ti pajānāti, ‘ayaṃ dukkhanirodhagāminī paṭipadā’ti pajānāti. ‘Pajānāti pajānātī’ti kho, āvuso, tasmā paññavāti vuccatī’’ti.",
+   "zh": "“他了知什么呢？他了知“这是苦”，他了知“这是苦的集起”，他了知“这是苦的灭尽”，他了知“这是通往苦灭之道”。“他了知、他了知”，贤友，正因为如此，才称他为有慧者。”"
+  },
+  {
+   "idx": 72,
+   "pali": "‘‘‘Viññāṇaṃ viññāṇa’nti, āvuso, vuccati. Kittāvatā nu kho, āvuso, viññāṇanti vuccatī’’ti?",
+   "zh": "“贤友，人们说“识、识”。贤友，怎样才称为“识”呢？”"
+  },
+  {
+   "idx": 73,
+   "pali": "‘‘‘Vijānāti vijānātī’ti kho, āvuso, tasmā viññāṇanti vuccati.",
+   "zh": "“它能了知，它能了知”，朋友，正因如此，才称为识。"
+  },
+  {
+   "idx": 74,
+   "pali": "‘‘Kiñca vijānāti? Sukhantipi vijānāti, dukkhantipi vijānāti, adukkhamasukhantipi vijānāti. ‘Vijānāti vijānātī’ti kho, āvuso, tasmā viññāṇanti vuccatī’’ti.",
+   "zh": "“它了知什么呢？它了知乐，也了知苦，也了知不苦不乐。“它能了知，它能了知”，朋友，正因如此，才称为识。”"
+  },
+  {
+   "idx": 75,
+   "pali": "‘‘Yā cāvuso, paññā yañca viññāṇaṃ – ime dhammā saṃsaṭṭhā udāhu visaṃsaṭṭhā? Labbhā ca panimesaṃ dhammānaṃ vinibbhujitvā vinibbhujitvā nānākaraṇaṃ paññāpetu’’nti? ‘‘Yā cāvuso, paññā yañca viññāṇaṃ – ime dhammā saṃsaṭṭhā, no visaṃsaṭṭhā. Na ca labbhā imesaṃ dhammānaṃ vinibbhujitvā vinibbhujitvā nānākaraṇaṃ paññāpetuṃ. Yaṃ hāvuso , pajānāti taṃ vijānāti, yaṃ vijānāti taṃ pajānāti. Tasmā ime dhammā saṃsaṭṭhā, no visaṃsaṭṭhā. Na ca labbhā imesaṃ dhammānaṃ vinibbhujitvā vinibbhujitvā nānākaraṇaṃ paññāpetu’’nti.",
+   "zh": "“朋友，慧与识——这些法是相杂的，还是不相杂的？又能否将它们一一离析，而显示其间的差别？”“朋友，慧与识——这些法是相杂的，并非不相杂。而且，不可能将它们一一离析，而显示其间的差别。朋友，因为所了知的，正是所识知的；所识知的，正是所了知的。因此，这些法是相杂的，并非不相杂，不可能一一离析而显示其间的差别。”"
+  },
+  {
+   "idx": 76,
+   "pali": "‘‘Yā cāvuso, paññā yañca viññāṇaṃ – imesaṃ dhammānaṃ saṃsaṭṭhānaṃ no visaṃsaṭṭhānaṃ kiṃ nānākaraṇa’’nti? ‘‘Yā cāvuso, paññā yañca viññāṇaṃ – imesaṃ dhammānaṃ saṃsaṭṭhānaṃ no visaṃsaṭṭhānaṃ paññā bhāvetabbā, viññāṇaṃ pariññeyyaṃ. Idaṃ nesaṃ nānākaraṇa’’nti.",
+   "zh": "“贤友，慧与识——这两法彼此交融而非分离。它们的差别何在？” “贤友，慧与识——这两法混然相合，未尝分离。其中，慧是应当修习的，识是应当遍知的。这就是它们的差别。”"
+  },
+  {
+   "idx": 77,
+   "pali": "‘‘‘Vedanā vedanā’ti, āvuso, vuccati. Kittāvatā nu kho, āvuso , vedanāti vuccatī’’ti?",
+   "zh": "“贤友，人们常说‘受、受’。那么，究竟在什么意义上，它被称为‘受’呢？”",
+   "n": "450"
+  },
+  {
+   "idx": 78,
+   "pali": "‘‘‘Vedeti vedetī’ti kho, āvuso, tasmā vedanāti vuccati.",
+   "zh": "“贤友，正因为它感受、感受，所以才称为‘受’。”"
+  },
+  {
+   "idx": 79,
+   "pali": "‘‘Kiñca vedeti? Sukhampi vedeti, dukkhampi vedeti, adukkhamasukhampi vedeti. ‘Vedeti vedetī’ti kho, āvuso, tasmā vedanāti vuccatī’’ti.",
+   "zh": "“它感受什么？它感受乐，感受苦，也感受不苦不乐。贤友，正因它感受，它感受，故称之为‘受’。”"
+  },
+  {
+   "idx": 80,
+   "pali": "‘‘‘Saññā saññā’ti, āvuso, vuccati. Kittāvatā nu kho, āvuso, saññāti vuccatī’’ti?",
+   "zh": "“贤友，人们常说‘想、想’。那么，在什么意义上，它被称为‘想’呢？”"
+  },
+  {
+   "idx": 81,
+   "pali": "‘‘‘Sañjānāti sañjānātī’ti kho, āvuso, tasmā saññāti vuccati.",
+   "zh": "“贤友，它认知，它认知，故称之为‘想’。”"
+  },
+  {
+   "idx": 82,
+   "pali": "‘‘Kiñca sañjānāti? Nīlakampi sañjānāti, pītakampi sañjānāti, lohitakampi sañjānāti, odātampi sañjānāti. ‘Sañjānāti sañjānātī’ti kho, āvuso, tasmā saññāti vuccatī’’ti.",
+   "zh": "“它认知什么呢？它认知青、黄、赤、白。贤友，因为‘认知、认知’，故名为‘想’。”"
+  },
+  {
+   "idx": 83,
+   "pali": "‘‘Yā cāvuso, vedanā yā ca saññā yañca viññāṇaṃ – ime dhammā saṃsaṭṭhā udāhu visaṃsaṭṭhā? Labbhā ca panimesaṃ dhammānaṃ vinibbhujitvā vinibbhujitvā nānākaraṇaṃ paññāpetu’’nti? ‘‘Yā cāvuso, vedanā yā ca saññā yañca viññāṇaṃ – ime dhammā saṃsaṭṭhā, no visaṃsaṭṭhā. Na ca labbhā imesaṃ dhammānaṃ vinibbhujitvā vinibbhujitvā nānākaraṇaṃ paññāpetuṃ. Yaṃ hāvuso , vedeti taṃ sañjānāti, yaṃ sañjānāti taṃ vijānāti. Tasmā ime dhammā saṃsaṭṭhā no visaṃsaṭṭhā. Na ca labbhā imesaṃ dhammānaṃ vinibbhujitvā vinibbhujitvā nānākaraṇaṃ paññāpetu’’nti.",
+   "zh": "“贤友，受、想、识——这些法是相互混合的，还是互不混合的？又能否将这些法一一分离，以辨明其间的差别呢？”\n“贤友，受、想、识——这些法是相互混合的，并非互不混合，而且不能将这些法一一分离，以辨明其差别。贤友，所感受的即所认知，所认知的即所了知。因此，这些法是相互混合的，并非互不混合，而且不能将这些法一一分离，以辨明其差别。”"
+  },
+  {
+   "idx": 84,
+   "pali": "‘‘Nissaṭṭhena hāvuso , pañcahi indriyehi parisuddhena manoviññāṇena kiṃ neyya’’nti?",
+   "zh": "“贤友，那么，以脱离五种感官、清净的意识，能了知什么呢？”",
+   "n": "451"
+  },
+  {
+   "idx": 85,
+   "pali": "‘‘Nissaṭṭhena āvuso, pañcahi indriyehi parisuddhena manoviññāṇena ‘ananto ākāso’ti ākāsānañcāyatanaṃ neyyaṃ, ‘anantaṃ viññāṇa’nti viññāṇañcāyatanaṃ neyyaṃ, ‘natthi kiñcī’ti ākiñcaññāyatanaṃ neyya’’nti.",
+   "zh": "“贤友，以那已脱离五种感官、清净的意识，‘虚空无边’则可了知空无边处；‘识无边’则可了知识无边处；‘无所有’则可了知无所有处。”"
+  },
+  {
+   "idx": 86,
+   "pali": "‘‘Neyyaṃ panāvuso, dhammaṃ kena pajānātī’’ti?",
+   "zh": "“然而贤友，那应被了知的法，是用什么了知的呢？”"
+  },
+  {
+   "idx": 87,
+   "pali": "‘‘Neyyaṃ kho, āvuso, dhammaṃ paññācakkhunā pajānātī’’ti.",
+   "zh": "“贤友，那应被了知的法，正是以慧眼了知。”"
+  },
+  {
+   "idx": 88,
+   "pali": "‘‘Paññā panāvuso, kimatthiyā’’ti?",
+   "zh": "“那么，贤友，慧的目的何在？”"
+  },
+  {
+   "idx": 89,
+   "pali": "‘‘Paññā kho, āvuso, abhiññatthā pariññatthā pahānatthā’’ti.",
+   "zh": "“贤友，慧的目的在于证知、遍知与断除。”"
+  },
+  {
+   "idx": 90,
+   "pali": "‘‘Kati panāvuso, paccayā sammādiṭṭhiyā uppādāyā’’ti?",
+   "zh": "“那么，贤友，正见的生起有多少种因缘？”",
+   "n": "452"
+  },
+  {
+   "idx": 91,
+   "pali": "‘‘Dve kho, āvuso, paccayā sammādiṭṭhiyā uppādāya – parato ca ghoso, yoniso ca manasikāro. Ime kho, āvuso, dve paccayā sammādiṭṭhiyā uppādāyā’’ti.",
+   "zh": "“贤友，正见生起有两个因缘：听闻他音与如理作意。贤友，这便是正见生起的两个因缘。”"
+  },
+  {
+   "idx": 92,
+   "pali": "‘‘Katihi panāvuso, aṅgehi anuggahitā sammādiṭṭhi cetovimuttiphalā ca hoti cetovimuttiphalānisaṃsā ca, paññāvimuttiphalā ca hoti paññāvimuttiphalānisaṃsā cā’’ti?",
+   "zh": "“那么，贤友，正见由几支所助时，能成就心解脱的果与利益，亦成就慧解脱的果与利益呢？”"
+  },
+  {
+   "idx": 93,
+   "pali": "‘‘Pañcahi kho, āvuso, aṅgehi anuggahitā sammādiṭṭhi cetovimuttiphalā ca hoti cetovimuttiphalānisaṃsā ca, paññāvimuttiphalā ca hoti paññāvimuttiphalānisaṃsā ca. Idhāvuso, sammādiṭṭhi sīlānuggahitā ca hoti, sutānuggahitā ca hoti, sākacchānuggahitā ca hoti, samathānuggahitā ca hoti, vipassanānuggahitā ca hoti. Imehi kho, āvuso, pañcahaṅgehi anuggahitā sammādiṭṭhi cetovimuttiphalā ca hoti cetovimuttiphalānisaṃsā ca, paññāvimuttiphalā ca hoti paññāvimuttiphalānisaṃsā cā’’ti.",
+   "zh": "“贤友，正见由五支所助，便能获得心解脱的果与利益，亦能获得慧解脱的果与利益。贤友，于此，正见为戒所助，为多闻所助，为论议所助，为止所助，为观所助。贤友，正见得此五支所助，便能获得心解脱的果与利益，以及慧解脱的果与利益。”"
+  },
+  {
+   "idx": 94,
+   "pali": "‘‘Kati panāvuso, bhavā’’ti?",
+   "zh": "“贤友，有几种‘有’呢？”",
+   "n": "453"
+  },
+  {
+   "idx": 95,
+   "pali": "‘‘Tayome, āvuso, bhavā – kāmabhavo , rūpabhavo, arūpabhavo’’ti.",
+   "zh": "“贤友，有三种有：欲有、色有、无色有。”"
+  },
+  {
+   "idx": 96,
+   "pali": "‘‘Kathaṃ panāvuso, āyatiṃ punabbhavābhinibbatti hotī’’ti?",
+   "zh": "“贤友，那么，未来如何再生于新的有呢？”"
+  },
+  {
+   "idx": 97,
+   "pali": "‘‘Avijjānīvaraṇānaṃ kho, āvuso, sattānaṃ taṇhāsaṃyojanānaṃ tatratatrābhinandanā – evaṃ āyatiṃ punabbhavābhinibbatti hotī’’ti.",
+   "zh": "“贤友，众生为无明所覆、为渴爱所系，于所到之处生起欢喜——如此，便有未来的再生。”"
+  },
+  {
+   "idx": 98,
+   "pali": "‘‘Kathaṃ panāvuso, āyatiṃ punabbhavābhinibbatti na hotī’’ti?",
+   "zh": "“贤友，那么，未来的再生如何便不再发生呢？”"
+  },
+  {
+   "idx": 99,
+   "pali": "‘‘Avijjāvirāgā kho, āvuso, vijjuppādā taṇhānirodhā – evaṃ āyatiṃ punabbhavābhinibbatti na hotī’’ti.",
+   "zh": "“贤友，由无明消退、明生起、渴爱灭尽——如此，未来的再生便不再发生。”"
+  },
+  {
+   "idx": 100,
+   "pali": "‘‘Katamaṃ panāvuso, paṭhamaṃ jhāna’’nti?",
+   "zh": "“贤友，那么，什么是初禅呢？",
+   "n": "454"
+  },
+  {
+   "idx": 101,
+   "pali": "‘‘Idhāvuso, bhikkhu vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṃ savicāraṃ vivekajaṃ pītisukhaṃ paṭhamaṃ jhānaṃ upasampajja viharati – idaṃ vuccati, āvuso, paṭhamaṃ jhāna’’nti.",
+   "zh": "“贤友，在此，比丘远离诸欲、远离不善法，有寻有伺，由远离而生起的喜与乐，具足初禅而安住——贤友，这便称为初禅。"
+  },
+  {
+   "idx": 102,
+   "pali": "‘‘Paṭhamaṃ panāvuso, jhānaṃ katiaṅgika’’nti?",
+   "zh": "“贤友，那么，初禅有几支呢？"
+  },
+  {
+   "idx": 103,
+   "pali": "‘‘Paṭhamaṃ kho, āvuso, jhānaṃ pañcaṅgikaṃ. Idhāvuso, paṭhamaṃ jhānaṃ samāpannassa bhikkhuno vitakko ca vattati, vicāro ca pīti ca sukhañca cittekaggatā ca. Paṭhamaṃ kho, āvuso, jhānaṃ evaṃ pañcaṅgika’’nti.",
+   "zh": "“贤友，初禅有五支。贤友，一位进入初禅的比丘，有寻，有伺，有喜，有乐，有心一境性。贤友，初禅正是如此具足五支。”"
+  },
+  {
+   "idx": 104,
+   "pali": "‘‘Paṭhamaṃ panāvuso, jhānaṃ kataṅgavippahīnaṃ kataṅgasamannāgata’’nti?",
+   "zh": "“贤友，那么，初禅舍断了几支，又具足几支呢？”"
+  },
+  {
+   "idx": 105,
+   "pali": "‘‘Paṭhamaṃ kho, āvuso, jhānaṃ pañcaṅgavippahīnaṃ, pañcaṅgasamannāgataṃ. Idhāvuso, paṭhamaṃ jhānaṃ samāpannassa bhikkhuno kāmacchando pahīno hoti, byāpādo pahīno hoti, thīnamiddhaṃ pahīnaṃ hoti, uddhaccakukkuccaṃ pahīnaṃ hoti, vicikicchā pahīnā hoti; vitakko ca vattati, vicāro ca pīti ca sukhañca cittekaggatā ca. Paṭhamaṃ kho, āvuso, jhānaṃ evaṃ pañcaṅgavippahīnaṃ pañcaṅgasamannāgata’’nti.",
+   "zh": "“贤友，初禅舍断五支，具足五支。贤友，当一位比丘进入初禅时，欲贪已舍断，嗔恚已舍断，惛眠已舍断，掉悔已舍断，疑已舍断；而有寻，有伺，有喜，有乐，有心一境性。贤友，初禅便是如此舍断五支而具足五支。”"
+  },
+  {
+   "idx": 106,
+   "pali": "‘‘Pañcimāni , āvuso, indriyāni nānāvisayāni nānāgocarāni, na aññamaññassa gocaravisayaṃ paccanubhonti, seyyathidaṃ – cakkhundriyaṃ, sotindriyaṃ, ghānindriyaṃ, jivhindriyaṃ, kāyindriyaṃ. Imesaṃ kho, āvuso, pañcannaṃ indriyānaṃ nānāvisayānaṃ nānāgocarānaṃ, na aññamaññassa gocaravisayaṃ paccanubhontānaṃ, kiṃ paṭisaraṇaṃ, ko ca nesaṃ gocaravisayaṃ paccanubhotī’’ti?",
+   "zh": "“贤友，有五种根，各各有其不同的领域与行处，互不经验他者的领域与行处，所谓：眼根、耳根、鼻根、舌根、身根。贤友，这五种根，各有不同的领域与行处，互不经验他者的领域与行处，它们以何为依止？何者在经验它们各自的领域与行处呢？”",
+   "n": "455"
+  },
+  {
+   "idx": 107,
+   "pali": "‘‘Pañcimāni, āvuso, indriyāni nānāvisayāni nānāgocarāni, na aññamaññassa gocaravisayaṃ paccanubhonti, seyyathidaṃ – cakkhundriyaṃ, sotindriyaṃ, ghānindriyaṃ, jivhindriyaṃ, kāyindriyaṃ. Imesaṃ kho, āvuso, pañcannaṃ indriyānaṃ nānāvisayānaṃ nānāgocarānaṃ, na aññamaññassa gocaravisayaṃ paccanubhontānaṃ, mano paṭisaraṇaṃ, mano ca nesaṃ gocaravisayaṃ paccanubhotī’’ti.",
+   "zh": "“贤友，有五种根，各各有其不同的领域与行处，互不经验他者的领域与行处，所谓：眼根、耳根、鼻根、舌根、身根。贤友，这五种根，各有不同的领域与行处，互不经验他者的领域与行处，它们以意为依止，意经验它们各自的领域与行处。”"
+  },
+  {
+   "idx": 108,
+   "pali": "‘‘Pañcimāni, āvuso, indriyāni, seyyathidaṃ – cakkhundriyaṃ, sotindriyaṃ, ghānindriyaṃ, jivhindriyaṃ, kāyindriyaṃ. Imāni kho, āvuso, pañcindriyāni kiṃ paṭicca tiṭṭhantī’’ti?",
+   "zh": "“贤友，有此五根，谓：眼根、耳根、鼻根、舌根、身根。贤友，此五根依何而住立呢？”",
+   "n": "456"
+  },
+  {
+   "idx": 109,
+   "pali": "‘‘Pañcimāni, āvuso, indriyāni, seyyathidaṃ – cakkhundriyaṃ, sotindriyaṃ, ghānindriyaṃ, jivhindriyaṃ, kāyindriyaṃ. Imāni kho, āvuso, pañcindriyāni āyuṃ paṭicca tiṭṭhantī’’ti.",
+   "zh": "“贤友，有这五种根，即：眼根、耳根、鼻根、舌根、身根。贤友，这五种根依寿命而住。”"
+  },
+  {
+   "idx": 110,
+   "pali": "‘‘Āyu panāvuso, kiṃ paṭicca tiṭṭhatī’’ti?",
+   "zh": "“贤友，那么，寿命又依什么而住呢？”"
+  },
+  {
+   "idx": 111,
+   "pali": "‘‘Āyu usmaṃ paṭicca tiṭṭhatī’’ti.",
+   "zh": "“寿命依体温而住。”"
+  },
+  {
+   "idx": 112,
+   "pali": "‘‘Usmā panāvuso, kiṃ paṭicca tiṭṭhatī’’ti?",
+   "zh": "“贤友，那么，体温依靠什么而维持呢？”"
+  },
+  {
+   "idx": 113,
+   "pali": "‘‘Usmā āyuṃ paṭicca tiṭṭhatī’’ti.",
+   "zh": "“体温依靠寿命而维持。”"
+  },
+  {
+   "idx": 114,
+   "pali": "‘‘Idāneva kho mayaṃ, āvuso, āyasmato sāriputtassa bhāsitaṃ evaṃ ājānāma – ‘āyu usmaṃ paṭicca tiṭṭhatī’ti. Idāneva pana mayaṃ, āvuso, āyasmato sāriputtassa bhāsitaṃ evaṃ ājānāma – ‘usmā āyuṃ paṭicca tiṭṭhatī’ti.",
+   "zh": "“贤友，我们方才这样理解具寿舍利弗的话——‘寿命依靠体温而维持’，而现在，贤友，我们又这样理解具寿舍利弗的话——‘体温依靠寿命而维持。’”"
+  },
+  {
+   "idx": 115,
+   "pali": "‘‘Yathā kathaṃ panāvuso, imassa bhāsitassa attho daṭṭhabbo’’ti?",
+   "zh": "“贤友，那么应当如何看待这番话的义理呢？”"
+  },
+  {
+   "idx": 116,
+   "pali": "‘‘Tena hāvuso, upamaṃ te karissāmi; upamāyapidhekacce viññū purisā bhāsitassa atthaṃ ājānanti. Seyyathāpi, āvuso, telappadīpassa jhāyato acciṃ paṭicca ābhā paññāyati, ābhaṃ paṭicca acci paññāyati; evameva kho, āvuso, āyu usmaṃ paṭicca tiṭṭhati, usmā āyuṃ paṭicca tiṭṭhatī’’ti.",
+   "zh": "“贤友，既然如此，我为你作一譬喻；借助譬喻，具慧之人能了知所说之义。贤友，正如油灯正在燃烧时，缘于火焰而有光亮显现，缘于光亮而有火焰显现；同样地，贤友，寿命缘于体温而安住，体温缘于寿命而安住。”"
+  },
+  {
+   "idx": 117,
+   "pali": "‘‘Teva nu kho, āvuso, āyusaṅkhārā, te vedaniyā dhammā udāhu aññe āyusaṅkhārā aññe vedaniyā dhammā’’ti? ‘‘Na kho , āvuso, teva āyusaṅkhārā te vedaniyā dhammā. Te ca hāvuso, āyusaṅkhārā abhaviṃsu te vedaniyā dhammā, na yidaṃ saññāvedayitanirodhaṃ samāpannassa bhikkhuno vuṭṭhānaṃ paññāyetha. Yasmā ca kho, āvuso, aññe āyusaṅkhārā aññe vedaniyā dhammā, tasmā saññāvedayitanirodhaṃ samāpannassa bhikkhuno vuṭṭhānaṃ paññāyatī’’ti.",
+   "zh": "“贤友，那些寿行就是那些可感受的法呢，还是寿行与可感受之法相异？” “贤友，那些寿行并非那些可感受之法。贤友，若寿行即是那些可感受之法，证入想受灭定的比丘的出定便不可得了知。贤友，正因寿行是一回事，可感受之法是另一回事，证入想受灭定的比丘的出定方得了知。”",
+   "n": "457"
+  },
+  {
+   "idx": 118,
+   "pali": "‘‘Yadā nu kho, āvuso, imaṃ kāyaṃ kati dhammā jahanti; athāyaṃ kāyo ujjhito avakkhitto seti, yathā kaṭṭhaṃ acetana’’nti?",
+   "zh": "“朋友，当几种法离开此身时，此身便被舍弃、被抛弃，犹如无意识的木头，躺卧在那里？”"
+  },
+  {
+   "idx": 119,
+   "pali": "‘‘Yadā kho, āvuso, imaṃ kāyaṃ tayo dhammā jahanti – āyu usmā ca viññāṇaṃ; athāyaṃ kāyo ujjhito avakkhitto seti, yathā kaṭṭhaṃ acetana’’nti.",
+   "zh": "“朋友，当三种法离开此身——寿命、体温与识，此时此身便被舍弃、被抛弃，犹如无意识的木头，躺卧在那里。”"
+  },
+  {
+   "idx": 120,
+   "pali": "‘‘Yvāyaṃ, āvuso, mato kālaṅkato, yo cāyaṃ bhikkhu saññāvedayitanirodhaṃ samāpanno – imesaṃ kiṃ nānākaraṇa’’nti?",
+   "zh": "“朋友，那已死去、命终者，与那入想受灭定的比丘，二者有何差别？”"
+  },
+  {
+   "idx": 121,
+   "pali": "‘‘Yvāyaṃ, āvuso, mato kālaṅkato tassa kāyasaṅkhārā niruddhā paṭippassaddhā , vacīsaṅkhārā niruddhā paṭippassaddhā, cittasaṅkhārā niruddhā paṭippassaddhā, āyu parikkhīṇo, usmā vūpasantā, indriyāni paribhinnāni. Yo cāyaṃ bhikkhu saññāvedayitanirodhaṃ samāpanno tassapi kāyasaṅkhārā niruddhā paṭippassaddhā, vacīsaṅkhārā niruddhā paṭippassaddhā, cittasaṅkhārā niruddhā paṭippassaddhā, āyu na parikkhīṇo, usmā avūpasantā, indriyāni vippasannāni. Yvāyaṃ, āvuso, mato kālaṅkato, yo cāyaṃ bhikkhu saññāvedayitanirodhaṃ samāpanno – idaṃ nesaṃ nānākaraṇa’’nti.",
+   "zh": "“贤友，那位已逝去、命终的人，他的身行已息灭与寂止，语行已息灭与寂止，心行已息灭与寂止，寿命已尽，暖气已消散，诸根已坏。而那位已入想受灭定的比丘，他的身行亦已息灭与寂止，语行亦已息灭与寂止，心行亦已息灭与寂止，但寿命未尽，暖气未散，诸根明净。贤友，这便是已逝去、命终之人与已入想受灭定的比丘之间的差别。”"
+  },
+  {
+   "idx": 122,
+   "pali": "‘‘Kati panāvuso, paccayā adukkhamasukhāya cetovimuttiyā samāpattiyā’’ti?",
+   "zh": "“贤友，证入不苦不乐心解脱的缘，有多少种？”",
+   "n": "458"
+  },
+  {
+   "idx": 123,
+   "pali": "‘‘Cattāro kho, āvuso, paccayā adukkhamasukhāya cetovimuttiyā samāpattiyā. Idhāvuso, bhikkhu sukhassa ca pahānā dukkhassa ca pahānā pubbeva somanassadomanassānaṃ atthaṅgamā adukkhamasukhaṃ upekkhāsatipārisuddhiṃ catutthaṃ jhānaṃ upasampajja viharati. Ime kho, āvuso, cattāro paccayā adukkhamasukhāya cetovimuttiyā samāpattiyā’’ti.",
+   "zh": "“贤友，证入不苦不乐心解脱，有四种缘。贤友，于此，比丘由舍断乐、舍断苦，并因先前喜与忧的消失，进入并安住于不苦不乐、舍念清净的第四禅那。贤友，这便是证入不苦不乐心解脱的四种缘。”"
+  },
+  {
+   "idx": 124,
+   "pali": "‘‘Kati panāvuso, paccayā animittāya cetovimuttiyā samāpattiyā’’ti?",
+   "zh": "“朋友，那么，达到无相心解脱的入定有几个因缘？”"
+  },
+  {
+   "idx": 125,
+   "pali": "‘‘Dve kho, āvuso, paccayā animittāya cetovimuttiyā samāpattiyā – sabbanimittānañca amanasikāro, animittāya ca dhātuyā manasikāro. Ime kho, āvuso, dve paccayā animittāya cetovimuttiyā samāpattiyā’’ti.",
+   "zh": "“朋友，达到无相心解脱的入定有两个因缘：即对一切相不作意，与对无相界作意。朋友，这便是达到无相心解脱入定的两个因缘。”"
+  },
+  {
+   "idx": 126,
+   "pali": "‘‘Kati panāvuso, paccayā animittāya cetovimuttiyā ṭhitiyā’’ti?",
+   "zh": "“朋友，那么，安住于无相心解脱有几个因缘？”"
+  },
+  {
+   "idx": 127,
+   "pali": "‘‘Tayo kho, āvuso, paccayā animittāya cetovimuttiyā ṭhitiyā – sabbanimittānañca amanasikāro, animittāya ca dhātuyā manasikāro, pubbe ca abhisaṅkhāro. Ime kho, āvuso, tayo paccayā animittāya cetovimuttiyā ṭhitiyā’’ti.",
+   "zh": "“朋友，安住于无相心解脱有三个因缘：不对一切相作意，对无相界作意，以及事先的加行。朋友，这就是安住于无相心解脱的三个因缘。”"
+  },
+  {
+   "idx": 128,
+   "pali": "‘‘Kati panāvuso, paccayā animittāya cetovimuttiyā vuṭṭhānāyā’’ti?",
+   "zh": "“朋友，那么，从无相心解脱出定有几个因缘？”"
+  },
+  {
+   "idx": 129,
+   "pali": "‘‘Dve kho, āvuso, paccayā animittāya cetovimuttiyā vuṭṭhānāya – sabbanimittānañca manasikāro, animittāya ca dhātuyā amanasikāro. Ime kho, āvuso, dve paccayā animittāya cetovimuttiyā vuṭṭhānāyā’’ti.",
+   "zh": "“朋友，从无相心解脱出定有两个因缘：对一切相作意，以及对无相界不作意。朋友，这就是从无相心解脱出定的两个因缘。”"
+  },
+  {
+   "idx": 130,
+   "pali": "‘‘Yā cāyaṃ, āvuso, appamāṇā cetovimutti, yā ca ākiñcaññā cetovimutti, yā ca suññatā cetovimutti, yā ca animittā cetovimutti – ime dhammā nānātthā ceva nānābyañjanā ca udāhu ekatthā byañjanameva nāna’’nti?",
+   "zh": "“朋友，无量心解脱、无所有心解脱、空心解脱、无相心解脱——这些法，究竟是义理不同、文辞亦不同，还是义理相同，仅仅是文辞有别？”",
+   "n": "459"
+  },
+  {
+   "idx": 131,
+   "pali": "‘‘Yā cāyaṃ, āvuso, appamāṇā cetovimutti, yā ca ākiñcaññā cetovimutti, yā ca suññatā cetovimutti, yā ca animittā cetovimutti – atthi kho, āvuso, pariyāyo yaṃ pariyāyaṃ āgamma ime dhammā nānātthā ceva nānābyañjanā ca; atthi ca kho, āvuso, pariyāyo yaṃ pariyāyaṃ āgamma ime dhammā ekatthā, byañjanameva nānaṃ’’.",
+   "zh": "“朋友，有一种解说，依此解说，这些法义理不同、文辞亦不同；朋友，另有一种解说，依彼解说，这些法义理相同，仅仅是文辞有别。”"
+  },
+  {
+   "idx": 132,
+   "pali": "‘‘Katamo cāvuso, pariyāyo yaṃ pariyāyaṃ āgamma ime dhammā nānātthā ceva nānābyañjanā ca’’?",
+   "zh": "“朋友，依何种解说，这些法义理不同、文辞亦不同？”"
+  },
+  {
+   "idx": 133,
+   "pali": "‘‘Idhāvuso, bhikkhu mettāsahagatena cetasā ekaṃ disaṃ pharitvā viharati, tathā dutiyaṃ, tathā tatiyaṃ, tathā catutthaṃ. Iti uddhamadho tiriyaṃ sabbadhi sabbattatāya sabbāvantaṃ lokaṃ mettāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyābajjhena pharitvā viharati. Karuṇāsahagatena cetasā…pe… muditāsahagatena cetasā… upekkhāsahagatena cetasā ekaṃ disaṃ pharitvā viharati, tathā dutiyaṃ, tathā tatiyaṃ, tathā catutthaṃ. Iti uddhamadho tiriyaṃ sabbadhi sabbattatāya sabbāvantaṃ lokaṃ upekkhāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyābajjhena pharitvā viharati. Ayaṃ vuccatāvuso, appamāṇā cetovimutti’’.",
+   "zh": "“朋友，一位比丘以慈俱行之心遍满一方而住，同样遍满第二方、第三方、第四方。如是向上、向下、横向，遍一切处，视一切众生如己，以广大、崇高、无量、无怨恨、无恼害的慈俱行之心遍满一切世间而住。以悲俱行之心……以喜俱行之心……以舍俱行之心遍满一方而住，同样遍满第二方、第三方、第四方。如是向上、向下、横向，遍一切处，视一切众生如己，以广大、崇高、无量、无怨恨、无恼害的舍俱行之心遍满一切世间而住。朋友，这便称为无量的心解脱。”"
+  },
+  {
+   "idx": 134,
+   "pali": "‘‘Katamā cāvuso, ākiñcaññā cetovimutti’’?",
+   "zh": "“朋友，什么是无所有的心解脱？”"
+  },
+  {
+   "idx": 135,
+   "pali": "‘‘Idhāvuso, bhikkhu sabbaso viññāṇañcāyatanaṃ samatikkamma natthi kiñcīti ākiñcaññāyatanaṃ upasampajja viharati. Ayaṃ vuccatāvuso, ākiñcaññā cetovimutti’’.",
+   "zh": "“朋友，一位比丘完全超越识无边处，思惟‘什么都没有’，便证入并安住于无所有处。朋友，这便称为无所有的心解脱。”"
+  },
+  {
+   "idx": 136,
+   "pali": "‘‘Katamā cāvuso, suññatā cetovimutti’’?",
+   "zh": "“贤友，何谓空心解脱？”"
+  },
+  {
+   "idx": 137,
+   "pali": "‘‘Idhāvuso, bhikkhu araññagato vā rukkhamūlagato vā suññāgāragato vā iti paṭisañcikkhati – ‘suññamidaṃ attena vā attaniyena vā’ti. Ayaṃ vuccatāvuso, suññatā cetovimutti’’.",
+   "zh": "“贤友，于此，有比丘或至山林，或坐树下，或入空寂之处，他这样省察：‘此处于我及我所皆是空。’贤友，这便称为空心解脱。”"
+  },
+  {
+   "idx": 138,
+   "pali": "‘‘Katamā cāvuso, animittā cetovimutti’’?",
+   "zh": "“贤友，何谓无相心解脱？”"
+  },
+  {
+   "idx": 139,
+   "pali": "‘‘Idhāvuso, bhikkhu sabbanimittānaṃ amanasikārā animittaṃ cetosamādhiṃ upasampajja viharati. Ayaṃ vuccatāvuso, animittā cetovimutti. Ayaṃ kho, āvuso, pariyāyo yaṃ pariyāyaṃ āgamma ime dhammā nānātthā ceva nānābyañjanā ca’’.",
+   "zh": "“贤友，在此，一位比丘不关注任何相，进入并安住于无相的心定。贤友，这便称为无相心解脱。贤友，依此解说，这些法是义异、文句亦异的。”"
+  },
+  {
+   "idx": 140,
+   "pali": "‘‘Katamo cāvuso, pariyāyo yaṃ pariyāyaṃ āgamma ime dhammā ekatthā byañjanameva nānaṃ’’?",
+   "zh": "“贤友，那么依何种解说，这些法是意义相同而仅文句有别呢？”"
+  },
+  {
+   "idx": 141,
+   "pali": "‘‘Rāgo kho, āvuso, pamāṇakaraṇo, doso pamāṇakaraṇo, moho pamāṇakaraṇo. Te khīṇāsavassa bhikkhuno pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṃkatā āyatiṃ anuppādadhammā. Yāvatā kho, āvuso, appamāṇā cetovimuttiyo, akuppā tāsaṃ cetovimutti aggamakkhāyati. Sā kho panākuppā cetovimutti suññā rāgena, suññā dosena, suññā mohena. Rāgo kho, āvuso, kiñcano, doso kiñcano, moho kiñcano. Te khīṇāsavassa bhikkhuno pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṃkatā āyatiṃ anuppādadhammā. Yāvatā kho, āvuso, ākiñcaññā cetovimuttiyo, akuppā tāsaṃ cetovimutti aggamakkhāyati. Sā kho panākuppā cetovimutti suññā rāgena, suññā dosena , suññā mohena. Rāgo kho, āvuso, nimittakaraṇo, doso nimittakaraṇo, moho nimittakaraṇo. Te khīṇāsavassa bhikkhuno pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṃkatā āyatiṃ anuppādadhammā. Yāvatā kho, āvuso, animittā cetovimuttiyo, akuppā tāsaṃ cetovimutti aggamakkhāyati. Sā kho panākuppā cetovimutti suññā rāgena, suññā dosena, suññā mohena. Ayaṃ kho, āvuso, pariyāyo yaṃ pariyāyaṃ āgamma ime dhammā ekatthā byañjanameva nāna’’nti.",
+   "zh": "“贤友，贪是量的制造者，嗔是量的制造者，痴是量的制造者。这些已被漏尽比丘所断除，从根切断，如截断的棕榈树桩，不复存在，未来不再生起。贤友，于无量心解脱中，不动心解脱被说为最上者。而此不动心解脱，是空于贪、空于嗔、空于痴的。贤友，贪是障碍，嗔是障碍，痴是障碍。这些已被漏尽比丘所断除，从根切断，如截断的棕榈树桩，不复存在，未来不再生起。贤友，于无所有心解脱中，不动心解脱被说为最上者。而此不动心解脱，是空于贪、空于嗔、空于痴的。贤友，贪是相的制造者，嗔是相的制造者，痴是相的制造者。这些已被漏尽比丘所断除，从根切断，如截断的棕榈树桩，不复存在，未来不再生起。贤友，于无相心解脱中，不动心解脱被说为最上者。而此不动心解脱，是空于贪、空于嗔、空于痴的。贤友，依此解说，这些法是意义相同而仅文句有别的。”"
+  },
+  {
+   "idx": 142,
+   "pali": "Idamavocāyasmā sāriputto. Attamano āyasmā mahākoṭṭhiko āyasmato sāriputtassa bhāsitaṃ abhinandīti.",
+   "zh": "此为尊者[[Sāriputta|舍利弗]]所说。尊者[[mahākoṭṭhika|大拘絺罗]]对尊者[[Sāriputta|舍利弗]]的说法，心生欢喜，深表赞叹。"
+  },
+  {
+   "idx": 143,
+   "pali": "Mahāvedallasuttaṃ niṭṭhitaṃ tatiyaṃ.",
+   "zh": "《大韦达喇经》第三终"
+  }
+ ]
+}

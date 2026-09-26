@@ -1,0 +1,147 @@
+{
+ "uid": 30,
+ "title": "5. 愚者品",
+ "nik": "AN",
+ "segs": [
+  {
+   "idx": 0,
+   "pali": "(10) 5. Bālavaggo",
+   "zh": "（10） 5. 愚者品"
+  },
+  {
+   "idx": 1,
+   "pali": "‘‘Dveme , bhikkhave, bālā. Katame dve? Yo ca anāgataṃ bhāraṃ vahati, yo ca āgataṃ bhāraṃ na vahati. Ime kho, bhikkhave, dve bālā’’ti.",
+   "zh": "“诸比丘，有两种愚者。哪两种呢？一是承担未至之担的人，二是不承担已至之担的人。诸比丘，这便是两种愚者。”",
+   "n": "99"
+  },
+  {
+   "idx": 2,
+   "pali": "‘‘Dveme , bhikkhave, paṇḍitā. Katame dve? Yo ca anāgataṃ bhāraṃ na vahati, yo ca āgataṃ bhāraṃ vahati. Ime kho, bhikkhave, dve paṇḍitā’’ti.",
+   "zh": "“诸比丘，有两种智者。哪两种？不承担未来之担者，与承担已来之担者。诸比丘，这便是两种智者。”",
+   "n": "100"
+  },
+  {
+   "idx": 3,
+   "pali": "‘‘Dveme, bhikkhave, bālā. Katame dve? Yo ca akappiye kappiyasaññī, yo ca kappiye akappiyasaññī. Ime kho, bhikkhave , dve bālā’’ti.",
+   "zh": "“诸比丘，有两种愚者。哪两种？于不如法而生如法想者，与于如法而生不如法想者。诸比丘，这便是两种愚者。”",
+   "n": "101"
+  },
+  {
+   "idx": 4,
+   "pali": "‘‘Dveme, bhikkhave, paṇḍitā. Katame dve? Yo ca akappiye akappiyasaññī, yo ca kappiye kappiyasaññī. Ime kho, bhikkhave, dve paṇḍitā’’ti.",
+   "zh": "“诸比丘，有两种智者。哪两种？于不如法而生不如法想者，与于如法而生如法想者。诸比丘，这便是两种智者。”",
+   "n": "102"
+  },
+  {
+   "idx": 5,
+   "pali": "‘‘Dveme, bhikkhave, bālā. Katame dve? Yo ca anāpattiyā āpattisaññī, yo ca āpattiyā anāpattisaññī. Ime kho, bhikkhave, dve bālā’’ti.",
+   "zh": "“诸比丘，这是两种愚者。哪两种？视无犯为有犯者，及视有犯为无犯者。诸比丘，这是两种愚者。”",
+   "n": "103"
+  },
+  {
+   "idx": 6,
+   "pali": "‘‘Dveme, bhikkhave, paṇḍitā. Katame dve? Yo ca anāpattiyā anāpattisaññī, yo ca āpattiyā āpattisaññī. Ime kho, bhikkhave, dve paṇḍitā’’ti.",
+   "zh": "“诸比丘，这是两种智者。哪两种？视无犯为无犯者，及视有犯为有犯者。诸比丘，这是两种智者。”",
+   "n": "104"
+  },
+  {
+   "idx": 7,
+   "pali": "‘‘Dveme , bhikkhave, bālā. Katame dve? Yo ca adhamme dhammasaññī, yo ca dhamme adhammasaññī. Ime kho, bhikkhave, dve bālā’’ti.",
+   "zh": "“诸比丘，这是两种愚者。哪两种？视非法为法者，及视法为非法者。诸比丘，这是两种愚者。”",
+   "n": "105"
+  },
+  {
+   "idx": 8,
+   "pali": "‘‘Dveme, bhikkhave, paṇḍitā. Katame dve? Yo ca dhamme dhammasaññī, yo ca adhamme adhammasaññī. Ime kho, bhikkhave, dve paṇḍitā’’ti.",
+   "zh": "“诸比丘，这是两种智者。哪两种？知法为法者，知非法为非法者。诸比丘，这便是两种智者。”",
+   "n": "106"
+  },
+  {
+   "idx": 9,
+   "pali": "‘‘Dveme , bhikkhave, bālā. Katame dve? Yo ca avinaye vinayasaññī, yo ca vinaye avinayasaññī. Ime kho, bhikkhave, dve bālā’’ti.",
+   "zh": "“诸比丘，这两种是愚者。哪两种？知非律为律者，知律为非律者。诸比丘，这便是两种愚者。”",
+   "n": "107"
+  },
+  {
+   "idx": 10,
+   "pali": "‘‘Dveme, bhikkhave, paṇḍitā. Katame dve? Yo ca avinaye avinayasaññī, yo ca vinaye vinayasaññī. Ime kho, bhikkhave, dve paṇḍitā’’ti.",
+   "zh": "“诸比丘，这两种是智者。哪两种？知非律为非律者，知律为律者。诸比丘，这便是两种智者。”",
+   "n": "108"
+  },
+  {
+   "idx": 11,
+   "pali": "‘‘Dvinnaṃ , bhikkhave, āsavā vaḍḍhanti. Katamesaṃ dvinnaṃ? Yo ca na kukkuccāyitabbaṃ kukkuccāyati, yo ca kukkuccāyitabbaṃ na kukkuccāyati. Imesaṃ kho, bhikkhave, dvinnaṃ āsavā vaḍḍhantī’’ti.",
+   "zh": "“诸比丘，这两类人的漏便增长。哪两类？对不应追悔的事心生追悔，对应追悔的事却不生追悔。诸比丘，这两类人的漏便增长。”",
+   "n": "109"
+  },
+  {
+   "idx": 12,
+   "pali": "‘‘Dvinnaṃ, bhikkhave, āsavā na vaḍḍhanti. Katamesaṃ dvinnaṃ? Yo ca na kukkuccāyitabbaṃ na kukkuccāyati, yo ca kukkuccāyitabbaṃ kukkuccāyati. Imesaṃ kho, bhikkhave, dvinnaṃ āsavā na vaḍḍhantī’’ti.",
+   "zh": "“诸比丘，这两类人的漏不增长。哪两类？对不应追悔的事不生追悔，对应追悔的事心生追悔。诸比丘，这两类人的漏不增长。”",
+   "n": "110"
+  },
+  {
+   "idx": 13,
+   "pali": "‘‘Dvinnaṃ, bhikkhave, āsavā vaḍḍhanti. Katamesaṃ dvinnaṃ? Yo ca akappiye kappiyasaññī, yo ca kappiye akappiyasaññī. Imesaṃ kho, bhikkhave, dvinnaṃ āsavā vaḍḍhantī’’ti.",
+   "zh": "“诸比丘，这两类人的漏便增长。哪两类？于不如法生起如法想者，于如法生起不如法想者。诸比丘，这两类人的漏便增长。”",
+   "n": "111"
+  },
+  {
+   "idx": 14,
+   "pali": "‘‘Dvinnaṃ, bhikkhave, āsavā na vaḍḍhanti. Katamesaṃ dvinnaṃ? Yo ca akappiye akappiyasaññī, yo ca kappiye kappiyasaññī. Imesaṃ kho, bhikkhave, dvinnaṃ āsavā na vaḍḍhantī’’ti.",
+   "zh": "“诸比丘，这两种人的漏不增长。哪两种？于不如法起不如法想者，于如法起如法想者。诸比丘，这两种人的漏不增长。”",
+   "n": "112"
+  },
+  {
+   "idx": 15,
+   "pali": "‘‘Dvinnaṃ, bhikkhave, āsavā vaḍḍhanti. Katamesaṃ dvinnaṃ? Yo ca āpattiyā anāpattisaññī, yo ca anāpattiyā āpattisaññī. Imesaṃ kho, bhikkhave, dvinnaṃ āsavā vaḍḍhantī’’ti.",
+   "zh": "“诸比丘，这两种人的漏增长。哪两种？于罪起无犯想者，于无犯起罪想者。诸比丘，这两种人的漏增长。”",
+   "n": "113"
+  },
+  {
+   "idx": 16,
+   "pali": "‘‘Dvinnaṃ, bhikkhave, āsavā na vaḍḍhanti. Katamesaṃ dvinnaṃ? Yo ca āpattiyā āpattisaññī , yo ca anāpattiyā anāpattisaññī . Imesaṃ kho, bhikkhave, dvinnaṃ āsavā na vaḍḍhantī’’ti.",
+   "zh": "“诸比丘，这两种人的漏不增长。哪两种？于罪起罪想者，于无犯起无犯想者。诸比丘，这两种人的漏不增长。”",
+   "n": "114"
+  },
+  {
+   "idx": 17,
+   "pali": "‘‘Dvinnaṃ, bhikkhave, āsavā vaḍḍhanti. Katamesaṃ dvinnaṃ? Yo ca adhamme dhammasaññī, yo ca dhamme adhammasaññī. Imesaṃ kho, bhikkhave, dvinnaṃ āsavā vaḍḍhantī’’ti.",
+   "zh": "“诸比丘，有两种人的漏会增长。哪两种？对非法生起法想者，以及对法生起非法想者。诸比丘，正是这两种人的漏会增长。”",
+   "n": "115"
+  },
+  {
+   "idx": 18,
+   "pali": "‘‘Dvinnaṃ, bhikkhave, āsavā na vaḍḍhanti. Katamesaṃ dvinnaṃ? Yo ca dhamme dhammasaññī, yo ca adhamme adhammasaññī. Imesaṃ kho, bhikkhave, dvinnaṃ āsavā na vaḍḍhantī’’ti.",
+   "zh": "“诸比丘，有两种人的漏不会增长。哪两种？对法生起法想者，以及对非法生起非法想者。诸比丘，正是这两种人的漏不会增长。”",
+   "n": "116"
+  },
+  {
+   "idx": 19,
+   "pali": "‘‘Dvinnaṃ , bhikkhave, āsavā vaḍḍhanti. Katamesaṃ dvinnaṃ? Yo ca avinaye vinayasaññī, yo ca vinaye avinayasaññī. Imesaṃ kho, bhikkhave, dvinnaṃ āsavā vaḍḍhantī’’ti.",
+   "zh": "“诸比丘，有两种人的漏会增长。哪两种？对非律生起律想者，以及对律生起非律想者。诸比丘，正是这两种人的漏会增长。”",
+   "n": "117"
+  },
+  {
+   "idx": 20,
+   "pali": "‘‘Dvinnaṃ, bhikkhave, āsavā na vaḍḍhanti. Katamesaṃ dvinnaṃ? Yo ca avinaye avinayasaññī, yo ca vinaye vinayasaññī. Imesaṃ kho, bhikkhave, dvinnaṃ āsavā na vaḍḍhantī’’ti.",
+   "zh": "“诸比丘！有两类人的漏不增长。哪两类？于非律起非律想者，以及于律起律想者。诸比丘！这两类人的漏不增长。”",
+   "n": "118"
+  },
+  {
+   "idx": 21,
+   "pali": "Bālavaggo pañcamo.",
+   "zh": "愚者品第五"
+  },
+  {
+   "idx": 22,
+   "pali": "Dutiyo paṇṇāsako samatto.",
+   "zh": "第二组五十经终"
+  },
+  {
+   "idx": 23,
+   "pali": "3. Tatiyapaṇṇāsakaṃ",
+    "zh": "3. 第三组五十经"
+  }
+ ]
+}

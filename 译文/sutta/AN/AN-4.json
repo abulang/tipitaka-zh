@@ -1,0 +1,77 @@
+{
+ "uid": 4,
+ "title": "4. 不调品",
+ "nik": "AN",
+ "segs": [
+  {
+   "idx": 11,
+   "pali": "4. Adantavaggo",
+   "zh": "4. 不调伏品"
+  },
+  {
+   "idx": 1,
+   "pali": "‘‘Nāhaṃ , bhikkhave, aññaṃ ekadhammampi samanupassāmi yaṃ evaṃ adantaṃ mahato anatthāya saṃvattati yathayidaṃ, bhikkhave, cittaṃ. Cittaṃ, bhikkhave, adantaṃ mahato anatthāya saṃvattatī’’ti. Paṭhamaṃ.",
+   "zh": "“诸比丘，我不见有其他任何一法，如这未调御的心，能导致如此大不利。诸比丘，心未调御，则导致大不利。第一”",
+   "n": "31"
+  },
+  {
+   "idx": 2,
+   "pali": "‘‘Nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yaṃ evaṃ dantaṃ mahato atthāya saṃvattati yathayidaṃ, bhikkhave, cittaṃ. Cittaṃ, bhikkhave, dantaṃ mahato atthāya saṃvattatī’’ti. Dutiyaṃ.",
+   "zh": "“诸比丘，我不见有其他任何一法，能像这已调御的心那样导向大利益。诸比丘，心已调御，便导向大利益。第二。”",
+   "n": "32"
+  },
+  {
+   "idx": 3,
+   "pali": "‘‘Nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yaṃ evaṃ aguttaṃ mahato anatthāya saṃvattati yathayidaṃ, bhikkhave, cittaṃ. Cittaṃ, bhikkhave, aguttaṃ mahato anatthāya saṃvattatī’’ti. Tatiyaṃ.",
+   "zh": "“诸比丘，我并未见到有其他任何一法，像这未加守护的心那样，会招致如此大的不利。诸比丘，未加守护的心，会招致大不利。第三”",
+   "n": "33"
+  },
+  {
+   "idx": 4,
+   "pali": "‘‘Nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yaṃ evaṃ guttaṃ mahato atthāya saṃvattati yathayidaṃ, bhikkhave, cittaṃ. Cittaṃ, bhikkhave, guttaṃ mahato atthāya saṃvattatī’’ti. Catutthaṃ.",
+   "zh": "“诸比丘，我并未见到有其他任何一法，像这已受守护的心那样，会带来如此大的利益。诸比丘，已受守护的心，会带来大利益。第四”",
+   "n": "34"
+  },
+  {
+   "idx": 5,
+   "pali": "‘‘Nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yaṃ evaṃ arakkhitaṃ mahato anatthāya saṃvattati yathayidaṃ, bhikkhave, cittaṃ. Cittaṃ, bhikkhave, arakkhitaṃ mahato anatthāya saṃvattatī’’ti. Pañcamaṃ.",
+   "zh": "“诸比丘，我不见有其他任何一法，如这未防护的心，能导致如此大不利。诸比丘，心未防护，则导致大不利。第五”",
+   "n": "35"
+  },
+  {
+   "idx": 6,
+   "pali": "‘‘Nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yaṃ evaṃ rakkhitaṃ mahato atthāya saṃvattati yathayidaṃ, bhikkhave, cittaṃ. Cittaṃ, bhikkhave, rakkhitaṃ mahato atthāya saṃvattatī’’ti. Chaṭṭhaṃ.",
+   "zh": "“诸比丘，我不见有其他任何一法，如这已防护的心，能带来如此大利益。诸比丘，心已防护，则带来大利益。第六”",
+   "n": "36"
+  },
+  {
+   "idx": 7,
+   "pali": "‘‘Nāhaṃ , bhikkhave, aññaṃ ekadhammampi samanupassāmi yaṃ evaṃ asaṃvutaṃ mahato anatthāya saṃvattati yathayidaṃ, bhikkhave, cittaṃ. Cittaṃ, bhikkhave, asaṃvutaṃ mahato anatthāya saṃvattatī’’ti. Sattamaṃ.",
+   "zh": "“诸比丘，我不见有任何其他一法，会像未防护的心那样导向大不利。诸比丘，心若未防护，便导向大不利。第七。”",
+   "n": "37"
+  },
+  {
+   "idx": 8,
+   "pali": "‘‘Nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yaṃ evaṃ saṃvutaṃ mahato atthāya saṃvattati yathayidaṃ, bhikkhave, cittaṃ. Cittaṃ, bhikkhave, saṃvutaṃ mahato atthāya saṃvattatī’’ti. Aṭṭhamaṃ.",
+   "zh": "“诸比丘，我不见有其他任何一法，能像这已防护的心那样导向大利益。诸比丘，心已防护，便导向大利益。第八。”",
+   "n": "38"
+  },
+  {
+   "idx": 9,
+   "pali": "‘‘Nāhaṃ , bhikkhave, aññaṃ ekadhammampi samanupassāmi yaṃ evaṃ adantaṃ aguttaṃ arakkhitaṃ asaṃvutaṃ mahato anatthāya saṃvattati yathayidaṃ, bhikkhave, cittaṃ. Cittaṃ, bhikkhave, adantaṃ aguttaṃ arakkhitaṃ asaṃvutaṃ mahato anatthāya saṃvattatī’’ti. Navamaṃ.",
+   "zh": "“诸比丘，我并未见到有其他任何一法，像这未调御、未受守护、未加防护、未行律仪的心那样，会招致如此大的不利。诸比丘，心若未调御、未受守护、未加防护、未行律仪，便会招致大不利。第九”",
+   "n": "39"
+  },
+  {
+   "idx": 10,
+   "pali": "‘‘Nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yaṃ evaṃ dantaṃ guttaṃ rakkhitaṃ saṃvutaṃ mahato atthāya saṃvattati yathayidaṃ, bhikkhave, cittaṃ . Cittaṃ, bhikkhave, dantaṃ guttaṃ rakkhitaṃ saṃvutaṃ mahato atthāya saṃvattatī’’ti. Dasamaṃ.",
+   "zh": "“诸比丘，我不见有其他任何一法，能像这已调御、已守护、已防护、已律仪的心那样导向大利益。诸比丘，心已调御、已守护、已防护、已律仪，便导向大利益。第十。”",
+   "n": "40"
+  },
+  {
+   "idx": 12,
+   "pali": "Adantavaggo catuttho.",
+   "zh": "不调伏品第四"
+  }
+ ]
+}

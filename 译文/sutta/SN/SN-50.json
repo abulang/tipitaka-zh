@@ -1,0 +1,283 @@
+{
+  "uid": 50,
+  "title": "6. 力相应",
+  "nik": "SN",
+  "segs": [
+    {
+      "idx": 50,
+      "pali": "6. Balasaṃyuttaṃ",
+      "zh": "6. 力相应"
+    },
+    {
+      "idx": 51,
+      "pali": "1. Gaṅgāpeyyālavaggo",
+      "zh": "1. 恒河略说品"
+    },
+    {
+      "idx": 1,
+      "pali": "1-12. Balādisuttadvādasakaṃ",
+      "zh": "1-12. 力等十二经"
+    },
+    {
+      "idx": 2,
+      "pali": "‘‘Pañcimāni , bhikkhave, balāni. Katamāni pañca? Saddhābalaṃ, vīriyabalaṃ, satibalaṃ, samādhibalaṃ, paññābalaṃ – imāni kho, bhikkhave, pañca balānīti. Seyyathāpi, bhikkhave, gaṅgā nadī pācīnaninnā pācīnapoṇā pācīnapabbhārā; evameva kho, bhikkhave, bhikkhu pañca balāni bhāvento pañcabalāni bahulīkaronto nibbānaninno hoti nibbānapoṇo nibbānapabbhāro. Kathañca, bhikkhave, bhikkhu pañca balāni bhāvento pañca balāni bahulīkaronto nibbānaninno hoti nibbānapoṇo nibbānapabbhāro? Idha, bhikkhave, bhikkhu saddhābalaṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ, vīriyabalaṃ…pe… satibalaṃ… samādhibalaṃ… paññābalaṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ. Evaṃ kho, bhikkhave, bhikkhu pañca balāni bhāvento pañca balāni bahulīkaronto nibbānaninno hoti nibbānapoṇo nibbānapabbhāro’’ti. Dvādasamaṃ.",
+      "zh": "“诸比丘，有此五力。何等为五？信力、精进力、念力、定力、慧力——诸比丘，这便是五力。诸比丘，犹如恒河向东低斜、向东倾斜、向东倾注；同样地，修习五力、多修五力的比丘，向涅槃低斜、向涅槃倾斜、向涅槃倾注。诸比丘，比丘如何修习五力、多修五力，便向涅槃低斜、向涅槃倾斜、向涅槃倾注呢？诸比丘，于此，比丘依远离、依离贪、依灭、转向舍遣而修习信力；修习精进力……修习念力……修习定力……依远离、依离贪、依灭、转向舍遣而修习慧力。诸比丘，正是这样，修习五力、多修五力的比丘，向涅槃低斜、向涅槃倾斜、向涅槃倾注。 第十二经。”",
+      "n": "705-716"
+    },
+    {
+      "idx": 3,
+      "pali": "Gaṅgāpeyyālavaggo paṭhamo.",
+      "zh": "恒河略说品第一"
+    },
+    {
+      "idx": 4,
+      "pali": "Tassuddānaṃ –",
+      "zh": "其摄颂："
+    },
+    {
+      "idx": 5,
+      "pali": "Cha pācīnato ninnā, cha ninnā ca samuddato;",
+      "zh": "六则倾向东方，六则倾向大海；",
+      "type": "verse"
+    },
+    {
+      "idx": 6,
+      "pali": "Dvete cha dvādasa honti, vaggo tena pavuccatīti.",
+      "zh": "此二六合为十二，此品因此而得名。",
+      "type": "verse"
+    },
+    {
+      "idx": 7,
+      "pali": "2. Appamādavaggo",
+      "zh": "2. 不放逸品"
+    },
+    {
+      "idx": 8,
+      "pali": "Appamādavaggo vitthāretabbo.",
+      "zh": "不放逸品应广说。"
+    },
+    {
+      "idx": 9,
+      "pali": "Tassuddānaṃ –",
+      "zh": "其摄颂："
+    },
+    {
+      "idx": 10,
+      "pali": "Tathāgataṃ padaṃ kūṭaṃ, mūlaṃ sārena vassikaṃ;",
+      "zh": "如来、足迹、屋顶，根、心材、茉莉；",
+      "type": "verse"
+    },
+    {
+      "idx": 11,
+      "pali": "Rājā candimasūriyā, vatthena dasamaṃ padanti.",
+      "zh": "国王、日月，以衣为第十句。",
+      "type": "verse"
+    },
+    {
+      "idx": 12,
+      "pali": "Balakaraṇīyavaggo vitthāretabbo.",
+      "zh": "“力所作品”应详说。"
+    },
+    {
+      "idx": 13,
+      "pali": "Tassuddānaṃ –",
+      "zh": "其摄颂："
+    },
+    {
+      "idx": 14,
+      "pali": "Balaṃ bījañca nāgo ca, rukkho kumbhena sūkiyā;",
+      "zh": "力、种子、龙，树、瓶、针，",
+      "type": "verse"
+    },
+    {
+      "idx": 15,
+      "pali": "Ākāsena ca dve meghā, nāvā āgantukā nadīti.",
+      "zh": "以及虚空、二种云、船、客堂、河。",
+      "type": "verse"
+    },
+    {
+      "idx": 16,
+      "pali": "Esanāvaggo vitthāretabbo.",
+      "zh": "寻求品应广说。"
+    },
+    {
+      "idx": 17,
+      "pali": "Tassuddānaṃ –",
+      "zh": "其摄颂："
+    },
+    {
+      "idx": 18,
+      "pali": "Esanā vidhā āsavo, bhavo ca dukkhatā tisso;",
+      "zh": "寻求、分别、漏、有，及三种苦性。",
+      "type": "verse"
+    },
+    {
+      "idx": 19,
+      "pali": "Khilaṃ malañca nīgho ca, vedanā taṇhā tasinā cāti.",
+      "zh": "荒芜、垢秽与恼害，受、渴爱与渴求。",
+      "type": "verse"
+    },
+    {
+      "idx": 20,
+      "pali": "5. Oghavaggo",
+      "zh": "5. 瀑流品"
+    },
+    {
+      "idx": 21,
+      "pali": "1-10. Oghādisuttadasakaṃ",
+      "zh": "暴流等十经"
+    },
+    {
+      "idx": 22,
+      "pali": "‘‘Pañcimāni , bhikkhave, uddhambhāgiyāni saṃyojanāni. Katamāni pañca? Rūparāgo, arūparāgo, māno, uddhaccaṃ, avijjā – imāni kho, bhikkhave, pañcuddhambhāgiyāni saṃyojanāni. Imesaṃ kho, bhikkhave, pañcannaṃ uddhambhāgiyānaṃ saṃyojanānaṃ abhiññāya pariññāya parikkhayāya pahānāya pañca balāni bhāvetabbāni. Katamāni pañca? Idha, bhikkhave, bhikkhu, saddhābalaṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ, vīriyabalaṃ…pe… satibalaṃ…pe… samādhibalaṃ…pe… paññābalaṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ. Imesaṃ kho, bhikkhave, pañcannaṃ uddhambhāgiyānaṃ saṃyojanānaṃ abhiññāya pariññāya parikkhayāya pahānāya imāni pañca balāni bhāvetabbānī’’ti. (Evaṃ vitthāretabbā). Dasamaṃ.",
+      "zh": "“诸比丘，有五种上分结。哪五种？色贪、无色贪、慢、掉举、无明。诸比丘，这便是五种上分结。诸比丘，为了证知、遍知、遍尽、舍断这五种上分结，应当修习五力。哪五种？诸比丘，于此，比丘修习信力，依远离、依离贪、依灭、转向于舍；修习精进力……修习念力……修习定力……修习慧力，依远离、依离贪、依灭、转向于舍。诸比丘，为了证知、遍知、遍尽、舍断这五种上分结，应当修习此五力。（当如是广说）第十经。”",
+      "n": "749-758"
+    },
+    {
+      "idx": 23,
+      "pali": "Oghavaggo pañcamo.",
+      "zh": "瀑流品第五"
+    },
+    {
+      "idx": 24,
+      "pali": "Tassuddānaṃ –",
+      "zh": "其摄颂："
+    },
+    {
+      "idx": 25,
+      "pali": "Ogho yogo upādānaṃ, ganthā anusayena ca;",
+      "zh": "暴流、轭、取、结缚与随眠；",
+      "type": "verse"
+    },
+    {
+      "idx": 26,
+      "pali": "Kāmaguṇā nīvaraṇā, khandhā oruddhambhāgiyāti.",
+      "zh": "欲乐、盖、蕴与下分结、上分结。",
+      "type": "verse"
+    },
+    {
+      "idx": 27,
+      "pali": "6. Gaṅgāpeyyālavaggo",
+      "zh": "6. 恒河略说品"
+    },
+    {
+      "idx": 28,
+      "pali": "1-12. Pācīnādisuttadvādasakaṃ",
+      "zh": "1-12. 东方等十二经"
+    },
+    {
+      "idx": 29,
+      "pali": "‘‘Seyyathāpi , bhikkhave, gaṅgā nadī pācīnaninnā pācīnapoṇā pācīnapabbhārā ; evameva kho, bhikkhave, bhikkhu pañca balāni bhāvento pañca balāni bahulīkaronto nibbānaninno hoti nibbānapoṇo nibbānapabbhāro. Kathañca, bhikkhave, bhikkhu pañca balāni bhāvento pañca balāni bahulīkaronto nibbānaninno hoti nibbānapoṇo nibbānapabbhāro? Idha, bhikkhave, bhikkhu, saddhābalaṃ bhāveti rāgavinayapariyosānaṃ dosavinayapariyosānaṃ mohavinayapariyosānaṃ…pe… evaṃ kho, bhikkhave, bhikkhu pañca balāni bhāvento pañca balāni bahulīkaronto nibbānaninno hoti nibbānapoṇo nibbānapabbhāro’’ti. (Vitthāretabbā) dvādasamaṃ.",
+      "zh": "“诸比丘，犹如恒河倾向东方、斜向东方、坡向东方；同样地，诸比丘，修习五力、多修习五力的比丘，便倾向涅槃、斜向涅槃、坡向涅槃。诸比丘，比丘如何修习五力、多修习五力，而倾向涅槃、斜向涅槃、坡向涅槃呢？诸比丘，在此，比丘修习信力……最终止息贪、最终止息嗔、最终止息痴……（中略）……诸比丘，比丘如此修习五力、多修习五力，便倾向涅槃、斜向涅槃、坡向涅槃。第十二经。”",
+      "n": "759-770"
+    },
+    {
+      "idx": 30,
+      "pali": "Gaṅgāpeyyālavaggo chaṭṭho.",
+      "zh": "恒河略说品第六。"
+    },
+    {
+      "idx": 31,
+      "pali": "Tassuddānaṃ –",
+      "zh": "其摄颂："
+    },
+    {
+      "idx": 32,
+      "pali": "Cha pācīnato ninnā, cha ninnā ca samuddato;",
+      "zh": "六者向东倾斜，六者向海倾斜；",
+      "type": "verse"
+    },
+    {
+      "idx": 33,
+      "pali": "Dvete cha dvādasa honti, vaggo tena pavuccatīti.",
+      "zh": "此二六合为十二，此品因此而得名。",
+      "type": "verse"
+    },
+    {
+      "idx": 34,
+      "pali": "Appamāda-balakaraṇīyavaggā vitthāretabbā.",
+      "zh": "不放逸品与力所作品，应广说。"
+    },
+    {
+      "idx": 35,
+      "pali": "9. Esanāvaggo",
+      "zh": "9. 寻求品"
+    },
+    {
+      "idx": 36,
+      "pali": "1-12. Esanādisuttadvādasakaṃ",
+      "zh": "一至十二 寻求等十二经"
+    },
+    {
+      "idx": 37,
+      "pali": "Evaṃ esanāpāḷi vitthāretabbā – rāgavinayapariyosānaṃ dosavinayapariyosānaṃ mohavinayapariyosānaṃ.",
+      "zh": "如是，此寻之经文应详加阐述：以调伏贪为究竟，以调伏嗔为究竟，以调伏痴为究竟。",
+      "n": "792-802"
+    },
+    {
+      "idx": 38,
+      "pali": "Esanāvaggo navamo.",
+      "zh": "寻求品第九"
+    },
+    {
+      "idx": 39,
+      "pali": "Tassuddānaṃ –",
+      "zh": "其摄颂："
+    },
+    {
+      "idx": 40,
+      "pali": "Esanā vidhā āsavo, bhavo ca dukkhatā tisso;",
+      "zh": "寻求、分别、漏、有，及三种苦性。",
+      "type": "verse"
+    },
+    {
+      "idx": 41,
+      "pali": "Khilaṃ malañca nīgho ca, vedanā taṇhā tasinā cāti.",
+      "zh": "荒芜、垢秽与恼害，受、渴爱与渴求。",
+      "type": "verse"
+    },
+    {
+      "idx": 42,
+      "pali": "10. Oghavaggo",
+      "zh": "10. 瀑流品"
+    },
+    {
+      "idx": 43,
+      "pali": "1-10. Oghādisuttadasakaṃ",
+      "zh": "1-10. 暴流等十经"
+    },
+    {
+      "idx": 44,
+      "pali": "‘‘Pañcimāni , bhikkhave, uddhambhāgiyāni saṃyojanāni. Katamāni pañca? Rūparāgo, arūparāgo, māno, uddhaccaṃ avijjā – imāni kho, bhikkhave, pañcuddhambhāgiyāni saṃyojanāni. Imesaṃ kho, bhikkhave, pañcannaṃ uddhambhāgiyānaṃ saṃyojanānaṃ abhiññāya pariññāya parikkhayāya pahānāya pañca balāni bhāvetabbāni. Katamāni pañca? Idha, bhikkhave, bhikkhu saddhābalaṃ bhāveti…pe… paññābalaṃ bhāveti rāgavinayapariyosānaṃ dosavinayapariyosānaṃ mohavinayapariyosānaṃ. Imesaṃ kho, bhikkhave, pañcannaṃ uddhambhāgiyānaṃ saṃyojanānaṃ abhiññāya pariññāya parikkhayāya pahānāya imāni pañca balāni bhāvetabbānī’’ti. Dasamaṃ.",
+      "zh": "“诸比丘，有五种上分结。哪五种？色贪、无色贪、慢、掉举、无明。诸比丘，这便是五上分结。诸比丘，为了证知、遍知、灭尽、舍断这五上分结，应当修习五力。哪五种？诸比丘，于此，比丘修习信力……（中略）……修习慧力，以调伏贪为终极、以调伏嗔为终极、以调伏痴为终极。诸比丘，为了证知、遍知、灭尽、舍断这五上分结，应当修习这五力。第十经。”",
+      "n": "803-812"
+    },
+    {
+      "idx": 45,
+      "pali": "Oghavaggo dasamo.",
+      "zh": "瀑流品第十"
+    },
+    {
+      "idx": 46,
+      "pali": "Tassuddānaṃ –",
+      "zh": "其摄颂："
+    },
+    {
+      "idx": 47,
+      "pali": "Ogho yogo upādānaṃ, ganthā anusayena ca;",
+      "zh": "暴流、轭、取、结及随眠；",
+      "type": "verse"
+    },
+    {
+      "idx": 48,
+      "pali": "Kāmaguṇā nīvaraṇā, khandhā oruddhambhāgiyāti.",
+      "zh": "欲功德、诸盖、诸蕴及上下分结。",
+      "type": "verse"
+    },
+    {
+      "idx": 49,
+      "pali": "Balasaṃyuttaṃ chaṭṭhaṃ.",
+      "zh": "力相应第六"
+    }
+  ]
+}

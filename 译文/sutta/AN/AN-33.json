@@ -1,0 +1,77 @@
+{
+ "uid": 33,
+ "title": "3. 布施品",
+ "nik": "AN",
+ "segs": [
+  {
+   "idx": 0,
+   "pali": "(13) 3. Dānavaggo",
+   "zh": "（十三）第三 布施品"
+  },
+  {
+   "idx": 1,
+   "pali": "‘‘Dvemāni , bhikkhave, dānāni. Katamāni dve? Āmisadānañca dhammadānañca. Imāni kho, bhikkhave, dve dānāni. Etadaggaṃ, bhikkhave, imesaṃ dvinnaṃ dānānaṃ yadidaṃ dhammadāna’’nti.",
+   "zh": "“诸比丘，有两种布施。哪两种？物质布施与法布施。诸比丘，这便是两种布施。诸比丘，在这两种布施中，最上者即是法布施。”",
+   "n": "142"
+  },
+  {
+   "idx": 2,
+   "pali": "‘‘Dveme, bhikkhave, yāgā. Katame dve? Āmisayāgo ca dhammayāgo ca. Ime kho, bhikkhave, dve yāgā. Etadaggaṃ, bhikkhave, imesaṃ dvinnaṃ yāgānaṃ yadidaṃ dhammayāgo’’ti.",
+   "zh": "“诸比丘，有两种供养。哪两种？物质供养与法供养。诸比丘，这便是两种供养。诸比丘，在这两种供养中，最上者即是法供养。”",
+   "n": "143"
+  },
+  {
+   "idx": 3,
+   "pali": "‘‘Dveme , bhikkhave, cāgā. Katame dve? Āmisacāgo ca dhammacāgo ca. Ime kho, bhikkhave, dve cāgā. Etadaggaṃ, bhikkhave, imesaṃ dvinnaṃ cāgānaṃ yadidaṃ dhammacāgo’’ti.",
+   "zh": "“诸比丘，有两种施舍。哪两种？物质施舍与法施舍。诸比丘，这便是两种施舍。诸比丘，在这两种施舍中，最上者即是法施舍。”",
+   "n": "144"
+  },
+  {
+   "idx": 4,
+   "pali": "‘‘Dveme, bhikkhave, pariccāgā. Katame dve? Āmisapariccāgo ca dhammapariccāgo ca. Ime kho, bhikkhave, dve pariccāgā. Etadaggaṃ, bhikkhave, imesaṃ dvinnaṃ pariccāgānaṃ yadidaṃ dhammapariccāgo’’ti.",
+   "zh": "“诸比丘，有这两种舍弃。哪两种？财物的舍弃与法的舍弃。诸比丘，这就是两种舍弃。诸比丘，在这两种舍弃中，法的舍弃为最上。”",
+   "n": "145"
+  },
+  {
+   "idx": 5,
+   "pali": "‘‘Dveme , bhikkhave, bhogā. Katame dve? Āmisabhogo ca dhammabhogo ca. Ime kho, bhikkhave, dve bhogā. Etadaggaṃ, bhikkhave, imesaṃ dvinnaṃ bhogānaṃ yadidaṃ dhammabhogo’’ti.",
+   "zh": "“诸比丘，有这两种受用。哪两种？财物的受用与法的受用。诸比丘，这就是两种受用。诸比丘，在这两种受用中，法的受用为最上。”",
+   "n": "146"
+  },
+  {
+   "idx": 6,
+   "pali": "‘‘Dveme, bhikkhave, sambhogā. Katame dve? Āmisasambhogo ca dhammasambhogo ca. Ime kho, bhikkhave, dve sambhogā. Etadaggaṃ, bhikkhave, imesaṃ dvinnaṃ sambhogānaṃ yadidaṃ dhammasambhogo’’ti.",
+   "zh": "“诸比丘，有这两种共享。哪两种？财物的共享与法的共享。诸比丘，这就是两种共享。诸比丘，在这两种共享中，法的共享为最上。”",
+   "n": "147"
+  },
+  {
+   "idx": 7,
+   "pali": "‘‘Dveme, bhikkhave, saṃvibhāgā. Katame dve? Āmisasaṃvibhāgo ca dhammasaṃvibhāgo ca. Ime kho, bhikkhave, dve saṃvibhāgā. Etadaggaṃ, bhikkhave, imesaṃ dvinnaṃ saṃvibhāgānaṃ yadidaṃ dhammasaṃvibhāgo’’ti.",
+   "zh": "“诸比丘，有二种分享。哪二种？财分享与法分享。诸比丘，这便是二种分享。诸比丘，于此二种分享中，最上者，即是法分享。”",
+   "n": "148"
+  },
+  {
+   "idx": 8,
+   "pali": "‘‘Dveme , bhikkhave, saṅgahā. Katame dve? Āmisasaṅgaho ca dhammasaṅgaho ca. Ime kho, bhikkhave, dve saṅgahā. Etadaggaṃ, bhikkhave, imesaṃ dvinnaṃ saṅgahānaṃ yadidaṃ dhammasaṅgaho’’ti.",
+   "zh": "“诸比丘，有二种摄受。哪二种？财摄受与法摄受。诸比丘，这便是二种摄受。诸比丘，于此二种摄受中，最上者，即是法摄受。”",
+   "n": "149"
+  },
+  {
+   "idx": 9,
+   "pali": "‘‘Dveme, bhikkhave, anuggahā. Katame dve? Āmisānuggaho ca dhammānuggaho ca. Ime kho, bhikkhave, dve anuggahā. Etadaggaṃ, bhikkhave, imesaṃ dvinnaṃ anuggahānaṃ yadidaṃ dhammānuggaho’’ti.",
+   "zh": "“诸比丘，有二种摄受。哪两种？财摄受与法摄受。诸比丘，这便是二种摄受。诸比丘，于此二种摄受中，最上者，即是法摄受。”",
+   "n": "150"
+  },
+  {
+   "idx": 10,
+   "pali": "‘‘Dvemā, bhikkhave, anukampā. Katamā dve? Āmisānukampā ca dhammānukampā ca. Imā kho, bhikkhave, dve anukampā. Etadaggaṃ, bhikkhave, imāsaṃ dvinnaṃ anukampānaṃ yadidaṃ dhammānukampā’’ti.",
+   "zh": "“诸比丘，有这两种悲悯。哪两种呢？利养的悲悯与法的悲悯。诸比丘，这就是两种悲悯。诸比丘，在这两种悲悯中，最上的，即是法的悲悯。”",
+   "n": "151"
+  },
+  {
+   "idx": 11,
+   "pali": "Dānavaggo tatiyo.",
+   "zh": "布施品第三"
+  }
+ ]
+}

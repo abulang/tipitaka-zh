@@ -1,0 +1,1051 @@
+{
+  "uid": 14,
+  "title": "3. 界相应",
+  "nik": "SN",
+  "segs": [
+    {
+      "idx": 195,
+      "pali": "3. Dhātusaṃyuttaṃ",
+      "zh": "3. 界相应"
+    },
+    {
+      "idx": 196,
+      "pali": "1. Nānattavaggo",
+      "zh": "1. 种种品"
+    },
+    {
+      "idx": 197,
+      "pali": "1. Dhātunānattasuttaṃ",
+      "zh": "1. [[dhātunānattasutta|界种种经]]"
+    },
+    {
+      "idx": 1,
+      "pali": "Sāvatthiyaṃ viharati…pe… ‘‘dhātunānattaṃ vo, bhikkhave, desessāmi. Taṃ suṇātha, sādhukaṃ manasi karotha; bhāsissāmī’’ti. ‘‘Evaṃ, bhante’’ti kho te bhikkhū bhagavato paccassosuṃ. Bhagavā etadavoca –",
+      "zh": "在[[sāvatthī|舍卫城]]。“诸比丘，我将为你们解说界的种种。你们仔细听，好好用心，我要宣说了。”“是的，尊者。”那些比丘回答世尊。世尊如此说道：",
+      "n": "85"
+    },
+    {
+      "idx": 2,
+      "pali": "‘‘Katamañca, bhikkhave, dhātunānattaṃ? Cakkhudhātu rūpadhātu cakkhuviññāṇadhātu, sotadhātu saddadhātu sotaviññāṇadhātu, ghānadhātu gandhadhātu ghānaviññāṇadhātu, jivhādhātu rasadhātu jivhāviññāṇadhātu, kāyadhātu phoṭṭhabbadhātu kāyaviññāṇadhātu, manodhātu dhammadhātu manoviññāṇadhātu – idaṃ vuccati, bhikkhave, dhātunānatta’’nti. Paṭhamaṃ.",
+      "zh": "“诸比丘，什么是界的种种？眼界、色界、眼识界，耳界、声界、耳识界，鼻界、香界、鼻识界，舌界、味界、舌识界，身界、触界、身识界，意界、法界、意识界——诸比丘，这便称为界的种种。” 第一经。"
+    },
+    {
+      "idx": 3,
+      "pali": "2. Phassanānattasuttaṃ",
+      "zh": "2. [[phassanānattasutta|触种种经]]"
+    },
+    {
+      "idx": 4,
+      "pali": "Sāvatthiyaṃ viharati…pe… ‘‘dhātunānattaṃ, bhikkhave, paṭicca uppajjati phassanānattaṃ. Katamañca, bhikkhave, dhātunānattaṃ? Cakkhudhātu sotadhātu ghānadhātu jivhādhātu kāyadhātu manodhātu – idaṃ vuccati, bhikkhave, dhātunānattaṃ’’.",
+      "zh": "在[[sāvatthī|舍卫城]]……“诸比丘，依于界的种种，便有触的种种生起。诸比丘，什么是界的种种？眼界、耳界、鼻界、舌界、身界、意界——诸比丘，这便称为界的种种。”",
+      "n": "86"
+    },
+    {
+      "idx": 5,
+      "pali": "‘‘Kathañca, bhikkhave, dhātunānattaṃ paṭicca uppajjati phassanānattaṃ? Cakkhudhātuṃ, bhikkhave, paṭicca uppajjati cakkhusamphasso. Sotadhātuṃ paṭicca… ghānadhātuṃ paṭicca … jivhādhātuṃ paṭicca… kāyadhātuṃ paṭicca… manodhātuṃ paṭicca uppajjati manosamphasso. Evaṃ kho , bhikkhave, dhātunānattaṃ paṭicca uppajjati phassanānatta’’nti. Dutiyaṃ.",
+      "zh": "“诸比丘，缘于界种种而触种种又如何生起呢？诸比丘，缘于眼界生起眼触；缘于耳界……缘于鼻界……缘于舌界……缘于身界……缘于意界生起意触。诸比丘，正是这样缘于界种种而生起触种种。”第二经。"
+    },
+    {
+      "idx": 6,
+      "pali": "3. Nophassanānattasuttaṃ",
+      "zh": "3. [[nophassanānattasutta|非触种种经]]"
+    },
+    {
+      "idx": 7,
+      "pali": "Sāvatthiyaṃ viharati…pe… ‘‘dhātunānattaṃ, bhikkhave, paṭicca uppajjati phassanānattaṃ, no phassanānattaṃ paṭicca uppajjati dhātunānattaṃ. Katamañca, bhikkhave, dhātunānattaṃ? Cakkhudhātu…pe… manodhātu – idaṃ vuccati, bhikkhave, dhātunānattaṃ’’.",
+      "zh": "于[[sāvatthī|舍卫城]]……“诸比丘，缘界种种而生起触种种，非缘触种种而生起界种种。诸比丘，何为界种种？眼界……意界——诸比丘，是名界种种。”",
+      "n": "87"
+    },
+    {
+      "idx": 8,
+      "pali": "‘‘Kathañca , bhikkhave, dhātunānattaṃ paṭicca uppajjati phassanānattaṃ, no phassanānattaṃ paṭicca uppajjati dhātunānattaṃ? Cakkhudhātuṃ, bhikkhave, paṭicca uppajjati cakkhusamphasso, no cakkhusamphassaṃ paṭicca uppajjati cakkhudhātu…pe… manodhātuṃ paṭicca uppajjati manosamphasso, no manosamphassaṃ paṭicca uppajjati manodhātu. Evaṃ kho, bhikkhave, dhātunānattaṃ paṭicca uppajjati phassanānattaṃ, no phassanānattaṃ paṭicca uppajjati dhātunānatta’’nti. Tatiyaṃ.",
+      "zh": "“诸比丘，如何是缘界种种而生起触种种，非缘触种种而生起界种种呢？诸比丘，缘眼界生起眼触，非缘眼触生起眼界……（中略）……缘意界生起意触，非缘意触生起意界。诸比丘，正是如此，缘界种种生起触种种，非缘触种种生起界种种。”第三经。"
+    },
+    {
+      "idx": 9,
+      "pali": "4. Vedanānānattasuttaṃ",
+      "zh": "4. [[vedanānānattasutta|受种种经]]"
+    },
+    {
+      "idx": 10,
+      "pali": "Sāvatthiyaṃ viharati…pe… ‘‘dhātunānattaṃ, bhikkhave, paṭicca uppajjati phassanānattaṃ, phassanānattaṃ paṭicca uppajjati vedanānānattaṃ. Katamañca, bhikkhave, dhātunānattaṃ? Cakkhudhātu …pe… manodhātu – idaṃ vuccati, bhikkhave, dhātunānattaṃ’’.",
+      "zh": "住于[[sāvatthī|舍卫城]]……“诸比丘，缘界种种生起触种种，缘触种种生起受种种。诸比丘，何等是界种种？眼界……意界——诸比丘，此名为界种种。”",
+      "n": "88"
+    },
+    {
+      "idx": 11,
+      "pali": "‘‘Kathañca, bhikkhave, dhātunānattaṃ paṭicca uppajjati phassanānattaṃ, phassanānattaṃ paṭicca uppajjati vedanānānattaṃ? Cakkhudhātuṃ, bhikkhave, paṭicca uppajjati cakkhusamphasso, cakkhusamphassaṃ paṭicca uppajjati cakkhusamphassajā vedanā…pe… manodhātuṃ paṭicca uppajjati manosamphasso, manosamphassaṃ paṭicca uppajjati manosamphassajā vedanā. Evaṃ kho, bhikkhave, dhātunānattaṃ paṭicca uppajjati phassanānattaṃ, phassanānattaṃ paṭicca uppajjati vedanānānatta’’nti. Catutthaṃ.",
+      "zh": "“诸比丘，如何缘于界种种而生起触种种，缘于触种种而生起受种种？诸比丘，缘于眼界而生起眼触，缘于眼触而生起眼触所生受……缘于意界而生起意触，缘于意触而生起意触所生受。诸比丘，正是如此，缘于界种种而生起触种种，缘于触种种而生起受种种。”第四经。"
+    },
+    {
+      "idx": 12,
+      "pali": "5. Dutiyavedanānānattasuttaṃ",
+      "zh": "5. [[dutiyavedanānānattasutta|第二受种种经]]"
+    },
+    {
+      "idx": 13,
+      "pali": "Sāvatthiyaṃ viharati…pe… ‘‘dhātunānattaṃ, bhikkhave, paṭicca uppajjati phassanānattaṃ, phassanānattaṃ paṭicca uppajjati vedanānānattaṃ, no vedanānānattaṃ paṭicca uppajjati phassanānattaṃ, no phassanānattaṃ paṭicca uppajjati dhātunānattaṃ. Katamañca, bhikkhave, dhātunānattaṃ? Cakkhudhātu…pe… manodhātu – idaṃ vuccati, bhikkhave, dhātunānattaṃ’’.",
+      "zh": "在[[sāvatthī|舍卫城]]。……诸比丘，缘于界种种而生起触种种，缘于触种种而生起受种种；非缘于受种种而生起触种种，非缘于触种种而生起界种种。诸比丘，什么是界种种？眼界……意界。诸比丘，这称为界种种。",
+      "n": "89"
+    },
+    {
+      "idx": 14,
+      "pali": "‘‘Kathañca, bhikkhave, dhātunānattaṃ paṭicca uppajjati phassanānattaṃ, phassanānattaṃ paṭicca uppajjati vedanānānattaṃ, no vedanānānattaṃ paṭicca uppajjati phassanānattaṃ, no phassanānattaṃ paṭicca uppajjati dhātunānattaṃ? Cakkhudhātuṃ, bhikkhave, paṭicca uppajjati cakkhusamphasso, cakkhusamphassaṃ paṭicca uppajjati cakkhusamphassajā vedanā, no cakkhusamphassajaṃ vedanaṃ paṭicca uppajjati cakkhusamphasso, no cakkhusamphassaṃ paṭicca uppajjati cakkhudhātu…pe… manodhātuṃ paṭicca uppajjati manosamphasso, manosamphassaṃ paṭicca uppajjati manosamphassajā vedanā, no manosamphassajaṃ vedanaṃ paṭicca uppajjati manosamphasso, no manosamphassaṃ paṭicca uppajjati manodhātu. Evaṃ kho, bhikkhave, dhātunānattaṃ paṭicca uppajjati phassanānattaṃ, phassanānattaṃ paṭicca uppajjati vedanānānattaṃ, no vedanānānattaṃ paṭicca uppajjati phassanānattaṃ, no phassanānattaṃ paṭicca uppajjati dhātunānatta’’nti. Pañcamaṃ.",
+      "zh": "“诸比丘，如何以界的种种为缘而生起触的种种，以触的种种为缘而生起受的种种，而非以受的种种为缘生起触的种种，非以触的种种为缘生起界的种种？诸比丘，以眼界为缘生起眼触，以眼触为缘生起眼触所生之受，非以眼触所生之受为缘生起眼触，非以眼触为缘生起眼界；以耳界为缘生起耳触，以耳触为缘生起耳触所生之受，非以耳触所生之受为缘生起耳触，非以耳触为缘生起耳界；以鼻界为缘生起鼻触，以鼻触为缘生起鼻触所生之受，非以鼻触所生之受为缘生起鼻触，非以鼻触为缘生起鼻界；以舌界为缘生起舌触，以舌触为缘生起舌触所生之受，非以舌触所生之受为缘生起舌触，非以舌触为缘生起舌界；以身界为缘生起身触，以身触为缘生起身触所生之受，非以身触所生之受为缘生起身触，非以身触为缘生起身界；以意界为缘生起意触，以意触为缘生起意触所生之受，非以意触所生之受为缘生起意触，非以意触为缘生起意界。诸比丘，正是这样，以界的种种为缘而生起触的种种，以触的种种为缘而生起受的种种，而非以受的种种为缘生起触的种种，非以触的种种为缘生起界的种种。”第五经。"
+    },
+    {
+      "idx": 15,
+      "pali": "6. Bāhiradhātunānattasuttaṃ",
+      "zh": "6. [[bāhiradhātunānattasutta|外界种种经]]"
+    },
+    {
+      "idx": 16,
+      "pali": "Sāvatthiyaṃ viharati…pe… ‘‘dhātunānattaṃ vo, bhikkhave, desessāmi. Taṃ suṇātha…pe… katamañca, bhikkhave, dhātunānattaṃ? Rūpadhātu saddadhātu gandhadhātu rasadhātu phoṭṭhabbadhātu dhammadhātu – idaṃ vuccati, bhikkhave, dhātunānatta’’nti. Chaṭṭhaṃ.",
+      "zh": "在[[sāvatthī|舍卫城]]……\n“诸比丘，我将为你们解说界的种种。你们仔细听……\n诸比丘，什么是界的种种？色界、声界、香界、味界、触界、法界——诸比丘，这称为界的种种。”\n第六经。",
+      "n": "90"
+    },
+    {
+      "idx": 17,
+      "pali": "7. Saññānānattasuttaṃ",
+      "zh": "7. [[saññānānattasutta|种种想经]]"
+    },
+    {
+      "idx": 18,
+      "pali": "Sāvatthiyaṃ viharati…pe… ‘‘bhadante’’ti te bhikkhū bhagavato paccassosuṃ. Bhagavā etadavoca – ‘‘dhātunānattaṃ, bhikkhave, paṭicca uppajjati saññānānattaṃ, saññānānattaṃ paṭicca uppajjati saṅkappanānattaṃ, saṅkappanānattaṃ paṭicca uppajjati chandanānattaṃ, chandanānattaṃ paṭicca uppajjati pariḷāhanānattaṃ, pariḷāhanānattaṃ paṭicca uppajjati pariyesanānānattaṃ. Katamañca, bhikkhave, dhātunānattaṃ? Rūpadhātu…pe… dhammadhātu – idaṃ vuccati, bhikkhave, dhātunānattaṃ’’.",
+      "zh": "在[[sāvatthī|舍卫城]]…… “尊者。”那些比丘回答世尊。世尊这样说道：“诸比丘，以界的种种为缘，生起种种想；以种种想为缘，生起种种思惟；以种种思惟为缘，生起种种欲；以种种欲为缘，生起种种热恼；以种种热恼为缘，生起种种寻求。诸比丘，什么是界的种种？色界……（中略）……法界——诸比丘，这称为界的种种。”",
+      "n": "91"
+    },
+    {
+      "idx": 19,
+      "pali": "‘‘Kathañca , bhikkhave, dhātunānattaṃ paṭicca uppajjati saññānānattaṃ, saññānānattaṃ paṭicca uppajjati saṅkappanānattaṃ, saṅkappanānattaṃ paṭicca uppajjati chandanānattaṃ, chandanānattaṃ paṭicca uppajjati pariḷāhanānattaṃ, pariḷāhanānattaṃ paṭicca uppajjati pariyesanānānattaṃ?",
+      "zh": "“诸比丘，如何以界的种种为缘而生起种种想，以种种想为缘而生起种种思惟，以种种思惟为缘而生起种种欲，以种种欲为缘而生起种种热恼，以种种热恼为缘而生起种种寻求呢？"
+    },
+    {
+      "idx": 20,
+      "pali": "‘‘Rūpadhātuṃ, bhikkhave, paṭicca uppajjati rūpasaññā , rūpasaññaṃ paṭicca uppajjati rūpasaṅkappo, rūpasaṅkappaṃ paṭicca uppajjati rūpacchando, rūpacchandaṃ paṭicca uppajjati rūpapariḷāho, rūpapariḷāhaṃ paṭicca uppajjati rūpapariyesanā…pe… dhammadhātuṃ paṭicca uppajjati dhammasaññā, dhammasaññaṃ paṭicca uppajjati dhammasaṅkappo, dhammasaṅkappaṃ paṭicca uppajjati dhammacchando, dhammacchandaṃ paṭicca uppajjati dhammapariḷāho, dhammapariḷāhaṃ paṭicca uppajjati dhammapariyesanā.",
+      "zh": "“诸比丘，缘于色界生起色想，缘于色想生起色思惟，缘于色思惟生起色欲，缘于色欲生起色热恼，缘于色热恼生起色寻求……（中略）……缘于法界生起法想，缘于法想生起法思惟，缘于法思惟生起法欲，缘于法欲生起法热恼，缘于法热恼生起法寻求。"
+    },
+    {
+      "idx": 21,
+      "pali": "‘‘Evaṃ, kho, bhikkhave, dhātunānattaṃ paṭicca uppajjati saññānānattaṃ, saññānānattaṃ paṭicca uppajjati saṅkappanānattaṃ, saṅkappanānattaṃ paṭicca uppajjati chandanānattaṃ, chandanānattaṃ paṭicca uppajjati pariḷāhanānattaṃ, pariḷāhanānattaṃ paṭicca uppajjati pariyesanānānatta’’nti. Sattamaṃ.",
+      "zh": "“诸比丘，正是这样，缘于界种种生起想种种，缘于想种种生起思惟种种，缘于思惟种种生起欲种种，缘于欲种种生起热恼种种，缘于热恼种种生起寻求种种。第七经。"
+    },
+    {
+      "idx": 22,
+      "pali": "8. Nopariyesanānānattasuttaṃ",
+      "zh": "8. [[nopariyesanānānattasutta|非寻求种种经]]"
+    },
+    {
+      "idx": 23,
+      "pali": "Sāvatthiyaṃ viharati…pe… ‘‘dhātunānattaṃ, bhikkhave, paṭicca uppajjati saññānānattaṃ, saññānānattaṃ paṭicca uppajjati saṅkappanānattaṃ, saṅkappanānattaṃ paṭicca uppajjati chandanānattaṃ, chandanānattaṃ paṭicca uppajjati pariḷāhanānattaṃ, pariḷāhanānattaṃ paṭicca uppajjati pariyesanānānattaṃ; no pariyesanānānattaṃ paṭicca uppajjati pariḷāhanānattaṃ , no pariḷāhanānattaṃ paṭicca uppajjati chandanānattaṃ, no chandanānattaṃ paṭicca uppajjati saṅkappanānattaṃ , no saṅkappanānattaṃ paṭicca uppajjati saññānānattaṃ, no saññānānattaṃ paṭicca uppajjati dhātunānattaṃ. Katamañca, bhikkhave, dhātunānattaṃ? Rūpadhātu…pe… dhammadhātu – idaṃ vuccati, bhikkhave, dhātunānattaṃ’’.",
+      "zh": "如是我闻：一时，世尊住在[[sāvatthī|舍卫城]]……\n\n“诸比丘！由界的种种，生起想的种种；由想的种种，生起思惟的种种；由思惟的种种，生起欲望的种种；由欲望的种种，生起热恼的种种；由热恼的种种，生起寻求的种种。并非由寻求的种种而生起热恼的种种，并非由热恼的种种而生起欲望的种种，并非由欲望的种种而生起思惟的种种，并非由思惟的种种而生起想的种种，并非由想的种种而生起界的种种。\n\n诸比丘！什么是界的种种？色界、声界、香界、味界、触界、法界——诸比丘！这便称为界的种种。”",
+      "n": "92"
+    },
+    {
+      "idx": 24,
+      "pali": "‘‘Kathañca , bhikkhave, dhātunānattaṃ paṭicca uppajjati saññānānattaṃ, saññānānattaṃ paṭicca uppajjati…pe… pariyesanānānattaṃ; no pariyesanānānattaṃ paṭicca uppajjati pariḷāhanānattaṃ, no pariḷāhanānattaṃ paṭicca uppajjati chandanānattaṃ, no chandanānattaṃ paṭicca uppajjati saṅkappanānattaṃ, no saṅkappanānattaṃ paṭicca uppajjati saññānānattaṃ, no saññānānattaṃ paṭicca uppajjati dhātunānattaṃ?",
+      "zh": "“诸比丘！如何由界的种种而生起想的种种，由想的种种而生起……寻求的种种；并非由寻求的种种而生起热恼的种种，并非由热恼的种种而生起欲望的种种，并非由欲望的种种而生起思惟的种种，并非由思惟的种种而生起想的种种，并非由想的种种而生起界的种种？”"
+    },
+    {
+      "idx": 25,
+      "pali": "‘‘Rūpadhātuṃ, bhikkhave, paṭicca uppajjati rūpasaññā…pe… dhammadhātuṃ paṭicca uppajjati dhammasaññā, dhammasaññaṃ paṭicca uppajjati…pe… dhammapariyesanā; no dhammapariyesanaṃ paṭicca uppajjati dhammapariḷāho, no dhammapariḷāhaṃ paṭicca uppajjati dhammacchando, no dhammacchandaṃ paṭicca uppajjati dhammasaṅkappo, no dhammasaṅkappaṃ paṭicca uppajjati dhammasaññā, no dhammasaññaṃ paṭicca uppajjati dhammadhātu.",
+      "zh": "“诸比丘！由色界而生起色想……由法界而生起法想，由法想而生起……法寻求；并非由法寻求而生起法热恼，并非由法热恼而生起法欲，并非由法欲而生起法寻，并非由法寻而生起法想，并非由法想而生起法界。”"
+    },
+    {
+      "idx": 26,
+      "pali": "‘‘Evaṃ kho, bhikkhave, dhātunānattaṃ paṭicca uppajjati saññānānattaṃ, saññānānattaṃ paṭicca uppajjati…pe… pariyesanānānattaṃ; no pariyesanānānattaṃ paṭicca uppajjati pariḷāhanānattaṃ, no pariḷāhanānattaṃ paṭicca uppajjati chandanānattaṃ, no chandanānattaṃ paṭicca uppajjati saṅkappanānattaṃ, no saṅkappanānattaṃ paṭicca uppajjati saññānānattaṃ, no saññānānattaṃ paṭicca uppajjati dhātunānatta’’nti. Aṭṭhamaṃ.",
+      "zh": "“诸比丘，如是，缘界种种而生想种种，缘想种种而生……乃至寻求种种。然而，非缘寻求种种而生热恼种种，非缘热恼种种而生欲种种，非缘欲种种而生寻种种，非缘寻种种而生想种种，非缘想种种而生界种种。第八"
+    },
+    {
+      "idx": 27,
+      "pali": "9. Bāhiraphassanānattasuttaṃ",
+      "zh": "9. [[bāhiraphassanānattasutta|外触种种经]]"
+    },
+    {
+      "idx": 28,
+      "pali": "Sāvatthiyaṃ viharati…pe… ‘‘dhātunānattaṃ, bhikkhave, paṭicca uppajjati saññānānattaṃ, saññānānattaṃ paṭicca uppajjati saṅkappanānattaṃ, saṅkappanānattaṃ paṭicca uppajjati phassanānattaṃ , phassanānattaṃ paṭicca uppajjati vedanānānattaṃ, vedanānānattaṃ paṭicca uppajjati chandanānattaṃ, chandanānattaṃ paṭicca uppajjati pariḷāhanānattaṃ, pariḷāhanānattaṃ paṭicca uppajjati pariyesanānānattaṃ , pariyesanānānattaṃ paṭicca uppajjati lābhanānattaṃ. Katamañca, bhikkhave, dhātunānattaṃ? Rūpadhātu…pe… dhammadhātu – idaṃ vuccati, bhikkhave, dhātunānattaṃ’’.",
+      "zh": "于[[sāvatthī|舍卫城]]……世尊告诸比丘：“诸比丘，缘界种种而生起想种种，缘想种种而生起寻种种，缘寻种种而生起触种种，缘触种种而生起受种种，缘受种种而生起欲种种，缘欲种种而生起热恼种种，缘热恼种种而生起寻求种种，缘寻求种种而生起获得种种。诸比丘，什么是界种种？即色界、声界、香界、味界、触界、法界。诸比丘，这称为界种种。”",
+      "n": "93"
+    },
+    {
+      "idx": 29,
+      "pali": "‘‘Kathañca, bhikkhave, dhātunānattaṃ paṭicca uppajjati saññānānattaṃ, saññānānattaṃ paṭicca uppajjati…pe… lābhanānattaṃ?",
+      "zh": "“诸比丘！如何缘于界种种而生起想种种，缘于想种种……乃至生起获得种种呢？”"
+    },
+    {
+      "idx": 30,
+      "pali": "‘‘Rūpadhātuṃ, bhikkhave, paṭicca uppajjati rūpasaññā, rūpasaññaṃ paṭicca uppajjati rūpasaṅkappo, rūpasaṅkappaṃ paṭicca uppajjati rūpasamphasso, rūpasamphassaṃ paṭicca uppajjati rūpasamphassajā vedanā, rūpasamphassajaṃ vedanaṃ paṭicca uppajjati rūpacchando, rūpacchandaṃ paṭicca uppajjati rūpapariḷāho, rūpapariḷāhaṃ paṭicca uppajjati rūpapariyesanā, rūpapariyesanaṃ paṭicca uppajjati rūpalābho…pe… dhammadhātuṃ paṭicca uppajjati dhammasaññā, dhammasaññaṃ paṭicca uppajjati dhammasaṅkappo, dhammasaṅkappaṃ paṭicca uppajjati dhammasamphasso, dhammasamphassaṃ paṭicca uppajjati dhammasamphassajā vedanā, dhammasamphassajaṃ vedanaṃ paṭicca uppajjati dhammacchando, dhammacchandaṃ paṭicca uppajjati dhammapariḷāho, dhammapariḷāhaṃ paṭicca uppajjati dhammapariyesanā, dhammapariyesanaṃ paṭicca uppajjati dhammalābho .",
+      "zh": "“诸比丘！缘于色界，色想生起；缘于色想，色思惟生起；缘于色思惟，色触生起；缘于色触，色触所生受生起；缘于色触所生受，色欲生起；缘于色欲，色热恼生起；缘于色热恼，色寻求生起；缘于色寻求，色获得生起。……缘于法界，法想生起；缘于法想，法思惟生起；缘于法思惟，法触生起；缘于法触，法触所生受生起；缘于法触所生受，法欲生起；缘于法欲，法热恼生起；缘于法热恼，法寻求生起；缘于法寻求，法获得生起。"
+    },
+    {
+      "idx": 31,
+      "pali": "‘‘Evaṃ kho, bhikkhave, dhātunānattaṃ paṭicca uppajjati saññānānattaṃ, saññānānattaṃ paṭicca uppajjati…pe… pariyesanānānattaṃ, pariyesanānānattaṃ paṭicca uppajjati lābhanānatta’’nti. Navamaṃ.",
+      "zh": "“诸比丘！正是如此，缘于界种种，生起想种种；缘于想种种……乃至缘于寻求种种，生起获得种种。第九经。"
+    },
+    {
+      "idx": 32,
+      "pali": "10. Dutiyabāhiraphassanānattasuttaṃ",
+      "zh": "10. [[dutiyabāhiraphassanānattasutta|第二外触种种经]]"
+    },
+    {
+      "idx": 33,
+      "pali": "Sāvatthiyaṃ viharati…pe… ‘‘dhātunānattaṃ, bhikkhave, paṭicca uppajjati saññānānattaṃ, saññānānattaṃ paṭicca uppajjati saṅkappanānattaṃ , phassa… vedanā… chanda… pariḷāha… pariyesanānānattaṃ paṭicca uppajjati lābhanānattaṃ; no lābhanānattaṃ paṭicca uppajjati pariyesanānānattaṃ, no pariyesanānānattaṃ paṭicca uppajjati pariḷāhanānattaṃ, no pariḷāhanānattaṃ paṭicca uppajjati…pe… chanda… vedanā… phassa… saṅkappa… saññānānattaṃ , no saññānānattaṃ paṭicca uppajjati dhātunānattaṃ. Katamañca, bhikkhave, dhātunānattaṃ? Rūpadhātu…pe… dhammadhātu – idaṃ vuccati, bhikkhave, dhātunānattaṃ’’.",
+      "zh": "住在[[sāvatthī|舍卫城]]……“诸比丘，缘界种种而生起想种种，缘想种种而生起寻种种，缘触……受……欲……热恼……寻求种种而生起获得种种；非缘获得种种而生起寻求种种，非缘寻求种种而生起热恼种种，非缘热恼种种而生起欲……受……触……寻……想种种，非缘想种种而生起界种种。诸比丘，什么是界种种？即色界……法界。诸比丘，此称为界种种。”",
+      "n": "94"
+    },
+    {
+      "idx": 34,
+      "pali": "‘‘Kathañca, bhikkhave, dhātunānattaṃ paṭicca uppajjati saññānānattaṃ, saññānānattaṃ paṭicca uppajjati saṅkappanānattaṃ? Phassa… vedanā… chanda… pariḷāha… pariyesanā… lābha… no lābhanānattaṃ paṭicca uppajjati pariyesanānānattaṃ, no pariyesanānānattaṃ paṭicca uppajjati pariḷāha… chanda… vedanā… phassa… no saṅkappanānattaṃ paṭicca uppajjati saññānānattaṃ, no saññānānattaṃ paṭicca uppajjati dhātunānattaṃ?",
+      "zh": "“诸比丘，如何是缘界种种而生起想种种，缘想种种而生起寻种种？缘触……受……欲……热恼……寻求……获得……非缘获得种种而生起寻求种种，非缘寻求种种而生起热恼……欲……受……触……非缘寻种种而生起想种种，非缘想种种而生起界种种？”"
+    },
+    {
+      "idx": 35,
+      "pali": "‘‘Rūpadhātuṃ, bhikkhave, paṭicca uppajjati rūpasaññā…pe… dhammadhātuṃ paṭicca uppajjati dhammasaññā, dhammasaññaṃ paṭicca uppajjati…pe… dhammapariyesanā, dhammapariyesanaṃ paṭicca uppajjati dhammalābho; no dhammalābhaṃ paṭicca uppajjati dhammapariyesanā, no dhammapariyesanaṃ paṭicca uppajjati dhammapariḷāho , no dhammapariḷāhaṃ paṭicca uppajjati dhammacchando, no dhammacchandaṃ paṭicca uppajjati dhammasamphassajā vedanā, no dhammasamphassajaṃ vedanaṃ paṭicca uppajjati dhammasamphasso, no dhammasamphassaṃ paṭicca uppajjati dhammasaṅkappo, no dhammasaṅkappaṃ paṭicca uppajjati dhammasaññā, no dhammasaññaṃ paṭicca uppajjati dhammadhātu.",
+      "zh": "“诸比丘，缘色界而有色想生起……缘法界而有法想生起，缘法想而有……法寻求生起，缘法寻求而有法获得生起；并非缘法获得而有法寻求生起，并非缘法寻求而有法热恼生起，并非缘法热恼而有法欲生起，并非缘法欲而有法触所生受生起，并非缘法触所生受而有法触生起，并非缘法触而有法寻生起，并非缘法寻而有法想生起，并非缘法想而有法界生起。"
+    },
+    {
+      "idx": 36,
+      "pali": "‘‘Evaṃ kho, bhikkhave, dhātunānattaṃ paṭicca uppajjati saññānānattaṃ, saññānānattaṃ paṭicca uppajjati…pe… saṅkappa… phassa… vedanā… chanda… pariḷāha… pariyesanā… lābha… no lābhanānattaṃ paṭicca uppajjati pariyesanānānattaṃ, no pariyesanānānattaṃ paṭicca uppajjati pariḷāhanānattaṃ, no pariḷāhanānattaṃ paṭicca uppajjati chandanānattaṃ, no chandanānattaṃ paṭicca uppajjati vedanānānattaṃ, no vedanānānattaṃ paṭicca uppajjati phassanānattaṃ, no phassanānattaṃ paṭicca uppajjati saṅkappanānattaṃ, no saṅkappanānattaṃ paṭicca uppajjati saññānānattaṃ, no saññānānattaṃ paṭicca uppajjati dhātunānatta’’nti. Dasamaṃ.",
+      "zh": "“诸比丘，正是如此：缘界种种而有想种种生起，缘想种种而有寻种种、触种种、受种种、欲种种、热恼种种、寻求种种、获得种种生起；并非缘获得种种而有寻求种种生起，并非缘寻求种种而有热恼种种生起，并非缘热恼种种而有欲种种生起，并非缘欲种种而有受种种生起，并非缘受种种而有触种种生起，并非缘触种种而有寻种种生起，并非缘寻种种而有想种种生起，并非缘想种种而有界种种生起。第十经。"
+    },
+    {
+      "idx": 37,
+      "pali": "Nānattavaggo paṭhamo.",
+      "zh": "种种品第一"
+    },
+    {
+      "idx": 38,
+      "pali": "Tassuddānaṃ –",
+      "zh": "其摄颂："
+    },
+    {
+      "idx": 39,
+      "pali": "Dhātuphassañca no cetaṃ, vedanā apare duve;",
+      "zh": "界、触，以及与此不同者，受与其余二者；",
+      "type": "verse"
+    },
+    {
+      "idx": 40,
+      "pali": "Etaṃ ajjhattapañcakaṃ, dhātusaññañca no cetaṃ;",
+      "zh": "此为内五支，而界想非此所摄；",
+      "type": "verse"
+    },
+    {
+      "idx": 41,
+      "pali": "Phassassa apare duve, etaṃ bāhirapañcakanti.",
+      "zh": "触又分二种，是名外五法。",
+      "type": "verse"
+    },
+    {
+      "idx": 42,
+      "pali": "2. Dutiyavaggo",
+      "zh": "第二品"
+    },
+    {
+      "idx": 43,
+      "pali": "1. Sattadhātusuttaṃ",
+      "zh": "1. [[sattadhātusutta|七界经]]"
+    },
+    {
+      "idx": 44,
+      "pali": "Sāvatthiyaṃ viharati…pe… ‘‘sattimā , bhikkhave, dhātuyo. Katamā satta? Ābhādhātu, subhadhātu, ākāsānañcāyatanadhātu, viññāṇañcāyatanadhātu, ākiñcaññāyatanadhātu, nevasaññānāsaññāyatanadhātu, saññāvedayitanirodhadhātu – imā kho, bhikkhave, satta dhātuyo’’ti.",
+      "zh": "住于[[sāvatthī|舍卫城]]……“比丘们，有七界。哪七种呢？光界、净界、空无边处界、识无边处界、无所有处界、非想非非想处界、想受灭界。比丘们，这便是七界。”",
+      "n": "95"
+    },
+    {
+      "idx": 45,
+      "pali": "Evaṃ vutte, aññataro bhikkhu bhagavantaṃ etadavoca – ‘‘yā cāyaṃ, bhante, ābhādhātu yā ca subhadhātu yā ca ākāsānañcāyatanadhātu yā ca viññāṇañcāyatanadhātu yā ca ākiñcaññāyatanadhātu yā ca nevasaññānāsaññāyatanadhātu yā ca saññāvedayitanirodhadhātu – imā nu kho, bhante, dhātuyo kiṃ paṭicca paññāyantī’’ti?",
+      "zh": "世尊这样说后，有一位比丘问世尊：“尊者，所说的光界、净界、空无边处界、识无边处界、无所有处界、非想非非想处界，以及想受灭界——尊者，这些界是依什么而显现的呢？”"
+    },
+    {
+      "idx": 46,
+      "pali": "‘‘Yāyaṃ, bhikkhu, ābhādhātu – ayaṃ dhātu andhakāraṃ paṭicca paññāyati. Yāyaṃ, bhikkhu, subhadhātu – ayaṃ dhātu asubhaṃ paṭicca paññāyati. Yāyaṃ, bhikkhu, ākāsānañcāyatanadhātu – ayaṃ dhātu rūpaṃ paṭicca paññāyati. Yāyaṃ, bhikkhu, viññāṇañcāyatanadhātu – ayaṃ dhātu ākāsānañcāyatanaṃ paṭicca paññāyati. Yāyaṃ, bhikkhu, ākiñcaññāyatanadhātu – ayaṃ dhātu viññāṇañcāyatanaṃ paṭicca paññāyati. Yāyaṃ, bhikkhu, nevasaññānāsaññāyatanadhātu – ayaṃ dhātu ākiñcaññāyatanaṃ paṭicca paññāyati. Yāyaṃ, bhikkhu, saññāvedayitanirodhadhātu – ayaṃ dhātu nirodhaṃ paṭicca paññāyatī’’ti.",
+      "zh": "“比丘，所谓光界者，此界依黑暗而显现。比丘，所谓净界者，此界依不净而显现。比丘，所谓空无边处界者，此界依色法而显现。比丘，所谓识无边处界者，此界依空无边处界而显现。比丘，所谓无所有处界者，此界依识无边处界而显现。比丘，所谓非想非非想处界者，此界依无所有处界而显现。比丘，所谓想受灭界者，此界依灭尽而显现。”"
+    },
+    {
+      "idx": 47,
+      "pali": "‘‘Yā cāyaṃ , bhante, ābhādhātu yā ca subhadhātu yā ca ākāsānañcāyatanadhātu yā ca viññāṇañcāyatanadhātu yā ca ākiñcaññāyatanadhātu yā ca nevasaññānāsaññāyatanadhātu yā ca saññāvedayitanirodhadhātu – imā nu kho, bhante, dhātuyo kathaṃ samāpatti pattabbā’’ti?",
+      "zh": "“尊者，这光界、净界、空无边处界、识无边处界、无所有处界、非想非非想处界，以及想受灭界——尊者，这些界应以怎样的等至而证得呢？”"
+    },
+    {
+      "idx": 48,
+      "pali": "‘‘Yā cāyaṃ, bhikkhu, ābhādhātu yā ca subhadhātu yā ca ākāsānañcāyatanadhātu yā ca viññāṇañcāyatanadhātu yā ca ākiñcaññāyatanadhātu – imā dhātuyo saññāsamāpatti pattabbā. Yāyaṃ, bhikkhu, nevasaññānāsaññāyatanadhātu – ayaṃ dhātu saṅkhārāvasesasamāpatti pattabbā . Yāyaṃ, bhikkhu, saññāvedayitanirodhadhātu – ayaṃ dhātu nirodhasamāpatti pattabbā’’ti. Paṭhamaṃ.",
+      "zh": "“比丘，光界、净界、空无边处界、识无边处界、无所有处界——这些界是应以想等至而证得的。比丘，而非想非非想处界，是应以行残余等至而证得的。比丘，那想受灭界，是应以灭尽等至而证得的。 ”第一经。"
+    },
+    {
+      "idx": 49,
+      "pali": "2. Sanidānasuttaṃ",
+      "zh": "2. [[sanidānasutta|有因经]]"
+    },
+    {
+      "idx": 50,
+      "pali": "Sāvatthiyaṃ viharati…pe… ‘‘sanidānaṃ, bhikkhave, uppajjati kāmavitakko, no anidānaṃ; sanidānaṃ uppajjati byāpādavitakko, no anidānaṃ; sanidānaṃ uppajjati vihiṃsāvitakko, no anidānaṃ’’.",
+      "zh": "于[[sāvatthī|舍卫城]]……“诸比丘，欲寻思依因而生，非无因生；嗔恚寻思依因而生，非无因生；害寻思依因而生，非无因生。”",
+      "n": "96"
+    },
+    {
+      "idx": 51,
+      "pali": "‘‘Kathañca, bhikkhave, sanidānaṃ uppajjati kāmavitakko, no anidānaṃ; sanidānaṃ uppajjati byāpādavitakko, no anidānaṃ; sanidānaṃ uppajjati vihiṃsāvitakko, no anidānaṃ? Kāmadhātuṃ, bhikkhave, paṭicca uppajjati kāmasaññā, kāmasaññaṃ paṭicca uppajjati kāmasaṅkappo, kāmasaṅkappaṃ paṭicca uppajjati kāmacchando, kāmacchandaṃ paṭicca uppajjati kāmapariḷāho, kāmapariḷāhaṃ paṭicca uppajjati kāmapariyesanā. Kāmapariyesanaṃ, bhikkhave, pariyesamāno assutavā puthujjano tīhi ṭhānehi micchā paṭipajjati – kāyena, vācāya, manasā.",
+      "zh": "“诸比丘，欲寻思如何依缘而生起，并非无因？嗔恚寻思如何依缘而生起，并非无因？害寻思如何依缘而生起，并非无因？诸比丘，以欲界为缘，生起欲想；以欲想为缘，生起欲思惟；以欲思惟为缘，生起欲欲；以欲欲为缘，生起欲热恼；以欲热恼为缘，生起欲寻求。诸比丘，那寻求欲寻求的无闻凡夫，便以身、语、意三处行于邪道。”"
+    },
+    {
+      "idx": 52,
+      "pali": "‘‘Byāpādadhātuṃ, bhikkhave, paṭicca uppajjati byāpādasaññā, byāpādasaññaṃ paṭicca uppajjati byāpādasaṅkappo…pe… byāpādacchando… byāpādapariḷāho… byāpādapariyesanā… byāpādapariyesanaṃ, bhikkhave, pariyesamāno assutavā puthujjano tīhi ṭhānehi micchā paṭipajjati – kāyena, vācāya, manasā.",
+      "zh": "“诸比丘，以嗔恚界为缘，生起嗔恚想；以嗔恚想为缘，生起嗔恚思惟；以嗔恚思惟为缘，生起嗔恚欲；以嗔恚欲为缘，生起嗔恚热恼；以嗔恚热恼为缘，生起嗔恚寻求。诸比丘，那寻求嗔恚寻求的无闻凡夫，便以身、语、意三处行于邪道。”"
+    },
+    {
+      "idx": 53,
+      "pali": "‘‘Vihiṃsādhātuṃ , bhikkhave, paṭicca uppajjati vihiṃsāsaññā; vihiṃsāsaññaṃ paṭicca uppajjati vihiṃsāsaṅkappo…pe… vihiṃsāchando… vihiṃsāpariḷāho… vihiṃsāpariyesanā… vihiṃsāpariyesanaṃ, bhikkhave , pariyesamāno assutavā puthujjano tīhi ṭhānehi micchā paṭipajjati – kāyena, vācāya, manasā.",
+      "zh": "“诸比丘，以害界为缘，生起害想；以害想为缘，生起害思惟；以害思惟为缘，生起害欲；以害欲为缘，生起害热恼；以害热恼为缘，生起害寻求。诸比丘，那寻求害寻求的无闻凡夫，便以身、语、意三处行于邪道。”"
+    },
+    {
+      "idx": 54,
+      "pali": "‘‘Seyyathāpi, bhikkhave, puriso ādittaṃ tiṇukkaṃ sukkhe tiṇadāye nikkhipeyya; no ce hatthehi ca pādehi ca khippameva nibbāpeyya. Evañhi, bhikkhave, ye tiṇakaṭṭhanissitā pāṇā te anayabyasanaṃ āpajjeyyuṃ. Evameva kho, bhikkhave, yo hi koci samaṇo vā brāhmaṇo vā uppannaṃ visamagataṃ saññaṃ na khippameva pajahati vinodeti byantīkaroti anabhāvaṃ gameti, so diṭṭhe ceva dhamme dukkhaṃ viharati savighātaṃ saupāyāsaṃ sapariḷāhaṃ; kāyassa ca bhedā paraṃ maraṇā duggati pāṭikaṅkhā.",
+      "zh": "“诸比丘，譬如有人将燃烧的火把投入干草丛中，若不用手足急速将其扑灭，诸比丘，凡依于草木而活的众生便会遭遇灾难与毁灭。同样地，诸比丘，任何沙门或婆罗门，若于已生起的邪曲之想不急速舍断、驱除、消灭、令其灭尽无余，那么他于现法中便住于痛苦，伴以恼害、忧恼与热恼；身坏命终之后，可预期投生于恶趣。”"
+    },
+    {
+      "idx": 55,
+      "pali": "‘‘Sanidānaṃ, bhikkhave, uppajjati nekkhammavitakko, no anidānaṃ; sanidānaṃ uppajjati abyāpādavitakko, no anidānaṃ; sanidānaṃ uppajjati avihiṃsāvitakko, no anidānaṃ.",
+      "zh": "“诸比丘，出离寻依因缘而生，非无因缘；无嗔恚寻依因缘而生，非无因缘；无害寻依因缘而生，非无因缘。"
+    },
+    {
+      "idx": 56,
+      "pali": "‘‘Kathañca, bhikkhave, sanidānaṃ uppajjati nekkhammavitakko, no anidānaṃ; sanidānaṃ uppajjati abyāpādavitakko, no anidānaṃ; sanidānaṃ uppajjati avihiṃsāvitakko, no anidānaṃ? Nekkhammadhātuṃ, bhikkhave, paṭicca uppajjati nekkhammasaññā, nekkhammasaññaṃ paṭicca uppajjati nekkhammasaṅkappo, nekkhammasaṅkappaṃ paṭicca uppajjati nekkhammacchando, nekkhammacchandaṃ paṭicca uppajjati nekkhammapariḷāho, nekkhammapariḷāhaṃ paṭicca uppajjati nekkhammapariyesanā; nekkhammapariyesanaṃ, bhikkhave, pariyesamāno sutavā ariyasāvako tīhi ṭhānehi sammā paṭipajjati – kāyena, vācāya, manasā.",
+      "zh": "“诸比丘，出离的思惟如何依因而生，非无因而生？无瞋的思惟如何依因而生，非无因而生？无害的思惟如何依因而生，非无因而生？诸比丘，缘于出离界而生起出离想，缘于出离想而生起出离的思惟，缘于出离的思惟而生起出离的愿望，缘于出离的愿望而生起出离的热恼，缘于出离的热恼而生起出离的寻求。诸比丘，当如此寻求出离时，多闻的圣弟子会以三种方式正确地实践，即：以身、以语、以意。”"
+    },
+    {
+      "idx": 57,
+      "pali": "‘‘Abyāpādadhātuṃ, bhikkhave, paṭicca uppajjati abyāpādasaññā, abyāpādasaññaṃ paṭicca uppajjati abyāpādasaṅkappo…pe… abyāpādacchando… abyāpādapariḷāho… abyāpādapariyesanā, abyāpādapariyesanaṃ, bhikkhave, pariyesamāno sutavā ariyasāvako tīhi ṭhānehi sammā paṭipajjati – kāyena, vācāya, manasā.",
+      "zh": "“诸比丘，缘于无瞋界而生起无瞋想，缘于无瞋想而生起无瞋思惟，乃至生起无瞋的愿望、无瞋的热恼、无瞋的寻求。诸比丘，当这样寻求无瞋时，多闻的圣弟子即以身、语、意三处，行于正道。”"
+    },
+    {
+      "idx": 58,
+      "pali": "‘‘Avihiṃsādhātuṃ , bhikkhave, paṭicca uppajjati avihiṃsāsaññā , avihiṃsāsaññaṃ paṭicca uppajjati avihiṃsāsaṅkappo, avihiṃsāsaṅkappaṃ paṭicca uppajjati avihiṃsāchando, avihiṃsāchandaṃ paṭicca uppajjati avihiṃsāpariḷāho, avihiṃsāpariḷāhaṃ paṭicca uppajjati avihiṃsāpariyesanā; avihiṃsāpariyesanaṃ, bhikkhave, pariyesamāno sutavā ariyasāvako tīhi ṭhānehi sammā paṭipajjati – kāyena, vācāya, manasā.",
+      "zh": "“诸比丘，缘于无害界而生起无害想，缘于无害想而生起无害思惟，缘于无害思惟而生起无害的愿望，缘于无害愿望而生起无害的热恼，缘于无害热恼而生起无害的寻求。诸比丘，当这样寻求无害时，多闻的圣弟子即以身、语、意三处，行于正道。”"
+    },
+    {
+      "idx": 59,
+      "pali": "‘‘Seyyathāpi, bhikkhave, puriso ādittaṃ tiṇukkaṃ sukkhe tiṇadāye nikkhipeyya; tamenaṃ hatthehi ca pādehi ca khippameva nibbāpeyya. Evañhi, bhikkhave, ye tiṇakaṭṭhanissitā pāṇā te na anayabyasanaṃ āpajjeyyuṃ. Evameva kho, bhikkhave, yo hi koci samaṇo vā brāhmaṇo vā uppannaṃ visamagataṃ saññaṃ khippameva pajahati vinodeti byantīkaroti anabhāvaṃ gameti, so diṭṭhe ceva dhamme sukhaṃ viharati avighātaṃ anupāyāsaṃ apariḷāhaṃ; kāyassa ca bhedā paraṃ maraṇā sugati pāṭikaṅkhā’’ti. Dutiyaṃ.",
+      "zh": "“诸比丘，譬如有人将燃烧的火把投入干草堆中，随即用手足迅速将其扑灭。这样，依止草木的众生便能免于灾祸。同样地，诸比丘，任何沙门或婆罗门，若能迅速舍断、除去、灭尽已生起的邪曲之想，使其不复存在，他便于现法住于安乐，无恼害、无忧恼、无热恼；身坏命终后，可期生于善趣。”第二经。"
+    },
+    {
+      "idx": 60,
+      "pali": "3. Giñjakāvasathasuttaṃ",
+      "zh": "3. [[giñjakāvasathasutta|砖屋经]]"
+    },
+    {
+      "idx": 61,
+      "pali": "Ekaṃ samayaṃ bhagavā ñātike viharati giñjakāvasathe. Tatra kho bhagavā bhikkhū āmantesi – ‘‘bhikkhavo’’ti. ‘‘Bhadante’’ti te bhikkhū bhagavato paccassosuṃ. Bhagavā etadavoca –",
+      "zh": "一时，世尊住在亲戚村的砖屋中。在那里，世尊招呼诸比丘：“诸比丘。”比丘们回应说：“尊者。”世尊这样说道：",
+      "n": "97"
+    },
+    {
+      "idx": 62,
+      "pali": "‘‘Dhātuṃ, bhikkhave, paṭicca uppajjati saññā, uppajjati diṭṭhi, uppajjati vitakko’’ti. Evaṃ vutte, āyasmā kaccāno bhagavantaṃ etadavoca – ‘‘yāyaṃ, bhante, diṭṭhi – ‘asammāsambuddhesu sammāsambuddhā’ti, ayaṃ nu kho, bhante, diṭṭhi kiṃ paṭicca paññāyatī’’ti?",
+      "zh": "“诸比丘，缘于界，想生起，见生起，寻生起。”如此说后，具寿迦旃延问世尊说：“尊者，于非正自觉者中，视之为正自觉者的那种见，是缘于什么而显现的呢？”"
+    },
+    {
+      "idx": 63,
+      "pali": "‘‘Mahati kho esā, kaccāna, dhātu yadidaṃ avijjādhātu. Hīnaṃ , kaccāna, dhātuṃ paṭicca uppajjati hīnā saññā, hīnā diṭṭhi, hīno vitakko, hīnā cetanā, hīnā patthanā, hīno paṇidhi, hīno puggalo, hīnā vācā; hīnaṃ ācikkhati deseti paññapeti paṭṭhapeti vivarati vibhajati uttānīkaroti; hīnā tassa upapattīti vadāmi.",
+      "zh": "“迦旃延，这无明界，确是广大之界。迦旃延，缘于低劣的界，便生起低劣的想、低劣的见、低劣的寻、低劣的思、低劣的愿望、低劣的志向、低劣的人、低劣的言语。他宣说、教导、施设、建立、开显、分别、阐明低劣之法。我说，他的投生也是低劣的。"
+    },
+    {
+      "idx": 64,
+      "pali": "‘‘Majjhimaṃ , kaccāna, dhātuṃ paṭicca uppajjati majjhimā saññā, majjhimā diṭṭhi, majjhimo vitakko, majjhimā cetanā, majjhimā patthanā, majjhimo paṇidhi, majjhimo puggalo, majjhimā vācā; majjhimaṃ ācikkhati deseti paññapeti paṭṭhapeti vivarati vibhajati uttānīkaroti; majjhimā tassa upapattīti vadāmi.",
+      "zh": "“迦旃延，缘于中等的界，便生起中等的想、中等的见、中等的寻、中等的思、中等的愿望、中等的志向、中等的人、中等的言语。他宣说、教导、施设、建立、开显、分别、阐明中等之法。我说，他的投生也是中等的。"
+    },
+    {
+      "idx": 65,
+      "pali": "‘‘Paṇītaṃ, kaccāna, dhātuṃ paṭicca uppajjati paṇītā saññā, paṇītā diṭṭhi, paṇīto vitakko, paṇītā cetanā, paṇītā patthanā, paṇīto paṇidhi, paṇīto puggalo, paṇītā vācā; paṇītaṃ ācikkhati deseti paññapeti paṭṭhapeti vivarati vibhajati uttānīkaroti; paṇītā tassa upapattīti vadāmī’’ti. Tatiyaṃ.",
+      "zh": "“迦旃延，缘于殊胜的界，便生起殊胜的想、殊胜的见、殊胜的寻、殊胜的思、殊胜的愿望、殊胜的志向、殊胜的人、殊胜的言语。他宣说、教导、施设、建立、开显、分别、阐明殊胜之法。我说，他的投生也是殊胜的。”第三经。"
+    },
+    {
+      "idx": 66,
+      "pali": "4. Hīnādhimuttikasuttaṃ",
+      "zh": "4. [[hīnādhimuttikasutta|劣意乐经]]"
+    },
+    {
+      "idx": 67,
+      "pali": "Sāvatthiyaṃ viharati…pe… ‘‘dhātusova , bhikkhave, sattā saṃsandanti samenti. Hīnādhimuttikā hīnādhimuttikehi saddhiṃ saṃsandanti samenti; kalyāṇādhimuttikā kalyāṇādhimuttikehi saddhiṃ saṃsandanti samenti’’.",
+      "zh": "在[[sāvatthī|舍卫城]]……世尊这样说：“诸比丘，实由界相应故，众生相合共聚。劣意乐者与劣意乐者相合共聚；善意乐者与善意乐者相合共聚。”",
+      "n": "98"
+    },
+    {
+      "idx": 68,
+      "pali": "‘‘Atītampi kho , bhikkhave, addhānaṃ dhātusova sattā saṃsandiṃsu samiṃsu. Hīnādhimuttikā hīnādhimuttikehi saddhiṃ saṃsandiṃsu samiṃsu; kalyāṇādhimuttikā kalyāṇādhimuttikehi saddhiṃ saṃsandiṃsu samiṃsu.",
+      "zh": "“诸比丘，过去久远时，众生亦是由界相应故，相合共聚。劣意乐者与劣意乐者相合共聚；善意乐者与善意乐者相合共聚。"
+    },
+    {
+      "idx": 69,
+      "pali": "‘‘Anāgatampi kho , bhikkhave, addhānaṃ dhātusova sattā saṃsandissanti samessanti. Hīnādhimuttikā hīnādhimuttikehi saddhiṃ saṃsandissanti samessanti; kalyāṇādhimuttikā kalyāṇādhimuttikehi saddhiṃ saṃsandissanti samessanti.",
+      "zh": "“诸比丘，于未来时，众生也将依界而聚合、相合。志向低劣者与志向低劣者相聚相合；志向良善者与志向良善者相聚相合。"
+    },
+    {
+      "idx": 70,
+      "pali": "‘‘Etarahipi kho , bhikkhave, paccuppannaṃ addhānaṃ dhātusova sattā saṃsandanti samenti. Hīnādhimuttikā hīnādhimuttikehi saddhiṃ saṃsandanti samenti; kalyāṇādhimuttikā kalyāṇādhimuttikehi saddhiṃ saṃsandanti samentī’’ti. Catutthaṃ.",
+      "zh": "“诸比丘，于现在时，众生也是依界而聚合、相合。志向低劣者与志向低劣者相聚相合；志向良善者与志向良善者相聚相合。”第四经。"
+    },
+    {
+      "idx": 71,
+      "pali": "5. Caṅkamasuttaṃ",
+      "zh": "5. [[caṅkamasutta|经行经]]"
+    },
+    {
+      "idx": 72,
+      "pali": "Ekaṃ samayaṃ bhagavā rājagahe viharati gijjhakūṭe pabbate. Tena kho pana samayena āyasmā sāriputto sambahulehi bhikkhūhi saddhiṃ bhagavato avidūre caṅkamati; āyasmāpi kho mahāmoggallāno sambahulehi bhikkhūhi saddhiṃ bhagavato avidūre caṅkamati; āyasmāpi kho mahākassapo sambahulehi bhikkhūhi saddhiṃ bhagavato avidūre caṅkamati; āyasmāpi kho anuruddho sambahulehi bhikkhūhi saddhiṃ bhagavato avidūre caṅkamati; āyasmāpi kho puṇṇo mantāniputto sambahulehi bhikkhūhi saddhiṃ bhagavato avidūre caṅkamati; āyasmāpi kho upāli sambahulehi bhikkhūhi saddhiṃ bhagavato avidūre caṅkamati; āyasmāpi kho ānando sambahulehi bhikkhūhi saddhiṃ bhagavato avidūre caṅkamati; devadattopi kho sambahulehi bhikkhūhi saddhiṃ bhagavato avidūre caṅkamati.",
+      "zh": "一时，世尊住在[[rājagaha|王舍城]]的耆阇崛山中。那时，[[Sāriputta|舍利弗]]尊者正与众多比丘一同，在世尊不远处经行；[[mahāmoggallāna|大目犍连]]尊者也与众多比丘一同，在世尊不远处经行；[[mahākassapa|大迦叶]]尊者也与众多比丘一同，在世尊不远处经行；[[anuruddha|阿那律]]尊者也与众多比丘一同，在世尊不远处经行；满慈子尊者也与众多比丘一同，在世尊不远处经行；优波离尊者也与众多比丘一同，在世尊不远处经行；[[ānanda|阿难]]尊者也与众多比丘一同，在世尊不远处经行；[[devadatta|提婆达多]]也与众多比丘一同，在世尊不远处经行。",
+      "n": "99"
+    },
+    {
+      "idx": 73,
+      "pali": "Atha kho bhagavā bhikkhū āmantesi – ‘‘passatha no tumhe, bhikkhave, sāriputtaṃ sambahulehi bhikkhūhi saddhiṃ caṅkamanta’’nti? ‘‘Evaṃ, bhante’’. ‘‘Sabbe kho ete, bhikkhave, bhikkhū mahāpaññā. Passatha no tumhe, bhikkhave, moggallānaṃ sambahulehi bhikkhūhi saddhiṃ caṅkamanta’’nti? ‘‘Evaṃ, bhante’’. ‘‘Sabbe kho ete, bhikkhave, bhikkhū mahiddhikā. Passatha no tumhe, bhikkhave, kassapaṃ sambahulehi bhikkhūhi saddhiṃ caṅkamanta’’nti? ‘‘Evaṃ , bhante’’. ‘‘Sabbe kho ete, bhikkhave, bhikkhū dhutavādā. Passatha no tumhe, bhikkhave, anuruddhaṃ sambahulehi bhikkhūhi saddhiṃ caṅkamanta’’nti? ‘‘Evaṃ, bhante’’. ‘‘Sabbe kho ete, bhikkhave, bhikkhū dibbacakkhukā. Passatha no tumhe, bhikkhave, puṇṇaṃ mantāniputtaṃ sambahulehi bhikkhūhi saddhiṃ caṅkamanta’’nti? ‘‘Evaṃ, bhante’’. ‘‘Sabbe kho ete, bhikkhave, bhikkhū dhammakathikā. Passatha no tumhe, bhikkhave, upāliṃ sambahulehi bhikkhūhi saddhiṃ caṅkamanta’’nti? ‘‘Evaṃ, bhante’’. ‘‘Sabbe kho ete, bhikkhave, bhikkhū vinayadharā. Passatha no tumhe, bhikkhave, ānandaṃ sambahulehi bhikkhūhi saddhiṃ caṅkamanta’’nti? ‘‘Evaṃ, bhante’’. ‘‘Sabbe kho ete, bhikkhave, bhikkhū bahussutā. Passatha no tumhe, bhikkhave, devadattaṃ sambahulehi bhikkhūhi saddhiṃ caṅkamanta’’nti? ‘‘Evaṃ, bhante’’. ‘‘Sabbe kho ete, bhikkhave, bhikkhū pāpicchā’’.",
+      "zh": "这时，世尊对诸比丘说：“诸比丘，你们看见[[Sāriputta|舍利弗]]与众多比丘一同经行吗？” “是的，尊者。” “诸比丘，这些比丘全都具有大智慧。诸比丘，你们看见大[[moggalla|目犍连]]与众多比丘一同经行吗？” “是的，尊者。” “诸比丘，这些比丘全都具有广大神通力。诸比丘，你们看见大迦叶与众多比丘一同经行吗？” “是的，尊者。” “诸比丘，这些比丘全都是头陀行的倡导者。诸比丘，你们看见[[anuruddha|阿那律]]与众多比丘一同经行吗？” “是的，尊者。” “诸比丘，这些比丘全都具有天眼。诸比丘，你们看见满慈子与众多比丘一同经行吗？” “是的，尊者。” “诸比丘，这些比丘全都是说法者。诸比丘，你们看见优波离与众多比丘一同经行吗？” “是的，尊者。” “诸比丘，这些比丘全都是持律者。诸比丘，你们看见[[ānanda|阿难]]与众多比丘一同经行吗？” “是的，尊者。” “诸比丘，这些比丘全都是多闻者。诸比丘，你们看见[[devadatta|提婆达多]]与众多比丘一同经行吗？” “是的，尊者。” “诸比丘，这些比丘全都怀有不善的欲望。”"
+    },
+    {
+      "idx": 74,
+      "pali": "‘‘Dhātusova, bhikkhave, sattā saṃsandanti samenti. Hīnādhimuttikā hīnādhimuttikehi saddhiṃ saṃsandanti samenti; kalyāṇādhimuttikā kalyāṇādhimuttikehi saddhiṃ saṃsandanti samenti. Atītampi kho, bhikkhave, addhānaṃ dhātusova sattā saṃsandiṃsu samiṃsu. Hīnādhimuttikā hīnādhimuttikehi saddhiṃ saṃsandiṃsu samiṃsu; kalyāṇādhimuttikā kalyāṇādhimuttikehi saddhiṃ saṃsandiṃsu samiṃsu.",
+      "zh": "“诸比丘，众生依界而会合、相聚。意乐低劣者与意乐低劣者会合、相聚；意乐良善者与意乐良善者会合、相聚。诸比丘，过去世也是这样，众生依界而会合、相聚：意乐低劣者与意乐低劣者会合、相聚；意乐良善者与意乐良善者会合、相聚。"
+    },
+    {
+      "idx": 75,
+      "pali": "‘‘Anāgatampi kho, bhikkhave, addhānaṃ dhātusova sattā saṃsandissanti samessanti. Hīnādhimuttikā hīnādhimuttikehi saddhiṃ saṃsandissanti samessanti; kalyāṇādhimuttikā kalyāṇādhimuttikehi saddhiṃ saṃsandissanti samessanti.",
+      "zh": "“诸比丘，于未来时，众生也将依界而相聚、相会：意乐下劣者与意乐下劣者相聚、相会；意乐贤善者与意乐贤善者相聚、相会。"
+    },
+    {
+      "idx": 76,
+      "pali": "‘‘Etarahipi kho, bhikkhave, paccuppannaṃ addhānaṃ dhātusova sattā saṃsandanti samenti. Hīnādhimuttikā hīnādhimuttikehi saddhiṃ saṃsandanti samenti; kalyāṇādhimuttikā kalyāṇādhimuttikehi saddhiṃ saṃsandanti samentī’’ti. Pañcamaṃ.",
+      "zh": "“诸比丘，于现在时，众生也依界而相聚、相会：意乐下劣者与意乐下劣者相聚、相会；意乐贤善者与意乐贤善者相聚、相会。”第五经。"
+    },
+    {
+      "idx": 77,
+      "pali": "6. Sagāthāsuttaṃ",
+      "zh": "6. [[sagāthāsutta|有偈经]]"
+    },
+    {
+      "idx": 78,
+      "pali": "Sāvatthiyaṃ viharati…pe… ‘‘dhātusova, bhikkhave, sattā saṃsandanti samenti. Hīnādhimuttikā hīnādhimuttikehi saddhiṃ saṃsandanti samenti. Atītampi kho, bhikkhave, addhānaṃ dhātusova sattā saṃsandiṃsu samiṃsu. Hīnādhimuttikā hīnādhimuttikehi saddhiṃ saṃsandiṃsu samiṃsu’’.",
+      "zh": "在[[sāvatthī|舍卫城]]……世尊说：“诸比丘，众生确实是依界而相聚、会合。劣意乐者与劣意乐者相聚、会合。诸比丘，过去也是如此，众生依界而相聚、会合。劣意乐者与劣意乐者相聚、会合。”",
+      "n": "100"
+    },
+    {
+      "idx": 79,
+      "pali": "‘‘Anāgatampi kho, bhikkhave, addhānaṃ dhātusova sattā saṃsandissanti samessanti. Hīnādhimuttikā hīnādhimuttikehi saddhiṃ saṃsandissanti samessanti.",
+      "zh": "“诸比丘，于未来，众生也将依界而相聚、会合。劣意乐者与劣意乐者将相聚、会合。”"
+    },
+    {
+      "idx": 80,
+      "pali": "‘‘Etarahipi kho, bhikkhave, paccuppannaṃ addhānaṃ dhātusova sattā saṃsandanti samenti. Hīnādhimuttikā hīnādhimuttikehi saddhiṃ saṃsandanti samenti.",
+      "zh": "“诸比丘，于现在也是如此，众生依界而相聚、会合。劣意乐者与劣意乐者相聚、会合。”"
+    },
+    {
+      "idx": 81,
+      "pali": "‘‘Seyyathāpi, bhikkhave, gūtho gūthena saṃsandati sameti; muttaṃ muttena saṃsandati sameti; kheḷo kheḷena saṃsandati sameti; pubbo pubbena saṃsandati sameti; lohitaṃ lohitena saṃsandati sameti ; evameva kho, bhikkhave, dhātusova sattā saṃsandanti samenti. Hīnādhimuttikā hīnādhimuttikehi saddhiṃ saṃsandanti samenti. Atītampi kho addhānaṃ…pe… anāgatampi kho addhānaṃ…pe… etarahipi kho paccuppannaṃ addhānaṃ dhātusova sattā saṃsandanti samenti. Hīnādhimuttikā hīnādhimuttikehi saddhiṃ saṃsandanti samenti.",
+      "zh": "“诸比丘，譬如粪与粪相聚集、相会合，尿与尿相聚集、相会合，唾与唾相聚集、相会合，脓与脓相聚集、相会合，血与血相聚集、相会合；同样地，诸比丘，诸有情依界而聚集、会合。意向低劣者与意向低劣者一起聚集、会合。在过去时……在未来时……乃至现在当下，诸有情亦依界而聚集、会合，意向低劣者与意向低劣者一起聚集、会合。"
+    },
+    {
+      "idx": 82,
+      "pali": "‘‘Dhātusova bhikkhave, sattā saṃsandanti samenti. Kalyāṇādhimuttikā kalyāṇādhimuttikehi saddhiṃ saṃsandanti samenti. Atītampi kho, bhikkhave, addhānaṃ dhātusova sattā saṃsandiṃsu samiṃsu. Kalyāṇādhimuttikā kalyāṇādhimuttikehi saddhiṃ saṃsandiṃsu samiṃsu.",
+      "zh": "“诸比丘，诸有情依界而聚集、会合。意向良善者与意向良善者一起聚集、会合。诸比丘，在过去时，诸有情亦依界而聚集、会合，意向良善者与意向良善者一起聚集、会合。"
+    },
+    {
+      "idx": 83,
+      "pali": "‘‘Anāgatampi kho, bhikkhave, addhānaṃ…pe… etarahipi kho, bhikkhave, paccuppannaṃ addhānaṃ dhātusova sattā saṃsandanti samenti. Kalyāṇādhimuttikā kalyāṇādhimuttikehi saddhiṃ saṃsandanti samenti.",
+      "zh": "“诸比丘，在未来时……乃至现在当下，诸有情亦依界而聚集、会合。意向良善者与意向良善者一起聚集、会合。"
+    },
+    {
+      "idx": 84,
+      "pali": "‘‘Seyyathāpi, bhikkhave, khīraṃ khīrena saṃsandati sameti; telaṃ telena saṃsandati sameti; sappi sappinā saṃsandati sameti; madhu madhunā saṃsandati sameti; phāṇitaṃ phāṇitena saṃsandati sameti; evameva kho, bhikkhave, dhātusova sattā saṃsandanti samenti. Kalyāṇādhimuttikā kalyāṇādhimuttikehi saddhiṃ saṃsandanti samenti. Atītampi kho addhānaṃ… anāgatampi kho addhānaṃ… etarahipi kho paccuppannaṃ addhānaṃ dhātusova sattā saṃsandanti samenti. Kalyāṇādhimuttikā kalyāṇādhimuttikehi saddhiṃ saṃsandanti samentī’’ti.",
+      "zh": "“诸比丘，正如乳与乳交融和合，油与油交融和合，酥与酥交融和合，蜜与蜜交融和合，糖浆与糖浆交融和合；同样地，诸比丘，众生依界而和合、交融。志向良善者与志向良善者互相和合、交融。在过去，诸比丘，众生也是依界而和合、交融；志向良善者与志向良善者互相和合、交融。在未来，诸比丘，众生也将依界而和合、交融；志向良善者与志向良善者互相和合、交融。在现在当下，诸比丘，众生也是依界而和合、交融；志向良善者与志向良善者互相和合、交融。”"
+    },
+    {
+      "idx": 85,
+      "pali": "Idamavoca bhagavā. Idaṃ vatvāna sugato athāparaṃ etadavoca satthā –",
+      "zh": "世尊如此说。善逝说完后，接着又如此宣说——这位导师说道："
+    },
+    {
+      "idx": 86,
+      "pali": "‘‘Saṃsaggā vanatho jāto, asaṃsaggena chijjati;",
+      "zh": "“因交往而生起缠缚，由远离而得以断除；",
+      "type": "verse"
+    },
+    {
+      "idx": 87,
+      "pali": "Parittaṃ dārumāruyha, yathā sīde mahaṇṇave.",
+      "zh": "正如攀上一根细小的木头，就会在汪洋大海中沉没一样。",
+      "type": "verse"
+    },
+    {
+      "idx": 88,
+      "pali": "‘‘Evaṃ kusītamāgamma, sādhujīvipi sīdati;",
+      "zh": "“同样地，亲近懈怠之人，善生活者也会沉没；",
+      "type": "verse"
+    },
+    {
+      "idx": 89,
+      "pali": "Tasmā taṃ parivajjeyya, kusītaṃ hīnavīriyaṃ.",
+      "zh": "因此，应当远离那懈怠、精进下劣之人。",
+      "type": "verse"
+    },
+    {
+      "idx": 90,
+      "pali": "‘‘Pavivittehi ariyehi, pahitattehi jhāyīhi ;",
+      "zh": "“应与那些离群独处、意志坚定的圣者们，",
+      "type": "verse"
+    },
+    {
+      "idx": 91,
+      "pali": "Niccaṃ āraddhavīriyehi, paṇḍitehi sahāvase’’ti.",
+      "zh": "恒常精进不懈，与如是贤智者——那些修习禅那的人共住。”",
+      "type": "verse"
+    },
+    {
+      "idx": 92,
+      "pali": "7. Assaddhasaṃsandanasuttaṃ",
+      "zh": "7. [[assaddhasaṃsandanasutta|无信不相应经]]"
+    },
+    {
+      "idx": 93,
+      "pali": "Sāvatthiyaṃ viharati…pe… ‘‘dhātusova, bhikkhave, sattā saṃsandanti samenti. Assaddhā assaddhehi saddhiṃ saṃsandanti samenti; ahirikā ahirikehi saddhiṃ saṃsandanti samenti; anottappino anottappīhi saddhiṃ saṃsandanti samenti; appassutā appassutehi saddhiṃ saṃsandanti samenti; kusītā kusītehi saddhiṃ saṃsandanti samenti; muṭṭhassatino muṭṭhassatīhi saddhiṃ saṃsandanti samenti; duppaññā duppaññehi saddhiṃ saṃsandanti samenti’’.",
+      "zh": "世尊住在[[sāvatthī|舍卫城]]……“诸比丘，众生依界而聚会和合。无信者与无信者共聚会和合；无惭者与无惭者共聚会和合；无愧者与无愧者共聚会和合；少闻者与少闻者共聚会和合；懈怠者与懈怠者共聚会和合；失念者与失念者共聚会和合；劣慧者与劣慧者共聚会和合。”",
+      "n": "101"
+    },
+    {
+      "idx": 94,
+      "pali": "‘‘Atītampi kho, bhikkhave, addhānaṃ dhātusova sattā saṃsandiṃsu samiṃsu. Assaddhā assaddhehi saddhiṃ saṃsandiṃsu samiṃsu; ahirikā ahirikehi saddhiṃ saṃsandiṃsu samiṃsu; anottappino anottappīhi saddhiṃ saṃsandiṃsu samiṃsu; appassutā appassutehi saddhiṃ saṃsandiṃsu samiṃsu; kusītā kusītehi saddhiṃ saṃsandiṃsu samiṃsu; muṭṭhassatino muṭṭhassatīhi saddhiṃ saṃsandiṃsu samiṃsu; duppaññā duppaññehi saddhiṃ saṃsandiṃsu samiṃsu.",
+      "zh": "“诸比丘，过去时，众生亦依界而聚会和合。无信者与无信者共聚会和合；无惭者与无惭者共聚会和合；无愧者与无愧者共聚会和合；少闻者与少闻者共聚会和合；懈怠者与懈怠者共聚会和合；失念者与失念者共聚会和合；劣慧者与劣慧者共聚会和合。"
+    },
+    {
+      "idx": 95,
+      "pali": "‘‘Anāgatampi kho, bhikkhave, addhānaṃ dhātusova sattā saṃsandissanti samessanti. Assaddhā assaddhehi saddhiṃ saṃsandissanti samessanti; ahirikā ahirikehi saddhiṃ saṃsandissanti samessanti; anottappino anottappīhi saddhiṃ…pe… appassutā appassutehi saddhiṃ…pe… kusītā kusītehi saddhiṃ…pe… muṭṭhassatino muṭṭhassatīhi saddhiṃ…pe… duppaññā duppaññehi saddhiṃ saṃsandissanti samessanti.",
+      "zh": "“诸比丘，未来时，众生亦将依界而聚会和合。无信者与无信者将共聚会和合；无惭者与无惭者将共聚会和合；无愧者与无愧者将共聚会和合；少闻者与少闻者将共聚会和合；懈怠者与懈怠者将共聚会和合；失念者与失念者将共聚会和合；劣慧者与劣慧者将共聚会和合。”"
+    },
+    {
+      "idx": 96,
+      "pali": "‘‘Etarahipi kho, bhikkhave, paccuppannaṃ addhānaṃ dhātusova sattā saṃsandanti samenti. Assaddhā assaddhehi saddhiṃ saṃsandanti samenti; ahirikā ahirikehi saddhiṃ…pe… anottappino anottappīhi saddhiṃ…pe… appassutā appassutehi saddhiṃ…pe… kusītā kusītehi saddhiṃ…pe… muṭṭhassatino muṭṭhassatīhi saddhiṃ saṃsandanti samenti; duppaññā duppaññehi saddhiṃ saṃsandanti samenti.",
+      "zh": "“诸比丘，于现在时，众生亦依界而相聚相会。无信者与无信者相聚相会；无惭者与无惭者相聚相会；无愧者与无愧者相聚相会；少闻者与少闻者相聚相会；懈怠者与懈怠者相聚相会；失念者与失念者相聚相会；劣慧者与劣慧者相聚相会。”"
+    },
+    {
+      "idx": 97,
+      "pali": "‘‘Dhātusova, bhikkhave, sattā saṃsandanti samenti. Saddhā saddhehi saddhiṃ saṃsandanti samenti; hirimanā hirimanehi saddhiṃ saṃsandanti samenti; ottappino ottappīhi saddhiṃ saṃsandanti samenti; bahussutā bahussutehi saddhiṃ saṃsandanti samenti; āraddhavīriyā āraddhavīriyehi saddhiṃ saṃsandanti samenti; upaṭṭhitassatino upaṭṭhitassatīhi saddhiṃ saṃsandanti samenti; paññavanto paññavantehi saddhiṃ saṃsandanti samenti. Atītampi kho, bhikkhave, addhānaṃ…pe… anāgatampi kho, bhikkhave…pe… etarahipi kho, bhikkhave, paccuppannaṃ addhānaṃ dhātusova sattā saṃsandanti samenti. Saddhā saddhehi saddhiṃ saṃsandanti samenti; paññavanto paññavantehi saddhiṃ saṃsandanti samentī’’ti. Sattamaṃ.",
+      "zh": "“诸比丘，众生确是以界而相聚相会的。有信者与有信者相聚相会；有惭者与有惭者相聚相会；有愧者与有愧者相聚相会；多闻者与多闻者相聚相会；精进者与精进者相聚相会；正念现前者与正念现前者相聚相会；具慧者与具慧者相聚相会。诸比丘，过去时、未来时、现在时，众生亦是以界而相聚相会的。有信者与有信者相聚相会……具慧者与具慧者相聚相会。”第七经。"
+    },
+    {
+      "idx": 98,
+      "pali": "8. Assaddhamūlakasuttaṃ",
+      "zh": "8. [[assaddhamūlakasutta|无信为根经]]"
+    },
+    {
+      "idx": 99,
+      "pali": "Sāvatthiyaṃ viharati…pe… ‘‘dhātusova, bhikkhave, sattā saṃsandanti samenti. Assaddhā assaddhehi saddhiṃ saṃsandanti samenti; ahirikā ahirikehi saddhiṃ saṃsandanti samenti; duppaññā duppaññehi saddhiṃ saṃsandanti samenti; saddhā saddhehi saddhiṃ saṃsandanti samenti; hirimanā hirimanehi saddhiṃ saṃsandanti samenti; paññavanto paññavantehi saddhiṃ saṃsandanti samenti. Atītampi kho, bhikkhave, addhānaṃ dhātusova sattā saṃsandiṃsu samiṃsu…pe… anāgatampi kho, bhikkhave, addhānaṃ dhātusova sattā saṃsandissanti samessanti…pe….",
+      "zh": "在[[sāvatthī|舍卫城]]……“诸比丘，众生依界而相聚、相合。无信者与无信者相聚、相合；无惭者与无惭者相聚、相合；劣慧者与劣慧者相聚、相合；有信者与有信者相聚、相合；有惭者与有惭者相聚、相合；有慧者与有慧者相聚、相合。诸比丘，过去时，众生也依界而相聚、相合……诸比丘，未来时，众生也将依界而相聚、相合……”",
+      "n": "102"
+    },
+    {
+      "idx": 100,
+      "pali": "‘‘Etarahipi kho, bhikkhave, paccuppannaṃ addhānaṃ dhātusova sattā saṃsandanti samenti. Assaddhā assaddhehi saddhiṃ saṃsandanti samenti; ahirikā ahirikehi saddhiṃ saṃsandanti samenti, duppaññā duppaññehi saddhiṃ saṃsandanti samenti; saddhā saddhehi saddhiṃ saṃsandanti samenti; hirimanā hirimanehi saddhiṃ saṃsandanti samenti; paññavanto paññavantehi saddhiṃ saṃsandanti samentīti. (1)",
+      "zh": "“诸比丘，于现在时，众生也依界而相聚、相合。无信者与无信者相聚、相合；无惭者与无惭者相聚、相合；劣慧者与劣慧者相聚、相合；有信者与有信者相聚、相合；有惭者与有惭者相聚、相合；有慧者与有慧者相聚、相合。”"
+    },
+    {
+      "idx": 101,
+      "pali": "‘‘Dhātusova, bhikkhave, sattā saṃsandanti samenti. Assaddhā assaddhehi saddhiṃ saṃsandanti samenti; anottappino anottappīhi saddhiṃ saṃsandanti samenti; duppaññā duppaññehi saddhiṃ saṃsandanti samenti ; saddhā saddhehi saddhiṃ saṃsandanti samenti; ottappino ottappīhi saddhiṃ saṃsandanti samenti; paññavanto paññavantehi saddhiṃ saṃsandanti samenti…pe… paṭhamavāro viya vitthāretabbo. (2)",
+      "zh": "“诸比丘，众生确实依界而相聚、相会。无信者与无信者相聚、相会；无愧者与无愧者相聚、相会；劣慧者与劣慧者相聚、相会；有信者与有信者相聚、相会；有愧者与有愧者相聚、相会；具慧者与具慧者相聚、相会。当如初品那样详细展开。”"
+    },
+    {
+      "idx": 102,
+      "pali": "‘‘Dhātusova , bhikkhave…pe… assaddhā assaddhehi saddhiṃ saṃsandanti samenti; appassutā appassutehi saddhiṃ saṃsandanti samenti; duppaññā duppaññehi saddhiṃ saṃsandanti samenti; saddhā saddhehi saddhiṃ saṃsandanti samenti; bahussutā bahussutehi saddhiṃ saṃsandanti samenti, paññavanto paññavantehi saddhiṃ saṃsandanti samenti…pe… . (3)",
+      "zh": "“诸比丘，众生确实依界而相聚相合：无信者与无信者相聚相合；少闻者与少闻者相聚相合；劣慧者与劣慧者相聚相合；有信者与有信者相聚相合；多闻者与多闻者相聚相合；具慧者与具慧者相聚相合。"
+    },
+    {
+      "idx": 103,
+      "pali": "‘‘Dhātusova, bhikkhave…pe… assaddhā assaddhehi saddhiṃ saṃsandanti samenti; kusītā kusītehi saddhiṃ saṃsandanti samenti; duppaññā duppaññehi saddhiṃ saṃsandanti samenti; saddhā saddhehi saddhiṃ saṃsandanti samenti; āraddhavīriyā āraddhavīriyehi saddhiṃ saṃsandanti samenti; paññavanto paññavantehi saddhiṃ saṃsandanti samenti…pe…. (4)",
+      "zh": "“诸比丘，众生确实依界而相聚相合：无信者与无信者相聚相合；懈怠者与懈怠者相聚相合；劣慧者与劣慧者相聚相合；有信者与有信者相聚相合；精进者与精进者相聚相合；具慧者与具慧者相聚相合。"
+    },
+    {
+      "idx": 104,
+      "pali": "‘‘Dhātusova , bhikkhave…pe… assaddhā assaddhehi saddhiṃ saṃsandanti samenti; muṭṭhassatino muṭṭhassatīhi saddhiṃ saṃsandanti samenti; duppaññā duppaññehi saddhiṃ saṃsandanti samenti; saddhā saddhehi saddhiṃ saṃsandanti samenti; upaṭṭhitassatino upaṭṭhitassatīhi saddhiṃ saṃsandanti samenti; paññavanto paññavantehi saddhiṃ saṃsandanti samentīti…pe…. Aṭṭhamaṃ. (5)",
+      "zh": "“诸比丘，众生确实依界而相聚相合：无信者与无信者相聚相合；失念者与失念者相聚相合；劣慧者与劣慧者相聚相合；有信者与有信者相聚相合；具念者与具念者相聚相合；具慧者与具慧者相聚相合。"
+    },
+    {
+      "idx": 105,
+      "pali": "9. Ahirikamūlakasuttaṃ",
+      "zh": "9. [[ahirikamūlakasutta|以无惭为根经]]"
+    },
+    {
+      "idx": 106,
+      "pali": "Sāvatthiyaṃ viharati…pe… ‘‘dhātusova…pe… ahirikā ahirikehi saddhiṃ saṃsandanti samenti, anottappino anottappīhi saddhiṃ saṃsandanti samenti , duppaññā duppaññehi saddhiṃ saṃsandanti samenti; hirimanā hirimanehi saddhiṃ sasandanti samenti, ottappino ottappīhi saddhiṃ saṃsandanti samenti, paññavanto paññavantehi saddhiṃ saṃsandanti samenti…pe… . (1)",
+      "zh": "世尊住于[[sāvatthī|舍卫城]]。……因界……无惭者与无惭者相聚相合，无愧者与无愧者相聚相合，劣慧者与劣慧者相聚相合；有惭者与有惭者相聚相合，有愧者与有愧者相聚相合，有慧者与有慧者相聚相合。……（1）",
+      "n": "103"
+    },
+    {
+      "idx": 107,
+      "pali": "‘‘Ahirikā ahirikehi saddhiṃ saṃsandanti samenti, appassutā appassutehi saddhiṃ saṃsandanti samenti, duppaññā duppaññehi saddhiṃ saṃsandanti samenti; hirimanā hirimanehi saddhiṃ saṃsandanti samenti, bahussutā bahussutehi saddhiṃ saṃsandanti samenti, paññavanto paññavantehi saddhiṃ saṃsandanti samenti…pe…. (2)",
+      "zh": "“无惭者与无惭者相聚相合，少闻者与少闻者相聚相合，劣慧者与劣慧者相聚相合；有惭者与有惭者相聚相合，多闻者与多闻者相聚相合，有慧者与有慧者相聚相合。……（2）"
+    },
+    {
+      "idx": 108,
+      "pali": "‘‘Ahirikā ahirikehi saddhiṃ saṃsandanti samenti, kusītā kusītehi saddhiṃ saṃsandanti samenti, duppaññā duppaññehi saddhiṃ saṃsandanti samenti; hirimanā hirimanehi saddhiṃ saṃsandanti samenti, āraddhavīriyā āraddhavīriyehi saddhiṃ saṃsandanti samenti, paññavanto paññavantehi saddhiṃ saṃsandanti samenti…pe…. (3)",
+      "zh": "“无惭者与无惭者相互交往、彼此会聚，懈怠者与懈怠者相互交往、彼此会聚，劣慧者与劣慧者相互交往、彼此会聚；有惭者与有惭者相互交往、彼此会聚，精进者与精进者相互交往、彼此会聚，有慧者与有慧者相互交往、彼此会聚……"
+    },
+    {
+      "idx": 109,
+      "pali": "‘‘Ahirikā ahirikehi saddhiṃ saṃsandanti samenti, muṭṭhassatino muṭṭhassatīhi saddhiṃ saṃsandanti samenti, duppaññā duppaññehi saddhiṃ saṃsandanti samenti; hirimanā hirimanehi saddhiṃ saṃsandanti samenti, upaṭṭhitassatino upaṭṭhitassatīhi saddhiṃ saṃsandanti samenti, paññavanto paññavantehi saddhiṃ saṃsandanti samentīti…pe…. Navamaṃ. (4)",
+      "zh": "“无惭者与无惭者相互交往、彼此会聚，失念者与失念者相互交往、彼此会聚，劣慧者与劣慧者相互交往、彼此会聚；有惭者与有惭者相互交往、彼此会聚，住念者与住念者相互交往、彼此会聚，有慧者与有慧者相互交往、彼此会聚……"
+    },
+    {
+      "idx": 110,
+      "pali": "10. Anottappamūlakasuttaṃ",
+      "zh": "10. [[anottappamūlakasutta|无愧为根经]]"
+    },
+    {
+      "idx": 111,
+      "pali": "Sāvatthiyaṃ viharati…pe… ‘‘dhātusova , bhikkhave, sattā saṃsandanti samenti. Anottappino anottappīhi saddhiṃ saṃsandanti samenti; appassutā appassutehi saddhiṃ saṃsandanti samenti; duppaññā duppaññehi saddhiṃ saṃsandanti samenti; ottappino ottappīhi saddhiṃ saṃsandanti samenti; bahussutā bahussutehi saddhiṃ saṃsandanti samenti; paññavanto paññavantehi saddhiṃ saṃsandanti samenti…pe…. (1)",
+      "zh": "一时，世尊住在[[sāvatthī|舍卫城]]……“诸比丘，众生依界而交往、会聚。无愧者与无愧者交往、会聚；少闻者与少闻者交往、会聚；劣慧者与劣慧者交往、会聚。有愧者与有愧者交往、会聚；多闻者与多闻者交往、会聚；有慧者与有慧者交往、会聚……（第一）”",
+      "n": "104"
+    },
+    {
+      "idx": 112,
+      "pali": "‘‘Anottappino anottappīhi saddhiṃ saṃsandanti samenti; kusītā kusītehi saddhiṃ saṃsandanti samenti; duppaññā duppaññehi saddhiṃ saṃsandanti samenti; ottappino ottappīhi saddhiṃ saṃsandanti samenti; āraddhavīriyā āraddhavīriyehi saddhiṃ saṃsandanti samenti; paññavanto paññavantehi saddhiṃ saṃsandanti samenti…pe…. (2)",
+      "zh": "“于舍卫城。“诸比丘，无愧者与无愧者交往、会聚；懈怠者与懈怠者交往、会聚；劣慧者与劣慧者交往、会聚。有愧者与有愧者交往、会聚；精进者与精进者交往、会聚；有慧者与有慧者交往、会聚……这是第二段。”"
+    },
+    {
+      "idx": 113,
+      "pali": "‘‘Anottappino anottappīhi saddhiṃ saṃsandanti samenti; muṭṭhassatino muṭṭhassatīhi saddhiṃ saṃsandanti samenti; duppaññā duppaññehi saddhiṃ saṃsandanti samenti; ottappino ottappīhi saddhiṃ saṃsandanti samenti; upaṭṭhitassatino upaṭṭhitassatīhi saddhiṃ saṃsandanti samenti; paññavanto paññavantehi saddhiṃ saṃsandanti samentīti…pe…. Dasamaṃ. (3)",
+      "zh": "“于舍卫城。“诸比丘，无愧者与无愧者交往、会聚；失念者与失念者交往、会聚；劣慧者与劣慧者交往、会聚。有愧者与有愧者交往、会聚；住念者与住念者交往、会聚；有慧者与有慧者交往、会聚……这是第十经。(3)”"
+    },
+    {
+      "idx": 114,
+      "pali": "11. Appassutamūlakasuttaṃ",
+      "zh": "11. [[appassutamūlakasutta|少闻为根经]]"
+    },
+    {
+      "idx": 115,
+      "pali": "Sāvatthiyaṃ viharati…pe… ‘‘dhātusova, bhikkhave, sattā saṃsandanti samenti. Appassutā appassutehi saddhiṃ saṃsandanti samenti; kusītā kusītehi saddhiṃ saṃsandanti samenti; duppaññā duppaññehi saddhiṃ saṃsandanti samenti; bahussutā bahussutehi saddhiṃ saṃsandanti samenti; āraddhavīriyā āraddhavīriyehi saddhiṃ saṃsandanti samenti; paññavanto paññavantehi saddhiṃ saṃsandanti samenti…pe…. (1)",
+      "zh": "在[[sāvatthī|舍卫城]]……“比丘们，众生依界而相合、相会：少闻者与少闻者相合、相会；懈怠者与懈怠者相合、相会；劣慧者与劣慧者相合、相会；多闻者与多闻者相合、相会；精进者与精进者相合、相会；有慧者与有慧者相合、相会。”",
+      "n": "105"
+    },
+    {
+      "idx": 116,
+      "pali": "‘‘Appassutā appassutehi saddhiṃ saṃsandanti samenti; muṭṭhassatino muṭṭhassatīhi saddhiṃ saṃsandanti samenti; duppaññā duppaññehi saddhiṃ saṃsandanti samenti; bahussutā bahussutehi saddhiṃ saṃsandanti samenti; upaṭṭhitassatino upaṭṭhitassatīhi saddhiṃ saṃsandanti samenti; paññavanto paññavantehi saddhiṃ saṃsandanti samentīti…pe…. Ekādasamaṃ. (2)",
+      "zh": "“少闻者与少闻者相合、相会；失念者与失念者相合、相会；劣慧者与劣慧者相合、相会。多闻者与多闻者相合、相会；正念现前者与正念现前者相合、相会；有慧者与有慧者相合、相会。"
+    },
+    {
+      "idx": 117,
+      "pali": "12. Kusītamūlakasuttaṃ",
+      "zh": "12. [[kusītamūlakasutta|懈怠为根经]]"
+    },
+    {
+      "idx": 118,
+      "pali": "Sāvatthiyaṃ viharati…pe… ‘‘dhātusova, bhikkhave, sattā saṃsandanti samenti. Kusītā kusītehi saddhiṃ saṃsandanti samenti; muṭṭhassatino muṭṭhassatīhi saddhiṃ saṃsandanti samenti; duppaññā duppaññehi saddhiṃ saṃsandanti samenti; āraddhavīriyā āraddhavīriyehi saddhiṃ saṃsandanti samenti; upaṭṭhitassatino upaṭṭhitassatīhi saddhiṃ saṃsandanti samenti; paññavanto paññavantehi saddhiṃ saṃsandanti samentīti…pe…. Dvādasamaṃ.",
+      "zh": "在[[sāvatthī|舍卫城]]……“诸比丘！众生正是随界而聚合、相会。懈怠者与懈怠者相聚合、相会；失念者与失念者相聚合、相会；智慧薄弱者与智慧薄弱者相聚合、相会；精进者与精进者相聚合、相会；正念现前者与正念现前者相聚合、相会；具慧者与具慧者相聚合、相会。”……这是第十二经。",
+      "n": "106"
+    },
+    {
+      "idx": 119,
+      "pali": "Dutiyo vaggo.",
+      "zh": "第二品"
+    },
+    {
+      "idx": 120,
+      "pali": "Tassuddānaṃ –",
+      "zh": "其摄颂："
+    },
+    {
+      "idx": 121,
+      "pali": "Sattimā sanidānañca, giñjakāvasathena ca;",
+      "zh": "七母及有因，与砖屋；",
+      "type": "verse"
+    },
+    {
+      "idx": 122,
+      "pali": "Hīnādhimutti caṅkamaṃ, sagāthā assaddhasattamaṃ.",
+      "zh": "劣胜解、经行，有偈颂、无信第七。",
+      "type": "verse"
+    },
+    {
+      "idx": 123,
+      "pali": "Assaddhamūlakā pañca, cattāro ahirikamūlakā;",
+      "zh": "无信为根者有五，无惭为根者有四；",
+      "type": "verse"
+    },
+    {
+      "idx": 124,
+      "pali": "Anottappamūlakā tīṇi, duve appassutena ca.",
+      "zh": "以无愧为根者有三篇，以少闻者有二篇。",
+      "type": "verse"
+    },
+    {
+      "idx": 125,
+      "pali": "Kusītaṃ ekakaṃ vuttaṃ, suttantā tīṇi pañcakā;",
+      "zh": "懈怠独为一经，更有三篇五法经；",
+      "type": "verse"
+    },
+    {
+      "idx": 126,
+      "pali": "Bāvīsati vuttā suttā, dutiyo vaggo pavuccatīti.",
+      "zh": "已说二十二经，此即第二品。",
+      "type": "verse"
+    },
+    {
+      "idx": 127,
+      "pali": "3. Kammapathavaggo",
+      "zh": "3. 业道品"
+    },
+    {
+      "idx": 128,
+      "pali": "1. Asamāhitasuttaṃ",
+      "zh": "1. [[asamāhitasutta|无定经]]"
+    },
+    {
+      "idx": 129,
+      "pali": "Sāvatthiyaṃ viharati…pe… ‘‘dhātusova, bhikkhave, sattā saṃsandanti samenti. Assaddhā assaddhehi saddhiṃ saṃsandanti samenti; ahirikā ahirikehi saddhiṃ saṃsandanti samenti; anottappino anottappīhi saddhiṃ saṃsandanti samenti; asamāhitā asamāhitehi saddhiṃ saṃsandanti samenti; duppaññā duppaññehi saddhiṃ saṃsandanti samenti’’.",
+      "zh": "一时，世尊住[[sāvatthī|舍卫城]]……诸比丘，众生依界而相聚、相合。无信者与无信者相聚、相合；无惭者与无惭者相聚、相合；无愧者与无愧者相聚、相合；不得定者与不得定者相聚、相合；劣慧者与劣慧者相聚、相合。",
+      "n": "107"
+    },
+    {
+      "idx": 130,
+      "pali": "‘‘Saddhā saddhehi saddhiṃ saṃsandanti samenti; hirimanā hirimanehi saddhiṃ saṃsandanti samenti; ottappino ottappīhi saddhiṃ saṃsandanti samenti; samāhitā samāhitehi saddhiṃ saṃsandanti samenti; paññavanto paññavantehi saddhiṃ saṃsandanti samentī’’ti. Paṭhamaṃ.",
+      "zh": "“有信者与有信者相聚、相合；有惭者与有惭者相聚、相合；有愧者与有愧者相聚、相合；得定者与得定者相聚、相合；有慧者与有慧者相聚、相合。”第一。"
+    },
+    {
+      "idx": 131,
+      "pali": "2. Dussīlasuttaṃ",
+      "zh": "2. [[dussīlasutta|破戒经]]"
+    },
+    {
+      "idx": 132,
+      "pali": "Sāvatthiyaṃ viharati…pe… ‘‘dhātusova, bhikkhave, sattā saṃsandanti samenti. Assaddhā assaddhehi saddhiṃ saṃsandanti samenti; ahirikā ahirikehi saddhiṃ saṃsandanti samenti; anottappino anottappīhi saddhiṃ saṃsandanti samenti; dussīlā dussīlehi saddhiṃ saṃsandanti samenti; duppaññā duppaññehi saddhiṃ saṃsandanti samenti’’.",
+      "zh": "在[[sāvatthī|舍卫城]]……诸比丘，众生依界而相聚和合：无信者与无信者相聚和合；无惭者与无惭者相聚和合；无愧者与无愧者相聚和合；破戒者与破戒者相聚和合；劣慧者与劣慧者相聚和合。",
+      "n": "108"
+    },
+    {
+      "idx": 133,
+      "pali": "‘‘Saddhā saddhehi saddhiṃ saṃsandanti samenti; hirimanā hirimanehi saddhiṃ saṃsandanti samenti; ottappino ottappīhi saddhiṃ saṃsandanti samenti; sīlavanto sīlavantehi saddhiṃ saṃsandanti samenti; paññavanto paññavantehi saddhiṃ saṃsandanti samentī’’ti. Dutiyaṃ.",
+      "zh": "“有信者与有信者相聚和合；有惭者与有惭者相聚和合；有愧者与有愧者相聚和合；持戒者与持戒者相聚和合；有慧者与有慧者相聚和合。”第二。"
+    },
+    {
+      "idx": 134,
+      "pali": "3. Pañcasikkhāpadasuttaṃ",
+      "zh": "3. [[pañcasikkhāpadasutta|五学处经]]"
+    },
+    {
+      "idx": 135,
+      "pali": "Sāvatthiyaṃ viharati…pe… ‘‘dhātusova, bhikkhave, sattā saṃsandanti samenti. Pāṇātipātino pāṇātipātīhi saddhiṃ saṃsandanti samenti; adinnādāyino adinnādāyīhi saddhiṃ saṃsandanti samenti; kāmesumicchācārino kāmesumicchācārīhi saddhiṃ saṃsandanti samenti; musāvādino musāvādīhi saddhiṃ saṃsandanti samenti; surāmerayamajjappamādaṭṭhāyino surāmerayamajjappamādaṭṭhāyīhi saddhiṃ saṃsandanti samenti’’.",
+      "zh": "一时，世尊在[[sāvatthī|舍卫城]]……诸比丘！众生依界而相聚、和合。杀生者与杀生者相聚、和合；不与取者与不与取者相聚、和合；欲邪行者与欲邪行者相聚、和合；妄语者与妄语者相聚、和合；饮酒放逸者与饮酒放逸者相聚、和合。",
+      "n": "109"
+    },
+    {
+      "idx": 136,
+      "pali": "‘‘Pāṇātipātā paṭiviratā pāṇātipātā paṭiviratehi saddhiṃ saṃsandanti samenti; adinnādānā paṭiviratā adinnādānā paṭiviratehi saddhiṃ saṃsandanti samenti; kāmesumicchācārā paṭiviratā kāmesumicchācārā paṭiviratehi saddhiṃ saṃsandanti samenti; musāvādā paṭiviratā musāvādā paṭiviratehi saddhiṃ saṃsandanti samenti; surāmerayamajjappamādaṭṭhānā paṭiviratā surāmerayamajjappamādaṭṭhānā paṭiviratehi saddhiṃ saṃsandanti samentī’’ti. Tatiyaṃ.",
+      "zh": "“离杀生者与离杀生者相聚、和合；离不与取者与离不与取者相聚、和合；离欲邪行者与离欲邪行者相聚、和合；离妄语者与离妄语者相聚、和合；离饮酒等放逸处者与离饮酒等放逸处者相聚、和合。”第三。"
+    },
+    {
+      "idx": 137,
+      "pali": "4. Sattakammapathasuttaṃ",
+      "zh": "4. [[sattakammapathasutta|七业道经]]"
+    },
+    {
+      "idx": 138,
+      "pali": "Sāvatthiyaṃ viharati…pe… ‘‘dhātusova, bhikkhave, sattā saṃsandanti samenti. Pāṇātipātino pāṇātipātīhi saddhiṃ saṃsandanti samenti; adinnādāyino adinnādāyīhi saddhiṃ saṃsandanti samenti; kāmesumicchācārino kāmesumicchācārīhi saddhiṃ saṃsandanti samenti; musāvādino musāvādīhi saddhiṃ saṃsandanti samenti; pisuṇavācā pisuṇavācehi saddhiṃ saṃsandanti samenti; pharusavācā pharusavācehi saddhiṃ saṃsandanti samenti; samphappalāpino samphappalāpīhi saddhiṃ saṃsandanti samenti’’.",
+      "zh": "在[[sāvatthī|舍卫城]]……诸比丘，众生依界而聚集、会合。杀生者与杀生者共聚、会合；不与取者与不与取者共聚、会合；欲邪行者与欲邪行者共聚、会合；妄语者与妄语者共聚、会合；离间语者与离间语者共聚、会合；粗恶语者与粗恶语者共聚、会合；杂秽语者与杂秽语者共聚、会合。",
+      "n": "110"
+    },
+    {
+      "idx": 139,
+      "pali": "‘‘Pāṇātipātā paṭiviratā…pe… adinnādānā paṭiviratā… kāmesumicchācārā paṭiviratā… musāvādā paṭiviratā… pisuṇāya vācāya paṭiviratā pisuṇāya vācāya paṭiviratehi saddhiṃ saṃsandanti samenti; pharusāya vācāya paṭiviratā pharusāya vācāya paṭiviratehi saddhiṃ saṃsandanti samenti; samphappalāpā paṭiviratā samphappalāpā paṭiviratehi saddhiṃ saṃsandanti samentī’’ti. Catutthaṃ.",
+      "zh": "“远离杀生者……远离不与取者……远离欲邪行者……远离妄语者……远离离间语者与远离离间语者共聚、会合；远离粗恶语者与远离粗恶语者共聚、会合；远离杂秽语者与远离杂秽语者共聚、会合。”第四。"
+    },
+    {
+      "idx": 140,
+      "pali": "5. Dasakammapathasuttaṃ",
+      "zh": "5. [[dasakammapathasutta|十业道经]]"
+    },
+    {
+      "idx": 141,
+      "pali": "Sāvatthiyaṃ viharati…pe… ‘‘dhātusova , bhikkhave, sattā saṃsandanti samenti. Pāṇātipātino pāṇātipātīhi saddhiṃ saṃsandanti samenti; adinnādāyino…pe… kāmesumicchācārino… musāvādino… pisuṇavācā… pharusavācā… samphappalāpino samphappalāpīhi saddhiṃ saṃsandanti samenti; abhijjhāluno abhijjhālūhi saddhiṃ saṃsandanti samenti; byāpannacittā byāpannacittehi saddhiṃ saṃsandanti samenti; micchādiṭṭhikā micchādiṭṭhikehi saddhiṃ saṃsandanti samenti’’.",
+      "zh": "如是我闻：一时，世尊在[[sāvatthī|舍卫城]]……“诸比丘，众生依界而相合、相聚。杀生者与杀生者相合、相聚；不与取者……欲邪行者……妄语者……两舌者……粗恶语者……杂秽语者与杂秽语者相合、相聚；贪婪者与贪婪者相合、相聚；心怀嗔恨者与心怀嗔恨者相合、相聚；邪见者与邪见者相合、相聚。”",
+      "n": "111"
+    },
+    {
+      "idx": 142,
+      "pali": "‘‘Pāṇātipātā paṭiviratā pāṇātipātā paṭiviratehi saddhiṃ saṃsandanti samenti; adinnādānā paṭiviratā…pe… kāmesumicchācārā paṭiviratā… musāvādā paṭiviratā… pisuṇāya vācāya… pharusāya vācāya… samphappalāpā paṭiviratā samphappalāpā paṭiviratehi saddhiṃ saṃsandanti samenti; anabhijjhāluno anabhijjhālūhi saddhiṃ saṃsandanti samenti; abyāpannacittā abyāpannacittehi saddhiṃ saṃsandanti samenti; sammādiṭṭhikā sammādiṭṭhikehi saddhiṃ saṃsandanti samentī’’ti. Pañcamaṃ.",
+      "zh": "“离杀生者与离杀生者相合、相聚；离不与取者……离欲邪行者……离妄语者……离两舌者……离粗恶语者……离杂秽语者与离杂秽语者相合、相聚；不贪婪者与不贪婪者相合、相聚；无嗔恨心者与无嗔恨心者相合、相聚；正见者与正见者相合、相聚。”第五。"
+    },
+    {
+      "idx": 143,
+      "pali": "6. Aṭṭhaṅgikasuttaṃ",
+      "zh": "6. [[aṭṭhaṅgikasutta|八支经]]"
+    },
+    {
+      "idx": 144,
+      "pali": "Sāvatthiyaṃ viharati…pe… ‘‘dhātusova, bhikkhave, sattā saṃsandanti samenti. Micchādiṭṭhikā micchādiṭṭhikehi saddhiṃ saṃsandanti samenti; micchāsaṅkappā…pe… micchāvācā… micchākammantā… micchāājīvā… micchāvāyāmā… micchāsatino … micchāsamādhino micchāsamādhīhi saddhiṃ saṃsandanti samenti. Sammādiṭṭhikā sammādiṭṭhikehi saddhiṃ saṃsandanti samenti; sammāsaṅkappā…pe… sammāvācā… sammākammantā… sammāājīvā… sammāvāyāmā… sammāsatino… sammāsamādhino sammāsamādhīhi saddhiṃ saṃsandanti samentī’’ti. Chaṭṭhaṃ.",
+      "zh": "一时，世尊在[[sāvatthī|舍卫城]]……“诸比丘，众生依界而相聚相合。邪见者与邪见者相聚相合；邪思惟者……邪语者……邪业者……邪命者……邪精进者……邪念者……邪定者与邪定者相聚相合。正见者与正见者相聚相合；正思惟者……正语者……正业者……正命者……正精进者……正念者……正定者与正定者相聚相合。”第六。",
+      "n": "112"
+    },
+    {
+      "idx": 145,
+      "pali": "7. Dasaṅgasuttaṃ",
+      "zh": "7. [[dasaṅgasutta|十支经]]"
+    },
+    {
+      "idx": 146,
+      "pali": "Sāvatthiyaṃ viharati…pe… ‘‘dhātusova, bhikkhave, sattā saṃsandanti samenti. Micchādiṭṭhikā micchādiṭṭhikehi saddhiṃ saṃsandanti samenti; micchāsaṅkappā…pe… micchāvācā… micchākammantā… micchāājīvā… micchāvāyāmā… micchāsatino … micchāsamādhino micchāsamādhīhi saddhiṃ saṃsandanti samenti; micchāñāṇino micchāñāṇīhi saddhiṃ saṃsandanti samenti; micchāvimuttino micchāvimuttīhi saddhiṃ saṃsandanti samenti’’.",
+      "zh": "世尊住在[[sāvatthī|舍卫城]]…… “诸比丘，众生依界而相交、相聚。邪见者与邪见者相交、相聚；邪思惟者……邪语者……邪业者……邪命者……邪精进者……邪念者……邪定者与邪定者相交、相聚；邪智者与邪智者相交、相聚；邪解脱者与邪解脱者相交、相聚。”",
+      "n": "113"
+    },
+    {
+      "idx": 147,
+      "pali": "‘‘Sammādiṭṭhikā sammādiṭṭhikehi saddhiṃ saṃsandanti samenti; sammāsaṅkappā…pe… sammāvācā… sammākammantā… sammāājīvā… sammāvāyāmā… sammāsatino… sammāsamādhino… sammāñāṇino sammāñāṇīhi saddhiṃ saṃsandanti samenti; sammāvimuttino sammāvimuttīhi saddhiṃ saṃsandanti samentī’’ti. Sattamaṃ.",
+      "zh": "“正见者与正见者相交、相聚；正思惟者……正语者……正业者……正命者……正精进者……正念者……正定者……正智者与正智者相交、相聚；正解脱者与正解脱者相交、相聚。”第七。"
+    },
+    {
+      "idx": 148,
+      "pali": "Sattannaṃ suttantānaṃ uddānaṃ –",
+      "zh": "七经摄颂："
+    },
+    {
+      "idx": 149,
+      "pali": "Asamāhitaṃ dussīlaṃ, pañca sikkhāpadāni ca;",
+      "zh": "“不得定、破戒，及五学处；”",
+      "type": "verse"
+    },
+    {
+      "idx": 150,
+      "pali": "Satta kammapathā vuttā, dasakammapathena ca;",
+      "zh": "所说七业道，及十业道；",
+      "type": "verse"
+    },
+    {
+      "idx": 151,
+      "pali": "Chaṭṭhaṃ aṭṭhaṅgiko vutto, dasaṅgena ca sattamaṃ.",
+      "zh": "第六说为八支，第七则具十支。",
+      "type": "verse"
+    },
+    {
+      "idx": 152,
+      "pali": "Kammapathavaggo tatiyo.",
+      "zh": "业道品第三"
+    },
+    {
+      "idx": 153,
+      "pali": "4. Catutthavaggo",
+      "zh": "第四品"
+    },
+    {
+      "idx": 154,
+      "pali": "1. Catudhātusuttaṃ",
+      "zh": "1. [[catudhātusutta|四界经]]"
+    },
+    {
+      "idx": 155,
+      "pali": "Ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme…pe… ‘‘catasso imā, bhikkhave, dhātuyo. Katamā catasso? Pathavīdhātu, āpodhātu, tejodhātu, vāyodhātu – imā kho, bhikkhave, catasso dhātuyo’’ti. Paṭhamaṃ.",
+      "zh": "一时，世尊住在[[sāvatthī|舍卫城]]的祇树[[Anāthapiṇḍika|给孤独]]园。……于其处，世尊对比丘们说：“诸比丘，有这四种界。哪四种呢？地界、水界、火界、风界。诸比丘，这就是四种界。”第一经。",
+      "n": "114"
+    },
+    {
+      "idx": 156,
+      "pali": "2. Pubbesambodhasuttaṃ",
+      "zh": "2. [[pubbesambodhasutta|正觉前经]]"
+    },
+    {
+      "idx": 157,
+      "pali": "Sāvatthiyaṃ viharati…pe… ‘‘pubbeva me, bhikkhave, sambodhā anabhisambuddhassa bodhisattasseva sato etadahosi – ‘ko nu kho pathavīdhātuyā assādo, ko ādīnavo, kiṃ nissaraṇaṃ; ko āpodhātuyā assādo, ko ādīnavo, kiṃ nissaraṇaṃ; ko tejodhātuyā assādo, ko ādīnavo, kiṃ nissaraṇaṃ; ko vāyodhātuyā assādo, ko ādīnavo, kiṃ nissaraṇa’’’nti?",
+      "zh": "一时，世尊住[[sāvatthī|舍卫城]]……（中略）世尊对诸比丘这样说：“诸比丘，当我尚未觉悟、还未成就正自觉，仍是菩萨的时候，心中生起这样的思惟：‘什么是地界的乐味、过患与出离？什么是水界的乐味、过患与出离？什么是火界的乐味、过患与出离？什么是风界的乐味、过患与出离？’”",
+      "n": "115"
+    },
+    {
+      "idx": 158,
+      "pali": "‘‘Tassa mayhaṃ, bhikkhave, etadahosi – ‘yaṃ kho pathavīdhātuṃ paṭicca uppajjati sukhaṃ somanassaṃ, ayaṃ pathavīdhātuyā assādo; yaṃ pathavīdhātu aniccā dukkhā vipariṇāmadhammā, ayaṃ pathavīdhātuyā ādīnavo; yo pathavīdhātuyā chandarāgavinayo chandarāgappahānaṃ, idaṃ pathavīdhātuyā nissaraṇaṃ. Yaṃ āpodhātuṃ paṭicca…pe… yaṃ tejodhātuṃ paṭicca…pe… yaṃ vāyodhātuṃ paṭicca uppajjati sukhaṃ somanassaṃ, ayaṃ vāyodhātuyā assādo; yaṃ vāyodhātu aniccā dukkhā vipariṇāmadhammā, ayaṃ vāyodhātuyā ādīnavo; yo vāyodhātuyā chandarāgavinayo chandarāgappahānaṃ, idaṃ vāyodhātuyā nissaraṇaṃ’’’.",
+      "zh": "“诸比丘，那时我这样想：‘缘于地界而生起的快乐与喜悦，即是地界的乐味；地界是无常、苦、变易之法，即是地界的过患；调伏对地界的欲贪、断除欲贪，即是地界的出离。缘于水界而生起的快乐与喜悦，即是水界的乐味；水界是无常、苦、变易之法，即是水界的过患；调伏对水界的欲贪、断除欲贪，即是水界的出离。缘于火界而生起的快乐与喜悦，即是火界的乐味；火界是无常、苦、变易之法，即是火界的过患；调伏对火界的欲贪、断除欲贪，即是火界的出离。缘于风界而生起的快乐与喜悦，即是风界的乐味；风界是无常、苦、变易之法，即是风界的过患；调伏对风界的欲贪、断除欲贪，即是风界的出离。’”"
+    },
+    {
+      "idx": 159,
+      "pali": "‘‘Yāvakīvañcāhaṃ , bhikkhave, imāsaṃ catunnaṃ dhātūnaṃ evaṃ assādañca assādato ādīnavañca ādīnavato nissaraṇañca nissaraṇato yathābhūtaṃ na abbhaññāsiṃ, neva tāvāhaṃ, bhikkhave, sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya anuttaraṃ sammāsambodhiṃ abhisambuddhoti paccaññāsiṃ.",
+      "zh": "“诸比丘，只要我尚未如此如实了知此四界之味为味、患为患、出离为出离，我便不在包含天、魔、梵天的世间，不在沙门、婆罗门、天人所在的世代中，宣称已证得无上正自觉。”"
+    },
+    {
+      "idx": 160,
+      "pali": "‘‘Yato ca khvāhaṃ, bhikkhave, imāsaṃ catunnaṃ dhātūnaṃ evaṃ assādañca assādato ādīnavañca ādīnavato nissaraṇañca nissaraṇato yathābhūtaṃ abbhaññāsiṃ, athāhaṃ, bhikkhave, sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya anuttaraṃ sammāsambodhiṃ abhisambuddhoti paccaññāsiṃ. Ñāṇañca pana me dassanaṃ udapādi – ‘akuppā me vimutti , ayamantimā jāti, natthi dāni punabbhavo’’’ti. Dutiyaṃ.",
+      "zh": "“诸比丘，然而当我如此如实了知此四界之味为味、患为患、出离为出离时，我才在包含天、魔、梵天的世间，在沙门、婆罗门、天人所在的世代中，宣称我已证得无上正自觉。我的智与见生起：‘我的解脱不可动摇，这是我的最后生，不再有后有。’”第二经。"
+    },
+    {
+      "idx": 161,
+      "pali": "3. Acariṃsuttaṃ",
+      "zh": "3. [[acariṃsutta|行经]]"
+    },
+    {
+      "idx": 162,
+      "pali": "Sāvatthiyaṃ viharati…pe… ‘‘pathavīdhātuyāhaṃ, bhikkhave, assādapariyesanaṃ acariṃ, yo pathavīdhātuyā assādo tadajjhagamaṃ, yāvatā pathavīdhātuyā assādo paññāya me so sudiṭṭho. Pathavīdhātuyāhaṃ, bhikkhave, ādīnavapariyesanaṃ acariṃ, yo pathavīdhātuyā ādīnavo tadajjhagamaṃ , yāvatā pathavīdhātuyā ādīnavo paññāya me so sudiṭṭho. Pathavīdhātuyāhaṃ, bhikkhave, nissaraṇapariyesanaṃ acariṃ, yaṃ pathavīdhātuyā nissaraṇaṃ tadajjhagamaṃ, yāvatā pathavīdhātuyā nissaraṇaṃ paññāya me taṃ sudiṭṭhaṃ’’.",
+      "zh": "世尊住在[[sāvatthī|舍卫城]]。……诸比丘，我寻求地界的乐味，证得了地界的乐味；地界的乐味究竟到什么程度，我已以智慧善巧洞见。诸比丘，我寻求地界的过患，证得了地界的过患；地界的过患究竟到什么程度，我已以智慧善巧洞见。诸比丘，我寻求地界的出离，证得了地界的出离；地界的出离究竟到什么程度，我已以智慧善巧洞见。",
+      "n": "116"
+    },
+    {
+      "idx": 163,
+      "pali": "‘‘Āpodhātuyāhaṃ, bhikkhave…pe… tejodhātuyāhaṃ, bhikkhave… vāyodhātuyāhaṃ, bhikkhave, assādapariyesanaṃ acariṃ, yo vāyodhātuyā assādo tadajjhagamaṃ, yāvatā vāyodhātuyā assādo paññāya me so sudiṭṭho. Vāyodhātuyāhaṃ, bhikkhave, ādīnavapariyesanaṃ acariṃ, yo vāyodhātuyā ādīnavo tadajjhagamaṃ, yāvatā vāyodhātuyā ādīnavo paññāya me so sudiṭṭho. Vāyodhātuyāhaṃ, bhikkhave, nissaraṇapariyesanaṃ acariṃ, yaṃ vāyodhātuyā nissaraṇaṃ tadajjhagamaṃ, yāvatā vāyodhātuyā nissaraṇaṃ paññāya me taṃ sudiṭṭhaṃ.",
+      "zh": "“诸比丘，我寻求水界的乐味……诸比丘，我寻求火界的乐味……诸比丘，我寻求风界的乐味，证得了风界的乐味；风界的乐味究竟到什么程度，我已以智慧善巧洞见。诸比丘，我寻求风界的过患，证得了风界的过患；风界的过患究竟到什么程度，我已以智慧善巧洞见。诸比丘，我寻求风界的出离，证得了风界的出离；风界的出离究竟到什么程度，我已以智慧善巧洞见。"
+    },
+    {
+      "idx": 164,
+      "pali": "‘‘Yāvakīvañcāhaṃ, bhikkhave, imāsaṃ catunnaṃ dhātūnaṃ assādañca assādato ādīnavañca ādīnavato nissaraṇañca nissaraṇato yathābhūtaṃ na abbhaññāsiṃ, neva tāvāhaṃ, bhikkhave, sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya anuttaraṃ sammāsambodhiṃ abhisambuddhoti paccaññāsiṃ.",
+      "zh": "“诸比丘，只要我未能如实地证知这四界的乐味为乐味、过患为过患、出离为出离，我便不宣称于这天、魔、梵的世间，于沙门、婆罗门、天、人众中，已证得无上正自觉。”"
+    },
+    {
+      "idx": 165,
+      "pali": "‘‘Yato ca khvāhaṃ, bhikkhave, imāsaṃ catunnaṃ dhātūnaṃ assādañca assādato ādīnavañca ādīnavato nissaraṇañca nissaraṇato yathābhūtaṃ abbhaññāsiṃ, athāhaṃ, bhikkhave, sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya anuttaraṃ sammāsambodhiṃ abhisambuddhoti paccaññāsiṃ. Ñāṇañca pana me dassanaṃ udapādi – ‘akuppā me vimutti, ayamantimā jāti, natthi dāni punabbhavo’’’ti. Tatiyaṃ.",
+      "zh": "“诸比丘，当我如实了知这四界的乐味为乐味、过患为过患、出离为出离时，诸比丘，我便于这包含天、魔、梵的世间，于这包含沙门、婆罗门、天人的人众中，宣称证得无上正自觉。我生起了智与见：‘我的解脱不可动摇，这是最后生，不再有后有。’”第三经。"
+    },
+    {
+      "idx": 166,
+      "pali": "4. Nocedaṃsuttaṃ",
+      "zh": "4. [[nocedaṃsutta|若无经]]"
+    },
+    {
+      "idx": 167,
+      "pali": "Sāvatthiyaṃ viharati…pe… ‘‘no cedaṃ, bhikkhave, pathavīdhātuyā assādo abhavissa, nayidaṃ sattā pathavīdhātuyā sārajjeyyuṃ . Yasmā ca kho, bhikkhave, atthi pathavīdhātuyā assādo, tasmā sattā pathavīdhātuyā sārajjanti. No cedaṃ, bhikkhave, pathavīdhātuyā ādīnavo abhavissa, nayidaṃ sattā pathavīdhātuyā nibbindeyyuṃ. Yasmā ca kho, bhikkhave, atthi pathavīdhātuyā ādīnavo, tasmā sattā pathavīdhātuyā nibbindanti. No cedaṃ, bhikkhave, pathavīdhātuyā nissaraṇaṃ abhavissa, nayidaṃ sattā pathavīdhātuyā nissareyyuṃ. Yasmā ca kho, bhikkhave, atthi pathavīdhātuyā nissaraṇaṃ, tasmā sattā pathavīdhātuyā nissaranti’’.",
+      "zh": "在[[sāvatthī|舍卫城]]。……（前略）诸比丘，如果地界没有乐味，众生便不会于地界生起贪着。诸比丘，正因为地界有乐味，众生便于地界生起贪着。诸比丘，如果地界没有过患，众生便不会于地界生起厌离。诸比丘，正因为地界有过患，众生便于地界生起厌离。诸比丘，如果地界没有出离，众生便不会从地界出离。诸比丘，正因为地界有出离，众生便从地界出离。",
+      "n": "117"
+    },
+    {
+      "idx": 168,
+      "pali": "‘‘No cedaṃ, bhikkhave, āpodhātuyā assādo abhavissa…pe… no cedaṃ, bhikkhave, tejodhātuyā…pe… no cedaṃ, bhikkhave, vāyodhātuyā assādo abhavissa, nayidaṃ sattā vāyodhātuyā sārajjeyyuṃ. Yasmā ca kho, bhikkhave, atthi vāyodhātuyā assādo, tasmā sattā vāyodhātuyā sārajjanti. No cedaṃ, bhikkhave, vāyodhātuyā ādīnavo abhavissa, nayidaṃ sattā vāyodhātuyā nibbindeyyuṃ. Yasmā ca kho, bhikkhave, atthi vāyodhātuyā ādīnavo, tasmā sattā vāyodhātuyā nibbindanti. No cedaṃ, bhikkhave, vāyodhātuyā nissaraṇaṃ abhavissa, nayidaṃ sattā vāyodhātuyā nissareyyuṃ. Yasmā ca kho, bhikkhave, atthi vāyodhātuyā nissaraṇaṃ, tasmā sattā vāyodhātuyā nissaranti.",
+      "zh": "“诸比丘，如果水界没有乐味……（中略）诸比丘，如果火界……（中略）诸比丘，如果风界没有乐味，众生便不会于风界生贪着。诸比丘，正因风界有乐味，众生才于风界生贪着。诸比丘，如果风界没有过患，众生便不会于风界生厌离。诸比丘，正因风界有过患，众生才于风界生厌离。诸比丘，如果风界没有出离，众生便不会从风界出离。诸比丘，正因风界有出离，众生才从风界出离。”"
+    },
+    {
+      "idx": 169,
+      "pali": "‘‘Yāvakīvañcime, bhikkhave, sattā imāsaṃ catunnaṃ dhātūnaṃ assādañca assādato ādīnavañca ādīnavato nissaraṇañca nissaraṇato yathābhūtaṃ na abbhaññaṃsu, neva tāvime bhikkhave, sattā sadevakā lokā samārakā sabrahmakā sassamaṇabrāhmaṇiyā pajāya sadevamanussāya nissaṭā visaṃyuttā vippamuttā vimariyādikatena cetasā vihariṃsu.",
+      "zh": "“诸比丘，只要众生对这四界的味为味、患为患、出离为出离，尚未如实了知，他们就不能从有诸天神、魔、梵的世间，从有沙门婆罗门、人天众生的世代中出离、离缚、解脱，不能以无界限之心而住。”"
+    },
+    {
+      "idx": 170,
+      "pali": "‘‘Yato ca kho, bhikkhave, sattā imāsaṃ catunnaṃ dhātūnaṃ assādañca assādato ādīnavañca ādīnavato nissaraṇañca nissaraṇato yathābhūtaṃ abbhaññaṃsu, atha, bhikkhave, sattā sadevakā lokā samārakā sabrahmakā sassamaṇabrāhmaṇiyā pajāya sadevamanussāya nissaṭā visaṃyuttā vippamuttā vimariyādikatena cetasā viharantī’’ti. Catutthaṃ.",
+      "zh": "“诸比丘，然而一旦众生对这四界的味为味、患为患、出离为出离，如实了知，他们便从有诸天神、魔、梵的世间，从有沙门婆罗门、人天众生的世代中出离、离缚、解脱，得以无有界限之心而住。”第四经。"
+    },
+    {
+      "idx": 171,
+      "pali": "5. Ekantadukkhasuttaṃ",
+      "zh": "5. [[ekantadukkhasutta|一向苦经]]"
+    },
+    {
+      "idx": 172,
+      "pali": "Sāvatthiyaṃ viharati…pe… ‘‘pathavīdhātu ce hidaṃ, bhikkhave, ekantadukkhā abhavissa dukkhānupatitā dukkhāvakkantā anavakkantā sukhena, nayidaṃ sattā pathavīdhātuyā sārajjeyyuṃ. Yasmā ca kho, bhikkhave, pathavīdhātu sukhā sukhānupatitā sukhāvakkantā anavakkantā dukkhena, tasmā sattā pathavīdhātuyā sārajjanti’’.",
+      "zh": "一时，世尊住在[[sāvatthī|舍卫城]]……“诸比丘，若地界纯然是苦，为苦所随逐、所浸没，不为乐所浸没，众生便不会对它生起染著。然而，诸比丘，正因为地界是乐，为乐所随逐、所浸没，不为苦所浸没，所以众生对它生起染著。”",
+      "n": "118"
+    },
+    {
+      "idx": 173,
+      "pali": "‘‘Āpodhātu ce hidaṃ, bhikkhave…pe… tejodhātu ce hidaṃ, bhikkhave… vāyodhātu ce hidaṃ, bhikkhave, ekantadukkhā abhavissa dukkhānupatitā dukkhāvakkantā anavakkantā sukhena, nayidaṃ sattā vāyodhātuyā sārajjeyyuṃ. Yasmā ca kho, bhikkhave, vāyodhātu sukhā sukhānupatitā sukhāvakkantā anavakkantā dukkhena, tasmā sattā vāyodhātuyā sārajjanti.",
+      "zh": "“诸比丘，若水界……若火界……若风界纯然是苦，为苦所随逐、所浸没，不为乐所浸没，众生便不会对风界生起染著。然而，诸比丘，正因为风界是乐，为乐所随逐、所浸没，不为苦所浸没，所以众生对风界生起染著。”"
+    },
+    {
+      "idx": 174,
+      "pali": "‘‘Pathavīdhātu ce hidaṃ, bhikkhave, ekantasukhā abhavissa sukhānupatitā sukhāvakkantā anavakkantā dukkhena, nayidaṃ sattā pathavīdhātuyā nibbindeyyuṃ. Yasmā ca kho, bhikkhave, pathavīdhātu dukkhā dukkhānupatitā dukkhāvakkantā anavakkantā sukhena, tasmā sattā pathavīdhātuyā nibbindanti.",
+      "zh": "“诸比丘，如果地界纯是乐、随乐而转、全然浸入乐中、不浸入苦，那么众生便不会对地界生起厌离。诸比丘，正因为地界是苦、随苦而转、全然浸入苦中、不浸入乐，众生才对地界生起厌离。"
+    },
+    {
+      "idx": 175,
+      "pali": "‘‘Āpodhātu ce hidaṃ, bhikkhave…pe… tejodhātu ce hidaṃ, bhikkhave… vāyodhātu ce hidaṃ, bhikkhave, ekantasukhā abhavissa sukhānupatitā sukhāvakkantā anavakkantā dukkhena, nayidaṃ sattā vāyodhātuyā nibbindeyyuṃ. Yasmā ca kho, bhikkhave, vāyodhātu dukkhā dukkhānupatitā dukkhāvakkantā anavakkantā sukhena, tasmā sattā vāyodhātuyā nibbindantī’’ti. Pañcamaṃ.",
+      "zh": "“诸比丘，如果水界……诸比丘，如果火界……诸比丘，如果风界纯是乐、随乐而转、全然浸入乐中、不浸入苦，那么众生便不会对风界生起厌离。诸比丘，正因为风界是苦、随苦而转、全然浸入苦中、不浸入乐，众生才对风界生起厌离。”第五。"
+    },
+    {
+      "idx": 176,
+      "pali": "6. Abhinandasuttaṃ",
+      "zh": "6. [[abhinandasutta|欢喜经]]"
+    },
+    {
+      "idx": 177,
+      "pali": "Sāvatthiyaṃ viharati…pe… ‘‘yo, bhikkhave, pathavīdhātuṃ abhinandati, dukkhaṃ so abhinandati. Yo dukkhaṃ abhinandati, aparimutto so dukkhasmāti vadāmi. Yo āpodhātuṃ abhinandati…pe… yo tejodhātuṃ… yo vāyodhātuṃ abhinandati, dukkhaṃ so abhinandati. Yo dukkhaṃ abhinandati, aparimutto so dukkhasmāti vadāmi’’.",
+      "zh": "如是我闻：一时，世尊住在[[sāvatthī|舍卫城]]…… 世尊对比丘们说：“比丘们，若有人于地界生欢喜，他便是于苦生欢喜。若于苦生欢喜，我说他尚未从苦中解脱。若于水界生欢喜…… 若于火界生欢喜…… 若于风界生欢喜，他便是于苦生欢喜。若于苦生欢喜，我说他尚未从苦中解脱。”",
+      "n": "119"
+    },
+    {
+      "idx": 178,
+      "pali": "‘‘Yo ca kho, bhikkhave, pathavīdhātuṃ nābhinandati, dukkhaṃ so nābhinandati. Yo dukkhaṃ nābhinandati, parimutto so dukkhasmāti vadāmi. Yo āpodhātuṃ…pe… yo tejodhātuṃ… yo vāyodhātuṃ nābhinandati, dukkhaṃ so nābhinandati. Yo dukkhaṃ nābhinandati, parimutto so dukkhasmāti vadāmī’’ti. Chaṭṭhaṃ.",
+      "zh": "“比丘们，若有人不于地界生欢喜，他便是不于苦生欢喜。若不于苦生欢喜，我说他已从苦中解脱。若不于水界生欢喜…… 若不于火界生欢喜…… 若不于风界生欢喜，他便是不于苦生欢喜。若不于苦生欢喜，我说他已从苦中解脱。”第六经。"
+    },
+    {
+      "idx": 179,
+      "pali": "7. Uppādasuttaṃ",
+      "zh": "7. [[uppādasutta|生起经]]"
+    },
+    {
+      "idx": 180,
+      "pali": "Sāvatthiyaṃ viharati…pe… ‘‘yo, bhikkhave, pathavīdhātuyā uppādo ṭhiti abhinibbatti pātubhāvo, dukkhasseso uppādo rogānaṃ ṭhiti jarāmaraṇassa pātubhāvo. Yo āpodhātuyā…pe… yo tejodhātuyā… yo vāyodhātuyā uppādo ṭhiti abhinibbatti pātubhāvo, dukkhasseso uppādo rogānaṃ ṭhiti jarāmaraṇassa pātubhāvo’’.",
+      "zh": "比丘们，地界的生起、安住、转生与显现，即是苦的生起、诸病的安住、老死的显现。水界的……火界的……风界的生起、安住、转生与显现，即是苦的生起、诸病的安住、老死的显现。",
+      "n": "120"
+    },
+    {
+      "idx": 181,
+      "pali": "‘‘Yo ca kho, bhikkhave, pathavīdhātuyā nirodho vūpasamo atthaṅgamo, dukkhasseso nirodho rogānaṃ vūpasamo jarāmaraṇassa atthaṅgamo. Yo āpodhātuyā…pe… yo tejodhātuyā… yo vāyodhātuyā nirodho vūpasamo atthaṅgamo, dukkhasseso nirodho rogānaṃ vūpasamo jarāmaraṇassa atthaṅgamo’’ti. Sattamaṃ.",
+      "zh": "“比丘们，然而，地界的息灭、止息、消逝，即是苦的息灭、诸病的止息、老死的消逝。水界的……火界的……风界的息灭、止息、消逝，即是苦的息灭、诸病的止息、老死的消逝。”第七。"
+    },
+    {
+      "idx": 182,
+      "pali": "8. Samaṇabrāhmaṇasuttaṃ",
+      "zh": "8. [[samaṇabrāhmaṇasutta|沙门婆罗门经]]"
+    },
+    {
+      "idx": 183,
+      "pali": "Sāvatthiyaṃ viharati…pe… ‘‘catasso imā, bhikkhave, dhātuyo. Katamā catasso? Pathavīdhātu, āpodhātu, tejodhātu, vāyodhātu. Ye hi keci, bhikkhave, samaṇā vā brāhmaṇā vā imāsaṃ catunnaṃ dhātūnaṃ assādañca ādīnavañca nissaraṇañca yathābhūtaṃ nappajānanti, na me te, bhikkhave, samaṇā vā brāhmaṇā vā samaṇesu vā samaṇasammatā brāhmaṇesu vā brāhmaṇasammatā; na ca pana te āyasmanto sāmaññatthaṃ vā brahmaññatthaṃ vā diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharanti’’.",
+      "zh": "[[sāvatthī|舍卫城]]。“诸比丘，有这四种界。哪四种呢？地界、水界、火界、风界。诸比丘，那些沙门或婆罗门，若未能如实了知这四种界的味、过患与出离，那么，诸比丘，我不认为他们是沙门中的沙门，或是婆罗门中的婆罗门。这些尊者也未能在现法中，以证智自作证而成就并安住于沙门的目标或婆罗门的目标。”",
+      "n": "121"
+    },
+    {
+      "idx": 184,
+      "pali": "‘‘Ye ca kho keci, bhikkhave, samaṇā vā brāhmaṇā vā imāsaṃ catunnaṃ dhātūnaṃ assādañca ādīnavañca nissaraṇañca yathābhūtaṃ pajānanti , te ca kho me, bhikkhave, samaṇā vā brāhmaṇā vā samaṇesu ceva samaṇasammatā brāhmaṇesu ca brāhmaṇasammatā; te ca panāyasmanto sāmaññatthañca brahmaññatthañca diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharantī’’ti. Aṭṭhamaṃ.",
+      "zh": "“至于那些确实如实了知这四种界的味、过患与出离的沙门或婆罗门，诸比丘，我认为他们是沙门中的沙门，是婆罗门中的婆罗门。这些尊者能在现法中，以证智自作证而成就并安住于沙门的目标与婆罗门的目标。”第八经。"
+    },
+    {
+      "idx": 185,
+      "pali": "9. Dutiyasamaṇabrāhmaṇasuttaṃ",
+      "zh": "9. [[dutiyasamaṇabrāhmaṇasutta|第二沙门婆罗门经]]"
+    },
+    {
+      "idx": 186,
+      "pali": "Sāvatthiyaṃ viharati…pe… ‘‘catasso imā, bhikkhave, dhātuyo. Katamā catasso? Pathavīdhātu, āpodhātu, tejodhātu, vāyodhātu. Ye hi keci, bhikkhave, samaṇā vā brāhmaṇā vā imāsaṃ catunnaṃ dhātūnaṃ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṃ nappajānanti…pe… pajānanti…pe… sayaṃ abhiññā sacchikatvā upasampajja viharantī’’ti. Navamaṃ.",
+      "zh": "一时，世尊住在[[sāvatthī|舍卫城]]。…… “诸比丘，有这四界。哪四种呢？地界、水界、火界、风界。诸比丘，凡任何沙门或婆罗门，对这四界的集起、灭去、味、过患、出离不能如实了知……凡如实了知……他们便亲自以证智证得后，具足而住。”第九经。",
+      "n": "122"
+    },
+    {
+      "idx": 187,
+      "pali": "10. Tatiyasamaṇabrāhmaṇasuttaṃ",
+      "zh": "10. [[tatiyasamaṇabrāhmaṇasutta|第三沙门婆罗门经]]"
+    },
+    {
+      "idx": 188,
+      "pali": "Sāvatthiyaṃ viharati…pe… ‘‘ye hi keci, bhikkhave, samaṇā vā brāhmaṇā vā pathavīdhātuṃ nappajānanti, pathavīdhātusamudayaṃ nappajānanti, pathavīdhātunirodhaṃ nappajānanti, pathavīdhātunirodhagāminiṃ paṭipadaṃ nappajānanti…pe… āpodhātuṃ nappajānanti… tejodhātuṃ nappajānanti… vāyodhātuṃ nappajānanti, vāyodhātusamudayaṃ nappajānanti, vāyodhātunirodhaṃ nappajānanti, vāyodhātunirodhagāminiṃ paṭipadaṃ nappajānanti, na me te, bhikkhave, samaṇā vā brāhmaṇā vā samaṇesu vā samaṇasammatā brāhmaṇesu vā brāhmaṇasammatā; na ca pana te āyasmanto sāmaññatthaṃ vā brahmaññatthaṃ vā diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharanti’’.",
+      "zh": "一时，世尊住在[[sāvatthī|舍卫城]]。…… “诸比丘，那些沙门或婆罗门，若不了知地界，不了知地界的集起，不了知地界的灭，不了知导向地界灭的行道；若不了知水界……若不了知火界……若不了知风界，不了知风界的集起，不了知风界的灭，不了知导向风界灭的行道——那么，诸比丘，我不认为他们是沙门中的沙门、婆罗门中的婆罗门；这些尊者们于现法也不能亲自以证智作证沙门义或婆罗门义，具足而住。”",
+      "n": "123"
+    },
+    {
+      "idx": 189,
+      "pali": "‘‘Ye ca kho keci, bhikkhave, samaṇā vā brāhmaṇā vā pathavīdhātuṃ pajānanti, pathavīdhātusamudayaṃ pajānanti, pathavīdhātunirodhaṃ pajānanti, pathavīdhātunirodhagāminiṃ paṭipadaṃ pajānanti… ye ca kho keci, bhikkhave, samaṇā vā brāhmaṇā vā…pe… āpodhātuṃ pajānanti… tejodhātuṃ pajānanti… vāyodhātuṃ pajānanti, vāyodhātusamudayaṃ pajānanti, vāyodhātunirodhaṃ pajānanti, vāyodhātunirodhagāminiṃ paṭipadaṃ pajānanti, te ca kho me, bhikkhave, samaṇā vā brāhmaṇā vā samaṇesu ceva samaṇasammatā brāhmaṇesu ca brāhmaṇasammatā; te ca panāyasmanto sāmaññatthañca brahmaññatthañca diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharantī’’ti. Dasamaṃ.",
+      "zh": "“诸比丘，若有沙门或婆罗门，了知地界，了知地界的集起，了知地界的灭，了知导向地界灭的行道……了知水界……了知火界……了知风界，了知风界的集起，了知风界的灭，了知导向风界灭的行道——诸比丘，在我看来，他们便是沙门中的沙门、婆罗门中的婆罗门；而且，这些尊者于当生便能亲自证悟、圆满成就沙门的究竟目标与婆罗门的究竟目标而安住。”第十经。"
+    },
+    {
+      "idx": 190,
+      "pali": "Catuttho vaggo.",
+      "zh": "第四品"
+    },
+    {
+      "idx": 191,
+      "pali": "Tassuddānaṃ –",
+      "zh": "其摄颂："
+    },
+    {
+      "idx": 192,
+      "pali": "Catasso pubbe acariṃ, nocedañca dukkhena ca;",
+      "zh": "从前我修习四种，若不以此苦，",
+      "type": "verse"
+    },
+    {
+      "idx": 193,
+      "pali": "Abhinandañca uppādo, tayo samaṇabrāhmaṇāti.",
+      "zh": "欢喜与生起，是为三种沙门婆罗门。",
+      "type": "verse"
+    },
+    {
+      "idx": 194,
+      "pali": "Dhātusaṃyuttaṃ samattaṃ.",
+      "zh": "界相应终"
+    }
+  ]
+}

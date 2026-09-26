@@ -1,0 +1,158 @@
+{
+ "uid": 131,
+ "title": "一夜贤者经",
+ "nik": "MN",
+ "segs": [
+  {
+   "idx": 2,
+   "pali": "Evaṃ me sutaṃ – ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Tatra kho bhagavā bhikkhū āmantesi – ‘‘bhikkhavo’’ti. ‘‘Bhadante’’ti te bhikkhū bhagavato paccassosuṃ. Bhagavā etadavoca – ‘‘bhaddekarattassa vo, bhikkhave, uddesañca vibhaṅgañca desessāmi. Taṃ suṇātha, sādhukaṃ manasi karotha; bhāsissāmī’’ti. ‘‘Evaṃ, bhante’’ti kho te bhikkhū bhagavato paccassosuṃ. Bhagavā etadavoca –",
+   "zh": "如是我闻：一时，世尊住在[[sāvatthī|舍卫城]]的祇树[[Anāthapiṇḍika|给孤独]]园。那时，世尊告诸比丘曰：“诸比丘。”诸比丘回答：“尊者。”世尊如是说：“诸比丘，我将为你们宣说一夜贤者之略说与广说。谛听！善作意，我今当说。”诸比丘回答世尊：“是的，尊者。”世尊便说：",
+   "n": "272"
+  },
+  {
+   "idx": 3,
+   "pali": "‘‘Atītaṃ nānvāgameyya, nappaṭikaṅkhe anāgataṃ;",
+   "zh": "“不应追念过去，不应期盼未来；",
+   "type": "verse"
+  },
+  {
+   "idx": 4,
+   "pali": "Yadatītaṃ pahīnaṃ taṃ, appattañca anāgataṃ.",
+   "zh": "过去的已然灭去，未来的尚未到来。",
+   "type": "verse"
+  },
+  {
+   "idx": 5,
+   "pali": "‘‘Paccuppannañca yo dhammaṃ, tattha tattha vipassati;",
+   "zh": "“对现前之法，在在处处如实观照；",
+   "type": "verse"
+  },
+  {
+   "idx": 6,
+   "pali": "Asaṃhīraṃ asaṃkuppaṃ, taṃ vidvā manubrūhaye.",
+   "zh": "这不动不摇的观照，智者了知后，应当修习增长。",
+   "type": "verse"
+  },
+  {
+   "idx": 7,
+   "pali": "‘‘Ajjeva kiccamātappaṃ , ko jaññā maraṇaṃ suve;",
+   "zh": "“今日即应精勤努力，谁知明日死即来临？",
+   "type": "verse"
+  },
+  {
+   "idx": 8,
+   "pali": "Na hi no saṅgaraṃ tena, mahāsenena maccunā.",
+   "zh": "因为，我们与拥有大军的死神之间，从未有过约定。",
+   "type": "verse"
+  },
+  {
+   "idx": 9,
+   "pali": "‘‘Evaṃ vihāriṃ ātāpiṃ, ahorattamatanditaṃ;",
+   "zh": "“如是精勤安住，日夜不懈怠者，",
+   "type": "verse"
+  },
+  {
+   "idx": 10,
+   "pali": "Taṃ ve bhaddekarattoti, santo ācikkhate muni’’ .",
+   "zh": "寂静的牟尼称彼为‘一夜贤者’。”",
+   "type": "verse"
+  },
+  {
+   "idx": 11,
+   "pali": "‘‘Kathañca , bhikkhave, atītaṃ anvāgameti? ‘Evaṃrūpo ahosiṃ atītamaddhāna’nti tattha nandiṃ samanvāneti, ‘evaṃvedano ahosiṃ atītamaddhāna’nti tattha nandiṃ samanvāneti, ‘evaṃsañño ahosiṃ atītamaddhāna’nti tattha nandiṃ samanvāneti, ‘evaṃsaṅkhāro ahosiṃ atītamaddhāna’nti tattha nandiṃ samanvāneti, ‘evaṃviññāṇo ahosiṃ atītamaddhāna’nti tattha nandiṃ samanvāneti – evaṃ kho, bhikkhave, atītaṃ anvāgameti.",
+   "zh": "“诸比丘，怎样是追逐过去呢？他于‘过去我有这样的色’而生欢喜，于‘过去我有这样的受’而生欢喜，于‘过去我有这样的想’而生欢喜，于‘过去我有这样的行’而生欢喜，于‘过去我有这样的识’而生欢喜。诸比丘，这就是追逐过去。",
+   "n": "273"
+  },
+  {
+   "idx": 12,
+   "pali": "‘‘Kathañca, bhikkhave, atītaṃ nānvāgameti? ‘Evaṃrūpo ahosiṃ atītamaddhāna’nti tattha nandiṃ na samanvāneti, ‘evaṃvedano ahosiṃ atītamaddhāna’nti tattha nandiṃ na samanvāneti, ‘evaṃsañño ahosiṃ atītamaddhāna’nti tattha nandiṃ na samanvāneti, ‘evaṃsaṅkhāro ahosiṃ atītamaddhāna’nti tattha nandiṃ na samanvāneti, ‘evaṃviññāṇo ahosiṃ atītamaddhāna’nti tattha nandiṃ na samanvāneti – evaṃ kho, bhikkhave, atītaṃ nānvāgameti.",
+   "zh": "“诸比丘，怎样是不追逐过去呢？他不于‘过去我有如此的色’生起欢喜，不于‘过去我有如此的受’生起欢喜，不于‘过去我有如此的想’生起欢喜，不于‘过去我有如此的行’生起欢喜，不于‘过去我有如此的识’生起欢喜。诸比丘，这就是不追逐过去。"
+  },
+  {
+   "idx": 13,
+   "pali": "‘‘Kathañca, bhikkhave, anāgataṃ paṭikaṅkhati? ‘Evaṃrūpo siyaṃ anāgatamaddhāna’nti tattha nandiṃ samanvāneti, evaṃvedano siyaṃ…pe… evaṃsañño siyaṃ… evaṃsaṅkhāro siyaṃ… evaṃviññāṇo siyaṃ anāgatamaddhānanti tattha nandiṃ samanvāneti – evaṃ kho, bhikkhave, anāgataṃ paṭikaṅkhati.",
+   "zh": "“诸比丘，怎样是期待未来呢？他于‘愿我未来有如此的色’生起欢喜，于‘愿我未来有如此的受’生起欢喜，于‘愿我未来有如此的想’生起欢喜，于‘愿我未来有如此的行’生起欢喜，于‘愿我未来有如此的识’生起欢喜。诸比丘，这就是期待未来。",
+   "n": "274"
+  },
+  {
+   "idx": 14,
+   "pali": "‘‘Kathañca, bhikkhave, anāgataṃ nappaṭikaṅkhati? ‘Evaṃrūpo siyaṃ anāgatamaddhāna’nti tattha nandiṃ na samanvāneti, evaṃvedano siyaṃ … evaṃsañño siyaṃ… evaṃsaṅkhāro siyaṃ… ‘evaṃviññāṇo siyaṃ anāgatamaddhāna’nti tattha nandiṃ na samanvāneti – evaṃ kho, bhikkhave, anāgataṃ nappaṭikaṅkhati.",
+   "zh": "“诸比丘，怎样是不期待未来呢？他不于‘愿我未来有如此的色’生起欢喜，不于‘愿我未来有如此的受’生起欢喜，不于‘愿我未来有如此的想’生起欢喜，不于‘愿我未来有如此的行’生起欢喜，不于‘愿我未来有如此的识’生起欢喜。诸比丘，这就是不期待未来。"
+  },
+  {
+   "idx": 15,
+   "pali": "‘‘Kathañca, bhikkhave, paccuppannesu dhammesu saṃhīrati? Idha, bhikkhave, assutavā puthujjano ariyānaṃ adassāvī ariyadhammassa akovido ariyadhamme avinīto sappurisānaṃ adassāvī sappurisadhammassa akovido sappurisadhamme avinīto rūpaṃ attato samanupassati, rūpavantaṃ vā attānaṃ, attani vā rūpaṃ, rūpasmiṃ vā attānaṃ; vedanaṃ…pe… saññaṃ… saṅkhāre… viññāṇaṃ attato samanupassati, viññāṇavantaṃ vā attānaṃ attani vā viññāṇaṃ, viññāṇasmiṃ vā attānaṃ – evaṃ kho, bhikkhave, paccuppannesu dhammesu saṃhīrati.",
+   "zh": "“那么，诸比丘，如何是在现在诸法上退堕呢？诸比丘，在此，无闻凡夫不见圣者，于圣法无所善巧，于圣法未得调伏；不见善士，于善士法无所善巧，于善士法未得调伏。他观色是我，或观我有色，或观色在我中，或观我在色中；观受……想……行……观识是我，或观我有识，或观识在我中，或观我在识中。诸比丘，这就是在现在诸法上退堕。",
+   "n": "275"
+  },
+  {
+   "idx": 16,
+   "pali": "‘‘Kathañca , bhikkhave, paccuppannesu dhammesu na saṃhīrati? Idha, bhikkhave, sutavā ariyasāvako ariyānaṃ dassāvī ariyadhammassa kovido ariyadhamme suvinīto sappurisānaṃ dassāvī sappurisadhammassa kovido sappurisadhamme suvinīto na rūpaṃ attato samanupassati, na rūpavantaṃ vā attānaṃ, na attani vā rūpaṃ, na rūpasmiṃ vā attānaṃ; na vedanaṃ… na saññaṃ… na saṅkhāre… na viññāṇaṃ attato samanupassati, na viññāṇavantaṃ vā attānaṃ, na attani vā viññāṇaṃ, na viññāṇasmiṃ vā attānaṃ – evaṃ kho, bhikkhave, paccuppannesu dhammesu na saṃhīrati.",
+   "zh": "“那么，诸比丘，如何是不在现在诸法上退堕呢？诸比丘，在此，多闻圣弟子见圣者，于圣法善巧，于圣法善得调伏；见善士，于善士法善巧，于善士法善得调伏。他不观色是我，不观我有色，不观色在我中，不观我在色中；不观受……不观想……不观行……不观识是我，不观我有识，不观识在我中，不观我在识中。诸比丘，这就是不在现在诸法上退堕。"
+  },
+  {
+   "idx": 17,
+   "pali": "‘‘Atītaṃ nānvāgameyya, nappaṭikaṅkhe anāgataṃ;",
+   "zh": "“不追忆过去，不期盼未来；",
+   "type": "verse"
+  },
+  {
+   "idx": 18,
+   "pali": "Yadatītaṃ pahīnaṃ taṃ, appattañca anāgataṃ.",
+   "zh": "过去的，已经舍断；未来的，尚未到来。",
+   "type": "verse"
+  },
+  {
+   "idx": 19,
+   "pali": "‘‘Paccuppannañca yo dhammaṃ, tattha tattha vipassati;",
+   "zh": "“而对现在生起的法，他于一切处皆以观智明明照见；",
+   "type": "verse"
+  },
+  {
+   "idx": 20,
+   "pali": "Asaṃhīraṃ asaṃkuppaṃ, taṃ vidvā manubrūhaye.",
+   "zh": "不可夺取、不可动摇，智者知已，应当修习培育它。",
+   "type": "verse"
+  },
+  {
+   "idx": 21,
+   "pali": "‘‘Ajjeva kiccamātappaṃ, ko jaññā maraṇaṃ suve;",
+   "zh": "“今日即当精勤努力，谁又能知明日死亡是否到来？",
+   "type": "verse"
+  },
+  {
+   "idx": 22,
+   "pali": "Na hi no saṅgaraṃ tena, mahāsenena maccunā.",
+   "zh": "因为我们与拥有大军的死神，并没立下这样的契约。",
+   "type": "verse"
+  },
+  {
+   "idx": 23,
+   "pali": "‘‘Evaṃ vihāriṃ ātāpiṃ, ahorattamatanditaṃ;",
+   "zh": "“如此精勤安住，日夜无怠；",
+   "type": "verse"
+  },
+  {
+   "idx": 24,
+   "pali": "Taṃ ve bhaddekarattoti, santo ācikkhate munī’’ti.",
+   "zh": "那样的人，正是寂静牟尼所称扬的‘一夜贤者’。”",
+   "type": "verse"
+  },
+  {
+   "idx": 25,
+   "pali": "‘‘‘Bhaddekarattassa vo, bhikkhave, uddesañca vibhaṅgañca desessāmī’ti – iti yaṃ taṃ vuttaṃ idametaṃ paṭicca vutta’’nti.",
+   "zh": "“‘诸比丘，我将为你们解说一夜贤者的总说与详说’——前所说的，正是缘此而说。”"
+  },
+  {
+   "idx": 26,
+   "pali": "Idamavoca bhagavā. Attamanā te bhikkhū bhagavato bhāsitaṃ abhinandunti.",
+   "zh": "世尊如是说。那些比丘心满意足，对世尊所说欢喜信受。"
+  },
+  {
+   "idx": 27,
+   "pali": "Bhaddekarattasuttaṃ niṭṭhitaṃ paṭhamaṃ.",
+   "zh": "《一夜贤者经》第一终",
+   "type": "colophon"
+  }
+ ]
+}

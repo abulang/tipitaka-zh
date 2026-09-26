@@ -1,0 +1,164 @@
+{
+  "uid": 53,
+  "title": "9. 禅那相应",
+  "nik": "SN",
+  "segs": [
+    {
+      "idx": 28,
+      "pali": "9. Jhānasaṃyuttaṃ",
+      "zh": "9. 禅那相应"
+    },
+    {
+      "idx": 29,
+      "pali": "1. Gaṅgāpeyyālavaggo",
+      "zh": "1. 恒河略说品"
+    },
+    {
+      "idx": 1,
+      "pali": "1-12. Jhānādisuttadvādasakaṃ",
+      "zh": "1-12. 禅那等十二经"
+    },
+    {
+      "idx": 2,
+      "pali": "Sāvatthinidānaṃ ‘‘cattāro me, bhikkhave, jhānā. Katame cattāro? Idha, bhikkhave, bhikkhu vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṃ savicāraṃ vivekajaṃ pītisukhaṃ paṭhamaṃ jhānaṃ upasampajja viharati. Vitakkavicārānaṃ vūpasamā ajjhattaṃ sampasādanaṃ cetaso ekodibhāvaṃ avitakkaṃ avicāraṃ samādhijaṃ pītisukhaṃ dutiyaṃ jhānaṃ upasampajja viharati. Pītiyā ca virāgā upekkhako ca viharati sato ca sampajāno sukhañca kāyena paṭisaṃvedeti, yaṃ taṃ ariyā ācikkhanti – ‘upekkhako satimā sukhavihārī’ti tatiyaṃ jhānaṃ upasampajja viharati. Sukhassa ca pahānā dukkhassa ca pahānā pubbeva somanassadomanassānaṃ atthaṅgamā adukkhamasukhaṃ upekkhāsatipārisuddhiṃ catutthaṃ jhānaṃ upasampajja viharati. Ime kho, bhikkhave, cattāro jhānā’’ti.",
+      "zh": "在[[sāvatthī|舍卫城]]。\n“诸比丘，有此四种禅那。哪四种呢？\n诸比丘，在此，比丘远离欲乐，远离不善法，有寻、有伺，由离所生的喜与乐，进入并安住于初禅。\n随着寻与伺的止息，内心澄净，心成专一，无寻、无伺，由定所生的喜与乐，进入并安住于第二禅。\n随着喜的消退，安住于舍，有念、有正知，亲身感受乐——圣者们称此为‘有舍、有念、安住于乐’，进入并安住于第三禅。\n由于舍断了乐、舍断了苦，先前喜与忧也已灭没，他进入并安住于不苦不乐、舍念清净的第四禅。\n诸比丘，这就是四种禅那。”",
+      "n": "923-934"
+    },
+    {
+      "idx": 3,
+      "pali": "‘‘Seyyathāpi, bhikkhave, gaṅgā nadī pācīnaninnā pācīnapoṇā pācīnapabbhārā; evameva kho, bhikkhave, bhikkhu cattāro jhāne bhāvento cattāro jhāne bahulīkaronto nibbānaninno hoti nibbānapoṇo nibbānapabbhāro. Kathañca, bhikkhave, bhikkhu cattāro jhāne bhāvento cattāro jhāne bahulīkaronto nibbānaninno hoti nibbānapoṇo nibbānapabbhāro? Idha, bhikkhave, bhikkhu vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṃ savicāraṃ vivekajaṃ pītisukhaṃ paṭhamaṃ jhānaṃ upasampajja viharati. Vitakkavicārānaṃ vūpasamā…pe… dutiyaṃ jhānaṃ…pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ upasampajja viharati. Evaṃ kho, bhikkhave, bhikkhu cattāro jhāne bhāvento cattāro jhāne bahulīkaronto nibbānaninno hoti nibbānapoṇo nibbānapabbhāro’’ti. Dvādasamaṃ.",
+      "zh": "“诸比丘，譬如恒河倾向东方、斜向东方、流向东方；同样地，诸比丘，比丘修习四禅那、多修四禅那时，便倾向涅槃、斜向涅槃、流向涅槃。诸比丘，比丘如何修习四禅那、多修四禅那而倾向涅槃、斜向涅槃、流向涅槃呢？诸比丘，于此，比丘远离诸欲，远离不善法，有寻有伺，由远离而生起喜与乐，进入并安住于初禅。由寻与伺的止息……进入并安住于第二禅……进入并安住于第三禅……进入并安住于第四禅。诸比丘，比丘正是这样修习四禅那、多修四禅那，便倾向涅槃、斜向涅槃、流向涅槃。第十二经。”"
+    },
+    {
+      "idx": 4,
+      "pali": "Gaṅgāpeyyālavaggo paṭhamo.",
+      "zh": "恒河略说品第一"
+    },
+    {
+      "idx": 5,
+      "pali": "Tassuddānaṃ –",
+      "zh": "其摄颂："
+    },
+    {
+      "idx": 6,
+      "pali": "Cha pācīnato ninnā, cha ninnā ca samuddato;",
+      "zh": "六经倾向东方，六经倾向大海；",
+      "type": "verse"
+    },
+    {
+      "idx": 7,
+      "pali": "Dvete cha dvādasa honti, vaggo tena pavuccatīti.",
+      "zh": "此二六合为十二，此品因此而得名。",
+      "type": "verse"
+    },
+    {
+      "idx": 8,
+      "pali": "Appamādavaggo vitthāretabbo.",
+      "zh": "不放逸品应广说。"
+    },
+    {
+      "idx": 9,
+      "pali": "Tassuddānaṃ –",
+      "zh": "其摄颂："
+    },
+    {
+      "idx": 10,
+      "pali": "Tathāgataṃ padaṃ kūṭaṃ, mūlaṃ sāro ca vassikaṃ;",
+      "zh": "如来、足迹、尖顶、根、心材与茉莉花；",
+      "type": "verse"
+    },
+    {
+      "idx": 11,
+      "pali": "Rājā candimasūriyā, vatthena dasamaṃ padanti.",
+      "zh": "国王、月与日，衣为第十句。",
+      "type": "verse"
+    },
+    {
+      "idx": 12,
+      "pali": "Balakaraṇīyavaggo vitthāretabbo.",
+      "zh": "《力作品》应广说。"
+    },
+    {
+      "idx": 13,
+      "pali": "Tassuddānaṃ –",
+      "zh": "其摄颂："
+    },
+    {
+      "idx": 14,
+      "pali": "Balaṃ bījañca nāgo ca, rukkho kumbhena sūkiyā;",
+      "zh": "力、种子、龙象，树、罐与针；",
+      "type": "verse"
+    },
+    {
+      "idx": 15,
+      "pali": "Ākāsena ca dve meghā, nāvā āgantukā nadīti.",
+      "zh": "虚空与两片云，船、客堂与河流。",
+      "type": "verse"
+    },
+    {
+      "idx": 16,
+      "pali": "Esanāvaggo vitthāretabbo.",
+      "zh": "寻求品应广说。"
+    },
+    {
+      "idx": 17,
+      "pali": "Tassuddānaṃ –",
+      "zh": "其摄颂："
+    },
+    {
+      "idx": 18,
+      "pali": "Esanā vidhā āsavo, bhavo ca dukkhatā tisso;",
+      "zh": "寻求、分别、漏、有，及三种苦性。",
+      "type": "verse"
+    },
+    {
+      "idx": 19,
+      "pali": "Khilaṃ malañca nīgho ca, vedanā taṇhā tasinā cāti.",
+      "zh": "荒芜、垢秽与恼害，受、渴爱与渴求。",
+      "type": "verse"
+    },
+    {
+      "idx": 20,
+      "pali": "5. Oghavaggo",
+      "zh": "5. 瀑流品"
+    },
+    {
+      "idx": 21,
+      "pali": "1-10. Oghādisuttaṃ",
+      "zh": "1-8. 暴流等经》"
+    },
+    {
+      "idx": 22,
+      "pali": "‘‘Pañcimāni, bhikkhave, uddhambhāgiyāni saṃyojanāni. Katamāni pañca? Rūparāgo, arūparāgo, māno, uddhaccaṃ, avijjā – imāni kho, bhikkhave, pañcuddhambhāgiyāni saṃyojanāni. Imesaṃ kho, bhikkhave, pañcannaṃ uddhambhāgiyānaṃ saṃyojanānaṃ abhiññāya pariññāya parikkhayāya pahānāya cattāro jhānā bhāvetabbā. Katame cattāro? Idha, bhikkhave, bhikkhu vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṃ savicāraṃ vivekajaṃ pītisukhaṃ paṭhamaṃ jhānaṃ upasampajja viharati. Vitakkavicārānaṃ vūpasamā ajjhattaṃ sampasādanaṃ cetaso ekodibhāvaṃ avitakkaṃ avicāraṃ samādhijaṃ pītisukhaṃ dutiyaṃ jhānaṃ…pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ upasampajja viharati. Imesaṃ kho, bhikkhave, pañcannaṃ uddhambhāgiyānaṃ saṃyojanānaṃ abhiññāya pariññāya parikkhayāya pahānāya ime cattāro jhānā bhāvetabbā’’ti vitthāretabbaṃ. Dasamaṃ. (Yathā maggasaṃyuttaṃ tathā vitthāretabbaṃ).",
+      "zh": "“诸比丘，有五上分结。哪五种？色贪、无色贪、慢、掉举、无明。诸比丘，这便是五上分结。诸比丘，为了证知、遍知、遍尽、舍断这五上分结，应当修习四禅那。哪四种？诸比丘，于此，比丘远离欲乐，远离不善法，有寻有伺，由远离生起的喜与乐，进入并安住于初禅那。随着寻与伺的止息，内心澄清，心一境性，无寻无伺，由定生起的喜与乐，进入并安住于第二禅那……第三禅那……进入并安住于第四禅那。诸比丘，为了证知、遍知、遍尽、舍断这五上分结，应当修习这四禅那。应当广说。第十经。（应如《道相应》那样详说。）”",
+      "n": "967-976"
+    },
+    {
+      "idx": 23,
+      "pali": "Oghavaggo pañcamo.",
+      "zh": "瀑流品第五"
+    },
+    {
+      "idx": 24,
+      "pali": "Tassuddānaṃ –",
+      "zh": "其摄颂："
+    },
+    {
+      "idx": 25,
+      "pali": "Ogho yogo upādānaṃ, ganthā anusayena ca;",
+      "zh": "暴流、轭、执取、系缚与随眠。",
+      "type": "verse"
+    },
+    {
+      "idx": 26,
+      "pali": "Kāmaguṇā nīvaraṇā, khandhā oruddhambhāgiyāti.",
+      "zh": "欲功德、盖、蕴、上下分结。",
+      "type": "verse"
+    },
+    {
+      "idx": 27,
+      "pali": "Jhānasaṃyuttaṃ navamaṃ.",
+      "zh": "禅那相应品第九。"
+    }
+  ]
+}

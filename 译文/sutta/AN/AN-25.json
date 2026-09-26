@@ -1,0 +1,149 @@
+{
+ "uid": 25,
+ "title": "5. 众品",
+ "nik": "AN",
+ "segs": [
+  {
+   "idx": 0,
+   "pali": "5. Parisavaggo",
+   "zh": "5. 众品"
+  },
+  {
+   "idx": 1,
+   "pali": "‘‘Dvemā , bhikkhave, parisā. Katamā dve? Uttānā ca parisā gambhīrā ca parisā. Katamā ca, bhikkhave, uttānā parisā? Idha, bhikkhave, yassaṃ parisāyaṃ bhikkhū uddhatā honti unnaḷā capalā mukharā vikiṇṇavācā muṭṭhassatī asampajānā asamāhitā vibbhantacittā pākatindriyā. Ayaṃ vuccati, bhikkhave, uttānā parisā.",
+   "zh": "“诸比丘，有此二众。哪二种？浅薄众与深奥众。诸比丘，什么是浅薄众？在此，某一众中的比丘们，掉举、高慢、轻躁、饶舌、杂语，失念不正知，心不凝聚，散乱放逸，诸根粗显。诸比丘，这便名为浅薄众。",
+   "n": "43"
+  },
+  {
+   "idx": 2,
+   "pali": "‘‘Katamā ca, bhikkhave, gambhīrā parisā? Idha, bhikkhave, yassaṃ parisāyaṃ bhikkhū anuddhatā honti anunnaḷā acapalā amukharā avikiṇṇavācā upaṭṭhitassatī sampajānā samāhitā ekaggacittā saṃvutindriyā. Ayaṃ vuccati , bhikkhave, gambhīrā parisā. Imā kho, bhikkhave, dve parisā. Etadaggaṃ, bhikkhave, imāsaṃ dvinnaṃ parisānaṃ yadidaṃ gambhīrā parisā’’ti.",
+   "zh": "“诸比丘，什么是深奥众？在此，某一众中的比丘们，不掉举、不高慢、不轻躁、不饶舌、不杂语，住于正念正知，心得等持，心住一境，诸根善护。诸比丘，这便名为深奥众。诸比丘，这就是二众。在这二众之中，最上者，即是深奥众。”"
+  },
+  {
+   "idx": 3,
+   "pali": "‘‘Dvemā, bhikkhave, parisā. Katamā dve? Vaggā ca parisā samaggā ca parisā. Katamā ca, bhikkhave, vaggā parisā? Idha, bhikkhave, yassaṃ parisāyaṃ bhikkhū bhaṇḍanajātā kalahajātā vivādāpannā aññamaññaṃ mukhasattīhi vitudantā viharanti. Ayaṃ vuccati, bhikkhave, vaggā parisā.",
+   "zh": "“诸比丘，有此二众。哪二种？分裂众与和合众。诸比丘，什么是分裂众？在此，某一众中的比丘们，陷于争论、争吵、争执，以口舌之箭互相刺伤而共住。诸比丘，这便名为分裂众。",
+   "n": "44"
+  },
+  {
+   "idx": 4,
+   "pali": "‘‘Katamā ca, bhikkhave, samaggā parisā? Idha, bhikkhave, yassaṃ parisāyaṃ bhikkhū samaggā sammodamānā avivadamānā khīrodakībhūtā aññamaññaṃ piyacakkhūhi sampassantā viharanti. Ayaṃ vuccati, bhikkhave, samaggā parisā. Imā kho, bhikkhave, dve parisā. Etadaggaṃ, bhikkhave, imāsaṃ dvinnaṃ parisānaṃ yadidaṃ samaggā parisā’’ti.",
+   "zh": "“诸比丘，什么是和合众？诸比丘，在此，若有大众，其中的比丘们和合、欢喜、无诤，如水乳交融，彼此以慈眼相看而安住。诸比丘，如此大众便称为和合众。诸比丘，有此二众。诸比丘，于此二众中，最上者即是和合众。”"
+  },
+  {
+   "idx": 5,
+   "pali": "‘‘Dvemā, bhikkhave, parisā. Katamā dve? Anaggavatī ca parisā aggavatī ca parisā. Katamā ca, bhikkhave, anaggavatī parisā? Idha , bhikkhave, yassaṃ parisāyaṃ therā bhikkhū bāhulikā honti sāthalikā, okkamane pubbaṅgamā, paviveke nikkhittadhurā, na vīriyaṃ ārabhanti appattassa pattiyā anadhigatassa adhigamāya asacchikatassa sacchikiriyāya. Tesaṃ pacchimā janatā diṭṭhānugatiṃ āpajjati. Sāpi hoti bāhulikā sāthalikā, okkamane pubbaṅgamā, paviveke nikkhittadhurā, na vīriyaṃ ārabhati appattassa pattiyā anadhigatassa adhigamāya asacchikatassa sacchikiriyāya. Ayaṃ vuccati, bhikkhave, anaggavatī parisā.",
+   "zh": "“诸比丘，有此二众。哪两种？无上首众与有上首众。诸比丘，什么是无上首众？诸比丘，在此，若有大众，其中的长老比丘们奢侈、怠惰，以退堕为先导，舍弃了远离的重担，不发起精进去证得所未证得、获得所未获得、作证所未作证。他们的后辈大众随顺其见，也同样的奢侈、怠惰，以退堕为先导，舍弃了远离的重担，不发起精进去证得所未证得、获得所未获得、作证所未作证。诸比丘，如此便称为无上首众。",
+   "n": "45"
+  },
+  {
+   "idx": 6,
+   "pali": "‘‘Katamā ca, bhikkhave, aggavatī parisā? Idha, bhikkhave, yassaṃ parisāyaṃ therā bhikkhū na bāhulikā honti na sāthalikā, okkamane nikkhittadhurā, paviveke pubbaṅgamā, vīriyaṃ ārabhanti appattassa pattiyā anadhigatassa adhigamāya asacchikatassa sacchikiriyāya. Tesaṃ pacchimā janatā diṭṭhānugatiṃ āpajjati. Sāpi hoti na bāhulikā na sāthalikā, okkamane nikkhittadhurā, paviveke pubbaṅgamā, vīriyaṃ ārabhati appattassa pattiyā anadhigatassa adhigamāya asacchikatassa sacchikiriyāya. Ayaṃ vuccati, bhikkhave, aggavatī parisā. Imā kho, bhikkhave, dve parisā. Etadaggaṃ, bhikkhave, imāsaṃ dvinnaṃ parisānaṃ yadidaṃ aggavatī parisā’’ti.",
+   "zh": "“诸比丘，什么是有上首众？诸比丘，在此，若有大众，其中的长老比丘们不奢侈、不怠惰，舍弃了退堕的重担，以远离为先导，发起精进去证得所未证得、获得所未获得、作证所未作证。他们的后辈大众随顺其见，也同样的不奢侈、不怠惰，舍弃了退堕的重担，以远离为先导，发起精进去证得所未证得、获得所未获得、作证所未作证。诸比丘，如此便称为有上首众。诸比丘，这是二众。诸比丘，于此二众中，最上者即有上首众。”"
+  },
+  {
+   "idx": 7,
+   "pali": "‘‘Dvemā, bhikkhave, parisā. Katamā dve? Anariyā ca parisā ariyā ca parisā. Katamā ca, bhikkhave, anariyā parisā? Idha, bhikkhave, yassaṃ parisāyaṃ bhikkhū ‘idaṃ dukkha’nti yathābhūtaṃ nappajānanti, ‘ayaṃ dukkhasamudayo’ti yathābhūtaṃ nappajānanti, ‘ayaṃ dukkhanirodho’ti yathābhūtaṃ nappajānanti , ‘ayaṃ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṃ nappajānanti. Ayaṃ vuccati, bhikkhave, anariyā parisā.",
+   "zh": "“诸比丘，有两种众。哪两种？非圣众与圣众。诸比丘，什么是非圣众？在此，某众中的比丘未如实了知“此是苦”，未如实了知“此是苦集”，未如实了知“此是苦灭”，未如实了知“此是导向苦灭之道”。诸比丘，这便称为非圣众。”",
+   "n": "46"
+  },
+  {
+   "idx": 8,
+   "pali": "‘‘Katamā ca, bhikkhave, ariyā parisā? Idha, bhikkhave, yassaṃ parisāyaṃ bhikkhū ‘idaṃ dukkha’nti yathābhūtaṃ pajānanti, ‘ayaṃ dukkhasamudayo’ti yathābhūtaṃ pajānanti, ‘ayaṃ dukkhanirodho’ti yathābhūtaṃ pajānanti , ‘ayaṃ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṃ pajānanti. Ayaṃ vuccati, bhikkhave, ariyā parisā. Imā kho, bhikkhave, dve parisā. Etadaggaṃ, bhikkhave, imāsaṃ dvinnaṃ parisānaṃ yadidaṃ ariyā parisā’’ti.",
+   "zh": "“诸比丘，什么是圣众？在此，某众中的比丘如实了知“此是苦”，如实了知“此是苦集”，如实了知“此是苦灭”，如实了知“此是导向苦灭之道”。诸比丘，这便称为圣众。诸比丘，这便是两种众。于此二众中，最上者即是圣众。”"
+  },
+  {
+   "idx": 9,
+   "pali": "‘‘Dvemā, bhikkhave, parisā. Katamā dve? Parisākasaṭo ca parisāmaṇḍo ca. Katamo ca, bhikkhave, parisākasaṭo? Idha, bhikkhave, yassaṃ parisāyaṃ bhikkhū chandāgatiṃ gacchanti, dosāgatiṃ gacchanti, mohāgatiṃ gacchanti, bhayāgatiṃ gacchanti. Ayaṃ vuccati, bhikkhave, parisākasaṭo.",
+   "zh": "“诸比丘，有两种众。哪两种？粗劣众与庄严众。诸比丘，什么是粗劣众？在此，某众中的比丘随贪欲而行，随嗔恚而行，随愚痴而行，随怖畏而行。诸比丘，这便称为粗劣众。",
+   "n": "47"
+  },
+  {
+   "idx": 10,
+   "pali": "‘‘Katamo ca, bhikkhave, parisāmaṇḍo? Idha, bhikkhave, yassaṃ parisāyaṃ bhikkhū na chandāgatiṃ gacchanti, na dosāgatiṃ gacchanti, na mohāgatiṃ gacchanti, na bhayāgatiṃ gacchanti. Ayaṃ vuccati, bhikkhave, parisāmaṇḍo. Imā kho, bhikkhave, dve parisā. Etadaggaṃ, bhikkhave, imāsaṃ dvinnaṃ parisānaṃ yadidaṃ parisāmaṇḍo’’ti.",
+   "zh": "“诸比丘，什么是庄严众？诸比丘，在此，于某大众中，诸比丘不随贪欲而行，不随嗔恚而行，不随愚痴而行，不随怖畏而行。诸比丘，这便称为庄严众。诸比丘，这是两种众。诸比丘，在这两种众中，此为最上，即：庄严众。”"
+  },
+  {
+   "idx": 11,
+   "pali": "‘‘Dvemā, bhikkhave, parisā. Katamā dve? Okkācitavinītā parisā nopaṭipucchāvinītā, paṭipucchāvinītā parisā nookkācitavinītā. Katamā ca, bhikkhave, okkācitavinītā parisā nopaṭipucchāvinītā? Idha, bhikkhave, yassaṃ parisāyaṃ bhikkhū ye te suttantā tathāgatabhāsitā gambhīrā gambhīratthā lokuttarā suññatāpaṭisaṃyuttā tesu bhaññamānesu na sussūsanti na sotaṃ odahanti na aññā cittaṃ upaṭṭhapenti na ca te dhamme uggahetabbaṃ pariyāpuṇitabbaṃ maññanti. Ye pana te suttantā kavitā kāveyyā cittakkharā cittabyañjanā bāhirakā sāvakabhāsitā tesu bhaññamānesu sussūsanti sotaṃ odahanti aññā cittaṃ upaṭṭhapenti, te dhamme uggahetabbaṃ pariyāpuṇitabbaṃ maññanti, te ca taṃ dhammaṃ pariyāpuṇitvā na ceva aññamaññaṃ paṭipucchanti na ca paṭivicaranti – ‘idaṃ kathaṃ, imassa ko attho’ti? Te avivaṭañceva na vivaranti, anuttānīkatañca na uttānīkaronti, anekavihitesu ca kaṅkhāṭhāniyesu dhammesu kaṅkhaṃ na paṭivinodenti. Ayaṃ vuccati, bhikkhave, okkācitavinītā parisā no paṭipucchāvinītā.",
+   "zh": "“诸比丘，有此两种众。哪两种？唯以听受调伏而不以问答调伏之众，以及唯以问答调伏而不以听受调伏之众。诸比丘，什么是唯以听受调伏而不以问答调伏之众呢？诸比丘，于此，当宣说那些如来所说、甚深、有甚深义、出世、与空性相应的经典时，那些比丘不乐听闻，不倾心聆听，不生起理解的意愿，也不认为那些法应当学习、应当通达。然而，当宣说那些诗体、文辞华丽、文字优美、辞藻讲究、由外道或声闻所说的经典时，他们便乐闻，倾心聆听，生起理解的意愿，并认为那些法应当学习、应当通达。他们通达那些法后，既不互相问答，也不互相讨论：‘这是怎么回事？这有什么意义？’对于尚未阐明的，他们不去阐明；对于尚未揭示的，他们不去揭示；对于种种令人疑惑的法，他们不去断除疑惑。诸比丘，这就称为唯以听受调伏而不以问答调伏之众。”",
+   "n": "48"
+  },
+  {
+   "idx": 12,
+   "pali": "‘‘Katamā ca, bhikkhave, paṭipucchāvinītā parisā nookkācitavinītā? Idha, bhikkhave, yassaṃ parisāyaṃ bhikkhū ye te suttantā kavitā kāveyyā cittakkharā cittabyañjanā bāhirakā sāvakabhāsitā tesu bhaññamānesu na sussūsanti na sotaṃ odahanti na aññā cittaṃ upaṭṭhapenti, na ca te dhamme uggahetabbaṃ pariyāpuṇitabbaṃ maññanti. Ye pana te suttantā tathāgatabhāsitā gambhīrā gambhīratthā lokuttarā suññatāpaṭisaṃyuttā tesu bhaññamānesu sussūsanti sotaṃ odahanti aññā cittaṃ upaṭṭhapenti, te ca dhamme uggahetabbaṃ pariyāpuṇitabbaṃ maññanti. Te taṃ dhammaṃ pariyāpuṇitvā aññamaññaṃ paṭipucchanti paṭivicaranti – ‘idaṃ kathaṃ, imassa ko attho’ti? Te avivaṭañceva vivaranti, anuttānīkatañca uttānīkaronti, anekavihitesu ca kaṅkhāṭhāniyesu dhammesu kaṅkhaṃ paṭivinodenti. Ayaṃ vuccati, bhikkhave, paṭipucchāvinītā parisā nookkācitavinītā. Imā kho, bhikkhave, dve parisā. Etadaggaṃ, bhikkhave, imāsaṃ dvinnaṃ parisānaṃ yadidaṃ paṭipucchāvinītā parisā nookkācitavinītā’’ti.",
+   "zh": "“诸比丘，什么是唯以问答调伏而不以听受调伏之众呢？诸比丘，于此，当宣说那些诗颂体、文辞华丽、文字优美、辞藻讲究、由外道或声闻所说的经典时，那些比丘不乐听闻，不倾心聆听，不生起理解的意愿，也不认为那些法应当学习、应当通达。然而，当宣说那些如来所说、甚深、有甚深义、出世、与空性相应的经典时，他们便乐闻，倾心聆听，生起理解的意愿，并认为那些法应当学习、应当通达。他们通达那些法后，便互相问答，互相讨论：‘这是怎么回事？这有什么意义？’对于尚未阐明的，他们加以阐明；对于尚未揭示的，他们加以揭示；对于种种令人疑惑的法，他们断除疑惑。诸比丘，这就称为唯以问答调伏而不以听受调伏之众。诸比丘，这就是两种众。诸比丘，在这两种众当中，此为最上，也就是：唯以问答调伏而不以听受调伏之众。”"
+  },
+  {
+   "idx": 13,
+   "pali": "‘‘Dvemā, bhikkhave, parisā. Katamā dve? Āmisagaru parisā no saddhammagaru, saddhammagaru parisā no āmisagaru. Katamā ca, bhikkhave, āmisagaru parisā no saddhammagaru? Idha, bhikkhave, yassaṃ parisāyaṃ bhikkhū gihīnaṃ odātavasanānaṃ sammukhā aññamaññassa vaṇṇaṃ bhāsanti – ‘asuko bhikkhu ubhatobhāgavimutto, asuko paññāvimutto , asuko kāyasakkhī , asuko diṭṭhippatto, asuko saddhāvimutto, asuko dhammānusārī, asuko saddhānusārī, asuko sīlavā kalyāṇadhammo, asuko dussīlo pāpadhammo’ti. Te tena lābhaṃ labhanti. Te taṃ lābhaṃ labhitvā gathitā mucchitā ajjhopannā anādīnavadassāvino anissaraṇapaññā paribhuñjanti. Ayaṃ vuccati, bhikkhave, āmisagaru parisā no saddhammagaru.",
+   "zh": "“诸比丘，有此两种众。哪两种？重利养而不重正法之众，与重正法而不重利养之众。诸比丘，什么是重利养而不重正法之众？诸比丘，在此，于某众中，诸比丘在白衣居士面前互相赞叹：‘某比丘是俱分解脱者，某比丘是慧解脱者，某比丘是身证者，某比丘是见至者，某比丘是信解脱者，某比丘是随法行者，某比丘是随信行者，某比丘是具戒善法者，某比丘是破戒恶法者。’他们由此获得利养。既得利养，便为此所束缚、所迷醉，陷没其中，不见过患，无有出离慧而受用。诸比丘，此即名为重利养而不重正法之众。”",
+   "n": "49"
+  },
+  {
+   "idx": 14,
+   "pali": "‘‘Katamā ca, bhikkhave, saddhammagaru parisā noāmisagaru? Idha, bhikkhave, yassaṃ parisāyaṃ bhikkhū gihīnaṃ odātavasanānaṃ sammukhā aññamaññassa vaṇṇaṃ na bhāsanti – ‘asuko bhikkhu ubhatobhāgavimutto, asuko paññāvimutto, asuko kāyasakkhī, asuko diṭṭhippatto, asuko saddhāvimutto, asuko dhammānussārī, asuko saddhānusārī, asuko sīlavā kalyāṇadhammo, asuko dussīlo pāpadhammo’ti. Te tena lābhaṃ labhanti. Te taṃ lābhaṃ labhitvā agathitā amucchitā anajjhosannā ādīnavadassāvino nissaraṇapaññā paribhuñjanti. Ayaṃ vuccati, bhikkhave, saddhammagaru parisā noāmisagaru. Imā kho, bhikkhave, dve parisā. Etadaggaṃ, bhikkhave, imāsaṃ dvinnaṃ parisānaṃ yadidaṃ saddhammagaru parisā noāmisagarū’’ti.",
+   "zh": "“诸比丘，什么是重正法而不重利养之众？诸比丘，在此，于某众中，诸比丘在白衣居士面前不互相赞叹：‘某比丘是俱分解脱者，某比丘是慧解脱者，某比丘是身证者，某比丘是见至者，某比丘是信解脱者，某比丘是随法行者，某比丘是随信行者，某比丘是具戒善法者，某比丘是破戒恶法者。’他们由此获得利养。既得利养，却不被束缚、不沉迷、不陷没，见过患，有出离慧而受用。诸比丘，此即名为重正法而不重利养之众。诸比丘，此即两种众。诸比丘，于此两种众中，此为最上，即：重正法而不重利养之众。”"
+  },
+  {
+   "idx": 15,
+   "pali": "‘‘Dvemā, bhikkhave, parisā. Katamā dve? Visamā ca parisā samā ca parisā. Katamā ca, bhikkhave, visamā parisā? Idha, bhikkhave, yassaṃ parisāyaṃ adhammakammāni pavattanti dhammakammāni nappavattanti , avinayakammāni pavattanti vinayakammāni nappavattanti, adhammakammāni dippanti dhammakammāni na dippanti, avinayakammāni dippanti vinayakammāni na dippanti. Ayaṃ vuccati, bhikkhave, visamā parisā. ( )",
+   "zh": "“诸比丘，有此两种众。哪两种？不平等众与平等众。诸比丘，什么是不平等众？诸比丘，在此，于某众中，非法羯磨得以行，如法羯磨不得行；非律羯磨得以行，如律羯磨不得行；非法羯磨显了，如法羯磨不显了；非律羯磨显了，如律羯磨不显了。诸比丘，此即名为不平等众。",
+   "n": "50"
+  },
+  {
+   "idx": 16,
+   "pali": "‘‘Katamā ca, bhikkhave, samā parisā? Idha, bhikkhave, yassaṃ parisāyaṃ dhammakammāni pavattanti adhammakammāni nappavattanti, vinayakammāni pavattanti avinayakammāni nappavattanti, dhammakammāni dippanti adhammakammāni na dippanti, vinayakammāni dippanti avinayakammāni na dippanti. Ayaṃ vuccati, bhikkhave, samā parisā. ( ) Imā kho, bhikkhave, dve parisā. Etadaggaṃ, bhikkhave, imāsaṃ dvinnaṃ parisānaṃ yadidaṃ samā parisā’’ti.",
+   "zh": "“诸比丘，何等为平等众？诸比丘，若有众中，如法之业得以施行，非法之业不行；如律之业得以施行，非律之业不行；如法之业得以彰显，非法之业不彰；如律之业得以彰显，非律之业不彰。诸比丘，是名平等众。诸比丘，此即两种众。诸比丘，于两种众中，平等众为最上。”"
+  },
+  {
+   "idx": 17,
+   "pali": "‘‘Dvemā, bhikkhave, parisā. Katamā dve? Adhammikā ca parisā dhammikā ca parisā…pe… imā kho, bhikkhave, dve parisā. Etadaggaṃ, bhikkhave, imāsaṃ dvinnaṃ parisānaṃ yadidaṃ dhammikā parisā’’ti.",
+   "zh": "“诸比丘，有这两种众。哪两种？非法众与如法众……诸比丘，这是两种众。于这两种众中，此为最上，即如法众。”",
+   "n": "51"
+  },
+  {
+   "idx": 18,
+   "pali": "‘‘Dvemā, bhikkhave, parisā. Katamā dve? Adhammavādinī ca parisā dhammavādinī ca parisā. Katamā ca, bhikkhave, adhammavādinī parisā? Idha, bhikkhave, yassaṃ parisāyaṃ bhikkhū adhikaraṇaṃ ādiyanti dhammikaṃ vā adhammikaṃ vā. Te taṃ adhikaraṇaṃ ādiyitvā na ceva aññamaññaṃ saññāpenti na ca saññattiṃ upagacchanti, na ca nijjhāpenti na ca nijjhattiṃ upagacchanti. Te asaññattibalā anijjhattibalā appaṭinissaggamantino tameva adhikaraṇaṃ thāmasā parāmāsā abhinivissa voharanti – ‘idameva saccaṃ moghamañña’nti. Ayaṃ vuccati, bhikkhave, adhammavādinī parisā.",
+   "zh": "“诸比丘，有这两种众。哪两种？说非法众与说法众。诸比丘，何等为说非法众？诸比丘，若有众中，比丘们对诤事进行处理，无论此事如法或非法。他们处理该诤事后，既不互相劝导，也不接受劝导；既不互相审察，也不接受审察。他们缺乏劝导的能力，也缺乏审察的能力；不愿舍离，反而紧握、固守、坚执该诤事而宣称：‘唯此真实，余皆虚妄。’诸比丘，这称为说非法众。",
+   "n": "52"
+  },
+  {
+   "idx": 19,
+   "pali": "‘‘Katamā ca, bhikkhave, dhammavādinī parisā? Idha, bhikkhave, yassaṃ parisāyaṃ bhikkhū adhikaraṇaṃ ādiyanti dhammikaṃ vā adhammikaṃ vā. Te taṃ adhikaraṇaṃ ādiyitvā aññamaññaṃ saññāpenti ceva saññattiñca upagacchanti, nijjhāpenti ceva nijjhattiñca upagacchanti. Te saññattibalā nijjhattibalā paṭinissaggamantino, na tameva adhikaraṇaṃ thāmasā parāmāsā abhinivissa voharanti – ‘idameva saccaṃ moghamañña’nti. Ayaṃ vuccati, bhikkhave, dhammavādinī parisā. Imā kho, bhikkhave, dve parisā. Etadaggaṃ, bhikkhave, imāsaṃ dvinnaṃ parisānaṃ yadidaṃ dhammavādinī parisā’’ti.",
+   "zh": "“诸比丘，何为说法众？诸比丘，在此，有众中比丘处理诤事，无论如法或非法。他们处理该诤事后，彼此劝导并纳受劝导，彼此审察并纳受审察。他们具足劝导力、审察力，愿意舍弃，不固执、不执取，对于该诤事不坚执地说：‘唯此真实，余皆虚妄。’诸比丘，此即名为说法众。诸比丘，这便是两种众。诸比丘，于此两种众中，最上者即是说法众。”"
+  },
+  {
+   "idx": 20,
+   "pali": "Parisavaggo pañcamo.",
+   "zh": "众品第五"
+  },
+  {
+   "idx": 21,
+   "pali": "Tassuddānaṃ –",
+   "zh": "其摄颂："
+  },
+  {
+   "idx": 22,
+   "pali": "Uttānā vaggā aggavatī, ariyā kasaṭo ca pañcamo;",
+   "zh": "显露品、最上品、圣品，粗恶品为第五。",
+   "type": "verse"
+  },
+  {
+   "idx": 23,
+   "pali": "Okkācitaāmisañceva, visamā adhammādhammiyena cāti.",
+   "zh": "倾覆、利养、不平等，以及非法与如法。",
+   "type": "verse"
+  },
+  {
+   "idx": 24,
+   "pali": "Paṭhamo paṇṇāsako samatto.",
+   "zh": "第一组五十经终"
+  },
+  {
+   "idx": 25,
+   "pali": "2. Dutiyapaṇṇāsakaṃ",
+   "zh": "2. 第二组五十经"
+  }
+ ]
+}

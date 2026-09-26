@@ -1,0 +1,331 @@
+{
+ "uid": 170,
+ "title": "1. 沙门想经",
+ "nik": "AN",
+ "segs": [
+  {
+   "idx": 0,
+   "pali": "(11) 1. Samaṇasaññāvaggo",
+   "zh": "（11） 1. 沙门想品"
+  },
+  {
+   "idx": 1,
+   "pali": "1. Samaṇasaññāsuttaṃ",
+   "zh": "1. [[samaṇasaññāsutta|沙门想经]]"
+  },
+  {
+   "idx": 2,
+   "pali": "‘‘Tisso imā, bhikkhave, samaṇasaññā bhāvitā bahulīkatā satta dhamme paripūrenti. Katamā tisso? Vevaṇṇiyamhi ajjhupagato, parapaṭibaddhā me jīvikā, añño me ākappo karaṇīyoti – imā kho, bhikkhave, tisso samaṇasaññā bhāvitā bahulīkatā satta dhamme paripūrenti.",
+   "zh": "“诸比丘，这三种沙门想，修习多修习，能圆满七法。哪三种？‘我已入无种姓，我之活命仰赖他人，我当行别异之威仪。’诸比丘，这三种沙门想，修习多修习，能圆满七法。",
+   "n": "101"
+  },
+  {
+   "idx": 3,
+   "pali": "‘‘Katame satta? Santatakārī hoti santatavutti sīlesu, anabhijjhālu hoti, abyāpajjo hoti, anatimānī hoti, sikkhākāmo hoti , idamatthaṃtissa hoti jīvitaparikkhāresu, āraddhavīriyo ca viharati. Imā kho, bhikkhave, tisso samaṇasaññā bhāvitā bahulīkatā ime satta dhamme paripūrentī’’ti. Paṭhamaṃ.",
+   "zh": "“哪七种？他于诸戒常行常持，无贪，无嗔，无慢，乐学，于生活资具知量而住，安住于已发起的精进。诸比丘，这三种沙门想，修习多修习，能圆满这七法。”第一。"
+  },
+  {
+   "idx": 4,
+   "pali": "2. Bojjhaṅgasuttaṃ",
+   "zh": "2. [[bojjhaṅgasutta|觉支经]]"
+  },
+  {
+   "idx": 5,
+   "pali": "‘‘Sattime, bhikkhave, bojjhaṅgā bhāvitā bahulīkatā tisso vijjā paripūrenti. Katame satta? Satisambojjhaṅgo, dhammavicayasambojjhaṅgo, vīriyasambojjhaṅgo, pītisambojjhaṅgo, passaddhisambojjhaṅgo, samādhisambojjhaṅgo, upekkhāsambojjhaṅgo – ime kho, bhikkhave, satta bojjhaṅgā bhāvitā bahulīkatā tisso vijjā paripūrenti. Katamā tisso? Idha, bhikkhave, bhikkhu anekavihitaṃ pubbenivāsaṃ anussarati, seyyathidaṃ – ekampi jātiṃ dvepi jātiyo tissopi jātiyo…pe… iti sākāraṃ sauddesaṃ anekavihitaṃ pubbenivāsaṃ anussarati. Dibbena cakkhunā visuddhena atikkantamānusakena…pe… yathākammūpage satte pajānāti . Āsavānaṃ khayā…pe… sacchikatvā upasampajja viharati. Ime kho, bhikkhave, satta bojjhaṅgā bhāvitā bahulīkatā imā tisso vijjā paripūrentī’’ti. Dutiyaṃ.",
+   "zh": "“诸比丘，这七觉支，修习多修习，能圆满三明。哪七种呢？念觉支、择法觉支、精进觉支、喜觉支、轻安觉支、定觉支、舍觉支。诸比丘，这七觉支，修习多修习，能圆满三明。哪三种明呢？诸比丘，此处，比丘能忆念种种宿世——一生、二生、三生……如此，他忆念种种宿世的行相与细节。他以清净、超越凡夫的天眼，见到诸有情随业流转。他以诸漏灭尽，于现法中自证、证知，具足安住。诸比丘，这七觉支，修习多修习，能圆满这三明。”第二经。",
+   "n": "102"
+  },
+  {
+   "idx": 6,
+   "pali": "3. Micchattasuttaṃ",
+   "zh": "3. [[micchattasutta|邪性经]]"
+  },
+  {
+   "idx": 7,
+   "pali": "‘‘Micchattaṃ , bhikkhave, āgamma virādhanā hoti, no ārādhanā. Kathañca, bhikkhave, micchattaṃ āgamma virādhanā hoti, no ārādhanā? Micchādiṭṭhikassa, bhikkhave, micchāsaṅkappo pahoti, micchāsaṅkappassa micchāvācā pahoti, micchāvācassa micchākammanto pahoti, micchākammantassa micchāājīvo pahoti, micchāājīvassa micchāvāyāmo pahoti, micchāvāyāmassa micchāsati pahoti, micchāsatissa micchāsamādhi pahoti, micchāsamādhissa micchāñāṇaṃ pahoti, micchāñāṇissa micchāvimutti pahoti. Evaṃ kho, bhikkhave, micchattaṃ āgamma virādhanā hoti, no ārādhanā.",
+   "zh": "“诸比丘，依邪性则导致失败，并非成就。诸比丘，如何是依邪性导致失败而无成就呢？诸比丘，具足邪见者，邪思维生起；具足邪思维者，邪语生起；具足邪语者，邪业生起；具足邪业者，邪命生起；具足邪命者，邪精进生起；具足邪精进者，邪念生起；具足邪念者，邪定生起；具足邪定者，邪智生起；具足邪智者，邪解脱生起。诸比丘，如此便是依邪性导致失败而无成就。",
+   "n": "103"
+  },
+  {
+   "idx": 8,
+   "pali": "‘‘Sammattaṃ, bhikkhave, āgamma ārādhanā hoti, no virādhanā. Kathañca, bhikkhave, sammattaṃ āgamma ārādhanā hoti, no virādhanā? Sammādiṭṭhikassa, bhikkhave, sammāsaṅkappo pahoti, sammāsaṅkappassa sammāvācā pahoti, sammāvācassa sammākammanto pahoti, sammākammantassa sammāājīvo pahoti, sammāājīvassa sammāvāyāmo pahoti, sammāvāyāmassa sammāsati pahoti, sammāsatissa sammāsamādhi pahoti, sammāsamādhissa sammāñāṇaṃ pahoti, sammāñāṇissa sammāvimutti pahoti. Evaṃ kho, bhikkhave, sammattaṃ āgamma ārādhanā hoti, no virādhanā’’ti. Tatiyaṃ.",
+   "zh": "“诸比丘，依于正性，则有成就，而非失败。诸比丘，如何依于正性而有成就，而非失败？诸比丘，正见者生起正思惟，正思惟者生起正语，正语者生起正业，正业者生起正命，正命者生起正精进，正精进者生起正念，正念者生起正定，正定者生起正智，正智者生起正解脱。诸比丘，如此依于正性，则有成就，而非失败。”第三经。"
+  },
+  {
+   "idx": 9,
+   "pali": "4. Bījasuttaṃ",
+   "zh": "4. [[bījasutta|种子经]]"
+  },
+  {
+   "idx": 10,
+   "pali": "‘‘Micchādiṭṭhikassa, bhikkhave, purisapuggalassa micchāsaṅkappassa micchāvācassa micchākammantassa micchāājīvassa micchāvāyāmassa micchāsatissa micchāsamādhissa micchāñāṇissa micchāvimuttissa yañca kāyakammaṃ yathādiṭṭhi samattaṃ samādinnaṃ yañca vacīkammaṃ… yañca manokammaṃ yathādiṭṭhi samattaṃ samādinnaṃ yā ca cetanā yā ca patthanā yo ca paṇidhi ye ca saṅkhārā, sabbe te dhammā aniṭṭhāya akantāya amanāpāya ahitāya dukkhāya saṃvattanti. Taṃ kissa hetu? Diṭṭhi hissa , bhikkhave, pāpikā.",
+   "zh": "“诸比丘，若人邪见，而有邪思惟、邪语、邪业、邪命、邪精进、邪念、邪定、邪智、邪解脱，凡其随顺邪见所圆满纳受的身业……语业……意业，及彼思、愿、志向与诸行，所有这一切法，皆导向不可爱、不可喜、不可意、无利益与苦。何以故？诸比丘，因为彼见是恶的。",
+   "n": "104"
+  },
+  {
+   "idx": 11,
+   "pali": "‘‘Seyyathāpi, bhikkhave, nimbabījaṃ vā kosātakibījaṃ vā tittakālābubījaṃ vā allāya pathaviyā nikkhittaṃ yañceva pathavirasaṃ upādiyati yañca āporasaṃ upādiyati , sabbaṃ taṃ tittakattāya kaṭukattāya asātattāya saṃvattati. Taṃ kissa hetu? Bījañhi, bhikkhave, pāpakaṃ. Evamevaṃ kho, bhikkhave, micchādiṭṭhikassa purisapuggalassa micchāsaṅkappassa micchāvācassa micchākammantassa micchāājīvassa micchāvāyāmassa micchāsatissa micchāsamādhissa micchāñāṇissa micchāvimuttissa yañceva kāyakammaṃ yathādiṭṭhi samattaṃ samādinnaṃ yañca vacīkammaṃ… yañca manokammaṃ yathādiṭṭhi samattaṃ samādinnaṃ yā ca cetanā yā ca patthanā yo ca paṇidhi ye ca saṅkhārā, sabbe te dhammā aniṭṭhāya akantāya amanāpāya ahitāya dukkhāya saṃvattanti. Taṃ kissa hetu? Diṭṭhi hissa, bhikkhave , pāpikā.",
+   "zh": "“诸比丘，譬如将苦楝种子、苦瓠种子或苦葫芦种子置于湿润的土地，它所吸收的土味和所吸收的水味，这一切都只会带来苦涩、辛辣、不悦的味道。那是什么原因呢？诸比丘，因为种子本身是恶的。同样地，诸比丘，那邪见、邪思惟、邪语、邪业、邪命、邪精进、邪念、邪定、邪智、邪解脱的补特伽罗，凡依其邪见而圆满受持的身业，凡依其邪见而圆满受持的语业，凡依其邪见而圆满受持的意业，以及他的思、愿、志、一切诸行，这一切法都导向不可爱、不可喜、不可意、无益与苦。那是什么原因呢？诸比丘，因为他的见是恶的。"
+  },
+  {
+   "idx": 12,
+   "pali": "‘‘Sammādiṭṭhikassa, bhikkhave, purisapuggalassa sammāsaṅkappassa sammāvācassa sammākammantassa sammāājīvassa sammāvāyāmassa sammāsatissa sammāsamādhissa sammāñāṇissa sammāvimuttissa yañceva kāyakammaṃ yathādiṭṭhi samattaṃ samādinnaṃ yañca vacīkammaṃ yathādiṭṭhi samattaṃ samādinnaṃ yañca manokammaṃ yathādiṭṭhi samattaṃ samādinnaṃ yā ca cetanā yā ca patthanā yo ca paṇidhi ye ca saṅkhārā, sabbe te dhammā iṭṭhāya kantāya manāpāya hitāya sukhāya saṃvattanti. Taṃ kissa hetu? Diṭṭhi hissa, bhikkhave, bhaddikā.",
+   "zh": "“诸比丘，那正见、正思惟、正语、正业、正命、正精进、正念、正定、正智、正解脱者，凡依其正见而圆满受持的身业，凡依其正见而圆满受持的语业，凡依其正见而圆满受持的意业，以及他的思、愿、志、一切诸行，这一切法都导向可爱、可喜、可意、有益与乐。那是什么原因呢？诸比丘，因为他的见是善的。"
+  },
+  {
+   "idx": 13,
+   "pali": "‘‘Seyyathāpi, bhikkhave, ucchubījaṃ vā sālibījaṃ vā muddikābījaṃ vā allāya pathaviyā nikkhittaṃ yañca pathavirasaṃ upādiyati yañca āporasaṃ upādiyati sabbaṃ taṃ sātattāya madhurattāya asecanakattāya saṃvattati. Taṃ kissa hetu? Bījañhi bhikkhave, bhaddakaṃ. Evamevaṃ kho, bhikkhave, sammādiṭṭhikassa…pe. … sammāvimuttissa yañceva kāyakammaṃ yathādiṭṭhi samattaṃ samādinnaṃ yañca vacīkammaṃ… yañca manokammaṃ yathādiṭṭhi samattaṃ samādinnaṃ yā ca cetanā yā ca patthanā yo ca paṇidhi ye ca saṅkhārā, sabbe te dhammā iṭṭhāya kantāya manāpāya hitāya sukhāya saṃvattanti. Taṃ kissa hetu? Diṭṭhi hissa, bhikkhave, bhaddikā’’ti. Catutthaṃ.",
+   "zh": "“诸比丘，譬如将甘蔗种子、稻种子或葡萄种子置于湿润的土地，它所吸收的土味和所吸收的水味，这一切都只会带来甘甜、醇美、纯粹美味的味道。那是什么原因呢？诸比丘，因为种子本身是善好的。同样地，诸比丘，那正见者……乃至……正解脱者，凡依其正见而圆满受持的身业，凡依其正见而圆满受持的语业，凡依其正见而圆满受持的意业，以及他的思、愿、志、一切诸行，这一切法都导向可意、可爱、可乐、利益与安乐。那是什么原因呢？诸比丘，因为他的见是善好的。”第四经。"
+  },
+  {
+   "idx": 14,
+   "pali": "5. Vijjāsuttaṃ",
+   "zh": "5. [[vijjāsutta|明经]]"
+  },
+  {
+   "idx": 15,
+   "pali": "‘‘Avijjā , bhikkhave, pubbaṅgamā akusalānaṃ dhammānaṃ samāpattiyā, anvadeva ahirikaṃ anottappaṃ. Avijjāgatassa, bhikkhave, aviddasuno micchādiṭṭhi pahoti, micchādiṭṭhikassa micchāsaṅkappo pahoti, micchāsaṅkappassa micchāvācā pahoti, micchāvācassa micchākammanto pahoti, micchākammantassa micchāājīvo pahoti, micchāājīvassa micchāvāyāmo pahoti, micchāvāyāmassa micchāsati pahoti, micchāsatissa micchāsamādhi pahoti, micchāsamādhissa micchāñāṇaṃ pahoti, micchāñāṇissa micchāvimutti pahoti.",
+   "zh": "“诸比丘，无明为不善法之前导，无惭与无愧随之而起。诸比丘，为无明所覆、无有智者，邪见生起；有邪见者，邪思惟生起；有邪思惟者，邪语生起；有邪语者，邪业生起；有邪业者，邪命生起；有邪命者，邪精进生起；有邪精进者，邪念生起；有邪念者，邪定生起；有邪定者，邪智生起；有邪智者，邪解脱生起。”",
+   "n": "105"
+  },
+  {
+   "idx": 16,
+   "pali": "‘‘Vijjā, bhikkhave, pubbaṅgamā kusalānaṃ dhammānaṃ samāpattiyā, anvadeva hirottappaṃ. Vijjāgatassa, bhikkhave, viddasuno sammādiṭṭhi pahoti, sammādiṭṭhikassa sammāsaṅkappo pahoti, sammāsaṅkappassa sammāvācā pahoti, sammāvācassa sammākammanto pahoti, sammākammantassa sammāājīvo pahoti, sammāājīvassa sammāvāyāmo pahoti, sammāvāyāmassa sammāsati pahoti, sammāsatissa sammāsamādhi pahoti, sammāsamādhissa sammāñāṇaṃ pahoti, sammāñāṇissa sammāvimutti pahotī’’ti. Pañcamaṃ.",
+   "zh": "“诸比丘，明为善法之前导，惭与愧随之而起。诸比丘，具足明者、有智者，正见生起；有正见者，正思惟生起；有正思惟者，正语生起；有正语者，正业生起；有正业者，正命生起；有正命者，正精进生起；有正精进者，正念生起；有正念者，正定生起；有正定者，正智生起；有正智者，正解脱生起。”第五。"
+  },
+  {
+   "idx": 17,
+   "pali": "6. Nijjarasuttaṃ",
+   "zh": "6. [[nijjarasutta|损减经]]"
+  },
+  {
+   "idx": 18,
+   "pali": "‘‘Dasayimāni , bhikkhave, nijjaravatthūni. Katamāni dasa? Sammādiṭṭhikassa, bhikkhave, micchādiṭṭhi nijjiṇṇā hoti; ye ca micchādiṭṭhipaccayā aneke pāpakā akusalā dhammā sambhavanti te cassa nijjiṇṇā honti; sammādiṭṭhipaccayā ca aneke kusalā dhammā bhāvanāpāripūriṃ gacchanti.",
+   "zh": "“诸比丘，这十种是损减事。哪十种？诸比丘，具足正见者，邪见便得损减；由邪见为缘而生起的种种恶不善法，也于他而得损减；由正见为缘，种种善法则达至修习圆满。",
+   "n": "106"
+  },
+  {
+   "idx": 19,
+   "pali": "‘‘Sammāsaṅkappassa, bhikkhave, micchāsaṅkappo nijjiṇṇo hoti; ye ca micchāsaṅkappapaccayā aneke pāpakā akusalā dhammā sambhavanti te cassa nijjiṇṇā honti; sammāsaṅkappapaccayā ca aneke kusalā dhammā bhāvanāpāripūriṃ gacchanti.",
+   "zh": "“诸比丘，具足正思惟者，邪思惟便得损减；由邪思惟为缘而生起的种种恶不善法，也于他而得损减；由正思惟为缘，种种善法则达至修习圆满。”"
+  },
+  {
+   "idx": 20,
+   "pali": "‘‘Sammāvācassa, bhikkhave, micchāvācā nijjiṇṇā hoti; ye ca micchāvācāpaccayā aneke pāpakā akusalā dhammā sambhavanti te cassa nijjiṇṇā honti; sammāvācāpaccayā ca aneke kusalā dhammā bhāvanāpāripūriṃ gacchanti.",
+   "zh": "“诸比丘，具正语者，邪语便已损减；凡以邪语为缘而生起的种种恶不善法，也于他损减；以正语为缘，种种善法则修习圆满。"
+  },
+  {
+   "idx": 21,
+   "pali": "‘‘Sammākammantassa, bhikkhave, micchākammanto nijjiṇṇo hoti; ye ca micchākammantapaccayā aneke pāpakā akusalā dhammā sambhavanti te cassa nijjiṇṇā honti; sammākammantapaccayā ca aneke kusalā dhammā bhāvanāpāripūriṃ gacchanti.",
+   "zh": "“诸比丘，具正业者，邪业便已损减；凡以邪业为缘而生起的种种恶不善法，也于他损减；以正业为缘，种种善法则修习圆满。"
+  },
+  {
+   "idx": 22,
+   "pali": "‘‘Sammāājīvassa , bhikkhave, micchāājīvo nijjiṇṇo hoti; ye ca micchāājīvapaccayā aneke pāpakā akusalā dhammā sambhavanti te cassa nijjiṇṇā honti; sammāājīvapaccayā ca aneke kusalā dhammā bhāvanāpāripūriṃ gacchanti.",
+   "zh": "“诸比丘，具正命者，邪命便已灭尽；凡以邪命为缘而生起的种种恶不善法，也于他损减；以正命为缘，种种善法则修习圆满。"
+  },
+  {
+   "idx": 23,
+   "pali": "‘‘Sammāvāyāmassa, bhikkhave, micchāvāyāmo nijjiṇṇo hoti; ye ca micchāvāyāmapaccayā aneke pāpakā akusalā dhammā sambhavanti te cassa nijjiṇṇā honti; sammāvāyāmapaccayā ca aneke kusalā dhammā bhāvanāpāripūriṃ gacchanti.",
+   "zh": "“诸比丘，具足正精进者，邪精进即得损减；以邪精进为缘所生的种种恶不善法，于彼亦得损减；以正精进为缘，种种善法则达至修习圆满。"
+  },
+  {
+   "idx": 24,
+   "pali": "‘‘Sammāsatissa, bhikkhave, micchāsati nijjiṇṇā hoti; ye ca micchāsatipaccayā aneke pāpakā akusalā dhammā sambhavanti te cassa nijjiṇṇā honti; sammāsatipaccayā ca aneke kusalā dhammā bhāvanāpāripūriṃ gacchanti.",
+   "zh": "“诸比丘，具足正念者，邪念即得损减；以邪念为缘所生的种种恶不善法，于彼亦得损减；以正念为缘，种种善法则达至修习圆满。"
+  },
+  {
+   "idx": 25,
+   "pali": "‘‘Sammāsamādhissa, bhikkhave, micchāsamādhi nijjiṇṇo hoti; ye ca micchāsamādhipaccayā aneke pāpakā akusalā dhammā sambhavanti te cassa nijjiṇṇā honti; sammāsamādhipaccayā ca aneke kusalā dhammā bhāvanāpāripūriṃ gacchanti.",
+   "zh": "“诸比丘，具足正定者，邪定即得损减；以邪定为缘所生的种种恶不善法，于彼亦得损减；以正定为缘，种种善法则达至修习圆满。"
+  },
+  {
+   "idx": 26,
+   "pali": "‘‘Sammāñāṇissa, bhikkhave, micchāñāṇaṃ nijjiṇṇaṃ hoti; ye ca micchāñāṇapaccayā aneke pāpakā akusalā dhammā sambhavanti te cassa nijjiṇṇā honti; sammāñāṇapaccayā ca aneke kusalā dhammā bhāvanāpāripūriṃ gacchanti.",
+   "zh": "“诸比丘！具正智者，邪智消尽；以邪智为缘所生的种种恶不善法，也于他消尽；以正智为缘，种种善法则达至修习圆满。"
+  },
+  {
+   "idx": 27,
+   "pali": "‘‘Sammāvimuttissa, bhikkhave, micchāvimutti nijjiṇṇā hoti; ye ca micchāvimuttipaccayā aneke pāpakā akusalā dhammā sambhavanti te cassa nijjiṇṇā honti; sammāvimuttipaccayā ca aneke kusalā dhammā bhāvanāpāripūriṃ gacchanti. Imāni kho, bhikkhave, dasa nijjaravatthūnī’’ti. Chaṭṭhaṃ.",
+   "zh": "“诸比丘！具正解脱者，邪解脱消尽；以邪解脱为缘所生的种种恶不善法，也于他消尽；以正解脱为缘，种种善法则达至修习圆满。诸比丘！此即十种消尽之事。”第六经。"
+  },
+  {
+   "idx": 28,
+   "pali": "7. Dhovanasuttaṃ",
+   "zh": "7. [[dhovanasutta|洗涤经]]"
+  },
+  {
+   "idx": 29,
+   "pali": "‘‘Atthi, bhikkhave, dakkhiṇesu janapadesu dhovanaṃ nāma. Tattha hoti annampi pānampi khajjampi bhojjampi leyyampi peyyampi naccampi gītampi vāditampi. Atthetaṃ, bhikkhave, dhovanaṃ; ‘netaṃ natthī’ti vadāmi. Tañca kho etaṃ, bhikkhave, dhovanaṃ hīnaṃ gammaṃ pothujjanikaṃ anariyaṃ anatthasaṃhitaṃ na nibbidāya na virāgāya na nirodhāya na upasamāya na abhiññāya na sambodhāya na nibbānāya saṃvattati.",
+   "zh": "“诸比丘！在南方各国，有一种名为“洗浴”的聚会。那里有食、有饮，有主食，有副食，有可舔尝之物，有可吸饮之物，更有舞蹈、歌唱与奏乐。诸比丘！这洗浴是有的；我并不说“它不存在”。然而，诸比丘！那样的洗浴是低劣的、粗俗的、凡夫的、非圣的、毫无意义的，不导向厌离，不导向离贪，不导向灭尽，不导向寂止，不导向证智，不导向正觉，不导向涅槃。”",
+   "n": "107"
+  },
+  {
+   "idx": 30,
+   "pali": "‘‘Ahañca kho, bhikkhave, ariyaṃ dhovanaṃ desessāmi, yaṃ dhovanaṃ ekantanibbidāya virāgāya nirodhāya upasamāya abhiññāya sambodhāya nibbānāya saṃvattati, yaṃ dhovanaṃ āgamma jātidhammā sattā jātiyā parimuccanti, jarādhammā sattā jarāya parimuccanti, maraṇadhammā sattā maraṇena parimuccanti, sokaparidevadukkhadomanassupāyāsadhammā sattā sokaparidevadukkhadomanassupāyāsehi parimuccanti. Taṃ suṇātha, sādhukaṃ manasi karotha; bhāsissāmī’’ti. ‘‘Evaṃ, bhante’’ti kho te bhikkhū bhagavato paccassosuṃ. Bhagavā etadavoca –",
+   "zh": "“诸比丘！我今当说圣洗浴。此洗浴唯一导向厌离、离贪、灭尽、寂止、证智、正觉、涅槃。依于此洗浴，生法之众生从生解脱，老法之众生从老解脱，死法之众生从死解脱，愁、悲、苦、忧、恼法之众生从愁、悲、苦、忧、恼解脱。你们仔细听！善作意！我要宣说了。”“是的，尊者！”众比丘应答世尊。世尊如是说："
+  },
+  {
+   "idx": 31,
+   "pali": "‘‘Katamañca taṃ, bhikkhave, ariyaṃ dhovanaṃ, (yaṃ dhovanaṃ) ekantanibbidāya virāgāya nirodhāya upasamāya abhiññāya sambodhāya nibbānāya saṃvattati, yaṃ dhovanaṃ āgamma jātidhammā sattā jātiyā parimuccanti, jarādhammā sattā jarāya parimuccanti, maraṇadhammā sattā maraṇena parimuccanti, sokaparidevadukkhadomanassupāyāsadhammā sattā sokaparidevadukkhadomanassupāyāsehi parimuccanti?",
+   "zh": "“诸比丘！什么是圣洗浴呢？那洗浴唯一导向厌离、离贪、灭尽、寂止、证智、正觉、涅槃，依于此洗浴，生法之众生从生解脱，老法之众生从老解脱，死法之众生从死解脱，愁、悲、苦、忧、恼法之众生从愁、悲、苦、忧、恼解脱？”"
+  },
+  {
+   "idx": 32,
+   "pali": "‘‘Sammādiṭṭhikassa, bhikkhave, micchādiṭṭhi niddhotā hoti; ye ca micchādiṭṭhipaccayā aneke pāpakā akusalā dhammā sambhavanti te cassa niddhotā honti; sammādiṭṭhipaccayā ca aneke kusalā dhammā bhāvanāpāripūriṃ gacchanti.",
+   "zh": "“诸比丘！具正见者，邪见已净除；以邪见为缘所生的种种恶不善法，也已净除；以正见为缘，种种善法则修习圆满。"
+  },
+  {
+   "idx": 33,
+   "pali": "‘‘Sammāsaṅkappassa, bhikkhave, micchāsaṅkappo niddhoto hoti…pe… sammāvācassa, bhikkhave, micchāvācā niddhotā hoti… sammākammantassa, bhikkhave, micchākammanto niddhoto hoti… sammāājīvassa, bhikkhave, micchāājīvo niddhoto hoti… sammāvāyāmassa, bhikkhave, micchāvāyāmo niddhoto hoti… sammāsatissa, bhikkhave, micchāsati niddhotā hoti… sammāsamādhissa, bhikkhave, micchāsamādhi niddhoto hoti… sammāñāṇissa, bhikkhave, micchāñāṇaṃ niddhotaṃ hoti…pe….",
+   "zh": "“诸比丘！具正思惟者，邪思惟已净除，以邪思惟为缘所生的种种恶不善法亦已净除，以正思惟为缘，种种善法修习圆满。具正语者，邪语已净除，以邪语为缘所生的恶不善法亦已净除，以正语为缘，善法修习圆满。具正业者，邪业已净除，以邪业为缘所生的恶不善法亦已净除，以正业为缘，善法修习圆满。具正命者，邪命已净除，以邪命为缘所生的恶不善法亦已净除，以正命为缘，善法修习圆满。具正精进者，邪精进已净除，以邪精进为缘所生的恶不善法亦已净除，以正精进为缘，善法修习圆满。具正念者，邪念已净除，以邪念为缘所生的恶不善法亦已净除，以正念为缘，善法修习圆满。具正定者，邪定已净除，以邪定为缘所生的恶不善法亦已净除，以正定为缘，善法修习圆满。具正智者，邪智已净除，以邪智为缘所生的恶不善法亦已净除，以正智为缘，善法修习圆满。"
+  },
+  {
+   "idx": 34,
+   "pali": "‘‘Sammāvimuttissa , bhikkhave, micchāvimutti niddhotā hoti; ye ca micchāvimuttipaccayā aneke pāpakā akusalā dhammā sambhavanti te cassa niddhotā honti; sammāvimuttipaccayā ca aneke kusalā dhammā bhāvanāpāripūriṃ gacchanti. Idaṃ kho taṃ, bhikkhave, ariyaṃ dhovanaṃ ekantanibbidāya virāgāya nirodhāya upasamāya abhiññāya sambodhāya nibbānāya saṃvattati, yaṃ dhovanaṃ āgamma jātidhammā sattā jātiyā parimuccanti, jarādhammā sattā jarāya parimuccanti, maraṇadhammā sattā maraṇena parimuccanti, sokaparidevadukkhadomanassupāyāsadhammā sattā sokaparidevadukkhadomanassupāyāsehi parimuccantī’’ti. Sattamaṃ.",
+   "zh": "“诸比丘！具正解脱者，邪解脱已净除；以邪解脱为缘所生的种种恶不善法，也已净除；以正解脱为缘，种种善法则修习圆满。诸比丘！此即圣洁的清洗，导向究竟厌离、离贪、灭尽、寂止、证智、正觉、涅槃。依此清洗，有生法者从生解脱，有老法者从老解脱，有死法者从死解脱，有愁、悲、苦、忧、恼法者，从愁、悲、苦、忧、恼解脱。”第七经。"
+  },
+  {
+   "idx": 35,
+   "pali": "8. Tikicchakasuttaṃ",
+   "zh": "8. [[tikicchakasutta|医师经]]"
+  },
+  {
+   "idx": 36,
+   "pali": "‘‘Tikicchakā , bhikkhave, virecanaṃ denti pittasamuṭṭhānānampi ābādhānaṃ paṭighātāya, semhasamuṭṭhānānampi ābādhānaṃ paṭighātāya, vātasamuṭṭhānānampi ābādhānaṃ paṭighātāya. Atthetaṃ, bhikkhave, virecanaṃ; ‘netaṃ natthī’ti vadāmi. Tañca kho etaṃ, bhikkhave, virecanaṃ sampajjatipi vipajjatipi.",
+   "zh": "“诸比丘！医师们给予泻药，为去除因胆汁而起的诸病，为去除因痰而起的诸病，为去除因风而起的诸病。诸比丘！这种泻药是存在的，我并非说它不存在。然而，诸比丘！这种泻药有时成功，有时失败。”",
+   "n": "108"
+  },
+  {
+   "idx": 37,
+   "pali": "‘‘Ahañca kho, bhikkhave, ariyaṃ virecanaṃ desessāmi, yaṃ virecanaṃ sampajjatiyeva no vipajjati, yaṃ virecanaṃ āgamma jātidhammā sattā jātiyā parimuccanti, jarādhammā sattā jarāya parimuccanti, maraṇadhammā sattā maraṇena parimuccanti, sokaparidevadukkhadomanassupāyāsadhammā sattā sokaparidevadukkhadomanassupāyāsehi parimuccanti. Taṃ suṇātha, sādhukaṃ manasi karotha; bhāsissāmī’’ti. ‘‘Evaṃ, bhante’’ti kho te bhikkhū bhagavato paccassosuṃ. Bhagavā etadavoca –",
+   "zh": "“诸比丘！我将开示圣者的泻药，这种泻药只会成功，不会失败。依于此泻药，有生法的众生从生解脱，有老法的众生从老解脱，有死法的众生从死解脱，有愁、悲、苦、忧、恼法的众生从愁、悲、苦、忧、恼解脱。你们要谛听！善作意！我当宣说。”“是的，尊者！”那些比丘回答世尊。世尊这样说道："
+  },
+  {
+   "idx": 38,
+   "pali": "‘‘Katamañca taṃ, bhikkhave, ariyaṃ virecanaṃ, yaṃ virecanaṃ sampajjatiyeva no vipajjati, yaṃ virecanaṃ āgamma jātidhammā sattā jātiyā parimuccanti, jarādhammā sattā jarāya parimuccanti, maraṇadhammā sattā maraṇena parimuccanti , sokaparidevadukkhadomanassupāyāsadhammā sattā sokaparidevadukkhadomanassupāyāsehi parimuccanti?",
+   "zh": "“诸比丘，什么是那圣洁的泻剂——这种泻剂只会成功，不会失败；依凭这种泻剂，有生之法的众生从生解脱，有老之法的众生从老解脱，有死之法的众生从死解脱，有愁、悲、苦、忧、恼之法的众生，从愁、悲、苦、忧、恼中解脱？"
+  },
+  {
+   "idx": 39,
+   "pali": "‘‘Sammādiṭṭhikassa, bhikkhave, micchādiṭṭhi virittā hoti; ye ca micchādiṭṭhipaccayā aneke pāpakā akusalā dhammā sambhavanti te cassa virittā honti; sammādiṭṭhipaccayā ca aneke kusalā dhammā bhāvanāpāripūriṃ gacchanti.",
+   "zh": "“诸比丘，具足正见的人，邪见已被泻除；以邪见为缘而生的种种恶不善法，这些亦已被泻除；以正见为缘，则种种善法得以修习圆满。"
+  },
+  {
+   "idx": 40,
+   "pali": "‘‘Sammāsaṅkappassa , bhikkhave, micchāsaṅkappo viritto hoti…pe… sammāvācassa, bhikkhave, micchāvācā virittā hoti… sammākammantassa, bhikkhave, micchākammanto viritto hoti… sammāājīvassa, bhikkhave, micchāājīvo viritto hoti… sammāvāyāmassa, bhikkhave, micchāvāyāmo viritto hoti… sammāsatissa, bhikkhave, micchāsati virittā hoti… sammāsamādhissa , bhikkhave, micchāsamādhi viritto hoti… sammāñāṇissa, bhikkhave, micchāñāṇaṃ virittaṃ hoti…pe….",
+   "zh": "“诸比丘，具足正思惟的人，邪思惟已被泻除……诸比丘，具足正语的人，邪语已被泻除……诸比丘，具足正业的人，邪业已被泻除……诸比丘，具足正命的人，邪命已被泻除……诸比丘，具足正精进的人，邪精进已被泻除……诸比丘，具足正念的人，邪念已被泻除……诸比丘，具足正定的人，邪定已被泻除……诸比丘，具足正智的人，邪智已被泻除……"
+  },
+  {
+   "idx": 41,
+   "pali": "‘‘Sammāvimuttissa, bhikkhave, micchāvimutti virittā hoti; ye ca micchāvimuttipaccayā aneke pāpakā akusalā dhammā sambhavanti te cassa virittā honti; sammāvimuttipaccayā ca aneke kusalā dhammā bhāvanāpāripūriṃ gacchanti. Idaṃ kho taṃ, bhikkhave, ariyaṃ virecanaṃ yaṃ virecanaṃ sampajjatiyeva no vipajjati, yaṃ virecanaṃ āgamma jātidhammā sattā jātiyā parimuccanti…pe… sokaparidevadukkhadomanassupāyāsehi parimuccantī’’ti. Aṭṭhamaṃ.",
+   "zh": "“诸比丘！已得正解脱者，邪解脱便已被舍离；凡以邪解脱为缘而生起的种种恶不善法，也已为他所舍离；而以正解脱为缘的种种善法，则修习圆满。诸比丘！这就是那圣泻药，此泻药必定成功而不会失败。依此泻药，具生法的众生从生解脱……从愁、悲、苦、忧、恼中解脱。”第八。"
+  },
+  {
+   "idx": 42,
+   "pali": "9. Vamanasuttaṃ",
+   "zh": "9. [[vamanasutta|催吐经]]"
+  },
+  {
+   "idx": 43,
+   "pali": "‘‘Tikicchakā , bhikkhave, vamanaṃ denti pittasamuṭṭhānānampi ābādhānaṃ paṭighātāya, semhasamuṭṭhānānampi ābādhānaṃ paṭighātāya, vātasamuṭṭhānānampi ābādhānaṃ paṭighātāya. Atthetaṃ, bhikkhave, vamanaṃ; ‘netaṃ natthī’ti vadāmi. Tañca kho etaṃ, bhikkhave, vamanaṃ sampajjatipi vipajjatipi.",
+   "zh": "“诸比丘！医师们施予催吐剂，是为了对治胆汁所生之病，对治痰所生之病，对治风所生之病。诸比丘！此催吐剂是有的，我不说‘它不存在’。然而，诸比丘！此催吐剂或成功，或失败。”",
+   "n": "109"
+  },
+  {
+   "idx": 44,
+   "pali": "‘‘Ahañca kho, bhikkhave, ariyaṃ vamanaṃ desessāmi, yaṃ vamanaṃ sampajjatiyeva no vipajjati, yaṃ vamanaṃ āgamma jātidhammā sattā jātiyā parimuccanti, jarādhammā sattā jarāya parimuccanti, maraṇadhammā sattā maraṇena parimuccanti, sokaparidevadukkhadomanassupāyāsadhammā sattā sokaparidevadukkhadomanassupāyāsehi parimuccanti. Taṃ suṇātha…pe….",
+   "zh": "“诸比丘！我将宣说圣催吐。此圣催吐唯得成就，不会失坏；依此催吐，具生法的众生从生中解脱，具老法的众生从老中解脱，具死法的众生从死中解脱，具愁、悲、苦、忧、恼法的众生从愁、悲、苦、忧、恼中解脱。你们谛听——"
+  },
+  {
+   "idx": 45,
+   "pali": "‘‘Katamañca taṃ, bhikkhave, ariyaṃ vamanaṃ, yaṃ vamanaṃ sampajjatiyeva no vipajjati, yaṃ vamanaṃ āgamma jātidhammā sattā jātiyā parimuccanti…pe… sokaparidevadukkhadomanassupāyāsadhammā sattā sokaparidevadukkhadomanassupāyāsehi parimuccanti?",
+   "zh": "“诸比丘！什么是这圣催吐——此催吐唯得成就而无失坏，依此催吐，具生法的众生从生中解脱……具愁、悲、苦、忧、恼法的众生从愁、悲、苦、忧、恼中解脱？"
+  },
+  {
+   "idx": 46,
+   "pali": "‘‘Sammādiṭṭhikassa , bhikkhave, micchādiṭṭhi vantā hoti; ye ca micchādiṭṭhipaccayā aneke pāpakā akusalā dhammā sambhavanti te cassa vantā honti; sammādiṭṭhipaccayā ca aneke kusalā dhammā bhāvanāpāripūriṃ gacchanti.",
+   "zh": "“诸比丘！正见者已吐出邪见；凡以邪见为缘而生的种种恶不善法，他也已吐出；而以正见为缘的种种善法则达至修习圆满。"
+  },
+  {
+   "idx": 47,
+   "pali": "‘‘Sammāsaṅkappassa, bhikkhave, micchāsaṅkappo vanto hoti…pe… sammāvācassa, bhikkhave, micchāvācā vantā hoti… sammākammantassa, bhikkhave, micchākammanto vanto hoti… sammāājīvassa bhikkhave, micchāājīvo vanto hoti… sammāvāyāmassa, bhikkhave, micchāvāyāmo vanto hoti… sammāsatissa, bhikkhave, micchāsati vantā hoti… sammāsamādhissa, bhikkhave, micchāsamādhi vanto hoti… sammāñāṇissa, bhikkhave, micchāñāṇaṃ vantaṃ hoti …pe….",
+   "zh": "“诸比丘，正思惟者，邪思惟已吐；……正语者，邪语已吐；……正业者，邪业已吐；……正命者，邪命已吐；……正精进者，邪精进已吐；……正念者，邪念已吐；……正定者，邪定已吐；……正智者，邪智已吐……"
+  },
+  {
+   "idx": 48,
+   "pali": "‘‘Sammāvimuttissa , bhikkhave, micchāvimutti vantā hoti; ye ca micchāvimuttipaccayā aneke pāpakā akusalā dhammā sambhavanti te cassa vantā honti; sammāvimuttipaccayā ca aneke kusalā dhammā bhāvanāpāripūriṃ gacchanti. Idaṃ kho taṃ, bhikkhave, ariyaṃ vamanaṃ yaṃ vamanaṃ sampajjatiyeva no vipajjati, yaṃ vamanaṃ āgamma jātidhammā sattā jātiyā parimuccanti…pe… sokaparidevadukkhadomanassupāyāsehi parimuccantī’’ti. Navamaṃ.",
+   "zh": "“诸比丘，正解脱者，邪解脱已吐；凡以邪解脱为缘而起的诸多不善法，亦已为他所吐弃；以正解脱为缘的众多善法，则达至修习圆满。诸比丘，这就是那圣催吐，此催吐唯成就而无失败。依此催吐，具生法的众生从生中解脱……从愁、悲、苦、忧、恼中解脱。”第九。"
+  },
+  {
+   "idx": 49,
+   "pali": "10. Niddhamanīyasuttaṃ",
+   "zh": "10. [[niddhamanīyasutta|驱除经]]"
+  },
+  {
+   "idx": 50,
+   "pali": "‘‘Dasayime, bhikkhave, niddhamanīyā dhammā. Katame dasa? Sammādiṭṭhikassa, bhikkhave, micchādiṭṭhi niddhantā hoti; ye ca micchādiṭṭhipaccayā aneke pāpakā akusalā dhammā sambhavanti te cassa niddhantā honti; sammādiṭṭhipaccayā ca aneke kusalā dhammā bhāvanāpāripūriṃ gacchanti .",
+   "zh": "“诸比丘！有十种应被驱除的法。是哪十种？诸比丘！对于正见者，邪见已被驱除；以邪见为缘而生的种种恶不善法，也已被他驱除；而以正见为缘的种种善法，则达到修习圆满。",
+   "n": "110"
+  },
+  {
+   "idx": 51,
+   "pali": "‘‘Sammāsaṅkappassa, bhikkhave, micchāsaṅkappo niddhanto hoti…pe… sammāvācassa bhikkhave, micchāvācā niddhantā hoti… sammākammantassa, bhikkhave, micchākammanto niddhanto hoti… sammāājīvassa, bhikkhave, micchāājīvo niddhanto hoti… sammāvāyāmassa, bhikkhave, micchāvāyāmo niddhanto hoti… sammāsatissa, bhikkhave, micchāsati niddhantā hoti… sammāsamādhissa, bhikkhave, micchāsamādhi niddhanto hoti… sammāñāṇissa, bhikkhave, micchāñāṇaṃ niddhantaṃ hoti….",
+   "zh": "“诸比丘！对于正思惟者，邪思惟被驱除……（中略）……对于正语者，邪语被驱除；对于正业者，邪业被驱除；对于正命者，邪命被驱除；对于正精进者，邪精进被驱除；对于正念者，邪念被驱除；对于正定者，邪定被驱除；对于正智者，邪智被驱除。”"
+  },
+  {
+   "idx": 52,
+   "pali": "‘‘Sammāvimuttissa , bhikkhave, micchāvimutti niddhantā hoti; ye ca micchāvimuttipaccayā aneke pāpakā akusalā dhammā sambhavanti te cassa niddhantā honti; sammāvimuttipaccayā ca aneke kusalā dhammā bhāvanāpāripūriṃ gacchanti. Ime kho, bhikkhave, dasa niddhamanīyā dhammā’’ti. Dasamaṃ.",
+   "zh": "“诸比丘！对于正解脱者，邪解脱被驱除；以邪解脱为缘而生的种种恶不善法，也已被他驱除；而以正解脱为缘的种种善法，则达到修习圆满。诸比丘！这就是十种应驱除的法。”第十经。"
+  },
+  {
+   "idx": 53,
+   "pali": "11. Paṭhamaasekhasuttaṃ",
+   "zh": "11. [[paṭhamaasekhasutta|第一无学经]]"
+  },
+  {
+   "idx": 54,
+   "pali": "Atha kho aññataro bhikkhu yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho so bhikkhu bhagavantaṃ etadavoca –",
+   "zh": "那时，有一位比丘来到世尊处，顶礼世尊后，坐于一旁。坐定之后，那位比丘对世尊这样说：",
+   "n": "111"
+  },
+  {
+   "idx": 55,
+   "pali": "‘‘‘Asekho asekho’ti, bhante, vuccati. Kittāvatā bhante, bhikkhu asekho hotī’’ti? ‘‘Idha, bhikkhu, bhikkhu asekhāya sammādiṭṭhiyā samannāgato hoti, asekhena sammāsaṅkappena samannāgato hoti, asekhāya sammāvācāya samannāgato hoti, asekhena sammākammantena samannāgato hoti, asekhena sammāājīvena samannāgato hoti, asekhena sammāvāyāmena samannāgato hoti, asekhāya sammāsatiyā samannāgato hoti, asekhena sammāsamādhinā samannāgato hoti, asekhena sammāñāṇena samannāgato hoti, asekhāya sammāvimuttiyā samannāgato hoti. Evaṃ kho, bhikkhu, bhikkhu asekho hotī’’ti. Ekādasamaṃ.",
+   "zh": "“尊者！常说‘无学者、无学者’。请问在怎样的情况下，比丘才可称为无学者呢？”“比丘，在此，比丘具足无学的正见，具足无学的正思惟，具足无学的正语，具足无学的正业，具足无学的正命，具足无学的正精进，具足无学的正念，具足无学的正定，具足无学的正智，具足无学的正解脱。比丘，如此便是一位无学者。”第十一经。"
+  },
+  {
+   "idx": 56,
+   "pali": "12. Dutiyaasekhasuttaṃ",
+   "zh": "12. [[dutiyaasekhasutta|第二无学经]]"
+  },
+  {
+   "idx": 57,
+   "pali": "‘‘Dasayime , bhikkhave, asekhiyā dhammā. Katame dasa? Asekhā sammādiṭṭhi, asekho sammāsaṅkappo, asekhā sammāvācā, asekho sammākammanto, asekho sammāājīvo, asekho sammāvāyāmo, asekhā sammāsati, asekho sammāsamādhi, asekhaṃ sammāñāṇaṃ, asekhā sammāvimutti – ime kho, bhikkhave, dasa asekhiyā dhammā’’ti. Dvādasamaṃ.",
+   "zh": "“诸比丘，有十种无学法。哪十种呢？无学正见、无学正思惟、无学正语、无学正业、无学正命、无学正精进、无学正念、无学正定、无学正智、无学正解脱。诸比丘，这些便是十种无学法。”第十二经。",
+   "n": "112"
+  },
+  {
+   "idx": 58,
+   "pali": "Samaṇasaññāvaggo paṭhamo.",
+   "zh": "沙门想品第一"
+  },
+  {
+   "idx": 59,
+   "pali": "Tassuddānaṃ –",
+   "zh": "其摄颂："
+  },
+  {
+   "idx": 60,
+   "pali": "Saññā bojjhaṅgā micchattaṃ, bījaṃ vijjāya nijjaraṃ;",
+   "zh": "想、觉支、邪性，种子、明与消除；",
+   "type": "verse"
+  },
+  {
+   "idx": 61,
+   "pali": "Dhovanaṃ tikicchā vamanaṃ niddhamanaṃ dve asekhāti.",
+   "zh": "洗涤、治疗、呕吐、驱除、二无学。",
+   "type": "verse"
+  }
+ ]
+}

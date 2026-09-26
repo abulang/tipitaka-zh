@@ -1,0 +1,83 @@
+{
+ "uid": 185,
+ "title": "3. 沙门品",
+ "nik": "AN",
+ "segs": [
+  {
+   "idx": 0,
+   "pali": "3. Sāmaññavaggo",
+   "zh": "3. 沙门品"
+  },
+  {
+   "idx": 1,
+   "pali": "‘‘Ekādasahi , bhikkhave, aṅgehi samannāgato gopālako abhabbo gogaṇaṃ pariharituṃ phātiṃ kātuṃ. Katamehi ekādasahi? Idha, bhikkhave, gopālako na rūpaññū hoti, na lakkhaṇakusalo hoti, na āsāṭikaṃ hāretā hoti, na vaṇaṃ paṭicchādetā hoti, na dhūmaṃ kattā hoti, na titthaṃ jānāti, na pītaṃ jānāti, na vīthiṃ jānāti, na gocarakusalo hoti, anavasesadohī ca hoti, ye te usabhā gopitaro gopariṇāyakā te na atirekapūjāya pūjetā hoti – imehi kho, bhikkhave, ekādasahi aṅgehi samannāgato gopālako abhabbo gogaṇaṃ pariharituṃ phātiṃ kātuṃ.",
+   "zh": "“诸比丘，具足十一支的牧牛者，不能照顾牛群，使其增长。哪十一支呢？诸比丘，此处，牧牛者不知色，不善辨相，不除虫卵，不裹伤口，不施烟熏，不知渡口，不知已饮，不晓道路，不善择牧场，榨乳无余，对公牛、牛群的守护者与领头者，不以特别的恭敬加以敬重。诸比丘，具足此十一支的牧牛者，不能照顾牛群，使其增长。",
+   "n": "22-29"
+  },
+  {
+   "idx": 2,
+   "pali": "‘‘Evamevaṃ kho, bhikkhave, ekādasahi dhammehi samannāgato bhikkhu abhabbo cakkhusmiṃ aniccānupassī viharituṃ…pe… abhabbo cakkhusmiṃ dukkhānupassī viharituṃ… abhabbo cakkhusmiṃ anattānupassī viharituṃ… abhabbo cakkhusmiṃ khayānupassī viharituṃ… abhabbo cakkhusmiṃ vayānupassī viharituṃ… abhabbo cakkhusmiṃ virāgānupassī viharituṃ… abhabbo cakkhusmiṃ nirodhānupassī viharituṃ… abhabbo cakkhusmiṃ paṭinissaggānupassī viharituṃ’’.",
+   "zh": "“诸比丘，同样地，具足十一法的比丘，不能于眼随观无常而住……不能于眼随观苦而住……不能于眼随观无我而住……不能于眼随观坏灭而住……不能于眼随观衰灭而住……不能于眼随观离贪而住……不能于眼随观灭而住……不能于眼随观舍遣而住。”"
+  },
+  {
+   "idx": 3,
+   "pali": "…Sotasmiṃ… ghānasmiṃ… jivhāya… kāyasmiṃ… manasmiṃ….",
+   "zh": "……于耳、于鼻、于舌、于身、于意……。",
+   "n": "30-69"
+  },
+  {
+   "idx": 4,
+   "pali": "…Rūpesu… saddesu… gandhesu… rasesu… phoṭṭhabbesu… dhammesu….",
+   "zh": "……于诸色、于诸声、于诸香、于诸味、于诸触、于诸法……。",
+   "n": "70-117"
+  },
+  {
+   "idx": 5,
+   "pali": "…Cakkhuviññāṇe… sotaviññāṇe… ghānaviññāṇe… jivhāviññāṇe… kāyaviññāṇe… manoviññāṇe….",
+   "zh": "……于眼识、于耳识、于鼻识、于舌识、于身识、于意识……。",
+   "n": "118-165"
+  },
+  {
+   "idx": 6,
+   "pali": "…Cakkhusamphasse… sotasamphasse… ghānasamphasse… jivhāsamphasse … kāyasamphasse… manosamphasse….",
+   "zh": "……眼触……耳触……鼻触……舌触……身触……意触……。",
+   "n": "166-213"
+  },
+  {
+   "idx": 7,
+   "pali": "…Cakkhusamphassajāya vedanāya… sotasamphassajāya vedanāya… ghānasamphassajāya vedanāya… jivhāsamphassajāya vedanāya… kāyasamphassajāya vedanāya… manosamphassajāya vedanāya….",
+   "zh": "……眼触所生之受……耳触所生之受……鼻触所生之受……舌触所生之受……身触所生之受……意触所生之受……。",
+   "n": "214-261"
+  },
+  {
+   "idx": 8,
+   "pali": "…Rūpasaññāya… saddasaññāya… gandhasaññāya… rasasaññāya… phoṭṭhabbasaññāya … dhammasaññāya….",
+   "zh": "……色想……声想……香想……味想……触想……法想……。",
+   "n": "262-309"
+  },
+  {
+   "idx": 9,
+   "pali": "…Rūpasañcetanāya… saddasañcetanāya… gandhasañcetanāya… rasasañcetanāya… phoṭṭhabbasañcetanāya… dhammasañcetanāya….",
+   "zh": "……对色之思……对声之思……对香之思……对味之思……对触之思……对法之思……",
+   "n": "310-357"
+  },
+  {
+   "idx": 10,
+   "pali": "…Rūpataṇhāya… saddataṇhāya… gandhataṇhāya… rasataṇhāya… phoṭṭhabbataṇhāya… dhammataṇhāya….",
+   "zh": "……对色之渴爱……对声之渴爱……对香之渴爱……对味之渴爱……对触之渴爱……对法之渴爱……",
+   "n": "358-405"
+  },
+  {
+   "idx": 11,
+   "pali": "…Rūpavitakke… saddavitakke… gandhavitakke… rasavitakke… phoṭṭhabbavitakke… dhammavitakke….",
+   "zh": "……对色之寻……对声之寻……对香之寻……对味之寻……对触之寻……对法之寻……",
+   "n": "406-453"
+  },
+  {
+   "idx": 12,
+   "pali": "…Rūpavicāre… saddavicāre… gandhavicāre… rasavicāre… phoṭṭhabbavicāre… dhammavicāre aniccānupassī viharituṃ… dukkhānupassī viharituṃ… anattānupassī viharituṃ… khayānupassī viharituṃ… vayānupassī viharituṃ… virāgānupassī viharituṃ… nirodhānupassī viharituṃ… paṭinissaggānupassī viharituṃ…pe….",
+   "zh": "于色伺、于声伺、于香伺、于味伺、于触伺、于法伺，随观无常而住，随观苦而住，随观无我而住，随观灭尽而住，随观衰灭而住，随观离贪而住，随观灭而住，随观舍遣而住……等等。",
+   "n": "454-501"
+  }
+ ]
+}

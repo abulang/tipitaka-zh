@@ -1,0 +1,1295 @@
+{
+ "uid": 1,
+ "title": "小诵经",
+ "nik": "KN",
+ "segs": [
+  {
+   "idx": "s0501m.mul0.json:3",
+   "pali": "1. Saraṇattayaṃ",
+   "zh": "1. 三皈依"
+  },
+  {
+   "idx": "s0501m.mul0.json:4",
+   "pali": "Buddhaṃ saraṇaṃ gacchāmi;",
+   "zh": "我皈依佛；",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul0.json:5",
+   "pali": "Dhammaṃ saraṇaṃ gacchāmi;",
+   "zh": "我皈依法；",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul0.json:6",
+   "pali": "Saṅghaṃ saraṇaṃ gacchāmi.",
+   "zh": "我皈依僧。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul0.json:7",
+   "pali": "Dutiyampi buddhaṃ saraṇaṃ gacchāmi;",
+   "zh": "我第二次皈依佛。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul0.json:8",
+   "pali": "Dutiyampi dhammaṃ saraṇaṃ gacchāmi;",
+   "zh": "我第二次皈依法。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul0.json:9",
+   "pali": "Dutiyampi saṅghaṃ saraṇaṃ gacchāmi.",
+   "zh": "我第二次皈依僧。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul0.json:10",
+   "pali": "Tatiyampi buddhaṃ saraṇaṃ gacchāmi;",
+   "zh": "我第三次皈依佛。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul0.json:11",
+   "pali": "Tatiyampi dhammaṃ saraṇaṃ gacchāmi;",
+   "zh": "我第三次皈依法。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul0.json:12",
+   "pali": "Tatiyampi saṅghaṃ saraṇaṃ gacchāmi.",
+   "zh": "我第三次皈依僧。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul0.json:13",
+   "pali": "Saraṇattayaṃ niṭṭhitaṃ.",
+   "zh": "三皈依终",
+   "type": "colophon"
+  },
+  {
+   "idx": "s0501m.mul1.json:0",
+   "pali": "2. Dasasikkhāpadaṃ",
+   "zh": "2. 十学处"
+  },
+  {
+   "idx": "s0501m.mul1.json:1",
+   "pali": "Pāṇātipātā veramaṇī-sikkhāpadaṃ samādiyāmi.",
+   "zh": "我受持不杀生的学处。",
+   "n": "1"
+  },
+  {
+   "idx": "s0501m.mul1.json:2",
+   "pali": "Adinnādānā veramaṇī-sikkhāpadaṃ samādiyāmi.",
+   "zh": "我受持不偷盗的学处。",
+   "n": "2"
+  },
+  {
+   "idx": "s0501m.mul1.json:3",
+   "pali": "Abrahmacariyā veramaṇī-sikkhāpadaṃ samādiyāmi.",
+   "zh": "我受持不淫欲的学处。",
+   "n": "3"
+  },
+  {
+   "idx": "s0501m.mul1.json:4",
+   "pali": "Musāvādā veramaṇī-sikkhāpadaṃ samādiyāmi.",
+   "zh": "我受持离妄语之学处。",
+   "n": "4"
+  },
+  {
+   "idx": "s0501m.mul1.json:5",
+   "pali": "Surāmerayamajjapamādaṭṭhānā veramaṇī-sikkhāpadaṃ samādiyāmi .",
+   "zh": "我受持不饮酒、不服用能令人放逸的麻醉品之学处。",
+   "n": "5"
+  },
+  {
+   "idx": "s0501m.mul1.json:6",
+   "pali": "Vikālabhojanā veramaṇī-sikkhāpadaṃ samādiyāmi.",
+   "zh": "我受持不非时食之学处。",
+   "n": "6"
+  },
+  {
+   "idx": "s0501m.mul1.json:7",
+   "pali": "Nacca-gīta-vādita-visūkadassanā veramaṇī-sikkhāpadaṃ samādiyāmi.",
+   "zh": "我受持不观看歌舞、奏乐、表演之学处。",
+   "n": "7"
+  },
+  {
+   "idx": "s0501m.mul1.json:8",
+   "pali": "Mālā-gandha-vilepana-dhāraṇa-maṇḍana-vibhūsanaṭṭhānā veramaṇī-sikkhāpadaṃ samādiyāmi.",
+   "zh": "我受持不戴花鬘、不涂香、不抹油、不事装饰与打扮之学处。",
+   "n": "8"
+  },
+  {
+   "idx": "s0501m.mul1.json:9",
+   "pali": "Uccāsayana-mahāsayanā veramaṇī-sikkhāpadaṃ samādiyāmi.",
+   "zh": "我受持不坐卧高广大床之学处。",
+   "n": "9"
+  },
+  {
+   "idx": "s0501m.mul1.json:10",
+   "pali": "Jātarūpa-rajatapaṭiggahaṇā veramaṇī-sikkhāpadaṃ samādiyāmi.",
+   "zh": "我受持不捉持金银的学处。",
+   "n": "10"
+  },
+  {
+   "idx": "s0501m.mul1.json:11",
+   "pali": "Dasasikkhāpadaṃ niṭṭhitaṃ.",
+   "zh": "十学处终",
+   "type": "colophon"
+  },
+  {
+   "idx": "s0501m.mul2.json:0",
+   "pali": "3. Dvattiṃsākāro",
+   "zh": "3. 三十二行相"
+  },
+  {
+   "idx": "s0501m.mul2.json:1",
+   "pali": "Atthi imasmiṃ kāye –",
+   "zh": "在这个身体中，有——"
+  },
+  {
+   "idx": "s0501m.mul2.json:2",
+   "pali": "Kesā lomā nakhā dantā taco,",
+   "zh": "头发、体毛、指甲、牙齿、皮肤，",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul2.json:3",
+   "pali": "Maṃsaṃ nhāru aṭṭhi aṭṭhimiñjaṃ vakkaṃ,",
+   "zh": "肉、筋、骨、骨髓、肾脏，",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul2.json:4",
+   "pali": "Hadayaṃ yakanaṃ kilomakaṃ pihakaṃ papphāsaṃ,",
+   "zh": "心脏、肝脏、肋膜、脾脏、肺",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul2.json:5",
+   "pali": "Antaṃ antaguṇaṃ udariyaṃ karīsaṃ matthaluṅgaṃ ,",
+   "zh": "肠、肠间膜、胃中物、粪便、脑",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul2.json:6",
+   "pali": "Pittaṃ semhaṃ pubbo lohitaṃ sedo medo,",
+   "zh": "胆汁、痰、脓、血、汗、脂肪",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul2.json:7",
+   "pali": "Assu vasā kheḷo siṅghāṇikā lasikā muttanti .",
+   "zh": "泪、脂膏、唾液、鼻涕、关节滑液、尿。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul2.json:8",
+   "pali": "Dvattiṃsākāro niṭṭhito.",
+   "zh": "三十二行相终",
+   "type": "colophon"
+  },
+  {
+   "idx": "s0501m.mul3.json:0",
+   "pali": "4. Kumārapañhā",
+   "zh": "4. 童子问"
+  },
+  {
+   "idx": "s0501m.mul3.json:1",
+   "pali": "‘‘Ekaṃ nāma kiṃ’’? ‘‘Sabbe sattā āhāraṭṭhitikā’’.",
+   "zh": "“何谓‘一’？”“一切众生皆依食而住。”",
+   "n": "1"
+  },
+  {
+   "idx": "s0501m.mul3.json:2",
+   "pali": "‘‘Dve nāma kiṃ’’? ‘‘Nāmañca rūpañca’’.",
+   "zh": "“何谓‘二’？”“名与色。”",
+   "n": "2"
+  },
+  {
+   "idx": "s0501m.mul3.json:3",
+   "pali": "‘‘Tīṇi nāma kiṃ’’? ‘‘Tisso vedanā’’.",
+   "zh": "“何谓‘三’？”“三种受。”",
+   "n": "3"
+  },
+  {
+   "idx": "s0501m.mul3.json:4",
+   "pali": "‘‘Cattāri nāma kiṃ’’? ‘‘Cattāri ariyasaccāni’’.",
+   "zh": "“四者，是指什么？”“四圣谛。”",
+   "n": "4"
+  },
+  {
+   "idx": "s0501m.mul3.json:5",
+   "pali": "‘‘Pañca nāma kiṃ’’? ‘‘Pañcupādānakkhandhā’’.",
+   "zh": "“五者，是指什么？”“五取蕴。”",
+   "n": "5"
+  },
+  {
+   "idx": "s0501m.mul3.json:6",
+   "pali": "‘‘Cha nāma kiṃ’’? ‘‘Cha ajjhattikāni āyatanāni’’.",
+   "zh": "“六者，是指什么？”“六内处。”",
+   "n": "6"
+  },
+  {
+   "idx": "s0501m.mul3.json:7",
+   "pali": "‘‘Satta nāma kiṃ’’? ‘‘Satta bojjhaṅgā’’.",
+   "zh": "“七”指的是什么？“七觉支。”",
+   "n": "7"
+  },
+  {
+   "idx": "s0501m.mul3.json:8",
+   "pali": "‘‘Aṭṭha nāma kiṃ’’? ‘‘Ariyo aṭṭhaṅgiko maggo’’.",
+   "zh": "“八”指的是什么？“八支圣道。”",
+   "n": "8"
+  },
+  {
+   "idx": "s0501m.mul3.json:9",
+   "pali": "‘‘Nava nāma kiṃ’’? ‘‘Nava sattāvāsā’’.",
+   "zh": "“九”指的是什么？“九种众生居。”",
+   "n": "9"
+  },
+  {
+   "idx": "s0501m.mul3.json:10",
+   "pali": "‘‘Dasa nāma kiṃ’’? ‘‘Dasahaṅgehi samannāgato ‘arahā’ti vuccatī’’ti.",
+   "zh": "“十是什么意思？”“具足十支的人，被称为‘阿拉汉’。”",
+   "n": "10"
+  },
+  {
+   "idx": "s0501m.mul3.json:11",
+   "pali": "Kumārapañhā niṭṭhitā.",
+   "zh": "童子问终",
+   "type": "colophon"
+  },
+  {
+   "idx": "s0501m.mul4.json:0",
+   "pali": "5. Maṅgalasuttaṃ",
+   "zh": "5. [[maṅgalasutta|吉祥经]]"
+  },
+  {
+   "idx": "s0501m.mul4.json:1",
+   "pali": "Evaṃ me sutaṃ – ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Atha kho aññatarā devatā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṃ jetavanaṃ obhāsetvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ aṭṭhāsi. Ekamantaṃ ṭhitā kho sā devatā bhagavantaṃ gāthāya ajjhabhāsi –",
+   "zh": "如是我闻：一时，世尊住在[[sāvatthī|舍卫城]]的祇树[[Anāthapiṇḍika|给孤独]]园。那时，有一位天神，在深夜里，容貌殊胜，将整座祇园照亮，来到世尊跟前。到后，向世尊敬礼，立于一旁。立于一旁后，那位天神以偈颂对世尊说：",
+   "n": "1"
+  },
+  {
+   "idx": "s0501m.mul4.json:2",
+   "pali": "‘‘Bahū devā manussā ca, maṅgalāni acintayuṃ;",
+   "zh": "“众多天神与世人，都在思量什么是吉祥，",
+   "type": "verse",
+   "n": "2"
+  },
+  {
+   "idx": "s0501m.mul4.json:3",
+   "pali": "Ākaṅkhamānā sotthānaṃ, brūhi maṅgalamuttamaṃ’’.",
+   "zh": "渴望得到安稳，请您宣说：什么是最上的吉祥。”",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul4.json:4",
+   "pali": "‘‘Asevanā ca bālānaṃ, paṇḍitānañca sevanā;",
+   "zh": "“不亲近愚人，而亲近智者；",
+   "type": "verse",
+   "n": "3"
+  },
+  {
+   "idx": "s0501m.mul4.json:5",
+   "pali": "Pūjā ca pūjaneyyānaṃ , etaṃ maṅgalamuttamaṃ.",
+   "zh": "恭敬应恭敬者，这是最上的吉祥。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul4.json:6",
+   "pali": "‘‘Patirūpadesavāso ca, pubbe ca katapuññatā;",
+   "zh": "“居住适宜处，往昔曾修福，",
+   "type": "verse",
+   "n": "4"
+  },
+  {
+   "idx": "s0501m.mul4.json:7",
+   "pali": "Attasammāpaṇidhi ca, etaṃ maṅgalamuttamaṃ.",
+   "zh": "正确地安顿自身，这是无上的吉祥。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul4.json:8",
+   "pali": "‘‘Bāhusaccañca sippañca, vinayo ca susikkhito;",
+   "zh": "“多闻与技艺，以及善学的律仪。",
+   "type": "verse",
+   "n": "5"
+  },
+  {
+   "idx": "s0501m.mul4.json:9",
+   "pali": "Subhāsitā ca yā vācā, etaṃ maṅgalamuttamaṃ.",
+   "zh": "所说的话语亲切美好，这是无上的吉祥。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul4.json:10",
+   "pali": "‘‘Mātāpitu upaṭṭhānaṃ, puttadārassa saṅgaho;",
+   "zh": "“奉养父母，善待妻儿，",
+   "type": "verse",
+   "n": "6"
+  },
+  {
+   "idx": "s0501m.mul4.json:11",
+   "pali": "Anākulā ca kammantā, etaṃ maṅgalamuttamaṃ.",
+   "zh": "以及无扰乱的工作，这是无上的吉祥。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul4.json:12",
+   "pali": "‘‘Dānañca dhammacariyā ca, ñātakānañca saṅgaho;",
+   "zh": "“布施、行于正法，并善待亲属。",
+   "type": "verse",
+   "n": "7"
+  },
+  {
+   "idx": "s0501m.mul4.json:13",
+   "pali": "Anavajjāni kammāni, etaṃ maṅgalamuttamaṃ.",
+   "zh": "所作无有过失：这是最高的吉祥。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul4.json:14",
+   "pali": "‘‘Āratī viratī pāpā, majjapānā ca saṃyamo;",
+   "zh": "“于诸恶事远离、止息，于诸酒类善知克制；",
+   "type": "verse",
+   "n": "8"
+  },
+  {
+   "idx": "s0501m.mul4.json:15",
+   "pali": "Appamādo ca dhammesu, etaṃ maṅgalamuttamaṃ.",
+   "zh": "于诸善法精勤不放逸：这是最高的吉祥。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul4.json:16",
+   "pali": "‘‘Gāravo ca nivāto ca, santuṭṭhi ca kataññutā;",
+   "zh": "“恭敬与谦逊，知足与感恩；",
+   "type": "verse",
+   "n": "9"
+  },
+  {
+   "idx": "s0501m.mul4.json:17",
+   "pali": "Kālena dhammassavanaṃ , etaṃ maṅgalamuttamaṃ.",
+   "zh": "适时听闻正法，这是最上吉祥。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul4.json:18",
+   "pali": "‘‘Khantī ca sovacassatā, samaṇānañca dassanaṃ;",
+   "zh": "“忍耐与易受教，得见沙门；",
+   "type": "verse",
+   "n": "10"
+  },
+  {
+   "idx": "s0501m.mul4.json:19",
+   "pali": "Kālena dhammasākacchā, etaṃ maṅgalamuttamaṃ.",
+   "zh": "应时论法，这是最吉祥。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul4.json:20",
+   "pali": "‘‘Tapo ca brahmacariyañca, ariyasaccāna dassanaṃ;",
+   "zh": "“精勤与梵行，及见圣谛；",
+   "type": "verse",
+   "n": "11"
+  },
+  {
+   "idx": "s0501m.mul4.json:21",
+   "pali": "Nibbānasacchikiriyā ca, etaṃ maṅgalamuttamaṃ.",
+   "zh": "证悟涅槃，这是最吉祥。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul4.json:22",
+   "pali": "‘‘Phuṭṭhassa lokadhammehi, cittaṃ yassa na kampati;",
+   "zh": "“虽触及世间法，其心不动摇；",
+   "type": "verse",
+   "n": "12"
+  },
+  {
+   "idx": "s0501m.mul4.json:23",
+   "pali": "Asokaṃ virajaṃ khemaṃ, etaṃ maṅgalamuttamaṃ.",
+   "zh": "无忧、无垢、安稳，这是最上吉祥。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul4.json:24",
+   "pali": "‘‘Etādisāni katvāna, sabbatthamaparājitā;",
+   "zh": "“成就如是诸事已，于一切处无有能胜；",
+   "type": "verse",
+   "n": "13"
+  },
+  {
+   "idx": "s0501m.mul4.json:25",
+   "pali": "Sabbattha sotthiṃ gacchanti, taṃ tesaṃ maṅgalamuttama’’nti.",
+   "zh": "他们无论去往何处，皆得安稳——这便是他们的无上吉祥。”",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul4.json:26",
+   "pali": "Maṅgalasuttaṃ niṭṭhitaṃ.",
+   "zh": "《吉祥经》终",
+   "type": "colophon"
+  },
+  {
+   "idx": "s0501m.mul5.json:0",
+   "pali": "6. Ratanasuttaṃ",
+   "zh": "6. [[ratanasutta|宝经]]"
+  },
+  {
+   "idx": "s0501m.mul5.json:1",
+   "pali": "Yānīdha bhūtāni samāgatāni, bhummāni vā yāni va antalikkhe;",
+   "zh": "凡聚集于此的众生，无论居地者，还是住虚空者，",
+   "type": "verse",
+   "n": "1"
+  },
+  {
+   "idx": "s0501m.mul5.json:2",
+   "pali": "Sabbeva bhūtā sumanā bhavantu, athopi sakkacca suṇantu bhāsitaṃ.",
+   "zh": "愿一切众生皆心生欢喜，并恭敬聆听这所说之语。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul5.json:3",
+   "pali": "Tasmā hi bhūtā nisāmetha sabbe, mettaṃ karotha mānusiyā pajāya;",
+   "zh": "是故，一切众生啊，你们当谛听：于人间众生，应修慈爱；",
+   "type": "verse",
+   "n": "2"
+  },
+  {
+   "idx": "s0501m.mul5.json:4",
+   "pali": "Divā ca ratto ca haranti ye baliṃ, tasmā hi ne rakkhatha appamattā.",
+   "zh": "那些日夜奉献供养者，你们当不放逸地守护他们。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul5.json:5",
+   "pali": "Yaṃ kiñci vittaṃ idha vā huraṃ vā, saggesu vā yaṃ ratanaṃ paṇītaṃ;",
+   "zh": "凡此世间、他方所有之财富，或天界中种种殊胜的宝物；",
+   "type": "verse",
+   "n": "3"
+  },
+  {
+   "idx": "s0501m.mul5.json:6",
+   "pali": "Na no samaṃ atthi tathāgatena, idampi buddhe ratanaṃ paṇītaṃ;",
+   "zh": "皆无法与如来等同。这也是佛陀中的殊胜珍宝。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul5.json:7",
+   "pali": "Etena saccena suvatthi hotu.",
+   "zh": "以此真实语，愿你得安乐。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul5.json:8",
+   "pali": "Khayaṃ virāgaṃ amataṃ paṇītaṃ, yadajjhagā sakyamunī samāhito;",
+   "zh": "[[sakyamuni|释迦牟尼]]入于定中，证得了灭尽、离染、不死、殊胜的法。",
+   "type": "verse",
+   "n": "4"
+  },
+  {
+   "idx": "s0501m.mul5.json:9",
+   "pali": "Na tena dhammena samatthi kiñci, idampi dhamme ratanaṃ paṇītaṃ;",
+   "zh": "无有任何事物能与此法等同。此亦是法中的殊胜宝。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul5.json:10",
+   "pali": "Etena saccena suvatthi hotu.",
+   "zh": "以此真实语，愿你得安乐。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul5.json:11",
+   "pali": "Yaṃ buddhaseṭṭho parivaṇṇayī suciṃ, samādhimānantarikaññamāhu;",
+   "zh": "那最上佛陀所称叹的清净之定，即被称为“无间定”。",
+   "type": "verse",
+   "n": "5"
+  },
+  {
+   "idx": "s0501m.mul5.json:12",
+   "pali": "Samādhinā tena samo na vijjati, idampi dhamme ratanaṃ paṇītaṃ;",
+   "zh": "没有任何定可与它相比，这亦是法中的无上宝。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul5.json:13",
+   "pali": "Etena saccena suvatthi hotu.",
+   "zh": "以此真实语，愿你得安乐。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul5.json:14",
+   "pali": "Ye puggalā aṭṭha sataṃ pasatthā, cattāri etāni yugāni honti;",
+   "zh": "那些为善士们所称赞的八种人，即是四双八辈；",
+   "type": "verse",
+   "n": "6"
+  },
+  {
+   "idx": "s0501m.mul5.json:15",
+   "pali": "Te dakkhiṇeyyā sugatassa sāvakā, etesu dinnāni mahapphalāni;",
+   "zh": "他们是善逝的弟子，应受供养；凡布施于他们，皆得大果报。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul5.json:16",
+   "pali": "Idampi saṅghe ratanaṃ paṇītaṃ, etena saccena suvatthi hotu.",
+   "zh": "此亦是僧团中的无上宝。依此真实语，愿你安稳吉祥。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul5.json:17",
+   "pali": "Ye suppayuttā manasā daḷhena, nikkāmino gotamasāsanamhi;",
+   "zh": "他们于乔达摩的教法中，全心投入，心意坚固，离诸欲贪；",
+   "type": "verse",
+   "n": "7"
+  },
+  {
+   "idx": "s0501m.mul5.json:18",
+   "pali": "Te pattipattā amataṃ vigayha, laddhā mudhā nibbutiṃ bhuñjamānā;",
+   "zh": "他们已达目标，深入不死，无偿证得，享受寂灭之乐；",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul5.json:19",
+   "pali": "Idampi saṅghe ratanaṃ paṇītaṃ, etena saccena suvatthi hotu.",
+   "zh": "此僧团中的珍宝实为殊胜，以此真实语，愿得安乐。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul5.json:20",
+   "pali": "Yathindakhīlo pathavissito siyā, catubbhi vātehi asampakampiyo;",
+   "zh": "“犹如因陀罗柱安立于大地，不被四方之风所动摇；",
+   "type": "verse",
+   "n": "8"
+  },
+  {
+   "idx": "s0501m.mul5.json:21",
+   "pali": "Tathūpamaṃ sappurisaṃ vadāmi, yo ariyasaccāni avecca passati;",
+   "zh": "我称善士亦如此譬喻——他亲证圣谛，如实洞见；",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul5.json:22",
+   "pali": "Idampi saṅghe ratanaṃ paṇītaṃ, etena saccena suvatthi hotu.",
+   "zh": "此僧团中的珍宝实为殊胜，以此真实语，愿得安乐。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul5.json:23",
+   "pali": "Ye ariyasaccāni vibhāvayanti, gambhīrapaññena sudesitāni;",
+   "zh": "他们彻悟由具甚深智慧者所善说的圣谛；",
+   "type": "verse",
+   "n": "9"
+  },
+  {
+   "idx": "s0501m.mul5.json:24",
+   "pali": "Kiñcāpi te honti bhusaṃ pamattā, na te bhavaṃ aṭṭhamamādiyanti;",
+   "zh": "纵使他们仍有放逸，也决不再受第八次生。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul5.json:25",
+   "pali": "Idampi saṅghe ratanaṃ paṇītaṃ, etena saccena suvatthi hotu.",
+   "zh": "此僧团中的珍宝实为殊胜，以此真实语，愿得安乐。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul5.json:26",
+   "pali": "Sahāvassa dassanasampadāya , tayassu dhammā jahitā bhavanti;",
+   "zh": "当他成就见道时，便断除了三种结缚。",
+   "type": "verse",
+   "n": "10"
+  },
+  {
+   "idx": "s0501m.mul5.json:27",
+   "pali": "Sakkāyadiṭṭhī vicikicchitañca, sīlabbataṃ vāpi yadatthi kiñci.",
+   "zh": "有身见、疑惑，以及任何对戒禁取的执取。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul5.json:28",
+   "pali": "Catūhapāyehi ca vippamutto, chaccābhiṭhānāni abhabba kātuṃ ;",
+   "zh": "他已脱离四恶道，不可能再造六种重业。",
+   "type": "verse",
+   "n": "11"
+  },
+  {
+   "idx": "s0501m.mul5.json:29",
+   "pali": "Idampi saṅghe ratanaṃ paṇītaṃ, etena saccena suvatthi hotu.",
+   "zh": "此僧团中的珍宝实为殊胜，以此真实语，愿得安乐。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul5.json:30",
+   "pali": "Kiñcāpi so kamma karoti pāpakaṃ, kāyena vācā uda cetasā vā;",
+   "zh": "即使他以身、语、意造下恶业，",
+   "type": "verse",
+   "n": "12"
+  },
+  {
+   "idx": "s0501m.mul5.json:31",
+   "pali": "Abhabba so tassa paṭicchadāya , abhabbatā diṭṭhapadassa vuttā;",
+   "zh": "他也不可能隐瞒；这正是所谓见道者不可能隐瞒的宣说。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul5.json:32",
+   "pali": "Idampi saṅghe ratanaṃ paṇītaṃ, etena saccena suvatthi hotu.",
+   "zh": "这也是僧团中殊胜的珍宝，以此真实语，愿你们安乐。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul5.json:33",
+   "pali": "Vanappagumbe yatha phussitagge, gimhānamāse paṭhamasmiṃ gimhe;",
+   "zh": "犹如热季初月，高耸的林树枝头缀满繁花，",
+   "type": "verse",
+   "n": "13"
+  },
+  {
+   "idx": "s0501m.mul5.json:34",
+   "pali": "Tathūpamaṃ dhammavaraṃ adesayi , nibbānagāmiṃ paramaṃ hitāya;",
+   "zh": "他如此教导殊胜之法，导向涅槃，是为最上利益。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul5.json:35",
+   "pali": "Idampi buddhe ratanaṃ paṇītaṃ, etena saccena suvatthi hotu.",
+   "zh": "这也是佛陀中的殊胜珍宝，以此真实语，愿一切安乐。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul5.json:36",
+   "pali": "Varo varaññū varado varāharo, anuttaro dhammavaraṃ adesayi;",
+   "zh": "尊胜者、知胜者、施胜者、引胜者，无上者，宣说殊胜之法。",
+   "type": "verse",
+   "n": "14"
+  },
+  {
+   "idx": "s0501m.mul5.json:37",
+   "pali": "Idampi buddhe ratanaṃ paṇītaṃ, etena saccena suvatthi hotu.",
+   "zh": "此亦于佛之殊胜珍宝，以此真语，愿得安乐。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul5.json:38",
+   "pali": "Khīṇaṃ purāṇaṃ nava natthi sambhavaṃ, virattacittāyatike bhavasmiṃ;",
+   "zh": "旧者已尽，新者无生，于未来有，心已离染。",
+   "type": "verse",
+   "n": "15"
+  },
+  {
+   "idx": "s0501m.mul5.json:39",
+   "pali": "Te khīṇabījā avirūḷhichandā, nibbanti dhīrā yathāyaṃ padīpo;",
+   "zh": "他们种子已尽，不再有增长的欲求，那些智者寂灭，正如这盏灯的熄灭。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul5.json:40",
+   "pali": "Idampi saṅghe ratanaṃ paṇītaṃ, etena saccena suvatthi hotu.",
+   "zh": "这也是僧团中殊胜的珍宝；以此真实语，愿您得安乐。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul5.json:41",
+   "pali": "Yānīdha bhūtāni samāgatāni, bhummāni vā yāni va antalikkhe;",
+   "zh": "凡聚集于此的众生，无论地上的，还是空中的，",
+   "type": "verse",
+   "n": "16"
+  },
+  {
+   "idx": "s0501m.mul5.json:42",
+   "pali": "Tathāgataṃ devamanussapūjitaṃ, buddhaṃ namassāma suvatthi hotu.",
+   "zh": "如来为天与人所崇敬，我们礼敬佛陀——愿得安乐！",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul5.json:43",
+   "pali": "Yānīdha bhūtāni samāgatāni, bhummāni vā yāni va antalikkhe;",
+   "zh": "凡在此聚集的众生，无论居于地上，或处于虚空——",
+   "type": "verse",
+   "n": "17"
+  },
+  {
+   "idx": "s0501m.mul5.json:44",
+   "pali": "Tathāgataṃ devamanussapūjitaṃ, dhammaṃ namassāma suvatthi hotu.",
+   "zh": "如来为天与人所崇敬，我们礼敬法——愿得安乐！",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul5.json:45",
+   "pali": "Yānīdha bhūtāni samāgatāni, bhummāni vā yāni va antalikkhe;",
+   "zh": "凡在此聚集的众生，无论居于地上，或处于虚空——",
+   "type": "verse",
+   "n": "18"
+  },
+  {
+   "idx": "s0501m.mul5.json:46",
+   "pali": "Tathāgataṃ devamanussapūjitaṃ, saṅghaṃ namassāma suvatthi hotūti.",
+   "zh": "我们礼敬为天人与人所崇敬的如来，礼敬僧团——愿得安乐。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul5.json:47",
+   "pali": "Ratanasuttaṃ niṭṭhitaṃ.",
+   "zh": "《宝经》终",
+   "type": "colophon"
+  },
+  {
+   "idx": "s0501m.mul6.json:0",
+   "pali": "7. Tirokuṭṭasuttaṃ",
+   "zh": "7. [[tirokuṭṭasutta|墙外经]]"
+  },
+  {
+   "idx": "s0501m.mul6.json:1",
+   "pali": "Tirokuṭṭesu tiṭṭhanti, sandhisiṅghāṭakesu ca;",
+   "zh": "他们站在墙外，也站在缝隙和十字路口。",
+   "type": "verse",
+   "n": "1"
+  },
+  {
+   "idx": "s0501m.mul6.json:2",
+   "pali": "Dvārabāhāsu tiṭṭhanti, āgantvāna sakaṃ gharaṃ.",
+   "zh": "回到自己的家后，便站在门柱旁。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul6.json:3",
+   "pali": "Pahūte annapānamhi, khajjabhojje upaṭṭhite;",
+   "zh": "当丰盛的食物和饮品、各种嚼食与啖食都摆在面前时，",
+   "type": "verse",
+   "n": "2"
+  },
+  {
+   "idx": "s0501m.mul6.json:4",
+   "pali": "Na tesaṃ koci sarati, sattānaṃ kammapaccayā.",
+   "zh": "由于业力的缘故，没有人记得那些众生。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul6.json:5",
+   "pali": "Evaṃ dadanti ñātīnaṃ, ye honti anukampakā;",
+   "zh": "那些心怀悲悯的人，就这样为亲族作布施：",
+   "type": "verse",
+   "n": "3"
+  },
+  {
+   "idx": "s0501m.mul6.json:6",
+   "pali": "Suciṃ paṇītaṃ kālena, kappiyaṃ pānabhojanaṃ;",
+   "zh": "适时供养清净、殊妙、如法的饮食。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul6.json:7",
+   "pali": "Idaṃ vo ñātīnaṃ hotu, sukhitā hontu ñātayo.",
+   "zh": "愿此施物归于你们的亲族，愿亲族们快乐！",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul6.json:8",
+   "pali": "Te ca tattha samāgantvā, ñātipetā samāgatā;",
+   "zh": "那些亲族饿鬼也来到那里，聚集在一起；",
+   "type": "verse",
+   "n": "4"
+  },
+  {
+   "idx": "s0501m.mul6.json:9",
+   "pali": "Pahūte annapānamhi, sakkaccaṃ anumodare.",
+   "zh": "面对丰盛的饮食，他们恭敬地随喜。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul6.json:10",
+   "pali": "Ciraṃ jīvantu no ñātī, yesaṃ hetu labhāmase;",
+   "zh": "愿我们的亲族长寿，正是依靠他们，我们才获得这份利益。",
+   "type": "verse",
+   "n": "5"
+  },
+  {
+   "idx": "s0501m.mul6.json:11",
+   "pali": "Amhākañca katā pūjā, dāyakā ca anipphalā.",
+   "zh": "既为我们作了供养，施主们也绝非徒劳无获。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul6.json:12",
+   "pali": "Na hi tattha kasi atthi, gorakkhettha na vijjati;",
+   "zh": "那里既没有耕作，也没有放牧这回事；",
+   "type": "verse",
+   "n": "6"
+  },
+  {
+   "idx": "s0501m.mul6.json:13",
+   "pali": "Vaṇijjā tādisī natthi, hiraññena kayokayaṃ ;",
+   "zh": "那里既无那样的买卖，也无金钱的交易。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul6.json:14",
+   "pali": "Ito dinnena yāpenti, petā kālaṅkatā tahiṃ.",
+   "zh": "此间所施之物，能滋养彼处逝去的饿鬼。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul6.json:15",
+   "pali": "Unname udakaṃ vuṭṭhaṃ, yathā ninnaṃ pavattati;",
+   "zh": "犹如降于高地的雨水，流向低处；",
+   "type": "verse",
+   "n": "7"
+  },
+  {
+   "idx": "s0501m.mul6.json:16",
+   "pali": "Evameva ito dinnaṃ, petānaṃ upakappati.",
+   "zh": "同样，于此所施之物，能资益诸饿鬼。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul6.json:17",
+   "pali": "Yathā vārivahā pūrā, paripūrenti sāgaraṃ;",
+   "zh": "“正如盈满的河流，令大海充盈；",
+   "type": "verse",
+   "n": "8"
+  },
+  {
+   "idx": "s0501m.mul6.json:18",
+   "pali": "Evameva ito dinnaṃ, petānaṃ upakappati.",
+   "zh": "同样，于此所施之物，能资益诸饿鬼。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul6.json:19",
+   "pali": "Adāsi me akāsi me, ñātimittā sakhā ca me;",
+   "zh": "“他曾施予我，曾为我尽力，是我的亲戚、友伴与同伴；”",
+   "type": "verse",
+   "n": "9"
+  },
+  {
+   "idx": "s0501m.mul6.json:20",
+   "pali": "Petānaṃ dakkhiṇaṃ dajjā, pubbe katamanussaraṃ.",
+   "zh": "应行布施予饿鬼，并忆念他们往昔所为。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul6.json:21",
+   "pali": "Na hi ruṇṇaṃ vā soko vā, yā caññā paridevanā;",
+   "zh": "哭泣、忧伤，以及种种的悲叹，确实无济于事。",
+   "type": "verse",
+   "n": "10"
+  },
+  {
+   "idx": "s0501m.mul6.json:22",
+   "pali": "Na taṃ petānamatthāya, evaṃ tiṭṭhanti ñātayo.",
+   "zh": "亲人们这样站着，并不能利益亡者。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul6.json:23",
+   "pali": "Ayañca kho dakkhiṇā dinnā, saṅghamhi suppatiṭṭhitā;",
+   "zh": "然而，这一份供养若能妥善地安立于僧团之中，",
+   "type": "verse",
+   "n": "11"
+  },
+  {
+   "idx": "s0501m.mul6.json:24",
+   "pali": "Dīgharattaṃ hitāyassa, ṭhānaso upakappati.",
+   "zh": "便能长久地为他带来利益，当下即能起作用。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul6.json:25",
+   "pali": "So ñātidhammo ca ayaṃ nidassito, petāna pūjā ca katā uḷārā;",
+   "zh": "“此亲属之法已得开示，对诸饿鬼的殊胜供养亦已成就。”",
+   "type": "verse",
+   "n": "12"
+  },
+  {
+   "idx": "s0501m.mul6.json:26",
+   "pali": "Balañca bhikkhūnamanuppadinnaṃ , tumhehi puññaṃ pasutaṃ anappakanti.",
+    "zh": "并且你们给比丘们以支持，积集了不少福德。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul6.json:27",
+   "pali": "Tirokuṭṭasuttaṃ niṭṭhitaṃ.",
+   "zh": "《墙外经》终",
+   "type": "colophon"
+  },
+  {
+   "idx": "s0501m.mul7.json:0",
+   "pali": "8. Nidhikaṇḍasuttaṃ",
+   "zh": "8. [[nidhikaṇḍasutta|藏宝经]]"
+  },
+  {
+   "idx": "s0501m.mul7.json:1",
+   "pali": "Nidhiṃ nidheti puriso, gambhīre odakantike;",
+   "zh": "有人将宝藏深藏于水岸边，",
+   "type": "verse",
+   "n": "1"
+  },
+  {
+   "idx": "s0501m.mul7.json:2",
+   "pali": "Atthe kicce samuppanne, atthāya me bhavissati.",
+   "zh": "心想：“当有急难现前时，它会对我有所助益。”",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul7.json:3",
+   "pali": "Rājato vā duruttassa, corato pīḷitassa vā;",
+   "zh": "或因受国王之责罚，或为盗贼所逼迫；",
+   "type": "verse",
+   "n": "2"
+  },
+  {
+   "idx": "s0501m.mul7.json:4",
+   "pali": "Iṇassa vā pamokkhāya, dubbhikkhe āpadāsu vā;",
+   "zh": "或为偿还债务，或因饥荒、遭逢灾祸；",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul7.json:5",
+   "pali": "Etadatthāya lokasmiṃ, nidhi nāma nidhīyati.",
+   "zh": "正是为了这些缘故，世间才有人埋藏那所谓的宝藏。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul7.json:6",
+   "pali": "Tāvassunihito santo, gambhīre odakantike;",
+   "zh": "纵使那财宝被妥善埋藏于深水之畔的坑穴中，",
+   "type": "verse",
+   "n": "3"
+  },
+  {
+   "idx": "s0501m.mul7.json:7",
+   "pali": "Na sabbo sabbadā eva, tassa taṃ upakappati.",
+   "zh": "这份积蓄，也并非全数、任何时候都能为他所用。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul7.json:8",
+   "pali": "Nidhi vā ṭhānā cavati, saññā vāssa vimuyhati;",
+   "zh": "财宝可能会从藏处移失，或者他对标记的记忆变得模糊；",
+   "type": "verse",
+   "n": "4"
+  },
+  {
+   "idx": "s0501m.mul7.json:9",
+   "pali": "Nāgā vā apanāmenti, yakkhā vāpi haranti naṃ.",
+   "zh": "或被龙族移走，或被夜叉夺去。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul7.json:10",
+   "pali": "Appiyā vāpi dāyādā, uddharanti apassato;",
+   "zh": "或是不亲的继承人，趁他不在意时暗自掘取；",
+   "type": "verse",
+   "n": "5"
+  },
+  {
+   "idx": "s0501m.mul7.json:11",
+   "pali": "Yadā puññakkhayo hoti, sabbametaṃ vinassati.",
+   "zh": "待到福德耗尽时，这一切便会灭去。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul7.json:12",
+   "pali": "Yassa dānena sīlena, saṃyamena damena ca;",
+   "zh": "以布施、持戒、自制与调伏，",
+   "type": "verse",
+   "n": "6"
+  },
+  {
+   "idx": "s0501m.mul7.json:13",
+   "pali": "Nidhī sunihito hoti, itthiyā purisassa vā.",
+   "zh": "无论是女人还是男人，其所积存的财宝便得善加守护；",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul7.json:14",
+   "pali": "Cetiyamhi ca saṅghe vā, puggale atithīsu vā;",
+   "zh": "于佛塔、僧团，或个人、宾客，",
+   "type": "verse",
+   "n": "7"
+  },
+  {
+   "idx": "s0501m.mul7.json:15",
+   "pali": "Mātari pitari cāpi , atho jeṭṭhamhi bhātari.",
+   "zh": "于母亲、父亲，或兄长——",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul7.json:16",
+   "pali": "Eso nidhi sunihito, ajeyyo anugāmiko;",
+   "zh": "这宝藏安稳储藏，不可夺取，常随你而行；",
+   "type": "verse",
+   "n": "8"
+  },
+  {
+   "idx": "s0501m.mul7.json:17",
+   "pali": "Pahāya gamanīyesu, etaṃ ādāya gacchati.",
+   "zh": "舍离当舍的一切，他持此宝藏而去。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul7.json:18",
+   "pali": "Asādhāraṇamaññesaṃ, acorāharaṇo nidhi;",
+   "zh": "这宝藏不与他人共有，盗贼也无从窃取。",
+   "type": "verse",
+   "n": "9"
+  },
+  {
+   "idx": "s0501m.mul7.json:19",
+   "pali": "Kayirātha dhīro puññāni, yo nidhi anugāmiko.",
+   "zh": "智者当修积福德，那才是随身不离的宝藏。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul7.json:20",
+   "pali": "Esa devamanussānaṃ, sabbakāmadado nidhi;",
+   "zh": "这宝藏能满足诸天神与人的一切愿望。",
+   "type": "verse",
+   "n": "10"
+  },
+  {
+   "idx": "s0501m.mul7.json:21",
+   "pali": "Yaṃ yadevābhipatthenti, sabbametena labbhati.",
+   "zh": "凡有所愿求，藉此皆能圆满获得。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul7.json:22",
+   "pali": "Suvaṇṇatā susaratā, susaṇṭhānā surūpatā ;",
+   "zh": "肤色美好，声音悦耳，体态端正，相貌俊美，",
+   "type": "verse",
+   "n": "11"
+  },
+  {
+   "idx": "s0501m.mul7.json:23",
+   "pali": "Ādhipaccaparivāro, sabbametena labbhati.",
+   "zh": "权位与随众，一切皆由此获得。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul7.json:24",
+   "pali": "Padesarajjaṃ issariyaṃ, cakkavattisukhaṃ piyaṃ;",
+   "zh": "地方的王权、统治权，以及转轮王那可爱之乐；",
+   "type": "verse",
+   "n": "12"
+  },
+  {
+   "idx": "s0501m.mul7.json:25",
+   "pali": "Devarajjampi dibbesu, sabbametena labbhati.",
+   "zh": "在天界，天神之王的统治，这一切也由此获得。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul7.json:26",
+   "pali": "Mānussikā ca sampatti, devaloke ca yā rati;",
+   "zh": "人间的成就，以及天界的喜乐；",
+   "type": "verse",
+   "n": "13"
+  },
+  {
+   "idx": "s0501m.mul7.json:27",
+   "pali": "Yā ca nibbānasampatti, sabbametena labbhati.",
+   "zh": "证得涅槃，依此亦能成就。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul7.json:28",
+   "pali": "Mittasampadamāgamma, yonisova payuñjato;",
+   "zh": "依止善友的圆满，并如理作意；",
+   "type": "verse",
+   "n": "14"
+  },
+  {
+   "idx": "s0501m.mul7.json:29",
+   "pali": "Vijjā vimutti vasībhāvo, sabbametena labbhati.",
+   "zh": "明、解脱与自在，依此亦能成就。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul7.json:30",
+   "pali": "Paṭisambhidā vimokkhā ca, yā ca sāvakapāramī;",
+   "zh": "无碍解与诸解脱，以及声闻的波罗蜜；",
+   "type": "verse",
+   "n": "15"
+  },
+  {
+   "idx": "s0501m.mul7.json:31",
+   "pali": "Paccekabodhi buddhabhūmi, sabbametena labbhati.",
+   "zh": "独觉菩提与佛地，这一切都由此获得。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul7.json:32",
+   "pali": "Evaṃ mahatthikā esā, yadidaṃ puññasampadā;",
+   "zh": "如此福德圆满，实有大利益；",
+   "type": "verse",
+   "n": "16"
+  },
+  {
+   "idx": "s0501m.mul7.json:33",
+   "pali": "Tasmā dhīrā pasaṃsanti, paṇḍitā katapuññatanti.",
+   "zh": "因此，智者与贤者称赞造作福德。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul7.json:34",
+   "pali": "Nidhikaṇḍasuttaṃ niṭṭhitaṃ.",
+   "zh": "《藏宝经》终",
+   "type": "colophon"
+  },
+  {
+   "idx": "s0501m.mul8.json:0",
+   "pali": "9. Mettasuttaṃ",
+   "zh": "9. [[mettasutta|慈经]]"
+  },
+  {
+   "idx": "s0501m.mul8.json:1",
+   "pali": "Karaṇīyamatthakusalena , yantasantaṃ padaṃ abhisamecca;",
+   "zh": "善巧于利益的人，通达了那寂静境界之后，应当如此行持：",
+   "type": "verse",
+   "n": "1"
+  },
+  {
+   "idx": "s0501m.mul8.json:2",
+   "pali": "Sakko ujū ca suhujū ca, suvaco cassa mudu anatimānī.",
+   "zh": "有能力，为人正直，极其正直，易受教导，柔和而不傲慢。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul8.json:3",
+   "pali": "Santussako ca subharo ca, appakicco ca sallahukavutti;",
+   "zh": "知足，容易护持，事务少，生活简朴轻省。",
+   "type": "verse",
+   "n": "2"
+  },
+  {
+   "idx": "s0501m.mul8.json:4",
+   "pali": "Santindriyo ca nipako ca, appagabbho kulesvananugiddho.",
+   "zh": "诸根寂静，审慎明慧，谦恭不鲁莽，于诸居家众中无有贪着；",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul8.json:5",
+   "pali": "Na ca khuddamācare kiñci, yena viññū pare upavadeyyuṃ;",
+   "zh": "亦不为任何微细的恶行，免遭明智之人所呵责；",
+   "type": "verse",
+   "n": "3"
+  },
+  {
+   "idx": "s0501m.mul8.json:6",
+   "pali": "Sukhinova khemino hontu, sabbasattā bhavantu sukhitattā.",
+   "zh": "愿他们快乐安稳，愿一切众生皆得安乐。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul8.json:7",
+   "pali": "Ye keci pāṇabhūtatthi, tasā vā thāvarā vanavasesā;",
+   "zh": "一切众生，无论是胆怯的还是坚稳的，无有遗漏；",
+   "type": "verse",
+   "n": "4"
+  },
+  {
+   "idx": "s0501m.mul8.json:8",
+   "pali": "Dīghā vā yeva mahantā , majjhimā rassakā aṇukathūlā.",
+   "zh": "无论是长的、大的，中等的、短的，极微细的或粗大的，",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul8.json:9",
+   "pali": "Diṭṭhā vā yeva adiṭṭhā , ye va dūre vasanti avidūre;",
+   "zh": "无论可见或不可见，无论住在远处或近处，",
+   "type": "verse",
+   "n": "5"
+  },
+  {
+   "idx": "s0501m.mul8.json:10",
+   "pali": "Bhūtā va sambhavesī va , sabbasattā bhavantu sukhitattā.",
+   "zh": "已出生与寻求出生的，愿一切众生心得安乐。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul8.json:11",
+   "pali": "Na paro paraṃ nikubbetha, nātimaññetha katthaci na kañci ;",
+   "zh": "不欺诳他人，不于任何处轻视任何人；",
+   "type": "verse",
+   "n": "6"
+  },
+  {
+   "idx": "s0501m.mul8.json:12",
+   "pali": "Byārosanā paṭighasaññā, nāññamaññassa dukkhamiccheyya.",
+   "zh": "因恼怒与嗔恚之想，也不愿彼此受苦。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul8.json:13",
+   "pali": "Mātā yathā niyaṃ puttamāyusā ekaputtamanurakkhe;",
+   "zh": "犹如母亲会用生命守护自己唯一的孩子，",
+   "type": "verse",
+   "n": "7"
+  },
+  {
+   "idx": "s0501m.mul8.json:14",
+   "pali": "Evampi sabbabhūtesu, mānasaṃ bhāvaye aparimāṇaṃ.",
+   "zh": "同样地，对一切众生，应修习无量的慈心。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul8.json:15",
+   "pali": "Mettañca sabbalokasmi, mānasaṃ bhāvaye aparimāṇaṃ;",
+   "zh": "且于一切世间，修习无量的慈心，",
+   "type": "verse",
+   "n": "8"
+  },
+  {
+   "idx": "s0501m.mul8.json:16",
+   "pali": "Uddhaṃ adho ca tiriyañca, asambādhaṃ averamasapattaṃ.",
+   "zh": "向上、向下，遍及四方，无所障碍，无怨无恨，无敌意。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul8.json:17",
+   "pali": "Tiṭṭhaṃ caraṃ nisinno va , sayāno yāvatāssa vitamiddho ;",
+   "zh": "无论是站立、行走、端坐，还是躺卧，只要他已远离昏睡，",
+   "type": "verse",
+   "n": "9"
+  },
+  {
+   "idx": "s0501m.mul8.json:18",
+   "pali": "Etaṃ satiṃ adhiṭṭheyya, brahmametaṃ vihāramidhamāhu.",
+   "zh": "应当安住于此正念；因为这正是在此生中，所称的梵住。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul8.json:19",
+   "pali": "Diṭṭhiñca anupaggamma, sīlavā dassanena sampanno;",
+   "zh": "不执取邪见，持戒具足，成就明见，",
+   "type": "verse",
+   "n": "10"
+  },
+  {
+   "idx": "s0501m.mul8.json:20",
+   "pali": "Kāmesu vinaya gedhaṃ, na hi jātuggabbhaseyya puna retīti.",
+   "zh": "断除对欲乐的贪染，他便永不再入母胎。",
+   "type": "verse"
+  },
+  {
+   "idx": "s0501m.mul8.json:21",
+   "pali": "Mettasuttaṃ niṭṭhitaṃ.",
+   "zh": "《慈经》终",
+   "type": "colophon"
+  },
+  {
+   "idx": "s0501m.mul8.json:22",
+   "pali": "Khuddakapāṭhapāḷi niṭṭhitā.",
+   "zh": "小诵经终",
+   "type": "colophon"
+  }
+ ]
+}

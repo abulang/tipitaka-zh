@@ -1,0 +1,518 @@
+{
+ "uid": 21,
+ "title": "10. 比丘相应",
+ "nik": "SN",
+ "segs": [
+  {
+   "idx": 90,
+   "pali": "10. Bhikkhusaṃyuttaṃ",
+   "zh": "10. 比丘相应"
+  },
+  {
+   "idx": 91,
+   "pali": "1. Kolitasuttaṃ",
+   "zh": "1. [[kolitasutta|拘律陀经]]"
+  },
+  {
+   "idx": 2,
+   "pali": "Evaṃ me sutaṃ – ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Tatra kho āyasmā mahāmoggallāno bhikkhū āmantesi – ‘‘āvuso bhikkhave’’ti. ‘‘Āvuso’’ti kho te bhikkhū āyasmato mahāmoggallānassa paccassosuṃ.",
+   "zh": "如是我闻：一时，世尊住在[[sāvatthī|舍卫城]]的祇树[[Anāthapiṇḍika|给孤独]]园。那时，具寿[[mahāmoggallāna|大目犍连]]对比丘们说：“诸位比丘贤友。”“贤友。”那些比丘回应具寿[[mahāmoggallāna|大目犍连]]。",
+   "n": "235"
+  },
+  {
+   "idx": 3,
+   "pali": "Āyasmā mahāmoggallāno etadavoca – ‘‘idha mayhaṃ, āvuso, rahogatassa paṭisallīnassa evaṃ cetaso parivitakko udapādi – ‘ariyo tuṇhībhāvo, ariyo tuṇhībhāvoti vuccati. Katamo nu kho ariyo tuṇhībhāvo’ti? Tassa mayhaṃ āvuso, etadahosi – ‘idha bhikkhu vitakkavicārānaṃ vūpasamā ajjhattaṃ sampasādanaṃ cetaso ekodibhāvaṃ avitakkaṃ avicāraṃ samādhijaṃ pītisukhaṃ dutiyaṃ jhānaṃ upasampajja viharati. Ayaṃ vuccati ariyo tuṇhībhāvo’ti. So khvāhaṃ, āvuso, vitakkavicārānaṃ vūpasamā ajjhattaṃ sampasādanaṃ cetaso ekodibhāvaṃ avitakkaṃ avicāraṃ samādhijaṃ pītisukhaṃ dutiyaṃ jhānaṃ upasampajja vihariṃ. Tassa mayhaṃ, āvuso, iminā vihārena viharato vitakkasahagatā saññā manasikārā samudācaranti’’.",
+   "zh": "具寿[[mahāmoggallāna|大目犍连]]这样说：“贤友们，方才我独自静处宴坐时，心中生起如是念头：‘圣默然、圣默然，人们这样说。究竟什么是圣默然呢？’贤友们，我那时心想：‘在此，比丘因寻与伺的止息，内心澄净，心专一境，进入并安住于无寻无伺、由定所生的喜与乐之第二禅。这就名为圣默然。’贤友们，我便因寻与伺的止息，内心澄净，心专一境，进入并安住于无寻无伺、由定所生的喜与乐之第二禅。贤友们，当我如此安住时，随寻而起的想与作意又现起了。”"
+  },
+  {
+   "idx": 4,
+   "pali": "‘‘Atha kho maṃ, āvuso, bhagavā iddhiyā upasaṅkamitvā etadavoca – ‘moggallāna, moggallāna, mā, brāhmaṇa, ariyaṃ tuṇhībhāvaṃ pamādo, ariye tuṇhībhāve cittaṃ saṇṭhapehi, ariye tuṇhībhāve cittaṃ ekodibhāvaṃ karohi, ariye tuṇhībhāve cittaṃ samādahā’ti. So khvāhaṃ, āvuso, aparena samayena vitakkavicārānaṃ vūpasamā ajjhattaṃ sampasādanaṃ cetaso ekodibhāvaṃ avitakkaṃ avicāraṃ samādhijaṃ pītisukhaṃ dutiyaṃ jhānaṃ upasampajja viharāmi. Yañhi taṃ, āvuso , sammā vadamāno vadeyya – ‘satthārā anuggahito sāvako mahābhiññataṃ patto’ti, mamaṃ taṃ sammā vadamāno vadeyya – ‘satthārā anuggahito sāvako mahābhiññataṃ patto’’’ti. Paṭhamaṃ.",
+   "zh": "“贤友们，那时，世尊以神通来到我面前，对我说：‘[[moggallāna|目犍连]]，[[moggallāna|目犍连]]！婆罗门，勿放逸于圣默然，于圣默然中令心安住，于圣默然中令心专一，于圣默然中令心入定。’贤友们，那之后不久，我由寻与伺的止息，内心获得安宁，心达一境，进入并安住于无寻、无伺、定所生喜乐的第二禅那。贤友们，若有人正当地说：‘那位弟子得到导师的护持，证得大神通。’他正当地说的那个人，正是我：‘那位弟子得到导师的护持，证得大神通。’”第一经。"
+  },
+  {
+   "idx": 92,
+   "pali": "2. Upatissasuttaṃ",
+   "zh": "2. [[upatissasutta|优波提舍经]]"
+  },
+  {
+   "idx": 6,
+   "pali": "Sāvatthiyaṃ viharati. Tatra kho āyasmā sāriputto bhikkhū āmantesi – ‘‘āvuso bhikkhave’’ti. ‘‘Āvuso’’ti kho te bhikkhū āyasmato sāriputtassa paccassosuṃ. Āyasmā sāriputto etadavoca –",
+   "zh": "如是我闻：一时，尊者[[Sāriputta|舍利弗]]住在[[sāvatthī|舍卫城]]。在那里，他对比丘们说：“贤友们，比丘们。”“贤友。”比丘们回应道。尊者[[Sāriputta|舍利弗]]这样说：",
+   "n": "236"
+  },
+  {
+   "idx": 7,
+   "pali": "‘‘Idha mayhaṃ, āvuso, rahogatassa paṭisallīnassa evaṃ cetaso parivitakko udapādi – ‘atthi nu kho taṃ kiñci lokasmiṃ yassa me vipariṇāmaññathābhāvā uppajjeyyuṃ sokaparidevadukkhadomanassupāyāsā’ti? Tassa mayhaṃ, āvuso, etadahosi – ‘natthi kho taṃ kiñci lokasmiṃ yassa me vipariṇāmaññathābhāvā uppajjeyyuṃ sokaparidevadukkhadomanassupāyāsā’’’ti.",
+   "zh": "“贤友们，就在刚才，我独自静修时，心中生起这样的思惟：‘世间可有什么事物，其变易、坏灭会令我生起愁、悲、苦、忧、恼？’贤友们，我当时这样想：‘世间没有任何事物，其变易、坏灭会令我生起愁、悲、苦、忧、恼。’”"
+  },
+  {
+   "idx": 8,
+   "pali": "Evaṃ vutte, āyasmā ānando āyasmantaṃ sāriputtaṃ etadavoca – ‘‘satthupi kho te, āvuso sāriputta, vipariṇāmaññathābhāvā nuppajjeyyuṃ sokaparidevadukkhadomanassupāyāsā’’ti? ‘‘Satthupi kho me, āvuso, vipariṇāmaññathābhāvā nuppajjeyyuṃ sokaparidevadukkhadomanassupāyāsā, api ca me evamassa – ‘mahesakkho vata, bho, satthā antarahito mahiddhiko mahānubhāvo. Sace hi bhagavā ciraṃ dīghamaddhānaṃ tiṭṭheyya tadassa bahujanahitāya bahujanasukhāya lokānukampāya atthāya hitāya sukhāya devamanussāna’nti. Tathā hi panāyasmato sāriputtassa dīgharattaṃ ahaṅkāramamaṅkāramānānusayā susamūhatā. Tasmā āyasmato sāriputtassa satthupi vipariṇāmaññathābhāvā nuppajjeyyuṃ sokaparidevadukkhadomanassupāyāsā’’ti. Dutiyaṃ.",
+   "zh": "听了这话，尊者[[ānanda|阿难]]对尊者[[Sāriputta|舍利弗]]说：“[[Sāriputta|舍利弗]]贤友，若导师本身变易、坏灭，你也不会生起愁、悲、苦、忧、恼吗？”“贤友，即使导师变易、坏灭，我也不会生起愁、悲、苦、忧、恼。但我会有这样的念头：‘那位有大力德、有大威神、有大势力的世尊，怎么这么快就般涅槃了呢？如果世尊能长久住世，为众多人的利益、安乐、哀愍世间，为人天利乐、福祉，那该多好啊！’确实，正因为尊者[[Sāriputta|舍利弗]]长久以来已彻底根除我执、我所执与慢随眠，所以即使导师变易、坏灭，尊者[[Sāriputta|舍利弗]]也不会生起愁、悲、苦、忧、恼。”第二经。"
+  },
+  {
+   "idx": 93,
+   "pali": "3. Ghaṭasuttaṃ",
+   "zh": "3. [[ghaṭasutta|瓶经]]"
+  },
+  {
+   "idx": 10,
+   "pali": "Evaṃ me sutaṃ – ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena āyasmā ca sāriputto āyasmā ca mahāmoggallāno rājagahe viharanti veḷuvane kalandakanivāpe ekavihāre. Atha kho āyasmā sāriputto sāyanhasamayaṃ paṭisallānā vuṭṭhito yenāyasmā mahāmoggallāno tenupasaṅkami; upasaṅkamitvā āyasmatā mahāmoggallānena saddhiṃ sammodi. Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho āyasmā sāriputto āyasmantaṃ mahāmoggallānaṃ etadavoca –",
+   "zh": "如是我闻：一时，世尊住在[[sāvatthī|舍卫城]]的祇树[[Anāthapiṇḍika|给孤独]]园。那时，具寿舍利弗与具寿[[mahāmoggallāna|大目犍连]]住在[[rājagaha|王舍城]]的竹林松鼠养饲处，同住一处。傍晚时分，具寿舍利弗从独坐静修中起来，前往具寿[[mahāmoggallāna|大目犍连]]的住处。到了之后，彼此亲切问候，诚恳交谈，然后在一旁坐下。坐下后，具寿舍利弗对具寿[[mahāmoggallāna|大目犍连]]这样说：",
+   "n": "237"
+  },
+  {
+   "idx": 11,
+   "pali": "‘‘Vippasannāni kho te, āvuso moggallāna, indriyāni; parisuddho mukhavaṇṇo pariyodāto santena nūnāyasmā mahāmoggallāno ajja vihārena vihāsī’’ti. ‘‘Oḷārikena khvāhaṃ, āvuso, ajja vihārena vihāsiṃ. Api ca, me ahosi dhammī kathā’’ti. ‘‘Kena saddhiṃ panāyasmato mahāmoggallānassa ahosi dhammī kathā’’ti? ‘‘Bhagavatā kho me, āvuso, saddhiṃ ahosi dhammī kathā’’ti. ‘‘Dūre kho, āvuso, bhagavā etarahi sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Kiṃ nu kho, āyasmā, mahāmoggallāno bhagavantaṃ iddhiyā upasaṅkami; udāhu bhagavā āyasmantaṃ mahāmoggallānaṃ iddhiyā upasaṅkamī’’ti? ‘‘Na khvāhaṃ, āvuso, bhagavantaṃ iddhiyā upasaṅkamiṃ; napi maṃ bhagavā iddhiyā upasaṅkami. Api ca, me yāvatā bhagavā ettāvatā dibbacakkhu visujjhi dibbā ca sotadhātu. Bhagavatopi yāvatāhaṃ ettāvatā dibbacakkhu visujjhi dibbā ca sotadhātū’’ti. ‘‘Yathākathaṃ panāyasmato mahāmoggallānassa bhagavatā saddhiṃ ahosi dhammī kathā’’ti?",
+   "zh": "“[[moggallāna|目犍连]]贤友，你的诸根极为澄净，面色纯净明亮。想必具寿[[mahāmoggallāna|大目犍连]]今日安住于寂静的禅住吧？” “贤友，我今日安住于粗重的禅住，不过我曾有一次法谈。” “那么，具寿[[mahāmoggallāna|大目犍连]]是与谁进行法谈呢？” “贤友，是与世尊进行法谈。” “贤友，世尊如今远在[[sāvatthī|舍卫城]]的祇树[[Anāthapiṇḍika|给孤独]]园住。那具寿[[mahāmoggallāna|大目犍连]]是以神通往见世尊，还是世尊以神通来见具寿[[mahāmoggallāna|大目犍连]]呢？” “贤友，并非我以神通往见世尊，亦非世尊以神通来见我。而是我将自己的天眼与天耳界修习得极为清净，能及于世尊所在之处；世尊也将他的天眼与天耳界修习得极为清净，能及于我所在之处。” “那么，具寿[[mahāmoggallāna|大目犍连]]与世尊具体谈论了什么法呢？”"
+  },
+  {
+   "idx": 12,
+   "pali": "‘‘Idhāhaṃ, āvuso, bhagavantaṃ etadavocaṃ – ‘āraddhavīriyo āraddhavīriyoti, bhante, vuccati. Kittāvatā nu kho, bhante, āraddhavīriyo hotī’ti? Evaṃ vutte, maṃ, āvuso, bhagavā etadavoca – ‘idha, moggallāna, bhikkhu āraddhavīriyo viharati – kāmaṃ taco ca nhāru ca aṭṭhī ca avasissatu, sarīre upasussatu maṃsalohitaṃ, yaṃ taṃ purisathāmena purisavīriyena purisaparakkamena pattabbaṃ na taṃ apāpuṇitvā vīriyassa saṇṭhānaṃ bhavissatīti. Evaṃ kho, moggallāna, āraddhavīriyo hotī’ti. Evaṃ kho me, āvuso, bhagavatā saddhiṃ ahosi dhammī kathā’’ti.",
+   "zh": "“贤友，我那时这样问世尊：‘世尊，人们说“已发勤精进者，已发勤精进者”。世尊，怎样才算是一位已发勤精进者呢？’ 当我这样问时，贤友，世尊这样对我说道：‘[[moggallāna|目犍连]]，在此有比丘安住于发勤精进：哪怕只剩下皮、筋、骨，让血肉干枯，若未证得那凭丈夫的力气、丈夫的精进、丈夫的勇猛所能证得者，我的精进便不止息。[[moggallāna|目犍连]]，如此便是一位已发勤精进者了。’ 贤友，我与世尊的法谈便是这样进行的。”"
+  },
+  {
+   "idx": 13,
+   "pali": "‘‘Seyyathāpi, āvuso, himavato pabbatarājassa parittā pāsāṇasakkharā yāvadeva upanikkhepanamattāya ; evameva kho mayaṃ āyasmato mahāmoggallānassa yāvadeva upanikkhepanamattāya. Āyasmā hi mahāmoggallāno mahiddhiko mahānubhāvo ākaṅkhamāno kappaṃ tiṭṭheyyā’’ti.",
+   "zh": "“贤友，譬如雪山王旁边的一小堆碎石沙砾，不过是被搁置的零星分量；同样，我们与具寿[[mahāmoggallāna|大目犍连]]相比，也不过是这等分量而已。具寿[[mahāmoggallāna|大目犍连]]有大神通、大威力，他若愿意，甚至可以住世一劫。”"
+  },
+  {
+   "idx": 14,
+   "pali": "‘‘Seyyathāpi , āvuso, mahatiyā loṇaghaṭāya parittā loṇasakkharāya yāvadeva upanikkhepanamattāya; evameva kho mayaṃ āyasmato sāriputtassa yāvadeva upanikkhepanamattāya. Āyasmā hi sāriputto bhagavatā anekapariyāyena thomito vaṇṇito pasattho –",
+   "zh": "“贤友，正如在一大堆盐旁的一小粒盐，仅仅是搁在那里的分量；我们与具寿舍利弗相比，也不过是这等分量罢了。因为具寿舍利弗曾被世尊以种种方式称叹、赞誉、褒扬："
+  },
+  {
+   "idx": 15,
+   "pali": "‘‘Sāriputtova paññāya, sīlena upasamena ca;",
+   "zh": "“唯[[Sāriputta|舍利弗]]于智慧、戒行与寂静，悉皆圆满；",
+   "type": "verse"
+  },
+  {
+   "idx": 16,
+   "pali": "Yopi pāraṅgato bhikkhu, etāvaparamo siyā’’ti.",
+   "zh": "即便是已至彼岸的比丘，最上亦唯如此。”",
+   "type": "verse"
+  },
+  {
+   "idx": 17,
+   "pali": "Itiha te ubho mahānāgā aññamaññassa subhāsitaṃ sulapitaṃ samanumodiṃsūti. Tatiyaṃ.",
+   "zh": "就这样，这两位大龙象，相互对彼此的善说妙言，共同随喜赞叹。第三经。"
+  },
+  {
+   "idx": 94,
+   "pali": "4. Navasuttaṃ",
+   "zh": "4. [[navasutta|新比丘经]]"
+  },
+  {
+   "idx": 19,
+   "pali": "Sāvatthiyaṃ viharati. Tena kho pana samayena aññataro navo bhikkhu pacchābhattaṃ piṇḍapātapaṭikkanto vihāraṃ pavisitvā appossukko tuṇhībhūto saṅkasāyati, na bhikkhūnaṃ veyyāvaccaṃ karoti cīvarakārasamaye. Atha kho sambahulā bhikkhū yena bhagavā tenupasaṅkamiṃsu; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdiṃsu. Ekamantaṃ nisinnā kho te bhikkhū bhagavantaṃ etadavocuṃ – ‘‘idha , bhante, aññataro navo bhikkhu pacchābhattaṃ piṇḍapātapaṭikkanto vihāraṃ pavisitvā appossukko tuṇhībhūto saṅkasāyati, na bhikkhūnaṃ veyyāvaccaṃ karoti cīvarakārasamaye’’ti.",
+   "zh": "在[[sāvatthī|舍卫城]]。那时，有一位新比丘，午食后从托钵归来，进入寺院便无所作为，默然独处，懒散懈怠；在应缝制袈裟之时，也不为比丘们做些服务的事务。于是，众多比丘前往拜见世尊，行至已，礼敬世尊，退坐一面。退坐一面后，那些比丘便这样对世尊说：“尊者，此处有一位新比丘，午食后从托钵归来，进入寺院便无所作为，默然独处，懒散懈怠；在缝制袈裟之时，也不为比丘们做些服务的事务。”",
+   "n": "238"
+  },
+  {
+   "idx": 20,
+   "pali": "Atha kho bhagavā aññataraṃ bhikkhuṃ āmantesi – ‘‘ehi tvaṃ, bhikkhu, mama vacanena taṃ bhikkhuṃ āmantehi ‘satthā taṃ, āvuso, āmantetī’’’ti. ‘‘Evaṃ bhante’’ti kho so bhikkhu bhagavato paṭissutvā yena so bhikkhu tenupasaṅkami; upasaṅkamitvā taṃ bhikkhuṃ etadavoca – ‘‘satthā taṃ, āvuso, āmantetī’’ti. ‘‘Evamāvuso’’ti kho so bhikkhu tassa bhikkhuno paṭissutvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi . Ekamantaṃ nisinnaṃ kho taṃ bhikkhuṃ bhagavā etadavoca – ‘‘saccaṃ kira tvaṃ, bhikkhu, pacchābhattaṃ piṇḍapātapaṭikkanto vihāraṃ pavisitvā appossukko tuṇhībhūto saṅkasāyasi, na bhikkhūnaṃ veyyāvaccaṃ karosi cīvarakārasamaye’’ti? ‘‘Ahampi kho, bhante, sakaṃ kiccaṃ karomī’’ti.",
+   "zh": "接着，世尊便对一位比丘说：“比丘，来，你代我用话去传唤那位比丘：‘贤友，导师唤你。’”“是的，尊者。”那位比丘应答世尊后，就去到那位比丘那里；到了之后，对他这样说道：“贤友，导师唤你。”“好的，贤友。”那位比丘应答后，便来拜见世尊；到了之后，礼敬世尊，然后退坐一面。等他坐好，世尊便这样对他说：“比丘，听说你午饭后托钵回来，一进寺院就显得漠然不语，懒散懈怠，在缝制袈裟时，也不为诸比丘做些服务性的事务，这是真的吗？”“尊者，我只在做自己本分的事。”"
+  },
+  {
+   "idx": 21,
+   "pali": "Atha kho bhagavā tassa bhikkhuno cetasā cetoparivitakkamaññāya bhikkhū āmantesi – ‘‘mā kho tumhe, bhikkhave, etassa bhikkhuno ujjhāyittha. Eso kho, bhikkhave, bhikkhu catunnaṃ jhānānaṃ ābhicetasikānaṃ diṭṭhadhammasukhavihārānaṃ nikāmalābhī akicchalābhī akasiralābhī, yassa catthāya kulaputtā sammadeva agārasmā anagāriyaṃ pabbajanti, tadanuttaraṃ brahmacariyapariyosānaṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharatī’’ti.",
+   "zh": "那时，世尊以心洞察了那位比丘的内心思惟后，便对诸比丘说：“诸比丘，你们不要对这位比丘心生不满。诸比丘，这位比丘对于四种增上心禅那——那现法乐住之道，想得即得，无难无滞，不费辛劳。善男子正是为了这个目标，正确地舍家出家，过无家的生活；而那位无上梵行的究竟成就，他就在这现法之中亲证自知，具足而住。”"
+  },
+  {
+   "idx": 76,
+   "pali": "Idamavoca bhagavā. Idaṃ vatvāna sugato athāparaṃ etadavoca satthā –",
+   "zh": "世尊如是说。随后，善逝、大师又说——"
+  },
+  {
+   "idx": 23,
+   "pali": "‘‘Nayidaṃ sithilamārabbha, nayidaṃ appena thāmasā;",
+   "zh": "“这并非懈怠所能成就，亦非凭微薄的力量便能达成；",
+   "type": "verse"
+  },
+  {
+   "idx": 24,
+   "pali": "Nibbānaṃ adhigantabbaṃ, sabbadukkhappamocanaṃ.",
+   "zh": "涅槃应当证得，那是从一切苦中的解脱。",
+   "type": "verse"
+  },
+  {
+   "idx": 25,
+   "pali": "‘‘Ayañca daharo bhikkhu, ayamuttamapuriso;",
+   "zh": "“这位年轻比丘，这位最上之人，",
+   "type": "verse"
+  },
+  {
+   "idx": 31,
+   "pali": "Dhāreti antimaṃ dehaṃ, jetvā māraṃ savāhini’’nti. catutthaṃ;",
+   "zh": "他持最后身，已战胜魔罗及其魔军。第四经终。",
+   "type": "verse"
+  },
+  {
+   "idx": 95,
+   "pali": "5. Sujātasuttaṃ",
+   "zh": "5. [[sujātasutta|善生经]]"
+  },
+  {
+   "idx": 28,
+   "pali": "Sāvatthiyaṃ viharati. Atha kho āyasmā sujāto yena bhagavā tenupasaṅkami. Addasā kho bhagavā āyasmantaṃ sujātaṃ dūratova āgacchantaṃ. Disvāna bhikkhū āmantesi – ‘‘ubhayenevāyaṃ, bhikkhave, kulaputto sobhati – yañca abhirūpo dassanīyo pāsādiko paramāya vaṇṇapokkharatāya samannāgato, yassa catthāya kulaputtā sammadeva agārasmā anagāriyaṃ pabbajjanti tadanuttaraṃ brahmacariyapariyosānaṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharatī’’ti. Idamavoca bhagavā…pe… satthā –",
+   "zh": "一时，世尊住[[sāvatthī|舍卫城]]。那时，具寿苏加答来到世尊处。世尊远远望见具寿苏加答正走来，看见后便对诸比丘说：“诸比丘，这位善男子以两方面而庄严：他容貌端严、悦目可亲，具足极其殊妙的容色；同时，善男子们之所以从在家出离而过无家生活，正是为了这无上梵行的究竟，而他在现法中以自智证知、现证，达到并安住于此。”世尊说了此语，善逝、导师随后又说：",
+   "n": "239"
+  },
+  {
+   "idx": 29,
+   "pali": "‘‘Sobhati vatāyaṃ bhikkhu, ujubhūtena cetasā;",
+   "zh": "“这位比丘确实庄严，其心正直；",
+   "type": "verse"
+  },
+  {
+   "idx": 30,
+   "pali": "Vippayutto visaṃyutto, anupādāya nibbuto;",
+   "zh": "他已解脱系缚，无有牵绊，不执取而证入寂灭。",
+   "type": "verse"
+  },
+  {
+   "idx": 26,
+   "pali": "Dhāreti antimaṃ dehaṃ, jetvā māraṃ savāhini’’nti. pañcamaṃ;",
+   "zh": "他持此最后之身，战胜了魔罗及其魔军。第五经终。",
+   "type": "verse"
+  },
+  {
+   "idx": 96,
+   "pali": "6. Lakuṇḍakabhaddiyasuttaṃ",
+   "zh": "6. [[lakuṇḍakabhaddiyasutta|喇昆荼咖跋提经]]"
+  },
+  {
+   "idx": 33,
+   "pali": "Sāvatthiyaṃ viharati. Atha kho āyasmā lakuṇḍakabhaddiyo yena bhagavā tenupasaṅkami. Addasā kho bhagavā āyasmantaṃ lakuṇḍakabhaddiyaṃ dūratova āgacchantaṃ. Disvāna bhikkhū āmantesi – ‘‘passatha no tumhe, bhikkhave, etaṃ bhikkhuṃ āgacchantaṃ dubbaṇṇaṃ duddasikaṃ okoṭimakaṃ bhikkhūnaṃ paribhūtarūpa’’nti? ‘‘Evaṃ, bhante’’. ‘‘Eso kho, bhikkhave, bhikkhu mahiddhiko mahānubhāvo, na ca sā samāpatti sulabharūpā yā tena bhikkhunā asamāpannapubbā. Yassa catthāya kulaputtā sammadeva agārasmā anagāriyaṃ pabbajanti, tadanuttaraṃ brahmacariyapariyosānaṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharatī’’ti. Idamavoca bhagavā…pe… satthā –",
+   "zh": "在[[sāvatthī|舍卫城]]。那时，具寿喇昆荼咖[[bhaddiya|跋提]]前来拜见世尊。世尊远远望见具寿喇昆荼咖[[bhaddiya|跋提]]正朝这边走来，见后便对诸比丘说：“诸比丘，你们看见那位正走来的比丘了吗——相貌丑陋、身形难看、个子矮小，被诸比丘所轻视？”“是的，尊者。”“诸比丘，这位比丘其实有大神通、大威力。而且，没有哪种等至是他未曾轻易证得的。善男子正是为了这个目的，正确地舍俗出家，过着无家的生活；他就在这现法之中，亲自以证智体证无上梵行的终极而具足安住。”世尊说了这番话之后，又作为导师说：",
+   "n": "240"
+  },
+  {
+   "idx": 34,
+   "pali": "‘‘Haṃsā koñcā mayūrā ca, hatthayo pasadā migā;",
+   "zh": "“天鹅、苍鹭与孔雀，象、斑鹿、鹿；",
+   "type": "verse"
+  },
+  {
+   "idx": 35,
+   "pali": "Sabbe sīhassa bhāyanti, natthi kāyasmiṃ tulyatā.",
+   "zh": "一切众生皆畏惧狮子，论体魄之力，狮子无与伦比。",
+   "type": "verse"
+  },
+  {
+   "idx": 36,
+   "pali": "‘‘Evameva manussesu, daharo cepi paññavā;",
+   "zh": "“同样地，在人群之中，即便年少而具智慧；",
+   "type": "verse"
+  },
+  {
+   "idx": 37,
+   "pali": "So hi tattha mahā hoti, neva bālo sarīravā’’ti. chaṭṭhaṃ;",
+   "zh": "他便因此堪称真正伟大，而非徒有身体的愚人。第六经。",
+   "type": "verse"
+  },
+  {
+   "idx": 97,
+   "pali": "7. Visākhasuttaṃ",
+   "zh": "7. [[visākhasutta|毗舍佉经]]"
+  },
+  {
+   "idx": 39,
+   "pali": "Evaṃ me sutaṃ – ekaṃ samayaṃ bhagavā vesāliyaṃ viharati mahāvane kūṭāgārasālāyaṃ. Tena kho pana samayena āyasmā visākho pañcālaputto upaṭṭhānasālāyaṃ bhikkhū dhammiyā kathāya sandasseti samādapeti samuttejeti sampahaṃseti, poriyā vācāya vissaṭṭhāya anelagalāya atthassa viññāpaniyā pariyāpannāya anissitāya.",
+   "zh": "如是我闻，一时世尊住在[[vesālī|毗舍离]]大林[[kūṭāgārasālā|重阁讲堂]]。那时，具寿毗舍佉·[[pañcālaputta|般遮罗子]]在集会堂以法谈开示、劝勉、激励，令诸比丘欢喜，他用优雅、清晰、无过失、能阐明义理、含摄周全、无所执着的言辞。",
+   "n": "241"
+  },
+  {
+   "idx": 40,
+   "pali": "Atha kho bhagavā sāyanhasamayaṃ paṭisallānā vuṭṭhito yena upaṭṭhānasālā tenupasaṅkami; upasaṅkamitvā paññatte āsane nisīdi. Nisajja kho bhagavā bhikkhū āmantesi – ‘‘ko nu kho, bhikkhave, upaṭṭhānasālāyaṃ bhikkhū dhammiyā kathāya sandasseti samādapeti samuttejeti sampahaṃseti poriyā vācāya vissaṭṭhāya anelagalāya atthassa viññāpaniyā pariyāpannāya anissitāyā’’ti? ‘‘Āyasmā, bhante, visākho pañcālaputto upaṭṭhānasālāyaṃ bhikkhū dhammiyā kathāya sandasseti samādapeti samuttejeti sampahaṃseti, poriyā vācāya vissaṭṭhāya anelagalāya atthassa viññāpaniyā pariyāpannāya anissitāyā’’ti.",
+   "zh": "那时，世尊于傍晚时分，从独处禅坐中起，来到集会堂，在已敷设的座位上坐下。坐定后，世尊问诸比丘：“诸比丘，是谁在集会堂以法谈开示、劝勉、激励，令诸比丘欢喜，用优雅、清晰、无过失、能阐明义理、含摄周全、无所执着的言辞？” “尊者，是具寿毗舍佉·[[pañcālaputta|般遮罗子]]，在集会堂以法谈开示、劝勉、激励，令诸比丘欢喜，用优雅、清晰、无过失、能阐明义理、含摄周全、无所执着的言辞。”"
+  },
+  {
+   "idx": 41,
+   "pali": "Atha kho bhagavā āyasmantaṃ visākhaṃ pañcālaputtaṃ āmantesi – ‘‘sādhu sādhu, visākha, sādhu kho tvaṃ, visākha, bhikkhū dhammiyā kathāya sandassesi…pe… atthassa viññāpaniyā pariyāpannāya anissitāyā’’ti.",
+   "zh": "于是世尊对具寿[[Visākhā|毗舍佉]]·[[pañcālaputta|般遮罗子]]说：“善哉，善哉，[[Visākhā|毗舍佉]]！你在法堂中以法语善巧地教导、策励、鼓舞、激励比丘们，所用的言辞优雅、清晰、明辩，能阐明义理，含摄周全，无所依着。”"
+  },
+  {
+   "idx": 22,
+   "pali": "Idamavoca bhagavā. Idaṃ vatvāna sugato athāparaṃ etadavoca satthā –",
+   "zh": "此为世尊所说。说此语后，善逝、导师又接着说："
+  },
+  {
+   "idx": 43,
+   "pali": "‘‘Nābhāsamānaṃ jānanti, missaṃ bālehi paṇḍitaṃ;",
+   "zh": "“混杂于愚人中的智者，若保持沉默，便无人能识；”",
+   "type": "verse"
+  },
+  {
+   "idx": 44,
+   "pali": "Bhāsamānañca jānanti, desentaṃ amataṃ padaṃ.",
+   "zh": "当他宣说时，众人便了知，他正在教导不死之境。",
+   "type": "verse"
+  },
+  {
+   "idx": 45,
+   "pali": "‘‘Bhāsaye jotaye dhammaṃ, paggaṇhe isinaṃ dhajaṃ;",
+   "zh": "“他应当宣说教法，令其光辉照耀，高举仙人们的旗帜；",
+   "type": "verse"
+  },
+  {
+   "idx": 46,
+   "pali": "Subhāsitadhajā isayo, dhammo hi isinaṃ dhajo’’ti. sattamaṃ;",
+   "zh": "诸仙人以善说为旗帜，因为法正是仙人们的旗帜。第七经终。",
+   "type": "verse"
+  },
+  {
+   "idx": 98,
+   "pali": "8. Nandasuttaṃ",
+   "zh": "8. [[nandasutta|难陀经]]"
+  },
+  {
+   "idx": 48,
+   "pali": "Sāvatthiyaṃ viharati. Atha kho āyasmā nando bhagavato mātucchāputto ākoṭitapaccākoṭitāni cīvarāni pārupitvā akkhīni añjetvā acchaṃ pattaṃ gahetvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinnaṃ kho āyasmantaṃ nandaṃ bhagavā etadavoca – ‘‘na kho te taṃ, nanda, patirūpaṃ kulaputtassa saddhā agārasmā anagāriyaṃ pabbajitassa, yaṃ tvaṃ ākoṭitapaccākoṭitāni cīvarāni pārupeyyāsi, akkhīni ca añjeyyāsi, acchañca pattaṃ dhāreyyāsi. Etaṃ kho te, nanda, patirūpaṃ kulaputtassa saddhā agārasmā anagāriyaṃ pabbajitassa, yaṃ tvaṃ āraññiko ca assasi, piṇḍapātiko ca paṃsukuliko ca kāmesu ca anapekkho vihareyyāsī’’ti. Idamavoca bhagavā…pe… satthā –",
+   "zh": "在[[sāvatthī|舍卫城]]住。那时，具寿难陀——世尊的姨母之子——穿着浆烫挺括、折叠齐整的衣袍，涂了眼膏，手持光洁的钵，来到世尊面前。顶礼世尊后，坐于一旁。世尊对坐在一旁的具寿难陀这样说：“难陀，你以信心从在家出家成为善男子，这么做是不合适的：穿着浆烫挺括的衣袍，涂眼膏，手持光洁的钵。难陀，你以信心从在家出家成为善男子，应当成为住阿兰若者、乞食者、着粪扫衣者，于诸欲无所期盼而安住，这才是合适的。”世尊说了这番话后，……导师又接着说：",
+   "n": "242"
+  },
+  {
+   "idx": 49,
+   "pali": "‘‘Kadāhaṃ nandaṃ passeyyaṃ, āraññaṃ paṃsukūlikaṃ;",
+   "zh": "“何时我能见到难陀，住于阿兰若，身着粪扫衣，",
+   "type": "verse"
+  },
+  {
+   "idx": 50,
+   "pali": "Aññātuñchena yāpentaṃ, kāmesu anapekkhina’’nti.",
+   "zh": "依他人所施的残食维生，于诸欲乐无所牵挂？”",
+   "type": "verse"
+  },
+  {
+   "idx": 51,
+   "pali": "Atha kho āyasmā nando aparena samayena āraññiko ca piṇḍapātiko ca paṃsukūliko ca kāmesu ca anapekkho vihāsīti. Aṭṭhamaṃ.",
+   "zh": "后来，具寿难陀适时成为阿兰若住者、乞食者、着粪扫衣者，于诸欲乐心无牵挂，如此安住。第八经。"
+  },
+  {
+   "idx": 99,
+   "pali": "9. Tissasuttaṃ",
+   "zh": "9. [[tissasutta|提舍经]]"
+  },
+  {
+   "idx": 53,
+   "pali": "Sāvatthiyaṃ viharati. Atha kho āyasmā tisso bhagavato pitucchāputto yena bhagavā tenupasaṅkami ; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi dukkhī dummano assūni pavattayamāno. Atha kho bhagavā āyasmantaṃ tissaṃ etadavoca – ‘‘kiṃ nu kho tvaṃ, tissa, ekamantaṃ nisinno dukkhī dummano assūni pavattayamāno’’ti? ‘‘Tathā hi pana maṃ, bhante, bhikkhū samantā vācāsannitodakena sañjambharimakaṃsū’’ti . ‘‘Tathāhi pana tvaṃ, tissa, vattā no ca vacanakkhamo; na kho te taṃ, tissa, patirūpaṃ kulaputtassa saddhā agārasmā anagāriyaṃ pabbajitassa, yaṃ tvaṃ vattā no ca vacanakkhamo. Etaṃ kho te, tissa, patirūpaṃ kulaputtassa saddhā agārasmā anagāriyaṃ pabbajitassa – ‘yaṃ tvaṃ vattā ca assa vacanakkhamo cā’’’ti.",
+   "zh": "一时，世尊在[[sāvatthī|舍卫城]]。那时，具寿提舍——世尊姑母之子——来到世尊前，顶礼后，退坐一面。他满怀愁苦，神情沮丧，泪流不止。于是，世尊对具寿提舍说：“提舍，你为何独自坐在一旁，愁苦、沮丧，泪流不止呢？”“尊者，众比丘从四面八方用言语的刺来刺我。”“提舍，你能言善辩，却不能纳受他人之言。提舍，你身为善男子，以信心从在家出家而为非家者，你既能言善辩，却不能纳受他人之言，这于你实不相称。提舍，你身为善男子，以信心从在家出家而为非家者，与你相称的应当是：既能善说，也能纳受他人之言。”",
+   "n": "243"
+  },
+  {
+   "idx": 68,
+   "pali": "Idamavoca bhagavā. Idaṃ vatvāna sugato athāparaṃ etadavoca satthā –",
+   "zh": "世尊宣说已。善逝、导师说此之后，复说偈言："
+  },
+  {
+   "idx": 55,
+   "pali": "‘‘Kiṃ nu kujjhasi mā kujjhi, akkodho tissa te varaṃ;",
+   "zh": "“为何忿怒？切莫忿怒，帝萨，不忿怒于你更为善妙。",
+   "type": "verse"
+  },
+  {
+   "idx": 56,
+   "pali": "Kodhamānamakkhavinayatthañhi, tissa brahmacariyaṃ vussatī’’ti. navamaṃ;",
+   "zh": "帝萨，正是为了调伏忿怒、慢与诋毁，这梵行才得以修持。第九经。",
+   "type": "verse"
+  },
+  {
+   "idx": 100,
+   "pali": "10. Theranāmakasuttaṃ",
+   "zh": "10. [[theranāmakasutta|长老名经]]"
+  },
+  {
+   "idx": 58,
+   "pali": "Ekaṃ samayaṃ bhagavā rājagahe viharati veḷuvane kalandakanivāpe. Tena kho pana samayena aññataro bhikkhu theranāmako ekavihārī ceva hoti ekavihārassa ca vaṇṇavādī. So eko gāmaṃ piṇḍāya pavisati eko paṭikkamati eko raho nisīdati eko caṅkamaṃ adhiṭṭhāti. Atha kho sambahulā bhikkhū yena bhagavā tenupasaṅkamiṃsu ; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdiṃsu. Ekamantaṃ nisinnā kho te bhikkhū bhagavantaṃ etadavocuṃ – ‘‘idha, bhante, aññataro bhikkhu theranāmako ekavihārī ekavihārassa ca vaṇṇavādī’’ti.",
+   "zh": "一时，世尊住在[[rājagaha|王舍城]]竹林迦兰陀园。那时，有一位名叫“长老”的比丘，他独住，并且赞叹独住。他独自入村乞食，独自返回，独自在隐僻处静坐，独自经行。这时，众多比丘来到世尊那里，到了之后，向世尊礼敬，坐在一旁。坐于一旁的比丘们对世尊这样说道：“尊者，这里有一位名叫‘长老’的比丘，他独住，并且赞叹独住。”",
+   "n": "244"
+  },
+  {
+   "idx": 59,
+   "pali": "Atha kho bhagavā aññataraṃ bhikkhuṃ āmantesi – ‘‘ehi tvaṃ, bhikkhu, mama vacanena theraṃ bhikkhuṃ āmantehi – ‘satthā taṃ, āvuso thera, āmantetī’’’ti. ‘‘Evaṃ, bhante’’ti kho so bhikkhu bhagavato paṭissutvā yenāyasmā thero tenupasaṅkami; upasaṅkamitvā āyasmantaṃ theraṃ etadavoca – ‘‘satthā taṃ, āvuso thera, āmantetī’’ti. ‘‘Evamāvuso’’ti kho āyasmā thero tassa bhikkhuno paṭissutvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinnaṃ kho āyasmantaṃ theraṃ bhagavā etadavoca – ‘‘saccaṃ kira tvaṃ, thera, ekavihārī ekavihārassa ca vaṇṇavādī’’ti? ‘‘Evaṃ, bhante’’. ‘‘Yathā kathaṃ pana tvaṃ, thera, ekavihārī ekavihārassa ca vaṇṇavādī’’ti? ‘‘Idhāhaṃ, bhante, eko gāmaṃ piṇḍāya pavisāmi eko paṭikkamāmi eko raho nisīdāmi eko caṅkamaṃ adhiṭṭhāmi. Evaṃ khvāhaṃ, bhante, ekavihārī ekavihārassa ca vaṇṇavādī’’ti.",
+   "zh": "那时，世尊唤一位比丘前来，对他说：“来，比丘，你以我的名义去传告那位长老比丘：‘贤友长老，导师召唤您。’”那名比丘回答：“是的，尊者。”便依世尊的指示，来到具寿长老那里，对他说：“贤友长老，导师召唤您。”“好的，贤友。”具寿长老应答后，便去世尊所在之处，顶礼世尊后坐于一旁。坐下后，世尊对具寿长老说：“长老，听说您是独住者，并且赞叹独住，这是真的吗？”“是的，尊者。”“那么，长老，您是如何独住并赞叹独住的呢？”“尊者，我独自入村乞食，独自返回，独自静坐，独自经行。尊者，我正是这样独住并赞叹独住的。”"
+  },
+  {
+   "idx": 60,
+   "pali": "‘‘Attheso, thera, ekavihāro neso natthīti vadāmi. Api ca, thera, yathā ekavihāro vitthārena paripuṇṇo hoti taṃ suṇāhi, sādhukaṃ manasi karohi; bhāsissāmī’’ti. ‘‘Evaṃ, bhante’’ti kho…pe…. ‘‘Kathañca , thera, ekavihāro vitthārena paripuṇṇo hoti. Idha, thera, yaṃ atītaṃ taṃ pahīnaṃ, yaṃ anāgataṃ taṃ paṭinissaṭṭhaṃ, paccuppannesu ca attabhāvapaṭilābhesu chandarāgo suppaṭivinīto. Evaṃ kho, thera, ekavihāro vitthārena paripuṇṇo hotī’’ti.",
+   "zh": "“长老，这确是一种独住，我不说它不是。然而，长老，且听我宣说，独住如何可称详尽圆满。你仔细聆听，善用其心，我这就说。”“是的，尊者。”具寿长老答。世尊于是说：“长老，怎样是独住详尽圆满呢？于此，长老，过去的一切已舍断，未来的一切已弃绝，于现在所获得的自身存在中，欲贪已善加调伏。长老，这才是详尽圆满的独住。”"
+  },
+  {
+   "idx": 54,
+   "pali": "Idamavoca bhagavā. Idaṃ vatvāna sugato athāparaṃ etadavoca satthā –",
+   "zh": "世尊如此说了。善逝、导师说此之后，复作是说："
+  },
+  {
+   "idx": 62,
+   "pali": "‘‘Sabbābhibhuṃ sabbaviduṃ sumedhaṃ,",
+   "zh": "“征服一切，了知一切，具足善慧；",
+   "type": "verse"
+  },
+  {
+   "idx": 63,
+   "pali": "Sabbesu dhammesu anūpalittaṃ;",
+   "zh": "于一切法，无所染着；",
+   "type": "verse"
+  },
+  {
+   "idx": 64,
+   "pali": "Sabbañjahaṃ taṇhākkhaye vimuttaṃ,",
+   "zh": "舍离一切，于渴爱灭尽中得解脱。",
+   "type": "verse"
+  },
+  {
+   "idx": 65,
+   "pali": "Tamahaṃ naraṃ ekavihārīti brūmī’’ti. dasamaṃ;",
+   "zh": "我说此人，方为独住者。”第十经。",
+   "type": "verse"
+  },
+  {
+   "idx": 101,
+   "pali": "11. Mahākappinasuttaṃ",
+   "zh": "11. [[mahākappinasutta|摩诃劫宾那经]]"
+  },
+  {
+   "idx": 67,
+   "pali": "Sāvatthiyaṃ viharati. Atha kho āyasmā mahākappino yena bhagavā tenupasaṅkami. Addasā kho bhagavā āyasmantaṃ mahākappinaṃ dūratova āgacchantaṃ. Disvāna bhikkhū āmantesi – ‘‘passatha no tumhe bhikkhave, etaṃ bhikkhuṃ āgacchantaṃ odātakaṃ tanukaṃ tuṅganāsika’’nti? ‘‘Evaṃ, bhante’’. ‘‘Eso kho, bhikkhave, bhikkhu mahiddhiko mahānubhāvo. Na ca sā samāpatti sulabharūpā yā tena bhikkhunā asamāpannapubbā. Yassa catthāya kulaputtā sammadeva agārasmā anagāriyaṃ pabbajanti tadanuttaraṃ brahmacariyapariyosānaṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharatī’’ti.",
+   "zh": "在[[sāvatthī|舍卫城]]。那时，具寿[[mahākappina|摩诃劫宾那]]来见世尊。世尊遥见具寿[[mahākappina|摩诃劫宾那]]从远处走来，见后便对诸比丘说：“诸比丘，你们看见那位走来的比丘吗？他肤色白皙，身形清瘦，鼻梁高挺。”“是的，尊者。”“诸比丘，这位比丘有大神通、大威力。没有哪一种难得之等至，是这位比丘过去未曾证入过的。善男子们正是为了这个目标，才正确地舍家出家；那无上梵行的究竟，他已于现法中亲自以胜智证知、作证，具足而住。”",
+   "n": "245"
+  },
+  {
+   "idx": 42,
+   "pali": "Idamavoca bhagavā. Idaṃ vatvāna sugato athāparaṃ etadavoca satthā –",
+   "zh": "世尊如此说。善逝如此说后，导师又接着开示："
+  },
+  {
+   "idx": 69,
+   "pali": "‘‘Khattiyo seṭṭho janetasmiṃ, ye gottapaṭisārino;",
+   "zh": "“于人间，依种姓而论者，以刹帝利为最胜；”",
+   "type": "verse"
+  },
+  {
+   "idx": 70,
+   "pali": "Vijjācaraṇasampanno, so seṭṭho devamānuse.",
+   "zh": "而明行具足者，在诸天神与人间，最为殊胜。",
+   "type": "verse"
+  },
+  {
+   "idx": 71,
+   "pali": "‘‘Divā tapati ādicco, rattimābhāti candimā;",
+   "zh": "“太阳辉耀于白昼，月亮流照于夜晚；",
+   "type": "verse"
+  },
+  {
+   "idx": 72,
+   "pali": "Sannaddho khattiyo tapati, jhāyī tapati brāhmaṇo;",
+   "zh": "披铠的刹帝利光耀夺目，入禅那的婆罗门光彩闪耀；",
+   "type": "verse"
+  },
+  {
+   "idx": 73,
+   "pali": "Atha sabbamahorattiṃ , buddho tapati tejasā’’ti. ekādasamaṃ;",
+   "zh": "而于一切昼夜之中，佛陀以威德光明遍照十方。",
+   "type": "verse"
+  },
+  {
+   "idx": 102,
+   "pali": "12. Sahāyakasuttaṃ",
+   "zh": "12. [[sahāyakasutta|同伴经]]"
+  },
+  {
+   "idx": 75,
+   "pali": "Sāvatthiyaṃ viharati. Atha kho dve bhikkhū sahāyakā āyasmato mahākappinassa saddhivihārino yena bhagavā tenupasaṅkamiṃsu. Addasā kho bhagavā te bhikkhū dūratova āgacchante. Disvāna bhikkhū āmantesi – ‘‘passatha no tumhe, bhikkhave, ete bhikkhū sahāyake āgacchante kappinassa saddhivihārino’’ti? ‘‘Evaṃ, bhante’’. ‘‘Ete kho te bhikkhū mahiddhikā mahānubhāvā. Na ca sā samāpatti sulabharūpā, yā tehi bhikkhūhi asamāpannapubbā. Yassa catthāya kulaputtā sammadeva agārasmā anagāriyaṃ pabbajanti tadanuttaraṃ brahmacariyapariyosānaṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharantī’’ti.",
+   "zh": "住于[[sāvatthī|舍卫城]]。那时，有两位比丘——具寿[[mahākappina|摩诃劫宾那]]的共住弟子——结伴来到世尊处。世尊远远望见那两位比丘正走过来，见了之后，便对比丘们说：“诸比丘，你们可看见那边走来的两位比丘——[[mahākappina|摩诃劫宾那]]的共住弟子吗？”“看见了，世尊。”“诸比丘，这两位比丘具足大神力、大威力。没有哪一种难得之等至，是这些比丘过去未曾证入过的。善男子们正是为了这个目标，才正确地舍家出家，从有家走向无家；他们于此生中，以自证智证得、作证并安住于那无上的梵行终极。”",
+   "n": "246"
+  },
+  {
+   "idx": 61,
+   "pali": "Idamavoca bhagavā. Idaṃ vatvāna sugato athāparaṃ etadavoca satthā –",
+   "zh": "世尊如此说。善逝说此语已，导师又接着说："
+  },
+  {
+   "idx": 77,
+   "pali": "‘‘Sahāyā vatime bhikkhū, cirarattaṃ sametikā;",
+   "zh": "“这二位比丘，实在是久远以来的同伴，",
+   "type": "verse"
+  },
+  {
+   "idx": 78,
+   "pali": "Sameti nesaṃ saddhammo, dhamme buddhappavedite.",
+   "zh": "他们于佛陀所宣说的法中，正法和合；",
+   "type": "verse"
+  },
+  {
+   "idx": 79,
+   "pali": "‘‘Suvinītā kappinena, dhamme ariyappavedite;",
+   "zh": "“他们被摩诃劫宾那依圣者所宣说的法，善加调伏；”",
+   "type": "verse"
+  },
+  {
+   "idx": 80,
+   "pali": "Dhārenti antimaṃ dehaṃ, jetvā māraṃ savāhini’’nti. dvādasamaṃ;",
+   "zh": "他们持最后身，已降伏魔罗及其军。 第十二经。",
+   "type": "verse"
+  },
+  {
+   "idx": 103,
+   "pali": "Bhikkhusaṃyuttaṃ samattaṃ.",
+   "zh": "比丘相应终"
+  },
+  {
+   "idx": 82,
+   "pali": "Tassuddānaṃ –",
+   "zh": "其摄颂："
+  },
+  {
+   "idx": 83,
+   "pali": "Kolito upatisso ca, ghaṭo cāpi pavuccati;",
+   "zh": "拘律陀与优波提舍，及名为瓶者；",
+   "type": "verse"
+  },
+  {
+   "idx": 84,
+   "pali": "Navo sujāto bhaddi ca, visākho nando tisso ca;",
+   "zh": "那婆、苏加答、[[bhaddiya|跋提]]，及毗舍佉、难陀、帝萨；",
+   "type": "verse"
+  },
+  {
+   "idx": 85,
+   "pali": "Theranāmo ca kappino, sahāyena ca dvādasāti.",
+   "zh": "（第十经）名长老者，（第十一）摩诃劫宾那（伴），及（第十二）同伴，共十二经。",
+   "type": "verse"
+  },
+  {
+   "idx": 105,
+   "pali": "Nidānavaggo dutiyo.",
+   "zh": "因缘品第二。"
+  },
+  {
+   "idx": 104,
+   "pali": "Tassuddānaṃ –",
+   "zh": "其摄颂："
+  },
+  {
+   "idx": 88,
+   "pali": "Nidānābhisamayadhātu, anamataggena kassapaṃ;",
+   "zh": "因缘现观界，无始迦叶；",
+   "type": "verse"
+  },
+  {
+   "idx": 89,
+   "pali": "Sakkārarāhulalakkhaṇo, opamma-bhikkhunā vaggo.",
+   "zh": "恭敬[[Rāhula|罗睺罗]]相，譬喻比丘品。",
+   "type": "verse"
+  },
+  {
+   "idx": 107,
+   "pali": "Dutiyo tena pavuccatīti.",
+   "zh": "是故名为第二。"
+  },
+  {
+   "idx": 108,
+   "pali": "Nidānavaggasaṃyuttapāḷi niṭṭhitā.",
+   "zh": "因缘品相应终"
+  }
+ ]
+}

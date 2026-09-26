@@ -1,0 +1,913 @@
+{
+ "uid": 19,
+ "title": "大典尊经",
+ "nik": "DN",
+ "segs": [
+  {
+   "idx": 158,
+   "pali": "6. Mahāgovindasuttaṃ",
+   "zh": "6. [[mahāgovindasutta|大典尊经]]"
+  },
+  {
+   "idx": 1,
+   "pali": "Evaṃ me sutaṃ – ekaṃ samayaṃ bhagavā rājagahe viharati gijjhakūṭe pabbate. Atha kho pañcasikho gandhabbaputto abhikkantāya rattiyā abhikkantavaṇṇo kevalakappaṃ gijjhakūṭaṃ pabbataṃ obhāsetvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ aṭṭhāsi. Ekamantaṃ ṭhito kho pañcasikho gandhabbaputto bhagavantaṃ etadavoca – ‘‘yaṃ kho me, bhante, devānaṃ tāvatiṃsānaṃ sammukhā sutaṃ sammukhā paṭiggahitaṃ, ārocemi taṃ bhagavato’’ti. ‘‘Ārocehi me tvaṃ, pañcasikhā’’ti bhagavā avoca.",
+   "zh": "如是我闻：一时，世尊住在[[rājagaha|王舍城]]灵鹫山。那时，乾闼婆之子五髻于深夜时分，以殊胜光辉照亮整座灵鹫山后，来到世尊跟前，礼敬世尊后，立于一旁。立于一旁的乾闼婆之子五髻对世尊这样说：“尊者，我曾在[[tāvatiṃsa|三十三天]]众前有所闻、有所领受，今欲禀告世尊。”世尊说：“五髻，请说。”",
+   "n": "293"
+  },
+  {
+   "idx": 2,
+   "pali": "Devasabhā",
+   "zh": "天众集会"
+  },
+  {
+   "idx": 3,
+   "pali": "‘‘Purimāni, bhante, divasāni purimatarāni tadahuposathe pannarase pavāraṇāya puṇṇāya puṇṇamāya rattiyā kevalakappā ca devā tāvatiṃsā sudhammāyaṃ sabhāyaṃ sannisinnā honti sannipatitā; mahatī ca dibbaparisā samantato nisinnā honti, cattāro ca mahārājāno catuddisā nisinnā honti; puratthimāya disāya dhataraṭṭho mahārājā pacchimābhimukho nisinno hoti deve purakkhatvā; dakkhiṇāya disāya virūḷhako mahārājā uttarābhimukho nisinno hoti deve purakkhatvā; pacchimāya disāya virūpakkho mahārājā puratthābhimukho nisinno hoti deve purakkhatvā; uttarāya disāya vessavaṇo mahārājā dakkhiṇābhimukho nisinno hoti deve purakkhatvā. Yadā bhante, kevalakappā ca devā tāvatiṃsā sudhammāyaṃ sabhāyaṃ sannisinnā honti sannipatitā, mahatī ca dibbaparisā samantato nisinnā honti, cattāro ca mahārājāno catuddisā nisinnā honti, idaṃ nesaṃ hoti āsanasmiṃ; atha pacchā amhākaṃ āsanaṃ hoti.",
+   "zh": "“‘世尊，前不久的那些日子，有一天，正值十五布萨日、满月之夜的月圆时分，所有三十三天众都聚集在善法堂，会合一处；大群天众环坐四周，四大天王分坐四方。东方[[dhataraṭṭha|持国天王]]面向西而坐，以天众为前导；南方[[virūḷhaka|增长天王]]面向北而坐，以天众为前导；西方[[virūpakkha|广目天王]]面向东而坐，以天众为前导；北方多闻天王面向南而坐，以天众为前导。世尊，当所有三十三天众在善法堂中聚集会合，大群天众环坐四周，四大天王分坐四方之时——那是他们的座位，而后才是我们的座位。’",
+   "n": "294"
+  },
+  {
+   "idx": 4,
+   "pali": "‘‘Ye te, bhante, devā bhagavati brahmacariyaṃ caritvā adhunūpapannā tāvatiṃsakāyaṃ, te aññe deve atirocanti vaṇṇena ceva yasasā ca. Tena sudaṃ, bhante, devā tāvatiṃsā attamanā honti pamuditā pītisomanassajātā; ‘dibbā vata, bho, kāyā paripūrenti, hāyanti asurakāyā’ti.",
+   "zh": "“世尊，那些于世尊座下修习梵行、新近往生三十三天的天众，其容貌与名声皆令其余天众黯然失色。世尊，三十三天众为此满意、欣悦，生起欢喜与欢愉，说道：‘诸位，天众正在充实增长，阿修罗众正在减损啊！’"
+  },
+  {
+   "idx": 5,
+   "pali": "‘‘Atha kho, bhante, sakko devānamindo devānaṃ tāvatiṃsānaṃ sampasādaṃ viditvā imāhi gāthāhi anumodi –",
+   "zh": "“那时，世尊，帝释天神观见[[tāvatiṃsa|三十三天]]众的欢喜，便以这些偈颂随喜道：",
+   "n": "295"
+  },
+  {
+   "idx": 6,
+   "pali": "‘Modanti vata bho devā, tāvatiṃsā sahindakā;",
+   "zh": "“‘诸位，[[tāvatiṃsa|三十三天]]众与因陀罗一同，确实欢喜；",
+   "type": "verse"
+  },
+  {
+   "idx": 7,
+   "pali": "Tathāgataṃ namassantā, dhammassa ca sudhammataṃ.",
+   "zh": "礼敬如来，以及法的善法性。",
+   "type": "verse"
+  },
+  {
+   "idx": 8,
+   "pali": "Nave deve ca passantā, vaṇṇavante yasassine;",
+   "zh": "‘见新生的诸天神，容色殊妙，具足名声；",
+   "type": "verse"
+  },
+  {
+   "idx": 9,
+   "pali": "Sugatasmiṃ brahmacariyaṃ, caritvāna idhāgate.",
+   "zh": "于善逝处修梵行已，来生于此。",
+   "type": "verse"
+  },
+  {
+   "idx": 10,
+   "pali": "Te aññe atirocanti, vaṇṇena yasasāyunā;",
+   "zh": "‘他们以容色、名声与寿命，超胜于其余诸天；",
+   "type": "verse"
+  },
+  {
+   "idx": 11,
+   "pali": "Sāvakā bhūripaññassa, visesūpagatā idha.",
+   "zh": "广慧者的声闻弟子，于此已证殊胜。",
+   "type": "verse"
+  },
+  {
+   "idx": 12,
+   "pali": "Idaṃ disvāna nandanti, tāvatiṃsā sahindakā;",
+   "zh": "‘见此，[[tāvatiṃsa|三十三天]]与因陀罗共欢喜，",
+   "type": "verse"
+  },
+  {
+   "idx": 13,
+   "pali": "Tathāgataṃ namassantā, dhammassa ca sudhammata’nti.",
+   "zh": "礼敬如来，亦礼敬法之善法性。’",
+   "type": "verse"
+  },
+  {
+   "idx": 14,
+   "pali": "‘‘Tena sudaṃ , bhante, devā tāvatiṃsā bhiyyoso mattāya attamanā honti pamuditā pītisomanassajātā; ‘dibbā vata, bho, kāyā paripūrenti, hāyanti asurakāyā’’’ti.",
+   "zh": "“尊者，正是以此之故，[[tāvatiṃsa|三十三天]]众比先前更心满意足，欢喜愉悦，生起欣悦与喜乐，说道：‘诸位，天众确在增长，阿修罗众正在衰减啊！’”"
+  },
+  {
+   "idx": 15,
+   "pali": "Aṭṭha yathābhuccavaṇṇā",
+   "zh": "八种如实之赞"
+  },
+  {
+   "idx": 16,
+   "pali": "‘‘Atha kho, bhante, sakko devānamindo devānaṃ tāvatiṃsānaṃ sampasādaṃ viditvā deve tāvatiṃse āmantesi – ‘iccheyyātha no tumhe, mārisā, tassa bhagavato aṭṭha yathābhucce vaṇṇe sotu’nti? ‘Icchāma mayaṃ, mārisa, tassa bhagavato aṭṭha yathābhucce vaṇṇe sotu’nti. Atha kho, bhante, sakko devānamindo devānaṃ tāvatiṃsānaṃ bhagavato aṭṭha yathābhucce vaṇṇe payirudāhāsi – ‘taṃ kiṃ maññanti, bhonto devā tāvatiṃsā? Yāvañca so bhagavā bahujanahitāya paṭipanno bahujanasukhāya lokānukampāya atthāya hitāya sukhāya devamanussānaṃ. Evaṃ bahujanahitāya paṭipannaṃ bahujanasukhāya lokānukampāya atthāya hitāya sukhāya devamanussānaṃ imināpaṅgena samannāgataṃ satthāraṃ neva atītaṃse samanupassāma, na panetarahi, aññatra tena bhagavatā.",
+   "zh": "“尊者，那时，帝释天神感知三十三天众的净信后，对他们说：‘诸位贤者，你们想听我以八种如实之语赞叹彼世尊吗？’‘尊者，我们愿闻。’于是，尊者，帝释天神便向三十三天众宣说对世尊的八种如实赞叹：‘三十三天的贤者们，你们意下如何？彼世尊为众人的利益、为众人的安乐、为悲悯世间、为天人的利乐与福祉而行。如此为众人利益安乐、悲悯世间、为天人利乐福祉的导师——具足这一特质的导师，我们在过去未曾得见，于现在也无有，唯除彼世尊。",
+   "n": "296"
+  },
+  {
+   "idx": 17,
+   "pali": "‘‘Svākkhāto kho pana tena bhagavatā dhammo sandiṭṭhiko akāliko ehipassiko opaneyyiko paccattaṃ veditabbo viññūhi. Evaṃ opaneyyikassa dhammassa desetāraṃ imināpaṅgena samannāgataṃ satthāraṃ neva atītaṃse samanupassāma, na panetarahi, aññatra tena bhagavatā.",
+   "zh": "“再者，彼世尊所善说的法，是现证的、无时的、来见的、引导向上的，为智者各自证知。能够教导如此引导向上之法的导师，具足此一支分者，在过去我们不见，在现在也不见，唯除彼世尊。"
+  },
+  {
+   "idx": 18,
+   "pali": "‘‘Idaṃ kusalanti kho pana tena bhagavatā supaññattaṃ, idaṃ akusalanti supaññattaṃ. Idaṃ sāvajjaṃ idaṃ anavajjaṃ, idaṃ sevitabbaṃ idaṃ na sevitabbaṃ, idaṃ hīnaṃ idaṃ paṇītaṃ, idaṃ kaṇhasukkasappaṭibhāganti supaññattaṃ. Evaṃ kusalākusalasāvajjānavajjasevitabbāsevitabbahīna-paṇītakaṇhasukkasappaṭibhāgānaṃ dhammānaṃ paññapetāraṃ imināpaṅgena samannāgataṃ satthāraṃ neva atītaṃse samanupassāma, na panetarahi, aññatra tena bhagavatā.",
+   "zh": "“再者，彼世尊善分别：‘这是善的’与‘这是不善的’；‘这是有过失的’与‘这是无过失的’；‘这是应修习的’与‘这是不应修习的’；‘这是低劣的’与‘这是殊胜的’；‘这是黑白相对之法’。如此善分别善与不善、有过失与无过失、应修习与不应修习、低劣与殊胜、黑白相对之法的导师，具足此一支分者，过去不见，现在亦不见，唯除彼世尊。"
+  },
+  {
+   "idx": 19,
+   "pali": "‘‘Supaññattā kho pana tena bhagavatā sāvakānaṃ nibbānagāminī paṭipadā, saṃsandati nibbānañca paṭipadā ca. Seyyathāpi nāma gaṅgodakaṃ yamunodakena saṃsandati sameti, evameva supaññattā tena bhagavatā sāvakānaṃ nibbānagāminī paṭipadā, saṃsandati nibbānañca paṭipadā ca. Evaṃ nibbānagāminiyā paṭipadāya paññapetāraṃ imināpaṅgena samannāgataṃ satthāraṃ neva atītaṃse samanupassāma, na panetarahi, aññatra tena bhagavatā.",
+   "zh": "“再者，彼世尊为弟子们善巧地指明了通向涅槃的道路，道路与涅槃相融无间。犹如恒河水与耶牟那河水汇合交融；同样地，彼世尊为弟子们善巧地指明了通向涅槃的道路，道路与涅槃相融无间。像这样能指明涅槃之道的导师，具足这一支分，我们在过去不曾见，现在也不曾见，唯除彼世尊。"
+  },
+  {
+   "idx": 20,
+   "pali": "‘‘Abhinipphanno kho pana tassa bhagavato lābho abhinipphanno siloko, yāva maññe khattiyā sampiyāyamānarūpā viharanti, vigatamado kho pana so bhagavā āhāraṃ āhāreti. Evaṃ vigatamadaṃ āhāraṃ āharayamānaṃ imināpaṅgena samannāgataṃ satthāraṃ neva atītaṃse samanupassāma, na panetarahi, aññatra tena bhagavatā.",
+   "zh": "“彼世尊确实获得了利养与名声，以至于让人觉得，连刹帝利们都满怀喜爱地亲近他。然而，世尊受用饮食时全无骄慢。像这样受用饮食而离除骄慢——具足这一支分的导师，我们在过去未曾见过，现在也未曾见过，唯除彼世尊。"
+  },
+  {
+   "idx": 21,
+   "pali": "‘‘Laddhasahāyo kho pana so bhagavā sekhānañceva paṭipannānaṃ khīṇāsavānañca vusitavataṃ. Te bhagavā apanujja ekārāmataṃ anuyutto viharati. Evaṃ ekārāmataṃ anuyuttaṃ imināpaṅgena samannāgataṃ satthāraṃ neva atītaṃse samanupassāma, na panetarahi, aññatra tena bhagavatā.",
+   "zh": "“彼世尊确实有同伴，那就是正在修学的有学，以及已尽诸漏、梵行已立的圣者。世尊遣离他们后，便乐于独处而住。像这样乐于独处——具足这一支分的导师，我们在过去未曾见过，现在也未曾见过，唯除彼世尊。"
+  },
+  {
+   "idx": 22,
+   "pali": "‘‘Yathāvādī kho pana so bhagavā tathākārī, yathākārī tathāvādī, iti yathāvādī tathākārī, yathākārī tathāvādī. Evaṃ dhammānudhammappaṭipannaṃ imināpaṅgena samannāgataṃ satthāraṃ neva atītaṃse samanupassāma, na panetarahi, aññatra tena bhagavatā.",
+   "zh": "“彼世尊确实是如其所言而行，如其所行而言。他正是这样言行一致。如此行持与法相应、与法相顺——具足这一支分的导师，过去我们不曾得见，现在也未曾见到，唯除彼世尊。"
+  },
+  {
+   "idx": 23,
+   "pali": "‘‘Tiṇṇavicikiccho kho pana so bhagavā vigatakathaṃkatho pariyositasaṅkappo ajjhāsayaṃ ādibrahmacariyaṃ. Evaṃ tiṇṇavicikicchaṃ vigatakathaṃkathaṃ pariyositasaṅkappaṃ ajjhāsayaṃ ādibrahmacariyaṃ imināpaṅgena samannāgataṃ satthāraṃ neva atītaṃse samanupassāma, na panetarahi, aññatra tena bhagavatā’ti.",
+   "zh": "“彼世尊确已度越疑惑，断除犹豫，志向圆满成就，一心决意于根本的梵行。像这样，度越疑惑、断除犹豫、志向究竟、决意于根本梵行——具足这一支分的导师，过去我们不曾得见，现在也未曾见到，唯除彼世尊。”"
+  },
+  {
+   "idx": 24,
+   "pali": "‘‘Ime kho, bhante, sakko devānamindo devānaṃ tāvatiṃsānaṃ bhagavato aṭṭha yathābhucce vaṇṇe payirudāhāsi. Tena sudaṃ, bhante, devā tāvatiṃsā bhiyyoso mattāya attamanā honti pamuditā pītisomanassajātā bhagavato aṭṭha yathābhucce vaṇṇe sutvā. Tatra, bhante, ekacce devā evamāhaṃsu – ‘aho vata, mārisā, cattāro sammāsambuddhā loke uppajjeyyuṃ dhammañca deseyyuṃ yathariva bhagavā. Tadassa bahujanahitāya bahujanasukhāya lokānukampāya atthāya hitāya sukhāya devamanussāna’nti. Ekacce devā evamāhaṃsu – ‘tiṭṭhantu, mārisā, cattāro sammāsambuddhā, aho vata, mārisā, tayo sammāsambuddhā loke uppajjeyyuṃ dhammañca deseyyuṃ yathariva bhagavā. Tadassa bahujanahitāya bahujanasukhāya lokānukampāya atthāya hitāya sukhāya devamanussāna’nti. Ekacce devā evamāhaṃsu – ‘tiṭṭhantu, mārisā, tayo sammāsambuddhā, aho vata, mārisā, dve sammāsambuddhā loke uppajjeyyuṃ dhammañca deseyyuṃ yathariva bhagavā. Tadassa bahujanahitāya bahujanasukhāya lokānukampāya atthāya hitāya sukhāya devamanussāna’nti.",
+   "zh": "“尊者，帝释天神在三十三天众中宣说了世尊的八种如实赞叹。尊者，听闻世尊的这八种如实赞叹后，三十三天众愈发欢喜、踊跃，心生喜乐。尊者，于彼处，有些天人这样说：‘啊，但愿有四位正自觉者出现于世，如同世尊那样说法。那将为众多人带来利益，为众多人带来安乐，出于对世间的悲悯，为天人的福利、利益与安乐。’有些天人这样说：‘且不说四位正自觉者，诸位贤友，但愿有三位正自觉者出现于世，如同世尊那样说法。那将为众多人带来利益，为众多人带来安乐，出于对世间的悲悯，为天人的福利、利益与安乐。’还有些天人这样说：‘且不说三位正自觉者，诸位贤友，但愿有两位正自觉者出现于世，如同世尊那样说法。那将为众多人带来利益，为众多人带来安乐，出于对世间的悲悯，为天人的福利、利益与安乐。’",
+   "n": "297"
+  },
+  {
+   "idx": 25,
+   "pali": "‘‘Evaṃ vutte , bhante, sakko devānamindo deve tāvatiṃse etadavoca – ‘aṭṭhānaṃ kho etaṃ, mārisā, anavakāso, yaṃ ekissā lokadhātuyā dve arahanto sammāsambuddhā apubbaṃ acarimaṃ uppajjeyyuṃ, netaṃ ṭhānaṃ vijjati. Aho vata, mārisā, so bhagavā appābādho appātaṅko ciraṃ dīghamaddhānaṃ tiṭṭheyya. Tadassa bahujanahitāya bahujanasukhāya lokānukampāya atthāya hitāya sukhāya devamanussāna’nti. Atha kho, bhante, yenatthena devā tāvatiṃsā sudhammāyaṃ sabhāyaṃ sannisinnā honti sannipatitā, taṃ atthaṃ cintayitvā taṃ atthaṃ mantayitvā vuttavacanāpi taṃ cattāro mahārājāno tasmiṃ atthe honti. Paccānusiṭṭhavacanāpi taṃ cattāro mahārājāno tasmiṃ atthe honti, sakesu sakesu āsanesu ṭhitā avipakkantā.",
+   "zh": "“世尊，当这样说时，帝释天神对三十三天众说道：‘诸位贤者，这是不可能的，绝无可能——在同一世界界中，两位阿拉汉、正自觉者同时出现，这是不可能的。诸位贤者，愿彼世尊少病少恼，长久住世。那将为众人带来利益，为众人带来安乐，为世间带来哀愍，为天人的福祉、利益与安乐。’世尊，那时，三十三天众为某事而在善法堂集会聚坐，他们思惟其事、商议其事之后，四大天王于此事上也已受告；四大天王于此事上也已受教诫，各自立于自己的座位，未曾离去。",
+   "n": "298"
+  },
+  {
+   "idx": 26,
+   "pali": "Te vuttavākyā rājāno, paṭiggayhānusāsaniṃ;",
+   "zh": "“诸王已受教言，皆领受教诫；”",
+   "type": "verse"
+  },
+  {
+   "idx": 27,
+   "pali": "Vippasannamanā santā, aṭṭhaṃsu samhi āsaneti.",
+   "zh": "他们心净安和，各各立于己座。",
+   "type": "verse"
+  },
+  {
+   "idx": 28,
+   "pali": "‘‘Atha kho, bhante, uttarāya disāya uḷāro āloko sañjāyi, obhāso pāturahosi atikkammeva devānaṃ devānubhāvaṃ. Atha kho, bhante, sakko devānamindo deve tāvatiṃse āmantesi – ‘yathā kho, mārisā, nimittāni dissanti, uḷāro āloko sañjāyati, obhāso pātubhavati , brahmā pātubhavissati; brahmuno hetaṃ pubbanimittaṃ pātubhāvāya, yadidaṃ āloko sañjāyati obhāso pātubhavatīti.",
+   "zh": "“尊者，那时，北方现起广大庄严的光芒，显发光明，胜过诸天神自身的辉耀。尊者，于是天帝释告[[tāvatiṃsa|三十三天]]众：‘贤友，如征兆所示——广大光芒生起，光明显现——梵天神即将显现。这正是梵天神现前的征兆，亦即光芒生起，光明显现。’",
+   "n": "299"
+  },
+  {
+   "idx": 29,
+   "pali": "‘Yathā nimittā dissanti, brahmā pātubhavissati;",
+   "zh": "‘如征兆所示，梵天神将显现；",
+   "type": "verse"
+  },
+  {
+   "idx": 30,
+   "pali": "Brahmuno hetaṃ nimittaṃ, obhāso vipulo mahā’ti.",
+   "zh": "这是梵天神的征兆：广大殊胜的光明。’",
+   "type": "verse"
+  },
+  {
+   "idx": 31,
+   "pali": "Sanaṅkumārakathā",
+   "zh": "常童子梵天论"
+  },
+  {
+   "idx": 32,
+   "pali": "‘‘Atha kho, bhante, devā tāvatiṃsā yathāsakesu āsanesu nisīdiṃsu – ‘obhāsametaṃ ñassāma, yaṃvipāko bhavissati, sacchikatvāva naṃ gamissāmā’ti. Cattāropi mahārājāno yathāsakesu āsanesu nisīdiṃsu – ‘obhāsametaṃ ñassāma, yaṃvipāko bhavissati, sacchikatvāva naṃ gamissāmā’ti. Idaṃ sutvā devā tāvatiṃsā ekaggā samāpajjiṃsu – ‘obhāsametaṃ ñassāma, yaṃvipāko bhavissati, sacchikatvāva naṃ gamissāmā’ti.",
+   "zh": "“尊者，于是，三十三天众各坐本位，心想：“我们先弄清楚这光明之相将带来何种果报，亲自证见之后再去。”四大天王也各坐本位，心想：“我们先弄清楚这光明之相将带来何种果报，亲自证见之后再去。”听闻此事，三十三天众同此一心，齐声道：‘我们先弄清楚这光明之相将带来何种果报，亲自证见之后再去。’”",
+   "n": "300"
+  },
+  {
+   "idx": 33,
+   "pali": "‘‘Yadā, bhante, brahmā sanaṅkumāro devānaṃ tāvatiṃsānaṃ pātubhavati, oḷārikaṃ attabhāvaṃ abhinimminitvā pātubhavati. Yo kho pana, bhante, brahmuno pakativaṇṇo, anabhisambhavanīyo so devānaṃ tāvatiṃsānaṃ cakkhupathasmiṃ. Yadā, bhante, brahmā sanaṅkumāro devānaṃ tāvatiṃsānaṃ pātubhavati, so aññe deve atirocati vaṇṇena ceva yasasā ca. Seyyathāpi, bhante, sovaṇṇo viggaho mānusaṃ viggahaṃ atirocati, evameva kho, bhante, yadā brahmā sanaṅkumāro devānaṃ tāvatiṃsānaṃ pātubhavati, so aññe deve atirocati vaṇṇena ceva yasasā ca. Yadā, bhante, brahmā sanaṅkumāro devānaṃ tāvatiṃsānaṃ pātubhavati, na tassaṃ parisāyaṃ koci devo abhivādeti vā paccuṭṭheti vā āsanena vā nimanteti. Sabbeva tuṇhībhūtā pañjalikā pallaṅkena nisīdanti – ‘yassadāni devassa pallaṅkaṃ icchissati brahmā sanaṅkumāro, tassa devassa pallaṅke nisīdissatī’ti. Yassa kho pana, bhante, devassa brahmā sanaṅkumāro pallaṅke nisīdati, uḷāraṃ so labhati devo vedapaṭilābhaṃ, uḷāraṃ so labhati devo somanassapaṭilābhaṃ . Seyyathāpi, bhante, rājā khattiyo muddhāvasitto adhunābhisitto rajjena, uḷāraṃ so labhati vedapaṭilābhaṃ, uḷāraṃ so labhati somanassapaṭilābhaṃ, evameva kho, bhante, yassa devassa brahmā sanaṅkumāro pallaṅke nisīdati, uḷāraṃ so labhati devo vedapaṭilābhaṃ, uḷāraṃ so labhati devo somanassapaṭilābhaṃ. Atha, bhante, brahmā sanaṅkumāro devānaṃ tāvatiṃsānaṃ sampasādaṃ viditvā antarahito imāhi gāthāhi anumodi –",
+   "zh": "“尊者，当梵天神常童子梵天神在三十三天众前显现时，先化作粗显身相，而后才显现。尊者，梵天神的本来容貌，三十三天众的眼根不能及。尊者，当梵天神常童子梵天神在三十三天众前显现时，他以容色与名声超胜其余诸天神。尊者，正如金身胜于人身，尊者，当梵天神常童子梵天神在三十三天众前显现时，他也同样以容色与名声超胜其余诸天神。尊者，当梵天神常童子梵天神在三十三天众前显现时，在那集会中，没有一位天人上前作礼、起身相迎或以座相让。诸天神皆默然合掌，跏趺而坐，心想：‘梵天神常童子梵天神若想在谁座而坐，便就谁座而坐。’尊者，梵天神常童子梵天神在哪位天人的座位上坐下，那位天人所受之喜便殊胜非常，所受之悦便殊胜非常。尊者，犹如新登王位的刹帝利灌顶王，他获得广大之喜、广大之悦；同样地，尊者，梵天神常童子梵天神在哪位天人的座位上坐下，那位天人便获得广大之喜、广大之悦。尊者，那时，梵天神常童子梵天神知悉三十三天众内心的净信后，即行隐没，以如是偈颂作随喜：”"
+  },
+  {
+   "idx": 34,
+   "pali": "‘Modanti vata bho devā, tāvatiṃsā sahindakā;",
+   "zh": "“‘诸位，[[tāvatiṃsa|三十三天]]众与因陀罗一同，确实欢喜；",
+   "type": "verse"
+  },
+  {
+   "idx": 35,
+   "pali": "Tathāgataṃ namassantā, dhammassa ca sudhammataṃ.",
+   "zh": "礼敬如来，以及法的善法性。",
+   "type": "verse"
+  },
+  {
+   "idx": 36,
+   "pali": "‘Nave deve ca passantā, vaṇṇavante yasassine;",
+   "zh": "‘见新生的诸天神，容色殊妙，具足名声；",
+   "type": "verse"
+  },
+  {
+   "idx": 37,
+   "pali": "Sugatasmiṃ brahmacariyaṃ, caritvāna idhāgate.",
+   "zh": "于善逝座下修梵行已，来至此间。",
+   "type": "verse"
+  },
+  {
+   "idx": 38,
+   "pali": "‘Te aññe atirocanti, vaṇṇena yasasāyunā;",
+   "zh": "‘他们以容色、名声与寿命，超胜于其余诸天；",
+   "type": "verse"
+  },
+  {
+   "idx": 39,
+   "pali": "Sāvakā bhūripaññassa, visesūpagatā idha.",
+   "zh": "广慧者的声闻弟子，于此已证殊胜。",
+   "type": "verse"
+  },
+  {
+   "idx": 40,
+   "pali": "‘Idaṃ disvāna nandanti, tāvatiṃsā sahindakā;",
+   "zh": "‘见此，[[tāvatiṃsa|三十三天]]与因陀罗共欢喜，",
+   "type": "verse"
+  },
+  {
+   "idx": 41,
+   "pali": "Tathāgataṃ namassantā, dhammassa ca sudhammata’nti.",
+   "zh": "礼敬如来，及法之善正。’",
+   "type": "verse"
+  },
+  {
+   "idx": 42,
+   "pali": "‘‘Imamatthaṃ, bhante, brahmā sanaṅkumāro abhāsittha. Imamatthaṃ, bhante , brahmuno sanaṅkumārassa bhāsato aṭṭhaṅgasamannāgato saro hoti vissaṭṭho ca viññeyyo ca mañju ca savanīyo ca bindu ca avisārī ca gambhīro ca ninnādī ca. Yathāparisaṃ kho pana, bhante, brahmā sanaṅkumāro sarena viññāpeti, na cassa bahiddhā parisāya ghoso niccharati. Yassa kho pana, bhante, evaṃ aṭṭhaṅgasamannāgato saro hoti, so vuccati ‘brahmassaro’ti. Atha kho, bhante, devā tāvatiṃsā brahmānaṃ sanaṅkumāraṃ etadavocuṃ – ‘sādhu, mahābrahme, etadeva mayaṃ saṅkhāya modāma; atthi ca sakkena devānamindena tassa bhagavato aṭṭha yathābhuccā vaṇṇā bhāsitā; te ca mayaṃ saṅkhāya modāmā’ti.",
+   "zh": "“尊者，常童子梵天神宣说了此义。尊者，当常童子梵天神宣说此义时，他的音声具足八支：清晰、易了、悦耳、可闻、圆润、不散、深沉、洪亮。尊者，常童子梵天神以音声令会众遍知，而其音声不传于会众之外。尊者，凡是具足如此八支之音声者，便称之为‘梵音’。尊者，那时，[[tāvatiṃsa|三十三天]]对常童子梵天神这样说：‘善哉，大梵天神！我们正是因此而得欢喜；而帝释天神已如实赞叹世尊的八事，我们亦因此而得欢喜。’”",
+   "n": "301"
+  },
+  {
+   "idx": 43,
+   "pali": "Aṭṭha yathābhuccavaṇṇā",
+   "zh": "八种如实赞叹"
+  },
+  {
+   "idx": 44,
+   "pali": "‘‘Atha , bhante, brahmā sanaṅkumāro sakkaṃ devānamindaṃ etadavoca – ‘sādhu, devānaminda, mayampi tassa bhagavato aṭṭha yathābhucce vaṇṇe suṇeyyāmā’ti. ‘Evaṃ mahābrahme’ti kho, bhante, sakko devānamindo brahmuno sanaṅkumārassa bhagavato aṭṭha yathābhucce vaṇṇe payirudāhāsi.",
+   "zh": "“尊者，那时，常童子梵天神对帝释天神这样说：‘善哉，天王，我也想听闻彼世尊的八种如实赞叹。’尊者，帝释天神回答说：‘好的，大梵天神。’随即向常童子梵天神宣说了世尊的八种如实赞叹。”",
+   "n": "302"
+  },
+  {
+   "idx": 45,
+   "pali": "‘‘Taṃ kiṃ maññati, bhavaṃ mahābrahmā? Yāvañca so bhagavā bahujanahitāya paṭipanno bahujanasukhāya lokānukampāya atthāya hitāya sukhāya devamanussānaṃ. Evaṃ bahujanahitāya paṭipannaṃ bahujanasukhāya lokānukampāya atthāya hitāya sukhāya devamanussānaṃ imināpaṅgena samannāgataṃ satthāraṃ neva atītaṃse samanupassāma, na panetarahi, aññatra tena bhagavatā.",
+   "zh": "“‘尊贵的大梵天神，您认为如何？彼世尊是为了众生的利益、众生的安乐而修行，出于对世间的悲悯，为了人天的利益与安乐。像这样，为了众生的利益、众生的安乐而修行，出于对世间的悲悯，为了人天的利益与安乐，具足此一特质的导师，我们不论在过去、在现在，除了彼世尊之外，都找不到第二位。’"
+  },
+  {
+   "idx": 46,
+   "pali": "‘‘Svākkhāto kho pana tena bhagavatā dhammo sandiṭṭhiko akāliko ehipassiko opaneyyiko paccattaṃ veditabbo viññūhi. Evaṃ opaneyyikassa dhammassa desetāraṃ imināpaṅgena samannāgataṃ satthāraṃ neva atītaṃse samanupassāma, na panetarahi, aññatra tena bhagavatā.",
+   "zh": "“彼世尊所善说的法是自见的、无时的、来见的、可引导的、智者应各自了知的。对于如此说示可引导之法的导师，具足此特质者，我们在过去未曾得见，现在也未曾得见，唯除彼世尊。”"
+  },
+  {
+   "idx": 47,
+   "pali": "‘‘Idaṃ kusala’nti kho pana tena bhagavatā supaññattaṃ, ‘idaṃ akusala’nti supaññattaṃ, ‘idaṃ sāvajjaṃ idaṃ anavajjaṃ, idaṃ sevitabbaṃ idaṃ na sevitabbaṃ, idaṃ hīnaṃ idaṃ paṇītaṃ, idaṃ kaṇhasukkasappaṭibhāga’nti supaññattaṃ. Evaṃ kusalākusalasāvajjānavajjasevitabbāsevitabbahīnapaṇītakaṇhasukkasappaṭibhāgānaṃ dhammānaṃ paññāpetāraṃ. Imināpaṅgena samannāgataṃ satthāraṃ neva atītaṃse samanupassāma, na panetarahi, aññatra tena bhagavatā.",
+   "zh": "“彼世尊善加施设了：‘此是善’、‘此是不善’，‘此是有罪’、‘此是无罪’，‘此应亲近’、‘此不应亲近’，‘此是低劣’、‘此是殊胜’，‘此是黑白相对’。对于如此善能施设善与不善、有罪与无罪、应亲近与不应亲近、低劣与殊胜、黑白相对诸法的导师，具足此特质者，我们在过去未曾得见，如今也未曾得见，唯除彼世尊。”"
+  },
+  {
+   "idx": 48,
+   "pali": "‘‘Supaññattā kho pana tena bhagavatā sāvakānaṃ nibbānagāminī paṭipadā saṃsandati nibbānañca paṭipadā ca. Seyyathāpi nāma gaṅgodakaṃ yamunodakena saṃsandati sameti, evameva supaññattā tena bhagavatā sāvakānaṃ nibbānagāminī paṭipadā saṃsandati nibbānañca paṭipadā ca. Evaṃ nibbānagāminiyā paṭipadāya paññāpetāraṃ imināpaṅgena samannāgataṃ satthāraṃ neva atītaṃse samanupassāma, na panetarahi, aññatra tena bhagavatā.",
+   "zh": "“彼世尊为弟子们善施设了导向涅槃之道，涅槃与道相合。犹如恒河之水与耶牟那河之水会合交融，同样地，彼世尊为弟子们善施设了导向涅槃之道，涅槃与道相合。对于如此施设导向涅槃之道的导师，具足此特质者，我们在过去未曾得见，现在也未曾得见，唯除彼世尊。”"
+  },
+  {
+   "idx": 49,
+   "pali": "‘‘Abhinipphanno kho pana tassa bhagavato lābho abhinipphanno siloko, yāva maññe khattiyā sampiyāyamānarūpā viharanti. Vigatamado kho pana so bhagavā āhāraṃ āhāreti. Evaṃ vigatamadaṃ āhāraṃ āharayamānaṃ imināpaṅgena samannāgataṃ satthāraṃ neva atītaṃse samanupassāma, na panetarahi, aññatra tena bhagavatā.",
+   "zh": "“彼世尊已获得利养与名声，乃至刹帝利们也都对他亲爱敬重而安住。然而彼世尊离慢而受用饮食。像这样离慢受用饮食，具足此一特质的导师，我们于过去未曾见过，于现在亦未见到，唯除彼世尊。”"
+  },
+  {
+   "idx": 50,
+   "pali": "‘‘Laddhasahāyo kho pana so bhagavā sekhānañceva paṭipannānaṃ khīṇāsavānañca vusitavataṃ, te bhagavā apanujja ekārāmataṃ anuyutto viharati. Evaṃ ekārāmataṃ anuyuttaṃ imināpaṅgena samannāgataṃ satthāraṃ neva atītaṃse samanupassāma, na panetarahi, aññatra tena bhagavatā.",
+   "zh": "“彼世尊得有了伴侣——那些有学、行道者与漏尽、所作已办者；然而世尊却不倚伴而住，乐于独处。像这样乐于独处，具足此一特质的导师，我们于过去未曾见过，于现在亦未见到，唯除彼世尊。”"
+  },
+  {
+   "idx": 51,
+   "pali": "‘‘Yathāvādī kho pana so bhagavā tathākārī, yathākārī tathāvādī; iti yathāvādī tathākārī, yathākārī tathāvādī. Evaṃ dhammānudhammappaṭippannaṃ imināpaṅgena samannāgataṃ satthāraṃ neva atītaṃse samanupassāma, na panetarahi, aññatra tena bhagavatā.",
+   "zh": "“彼世尊言如其行，行如其言，言行相应。他正是这样随法而行。像这样随法而行，具足此一特质的导师，我们于过去未曾见过，于现在亦未见到，唯除彼世尊。”"
+  },
+  {
+   "idx": 52,
+   "pali": "‘‘Tiṇṇavicikiccho kho pana so bhagavā vigatakathaṃkatho pariyositasaṅkappo ajjhāsayaṃ ādibrahmacariyaṃ . Evaṃ tiṇṇavicikicchaṃ vigatakathaṃkathaṃ pariyositasaṅkappaṃ ajjhāsayaṃ ādibrahmacariyaṃ. Imināpaṅgena samannāgataṃ satthāraṃ neva atītaṃse samanupassāma, na panetarahi, aññatra tena bhagavatā’ti.",
+   "zh": "“世尊已度疑、离犹豫，志向圆满，达其究竟，安住于根本梵行。对于如此度疑、离犹豫、志向圆满、已达究竟、安住根本梵行、具足这些特质的导师，过去未曾见，现在亦不见，唯有彼世尊。”"
+  },
+  {
+   "idx": 53,
+   "pali": "‘‘Ime kho, bhante, sakko devānamindo brahmuno sanaṅkumārassa bhagavato aṭṭha yathābhucce vaṇṇe payirudāhāsi. Tena sudaṃ, bhante, brahmā sanaṅkumāro attamano hoti pamudito pītisomanassajāto bhagavato aṭṭha yathābhucce vaṇṇe sutvā. Atha, bhante, brahmā sanaṅkumāro oḷārikaṃ attabhāvaṃ abhinimminitvā kumāravaṇṇī hutvā pañcasikho devānaṃ tāvatiṃsānaṃ pāturahosi . So vehāsaṃ abbhuggantvā ākāse antalikkhe pallaṅkena nisīdi. Seyyathāpi, bhante, balavā puriso supaccatthate vā pallaṅke same vā bhūmibhāge pallaṅkena nisīdeyya, evameva kho, bhante, brahmā sanaṅkumāro vehāsaṃ abbhuggantvā ākāse antalikkhe pallaṅkena nisīditvā deve tāvatiṃse āmantesi –",
+   "zh": "“尊者！帝释天神如此如实向常童子梵天神称叹世尊的八种功德。尊者！常童子梵天神听到世尊这八种真实功德后，心大欢喜，欣悦踊跃，生起喜乐。接着，尊者！常童子梵天神化作粗显之身，显现五髻童子的形貌，出现在三十三天众面前；他升至虚空，于空中结跏趺坐。尊者！犹如一位大力士在铺设的座垫上、或在平坦的地上结跏趺坐，常童子梵天神也像那样升入虚空，结跏趺坐之后，对三十三天众说道：",
+   "n": "303"
+  },
+  {
+   "idx": 54,
+   "pali": "Govindabrāhmaṇavatthu",
+   "zh": "[[govinda|典尊]]婆罗门事"
+  },
+  {
+   "idx": 55,
+   "pali": "‘‘Taṃ kiṃ maññanti, bhonto devā tāvatiṃsā, yāva dīgharattaṃ mahāpaññova so bhagavā ahosi. Bhūtapubbaṃ, bho, rājā disampati nāma ahosi. Disampatissa rañño govindo nāma brāhmaṇo purohito ahosi. Disampatissa rañño reṇu nāma kumāro putto ahosi. Govindassa brāhmaṇassa jotipālo nāma māṇavo putto ahosi. Iti reṇu ca rājaputto jotipālo ca māṇavo aññe ca cha khattiyā iccete aṭṭha sahāyā ahesuṃ. Atha kho, bho, ahorattānaṃ accayena govindo brāhmaṇo kālamakāsi. Govinde brāhmaṇe kālaṅkate rājā disampati paridevesi – ‘‘yasmiṃ vata, bho, mayaṃ samaye govinde brāhmaṇe sabbakiccāni sammā vossajjitvā pañcahi kāmaguṇehi samappitā samaṅgībhūtā paricārema, tasmiṃ no samaye govindo brāhmaṇo kālaṅkato’’ti. Evaṃ vutte bho reṇu rājaputto rājānaṃ disampatiṃ etadavoca – ‘‘mā kho tvaṃ, deva, govinde brāhmaṇe kālaṅkate atibāḷhaṃ paridevesi. Atthi, deva, govindassa brāhmaṇassa jotipālo nāma māṇavo putto paṇḍitataro ceva pitarā, alamatthadasataro ceva pitarā; yepissa pitā atthe anusāsi, tepi jotipālasseva māṇavassa anusāsaniyā’’ti. ‘‘Evaṃ kumārā’’ti? ‘‘Evaṃ devā’’ti.",
+   "zh": "“[[tāvatiṃsa|三十三天]]诸天神，你们认为如何？彼世尊，从久远以来就是大慧者。诸天神，过去有一位名叫地主王的国王。地主王有位婆罗门国师，名为[[govinda|典尊]]。地主王的王子名为雷努。[[govinda|典尊]]婆罗门的儿子是学童，名为[[jotipāla|乔帝巴喇]]。如此，雷努王子、[[jotipāla|乔帝巴喇]]学童以及其他六位刹帝利，这八人结为好友。诸天神，随着时日的迁流，[[govinda|典尊]]婆罗门去世了。[[govinda|典尊]]婆罗门去世后，地主王悲泣道：‘当我们把一切事务完全托付给[[govinda|典尊]]婆罗门，自己具足、享有五种欲功德时，就在那时，[[govinda|典尊]]婆罗门去世了。’听了这话，诸天神，雷努王子对地主王这样说：‘天王，[[govinda|典尊]]婆罗门去世，您切勿过度悲泣。天王，[[govinda|典尊]]婆罗门有位儿子名叫[[jotipāla|乔帝巴喇]]学童，他比父亲更有智慧，更善见义理；他父亲所教授的义理，也应当由[[jotipāla|乔帝巴喇]]学童来教授。’‘王子，是这样吗？’‘天王，是这样。’”",
+   "n": "304"
+  },
+  {
+   "idx": 56,
+   "pali": "Mahāgovindavatthu",
+   "zh": "大典尊事"
+  },
+  {
+   "idx": 57,
+   "pali": "‘‘Atha kho, bho, rājā disampati aññataraṃ purisaṃ āmantesi – ‘‘ehi tvaṃ, ambho purisa, yena jotipālo nāma māṇavo tenupasaṅkama; upasaṅkamitvā jotipālaṃ māṇavaṃ evaṃ vadehi – ‘bhavamatthu bhavantaṃ jotipālaṃ, rājā disampati bhavantaṃ jotipālaṃ māṇavaṃ āmantayati, rājā disampati bhoto jotipālassa māṇavassa dassanakāmo’’’ti. ‘‘Evaṃ, devā’’ti kho, bho, so puriso disampatissa rañño paṭissutvā yena jotipālo māṇavo tenupasaṅkami; upasaṅkamitvā jotipālaṃ māṇavaṃ etadavoca – ‘‘bhavamatthu bhavantaṃ jotipālaṃ, rājā disampati bhavantaṃ jotipālaṃ māṇavaṃ āmantayati , rājā disampati bhoto jotipālassa māṇavassa dassanakāmo’’ti. ‘‘Evaṃ, bho’’ti kho bho jotipālo māṇavo tassa purisassa paṭissutvā yena rājā disampati tenupasaṅkami; upasaṅkamitvā disampatinā raññā saddhiṃ sammodi; sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdi. Ekamantaṃ nisinnaṃ kho, bho, jotipālaṃ māṇavaṃ rājā disampati etadavoca – ‘‘anusāsatu no bhavaṃ jotipālo, mā no bhavaṃ jotipālo anusāsaniyā paccabyāhāsi. Pettike taṃ ṭhāne ṭhapessāmi, govindiye abhisiñcissāmī’’ti. ‘‘Evaṃ, bho’’ti kho, bho, so jotipālo māṇavo disampatissa rañño paccassosi. Atha kho, bho, rājā disampati jotipālaṃ māṇavaṃ govindiye abhisiñci, taṃ pettike ṭhāne ṭhapesi. Abhisitto jotipālo māṇavo govindiye pettike ṭhāne ṭhapito yepissa pitā atthe anusāsi tepi atthe anusāsati, yepissa pitā atthe nānusāsi, tepi atthe anusāsati; yepissa pitā kammante abhisambhosi, tepi kammante abhisambhoti, yepissa pitā kammante nābhisambhosi, tepi kammante abhisambhoti. Tamenaṃ manussā evamāhaṃsu – ‘‘govindo vata, bho, brāhmaṇo, mahāgovindo vata, bho, brāhmaṇo’’ti. Iminā kho evaṃ, bho, pariyāyena jotipālassa māṇavassa govindo mahāgovindotveva samaññā udapādi.",
+   "zh": "“那时，各位，地主王召来一位侍从，吩咐他说：‘来，你前往青年[[jotipāla|乔帝巴喇]]那里；到后，对青年[[jotipāla|乔帝巴喇]]这样说：愿[[jotipāla|乔帝巴喇]]尊者吉祥！地主王召请[[jotipāla|乔帝巴喇]]尊者，地主王想见[[jotipāla|乔帝巴喇]]尊者。’ “好的，陛下。”那位侍从答应地主王后，便前往青年[[jotipāla|乔帝巴喇]]处，到了之后，对青年[[jotipāla|乔帝巴喇]]这样说道：‘愿[[jotipāla|乔帝巴喇]]尊者吉祥！地主王召请[[jotipāla|乔帝巴喇]]尊者，地主王想见[[jotipāla|乔帝巴喇]]尊者。’ “好的，先生。”各位，[[jotipāla|乔帝巴喇]]青年答应那位侍从后，便去谒见地主王。相见之后，他与地主王互相问候，共叙亲切友善之语，然后在一边坐下。 各位，地主王对退坐一面的[[jotipāla|乔帝巴喇]]青年这样说道：‘请[[jotipāla|乔帝巴喇]]尊者治理国事，还望不要推辞。我将立你继承父亲的职位，正式册封你为大典尊。’ “好的，先生。”各位，[[jotipāla|乔帝巴喇]]青年回答了地主王。于是，各位，地主王便册立[[jotipāla|乔帝巴喇]]青年为大典尊，将他安置在父亲的职位上。 [[jotipāla|乔帝巴喇]]青年被册立为“大典尊”、继承了父亲的职位之后，凡父亲曾经执掌的事务，他皆执掌；父亲未曾执掌的事务，他也主动承担。凡父亲曾经处理的政务，他皆处理；父亲未曾处理的政务，他也尽心办理。 于是人们都这样说：‘这位婆罗门真是典尊，真是大典尊啊！’”",
+   "n": "305"
+  },
+  {
+   "idx": 58,
+   "pali": "Rajjasaṃvibhajanaṃ",
+   "zh": "共享王土"
+  },
+  {
+   "idx": 59,
+   "pali": "‘‘Atha kho, bho, mahāgovindo brāhmaṇo yena te cha khattiyā tenupasaṅkami; upasaṅkamitvā te cha khattiye etadavoca – ‘‘disampati kho, bho, rājā jiṇṇo vuddho mahallako addhagato vayoanuppatto, ko nu kho pana, bho, jānāti jīvitaṃ? Ṭhānaṃ kho panetaṃ vijjati, yaṃ disampatimhi raññe kālaṅkate rājakattāro reṇuṃ rājaputtaṃ rajje abhisiñceyyuṃ. Āyantu, bhonto, yena reṇu rājaputto tenupasaṅkamatha; upasaṅkamitvā reṇuṃ rājaputtaṃ evaṃ vadetha – ‘‘mayaṃ kho bhoto reṇussa sahāyā piyā manāpā appaṭikūlā, yaṃsukho bhavaṃ taṃsukhā mayaṃ, yaṃdukkho bhavaṃ taṃdukkhā mayaṃ. Disampati kho, bho, rājā jiṇṇo vuddho mahallako addhagato vayoanuppatto, ko nu kho pana, bho, jānāti jīvitaṃ? Ṭhānaṃ kho panetaṃ vijjati, yaṃ disampatimhi raññe kālaṅkate rājakattāro bhavantaṃ reṇuṃ rajje abhisiñceyyuṃ. Sace bhavaṃ reṇu rajjaṃ labhetha, saṃvibhajetha no rajjenā’’ti. ‘‘Evaṃ bho’’ti kho, bho, te cha khattiyā mahāgovindassa brāhmaṇassa paṭissutvā yena reṇu rājaputto tenupasaṅkamiṃsu; upasaṅkamitvā reṇuṃ rājaputtaṃ etadavocuṃ – ‘‘mayaṃ kho bhoto reṇussa sahāyā piyā manāpā appaṭikūlā ; yaṃsukho bhavaṃ taṃsukhā mayaṃ, yaṃdukkho bhavaṃ taṃdukkhā mayaṃ. Disampati kho, bho, rājā jiṇṇo vuddho mahallako addhagato vayoanuppatto, ko nu kho pana bho jānāti jīvitaṃ? Ṭhānaṃ kho panetaṃ vijjati, yaṃ disampatimhi raññe kālaṅkate rājakattāro bhavantaṃ reṇuṃ rajje abhisiñceyyuṃ. Sace bhavaṃ reṇu rajjaṃ labhetha, saṃvibhajetha no rajjenā’’ti. ‘‘Ko nu kho, bho, añño mama vijite sukho bhavetha , aññatra bhavantebhi? Sacāhaṃ, bho, rajjaṃ labhissāmi, saṃvibhajissāmi vo rajjenā’’’ti.",
+   "zh": "“那时，诸比丘，大典尊婆罗门前往那六位刹帝利处；到了之后，对那六位刹帝利说：‘诸贤，地主王已年老、耄耋、高龄，走过漫长的人生旅程，进入了暮年。寿命之事，谁能知晓？这很可能：当地主王去世后，立王者便会为雷努王子灌顶，让他登上王位。诸贤，你们去雷努王子那里；到了之后，对雷努王子这样说：“雷努尊者，我们是您的朋友，亲切、可意、从不违逆；您安乐时，我们也安乐；您痛苦时，我们也痛苦。诸贤，地主王已年老、耄耋、高龄，走过漫长的人生旅程，进入了暮年。寿命之事，谁能知晓？这很可能：当地主王去世后，立王者便会为雷努尊者灌顶，让您登上王位。如果雷努尊者获得王位，请与我们分享王国。’诸比丘，那六位刹帝利回答大典尊婆罗门：“是的，尊者。”随后他们便前往雷努王子处；到了之后，对雷努王子这样说：‘雷努尊者，我们是您的朋友，亲切、可意、从不违逆；您安乐时，我们也安乐；您痛苦时，我们也痛苦。诸贤，地主王已年老、耄耋、高龄，走过漫长的人生旅程，进入了暮年。寿命之事，谁能知晓？这很可能：当地主王去世后，立王者便会为雷努尊者灌顶，让您登上王位。如果雷努尊者获得王位，请与我们分享王国。”’诸比丘，雷努王子说：‘诸贤，在我的领土上，除了诸位，还有谁能安乐？如果我能获得王位，我将与你们分享王国。’”",
+   "n": "306"
+  },
+  {
+   "idx": 60,
+   "pali": "‘‘Atha kho, bho, ahorattānaṃ accayena rājā disampati kālamakāsi. Disampatimhi raññe kālaṅkate rājakattāro reṇuṃ rājaputtaṃ rajje abhisiñciṃsu. Abhisitto reṇu rajjena pañcahi kāmaguṇehi samappito samaṅgībhūto paricāreti. Atha kho, bho, mahāgovindo brāhmaṇo yena te cha khattiyā tenupasaṅkami; upasaṅkamitvā te cha khattiye etadavoca – ‘‘disampati kho, bho, rājā kālaṅkato. Abhisitto reṇu rajjena pañcahi kāmaguṇehi samappito samaṅgībhūto paricāreti. Ko nu kho pana, bho, jānāti, madanīyā kāmā? Āyantu, bhonto, yena reṇu rājā tenupasaṅkamatha; upasaṅkamitvā reṇuṃ rājānaṃ evaṃ vadetha – disampati kho, bho, rājā kālaṅkato, abhisitto bhavaṃ reṇu rajjena, sarati bhavaṃ taṃ vacana’’’nti?",
+   "zh": "“过了一些日子，诸比丘，地主王去世了。地主王去世后，立王者便册立雷努王子为王。灌顶登基的雷努王，充分享受并具足了五种感官欲乐。那时，诸比丘，大典尊婆罗门来到那六位刹帝利处；到了之后，对六位刹帝利这样说：‘诸贤，地主王已经去世了。雷努已受灌顶为王，他正充分享受并具足五种感官欲乐。谁能知晓？感官欲乐是会令人迷醉的。来吧，诸贤，我们去雷努王那里；到了之后，对雷努王这样说：“雷努尊者，地主王已经去世，您已受灌顶为王。尊者，您还记得从前说过的话吗？”’",
+   "n": "307"
+  },
+  {
+   "idx": 61,
+   "pali": "‘‘‘Evaṃ , bho’’ti kho, bho, te cha khattiyā mahāgovindassa brāhmaṇassa paṭissutvā yena reṇu rājā tenupasaṅkamiṃsu; upasaṅkamitvā reṇuṃ rājānaṃ etadavocuṃ – ‘‘disampati kho, bho, rājā kālaṅkato, abhisitto bhavaṃ reṇu rajjena, sarati bhavaṃ taṃ vacana’’nti? ‘‘Sarāmahaṃ, bho, taṃ vacanaṃ . Ko nu kho, bho, pahoti imaṃ mahāpathaviṃ uttarena āyataṃ dakkhiṇena sakaṭamukhaṃ sattadhā samaṃ suvibhattaṃ vibhajitu’’nti? ‘‘Ko nu kho, bho, añño pahoti, aññatra mahāgovindena brāhmaṇenā’’ti? Atha kho, bho, reṇu rājā aññataraṃ purisaṃ āmantesi – ‘‘ehi tvaṃ, ambho purisa, yena mahāgovindo brāhmaṇo tenupasaṅkama; upasaṅkamitvā mahāgovindaṃ brāhmaṇaṃ evaṃ vadehi – ‘rājā taṃ, bhante, reṇu āmantetī’’’ti. ‘‘Evaṃ devā’’ti kho, bho, so puriso reṇussa rañño paṭissutvā yena mahāgovindo brāhmaṇo tenupasaṅkami; upasaṅkamitvā mahāgovindaṃ brāhmaṇaṃ etadavoca – ‘‘rājā taṃ, bhante, reṇu āmantetī’’ti. ‘‘Evaṃ, bho’’ti kho, bho, mahāgovindo brāhmaṇo tassa purisassa paṭissutvā yena reṇu rājā tenupasaṅkami; upasaṅkamitvā reṇunā raññā saddhiṃ sammodi. Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdi. Ekamantaṃ nisinnaṃ kho, bho, mahāgovindaṃ brāhmaṇaṃ reṇu rājā etadavoca – ‘‘etu, bhavaṃ govindo, imaṃ mahāpathaviṃ uttarena āyataṃ dakkhiṇena sakaṭamukhaṃ sattadhā samaṃ suvibhattaṃ vibhajatū’’ti. ‘‘Evaṃ, bho’’ti kho mahāgovindo brāhmaṇo reṇussa rañño paṭissutvā imaṃ mahāpathaviṃ uttarena āyataṃ dakkhiṇena sakaṭamukhaṃ sattadhā samaṃ suvibhattaṃ vibhaji. Sabbāni sakaṭamukhāni paṭṭhapesi . Tatra sudaṃ majjhe reṇussa rañño janapado hoti.",
+   "zh": "“好的，先生。”诸位，那六位刹帝利这样应允大典尊婆罗门之后，便去见雷努王；到了之后，他们对雷努王这样说道：“尊者，地主王已经去世，雷努尊者您已被册立为王。尊者您还记得往昔所说的话吗？”“诸位，我记得那番话。然而，诸位，谁能将这片北方宽阔、南方状如车头的广袤大地，均等地划分为七份呢？”“诸位，除了大典尊婆罗门，还有谁能有此能力呢？”于是，诸位，雷努王召来一位仆人，吩咐他说：“来，你到大典尊婆罗门那里去；到了之后，对大典尊婆罗门这样说：‘尊者，雷努王召请您。’”“好的，陛下。”诸位，那位仆人应允雷努王之后，便前往大典尊婆罗门处；到了之后，对大典尊婆罗门这样说道：“尊者，雷努王召请您。”“好的，先生。”诸位，大典尊婆罗门应允那位仆人之后，便去见雷努王。到了之后，他与雷努王互相问候，说了一番亲切友好的话语，然后坐在一旁。诸位，雷努王对坐在一旁的大典尊婆罗门这样说道：“来吧，典尊尊者，请您将这片北方宽阔、南方状如车头的大地，均等地划分为七份。”“好的，先生。”大典尊婆罗门应允雷努王之后，便将这片北方宽阔、南方状如车头的大地，均等地划分成了七份。所有的划分都以车头形的边界线为准，其中，雷努王的国土位于正中央。",
+   "n": "308"
+  },
+  {
+   "idx": 62,
+   "pali": "Dantapuraṃ kaliṅgānaṃ , assakānañca potanaṃ.",
+   "zh": "丹塔布罗城属于羯陵伽人，波达纳城属于阿萨迦人。",
+   "n": "309"
+  },
+  {
+   "idx": 63,
+   "pali": "Mahesayaṃ avantīnaṃ, sovīrānañca rorukaṃ.",
+   "zh": "摩师城属于[[avanti|阿槃提]]，劳卢迦城属于苏毗罗人。",
+   "type": "verse"
+  },
+  {
+   "idx": 64,
+   "pali": "Mithilā ca videhānaṃ, campā aṅgesu māpitā;",
+   "zh": "弥梯罗是毗提诃人的城，[[campā|瞻波]]为鸯伽人所建造。",
+   "type": "verse"
+  },
+  {
+   "idx": 65,
+   "pali": "Bārāṇasī ca kāsīnaṃ, ete govindamāpitāti.",
+   "zh": "[[bārāṇasī|波罗奈]]是迦尸人的城，这些都是典尊所建造的。",
+   "type": "verse"
+  },
+  {
+   "idx": 66,
+   "pali": "‘‘Atha kho, bho, te cha khattiyā yathāsakena lābhena attamanā ahesuṃ paripuṇṇasaṅkappā – ‘‘yaṃ vata no ahosi icchitaṃ, yaṃ ākaṅkhitaṃ, yaṃ adhippetaṃ, yaṃ abhipatthitaṃ, taṃ no laddha’’nti.",
+   "zh": "“那时，诸贤，那六位刹帝利各自得到了应得的份，都心满意足，心想：“我们所想要的、所期待的、所希求的、所渴望的，如今都已得到了。”",
+   "n": "310"
+  },
+  {
+   "idx": 67,
+   "pali": "‘‘Sattabhū brahmadatto ca, vessabhū bharato saha;",
+   "zh": "“萨塔普、梵授，毗舍婆与跋罗陀；",
+   "type": "verse"
+  },
+  {
+   "idx": 68,
+   "pali": "Reṇu dve dhataraṭṭhā ca, tadāsuṃ satta bhāradhā’ti.",
+   "zh": "雷努与两位达塔拉陀：彼时，有这七位婆罗多。",
+   "type": "verse"
+  },
+  {
+   "idx": 69,
+   "pali": "Paṭhamabhāṇavāro niṭṭhito.",
+   "zh": "第一诵分终",
+   "type": "colophon"
+  },
+  {
+   "idx": 70,
+   "pali": "Kittisaddaabbhuggamanaṃ",
+   "zh": "美名远播"
+  },
+  {
+   "idx": 71,
+   "pali": "‘‘Atha kho, bho, te cha khattiyā yena mahāgovindo brāhmaṇo tenupasaṅkamiṃsu; upasaṅkamitvā mahāgovindaṃ brāhmaṇaṃ etadavocuṃ – ‘‘yathā kho bhavaṃ govindo reṇussa rañño sahāyo piyo manāpo appaṭikūlo. Evameva kho bhavaṃ govindo amhākampi sahāyo piyo manāpo appaṭikūlo, anusāsatu no bhavaṃ govindo; mā no bhavaṃ govindo anusāsaniyā paccabyāhāsī’’ti. ‘‘Evaṃ, bho’’ti kho mahāgovindo brāhmaṇo tesaṃ channaṃ khattiyānaṃ paccassosi. Atha kho, bho, mahāgovindo brāhmaṇo satta ca rājāno khattiye muddhāvasitte rajje anusāsi, satta ca brāhmaṇamahāsāle satta ca nhātakasatāni mante vācesi.",
+   "zh": "“那时，诸贤，六位刹帝利前往大典尊婆罗门处。到后，对大典尊婆罗门说：‘正如尊者大典尊是雷努王亲厚、称心、融洽的朋友，您也同样是我们亲厚、称心、融洽的朋友。愿尊者大典尊教导我们，请不要拒绝教导我们。’“好的，诸贤。”大典尊婆罗门答应了那六位刹帝利。那时，诸贤，大典尊婆罗门教导了七位刹帝利灌顶王治理国政，又教七位婆罗门大富豪和七百位净行者学习诸咒。”",
+   "n": "311"
+  },
+  {
+   "idx": 72,
+   "pali": "‘‘Atha kho, bho, mahāgovindassa brāhmaṇassa aparena samayena evaṃ kalyāṇo kittisaddo abbhuggacchi – ‘‘sakkhi mahāgovindo brāhmaṇo brahmānaṃ passati, sakkhi mahāgovindo brāhmaṇo brahmunā sākaccheti sallapati mantetī’’ti. Atha kho, bho, mahāgovindassa brāhmaṇassa etadahosi – ‘‘mayhaṃ kho evaṃ kalyāṇo kittisaddo abbhuggato – ‘sakkhi mahāgovindo brāhmaṇo brahmānaṃ passati, sakkhi mahāgovindo brāhmaṇo brahmunā sākaccheti sallapati mantetī’ti. Na kho panāhaṃ brahmānaṃ passāmi, na brahmunā sākacchemi, na brahmunā sallapāmi , na brahmunā mantemi. Sutaṃ kho pana metaṃ brāhmaṇānaṃ vuddhānaṃ mahallakānaṃ ācariyapācariyānaṃ bhāsamānānaṃ – ‘yo vassike cattāro māse paṭisallīyati, karuṇaṃ jhānaṃ jhāyati, so brahmānaṃ passati brahmunā sākaccheti brahmunā sallapati brahmunā mantetī’ti. Yaṃnūnāhaṃ vassike cattāro māse paṭisallīyeyyaṃ, karuṇaṃ jhānaṃ jhāyeyya’’nti.",
+   "zh": "“过后，又隔了一段时日，关于大典尊婆罗门，有如此善好名声传扬开来：‘大典尊婆罗门能亲见梵天神，能亲与梵天神交谈、对话、讨论。’这时，大典尊婆罗门心中这样想：‘关于我，竟有如此善好名声流传：“大典尊婆罗门能亲见梵天神，能亲与梵天神交谈、对话、讨论。”然而，我并未见到梵天神，未与梵天神交谈，未与梵天神对话，未与梵天神讨论。不过，我曾听那些年长、德高望重、为师祖辈的婆罗门们这样说：“若有人在雨季这四个月中独处静修，修习悲心禅那，他便能见到梵天神，与梵天神交谈，与梵天神对话，与梵天神讨论。”那我何不就在雨季这四个月中独处静修，修习悲心禅那呢？’”",
+   "n": "312"
+  },
+  {
+   "idx": 73,
+   "pali": "‘‘Atha kho, bho, mahāgovindo brāhmaṇo yena reṇu rājā tenupasaṅkami; upasaṅkamitvā reṇuṃ rājānaṃ etadavoca – ‘‘mayhaṃ kho, bho, evaṃ kalyāṇo kittisaddo abbhuggato – ‘sakkhi mahāgovindo brāhmaṇo brahmānaṃ passati, sakkhi mahāgovindo brāhmaṇo brahmunā sākaccheti sallapati mantetī’ti. Na kho panāhaṃ, bho, brahmānaṃ passāmi, na brahmunā sākacchemi, na brahmunā sallapāmi, na brahmunā mantemi. Sutaṃ kho pana metaṃ brāhmaṇānaṃ vuddhānaṃ mahallakānaṃ ācariyapācariyānaṃ bhāsamānānaṃ – ‘yo vassike cattāro māse paṭisallīyati, karuṇaṃ jhānaṃ jhāyati, so brahmānaṃ passati, brahmunā sākaccheti brahmunā sallapati brahmunā mantetī’ti. Icchāmahaṃ, bho, vassike cattāro māse paṭisallīyituṃ, karuṇaṃ jhānaṃ jhāyituṃ; namhi kenaci upasaṅkamitabbo aññatra ekena bhattābhihārenā’’ti. ‘‘Yassadāni bhavaṃ govindo kālaṃ maññatī’’ti.",
+   "zh": "“于是，大典尊婆罗门前往雷努王处，到后便对雷努王说：‘大王，我有这样美好的名声流传开来：“大典尊婆罗门亲见梵天神，与梵天神交谈、对话、商议。”然而，大王，我并未见梵天神，也不曾与梵天神交谈、对话、商议。大王，我听闻那些年长、高龄、师祖辈的婆罗门说：“凡于雨季四月独居，修习悲禅那者，能亲见梵天神，能与梵天神交谈、对话、商议。”大王，我愿在雨季四月间独居，修习悲禅那；除送食者外，任何人不得前来见我。’雷努王说：‘典尊尊者，您认为时机合适，便去做吧。’”",
+   "n": "313"
+  },
+  {
+   "idx": 74,
+   "pali": "‘‘Atha kho, bho, mahāgovindo brāhmaṇo yena te cha khattiyā tenupasaṅkami; upasaṅkamitvā te cha khattiye etadavoca – ‘‘mayhaṃ kho, bho, evaṃ kalyāṇo kittisaddo abbhuggato – ‘sakkhi mahāgovindo brāhmaṇo brahmānaṃ passati, sakkhi mahāgovindo brāhmaṇo brahmunā sākaccheti sallapati mantetī’ti. Na kho panāhaṃ, bho, brahmānaṃ passāmi, na brahmunā sākacchemi, na brahmunā sallapāmi, na brahmunā mantemi. Sutaṃ kho pana metaṃ brāhmaṇānaṃ vuddhānaṃ mahallakānaṃ ācariyapācariyānaṃ bhāsamānānaṃ, ‘yo vassike cattāro māse paṭisallīyati, karuṇaṃ jhānaṃ jhāyati, so brahmānaṃ passati brahmunā sākaccheti brahmunā sallapati brahmunā mantetī’ti. Icchāmahaṃ, bho, vassike cattāro māse paṭisallīyituṃ, karuṇaṃ jhānaṃ jhāyituṃ; namhi kenaci upasaṅkamitabbo aññatra ekena bhattābhihārenā’’ti. ‘‘Yassadāni bhavaṃ govindo kālaṃ maññatī’’’ti.",
+   "zh": "“那时，大典尊婆罗门前往六位刹帝利处，到后便对那六位刹帝利说：‘诸位尊者，我有这样美好的名声流传开来：“大典尊婆罗门亲见梵天神，与梵天神交谈、对话、商议。”然而，诸位尊者，我并不见梵天神，也不与梵天神交谈、对话、商议。诸位尊者，我从年长、高龄、师祖辈的婆罗门那里听闻：“凡于雨季四月独居，修习悲禅那者，能亲见梵天神，能与梵天神交谈、对话、商议。”诸位尊者，我愿在雨季四月间独居，修习悲禅那；除送食者外，任何人不得前来见我。’他们说：‘典尊尊者，您认为时机合适，便去做吧。’”",
+   "n": "314"
+  },
+  {
+   "idx": 75,
+   "pali": "‘‘Atha kho, bho, mahāgovindo brāhmaṇo yena te satta ca brāhmaṇamahāsālā satta ca nhātakasatāni tenupasaṅkami; upasaṅkamitvā te satta ca brāhmaṇamahāsāle satta ca nhātakasatāni etadavoca – ‘‘mayhaṃ kho, bho, evaṃ kalyāṇo kittisaddo abbhuggato – ‘sakkhi mahāgovindo brāhmaṇo brahmānaṃ passati, sakkhi mahāgovindo brāhmaṇo brahmunā sākaccheti sallapati mantetī’ti. Na kho panāhaṃ, bho, brahmānaṃ passāmi, na brahmunā sākacchemi, na brahmunā sallapāmi, na brahmunā mantemi. Sutaṃ kho pana metaṃ brāhmaṇānaṃ vuddhānaṃ mahallakānaṃ ācariyapācariyānaṃ bhāsamānānaṃ – ‘yo vassike cattāro māse paṭisallīyati, karuṇaṃ jhānaṃ jhāyati, so brahmānaṃ passati, brahmunā sākaccheti, brahmunā sallapati, brahmunā mantetī’ti. Tena hi, bho, yathāsute yathāpariyatte mante vitthārena sajjhāyaṃ karotha, aññamaññañca mante vācetha; icchāmahaṃ, bho, vassike cattāro māse paṭisallīyituṃ, karuṇaṃ jhānaṃ jhāyituṃ; namhi kenaci upasaṅkamitabbo aññatra ekena bhattābhihārenā’’ti. ‘‘Yassa dāni bhavaṃ govindo kālaṃ maññatī’’ti.",
+   "zh": "“那时，大典尊婆罗门便前往那七位婆罗门富豪与七百位已沐浴的弟子处。到了之后，他对那七位婆罗门富豪与七百位已沐浴的弟子这样说道：‘诸位，关于我，有如此的善名传扬开来——“大典尊婆罗门亲见梵天神，大典尊婆罗门亲自与梵天神交谈、对话、商议。”然而，诸位，我并未见到梵天神，未与梵天神交谈，未与梵天神对话，未与梵天神商议。不过，诸位，我曾听那些年长、老宿、为师中之师的婆罗门们这样说：“凡在雨季四个月中独居，修习悲禅那者，他能见到梵天神，能与梵天神交谈，能与梵天神对话，能与梵天神商议。”那么，诸位，请将你们所听闻、所学得的咒语，详尽地诵习，并互相教习讽诵。诸位，我愿在雨季四个月中独居，修习悲禅那，除了一位送食者之外，任何人不得前来见我。’他们回答说：‘典尊尊者现在认为是适宜的时机了。’”",
+   "n": "315"
+  },
+  {
+   "idx": 76,
+   "pali": "‘‘Atha kho, bho, mahāgovindo brāhmaṇo yena cattārīsā bhariyā sādisiyo tenupasaṅkami; upasaṅkamitvā cattārīsā bhariyā sādisiyo etadavoca – ‘‘mayhaṃ kho, bhotī, evaṃ kalyāṇo kittisaddo abbhuggato – ‘sakkhi mahāgovindo brāhmaṇo brahmānaṃ passati, sakkhi mahāgovindo brāhmaṇo brahmunā sākaccheti sallapati mantetī’ti. Na kho panāhaṃ, bhotī, brahmānaṃ passāmi, na brahmunā sākacchemi, na brahmunā sallapāmi, na brahmunā mantemi. Sutaṃ kho pana metaṃ brāhmaṇānaṃ vuddhānaṃ mahallakānaṃ ācariyapācariyānaṃ bhāsamānānaṃ ‘yo vassike cattāro māse paṭisallīyati, karuṇaṃ jhānaṃ jhāyati, so brahmānaṃ passati, brahmunā sākaccheti, brahmunā sallapati, brahmunā mantetīti, icchāmahaṃ, bhotī, vassike cattāro māse paṭisallīyituṃ, karuṇaṃ jhānaṃ jhāyituṃ; namhi kenaci upasaṅkamitabbo aññatra ekena bhattābhihārenā’’ti. ‘‘Yassa dāni bhavaṃ govindo kālaṃ maññatī’’’ti.",
+   "zh": "“那时，大典尊婆罗门便来到他四十位同等地位的妻子那里，到了之后，对她们说：‘诸位贤妻，我的善名已如此远扬——都说大典尊婆罗门亲见梵天神，与梵天神共相交谈、对话、商议。然而，我实不曾见到梵天神，不曾与梵天神交谈，不曾与梵天神对话，不曾与梵天神商议。我曾听年长耆宿、师辈相传的婆罗门这样说过：凡于雨季四个月中离群独居，修习悲禅那者，便能见到梵天神，与梵天神交谈、对话、商议。因此，我欲在雨季四个月中独居精修悲禅那，除了一位送食者外，任何人不得前来见我。’她们听后说：‘典尊尊者现在可依时而行。’”",
+   "n": "316"
+  },
+  {
+   "idx": 77,
+   "pali": "‘‘Atha kho, bho, mahāgovindo brāhmaṇo puratthimena nagarassa navaṃ sandhāgāraṃ kārāpetvā vassike cattāro māse paṭisallīyi, karuṇaṃ jhānaṃ jhāyi; nāssudha koci upasaṅkamati aññatra ekena bhattābhihārena. Atha kho, bho, mahāgovindassa brāhmaṇassa catunnaṃ māsānaṃ accayena ahudeva ukkaṇṭhanā ahu paritassanā – ‘‘sutaṃ kho pana metaṃ brāhmaṇānaṃ vuddhānaṃ mahallakānaṃ ācariyapācariyānaṃ bhāsamānānaṃ – ‘yo vassike cattāro māse paṭisallīyati, karuṇaṃ jhānaṃ jhāyati, so brahmānaṃ passati, brahmunā sākaccheti brahmunā sallapati brahmunā mantetī’ti. Na kho panāhaṃ brahmānaṃ passāmi, na brahmunā sākacchemi na brahmunā sallapāmi na brahmunā mantemī’’’ti.",
+   "zh": "“那时，尊敬的先生，大典尊婆罗门在城东建起一座新的斋堂，于雨季的四个月中隐居其中，修习悲禅那。那时，除了一位送饭者，没有任何人到访。然而，四个月过后，大典尊婆罗门心中生起了厌倦与不安，他心想：‘我曾听闻那些年长、高龄、师之师的婆罗门们说过：凡在雨季四个月中隐居专修悲禅那者，便能见到梵天神，与梵天神交谈、对话、讨论。可是我既未见到梵天神，也未与梵天神交谈、对话、讨论啊。’”",
+   "n": "317"
+  },
+  {
+   "idx": 78,
+   "pali": "Brahmunā sākacchā",
+   "zh": "与梵天神交谈"
+  },
+  {
+   "idx": 79,
+   "pali": "‘‘Atha kho, bho, brahmā sanaṅkumāro mahāgovindassa brāhmaṇassa cetasā cetoparivitakkamaññāya seyyathāpi nāma balavā puriso samiñjitaṃ vā bāhaṃ pasāreyya, pasāritaṃ vā bāhaṃ samiñjeyya, evameva, brahmaloke antarahito mahāgovindassa brāhmaṇassa sammukhe pāturahosi. Atha kho, bho, mahāgovindassa brāhmaṇassa ahudeva bhayaṃ ahu chambhitattaṃ ahu lomahaṃso yathā taṃ adiṭṭhapubbaṃ rūpaṃ disvā. Atha kho, bho, mahāgovindo brāhmaṇo bhīto saṃviggo lomahaṭṭhajāto brahmānaṃ sanaṅkumāraṃ gāthāya ajjhabhāsi –",
+   "zh": "“就在这时，常童子梵天神用他的心力感知到了大典尊婆罗门心里的想法。就像一位大力士伸展他弯曲的手臂，或者弯曲他伸展的手臂一样快，他从梵天界消失，一下子就出现在了大典尊婆罗门的面前。诸位，大典尊婆罗门一见这前所未见的形象，心里顿时感到害怕、惊惶，汗毛都竖了起来。大典尊婆罗门就这样，带着恐惧、震惊、汗毛直竖，用偈颂对常童子梵天神说：",
+   "n": "318"
+  },
+  {
+   "idx": 80,
+   "pali": "‘‘‘Vaṇṇavā yasavā sirimā, ko nu tvamasi mārisa;",
+   "zh": "“具足容色、名声与吉祥，尊者，您是谁？”",
+   "type": "verse"
+  },
+  {
+   "idx": 81,
+   "pali": "Ajānantā taṃ pucchāma, kathaṃ jānemu taṃ maya’’nti.",
+   "zh": "“我因不识而请问，我们如何能了知您？”",
+   "type": "verse"
+  },
+  {
+   "idx": 82,
+   "pali": "‘‘Maṃ ve kumāraṃ jānanti, brahmaloke sanantanaṃ ;",
+   "zh": "“在梵天界，他们称我为“常住童子”；”",
+   "type": "verse"
+  },
+  {
+   "idx": 83,
+   "pali": "Sabbe jānanti maṃ devā, evaṃ govinda jānahi’’.",
+   "zh": "“诸天神皆知我，[[govinda|典尊]]，你当如是了知。”",
+   "type": "verse"
+  },
+  {
+   "idx": 84,
+   "pali": "‘‘‘Āsanaṃ udakaṃ pajjaṃ, madhusākañca brahmuno;",
+   "zh": "“座席、水、洗足水，以及梵天神的蜜叶；",
+   "type": "verse"
+  },
+  {
+   "idx": 85,
+   "pali": "Agghe bhavantaṃ pucchāma, agghaṃ kurutu no bhavaṃ’’.",
+   "zh": "尊者，我们向您请问价格，请您为我们开个价吧。”",
+   "type": "verse"
+  },
+  {
+   "idx": 86,
+   "pali": "‘‘Paṭiggaṇhāma te agghaṃ, yaṃ tvaṃ govinda bhāsasi;",
+   "zh": "“[[govinda|典尊]]，你所说的供养，我们接受；",
+   "type": "verse"
+  },
+  {
+   "idx": 87,
+   "pali": "Diṭṭhadhammahitatthāya, samparāya sukhāya ca;",
+   "zh": "“为现法的利益，也为来世的安乐；",
+   "type": "verse"
+  },
+  {
+   "idx": 88,
+   "pali": "Katāvakāso pucchassu, yaṃ kiñci abhipatthita’’nti.",
+   "zh": "你已得此机会，可问任何你所希求之事。”",
+   "type": "verse"
+  },
+  {
+   "idx": 89,
+   "pali": "‘‘Atha kho, bho, mahāgovindassa brāhmaṇassa etadahosi – ‘‘katāvakāso khomhi brahmunā sanaṅkumārena. Kiṃ nu kho ahaṃ brahmānaṃ sanaṅkumāraṃ puccheyyaṃ diṭṭhadhammikaṃ vā atthaṃ samparāyikaṃ vā’ti? Atha kho, bho, mahāgovindassa brāhmaṇassa etadahosi – ‘kusalo kho ahaṃ diṭṭhadhammikānaṃ atthānaṃ, aññepi maṃ diṭṭhadhammikaṃ atthaṃ pucchanti. Yaṃnūnāhaṃ brahmānaṃ sanaṅkumāraṃ samparāyikaññeva atthaṃ puccheyya’nti. Atha kho, bho, mahāgovindo brāhmaṇo brahmānaṃ sanaṅkumāraṃ gāthāya ajjhabhāsi –",
+   "zh": "“那时，大典尊婆罗门心生此念：‘常童子梵天神已给我问的机会。我该向常童子梵天神询问今生利益，还是来世利益呢？’接着他又想：‘对于今生利益，我本就善巧，甚至还有人来向我请教。不如我只向常童子梵天请问来世利益吧。’于是，大典尊婆罗门便以偈颂向常童子梵天请问：”",
+   "n": "319"
+  },
+  {
+   "idx": 90,
+   "pali": "‘‘Pucchāmi brahmānaṃ sanaṅkumāraṃ,",
+   "zh": "“我今请问常童子梵天神，",
+   "type": "verse"
+  },
+  {
+   "idx": 91,
+   "pali": "Kaṅkhī akaṅkhiṃ paravediyesu;",
+   "zh": "于他人所感之事，我这疑惑者，请问于您这无疑者；",
+   "type": "verse"
+  },
+  {
+   "idx": 92,
+   "pali": "Katthaṭṭhito kimhi ca sikkhamāno,",
+   "zh": "安住于何处，修学于何事，",
+   "type": "verse"
+  },
+  {
+   "idx": 93,
+   "pali": "Pappoti macco amataṃ brahmaloka’’nti.",
+   "zh": "凡人得以到达不死之梵天界？”",
+   "type": "verse"
+  },
+  {
+   "idx": 94,
+   "pali": "‘‘Hitvā mamattaṃ manujesu brahme,",
+   "zh": "“已舍弃人间的我所执，婆罗门啊，",
+   "type": "verse"
+  },
+  {
+   "idx": 95,
+   "pali": "Ekodibhūto karuṇedhimutto ;",
+   "zh": "心专一境，以悲悯为意趣；",
+   "type": "verse"
+  },
+  {
+   "idx": 96,
+   "pali": "Nirāmagandho virato methunasmā,",
+   "zh": "无有秽臭，远离淫欲法，",
+   "type": "verse"
+  },
+  {
+   "idx": 97,
+   "pali": "Etthaṭṭhito ettha ca sikkhamāno;",
+   "zh": "安住于此，于此修学；",
+   "type": "verse"
+  },
+  {
+   "idx": 98,
+   "pali": "Pappoti macco amataṃ brahmaloka’’nti.",
+   "zh": "凡人能抵达不死的梵天界。”",
+   "type": "verse"
+  },
+  {
+   "idx": 99,
+   "pali": "‘‘Hitvā mamatta’nti ahaṃ bhoto ājānāmi. Idhekacco appaṃ vā bhogakkhandhaṃ pahāya mahantaṃ vā bhogakkhandhaṃ pahāya appaṃ vā ñātiparivaṭṭaṃ pahāya mahantaṃ vā ñātiparivaṭṭaṃ pahāya kesamassuṃ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṃ pabbajati, ‘iti hitvā mamatta’nti ahaṃ bhoto ājānāmi. ‘Ekodibhūto’ti ahaṃ bhoto ājānāmi. Idhekacco vivittaṃ senāsanaṃ bhajati araññaṃ rukkhamūlaṃ pabbataṃ kandaraṃ giriguhaṃ susānaṃ vanapatthaṃ abbhokāsaṃ palālapuñjaṃ, iti ekodibhūto’ti ahaṃ bhoto ājānāmi. ‘Karuṇedhimutto’ti ahaṃ bhoto ājānāmi. Idhekacco karuṇāsahagatena cetasā ekaṃ disaṃ pharitvā viharati, tathā dutiyaṃ, tathā tatiyaṃ, tathā catutthaṃ. Iti uddhamadhotiriyaṃ sabbadhi sabbattatāya sabbāvantaṃ lokaṃ karuṇāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjena pharitvā viharati. Iti ‘karuṇedhimutto’ti ahaṃ bhoto ājānāmi. Āmagandhe ca kho ahaṃ bhoto bhāsamānassa na ājānāmi.",
+   "zh": "“舍弃我所”，我了解尊者。于此，有人或舍少分财富，或舍多分财富；或舍小范围亲族，或舍大范围亲族；剃除须发，披上袈裟，从在家而出家，入于无家。如此，“舍弃我所”，我了解尊者。“成为独一者”，我了解尊者。于此，有人亲近远离的住处：林野、树下、山岳、山洞、山窟、冢间、丛林、露地、草堆。如此，“成为独一者”，我了解尊者。“以悲为解脱”，我了解尊者。于此，有人以悲俱行之心遍满一方而住，同样遍满第二方、第三方、第四方。如是向上、向下、横向，遍一切处，视一切众生如己，以广大、崇高、无量、无怨恨、无恼害的悲俱行之心遍满一切世间而住。如此，“以悲为解脱”，我了解尊者。然而，尊者所说的“生臭”，我未能了解。",
+   "n": "320"
+  },
+  {
+   "idx": 100,
+   "pali": "‘‘Ke āmagandhā manujesu brahme,",
+   "zh": "“婆罗门，人中的生臭是什么？",
+   "type": "verse"
+  },
+  {
+   "idx": 101,
+   "pali": "Ete avidvā idha brūhi dhīra;",
+   "zh": "对此我实不知晓，贤者，请于此宣说。",
+   "type": "verse"
+  },
+  {
+   "idx": 102,
+   "pali": "Kenāvaṭā vāti pajā kurutu ,",
+   "zh": "在俱卢，众生被何物所覆蔽？",
+   "type": "verse"
+  },
+  {
+   "idx": 103,
+   "pali": "Āpāyikā nivutabrahmalokā’’ti.",
+   "zh": "堕于恶趣，梵天界被遮蔽。”",
+   "type": "verse"
+  },
+  {
+   "idx": 104,
+   "pali": "‘‘Kodho mosavajjaṃ nikati ca dubbho,",
+   "zh": "“忿怒、妄语、欺诈与背叛，",
+   "type": "verse"
+  },
+  {
+   "idx": 105,
+   "pali": "Kadariyatā atimāno usūyā;",
+   "zh": "悭吝、傲慢及嫉妒；",
+   "type": "verse"
+  },
+  {
+   "idx": 106,
+   "pali": "Icchā vivicchā paraheṭhanā ca,",
+   "zh": "欲求、悭吝与损恼他人，",
+   "type": "verse"
+  },
+  {
+   "idx": 107,
+   "pali": "Lobho ca doso ca mado ca moho;",
+   "zh": "贪、嗔、骄慢与痴；",
+   "type": "verse"
+  },
+  {
+   "idx": 108,
+   "pali": "Etesu yuttā anirāmagandhā,",
+   "zh": "被这些所缠缚者，即非无肉腥之秽——",
+   "type": "verse"
+  },
+  {
+   "idx": 109,
+   "pali": "Āpāyikā nivutabrahmalokā’’ti.",
+   "zh": "堕于恶趣，梵天界被遮蔽。”",
+   "type": "verse"
+  },
+  {
+   "idx": 110,
+   "pali": "‘‘Yathā kho ahaṃ bhoto āmagandhe bhāsamānassa ājānāmi. Te na sunimmadayā agāraṃ ajjhāvasatā. Pabbajissāmahaṃ, bho, agārasmā anagāriya’’nti. ‘‘Yassadāni bhavaṃ govindo kālaṃ maññatī’’ti.",
+   "zh": "“我对您所说的‘腐臭’是这样理解的：在家人要克服那些腐臭，实非易事。尊长，我当从在家生活出家，走向无家。”“既如此，尊者，您便依时而行吧。”"
+  },
+  {
+   "type": "subhead",
+   "idx": 111,
+   "pali": "Reṇurājaāmantanā",
+   "zh": "告知雷努王。"
+  },
+  {
+   "idx": 112,
+   "pali": "‘‘Atha kho, bho, mahāgovindo brāhmaṇo yena reṇu rājā tenupasaṅkami; upasaṅkamitvā reṇuṃ rājānaṃ etadavoca – ‘‘aññaṃ dāni bhavaṃ purohitaṃ pariyesatu, yo bhoto rajjaṃ anusāsissati. Icchāmahaṃ, bho , agārasmā anagāriyaṃ pabbajituṃ. Yathā kho pana me sutaṃ brahmuno āmagandhe bhāsamānassa, te na sunimmadayā agāraṃ ajjhāvasatā. Pabbajissāmahaṃ, bho, agārasmā anagāriya’’nti.",
+   "zh": "“那时，大典尊婆罗门前往雷努王处。到后，便对雷努王这样说：“尊驾，请另寻一位司祭为您治理国政。我愿从在家出家，过无家的生活。正如我所闻梵天神宣说的腐臭之义，住在家中实在不易将其平息。尊驾，我即将从在家出家，成为无家者。”",
+   "n": "321"
+  },
+  {
+   "idx": 113,
+   "pali": "‘‘Āmantayāmi rājānaṃ, reṇuṃ bhūmipatiṃ ahaṃ;",
+   "zh": "“我宣告于雷努王，这位大地的君主：",
+   "type": "verse"
+  },
+  {
+   "idx": 114,
+   "pali": "Tvaṃ pajānassu rajjena, nāhaṃ porohicce rame’’.",
+   "zh": "你当善学治国之道，因我已不乐于这司祭之位。”",
+   "type": "verse"
+  },
+  {
+   "idx": 115,
+   "pali": "‘‘Sace te ūnaṃ kāmehi, ahaṃ paripūrayāmi te;",
+   "zh": "“若您在欲乐上犹感不足，我愿为您令其圆满。",
+   "type": "verse"
+  },
+  {
+   "idx": 116,
+   "pali": "Yo taṃ hiṃsati vāremi, bhūmisenāpati ahaṃ;",
+   "zh": "“若有人欲加害于您，我必阻止；我乃大地军主；”",
+   "type": "verse"
+  },
+  {
+   "idx": 117,
+   "pali": "Tuvaṃ pitā ahaṃ putto, mā no govinda pājahi’’ .",
+   "zh": "“您是我的父亲，我是您的儿子。[[govinda|典尊]]，请不要舍弃我们。”",
+   "type": "verse"
+  },
+  {
+   "idx": 118,
+   "pali": "‘‘Namatthi ūnaṃ kāmehi, hiṃsitā me na vijjati;",
+   "zh": "“我对诸欲无有匮乏，亦无人侵害于我；”",
+   "type": "verse"
+  },
+  {
+   "idx": 119,
+   "pali": "Amanussavaco sutvā, tasmāhaṃ na gahe rame’’.",
+   "zh": "“我闻非人之语已，是故不复乐于居家。”",
+   "type": "verse"
+  },
+  {
+   "idx": 120,
+   "pali": "‘‘Amanusso kathaṃvaṇṇo, kiṃ te atthaṃ abhāsatha;",
+   "zh": "“那位非人形貌如何？他对你说了何等义理？”",
+   "type": "verse"
+  },
+  {
+   "idx": 121,
+   "pali": "Yañca sutvā jahāsi no, gehe amhe ca kevalī’’.",
+   "zh": "“听闻何事，你竟要舍离我们的家，舍离我们所有人？”",
+   "type": "verse"
+  },
+  {
+   "idx": 122,
+   "pali": "‘‘Upavutthassa me pubbe, yiṭṭhukāmassa me sato;",
+   "zh": "“往昔我已持布萨戒，正念具足，一心欲行祭祀，”",
+   "type": "verse"
+  },
+  {
+   "idx": 123,
+   "pali": "Aggi pajjalito āsi, kusapattaparitthato’’.",
+   "zh": "“火焰炽燃，周遭遍覆着吉祥草。”",
+   "type": "verse"
+  },
+  {
+   "idx": 124,
+   "pali": "‘‘Tato me brahmā pāturahu, brahmalokā sanantano;",
+   "zh": "“那时，那永恒的梵天神从梵天界在我面前显现；",
+   "type": "verse"
+  },
+  {
+   "idx": 125,
+   "pali": "So me pañhaṃ viyākāsi, taṃ sutvā na gahe rame’’.",
+   "zh": "他为我解答了疑问，听了之后，我不再乐于在家生活。”",
+   "type": "verse"
+  },
+  {
+   "idx": 126,
+   "pali": "‘‘Saddahāmi ahaṃ bhoto, yaṃ tvaṃ govinda bhāsasi;",
+   "zh": "“[[govinda|典尊]]尊者，我深信您所说的话；",
+   "type": "verse"
+  },
+  {
+   "idx": 127,
+   "pali": "Amanussavaco sutvā, kathaṃ vattetha aññathā.",
+   "zh": "听闻非人之语后，又怎能另作他说？",
+   "type": "verse"
+  },
+  {
+   "idx": 128,
+   "pali": "‘‘Te taṃ anuvattissāma, satthā govinda no bhavaṃ;",
+   "zh": "“我们将追随于他，愿[[govinda|典尊]]作我们的导师；",
+   "type": "verse"
+  },
+  {
+   "idx": 129,
+   "pali": "Maṇi yathā veḷuriyo, akāco vimalo subho;",
+   "zh": "犹如琉璃宝珠，无瑕、无垢、明净；",
+   "type": "verse"
+  },
+  {
+   "idx": 130,
+   "pali": "Evaṃ suddhā carissāma, govindassānusāsane’’ti.",
+   "zh": "我们将在典尊的教导下，如此清净地生活。”",
+   "type": "verse"
+  },
+  {
+   "idx": 131,
+   "pali": "‘‘‘Sace bhavaṃ govindo agārasmā anagāriyaṃ pabbajissati, mayampi agārasmā anagāriyaṃ pabbajissāma. Atha yā te gati, sā no gati bhavissatī’’ti.",
+   "zh": "“若[[govinda|典尊]]从在家出家，走向无家的生活，我们也将从在家出家，走向无家的生活。您的去处，便是我们的去处。”"
+  },
+  {
+   "idx": 132,
+   "pali": "Cha khattiyaāmantanā",
+   "zh": "告知六位刹帝利"
+  },
+  {
+   "idx": 133,
+   "pali": "‘‘Atha kho, bho, mahāgovindo brāhmaṇo yena te cha khattiyā tenupasaṅkami; upasaṅkamitvā te cha khattiye etadavoca – ‘‘aññaṃ dāni bhavanto purohitaṃ pariyesantu, yo bhavantānaṃ rajje anusāsissati. Icchāmahaṃ, bho, agārasmā anagāriyaṃ pabbajituṃ. Yathā kho pana me sutaṃ brahmuno āmagandhe bhāsamānassa, te na sunimmadayā agāraṃ ajjhāvasatā. Pabbajissāmahaṃ, bho, agārasmā anagāriya’’nti. Atha kho, bho, te cha khattiyā ekamantaṃ apakkamma evaṃ samacintesuṃ – ‘‘ime kho brāhmaṇā nāma dhanaluddhā; yaṃnūna mayaṃ mahāgovindaṃ brāhmaṇaṃ dhanena sikkheyyāmā’’ti. Te mahāgovindaṃ brāhmaṇaṃ upasaṅkamitvā evamāhaṃsu – ‘‘saṃvijjati kho, bho, imesu sattasu rajjesu pahūtaṃ sāpateyyaṃ, tato bhoto yāvatakena attho, tāvatakaṃ āharīyata’’nti. ‘‘Alaṃ, bho, mamapidaṃ pahūtaṃ sāpateyyaṃ bhavantānaṃyeva vāhasā. Tamahaṃ sabbaṃ pahāya agārasmā anagāriyaṃ pabbajissāmi. Yathā kho pana me sutaṃ brahmuno āmagandhe bhāsamānassa, te na sunimmadayā agāraṃ ajjhāvasatā, pabbajissāmahaṃ, bho, agārasmā anagāriya’’nti. Atha kho, bho, te cha khattiyā ekamantaṃ apakkamma evaṃ samacintesuṃ – ‘‘ime kho brāhmaṇā nāma itthiluddhā; yaṃnūna mayaṃ mahāgovindaṃ brāhmaṇaṃ itthīhi sikkheyyāmā’’ti. Te mahāgovindaṃ brāhmaṇaṃ upasaṅkamitvā evamāhaṃsu – ‘‘saṃvijjanti kho, bho, imesu sattasu rajjesu pahūtā itthiyo, tato bhoto yāvatikāhi attho, tāvatikā ānīyata’’nti. ‘‘Alaṃ, bho, mamapimā cattārīsā bhariyā sādisiyo. Tāpāhaṃ sabbā pahāya agārasmā anagāriyaṃ pabbajissāmi. Yathā kho pana me sutaṃ brahmuno āmagandhe bhāsamānassa, te na sunimmadayā agāraṃ ajjhāvasatā, pabbajissāmahaṃ, bho, agārasmā anagāriyanti’’.",
+   "zh": "“那时，大典尊婆罗门前往六位刹帝利处，到了之后，对六位刹帝利这样说：“诸位尊者，现在请另寻一位家司祭，为你们治理国事。尊者，我愿从在家出家，过无家的生活。因为我曾听闻梵天神宣说生臭之教——那些生臭，居家之人是难以净除的。尊者，我将从在家出家，成为无家者。”于是，六位刹帝利退到一旁，共同思量：“这些婆罗门确实贪求财物。我们何不拿财富来挽留大典尊婆罗门？”他们来到大典尊婆罗门处，这样说道：“尊者，这七国之中财富众多，尊者可从那里取用所需要的数量。”“尊者，足够了。我自己亦有许多财物，全赖诸位尊者所赐。我将舍弃那一切，从在家出家，成为无家者。因为我听闻梵天神宣说生臭之教——那些生臭，居家之人是难以净除的。尊者，我将从在家出家，成为无家者。”于是，六位刹帝利退到一旁，又共同思量：“这些婆罗门确实贪求女色。我们何不用女人来诱留大典尊婆罗门？”他们来到大典尊婆罗门处，这样说道：“尊者，这七国之中女人众多，尊者可从那里带来所需要的数量。”“尊者，足够了。我亦有这四十位相配的妻子。我将舍弃她们全部，从在家出家，成为无家者。因为我听闻梵天神宣说生臭之教——那些生臭，居家之人是难以净除的。尊者，我将从在家出家，成为无家者。”",
+   "n": "322"
+  },
+  {
+   "idx": 134,
+   "pali": "‘‘Sace bhavaṃ govindo agārasmā anagāriyaṃ pabbajissati, mayampi agārasmā anagāriyaṃ pabbajissāma, atha yā te gati, sā no gati bhavissatīti.",
+   "zh": "“如果[[govinda|典尊]]尊者从在家出家，过无家的生活，我们也跟着从在家出家，过无家的生活。您的去处，就是我们的去处。”",
+   "n": "323"
+  },
+  {
+   "idx": 135,
+   "pali": "‘‘Sace jahatha kāmāni, yattha satto puthujjano;",
+   "zh": "“若你们舍弃诸欲，凡夫于此深生爱著，”",
+   "type": "verse"
+  },
+  {
+   "idx": 136,
+   "pali": "Ārambhavho daḷhā hotha, khantibalasamāhitā.",
+   "zh": "“你们应当精进，应当坚定，具足忍辱力而安住。”",
+   "type": "verse"
+  },
+  {
+   "idx": 137,
+   "pali": "‘‘Esa maggo ujumaggo, esa maggo anuttaro;",
+   "zh": "“这是正直之道，这是无上之道；”",
+   "type": "verse"
+  },
+  {
+   "idx": 138,
+   "pali": "Saddhammo sabbhi rakkhito, brahmalokūpapattiyāti.",
+   "zh": "“正法由善人守护，导向梵天界往生。”",
+   "type": "verse"
+  },
+  {
+   "idx": 139,
+   "pali": "‘‘Tena hi bhavaṃ govindo satta vassāni āgametu. Sattannaṃ vassānaṃ accayena mayampi agārasmā anagāriyaṃ pabbajissāma, atha yā te gati, sā no gati bhavissatī’’ti.",
+   "zh": "“那么，[[govinda|典尊]]尊者，请您等待七年。七年过后，我们也将舍离俗家，出家而过无家的梵行生活。那时，您的去处，便是我们的去处。”"
+  },
+  {
+   "idx": 140,
+   "pali": "‘‘‘Aticiraṃ kho, bho, satta vassāni, nāhaṃ sakkomi, bhavante, satta vassāni āgametuṃ. Ko nu kho pana, bho, jānāti jīvitānaṃ! Gamanīyo samparāyo, mantāyaṃ boddhabbaṃ, kattabbaṃ kusalaṃ, caritabbaṃ brahmacariyaṃ, natthi jātassa amaraṇaṃ. Yathā kho pana me sutaṃ brahmuno āmagandhe bhāsamānassa, te na sunimmadayā agāraṃ ajjhāvasatā, pabbajissāmahaṃ, bho, agārasmā anagāriya’’’nti. ‘‘Tena hi bhavaṃ govindo chabbassāni āgametu…pe… pañca vassāni āgametu… cattāri vassāni āgametu… tīṇi vassāni āgametu… dve vassāni āgametu… ekaṃ vassaṃ āgametu, ekassa vassassa accayena mayampi agārasmā anagāriyaṃ pabbajissāma, atha yā te gati, sā no gati bhavissatī’’ti.",
+   "zh": "“‘尊者，七年太过漫长，我无法等待诸位尊者七年。尊者，谁能知道生命呢！来世就在前方等候，应当以智慧了知，应当行善，应当修习梵行，凡有生者，无有不死。正如我曾听闻梵天神在讲述“腥秽”时所说，居于俗家，是难以净化那些腥秽的。尊者，我将舍弃俗家，从在家的生活出家，过无家的生活。’‘那么，尊者，请您等待六年……（中略）……请您等待五年……请您等待四年……请您等待三年……请您等待两年……请您等待一年。一年之后，我们也将舍弃俗家，从在家的生活出家，成为无家者。到那时，您的去处，便是我们的去处。’”"
+  },
+  {
+   "idx": 141,
+   "pali": "‘‘‘Aticiraṃ kho, bho, ekaṃ vassaṃ, nāhaṃ sakkomi bhavante ekaṃ vassaṃ āgametuṃ. Ko nu kho pana, bho, jānāti jīvitānaṃ! Gamanīyo samparāyo, mantāyaṃ boddhabbaṃ, kattabbaṃ kusalaṃ , caritabbaṃ brahmacariyaṃ, natthi jātassa amaraṇaṃ. Yathā kho pana me sutaṃ brahmuno āmagandhe bhāsamānassa, te na sunimmadayā agāraṃ ajjhāvasatā, pabbajissāmahaṃ, bho, agārasmā anagāriya’’nti. ‘‘Tena hi bhavaṃ govindo satta māsāni āgametu, sattannaṃ māsānaṃ accayena mayampi agārasmā anagāriyaṃ pabbajissāma, atha yā te gati, sā no gati bhavissatī’’ti.",
+   "zh": "“尊者，一年实在太久，我无法等待各位尊者一年。尊者，有谁知道生命呢！来世在前，应以智慧觉了，应行善法，应修梵行，有生者无有不死。正如我所闻梵天神宣说‘腥秽’时所言，居家实难完全净化那些腥秽。尊者，我将舍离俗家，出家而过无家的梵行生活。” “那么，尊者，请您等待七个月吧。七个月过后，我们也将舍离俗家，出家成为无家者。那时，您的去处，便是我们的去处。”"
+  },
+  {
+   "idx": 142,
+   "pali": "‘‘‘Aticiraṃ kho, bho, satta māsāni, nāhaṃ sakkomi bhavante satta māsāni āgametuṃ. Ko nu kho pana, bho, jānāti jīvitānaṃ. Gamanīyo samparāyo, mantāyaṃ boddhabbaṃ , kattabbaṃ kusalaṃ, caritabbaṃ brahmacariyaṃ, natthi jātassa amaraṇaṃ. Yathā kho pana me sutaṃ brahmuno āmagandhe bhāsamānassa, te na sunimmadayā agāraṃ ajjhāvasatā, pabbajissāmahaṃ, bho, agārasmā anagāriya’’nti.",
+   "zh": "“尊者，七个月实在太久，我无法等候诸位尊者七个月。尊者，谁能了知生命呢？来世当行，应以智慧觉知，应行善法，应修梵行，有生则必有一死。正如我所听闻梵天神宣说‘腥秽’时所说，居于家中，难以清净那些腥秽。尊者，我将舍弃俗家，从在家出家，成为无家者。”"
+  },
+  {
+   "idx": 143,
+   "pali": "‘‘‘Tena hi bhavaṃ govindo cha māsāni āgametu…pe… pañca māsāni āgametu… cattāri māsāni āgametu… tīṇi māsāni āgametu… dve māsāni āgametu… ekaṃ māsaṃ āgametu… addhamāsaṃ āgametu, addhamāsassa accayena mayampi agārasmā anagāriyaṃ pabbajissāma, atha yā te gati, sā no gati bhavissatī’’ti.",
+   "zh": "“那么，尊者，请您等待六个月……五个月……四个月……三个月……两个月……一个月……乃至半个月吧。待半个月过后，我们也舍弃俗家，从在家出家，成为无家者。那时，您的去处，便是我们的去处。”"
+  },
+  {
+   "idx": 144,
+   "pali": "‘‘‘Aticiraṃ kho, bho, addhamāso, nāhaṃ sakkomi bhavante addhamāsaṃ āgametuṃ. Ko nu kho pana, bho, jānāti jīvitānaṃ! Gamanīyo samparāyo, mantāyaṃ boddhabbaṃ, kattabbaṃ kusalaṃ, caritabbaṃ brahmacariyaṃ, natthi jātassa amaraṇaṃ. Yathā kho pana me sutaṃ brahmuno āmagandhe bhāsamānassa, te na sunimmadayā agāraṃ ajjhāvasatā, pabbajissāmahaṃ, bho, agārasmā anagāriya’’nti. ‘‘Tena hi bhavaṃ govindo sattāhaṃ āgametu, yāva mayaṃ sake puttabhātaro rajjena anusāsissāma, sattāhassa accayena mayampi agārasmā anagāriyaṃ pabbajissāma, atha yā te gati, sā no gati bhavissatī’’ti. ‘‘Na ciraṃ kho, bho, sattāhaṃ, āgamessāmahaṃ bhavante sattāha’’nti.",
+   "zh": "“尊者，半个月也太久，我无法等候尊者们半个月。谁能了知生命呢？来世当行，应以智慧觉知，应行善法，应修梵行，有生则必有一死。正如我所听闻梵天神宣说‘腥秽’时所说，居于家中，难以清净那些腥秽。我将舍弃俗家，从在家出家，成为无家者。”“那么，果文德尊者，请等待七天，让我们教导儿子们和兄弟们治国之道。七天过后，我们也将舍弃俗家，从在家出家，成为无家者。那时，您的去处，便是我们的去处。”“尊者，七天不久，我愿意等待尊者们七天。”"
+  },
+  {
+   "idx": 145,
+   "pali": "Brāhmaṇamahāsālādīnaṃ āmantanā",
+   "zh": "对婆罗门大富者等的告知"
+  },
+  {
+   "idx": 146,
+   "pali": "‘‘Atha kho, bho, mahāgovindo brāhmaṇo yena te satta ca brāhmaṇamahāsālā satta ca nhātakasatāni tenupasaṅkami; upasaṅkamitvā te satta ca brāhmaṇamahāsāle satta ca nhātakasatāni etadavoca – ‘‘aññaṃ dāni bhavanto ācariyaṃ pariyesantu, yo bhavantānaṃ mante vācessati. Icchāmahaṃ, bho, agārasmā anagāriyaṃ pabbajituṃ. Yathā kho pana me sutaṃ brahmuno āmagandhe bhāsamānassa. Te na sunimmadayā agāraṃ ajjhāvasatā, pabbajissāmahaṃ, bho, agārasmā anagāriya’’nti. ‘‘Mā bhavaṃ govindo agārasmā anagāriyaṃ pabbaji. Pabbajjā, bho, appesakkhā ca appalābhā ca; brahmaññaṃ mahesakkhañca mahālābhañcā’’ti. ‘‘Mā bhavanto evaṃ avacuttha – ‘‘pabbajjā appesakkhā ca appalābhā ca, brahmaññaṃ mahesakkhañca mahālābhañcā’’ti. Ko nu kho, bho, aññatra mayā mahesakkhataro vā mahālābhataro vā! Ahañhi, bho, etarahi rājāva raññaṃ brahmāva brāhmaṇānaṃ devatāva gahapatikānaṃ. Tamahaṃ sabbaṃ pahāya agārasmā anagāriyaṃ pabbajissāmi. Yathā kho pana me sutaṃ brahmuno āmagandhe bhāsamānassa, te na sunimmadayā agāraṃ ajjhāvasatā. Pabbajissāmahaṃ, bho, agārasmā anagāriya’’nti. ‘‘Sace bhavaṃ govindo agārasmā anagāriyaṃ pabbajissati, mayampi agārasmā anagāriyaṃ pabbajissāma, atha yā te gati, sā no gati bhavissatī’’ti.",
+   "zh": "“那时，尊者，大典尊婆罗门便前往那七位婆罗门大富者和七百位沐浴者处；到了之后，对那七位婆罗门大富者和七百位沐浴者这样说：‘诸位尊者，现在请另寻一位老师，为你们教授咒语。诸位，我愿从在家生活出家而为无家者。正如我听梵天神所说，在家之人难以圆满清净地修行。我将从在家生活出家而为无家者。’‘大典尊尊者，请不要从在家生活出家而为无家者。尊者，出家微力、少利；婆罗门则有大威势、大利益。’‘诸位尊者，请不要这样说：“出家少恭敬、少利益，婆罗门有大恭敬、大利益。”诸位，除了我之外，还有谁比我更得大恭敬、大利益呢！诸位，我现今于诸王中犹如王，于诸婆罗门中犹如梵天神，于诸居士中犹如天人。我将舍弃这一切，从在家生活出家而为无家者。正如我听梵天神所说，在家之人难以圆满清净地修行。我将从在家生活出家而为无家者。’‘如果大典尊尊者从在家生活出家而为无家者，我们也愿从在家生活出家而为无家者，如此，您的去处，便是我们的去处。’”",
+   "n": "324"
+  },
+  {
+   "idx": 147,
+   "pali": "Bhariyānaṃ āmantanā",
+   "zh": "对妻子们的告知"
+  },
+  {
+   "idx": 148,
+   "pali": "‘‘Atha kho, bho, mahāgovindo brāhmaṇo yena cattārīsā bhariyā sādisiyo tenupasaṅkami; upasaṅkamitvā cattārīsā bhariyā sādisiyo etadavoca – ‘‘yā bhotīnaṃ icchati, sakāni vā ñātikulāni gacchatu aññaṃ vā bhattāraṃ pariyesatu. Icchāmahaṃ, bhotī, agārasmā anagāriyaṃ pabbajituṃ. Yathā kho pana me sutaṃ brahmuno āmagandhe bhāsamānassa, te na sunimmadayā agāraṃ ajjhāvasatā. Pabbajissāmahaṃ, bhotī, agārasmā anagāriya’’nti. ‘‘Tvaññeva no ñāti ñātikāmānaṃ, tvaṃ pana bhattā bhattukāmānaṃ. Sace bhavaṃ govindo agārasmā anagāriyaṃ pabbajissati, mayampi agārasmā anagāriyaṃ pabbajissāma, atha yā te gati, sā no gati bhavissatī’’ti.",
+   "zh": "“那时，尊者，大典尊婆罗门来到四十位同等妻子面前，到了之后，对这四十位妻子说：‘夫人们，若你们中有人愿意，或可返回各自的亲族之家，或可另寻一位丈夫。我愿从在家生活出家，成为无家者。正如我听闻梵天神所说的“腐臭”，在家者于此不易净化。夫人，我将从在家生活出家，成为无家者。’她们答道：‘您是渴望亲情者的亲人，您是渴望丈夫者的丈夫。如果大典尊尊者从在家生活出家，成为无家者，我们也愿从在家生活出家，成为无家者。您的去处，便是我们的去处。’”",
+   "n": "325"
+  },
+  {
+   "idx": 149,
+   "pali": "Mahāgovindapabbajjā",
+   "zh": "大典尊出家"
+  },
+  {
+   "idx": 150,
+   "pali": "‘‘Atha kho, bho, mahāgovindo brāhmaṇo tassa sattāhassa accayena kesamassuṃ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṃ pabbaji. Pabbajitaṃ pana mahāgovindaṃ brāhmaṇaṃ satta ca rājāno khattiyā muddhāvasittā satta ca brāhmaṇamahāsālā satta ca nhātakasatāni cattārīsā ca bhariyā sādisiyo anekāni ca khattiyasahassāni anekāni ca brāhmaṇasahassāni anekāni ca gahapatisahassāni anekehi ca itthāgārehi itthiyo kesamassuṃ ohāretvā kāsāyāni vatthāni acchādetvā mahāgovindaṃ brāhmaṇaṃ agārasmā anagāriyaṃ pabbajitaṃ anupabbajiṃsu. Tāya sudaṃ, bho, parisāya parivuto mahāgovindo brāhmaṇo gāmanigamarājadhānīsu cārikaṃ carati. Yaṃ kho pana, bho, tena samayena mahāgovindo brāhmaṇo gāmaṃ vā nigamaṃ vā upasaṅkamati, tattha rājāva hoti raññaṃ, brahmāva brāhmaṇānaṃ, devatāva gahapatikānaṃ. Tena kho pana samayena manussā khipanti vā upakkhalanti vā te evamāhaṃsu – ‘‘namatthu mahāgovindassa brāhmaṇassa, namatthu satta purohitassā’’’ti.",
+   "zh": "“那时，朋友，七天过后，大典尊婆罗门剃除了须发，披上袈裟，从在家生活出家而为无家者。大典尊婆罗门出家后，那七位灌顶的刹帝利国王、七位婆罗门富豪、七百位已沐浴的弟子、四十位同等地位的妻子，以及许多刹帝利、许多婆罗门、许多居士，乃至后宫中的许多女子，也都剃除须发，披上袈裟，随大典尊婆罗门出家，成为无家者。朋友，大典尊婆罗门就这样被随众簇拥着，游化于各个村落、城镇与王都之间。朋友，在那个时代，每当大典尊婆罗门来到某个村落或城镇时，他在国王们之中便如同国王，在婆罗门们之中便如同梵天神，在居士们之中便如同天神。而且，若有人打喷嚏或被绊倒，他们都会说：‘礼敬大典尊婆罗门！礼敬七位国师！’”",
+   "n": "326"
+  },
+  {
+   "idx": 151,
+   "pali": "‘‘Mahāgovindo, bho, brāhmaṇo mettāsahagatena cetasā ekaṃ disaṃ pharitvā vihāsi, tathā dutiyaṃ, tathā tatiyaṃ, tathā catutthaṃ. Iti uddhamadho tiriyaṃ sabbadhi sabbattatāya sabbāvantaṃ lokaṃ mettāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjena pharitvā vihāsi. Karuṇāsahagatena cetasā…pe… muditāsahagatena cetasā…pe… upekkhāsahagatena cetasā…pe… abyāpajjena pharitvā vihāsi sāvakānañca brahmalokasahabyatāya maggaṃ desesi.",
+   "zh": "“朋友，大典尊婆罗门以慈俱行之心遍满一方而住，同样遍满第二方、第三方、第四方。如是向上、向下、横向，遍一切处，视一切众生如己，以广大、崇高、无量、无怨恨、无恼害的慈俱行之心遍满一切世间而住。以悲俱行之心……（中略）……以喜俱行之心……（中略）……以舍俱行之心，无恼害地遍满而住。而且，他还为弟子们开示了导向与梵天界共住的修行之道。”",
+   "n": "327"
+  },
+  {
+   "idx": 152,
+   "pali": "‘‘Ye kho pana, bho, tena samayena mahāgovindassa brāhmaṇassa sāvakā sabbena sabbaṃ sāsanaṃ ājāniṃsu. Te kāyassa bhedā paraṃ maraṇā sugatiṃ brahmalokaṃ upapajjiṃsu. Ye na sabbena sabbaṃ sāsanaṃ ājāniṃsu, te kāyassa bhedā paraṃ maraṇā appekacce paranimmitavasavattīnaṃ devānaṃ sahabyataṃ upapajjiṃsu; appekacce nimmānaratīnaṃ devānaṃ sahabyataṃ upapajjiṃsu; appekacce tusitānaṃ devānaṃ sahabyataṃ upapajjiṃsu; appekacce yāmānaṃ devānaṃ sahabyataṃ upapajjiṃsu; appekacce tāvatiṃsānaṃ devānaṃ sahabyataṃ upapajjiṃsu; appekacce cātumahārājikānaṃ devānaṃ sahabyataṃ upapajjiṃsu; ye sabbanihīnaṃ kāyaṃ paripūresuṃ te gandhabbakāyaṃ paripūresuṃ. Iti kho, bho , sabbesaṃyeva tesaṃ kulaputtānaṃ amoghā pabbajjā ahosi avañjhā saphalā saudrayā’’’ti.",
+   "zh": "“然而，朋友，那时，大典尊婆罗门的弟子们中，凡是完全彻底通达其教导者，于身坏命终后，投生善趣、梵天界。那些未能完全彻底通达教导者，于身坏命终后，有的投生于他化自在天诸天中共住；有的投生于[[nimmānarati|化乐天]]诸天中共住；有的投生于[[tusita|兜率天]]诸天中共住；有的投生于夜摩天诸天中共住；有的投生于[[tāvatiṃsa|三十三天]]诸天中共住；有的投生于四大王天诸天中共住；而那些成就最下等身者，则成就乾闼婆身。朋友，如此，所有这些善男子之出家，绝非空无果报，并非徒劳，实有成果，实有甘露味。”",
+   "n": "328"
+  },
+  {
+   "idx": 153,
+   "pali": "‘‘Sarati taṃ bhagavā’’ti? ‘‘Sarāmahaṃ, pañcasikha. Ahaṃ tena samayena mahāgovindo brāhmaṇo ahosiṃ. Ahaṃ tesaṃ sāvakānaṃ brahmalokasahabyatāya maggaṃ desesiṃ. Taṃ kho pana me, pañcasikha, brahmacariyaṃ na nibbidāya na virāgāya na nirodhāya na upasamāya na abhiññāya na sambodhāya na nibbānāya saṃvattati, yāvadeva brahmalokūpapattiyā.",
+   "zh": "“世尊，您是否记得此事？”“五髻，我记得。那时，我正是那位大典尊婆罗门。我曾为那些弟子开示导向与梵天界共住的修行之道。然而，五髻，我那时的梵行，并不导向厌离、不导向离贪、不导向灭尽、不导向寂止、不导向证智、不导向觉悟、不导向涅槃，它仅仅导向投生梵天界。”",
+   "n": "329"
+  },
+  {
+   "idx": 154,
+   "pali": "Idaṃ kho pana me, pañcasikha, brahmacariyaṃ ekantanibbidāya virāgāya nirodhāya upasamāya abhiññāya sambodhāya nibbānāya saṃvattati. Katamañca taṃ, pañcasikha, brahmacariyaṃ ekantanibbidāya virāgāya nirodhāya upasamāya abhiññāya sambodhāya nibbānāya saṃvattati? Ayameva ariyo aṭṭhaṅgiko maggo. Seyyathidaṃ – sammādiṭṭhi sammāsaṅkappo sammāvācā sammākammanto sammāājīvo sammāvāyāmo sammāsati sammāsamādhi. Idaṃ kho taṃ, pañcasikha, brahmacariyaṃ ekantanibbidāya virāgāya nirodhāya upasamāya abhiññāya sambodhāya nibbānāya saṃvattati.",
+   "zh": "“然而，五髻，我现在的这个梵行，乃是纯粹导向厌离、导向离贪、导向灭尽、导向寂止、导向证智、导向觉悟、导向涅槃。那么，五髻，哪一个梵行是纯粹导向厌离、导向离贪、导向灭尽、导向寂止、导向证智、导向觉悟、导向涅槃的呢？正是这八支圣道。也就是：正见、正思惟、正语、正业、正命、正精进、正念、正定。五髻，这个梵行，便是纯粹导向厌离、导向离贪、导向灭尽、导向寂止、导向证智、导向觉悟、导向涅槃。”"
+  },
+  {
+   "idx": 155,
+   "pali": "‘‘Ye kho pana me, pañcasikha, sāvakā sabbena sabbaṃ sāsanaṃ ājānanti, te āsavānaṃ khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharanti; ye na sabbena sabbaṃ sāsanaṃ ājānanti, te pañcannaṃ orambhāgiyānaṃ saṃyojanānaṃ parikkhayā opapātikā honti tattha parinibbāyino anāvattidhammā tasmā lokā. Ye na sabbena sabbaṃ sāsanaṃ ājānanti, appekacce tiṇṇaṃ saṃyojanānaṃ parikkhayā rāgadosamohānaṃ tanuttā sakadāgāmino honti sakideva imaṃ lokaṃ āgantvā dukkhassantaṃ karissanti . Ye na sabbena sabbaṃ sāsanaṃ ājānanti, appekacce tiṇṇaṃ saṃyojanānaṃ parikkhayā sotāpannā honti avinipātadhammā niyatā sambodhiparāyaṇā. Iti kho, pañcasikha, sabbesaṃyeva imesaṃ kulaputtānaṃ amoghā pabbajjā avañjhā saphalā saudrayā’’ti.",
+   "zh": "“然而，五髻，我的弟子中，凡完全通达教导者，以诸漏灭尽，于现法自己以证智作证、具足，住于无漏的心解脱与慧解脱；凡未能完全通达教导者，有些以五下分结交尽，成为化生者，在那里般涅槃，不再从那世界回还；有些以三结交尽，并贪、嗔、痴薄弱，成为一来者，只来此世间一次，便令苦尽；有些以三结交尽，成为入流者，不堕恶趣，必定趣向正觉。五髻，如此，所有这些善男子的出家，皆不空过、不虚妄，有结果、有利益。”",
+   "n": "330"
+  },
+  {
+   "idx": 156,
+   "pali": "Idamavoca bhagavā. Attamano pañcasikho gandhabbaputto bhagavato bhāsitaṃ abhinanditvā anumoditvā bhagavantaṃ abhivādetvā padakkhiṇaṃ katvā tatthevantaradhāyīti.",
+   "zh": "世尊这样说了。乾闼婆子五髻欢喜踊跃，对世尊的教说赞叹随喜，然后顶礼世尊，右绕之后，便在那里隐没不见。"
+  },
+  {
+   "idx": 157,
+   "pali": "Mahāgovindasuttaṃ niṭṭhitaṃ chaṭṭhaṃ.",
+   "zh": "大典尊经第六终",
+   "type": "colophon"
+  }
+ ]
+}

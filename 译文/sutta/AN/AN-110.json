@@ -1,0 +1,194 @@
+{
+ "uid": 110,
+ "title": "1. 第一恶行经",
+ "nik": "AN",
+ "segs": [
+  {
+   "idx": 0,
+   "pali": "(25) 5. Duccaritavaggo",
+   "zh": "（二十五）第五 恶行品"
+  },
+  {
+   "idx": 1,
+   "pali": "1. Paṭhamaduccaritasuttaṃ",
+   "zh": "1. 第一[[paṭhamaduccaritasutta|恶行经]]"
+  },
+  {
+   "idx": 2,
+   "pali": "‘‘Pañcime , bhikkhave, ādīnavā duccarite. Katame pañca? Attāpi attānaṃ upavadati; anuvicca viññū garahanti; pāpako kittisaddo abbhuggacchati; sammūḷho kālaṃ karoti; kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjati. Ime kho, bhikkhave, pañca ādīnavā duccarite.",
+   "zh": "“诸比丘，恶行有此五种过患。哪五种？自己呵责自己；为智者审察后所呵责；恶名流布；迷乱而死；身坏命终后，生于苦界、恶趣、堕处、地狱。诸比丘，这便是恶行的五种过患。",
+   "n": "241"
+  },
+  {
+   "idx": 3,
+   "pali": "‘‘Pañcime, bhikkhave, ānisaṃsā sucarite. Katame pañca? Attāpi attānaṃ na upavadati; anuvicca viññū pasaṃsanti; kalyāṇo kittisaddo abbhuggacchati; asammūḷho kālaṃ karoti; kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjati. Ime kho, bhikkhave, pañca ānisaṃsā sucarite’’ti. Paṭhamaṃ.",
+   "zh": "“诸比丘，善行有此五种功德。哪五种？自己不会呵责自己；为智者审察后所赞叹；善名流布；不迷乱而死；身坏命终后，生于善趣、天界。诸比丘，这便是善行的五种功德。”第一经。"
+  },
+  {
+   "idx": 4,
+   "pali": "2. Paṭhamakāyaduccaritasuttaṃ",
+   "zh": "2. [[paṭhamakāyaduccaritasutta|第一身恶行经]]"
+  },
+  {
+   "idx": 5,
+   "pali": "‘‘Pañcime, bhikkhave, ādīnavā kāyaduccarite…pe… ānisaṃsā kāyasucarite…pe…. Dutiyaṃ.",
+   "zh": "“诸比丘，此是身恶行之五种过患……此是身善行之五种功德……。第二经。",
+   "n": "242"
+  },
+  {
+   "idx": 6,
+   "pali": "3. Paṭhamavacīduccaritasuttaṃ",
+   "zh": "3. [[paṭhamavacīduccaritasutta|第一语恶行经]]"
+  },
+  {
+   "idx": 7,
+   "pali": "‘‘Pañcime , bhikkhave, ādīnavā vacīduccarite…pe… ānisaṃsā vacīsucarite…pe…. Tatiyaṃ.",
+   "zh": "“诸比丘，此是语恶行之五种过患……此是语善行之五种功德……。第三经。",
+   "n": "243"
+  },
+  {
+   "idx": 8,
+   "pali": "4. Paṭhamamanoduccaritasuttaṃ",
+   "zh": "4. [[paṭhamamanoduccaritasutta|第一·意恶行经]]"
+  },
+  {
+   "idx": 9,
+   "pali": "‘‘Pañcime, bhikkhave, ādīnavā manoduccarite…pe… ānisaṃsā manosucarite . Katame pañca? Attāpi attānaṃ na upavadati; anuvicca viññū pasaṃsanti; kalyāṇo kittisaddo abbhuggacchati; asammūḷho kālaṃ karoti; kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjati. Ime kho, bhikkhave, pañca ānisaṃsā manosucarite’’ti. Catutthaṃ.",
+   "zh": "“诸比丘，意恶行有此五种过患……意善行有此五种功德。哪五种？自己不责难自己；有智者审察之后给予赞叹；善好的名声得到传扬；命终时不迷乱；身坏命终后，往生于善趣、天界。诸比丘，这些即是意善行的五种功德。”第四经。",
+   "n": "244"
+  },
+  {
+   "idx": 10,
+   "pali": "5. Dutiyaduccaritasuttaṃ",
+   "zh": "5. [[dutiyaduccaritasutta|第二·恶行经]]"
+  },
+  {
+   "idx": 11,
+   "pali": "‘‘Pañcime, bhikkhave, ādīnavā duccarite. Katame pañca? Attāpi attānaṃ upavadati; anuvicca viññū garahanti; pāpako kittisaddo abbhuggacchati; saddhammā vuṭṭhāti; asaddhamme patiṭṭhāti. Ime kho, bhikkhave, pañca ādīnavā duccarite.",
+   "zh": "“诸比丘，恶行有这五种过患。哪五种？自责自谴；深思之后的智者呵责；恶名远播；退失正法；安立于非正法。诸比丘，这就是恶行的五种过患。",
+   "n": "245"
+  },
+  {
+   "idx": 12,
+   "pali": "‘‘Pañcime, bhikkhave, ānisaṃsā sucarite. Katame pañca? Attāpi attānaṃ na upavadati; anuvicca viññū pasaṃsanti; kalyāṇo kittisaddo abbhuggacchati; asaddhammā vuṭṭhāti; saddhamme patiṭṭhāti. Ime kho, bhikkhave, pañca ānisaṃsā sucarite’’ti. Pañcamaṃ.",
+   "zh": "“诸比丘，善行有这五种功德。哪五种？不自我谴责；深思之后的智者称赞；善名远播；退离非正法；安立于正法。诸比丘，这就是善行的五种功德。”第五经。"
+  },
+  {
+   "idx": 13,
+   "pali": "6. Dutiyakāyaduccaritasuttaṃ",
+   "zh": "6. [[dutiyakāyaduccaritasutta|第二身恶行经]]"
+  },
+  {
+   "idx": 14,
+   "pali": "‘‘Pañcime, bhikkhave, ādīnavā kāyaduccarite…pe… ānisaṃsā kāyasucarite…pe…. Chaṭṭhaṃ.",
+   "zh": "“诸比丘，身恶行有五种过患……身善行有五种功德……。第六经。",
+   "n": "246"
+  },
+  {
+   "idx": 15,
+   "pali": "7. Dutiyavacīduccaritasuttaṃ",
+   "zh": "7. [[dutiyavacīduccaritasutta|第二语恶行经]]"
+  },
+  {
+   "idx": 16,
+   "pali": "‘‘Pañcime, bhikkhave, ādīnavā vacīduccarite…pe… ānisaṃsā vacīsucarite…pe…. Sattamaṃ.",
+   "zh": "“诸比丘，语恶行有五种过患……语善行有五种利益……。第七经。",
+   "n": "247"
+  },
+  {
+   "idx": 17,
+   "pali": "8. Dutiyamanoduccaritasuttaṃ",
+   "zh": "8. [[dutiyamanoduccaritasutta|第二意恶行经]]"
+  },
+  {
+   "idx": 18,
+   "pali": "‘‘Pañcime , bhikkhave, ādīnavā manoduccarite…pe… ānisaṃsā manosucarite. Katame pañca? Attāpi attānaṃ na upavadati; anuvicca viññū pasaṃsanti; kalyāṇo kittisaddo abbhuggacchati; asaddhammā vuṭṭhāti; saddhamme patiṭṭhāti. Ime kho, bhikkhave, pañca ānisaṃsā manosucarite’’ti. Aṭṭhamaṃ.",
+   "zh": "“诸比丘！意恶行有这些五种过患……意善行有这些利益。哪五种？自己不呵责自己；智者审察后加以称赞；善誉远扬；出离非正法；安住于正法。诸比丘！这即是意善行的五种利益。”第八经。",
+   "n": "248"
+  },
+  {
+   "idx": 19,
+   "pali": "9. Sivathikasuttaṃ",
+   "zh": "9. [[sivathikasutta|坟场经]]"
+  },
+  {
+   "idx": 20,
+   "pali": "‘‘Pañcime, bhikkhave, ādīnavā sivathikāya . Katame pañca? Asuci, duggandhā, sappaṭibhayā, vāḷānaṃ amanussānaṃ āvāso, bahuno janassa ārodanā – ime kho, bhikkhave, pañca ādīnavā sivathikāya.",
+   "zh": "“诸比丘，有这五种坟场的过患。哪五种？不净、恶臭、可怖畏、猛兽与非人的住处、众多人的哭泣。诸比丘，这些便是坟场的五种过患。",
+   "n": "249"
+  },
+  {
+   "idx": 21,
+   "pali": "‘‘Evamevaṃ kho, bhikkhave, pañcime ādīnavā sivathikūpame puggale. Katame pañca? Idha , bhikkhave, ekacco puggalo asucinā kāyakammena samannāgato hoti; asucinā vacīkammena samannāgato hoti; asucinā manokammena samannāgato hoti. Idamassa asucitāya vadāmi. Seyyathāpi sā, bhikkhave, sivathikā asuci; tathūpamāhaṃ, bhikkhave, imaṃ puggalaṃ vadāmi.",
+   "zh": "“同样地，诸比丘，有这五种坟场譬喻之人的过患。哪五种？诸比丘，在此，有人具足不净的身业，具足不净的语业，具足不净的意业。对此，我说这是他的不净。诸比丘，正如那坟场是不净的；诸比丘，我说此人也是如此。"
+  },
+  {
+   "idx": 22,
+   "pali": "‘‘Tassa asucinā kāyakammena samannāgatassa, asucinā vacīkammena samannāgatassa, asucinā manokammena samannāgatassa pāpako kittisaddo abbhuggacchati. Idamassa duggandhatāya vadāmi. Seyyathāpi sā, bhikkhave, sivathikā duggandhā; tathūpamāhaṃ, bhikkhave, imaṃ puggalaṃ vadāmi.",
+   "zh": "“他具足不净的身业、不净的语业、不净的意业，恶名声便传扬开来。我说这是他的恶臭。诸比丘，犹如那坟场恶臭，我说此人也是如此。"
+  },
+  {
+   "idx": 23,
+   "pali": "‘‘Tamenaṃ asucinā kāyakammena samannāgataṃ, asucinā vacīkammena samannāgataṃ, asucinā manokammena samannāgataṃ pesalā sabrahmacārī ārakā parivajjanti. Idamassa sappaṭibhayasmiṃ vadāmi. Seyyathāpi sā, bhikkhave, sivathikā sappaṭibhayā; tathūpamāhaṃ, bhikkhave, imaṃ puggalaṃ vadāmi.",
+   "zh": "“善良的同梵行者会远远避开那些身业不净、语业不净、意业不净的人。我说，这便是他的可怖畏处。诸比丘，正如那坟场是可怖畏的；诸比丘，我说此人也是如此。"
+  },
+  {
+   "idx": 24,
+   "pali": "‘‘So asucinā kāyakammena samannāgato, asucinā vacīkammena samannāgato , asucinā manokammena samannāgato sabhāgehi puggalehi saddhiṃ saṃvasati. Idamassa vāḷāvāsasmiṃ vadāmi. Seyyathāpi sā , bhikkhave, sivathikā vāḷānaṃ amanussānaṃ āvāso; tathūpamāhaṃ, bhikkhave, imaṃ puggalaṃ vadāmi.",
+   "zh": "“他身业不净、语业不净、意业不净，却与同类之人共住。我说，这便是他的猛兽住处。诸比丘，正如那坟场是猛兽与非人的住处；诸比丘，我说此人也是如此。"
+  },
+  {
+   "idx": 25,
+   "pali": "‘‘Tamenaṃ asucinā kāyakammena samannāgataṃ, asucinā vacīkammena samannāgataṃ, asucinā manokammena samannāgataṃ pesalā sabrahmacārī disvā khīyadhammaṃ āpajjanti – ‘aho vata no dukkhaṃ ye mayaṃ evarūpehi puggalehi saddhiṃ saṃvasāmā’ti! Idamassa ārodanāya vadāmi. Seyyathāpi sā, bhikkhave, sivathikā bahuno janassa ārodanā; tathūpamāhaṃ, bhikkhave, imaṃ puggalaṃ vadāmi. Ime kho, bhikkhave, pañca ādīnavā sivathikūpame puggale’’ti. Navamaṃ.",
+   "zh": "“善良的同梵行者见到身业不净、语业不净、意业不净的人后，便心生怨叹：‘唉！我们竟与这样的人共住，真是痛苦！’我说，这便是他的哭泣。诸比丘，正如那坟场是众人的哭泣处；诸比丘，我说此人也是如此。诸比丘，这就是坟场喻之人的五种过患。”第九经。"
+  },
+  {
+   "idx": 26,
+   "pali": "10. Puggalappasādasuttaṃ",
+   "zh": "10. [[puggalappasādasutta|个人净信经]]"
+  },
+  {
+   "idx": 27,
+   "pali": "‘‘Pañcime , bhikkhave, ādīnavā puggalappasāde. Katame pañca? Yasmiṃ, bhikkhave, puggale puggalo abhippasanno hoti, so tathārūpaṃ āpattiṃ āpanno hoti yathārūpāya āpattiyā saṅgho ukkhipati. Tassa evaṃ hoti – ‘yo kho myāyaṃ puggalo piyo manāpo so saṅghena ukkhitto’ti. Bhikkhūsu appasādabahulo hoti. Bhikkhūsu appasādabahulo samāno aññe bhikkhū na bhajati. Aññe bhikkhū abhajanto saddhammaṃ na suṇāti. Saddhammaṃ asuṇanto saddhammā parihāyati. Ayaṃ, bhikkhave, paṭhamo ādīnavo puggalappasāde.",
+   "zh": "“比丘们，对个人的净信有这五种过患。哪五种呢？比丘们，若有人对某个人深怀净信，而那个人犯下那样的罪过，僧团因该罪过而将其举罪。他便这样想：‘我所喜爱、可意的这个人被僧团举罪了。’于是他对众比丘多无净信。对众比丘多无净信，他便不亲近其他比丘；不亲近其他比丘，他便不听闻正法；不听闻正法，他便从正法退失。比丘们，这是对个人净信的第一种过患。”",
+   "n": "250"
+  },
+  {
+   "idx": 28,
+   "pali": "‘‘Puna caparaṃ, bhikkhave, yasmiṃ puggale puggalo abhippasanno hoti, so tathārūpaṃ āpattiṃ āpanno hoti yathārūpāya āpattiyā saṅgho ante nisīdāpeti . Tassa evaṃ hoti – ‘yo kho myāyaṃ puggalo piyo manāpo so saṅghena ante nisīdāpito’ti. Bhikkhūsu appasādabahulo hoti. Bhikkhūsu appasādabahulo samāno aññe bhikkhū na bhajati. Aññe bhikkhū abhajanto saddhammaṃ na suṇāti. Saddhammaṃ asuṇanto saddhammā parihāyati. Ayaṃ, bhikkhave, dutiyo ādīnavo puggalappasāde.",
+   "zh": "“再者，比丘们，若有人对某个人深怀净信，而那个人犯下那样的罪过，僧团因该罪过而令其坐于末座。他便这样想：‘我所喜爱、可意的这个人被僧团令坐于末座了。’于是他对众比丘多无净信。对众比丘多无净信，他便不亲近其他比丘；不亲近其他比丘，他便不听闻正法；不听闻正法，他便从正法退失。比丘们，这是对个人净信的第二种过患。”"
+  },
+  {
+   "idx": 29,
+   "pali": "‘‘Puna caparaṃ, bhikkhave, yasmiṃ puggale puggalo abhippasanno hoti, so disāpakkanto hoti…pe… so vibbhanto hoti…pe… so kālaṅkato hoti. Tassa evaṃ hoti – ‘yo kho myāyaṃ puggalo piyo manāpo so kālaṅkato’ti. Aññe bhikkhū na bhajati. Aññe bhikkhū abhajanto saddhammaṃ na suṇāti. Saddhammaṃ asuṇanto saddhammā parihāyati. Ayaṃ, bhikkhave, pañcamo ādīnavo puggalappasāde. Ime kho, bhikkhave, pañca ādīnavā puggalappasāde’’ti. Dasamaṃ.",
+   "zh": "“再者，比丘们，若有人对某人深怀净信，而那人却远走他方……乃至还俗……乃至命终。他便这样想：‘我所爱乐、可意的这个人命终了。’于是他不再亲近其他比丘。不亲近其他比丘，便不听闻正法。不听闻正法，便从正法退失。比丘们，这是对个人净信的第五种过患。比丘们，这些即是对个人净信的五种过患。”第十经。"
+  },
+  {
+   "idx": 30,
+   "pali": "Duccaritavaggo pañcamo.",
+   "zh": "恶行品第五"
+  },
+  {
+   "idx": 31,
+   "pali": "Tassuddānaṃ –",
+   "zh": "其摄颂："
+  },
+  {
+   "idx": 32,
+   "pali": "Duccaritaṃ kāyaduccaritaṃ, vacīduccaritaṃ manoduccaritaṃ;",
+   "zh": "恶行、身恶行、语恶行、意恶行。",
+   "type": "verse"
+  },
+  {
+   "idx": 33,
+   "pali": "Catūhi pare dve sivathikā, puggalappasādena cāti.",
+   "zh": "以四种、其他二种、墓地，及个人的净信。",
+   "type": "verse"
+  },
+  {
+   "idx": 34,
+   "pali": "Pañcamapaṇṇāsakaṃ samattaṃ.",
+   "zh": "第五组五十经终"
+  }
+ ]
+}

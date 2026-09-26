@@ -1,0 +1,159 @@
+{
+ "uid": 72,
+ "title": "火婆蹉经",
+ "nik": "MN",
+ "segs": [
+  {
+   "idx": 13,
+   "pali": "Evaṃ me sutaṃ – ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Atha kho vacchagotto paribbājako yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṃ sammodi. Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho vacchagotto paribbājako bhagavantaṃ etadavoca –",
+   "zh": "如是我闻：一时，世尊住在[[sāvatthī|舍卫城]]的祇树[[Anāthapiṇḍika|给孤独]]园。那时，游方者[[vacchagotta|婆蹉]]前往世尊处，与世尊互相问候致意。说过了那些亲切得体的寒暄语后，他坐在一旁。坐在一旁的游方者[[vacchagotta|婆蹉]]对世尊这样说：",
+   "n": "187"
+  },
+  {
+   "idx": 14,
+   "pali": "‘‘Kiṃ nu kho, bho gotama, ‘sassato loko, idameva saccaṃ moghamañña’nti – evaṃdiṭṭhi bhavaṃ gotamo’’ti? ‘‘Na kho ahaṃ, vaccha, evaṃdiṭṭhi – ‘sassato loko, idameva saccaṃ moghamañña’’’nti.",
+   "zh": "“[[gotama|乔达摩]]尊者，您是否持这样的见解：‘世间是常恒的，唯此为真，余皆虚妄’？”“婆蹉，我不持这样的见解：‘世间是常恒的，唯此为真，余皆虚妄。’”"
+  },
+  {
+   "idx": 15,
+   "pali": "‘‘Kiṃ pana, bho gotama, ‘asassato loko, idameva saccaṃ moghamañña’nti – evaṃdiṭṭhi bhavaṃ gotamo’’ti? ‘‘Na kho ahaṃ, vaccha, evaṃdiṭṭhi – ‘asassato loko, idameva saccaṃ moghamañña’’’nti.",
+   "zh": "“那么，[[gotama|乔达摩]]尊者，您持这样的见解吗：‘世间不是永恒的，只有这是真实的，其余都是虚妄的’？”“婆蹉，我不持这种见解：‘世间不是永恒的，只有这是真实的，其余都是虚妄的。’”"
+  },
+  {
+   "idx": 16,
+   "pali": "‘‘Kiṃ nu kho, bho gotama, ‘antavā loko, idameva saccaṃ moghamañña’nti – evaṃdiṭṭhi bhavaṃ gotamo’’ti? ‘‘Na kho ahaṃ, vaccha, evaṃdiṭṭhi – ‘antavā loko, idameva saccaṃ moghamañña’’’nti.",
+   "zh": "“那么，[[gotama|乔达摩]]尊者，您持这样的见解吗：‘世间是有边际的，只有这是真实的，其余都是虚妄的’？”“婆蹉，我不持这种见解：‘世间是有边际的，只有这是真实的，其余都是虚妄的。’”"
+  },
+  {
+   "idx": 17,
+   "pali": "‘‘Kiṃ pana, bho gotama, ‘anantavā loko, idameva saccaṃ moghamañña’nti – evaṃdiṭṭhi bhavaṃ gotamo’’ti? ‘‘Na kho ahaṃ, vaccha, evaṃdiṭṭhi – ‘anantavā loko, idameva saccaṃ moghamañña’’’nti.",
+   "zh": "“那么，[[gotama|乔达摩]]尊者，您持这样的见解吗：‘世间是没有边际的，只有这是真实的，其余都是虚妄的’？”“婆蹉，我不持这种见解：‘世间是没有边际的，只有这是真实的，其余都是虚妄的。’”"
+  },
+  {
+   "idx": 18,
+   "pali": "‘‘Kiṃ nu kho, bho gotama, ‘taṃ jīvaṃ taṃ sarīraṃ, idameva saccaṃ moghamañña’nti – evaṃdiṭṭhi bhavaṃ gotamo’’ti? ‘‘Na kho ahaṃ, vaccha, evaṃdiṭṭhi – ‘taṃ jīvaṃ taṃ sarīraṃ, idameva saccaṃ moghamañña’’’nti.",
+   "zh": "“[[gotama|乔达摩]]尊者，您是否持这样的见解：‘命即是身，唯此是实，余皆虚妄’？” “婆蹉，我不持这样的见解：‘命即是身，唯此是实，余皆虚妄。’”"
+  },
+  {
+   "idx": 19,
+   "pali": "‘‘Kiṃ pana, bho gotama, ‘aññaṃ jīvaṃ aññaṃ sarīraṃ, idameva saccaṃ moghamañña’nti – evaṃdiṭṭhi bhavaṃ gotamo’’ti? ‘‘Na kho ahaṃ, vaccha, evaṃdiṭṭhi – ‘aññaṃ jīvaṃ aññaṃ sarīraṃ, idameva saccaṃ moghamañña’’’nti.",
+   "zh": "“那么，[[gotama|乔达摩]]尊者，您是否持这样的见解：‘命异身异，唯此是实，余皆虚妄’？” “婆蹉，我不持这样的见解：‘命异身异，唯此是实，余皆虚妄。’”"
+  },
+  {
+   "idx": 20,
+   "pali": "‘‘Kiṃ nu kho, bho gotama, ‘hoti tathāgato paraṃ maraṇā, idameva saccaṃ moghamañña’nti – evaṃdiṭṭhi bhavaṃ gotamo’’ti? ‘‘Na kho ahaṃ, vaccha, evaṃdiṭṭhi – ‘hoti tathāgato paraṃ maraṇā, idameva saccaṃ moghamañña’’’nti.",
+   "zh": "“那么，[[gotama|乔达摩]]尊者，您是否持这样的见解：‘如来死后存在，唯此是实，余皆虚妄’？” “婆蹉，我不持这样的见解：‘如来死后存在，唯此是实，余皆虚妄。’”"
+  },
+  {
+   "idx": 21,
+   "pali": "‘‘Kiṃ pana, bho gotama, ‘na hoti tathāgato paraṃ maraṇā, idameva saccaṃ moghamañña’nti – evaṃdiṭṭhi bhavaṃ gotamo’’ti? ‘‘Na kho ahaṃ, vaccha, evaṃdiṭṭhi – ‘na hoti tathāgato paraṃ maraṇā, idameva saccaṃ moghamañña’’’nti.",
+   "zh": "“那么，[[gotama|乔达摩]]尊者，您是否持这样的见解：‘如来死后不存在，唯此为真，余皆虚妄’？” “婆蹉，我不持这样的见解：‘如来死后不存在，唯此为真，余皆虚妄’。”"
+  },
+  {
+   "idx": 22,
+   "pali": "‘‘Kiṃ nu kho, bho gotama, ‘hoti ca na ca hoti tathāgato paraṃ maraṇā, idameva saccaṃ moghamañña’nti – evaṃdiṭṭhi bhavaṃ gotamo’’ti ? ‘‘Na kho ahaṃ, vaccha, evaṃdiṭṭhi – ‘hoti ca na ca hoti tathāgato paraṃ maraṇā, idameva saccaṃ moghamañña’’’nti.",
+   "zh": "“那么，[[gotama|乔达摩]]尊者，您是否持这样的见解：‘如来死后既存在又不存在，唯此为真，余皆虚妄’？” “婆蹉，我不持这样的见解：‘如来死后既存在又不存在，唯此为真，余皆虚妄’。”"
+  },
+  {
+   "idx": 23,
+   "pali": "‘‘Kiṃ pana, bho gotama, ‘neva hoti na na hoti tathāgato paraṃ maraṇā, idameva saccaṃ moghamañña’nti – evaṃdiṭṭhi bhavaṃ gotamo’’ti? ‘‘Na kho ahaṃ, vaccha, evaṃdiṭṭhi – ‘neva hoti na na hoti tathāgato paraṃ maraṇā, idameva saccaṃ moghamañña’’’nti.",
+   "zh": "“那么，[[gotama|乔达摩]]尊者，您是否持这样的见解：‘如来死后既非存在亦非不存在，唯此为真，余皆虚妄’？” “婆蹉，我不持这样的见解：‘如来死后既非存在亦非不存在，唯此为真，余皆虚妄’。”"
+  },
+  {
+   "idx": 24,
+   "pali": "‘‘‘Kiṃ nu kho, bho gotama, sassato loko, idameva saccaṃ moghamaññanti – evaṃdiṭṭhi bhavaṃ gotamo’ti iti puṭṭho samāno ‘na kho ahaṃ, vaccha, evaṃdiṭṭhi – sassato loko, idameva saccaṃ moghamañña’nti vadesi . ‘Kiṃ pana, bho gotama, asassato loko, idameva saccaṃ moghamaññanti – evaṃdiṭṭhi bhavaṃ gotamo’ti iti puṭṭho samāno ‘na kho ahaṃ, vaccha , evaṃdiṭṭhi – asassato loko, idameva saccaṃ moghamañña’nti vadesi. ‘Kiṃ nu kho, bho gotama, antavā loko, idameva saccaṃ moghamaññanti – evaṃdiṭṭhi bhavaṃ gotamo’ti iti puṭṭho samāno ‘na kho ahaṃ, vaccha, evaṃdiṭṭhi – antavā loko, idameva saccaṃ moghamañña’nti vadesi. ‘Kiṃ pana, bho gotama, anantavā loko, idameva saccaṃ moghamaññanti – evaṃdiṭṭhi bhavaṃ gotamo’ti iti puṭṭho samāno ‘na kho ahaṃ, vaccha, evaṃdiṭṭhi – anantavā loko, idameva saccaṃ moghamañña’nti vadesi. ‘Kiṃ nu kho, bho gotama, taṃ jīvaṃ taṃ sarīraṃ, idameva saccaṃ moghamaññanti – evaṃdiṭṭhi bhavaṃ gotamo’ti iti puṭṭho samāno ‘na kho ahaṃ, vaccha, evaṃdiṭṭhi – taṃ jīvaṃ taṃ sarīraṃ, idameva saccaṃ moghamañña’nti vadesi. ‘Kiṃ pana, bho gotama, aññaṃ jīvaṃ aññaṃ sarīraṃ, idameva saccaṃ moghamaññanti – evaṃdiṭṭhi bhavaṃ gotamo’ti iti puṭṭho samāno ‘na kho ahaṃ, vaccha, evaṃdiṭṭhi – aññaṃ jīvaṃ aññaṃ sarīraṃ, idameva saccaṃ moghamañña’nti vadesi. ‘Kiṃ nu kho, bho gotama, hoti tathāgato paraṃ maraṇā, idameva saccaṃ moghamaññanti – evaṃdiṭṭhi bhavaṃ gotamo’ti iti puṭṭho samāno ‘na kho ahaṃ, vaccha, evaṃdiṭṭhi – hoti tathāgato paraṃ maraṇā, idameva saccaṃ moghamañña’nti vadesi.",
+   "zh": "“[[gotama|乔达摩尊]]者，您是否持这样的见解：世间是常恒的，唯此为真，余皆虚妄？”当被如此问及时，您答言：“婆蹉，我不持这样的见解：世间是常恒的，唯此为真，余皆虚妄。”“[[gotama|乔达摩尊]]者，那么，您是否持这样的见解：世间是非常的，唯此为真，余皆虚妄？”当被如此问及时，您答言：“婆蹉，我不持这样的见解：世间是非常的，唯此为真，余皆虚妄。”“[[gotama|乔达摩尊]]者，您是否持这样的见解：世间有边际，唯此为真，余皆虚妄？”当被如此问及时，您答言：“婆蹉，我不持这样的见解：世间有边际，唯此为真，余皆虚妄。”“[[gotama|乔达摩尊]]者，您是否持这样的见解：世间无边际，唯此为真，余皆虚妄？”当被如此问及时，您答言：“婆蹉，我不持这样的见解：世间无边际，唯此为真，余皆虚妄。”“[[gotama|乔达摩尊]]者，您是否持这样的见解：命即是身，唯此为真，余皆虚妄？”当被如此问及时，您答言：“婆蹉，我不持这样的见解：命即是身，唯此为真，余皆虚妄。”“[[gotama|乔达摩尊]]者，您是否持这样的见解：命与身异，唯此为真，余皆虚妄？”当被如此问及时，您答言：“婆蹉，我不持这样的见解：命与身异，唯此为真，余皆虚妄。”“[[gotama|乔达摩尊]]者，您是否持这样的见解：如来死后存在，唯此为真，余皆虚妄？”当被如此问及时，您答言：“婆蹉，我不持这样的见解：如来死后存在，唯此为真，余皆虚妄。”",
+   "n": "188"
+  },
+  {
+   "idx": 25,
+   "pali": "‘‘‘Kiṃ pana, bho gotama, na hoti tathāgato paraṃ maraṇā, idameva saccaṃ moghamaññanti – evaṃdiṭṭhi bhavaṃ gotamo’ti iti puṭṭho samāno ‘na kho ahaṃ, vaccha, evaṃdiṭṭhi – na hoti tathāgato paraṃ maraṇā, idameva saccaṃ moghamañña’nti vadesi. ‘Kiṃ nu kho, bho gotama, hoti ca na ca hoti tathāgato paraṃ maraṇā, idameva saccaṃ moghamaññanti – evaṃdiṭṭhi bhavaṃ gotamo’ti iti puṭṭho samāno ‘na kho ahaṃ, vaccha, evaṃdiṭṭhi – hoti ca na ca hoti tathāgato paraṃ maraṇā, idameva saccaṃ moghamañña’nti vadesi. ‘Kiṃ pana, bho gotama, neva hoti na na hoti tathāgato paraṃ maraṇā, idameva saccaṃ moghamaññanti – evaṃdiṭṭhi bhavaṃ gotamo’ti iti puṭṭho samāno ‘na kho ahaṃ, vaccha, evaṃdiṭṭhi – neva hoti na na hoti tathāgato paraṃ maraṇā, idameva saccaṃ moghamañña’nti vadesi.",
+   "zh": "“那么，[[gotama|乔达摩]]大师，您是否持这样的见解——‘如来死后不存在，唯此是真实，其余皆是虚妄’？”当您被如此问时，您说：“婆蹉，我不持这样的见解——‘如来死后不存在，唯此是真实，其余皆是虚妄’。”“那么，[[gotama|乔达摩]]大师，您是否持这样的见解——‘如来死后既存在又不存在，唯此是真实，其余皆是虚妄’？”当您被如此问时，您说：“婆蹉，我不持这样的见解——‘如来死后既存在又不存在，唯此是真实，其余皆是虚妄’。”“那么，[[gotama|乔达摩]]大师，您是否持这样的见解——‘如来死后既非存在也非不存在，唯此是真实，其余皆是虚妄’？”当您被如此问时，您说：“婆蹉，我不持这样的见解——‘如来死后既非存在也非不存在，唯此是真实，其余皆是虚妄’。”"
+  },
+  {
+   "idx": 26,
+   "pali": "‘‘Kiṃ pana bho gotamo ādīnavaṃ sampassamāno evaṃ imāni sabbaso diṭṭhigatāni anupagato’’ti?",
+   "zh": "“[[gotama|乔达摩]]尊者，您是见到了怎样的过患，才完全不趋近这一切所执取的见解呢？”"
+  },
+  {
+   "idx": 27,
+   "pali": "‘‘‘Sassato loko’ti kho, vaccha, diṭṭhigatametaṃ diṭṭhigahanaṃ diṭṭhikantāro diṭṭhivisūkaṃ diṭṭhivipphanditaṃ diṭṭhisaṃyojanaṃ sadukkhaṃ savighātaṃ saupāyāsaṃ sapariḷāhaṃ, na nibbidāya na virāgāya na nirodhāya na upasamāya na abhiññāya na sambodhāya na nibbānāya saṃvattati . ‘Asassato loko’ti kho, vaccha…pe… ‘antavā loko’ti kho, vaccha…pe… ‘anantavā loko’ti kho, vaccha…pe… ‘taṃ jīvaṃ taṃ sarīra’nti kho, vaccha…pe… ‘aññaṃ jīvaṃ aññaṃ sarīra’nti kho, vaccha…pe… ‘hoti tathāgato paraṃ maraṇā’ti kho, vaccha …pe… ‘na hoti tathāgato paraṃ maraṇā’ti kho, vaccha…pe… ‘hoti ca na ca hoti tathāgato paraṃ maraṇā’ti kho, vaccha…pe… ‘neva hoti na na hoti tathāgato paraṃ maraṇā’ti kho, vaccha, diṭṭhigatametaṃ diṭṭhigahanaṃ diṭṭhikantāro diṭṭhivisūkaṃ diṭṭhivipphanditaṃ diṭṭhisaṃyojanaṃ sadukkhaṃ savighātaṃ saupāyāsaṃ sapariḷāhaṃ, na nibbidāya na virāgāya na nirodhāya na upasamāya na abhiññāya na sambodhāya na nibbānāya saṃvattati. Imaṃ kho ahaṃ, vaccha, ādīnavaṃ sampassamāno evaṃ imāni sabbaso diṭṭhigatāni anupagato’’ti.",
+   "zh": "“婆蹉，‘世间是永恒的’——此是所执取的见解，是见的稠林、见的荒野、见的曲解、见的动摇、见的结缚，它伴随苦，伴随恼害，伴随忧悲，伴随热恼，不导向厌离、不导向离贪、不导向灭尽、不导向寂止、不导向证智、不导向正觉、不导向涅槃。‘世间不是永恒的’，婆蹉……（中略）……‘世间是有边的’，婆蹉……（中略）……‘世间是无边的’，婆蹉……（中略）……‘命即是身’，婆蹉……（中略）……‘命异身异’，婆蹉……（中略）……‘如来死后存在’，婆蹉……（中略）……‘如来死后不存在’，婆蹉……（中略）……‘如来死后亦存在亦不存在’，婆蹉……（中略）……‘如来死后非存在非不存在’，婆蹉，此也是所执取的见解，是见的稠林、见的荒野、见的曲解、见的动摇、见的结缚，它伴随苦，伴随恼害，伴随忧悲，伴随热恼，不导向厌离、不导向离贪、不导向灭尽、不导向寂止、不导向证智、不导向正觉、不导向涅槃。婆蹉，我正是看见了这样的过患，才不依止这一切所执取的见解。”",
+   "n": "189"
+  },
+  {
+   "idx": 28,
+   "pali": "‘‘Atthi pana bhoto gotamassa kiñci diṭṭhigata’’nti? ‘‘Diṭṭhigatanti kho, vaccha, apanītametaṃ tathāgatassa. Diṭṭhañhetaṃ, vaccha, tathāgatena – ‘iti rūpaṃ, iti rūpassa samudayo, iti rūpassa atthaṅgamo; iti vedanā, iti vedanāya samudayo, iti vedanāya atthaṅgamo; iti saññā, iti saññāya samudayo, iti saññāya atthaṅgamo; iti saṅkhārā, iti saṅkhārānaṃ samudayo, iti saṅkhārānaṃ atthaṅgamo; iti viññāṇaṃ, iti viññāṇassa samudayo, iti viññāṇassa atthaṅgamo’ti. Tasmā tathāgato sabbamaññitānaṃ sabbamathitānaṃ sabbaahaṃkāramamaṃkāramānānusayānaṃ khayā virāgā nirodhā cāgā paṭinissaggā anupādā vimuttoti vadāmī’’ti.",
+   "zh": "“[[gotama|乔达摩]]尊者，您自己还持有某种执取的见解吗？”“婆蹉，‘执取的见解’这回事，如来早已将它舍离了。婆蹉，如来只是亲见了这个：‘色即是如此，色的生起即是如此，色的灭去即是如此；受即是如此，受的生起即是如此，受的灭去即是如此；想即是如此，想的生起即是如此，想的灭去即是如此；行即是如此，行的生起即是如此，行的灭去即是如此；识即是如此，识的生起即是如此，识的灭去即是如此。’因此，我说：由于一切妄想、一切计量、一切我慢、我所慢以及随眠的彻底灭尽、离贪、止息、舍断、弃谢，如来以无取著而解脱。”"
+  },
+  {
+   "idx": 29,
+   "pali": "‘‘Evaṃ vimuttacitto pana, bho gotama, bhikkhu kuhiṃ upapajjatī’’ti? ‘‘Upapajjatīti kho, vaccha, na upeti’’. ‘‘Tena hi, bho gotama, na upapajjatī’’ti? ‘‘Na upapajjatīti kho, vaccha, na upeti’’. ‘‘Tena hi, bho gotama, upapajjati ca na ca upapajjatī’’ti? ‘‘Upapajjati ca na ca upapajjatīti kho, vaccha, na upeti’’. ‘‘Tena hi, bho gotama, neva upapajjati na na upapajjatī’’ti? ‘‘Neva upapajjati na na upapajjatīti kho, vaccha, na upeti’’.",
+   "zh": "“[[gotama|乔达摩尊]]者，那么一位这样心解脱的比丘，死后往何处受生呢？”\n“婆蹉，‘受生’一词，于此不相应。”\n“那么，[[gotama|乔达摩尊]]者，他便不受生了？”\n“‘不受生’一词，婆蹉，于此也不相应。”\n“那么，[[gotama|乔达摩尊]]者，他是既受生又不受生？”\n“‘既受生又不受生’一词，亦不相应。”\n“那么，[[gotama|乔达摩尊]]者，他是非受生非不受生？”\n“‘非受生非不受生’一词，婆蹉，亦不相应。”",
+   "n": "190"
+  },
+  {
+   "idx": 30,
+   "pali": "‘‘‘Evaṃ vimuttacitto pana, bho gotama, bhikkhu kuhiṃ upapajjatī’ti iti puṭṭho samāno ‘upapajjatīti kho, vaccha, na upetī’ti vadesi. ‘Tena hi, bho gotama, na upapajjatī’ti iti puṭṭho samāno ‘na upapajjatīti kho, vaccha, na upetī’ti vadesi. ‘Tena hi, bho gotama, upapajjati ca na ca upapajjatī’ti iti puṭṭho samāno ‘upapajjati ca na ca upapajjatīti kho, vaccha, na upetī’ti vadesi. ‘Tena hi, bho gotama, neva upapajjati na na upapajjatī’ti iti puṭṭho samāno ‘neva upapajjati na na upapajjatīti kho, vaccha, na upetī’ti vadesi. Etthāhaṃ, bho gotama, aññāṇamāpādiṃ, ettha sammohamāpādiṃ. Yāpi me esā bhoto gotamassa purimena kathāsallāpena ahu pasādamattā sāpi me etarahi antarahitā’’ti. ‘‘Alañhi te, vaccha, aññāṇāya, alaṃ sammohāya. Gambhīro hāyaṃ, vaccha, dhammo duddaso duranubodho santo paṇīto atakkāvacaro nipuṇo paṇḍitavedanīyo. So tayā dujjāno aññadiṭṭhikena aññakhantikena aññarucikena aññatrayogena aññatrācariyakena’’ .",
+   "zh": "“[[gotama|乔达摩尊]]者，一位心如此解脱的比丘，死后投生到哪里呢？”当这样被问时，您说：“婆蹉，‘投生’一词不适用。”“那么，他不投生吗？”当这样被问时，您说：“婆蹉，‘不投生’一词不适用。”“那么，他既投生又不投生吗？”当这样被问时，您说：“婆蹉，‘既投生又不投生’一词不适用。”“那么，他既非投生也非不投生吗？”当这样被问时，您说：“婆蹉，‘既非投生也非不投生’一词不适用。[[gotama|乔达摩尊]]者，至此我变得一无所知，至此我陷入了迷惑。先前听闻您的教说后，我对您生起的那一点信心，现在也消失了。”“婆蹉，你对此感到无知，感到迷惑，这本是自然的。婆蹉，此法甚深，难见、难解，寂静、微妙，超越思惟，精微，唯智者能体证。而你持有不同的见解，接受不同的教法，喜好不同的主张，实践不同的修持，追随不同的导师，对于这样的你，要了知此法，原本就极为困难。”"
+  },
+  {
+   "idx": 31,
+   "pali": "‘‘Tena hi, vaccha, taññevettha paṭipucchissāmi; yathā te khameyya tathā naṃ byākareyyāsi. Taṃ kiṃ maññasi, vaccha, sace te purato aggi jaleyya, jāneyyāsi tvaṃ – ‘ayaṃ me purato aggi jalatī’’’ti? ‘‘Sace me, bho gotama, purato aggi jaleyya, jāneyyāhaṃ – ‘ayaṃ me purato aggi jalatī’’’ti.",
+   "zh": "“那么，婆蹉，我就此反过来问你。你觉得怎样回答合适，便怎样回答。婆蹉，你认为如何：如果你面前有一堆火在燃烧，你会知道‘我面前有堆火在燃烧’吗？”“[[gotama|乔达摩]]尊者，如果我面前有一堆火在燃烧，我会知道‘我面前有堆火在燃烧’。”",
+   "n": "191"
+  },
+  {
+   "idx": 32,
+   "pali": "‘‘Sace pana taṃ, vaccha, evaṃ puccheyya – ‘yo te ayaṃ purato aggi jalati ayaṃ aggi kiṃ paṭicca jalatī’ti, evaṃ puṭṭho tvaṃ, vaccha, kinti byākareyyāsī’’ti? ‘‘Sace maṃ, bho gotama, evaṃ puccheyya – ‘yo te ayaṃ purato aggi jalati ayaṃ aggi kiṃ paṭicca jalatī’ti, evaṃ puṭṭho ahaṃ, bho gotama, evaṃ byākareyyaṃ – ‘yo me ayaṃ purato aggi jalati ayaṃ aggi tiṇakaṭṭhupādānaṃ paṭicca jalatī’’’ti.",
+   "zh": "“但是，婆蹉，如果有人这样问你：‘你面前这堆正在燃烧的火，是依什么而燃烧的？’婆蹉，被这样问时，你会怎样回答？”“[[gotama|乔达摩尊]]者，如果有人这样问我：‘你面前这堆正在燃烧的火，是依什么而燃烧的？’[[gotama|乔达摩尊]]者，被这样问时，我会这样回答：‘我面前这堆正在燃烧的火，是依草与木柴作为燃料而燃烧的。’”"
+  },
+  {
+   "idx": 33,
+   "pali": "‘‘Sace te, vaccha, purato so aggi nibbāyeyya, jāneyyāsi tvaṃ – ‘ayaṃ me purato aggi nibbuto’’’ti? ‘‘Sace me, bho gotama, purato so aggi nibbāyeyya, jāneyyāhaṃ – ‘ayaṃ me purato aggi nibbuto’’’ti.",
+   "zh": "“婆蹉，假如你面前那堆火熄灭了，你会知道‘我面前这堆火熄灭了’吗？”“尊敬的[[gotama|乔达摩]]，假如我面前那堆火熄灭了，我会知道‘我面前这堆火熄灭了’。”"
+  },
+  {
+   "idx": 34,
+   "pali": "‘‘Sace pana taṃ, vaccha, evaṃ puccheyya – ‘yo te ayaṃ purato aggi nibbuto so aggi ito katamaṃ disaṃ gato – puratthimaṃ vā dakkhiṇaṃ vā pacchimaṃ vā uttaraṃ vā’ti, evaṃ puṭṭho tvaṃ, vaccha, kinti byākareyyāsī’’ti? ‘‘Na upeti, bho gotama, yañhi so, bho gotama, aggi tiṇakaṭṭhupādānaṃ paṭicca ajali tassa ca pariyādānā aññassa ca anupahārā anāhāro nibbuto tveva saṅkhyaṃ gacchatī’’ti.",
+   "zh": "“然而，婆蹉，如果有人这样问你：‘你面前这堆熄灭的火，往哪个方向去了——东方、南方、西方，还是北方？’婆蹉，若被这样问，你会如何回答？”“尊敬的[[gotama|乔达摩]]，这不适用。那堆火，尊敬的[[gotama|乔达摩]]，是依靠草薪木柴而燃起的；当那些燃料用尽，又没有新的添给，它断了食粮，便被说为熄灭了。”"
+  },
+  {
+   "idx": 35,
+   "pali": "‘‘Evameva kho, vaccha, yena rūpena tathāgataṃ paññāpayamāno paññāpeyya taṃ rūpaṃ tathāgatassa pahīnaṃ ucchinnamūlaṃ tālāvatthukataṃ anabhāvaṃkataṃ āyatiṃ anuppādadhammaṃ. Rūpasaṅkhayavimutto kho, vaccha, tathāgato gambhīro appameyyo duppariyogāḷho – seyyathāpi mahāsamuddo. Upapajjatīti na upeti, na upapajjatīti na upeti, upapajjati ca na ca upapajjatīti na upeti, neva upapajjati na na upapajjatīti na upeti.",
+   "zh": "“正是这样，婆蹉。任何用以描述如来的色，如来皆已断除，其根已断，如多罗树桩般了无生机，未来已不再生起。婆蹉，从色的计度中解脱的如来，甚深、不可测度、难以探究——犹如大海。说“他再生”，不适用；说“他不再生”，不适用；说“他既再生又不再生”，不适用；说“他既非再生也非不再生”，亦不适用。”",
+   "n": "192"
+  },
+  {
+   "idx": 36,
+   "pali": "‘‘Yāya vedanāya tathāgataṃ paññāpayamāno paññāpeyya sā vedanā tathāgatassa pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṃkatā āyatiṃ anuppādadhammā. Vedanāsaṅkhayavimutto kho, vaccha, tathāgato gambhīro appameyyo duppariyogāḷho – seyyathāpi mahāsamuddo. Upapajjatīti na upeti, na upapajjatīti na upeti, upapajjati ca na ca upapajjatīti na upeti, neva upapajjati na na upapajjatīti na upeti.",
+   "zh": "“婆蹉，如果有人以任何受来指称如来，那么这些受，如来都已彻底断除，截断其根，犹如多罗树桩，不复存在，未来也不会再生起。婆蹉，如来从受的灭尽中解脱，甚深、不可测量、难以探入，犹如大海。说‘他再生’，这不成立；说‘他不再生’，这不成立；说‘他既再生又不再生’，这不成立；说‘他既非再生亦非不再生’，这也不成立。”"
+  },
+  {
+   "idx": 37,
+   "pali": "‘‘Yāya saññāya tathāgataṃ paññāpayamāno paññāpeyya sā saññā tathāgatassa pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṃkatā āyatiṃ anuppādadhammā. Saññāsaṅkhayavimutto kho, vaccha, tathāgato gambhīro appameyyo duppariyogāḷho – seyyathāpi mahāsamuddo. Upapajjatīti na upeti, na upapajjatīti na upeti, upapajjati ca na ca upapajjatīti na upeti, neva upapajjati na na upapajjatīti na upeti.",
+   "zh": "“婆蹉，如果有人以任何想来指称如来，那么这种想，如来都已彻底断除，截断其根，犹如多罗树桩，不复存在，未来也不会再生起。婆蹉，如来从想的灭尽中解脱，甚深、不可测量、难以探入，犹如大海。说‘他再生’，这不成立；说‘他不再生’，这不成立；说‘他既再生又不再生’，这不成立；说‘他既非再生亦非不再生’，这不成立。"
+  },
+  {
+   "idx": 38,
+   "pali": "‘‘Yehi saṅkhārehi tathāgataṃ paññāpayamāno paññāpeyya te saṅkhārā tathāgatassa pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṃkatā āyatiṃ anuppādadhammā. Saṅkhārasaṅkhayavimutto kho, vaccha, tathāgato gambhīro appameyyo duppariyogāḷho – seyyathāpi mahāsamuddo. Upapajjatīti na upeti , na upapajjatīti na upeti, upapajjati ca na ca upapajjatīti na upeti, neva upapajjati na na upapajjatīti na upeti.",
+   "zh": "“婆蹉，如果有人以任何行来指称如来，那么这些行，如来都已彻底断除，截断其根，犹如多罗树桩，不复存在，未来也不会再生起。婆蹉，如来从行的灭尽中解脱，甚深、不可测量、难以探入，犹如大海。说‘他再生’，这不成立；说‘他不再生’，这不成立；说‘他既再生又不再生’，这不成立；说‘他既非再生亦非不再生’，这不成立。"
+  },
+  {
+   "idx": 39,
+   "pali": "‘‘Yena viññāṇena tathāgataṃ paññāpayamāno paññāpeyya taṃ viññāṇaṃ tathāgatassa pahīnaṃ ucchinnamūlaṃ tālāvatthukataṃ anabhāvaṃkataṃ āyatiṃ anuppādadhammaṃ. Viññāṇasaṅkhayavimutto kho, vaccha, tathāgato gambhīro appameyyo duppariyogāḷho – seyyathāpi mahāsamuddo. Upapajjatīti na upeti, na upapajjatīti na upeti, upapajjati ca na ca upapajjatīti na upeti, neva upapajjati na na upapajjatīti na upeti’’.",
+   "zh": "“婆蹉，凡是凭借‘识’来安立如来，那个‘识’如来已断除，连根切断，如多罗树桩般不复存在，未来不再生起。婆蹉，从识的灭尽中解脱的如来，是甚深的，不可测量，难以探测——犹如大海。说‘他投生’，不适用；说‘他不投生’，不适用；说‘他亦投生亦不投生’，不适用；说‘他非投生非不投生’，不适用。”"
+  },
+  {
+   "idx": 40,
+   "pali": "Evaṃ vutte, vacchagotto paribbājako bhagavantaṃ etadavoca – ‘‘seyyathāpi, bho gotama, gāmassa vā nigamassa vā avidūre mahāsālarukkho. Tassa aniccatā sākhāpalāsā palujjeyyuṃ , tacapapaṭikā palujjeyyuṃ, pheggū palujjeyyuṃ ; so aparena samayena apagatasākhāpalāso apagatatacapapaṭiko apagataphegguko suddho assa, sāre patiṭṭhito; evameva bhoto gotamassa pāvacanaṃ apagatasākhāpalāsaṃ apagatatacapapaṭikaṃ apagatapheggukaṃ suddhaṃ, sāre patiṭṭhitaṃ. Abhikkantaṃ, bho gotama…pe… upāsakaṃ maṃ bhavaṃ gotamo dhāretu ajjatagge pāṇupetaṃ saraṇaṃ gata’’nti.",
+   "zh": "听了这番话，游方者[[vacchagotta|婆蹉]]对世尊说道：“[[gotama|乔达摩尊]]者，好比离村落或城镇不远有一棵大娑罗树。由于无常，它的枝叶会凋落，树皮与薄皮会脱落，软木会剥落；日后，它枝叶褪尽，树皮与薄皮褪尽，软木褪尽，变得纯净，唯立于核心。同样地，[[gotama|乔达摩尊]]者的教法也已枝叶褪尽，树皮与薄皮褪尽，软木褪尽，变得纯净，唯立于核心。真是殊胜啊，[[gotama|乔达摩尊]]者！……请[[gotama|乔达摩尊]]者接受我为在家弟子，从今日起，只要生命尚存，我便皈依于您。”"
+  },
+  {
+   "idx": 41,
+   "pali": "Aggivacchasuttaṃ niṭṭhitaṃ dutiyaṃ.",
+   "zh": "《火婆蹉经》第二终",
+   "type": "colophon"
+  }
+ ]
+}

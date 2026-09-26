@@ -1,0 +1,264 @@
+{
+ "uid": 71,
+ "title": "1. 结经",
+ "nik": "AN",
+ "segs": [
+  {
+   "idx": 0,
+   "pali": "(14) 4. Puggalavaggo",
+   "zh": "（14）4. 补特伽罗品"
+  },
+  {
+   "idx": 1,
+   "pali": "1. Saṃyojanasuttaṃ",
+   "zh": "1. [[saṃyojanasutta|结经]]"
+  },
+  {
+   "idx": 2,
+   "pali": "‘‘Cattārome , bhikkhave, puggalā santo saṃvijjamānā lokasmiṃ. Katame cattāro? Idha, bhikkhave, ekaccassa puggalassa orambhāgiyāni saṃyojanāni appahīnāni honti, upapattipaṭilābhiyāni saṃyojanāni appahīnāni honti, bhavapaṭilābhiyāni saṃyojanāni appahīnāni honti.",
+   "zh": "“诸比丘，有四种人存在于世间。哪四种呢？诸比丘，有一类人，下分结尚未断除，获得再生结尚未断除，获得有结尚未断除。\n有一类人，下分结已断除，获得再生结尚未断除，获得有结尚未断除。\n有一类人，下分结已断除，获得再生结已断除，获得有结尚未断除。\n有一类人，下分结已断除，获得再生结已断除，获得有结已断除。\n诸比丘，这四种人存在于世间。”",
+   "n": "131"
+  },
+  {
+   "idx": 3,
+   "pali": "‘‘Idha pana, bhikkhave, ekaccassa puggalassa orambhāgiyāni saṃyojanāni pahīnāni honti, upapattipaṭilābhiyāni saṃyojanāni appahīnāni honti, bhavapaṭilābhiyāni saṃyojanāni appahīnāni honti.",
+   "zh": "“诸比丘，又有一类人，下分结已断除，获得再生结尚未断除，获得有结尚未断除。”"
+  },
+  {
+   "idx": 4,
+   "pali": "‘‘Idha pana, bhikkhave, ekaccassa puggalassa orambhāgiyāni saṃyojanāni pahīnāni honti, upapattipaṭilābhiyāni saṃyojanāni pahīnāni honti, bhavapaṭilābhiyāni saṃyojanāni appahīnāni honti.",
+   "zh": "“诸比丘，另有一类补特伽罗，已断下分结，已断再生结，未断有结。"
+  },
+  {
+   "idx": 5,
+   "pali": "‘‘Idha pana, bhikkhave, ekaccassa puggalassa orambhāgiyāni saṃyojanāni pahīnāni honti, upapattipaṭilābhiyāni saṃyojanāni pahīnāni honti, bhavapaṭilābhiyāni saṃyojanāni pahīnāni honti.",
+   "zh": "“诸比丘，另有一类补特伽罗，已断下分结，已断再生结，已断有结。"
+  },
+  {
+   "idx": 6,
+   "pali": "‘‘Katamassa, bhikkhave, puggalassa orambhāgiyāni saṃyojanāni appahīnāni, upapattipaṭilābhiyāni saṃyojanāni appahīnāni, bhavapaṭilābhiyāni saṃyojanāni appahīnāni? Sakadāgāmissa. Imassa kho, bhikkhave, puggalassa orambhāgiyāni saṃyojanāni appahīnāni, upapattipaṭilābhiyāni saṃyojanāni appahīnāni, bhavapaṭilābhiyāni saṃyojanāni appahīnāni.",
+   "zh": "“诸比丘，何种补特伽罗的下分结未断、再生结未断、有结未断？即一来者。诸比丘，此种一来补特伽罗的下分结未断，再生结未断，有结未断。"
+  },
+  {
+   "idx": 7,
+   "pali": "‘‘Katamassa , bhikkhave, puggalassa orambhāgiyāni saṃyojanāni pahīnāni, upapattipaṭilābhiyāni saṃyojanāni appahīnāni, bhavapaṭilābhiyāni saṃyojanāni appahīnāni? Uddhaṃsotassa akaniṭṭhagāmino. Imassa kho, bhikkhave, puggalassa orambhāgiyāni saṃyojanāni pahīnāni, upapattipaṭilābhiyāni saṃyojanāni appahīnāni, bhavapaṭilābhiyāni saṃyojanāni appahīnāni.",
+   "zh": "“诸比丘，哪一种补特伽罗已断除下分结，而未断除令得再生之结、未断除令有之结？是上流、往生阿迦腻吒者。诸比丘，这位补特伽罗已断除下分结，未断除令得再生之结，亦未断除令有之结。"
+  },
+  {
+   "idx": 8,
+   "pali": "‘‘Katamassa, bhikkhave, puggalassa orambhāgiyāni saṃyojanāni pahīnāni, upapattipaṭilābhiyāni saṃyojanāni pahīnāni, bhavapaṭilābhiyāni saṃyojanāni appahīnāni? Antarāparinibbāyissa. Imassa kho, bhikkhave, puggalassa orambhāgiyāni saṃyojanāni pahīnāni, upapattipaṭilābhiyāni saṃyojanāni pahīnāni, bhavapaṭilābhiyāni saṃyojanāni appahīnāni.",
+   "zh": "“诸比丘，哪一种补特伽罗已断除下分结，已断除令得再生之结，而未断除令有之结？是中般涅槃者。诸比丘，这位补特伽罗已断除下分结，已断除令得再生之结，未断除令有之结。"
+  },
+  {
+   "idx": 9,
+   "pali": "‘‘Katamassa, bhikkhave, puggalassa orambhāgiyāni saṃyojanāni pahīnāni, upapattipaṭilābhiyāni saṃyojanāni pahīnāni, bhavapaṭilābhiyāni saṃyojanāni pahīnāni? Arahato. Imassa kho, bhikkhave, puggalassa orambhāgiyāni saṃyojanāni pahīnāni, upapattipaṭilābhiyāni saṃyojanāni pahīnāni, bhavapaṭilābhiyāni saṃyojanāni pahīnāni. Ime kho, bhikkhave, cattāro puggalā santo saṃvijjamānā lokasmi’’nti. Paṭhamaṃ.",
+   "zh": "“诸比丘，哪一种补特伽罗已断除下分结、已断除令得再生之结、并已断除令有之结？是阿拉汉。诸比丘，这位补特伽罗已断除下分结、已断除令得再生之结、已断除令有之结。诸比丘，这四种补特伽罗存在于世间，出现于世间。第一经。"
+  },
+  {
+   "idx": 10,
+   "pali": "2. Paṭibhānasuttaṃ",
+   "zh": "2. [[paṭibhānasutta|辩才经]]"
+  },
+  {
+   "idx": 11,
+   "pali": "‘‘Cattārome , bhikkhave, puggalā santo saṃvijjamānā lokasmiṃ. Katame cattāro? Yuttappaṭibhāno, no muttappaṭibhāno; muttappaṭibhāno, no yuttappaṭibhāno; yuttappaṭibhāno ca muttappaṭibhāno ca; neva yuttappaṭibhāno na muttappaṭibhāno – ime kho, bhikkhave, cattāro puggalā santo saṃvijjamānā lokasmi’’nti . Dutiyaṃ.",
+   "zh": "“诸比丘，世间有这四种补特伽罗。是哪四种？即：有应时辩才而非自在辩才者，有自在辩才而非应时辩才者，既具应时辩才亦具自在辩才者，既不具应时辩才亦不具自在辩才者。诸比丘，世间确实有这四种补特伽罗。第二经。",
+   "n": "132"
+  },
+  {
+   "idx": 12,
+   "pali": "3. Ugghaṭitaññūsuttaṃ",
+   "zh": "3. [[ugghaṭitaññūsutta|速通达者经]]"
+  },
+  {
+   "idx": 13,
+   "pali": "‘‘Cattārome , bhikkhave, puggalā santo saṃvijjamānā lokasmiṃ. Katame cattāro ? Ugghaṭitaññū, vipañcitaññū, neyyo, padaparamo – ime kho, bhikkhave, cattāro puggalā santo saṃvijjamānā lokasmi’’nti . Tatiyaṃ.",
+   "zh": "“诸比丘，世间存有这四种补特伽罗。哪四种呢？略闻即悟者、广演方悟者、可教导者、以言句为究竟者——诸比丘，世间存有这四种补特伽罗。”第三经",
+   "n": "133"
+  },
+  {
+   "idx": 14,
+   "pali": "4. Uṭṭhānaphalasuttaṃ",
+   "zh": "4. [[uṭṭhānaphalasutta|精勤果经]]"
+  },
+  {
+   "idx": 15,
+   "pali": "‘‘Cattārome, bhikkhave, puggalā santo saṃvijjamānā lokasmiṃ. Katame cattāro? Uṭṭhānaphalūpajīvī na kammaphalūpajīvī, kammaphalūpajīvī na uṭṭhānaphalūpajīvī, uṭṭhānaphalūpajīvī ceva kammaphalūpajīvī ca, neva uṭṭhānaphalūpajīvī na kammaphalūpajīvī – ime kho, bhikkhave, cattāro puggalā santo saṃvijjamānā lokasmi’’nti . Catutthaṃ.",
+   "zh": "“诸比丘，世间存有这四种补特伽罗。哪四种呢？依精勤果而活、不依业果而活者；依业果而活、不依精勤果而活者；既依精勤果而活、也依业果而活者；既不依精勤果而活、也不依业果而活者——诸比丘，世间存有这四种补特伽罗。”第四经",
+   "n": "134"
+  },
+  {
+   "idx": 16,
+   "pali": "5. Sāvajjasuttaṃ",
+   "zh": "5. [[sāvajjasutta|有过失经]]"
+  },
+  {
+   "idx": 17,
+   "pali": "‘‘Cattārome, bhikkhave, puggalā santo saṃvijjamānā lokasmiṃ. Katame cattāro? Sāvajjo, vajjabahulo, appavajjo, anavajjo.",
+   "zh": "“诸比丘，有四种补特伽罗存在于世间。哪四种？有过失者、多过失者、少过失者、无过失者。",
+   "n": "135"
+  },
+  {
+   "idx": 18,
+   "pali": "‘‘Kathañca, bhikkhave, puggalo sāvajjo hoti? Idha, bhikkhave, ekacco puggalo sāvajjena kāyakammena samannāgato hoti, sāvajjena vacīkammena samannāgato hoti, sāvajjena manokammena samannāgato hoti. Evaṃ kho, bhikkhave, puggalo sāvajjo hoti.",
+   "zh": "“诸比丘，怎样的补特伽罗是有过失者？诸比丘，于此，某一补特伽罗具足有过失的身业，具足有过失的语业，具足有过失的意业。诸比丘，这样的补特伽罗便是有过失者。"
+  },
+  {
+   "idx": 19,
+   "pali": "‘‘Kathañca , bhikkhave, puggalo vajjabahulo hoti? Idha, bhikkhave, ekacco puggalo sāvajjena bahulaṃ kāyakammena samannāgato hoti, appaṃ anavajjena; sāvajjena bahulaṃ vacīkammena samannāgato hoti, appaṃ anavajjena; sāvajjena bahulaṃ manokammena samannāgato hoti, appaṃ anavajjena. Evaṃ kho, bhikkhave, puggalo vajjabahulo hoti.",
+   "zh": "“诸比丘，怎样是多过失的补特伽罗呢？诸比丘，在此，有一类补特伽罗，多有过失的身业，而无过失的身业极少；多有过失的语业，而无过失的语业极少；多有过失的意业，而无过失的意业极少。诸比丘，如此便是多过失的补特伽罗。"
+  },
+  {
+   "idx": 20,
+   "pali": "‘‘Kathañca , bhikkhave, puggalo appavajjo hoti? Idha, bhikkhave, ekacco puggalo anavajjena bahulaṃ kāyakammena samannāgato hoti, appaṃ sāvajjena; anavajjena bahulaṃ vacīkammena samannāgato hoti, appaṃ sāvajjena; anavajjena bahulaṃ manokammena samannāgato hoti, appaṃ sāvajjena. Evaṃ kho, bhikkhave, puggalo appavajjo hoti.",
+   "zh": "“诸比丘，怎样是少过失的补特伽罗呢？诸比丘，在此，有一类补特伽罗，多有无过失的身业，而过失的身业极少；多有无过失的语业，而过失的语业极少；多有无过失的意业，而过失的意业极少。诸比丘，如此便是少过失的补特伽罗。"
+  },
+  {
+   "idx": 21,
+   "pali": "‘‘Kathañca , bhikkhave, puggalo anavajjo hoti? Idha, bhikkhave, ekacco puggalo anavajjena kāyakammena samannāgato hoti, anavajjena vacīkammena samannāgato hoti, anavajjena manokammena samannāgato hoti. Evaṃ kho, bhikkhave, puggalo anavajjo hoti. Ime kho, bhikkhave, cattāro puggalā santo saṃvijjamānā lokasmi’’nti. Pañcamaṃ.",
+   "zh": "“诸比丘，怎样是无过失的补特伽罗呢？诸比丘，在此，有一类补特伽罗，身业无过失，语业无过失，意业无过失。诸比丘，如此便是无过失的补特伽罗。诸比丘，这四种补特伽罗存在于世间，出现于世间。第五经。"
+  },
+  {
+   "idx": 22,
+   "pali": "6. Paṭhamasīlasuttaṃ",
+   "zh": "6. [[paṭhamasīlasutta|第一戒经]]"
+  },
+  {
+   "idx": 23,
+   "pali": "‘‘Cattārome, bhikkhave, puggalā santo saṃvijjamānā lokasmiṃ. Katame cattāro? Idha, bhikkhave, ekacco puggalo sīlesu na paripūrakārī hoti, samādhismiṃ na paripūrakārī, paññāya na paripūrakārī.",
+   "zh": "“诸比丘，有四种补特伽罗出现于世间。哪四种？诸比丘，于此，有一类补特伽罗戒行不圆满，定不圆满，慧不圆满。",
+   "n": "136"
+  },
+  {
+   "idx": 24,
+   "pali": "‘‘Idha pana, bhikkhave, ekacco puggalo sīlesu paripūrakārī hoti, samādhismiṃ na paripūrakārī, paññāya na paripūrakārī.",
+   "zh": "“然而，诸比丘，于此，有一类补特伽罗戒行圆满，但定不圆满，慧不圆满。"
+  },
+  {
+   "idx": 25,
+   "pali": "‘‘Idha pana, bhikkhave, ekacco puggalo sīlesu paripūrakārī hoti, samādhismiṃ paripūrakārī, paññāya na paripūrakārī.",
+   "zh": "“然而，诸比丘，有一种人于戒圆满、于定圆满，但于慧不圆满。"
+  },
+  {
+   "idx": 26,
+   "pali": "‘‘Idha pana, bhikkhave, ekacco puggalo sīlesu paripūrakārī hoti, samādhismiṃ paripūrakārī, paññāya paripūrakārī. Ime kho, bhikkhave, cattāro puggalā santo saṃvijjamānā lokasmi’’nti. Chaṭṭhaṃ.",
+   "zh": "“然而，诸比丘，还有一种人于戒圆满、于定圆满，于慧圆满。诸比丘，世间存在着这四种人。第六经。"
+  },
+  {
+   "idx": 27,
+   "pali": "7. Dutiyasīlasuttaṃ",
+   "zh": "7. [[dutiyasīlasutta|第二戒经]]"
+  },
+  {
+   "idx": 28,
+   "pali": "‘‘Cattārome, bhikkhave, puggalā santo saṃvijjamānā lokasmiṃ. Katame cattāro? Idha , bhikkhave, ekacco puggalo na sīlagaru hoti na sīlādhipateyyo, na samādhigaru hoti na samādhādhipateyyo, na paññāgaru hoti na paññādhipateyyo.",
+   "zh": "“诸比丘，有四种补特伽罗存在于世间。哪四种？诸比丘，有一种补特伽罗，不尊重戒、不以戒为依归，不尊重定、不以定为依归，不尊重慧、不以慧为依归。",
+   "n": "137"
+  },
+  {
+   "idx": 29,
+   "pali": "‘‘Idha pana, bhikkhave, ekacco puggalo sīlagaru hoti sīlādhipateyyo, na samādhigaru hoti na samādhādhipateyyo, na paññāgaru hoti na paññādhipateyyo.",
+   "zh": "“再者，诸比丘，有一种补特伽罗，尊重戒、以戒为依归，却不尊重定、不以定为依归，不尊重慧、不以慧为依归。"
+  },
+  {
+   "idx": 30,
+   "pali": "‘‘Idha pana, bhikkhave, ekacco puggalo sīlagaru hoti sīlādhipateyyo, samādhigaru hoti samādhādhipateyyo, na paññāgaru hoti na paññādhipateyyo.",
+   "zh": "“再者，诸比丘，有一种补特伽罗，尊重戒、以戒为依归，尊重定、以定为依归，却不尊重慧、不以慧为依归。"
+  },
+  {
+   "idx": 31,
+   "pali": "‘‘Idha pana, bhikkhave, ekacco puggalo sīlagaru hoti sīlādhipateyyo, samādhigaru hoti samādhādhipateyyo, paññāgaru hoti paññādhipateyyo. Ime kho, bhikkhave, cattāro puggalā santo saṃvijjamānā lokasmi’’nti. Sattamaṃ.",
+   "zh": "“然而，诸比丘，在此世上，有一种人尊重戒、以戒为尊，尊重定、以定为尊，尊重慧、以慧为尊。诸比丘，世间确实存在着这四种人。” 第七经"
+  },
+  {
+   "idx": 32,
+   "pali": "8. Nikaṭṭhasuttaṃ",
+   "zh": "8. [[nikaṭṭhasutta|不近经]]"
+  },
+  {
+   "idx": 33,
+   "pali": "‘‘Cattārome, bhikkhave, puggalā santo saṃvijjamānā lokasmiṃ. Katame cattāro? Nikaṭṭhakāyo anikaṭṭhacitto, anikaṭṭhakāyo nikaṭṭhacitto, anikaṭṭhakāyo ca anikaṭṭhacitto ca, nikaṭṭhakāyo ca nikaṭṭhacitto ca.",
+   "zh": "“诸比丘，世间有四种人。哪四种？身远离而心不远离者，身不远离而心远离者，身不远离且心不远离者，身远离且心远离者。",
+   "n": "138"
+  },
+  {
+   "idx": 34,
+   "pali": "‘‘Kathañca, bhikkhave, puggalo nikaṭṭhakāyo hoti anikaṭṭhacitto? Idha, bhikkhave, ekacco puggalo araññavanapatthāni pantāni senāsanāni paṭisevati. So tattha kāmavitakkampi vitakketi byāpādavitakkampi vitakketi vihiṃsāvitakkampi vitakketi. Evaṃ kho, bhikkhave, puggalo nikaṭṭhakāyo hoti anikaṭṭhacitto.",
+   "zh": "“诸比丘，怎样是身远离而心不远离的补特伽罗？诸比丘，在此，有一类补特伽罗亲近森林、林野、边地的住处。他身处彼处，既思惟欲寻，也思惟瞋恚寻，亦思惟害寻。诸比丘，如此，这位补特伽罗便是身远离而心不远离。"
+  },
+  {
+   "idx": 35,
+   "pali": "‘‘Kathañca, bhikkhave, puggalo anikaṭṭhakāyo hoti nikaṭṭhacitto? Idha, bhikkhave, ekacco puggalo naheva kho araññavanapatthāni pantāni senāsanāni paṭisevati. So tattha nekkhammavitakkampi vitakketi abyāpādavitakkampi vitakketi avihiṃsāvitakkampi vitakketi. Evaṃ kho, bhikkhave, puggalo anikaṭṭhakāyo hoti nikaṭṭhacitto.",
+   "zh": "“诸比丘，怎样是身不远离而心远离的补特伽罗？诸比丘，在此，有一类补特伽罗并不亲近森林、林野、边地的住处。他身处彼处，思惟出离寻、无瞋恚寻、无害寻。诸比丘，如此，这位补特伽罗便是身不远离而心远离。"
+  },
+  {
+   "idx": 36,
+   "pali": "‘‘Kathañca, bhikkhave, puggalo anikaṭṭhakāyo ca hoti anikaṭṭhacitto ca? Idha, bhikkhave, ekacco puggalo naheva kho araññavanapatthāni pantāni senāsanāni paṭisevati . So tattha kāmavitakkampi vitakketi byāpādavitakkampi vitakketi vihiṃsāvitakkampi vitakketi. Evaṃ kho, bhikkhave, puggalo anikaṭṭhakāyo ca hoti anikaṭṭhacitto ca.",
+   "zh": "“诸比丘，怎样是身不远离且心不远离的补特伽罗？诸比丘，在此，有一类补特伽罗并不亲近森林、林野、边地的住处。他身处彼处，思惟欲寻、瞋恚寻、害寻。诸比丘，如此，这位补特伽罗便是身不远离且心不远离。"
+  },
+  {
+   "idx": 37,
+   "pali": "‘‘Kathañca, bhikkhave, puggalo nikaṭṭhakāyo ca hoti nikaṭṭhacitto ca? Idha, bhikkhave, ekacco puggalo araññavanapatthāni pantāni senāsanāni paṭisevati. So tattha nekkhammavitakkampi vitakketi abyāpādavitakkampi vitakketi avihiṃsāvitakkampi vitakketi. Evaṃ kho, bhikkhave, puggalo nikaṭṭhakāyo ca hoti nikaṭṭhacitto ca. Ime kho, bhikkhave, cattāro puggalā santo saṃvijjamānā lokasmi’’nti. Aṭṭhamaṃ.",
+   "zh": "“诸比丘，怎样的人是身远离且心远离呢？诸比丘，于此，有这样一种人，受用森林、林野、边地的住所。他在那里既思惟出离寻，也思惟无嗔恚寻，也思惟无害寻。诸比丘，如此，此人便是身远离且心远离。诸比丘，世间有这四种补特伽罗存在。第八经。"
+  },
+  {
+   "idx": 38,
+   "pali": "9. Dhammakathikasuttaṃ",
+   "zh": "9. [[dhammakathikasutta|说法者经]]"
+  },
+  {
+   "idx": 39,
+   "pali": "‘‘Cattārome, bhikkhave, dhammakathikā. Katame cattāro? Idha, bhikkhave, ekacco dhammakathiko appañca bhāsati asahitañca; parisā cassa na kusalā hoti sahitāsahitassa. Evarūpo, bhikkhave, dhammakathiko evarūpāya parisāya dhammakathikotveva saṅkhaṃ gacchati.",
+   "zh": "“诸比丘，有四种说法者。是哪四种呢？诸比丘，于此，有一种说法者，说得少且不相应；他的会众对应理与否并不善巧。诸比丘，这样的说法者，对于这样的会众，即被称为说法者。",
+   "n": "139"
+  },
+  {
+   "idx": 40,
+   "pali": "‘‘Idha pana, bhikkhave, ekacco dhammakathiko appañca bhāsati sahitañca; parisā cassa kusalā hoti sahitāsahitassa. Evarūpo, bhikkhave, dhammakathiko evarūpāya parisāya dhammakathikotveva saṅkhaṃ gacchati.",
+   "zh": "“诸比丘，有一种说法者，言语虽少，却相应于义理；而他的会众，也善于分辨相应与不相应。诸比丘，这样的说法者，对于这样的会众，才堪称说法者。"
+  },
+  {
+   "idx": 41,
+   "pali": "‘‘Idha pana, bhikkhave, ekacco dhammakathiko bahuñca bhāsati asahitañca; parisā cassa na kusalā hoti sahitāsahitassa. Evarūpo, bhikkhave, dhammakathiko evarūpāya parisāya dhammakathikotveva saṅkhaṃ gacchati.",
+   "zh": "“诸比丘，又有说法者，言语虽多，却全不相应；而他的会众，又不善于分辨相应与不相应。诸比丘，这样的说法者，对于这样的会众，也被算作说法者。"
+  },
+  {
+   "idx": 42,
+   "pali": "‘‘Idha pana, bhikkhave, ekacco dhammakathiko bahuñca bhāsati sahitañca; parisā cassa kusalā hoti sahitāsahitassa. Evarūpo, bhikkhave, dhammakathiko evarūpāya parisāya dhammakathikotveva saṅkhaṃ gacchati. Ime kho, bhikkhave, cattāro dhammakathikā’’ti. Navamaṃ.",
+   "zh": "“诸比丘，又有说法者，言语既多，又句句相应；而他的会众，也善于分辨相应与不相应。诸比丘，这样的说法者，对于这样的会众，方堪称说法者。诸比丘，这便是四种说法者。”第九经。"
+  },
+  {
+   "idx": 43,
+   "pali": "10. Vādīsuttaṃ",
+   "zh": "10. [[vādīsutta|论者经]]"
+  },
+  {
+   "idx": 44,
+   "pali": "‘‘Cattārome , bhikkhave, vādī. Katame cattāro? Atthi , bhikkhave, vādī atthato pariyādānaṃ gacchati, no byañjanato; atthi, bhikkhave, vādī byañjanato pariyādānaṃ gacchati, no atthato; atthi, bhikkhave, vādī atthato ca byañjanato ca pariyādānaṃ gacchati; atthi, bhikkhave, vādī nevatthato no byañjanato pariyādānaṃ gacchati. Ime kho, bhikkhave, cattāro vādī. Aṭṭhānametaṃ, bhikkhave, anavakāso yaṃ catūhi paṭisambhidāhi samannāgato atthato vā byañjanato vā pariyādānaṃ gaccheyyā’’ti. Dasamaṃ.",
+   "zh": "“诸比丘，世间有这四种论者。哪四种呢？诸比丘，有一种论者，于义上理穷辞尽，于文上却不然；诸比丘，有一种论者，于文上辞穷理屈，于义上却不然；诸比丘，更有一种论者，于义、于文皆理穷辞尽；诸比丘，还有一种论者，于义、于文俱不陷于穷尽。诸比丘，这便是四种论者。诸比丘，具足四无碍解者，于义或文上会陷入穷尽，这是无有是处，不可能发生的。”第十。",
+   "n": "140"
+  },
+  {
+   "idx": 45,
+   "pali": "Puggalavaggo catuttho.",
+   "zh": "第四 补特伽罗品"
+  },
+  {
+   "idx": 46,
+   "pali": "Tassuddānaṃ –",
+   "zh": "其摄颂："
+  },
+  {
+   "idx": 47,
+   "pali": "Saṃyojanaṃ paṭibhāno, ugghaṭitaññu uṭṭhānaṃ;",
+   "zh": "结缚、辩才、速通者、精进，",
+   "type": "verse"
+  },
+  {
+   "idx": 48,
+   "pali": "Sāvajjo dve ca sīlāni, nikaṭṭha dhamma vādī cāti.",
+   "zh": "有过失者、二种戒、被逐者、法论者。",
+   "type": "verse"
+  }
+ ]
+}

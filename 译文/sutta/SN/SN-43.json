@@ -1,0 +1,336 @@
+{
+  "uid": 43,
+  "title": "9. 无为相应",
+  "nik": "SN",
+  "segs": [
+    {
+      "idx": 59,
+      "pali": "9. Asaṅkhatasaṃyuttaṃ",
+      "zh": "9. 无为相应"
+    },
+    {
+      "idx": 60,
+      "pali": "1. Paṭhamavaggo",
+      "zh": "第一品"
+    },
+    {
+      "idx": 61,
+      "pali": "1. Kāyagatāsatisuttaṃ",
+      "zh": "1. [[kāyagatāsatisutta|身至念经]]"
+    },
+    {
+      "idx": 1,
+      "pali": "Sāvatthinidānaṃ . ‘‘Asaṅkhatañca vo, bhikkhave, desessāmi asaṅkhatagāmiñca maggaṃ. Taṃ suṇātha. Katamañca, bhikkhave, asaṅkhataṃ? Yo, bhikkhave, rāgakkhayo dosakkhayo mohakkhayo – idaṃ vuccati, bhikkhave, asaṅkhataṃ. Katamo ca, bhikkhave, asaṅkhatagāmimaggo? Kāyagatāsati. Ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo’’.",
+      "zh": "在[[sāvatthī|舍卫城]]。“诸比丘，我将为你们开示无为，以及导向无为之道。谛听！诸比丘，什么是无为？贪的灭尽、嗔的灭尽、痴的灭尽——这就是无为。诸比丘，什么是导向无为之道？即身至念。诸比丘，这便称为导向无为之道。”",
+      "n": "366"
+    },
+    {
+      "idx": 2,
+      "pali": "‘‘Iti kho, bhikkhave, desitaṃ vo mayā asaṅkhataṃ, desito asaṅkhatagāmimaggo. Yaṃ, bhikkhave, satthārā karaṇīyaṃ sāvakānaṃ hitesinā anukampakena anukampaṃ upādāya, kataṃ vo taṃ mayā. Etāni, bhikkhave, rukkhamūlāni, etāni suññāgārāni. Jhāyatha , bhikkhave, mā pamādattha; mā pacchā vippaṭisārino ahuvattha. Ayaṃ vo amhākaṃ anusāsanī’’ti. Paṭhamaṃ.",
+      "zh": "“诸比丘，如是，我已为你们开示了无为，也开示了导向无为之道。诸比丘，凡一位导师，出于对弟子的利益，出于悲悯，所应为者，我都已为你们做了。诸比丘，这里有树下，有空寂之处。诸比丘，当修习禅那，切莫放逸，不要事后追悔。这是我对你们的教诫。” 第一经。"
+    },
+    {
+      "idx": 3,
+      "pali": "2. Samathavipassanāsuttaṃ",
+      "zh": "2. [[samathavipassanāsutta|止观经]]"
+    },
+    {
+      "idx": 4,
+      "pali": "‘‘Asaṅkhatañca vo, bhikkhave, desessāmi asaṅkhatagāmiñca maggaṃ. Taṃ suṇātha. Katamañca, bhikkhave, asaṅkhataṃ? Yo, bhikkhave, rāgakkhayo dosakkhayo mohakkhayo – idaṃ vuccati, bhikkhave, asaṅkhataṃ. Katamo ca, bhikkhave, asaṅkhatagāmimaggo? Samatho ca vipassanā ca. Ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo…pe…. Dutiyaṃ.",
+      "zh": "“诸比丘，我将为你们开示无为与导向无为之道。你们仔细听好。诸比丘，什么是无为？贪的灭尽、嗔的灭尽、痴的灭尽——这就称为无为。诸比丘，什么是导向无为之道？那就是止与观。诸比丘，这就称为导向无为之道……第二经。",
+      "n": "367"
+    },
+    {
+      "idx": 5,
+      "pali": "3. Savitakkasavicārasuttaṃ",
+      "zh": "3. [[savitakkasavicārasutta|有寻有伺经]]"
+    },
+    {
+      "idx": 6,
+      "pali": "‘‘Katamo ca, bhikkhave, asaṅkhatagāmimaggo? Savitakkasavicāro samādhi, avitakkavicāramatto samādhi, avitakkaavicāro samādhi – ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo…pe…. Tatiyaṃ.",
+      "zh": "“诸比丘，何谓导向无为之道？有寻有伺定、无寻唯伺定、无寻无伺定——诸比丘，这即称为导向无为之道。……第三经。”",
+      "n": "368"
+    },
+    {
+      "idx": 7,
+      "pali": "4. Suññatasamādhisuttaṃ",
+      "zh": "4. [[suññatasamādhisutta|空定经]]"
+    },
+    {
+      "idx": 8,
+      "pali": "‘‘Katamo ca, bhikkhave, asaṅkhatagāmimaggo? Suññato samādhi, animitto samādhi, appaṇihito samādhi – ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo…pe…. Catutthaṃ.",
+      "zh": "“诸比丘，何谓导向无为之道？空定、无相定、无愿定——诸比丘，这即称为导向无为之道。……第四经。",
+      "n": "369"
+    },
+    {
+      "idx": 9,
+      "pali": "5. Satipaṭṭhānasuttaṃ",
+      "zh": "5. [[satipaṭṭhānasutta|念处经]]"
+    },
+    {
+      "idx": 10,
+      "pali": "‘‘Katamo ca, bhikkhave, asaṅkhatagāmimaggo? Cattāro satipaṭṭhānā. Ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo…pe…. Pañcamaṃ.",
+      "zh": "“诸比丘，什么是通向无为之道？四念处。诸比丘，此即称为通向无为之道……第五经。",
+      "n": "370"
+    },
+    {
+      "idx": 11,
+      "pali": "6. Sammappadhānasuttaṃ",
+      "zh": "6. [[sammappadhānasutta|正勤经]]"
+    },
+    {
+      "idx": 12,
+      "pali": "‘‘Katamo ca, bhikkhave, asaṅkhatagāmimaggo? Cattāro sammappadhānā. Ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo…pe…. Chaṭṭhaṃ.",
+      "zh": "“诸比丘，什么是导向无为之道？就是四正勤。诸比丘，这称为导向无为之道……第六经。",
+      "n": "371"
+    },
+    {
+      "idx": 13,
+      "pali": "7. Iddhipādasuttaṃ",
+      "zh": "7. [[iddhipādasutta|神足经]]"
+    },
+    {
+      "idx": 14,
+      "pali": "‘‘Katamo ca, bhikkhave, asaṅkhatagāmimaggo? Cattāro iddhipādā. Ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo…pe…. Sattamaṃ.",
+      "zh": "“诸比丘，什么是导向无为之道？就是四神足。诸比丘，这称为导向无为之道……第七经。",
+      "n": "372"
+    },
+    {
+      "idx": 15,
+      "pali": "8. Indriyasuttaṃ",
+      "zh": "8. [[indriyasutta|根经]]"
+    },
+    {
+      "idx": 16,
+      "pali": "‘‘Katamo ca, bhikkhave, asaṅkhatagāmimaggo? Pañcindriyāni. Ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo…pe…. Aṭṭhamaṃ.",
+      "zh": "“诸比丘，何谓导向无为的道路？五根。诸比丘，此即名为导向无为的道路。……第八经。",
+      "n": "373"
+    },
+    {
+      "idx": 17,
+      "pali": "9. Balasuttaṃ",
+      "zh": "9. [[balasutta|力经]]"
+    },
+    {
+      "idx": 18,
+      "pali": "‘‘Katamo ca, bhikkhave, asaṅkhatagāmimaggo? Pañca balāni. Ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo…pe…. Navamaṃ.",
+      "zh": "“诸比丘，什么是导向无为的道路？五力。诸比丘，这便称为导向无为的道路……第九经。",
+      "n": "374"
+    },
+    {
+      "idx": 19,
+      "pali": "10. Bojjhaṅgasuttaṃ",
+      "zh": "10. [[bojjhaṅgasutta|觉支经]]"
+    },
+    {
+      "idx": 20,
+      "pali": "‘‘Katamo ca, bhikkhave, asaṅkhatagāmimaggo? Satta bojjhaṅgā. Ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo…pe…. Dasamaṃ.",
+      "zh": "“诸比丘，什么是导向无为的道路？七觉支。诸比丘，这便称为导向无为的道路……第十经。",
+      "n": "375"
+    },
+    {
+      "idx": 21,
+      "pali": "11. Maggaṅgasuttaṃ",
+      "zh": "11. [[maggaṅgasutta|道支经]]"
+    },
+    {
+      "idx": 22,
+      "pali": "‘‘Katamo ca, bhikkhave, asaṅkhatagāmimaggo? Ariyo aṭṭhaṅgiko maggo. Ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo. Iti kho, bhikkhave , desitaṃ vo mayā asaṅkhataṃ, desito asaṅkhatagāmimaggo. Yaṃ, bhikkhave, satthārā karaṇīyaṃ sāvakānaṃ hitesinā anukampakena anukampaṃ upādāya kataṃ vo taṃ mayā. Etāni, bhikkhave, rukkhamūlāni, etāni suññāgārāni. Jhāyatha, bhikkhave, mā pamādattha; mā pacchā vippaṭisārino ahuvattha. Ayaṃ vo amhākaṃ anusāsanī’’ti. Ekādasamaṃ.",
+      "zh": "“诸比丘，什么是导向无为之道？就是那圣八支道。诸比丘，这便称为导向无为之道。如此，诸比丘，我已为你们开示了无为，也开示了导向无为之道。诸比丘，一位导师出于对弟子们的利益与悲悯，所应做的，我都已为你们做了。诸比丘，这里有树下，有空寂之处的住处。诸比丘，你们应当禅修，不可放逸，免得日后追悔。这就是我们对你们的教导。”第十一经。",
+      "n": "376"
+    },
+    {
+      "idx": 23,
+      "pali": "Paṭhamo vaggo.",
+      "zh": "第一品"
+    },
+    {
+      "idx": 24,
+      "pali": "Tassuddānaṃ –",
+      "zh": "其摄颂："
+    },
+    {
+      "idx": 25,
+      "pali": "Kāyo samatho savitakko, suññato satipaṭṭhānā;",
+      "zh": "身念住、止、有寻，空性与念处；",
+      "type": "verse"
+    },
+    {
+      "idx": 26,
+      "pali": "Sammappadhānā iddhipādā, indriyabalabojjhaṅgā;",
+      "zh": "四正勤、四神足，五根、五力、七觉支；",
+      "type": "verse"
+    },
+    {
+      "idx": 27,
+      "pali": "Maggena ekādasamaṃ, tassuddānaṃ pavuccati.",
+      "zh": "道为第十一，如是宣说其摄颂。",
+      "type": "verse"
+    },
+    {
+      "idx": 28,
+      "pali": "2. Dutiyavaggo",
+      "zh": "第二品"
+    },
+    {
+      "idx": 29,
+      "pali": "1. Asaṅkhatasuttaṃ",
+      "zh": "1. [[asaṅkhatasutta|无为经]]"
+    },
+    {
+      "idx": 30,
+      "pali": "‘‘Asaṅkhatañca vo, bhikkhave, desessāmi asaṅkhatagāmiñca maggaṃ. Taṃ suṇātha. Katamañca, bhikkhave, asaṅkhataṃ? Yo, bhikkhave, rāgakkhayo dosakkhayo mohakkhayo – idaṃ vuccati, bhikkhave, asaṅkhataṃ. Katamo ca, bhikkhave, asaṅkhatagāmimaggo? Samatho. Ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo. Iti kho, bhikkhave, desitaṃ vo mayā asaṅkhataṃ, desito asaṅkhatagāmimaggo. Yaṃ, bhikkhave, satthārā karaṇīyaṃ sāvakānaṃ hitesinā anukampakena anukampaṃ upādāya, kataṃ vo taṃ mayā. Etāni, bhikkhave, rukkhamūlāni, etāni suññāgārāni. Jhāyatha, bhikkhave, mā pamādattha; mā pacchā vippaṭisārino ahuvattha. Ayaṃ vo amhākaṃ anusāsanīti.",
+      "zh": "“诸比丘，我将为你们讲说无为及导向无为之道。谛听！诸比丘，何谓无为？贪的灭尽、嗔的灭尽、痴的灭尽——诸比丘，此即名为无为。诸比丘，何谓导向无为之道？寂止。诸比丘，此即名为导向无为之道。诸比丘，如此，我已为你们讲说无为，也为你们讲说导向无为之道。诸比丘，凡是师长出于慈悲，为弟子们饶益所当作之事，我已为你们而作。诸比丘，这里有树下，有空寂之处。诸比丘，当修禅那，莫放逸，莫令日后追悔。这便是我们给你们的教诫。”",
+      "n": "377"
+    },
+    {
+      "idx": 31,
+      "pali": "‘‘Asaṅkhatañca vo, bhikkhave, desessāmi asaṅkhatagāmiñca maggaṃ. Taṃ suṇātha. Katamañca, bhikkhave, asaṅkhataṃ? Yo, bhikkhave, rāgakkhayo dosakkhayo mohakkhayo – idaṃ vuccati, bhikkhave, asaṅkhataṃ. Katamo ca, bhikkhave, asaṅkhatagāmimaggo? Vipassanā. Ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo. Iti kho, bhikkhave, desitaṃ vo mayā asaṅkhataṃ…pe… ayaṃ vo amhākaṃ anusāsanīti.",
+      "zh": "“诸比丘，我将为你们讲说无为及导向无为之道。谛听！诸比丘，何谓无为？贪的灭尽、嗔的灭尽、痴的灭尽——诸比丘，此即名为无为。诸比丘，何谓导向无为之道？观。诸比丘，此即名为导向无为之道。诸比丘，如此，我已为你们讲说无为……（中略）……这是我们给你们的教诫。”"
+    },
+    {
+      "idx": 32,
+      "pali": "‘‘Katamo ca, bhikkhave, asaṅkhatagāmimaggo? Savitakko savicāro samādhi. Ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo…pe… katamo ca, bhikkhave, asaṅkhatagāmimaggo? Avitakko vicāramatto samādhi. Ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo…pe… katamo ca, bhikkhave, asaṅkhatagāmimaggo? Avitakko avicāro samādhi. Ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo…pe….",
+      "zh": "“诸比丘，什么是通向无为的道路？有寻有伺之定，这便称为通向无为的道路。……（中略）……诸比丘，什么是通向无为的道路？无寻唯伺之定，这便称为通向无为的道路。……（中略）……诸比丘，什么是通向无为的道路？无寻无伺之定，这便称为通向无为的道路。……”"
+    },
+    {
+      "idx": 33,
+      "pali": "‘‘Katamo ca, bhikkhave, asaṅkhatagāmimaggo? Suññato samādhi. Ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo…pe… katamo ca, bhikkhave, asaṅkhatagāmimaggo? Animitto samādhi. Ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo…pe… katamo ca, bhikkhave, asaṅkhatagāmimaggo? Appaṇihito samādhi. Ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo…pe….",
+      "zh": "“诸比丘，什么是通向无为的道路？空定，这便称为通向无为的道路。……（中略）……诸比丘，什么是通向无为的道路？无相定，这便称为通向无为的道路。……（中略）……诸比丘，什么是通向无为的道路？无愿定，这便称为通向无为的道路。……”"
+    },
+    {
+      "idx": 34,
+      "pali": "‘‘Katamo ca, bhikkhave, asaṅkhatagāmimaggo? Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṃ. Ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo…pe… katamo ca, bhikkhave, asaṅkhatagāmimaggo? Idha, bhikkhave, bhikkhu vedanāsu vedanānupassī viharati…pe… ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo…pe… katamo ca, bhikkhave, asaṅkhatagāmimaggo? Idha, bhikkhave, bhikkhu citte cittānupassī…pe… ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo…pe… katamo ca, bhikkhave, asaṅkhatagāmimaggo? Idha, bhikkhave, bhikkhu dhammesu dhammānupassī viharati…pe… ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo…pe….",
+      "zh": "“诸比丘，那么，什么是导向无为的道路？诸比丘，在此，有一位比丘于身随观身而住，热忱、正知、具念，调伏世间的贪忧。诸比丘，这就称为导向无为的道路……诸比丘，那么，什么是导向无为的道路？诸比丘，在此，有一位比丘于受随观受而住……诸比丘，这就称为导向无为的道路……诸比丘，那么，什么是导向无为的道路？诸比丘，在此，有一位比丘于心随观心……诸比丘，这就称为导向无为的道路……诸比丘，那么，什么是导向无为的道路？诸比丘，在此，有一位比丘于法随观法而住……诸比丘，这就称为导向无为的道路……”"
+    },
+    {
+      "idx": 35,
+      "pali": "‘‘Katamo ca, bhikkhave, asaṅkhatagāmimaggo? Idha, bhikkhave, bhikkhu anuppannānaṃ pāpakānaṃ akusalānaṃ dhammānaṃ anuppādā chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati. Ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo…pe… katamo ca, bhikkhave, asaṅkhatagāmimaggo? Idha, bhikkhave, bhikkhu uppannānaṃ pāpakānaṃ akusalānaṃ dhammānaṃ pahānā chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati. Ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo…pe… katamo ca, bhikkhave, asaṅkhatagāmimaggo? Idha, bhikkhave, bhikkhu anuppannānaṃ kusalānaṃ dhammānaṃ uppādā chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati. Ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo…pe… katamo ca, bhikkhave, asaṅkhatagāmimaggo? Idha, bhikkhave, bhikkhu uppannānaṃ kusalānaṃ dhammānaṃ ṭhitiyā asammosāya bhiyyobhāvāya vepullāya bhāvanāya pāripūriyā chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati. Ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo…pe….",
+      "zh": "“诸比丘，什么是导向无为之道？诸比丘，在此法中，比丘为令未生起的恶不善法不生起，而生起意欲，精勤策励，发奋努力，提振心志，殷勤修习。诸比丘，这便称为导向无为之道……（中略）……诸比丘，什么是导向无为之道？诸比丘，在此法中，比丘为令已生起的恶不善法断除，而生起意欲，精勤策励，发奋努力，提振心志，殷勤修习。诸比丘，这便称为导向无为之道……（中略）……诸比丘，什么是导向无为之道？诸比丘，在此法中，比丘为令未生起的善法生起，而生起意欲，精勤策励，发奋努力，提振心志，殷勤修习。诸比丘，这便称为导向无为之道……（中略）……诸比丘，什么是导向无为之道？诸比丘，在此法中，比丘为令已生起的善法住立、不失、增长、广大、修习圆满，而生起意欲，精勤策励，发奋努力，提振心志，殷勤修习。诸比丘，这便称为导向无为之道……（中略）……”"
+    },
+    {
+      "idx": 36,
+      "pali": "‘‘Katamo ca, bhikkhave, asaṅkhatagāmimaggo? Idha, bhikkhave, bhikkhu chandasamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti. Ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe… katamo ca, bhikkhave, asaṅkhatagāmimaggo? Idha, bhikkhave, bhikkhu vīriyasamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti. Ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo…pe… katamo ca, bhikkhave, asaṅkhatagāmimaggo? Idha, bhikkhave, bhikkhu cittasamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti. Ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo…pe… katamo ca, bhikkhave, asaṅkhatagāmimaggo? Idha, bhikkhave, bhikkhu vīmaṃsasamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti. Ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo…pe….",
+      "zh": "“诸比丘，什么是导向无为之道？诸比丘，在此法中，比丘修习具足欲定与勤行成就之神足。诸比丘，这便称为导向无为之道……（中略）……诸比丘，什么是导向无为之道？诸比丘，在此法中，比丘修习具足精进定与勤行成就之神足。诸比丘，这便称为导向无为之道……（中略）……诸比丘，什么是导向无为之道？诸比丘，在此法中，比丘修习具足心定与勤行成就之神足。诸比丘，这便称为导向无为之道……（中略）……诸比丘，什么是导向无为之道？诸比丘，在此法中，比丘修习具足观定与勤行成就之神足。诸比丘，这便称为导向无为之道……”"
+    },
+    {
+      "idx": 37,
+      "pali": "‘‘Katamo ca, bhikkhave, asaṅkhatagāmimaggo? Idha, bhikkhave, bhikkhu saddhindriyaṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ. Ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo…pe… katamo ca, bhikkhave, asaṅkhatagāmimaggo? Idha, bhikkhave, bhikkhu vīriyindriyaṃ bhāveti vivekanissitaṃ…pe… ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo…pe… katamo ca, bhikkhave, asaṅkhatagāmimaggo? Idha, bhikkhave, bhikkhu satindriyaṃ bhāveti…pe… ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo…pe… katamo ca, bhikkhave, asaṅkhatagāmimaggo? Idha, bhikkhave, bhikkhu samādhindriyaṃ bhāveti…pe… ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo…pe… katamo ca, bhikkhave, asaṅkhatagāmimaggo? Idha, bhikkhave, bhikkhu paññindriyaṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ. Ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo…pe….",
+      "zh": "“诸比丘，什么是通往无为之道？诸比丘，在此，有比丘修习信根，依止远离、依止离贪、依止灭，转向舍遣。诸比丘，这便称为通往无为之道……什么是通往无为之道？诸比丘，在此，有比丘修习精进根，依止远离……诸比丘，这便称为通往无为之道……什么是通往无为之道？诸比丘，在此，有比丘修习……念根……诸比丘，这便称为通往无为之道……什么是通往无为之道？诸比丘，在此，有比丘修习……定根……诸比丘，这便称为通往无为之道……什么是通往无为之道？诸比丘，在此，有比丘修习慧根，依止远离、依止离贪、依止灭，转向舍遣。诸比丘，这便称为通往无为之道……”"
+    },
+    {
+      "idx": 38,
+      "pali": "‘‘Katamo ca, bhikkhave, asaṅkhatagāmimaggo? Idha, bhikkhave, bhikkhu saddhābalaṃ bhāveti vivekanissitaṃ…pe… ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo…pe… katamo ca, bhikkhave, asaṅkhatagāmimaggo? Idha, bhikkhave, bhikkhu vīriyabalaṃ bhāveti…pe… ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo…pe… katamo ca, bhikkhave, asaṅkhatagāmimaggo? Idha, bhikkhave, bhikkhu satibalaṃ bhāveti…pe… ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo…pe… katamo ca, bhikkhave, asaṅkhatagāmimaggo? Idha, bhikkhave, bhikkhu samādhibalaṃ bhāveti…pe… ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo…pe… katamo ca, bhikkhave, asaṅkhatagāmimaggo? Idha, bhikkhave, bhikkhu paññābalaṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ. Ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo…pe….",
+      "zh": "“诸比丘，什么是导向无为之道？诸比丘，于此，比丘修习依止远离、依止离贪、依止灭、转向舍遣的信力。诸比丘，这便称为导向无为之道。诸比丘，什么是导向无为之道？诸比丘，于此，比丘修习依止远离、依止离贪、依止灭、转向舍遣的精进力。诸比丘，这便称为导向无为之道。诸比丘，什么是导向无为之道？诸比丘，于此，比丘修习依止远离、依止离贪、依止灭、转向舍遣的念力。诸比丘，这便称为导向无为之道。诸比丘，什么是导向无为之道？诸比丘，于此，比丘修习依止远离、依止离贪、依止灭、转向舍遣的定力。诸比丘，这便称为导向无为之道。诸比丘，什么是导向无为之道？诸比丘，于此，比丘修习依止远离、依止离贪、依止灭、转向舍遣的慧力。诸比丘，这便称为导向无为之道。”"
+    },
+    {
+      "idx": 39,
+      "pali": "‘‘Katamo ca, bhikkhave, asaṅkhatagāmimaggo? Idha, bhikkhave, bhikkhu satisambojjhaṅgaṃ bhāveti…pe… ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo…pe… katamo ca, bhikkhave, asaṅkhatagāmimaggo? Idha, bhikkhave, bhikkhu dhammavicayasambojjhaṅgaṃ bhāveti…pe… vīriyasambojjhaṅgaṃ bhāveti…pe… pītisambojjhaṅgaṃ bhāveti…pe… passaddhisambojjhaṅgaṃ bhāveti…pe… samādhisambojjhaṅgaṃ bhāveti…pe… upekkhāsambojjhaṅgaṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ. Ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo…pe….",
+      "zh": "“诸比丘，什么是导向无为之道？诸比丘，在此，比丘修习……念觉支……诸比丘，这称为导向无为之道。……什么是导向无为之道？诸比丘，在此，比丘修习……择法觉支……修习……精进觉支……修习……喜觉支……修习……轻安觉支……修习……定觉支……修习依止远离、依止离贪、依止灭、转向舍遣的舍觉支。诸比丘，这称为导向无为之道。”"
+    },
+    {
+      "idx": 40,
+      "pali": "‘‘Katamo ca, bhikkhave, asaṅkhatagāmimaggo? Idha, bhikkhave, bhikkhu sammādiṭṭhiṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ. Ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo…pe… katamo ca, bhikkhave, asaṅkhatagāmimaggo? Idha, bhikkhave, bhikkhu sammāsaṅkappaṃ bhāveti …pe… sammāvācaṃ bhāveti…pe… sammākammantaṃ bhāveti…pe… sammāājīvaṃ bhāveti…pe… sammāvāyāmaṃ bhāveti…pe… sammāsatiṃ bhāveti…pe… asaṅkhatañca vo bhikkhave, desessāmi asaṅkhatagāmiñca maggaṃ. Taṃ suṇātha. Katamañca, bhikkhave, asaṅkhataṃ…pe…? Katamo ca, bhikkhave, asaṅkhatagāmimaggo? Idha, bhikkhave, bhikkhu sammāsamādhiṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ . Ayaṃ vuccati, bhikkhave, asaṅkhatagāmimaggo. Iti kho, bhikkhave, desitaṃ vo mayā asaṅkhataṃ, desito asaṅkhatagāmimaggo. Yaṃ, bhikkhave, satthārā karaṇīyaṃ sāvakānaṃ hitesinā anukampakena anukampaṃ upādāya, kataṃ vo taṃ mayā. Etāni, bhikkhave, rukkhamūlāni, etāni suññāgārāni. Jhāyatha, bhikkhave, mā pamādattha; mā pacchā vippaṭisārino ahuvattha. Ayaṃ vo amhākaṃ anusāsanī’’ti. Paṭhamaṃ.",
+      "zh": "“诸比丘，什么是导向无为之道？诸比丘，于此，比丘修习依止远离、依止离贪、依止灭、转向舍遣的正见。诸比丘，这称为导向无为之道……什么是导向无为之道？诸比丘，于此，比丘修习……正思惟……修习……正语……修习……正业……修习……正命……修习……正精进……修习……正念……诸比丘，我将为你们宣说无为与导向无为之道。你们应当谛听。诸比丘，什么是无为？……诸比丘，什么是导向无为之道？诸比丘，于此，比丘修习依止远离、依止离贪、依止灭、转向舍遣的正定。诸比丘，这称为导向无为之道。诸比丘，如此，我已为你们宣说了无为，已宣说了导向无为之道。诸比丘，凡是导师出于慈愍、为弟子们的利益、怀着悲悯所应做的，我都已为你们做了。诸比丘，这些是树下，这些是空寂之处。诸比丘，你们应当修禅，莫放逸；莫于日后生起追悔。这便是我们对你们的教诫。 ”第一经。"
+    },
+    {
+      "idx": 41,
+      "pali": "2. Anatasuttaṃ",
+      "zh": "2. [[anatasutta|无终经]]"
+    },
+    {
+      "idx": 42,
+      "pali": "‘‘Anatañca vo, bhikkhave, desessāmi, anatagāmiñca maggaṃ. Taṃ suṇātha. Katamañca, bhikkhave, anataṃ…pe…’’. (Yathā asaṅkhataṃ tathā vitthāretabbaṃ). Dutiyaṃ.",
+      "zh": "“诸比丘，我将为你们教导无终与导向无终之道。你们要谛听。诸比丘，什么是无终呢？……”（应如无为那样详细解释。）第二经",
+      "n": "378"
+    },
+    {
+      "idx": 43,
+      "pali": "3-32. Anāsavādisuttaṃ",
+      "zh": "3-32. 无漏等经"
+    },
+    {
+      "idx": 44,
+      "pali": "‘‘Anāsavañca vo, bhikkhave, desessāmi anāsavagāmiñca maggaṃ. Taṃ suṇātha. Katamañca, bhikkhave, anāsavaṃ…pe… saccañca vo, bhikkhave, desessāmi saccagāmiñca maggaṃ. Taṃ suṇātha. Katamañca, bhikkhave, saccaṃ…pe… pārañca vo, bhikkhave, desessāmi pāragāmiñca maggaṃ. Taṃ suṇātha. Katamañca, bhikkhave, pāraṃ…pe… nipuṇañca vo, bhikkhave, desessāmi nipuṇagāmiñca maggaṃ. Taṃ suṇātha. Katamañca, bhikkhave, nipuṇaṃ…pe… sududdasañca vo, bhikkhave, desessāmi sududdasagāmiñca maggaṃ. Taṃ suṇātha. Katamañca, bhikkhave, sududdasaṃ…pe… ajajjarañca vo, bhikkhave, desessāmi ajajjaragāmiñca maggaṃ. Taṃ suṇātha. Katamañca, bhikkhave, ajajjaraṃ…pe… dhuvañca vo, bhikkhave, desessāmi dhuvagāmiñca maggaṃ. Taṃ suṇātha. Katamañca, bhikkhave, dhuvaṃ…pe… apalokitañca vo, bhikkhave, desessāmi apalokitagāmiñca maggaṃ. Taṃ suṇātha. Katamañca, bhikkhave, apalokitaṃ…pe… anidassanañca vo, bhikkhave, desessāmi anidassanagāmiñca maggaṃ. Taṃ suṇātha. Katamañca, bhikkhave, anidassanaṃ…pe… nippapañcañca vo, bhikkhave, desessāmi nippapañcagāmiñca maggaṃ. Taṃ suṇātha. Katamañca, bhikkhave, nippapañcaṃ…pe…?",
+      "zh": "“诸比丘，我将为你们开示无漏与导向无漏之道，谛听。诸比丘，何等为无漏？……诸比丘，我将为你们开示真理与导向真理之道，谛听。诸比丘，何等为真理？……诸比丘，我将为你们开示彼岸与导向彼岸之道，谛听。诸比丘，何等为彼岸？……诸比丘，我将为你们开示微细与导向微细之道，谛听。诸比丘，何等为微细？……诸比丘，我将为你们开示极难见与导向极难见之道，谛听。诸比丘，何等为极难见？……诸比丘，我将为你们开示不衰与导向不衰之道，谛听。诸比丘，何等为不衰？……诸比丘，我将为你们开示坚固与导向坚固之道，谛听。诸比丘，何等为坚固？……诸比丘，我将为你们开示不坏与导向不坏之道，谛听。诸比丘，何等为不坏？……诸比丘，我将为你们开示不可见与导向不可见之道，谛听。诸比丘，何等为不可见？……诸比丘，我将为你们开示无戏论与导向无戏论之道，谛听。诸比丘，何等为无戏论？……",
+      "n": "379-408"
+    },
+    {
+      "idx": 45,
+      "pali": "‘‘Santañca vo, bhikkhave, desessāmi santagāmiñca maggaṃ. Taṃ suṇātha. Katamañca, bhikkhave, santaṃ…pe… amatañca vo, bhikkhave, desessāmi amatagāmiñca maggaṃ. Taṃ suṇātha. Katamañca, bhikkhave, amataṃ…pe… paṇītañca vo, bhikkhave, desessāmi paṇītagāmiñca maggaṃ. Taṃ suṇātha. Katamañca, bhikkhave, paṇītaṃ…pe… sivañca vo, bhikkhave , desessāmi sivagāmiñca maggaṃ. Taṃ suṇātha. Katamañca, bhikkhave, sivaṃ…pe… khemañca vo, bhikkhave, desessāmi khemagāmiñca maggaṃ. Taṃ suṇātha. Katamañca, bhikkhave, khemaṃ…pe… taṇhākkhayañca vo, bhikkhave, desessāmi taṇhākkhayagāmiñca maggaṃ. Taṃ suṇātha. Katamañca, bhikkhave, taṇhākkhayaṃ…pe…?",
+      "zh": "“比丘们，我将宣说寂静，以及导向寂静的道路。你们仔细听。比丘们，什么是寂静呢？……\n比丘们，我将宣说不死，以及导向不死的道路。你们仔细听。比丘们，什么是不死呢？……\n比丘们，我将宣说殊胜，以及导向殊胜的道路。你们仔细听。比丘们，什么是殊胜呢？……\n比丘们，我将宣说吉祥，以及导向吉祥的道路。你们仔细听。比丘们，什么是吉祥呢？……\n比丘们，我将宣说安稳，以及导向安稳的道路。你们仔细听。比丘们，什么是安稳呢？……\n比丘们，我将宣说渴爱的灭尽，以及导向渴爱灭尽的道路。你们仔细听。比丘们，什么是渴爱的灭尽呢？……"
+    },
+    {
+      "idx": 46,
+      "pali": "‘‘Acchariyañca vo, bhikkhave, desessāmi acchariyagāmiñca maggaṃ. Taṃ suṇātha. Katamañca, bhikkhave, acchariyaṃ…pe… abbhutañca vo, bhikkhave, desessāmi abbhutagāmiñca maggaṃ. Taṃ suṇātha. Katamañca, bhikkhave, abbhutaṃ…pe… anītikañca vo, bhikkhave, desessāmi anītikagāmiñca maggaṃ. Taṃ suṇātha. Katamañca, bhikkhave, anītikaṃ…pe… anītikadhammañca vo, bhikkhave, desessāmi anītikadhammagāmiñca maggaṃ. Taṃ suṇātha. Katamañca, bhikkhave, anītikadhammaṃ…pe… nibbānañca vo, bhikkhave, desessāmi nibbānagāmiñca maggaṃ. Taṃ suṇātha. Katamañca, bhikkhave, nibbānaṃ…pe… abyāpajjhañca vo, bhikkhave, desessāmi abyāpajjhagāmiñca maggaṃ. Taṃ suṇātha. Katamañca, bhikkhave, abyāpajjhaṃ…pe… virāgañca vo, bhikkhave, desessāmi virāgagāmiñca maggaṃ. Taṃ suṇātha. Katamo ca, bhikkhave, virāgo…pe…?",
+      "zh": "“诸比丘，我将为你们宣说稀有，以及通往稀有的道路。你们仔细听。诸比丘，什么是稀有呢？……诸比丘，我将为你们宣说未曾有，以及通往未曾有的道路。你们仔细听。诸比丘，什么是未曾有呢？……诸比丘，我将为你们宣说无灾，以及通往无灾的道路。你们仔细听。诸比丘，什么是无灾呢？……诸比丘，我将为你们宣说无灾法，以及通往无灾法的道路。你们仔细听。诸比丘，什么是无灾法呢？……诸比丘，我将为你们宣说涅槃，以及通往涅槃的道路。你们仔细听。诸比丘，什么是涅槃呢？……诸比丘，我将为你们宣说无恼，以及通往无恼的道路。你们仔细听。诸比丘，什么是无恼呢？……诸比丘，我将为你们宣说离染，以及通往离染的道路。你们仔细听。诸比丘，什么是离染呢？……"
+    },
+    {
+      "idx": 47,
+      "pali": "‘‘Suddhiñca vo, bhikkhave, desessāmi suddhigāmiñca maggaṃ. Taṃ suṇātha. Katamā ca, bhikkhave, suddhi…pe… muttiñca vo, bhikkhave, desessāmi muttigāmiñca maggaṃ. Taṃ suṇātha. Katamā ca, bhikkhave, mutti…pe… anālayañca vo, bhikkhave, desessāmi anālayagāmiñca maggaṃ. Taṃ suṇātha. Katamo ca, bhikkhave, anālayo…pe… dīpañca vo, bhikkhave, desessāmi dīpagāmiñca maggaṃ. Taṃ suṇātha. Katamañca, bhikkhave, dīpaṃ…pe… leṇañca vo, bhikkhave, desessāmi leṇagāmiñca maggaṃ. Taṃ suṇātha. Katamañca, bhikkhave, leṇaṃ…pe… tāṇañca vo, bhikkhave, desessāmi tāṇagāmiñca maggaṃ. Taṃ suṇātha. Katamañca, bhikkhave, tāṇaṃ…pe… saraṇañca vo, bhikkhave, desessāmi saraṇagāmiñca maggaṃ. Taṃ suṇātha. Katamañca, bhikkhave, saraṇaṃ…pe…anusāsanī’’ti? Bāttiṃsatimaṃ.",
+      "zh": "“诸比丘，我将为你们开示清净以及导向清净的道路，你们仔细听。诸比丘，什么是清净呢？……诸比丘，我将为你们开示解脱以及导向解脱的道路，你们仔细听。诸比丘，什么是解脱呢？……诸比丘，我将为你们开示无住着以及导向无住着的道路，你们仔细听。诸比丘，什么是无住着呢？……诸比丘，我将为你们开示洲以及导向洲的道路，你们仔细听。诸比丘，什么是洲呢？……诸比丘，我将为你们开示庇护所以及导向庇护所的道路，你们仔细听。诸比丘，什么是庇护所呢？……诸比丘，我将为你们开示护卫以及导向护卫的道路，你们仔细听。诸比丘，什么是护卫呢？……诸比丘，我将为你们开示皈依以及导向皈依的道路，你们仔细听。诸比丘，什么是皈依呢？……”第三十二。"
+    },
+    {
+      "idx": 48,
+      "pali": "33. Parāyanasuttaṃ",
+      "zh": "33. [[parāyanasutta|彼岸经]]"
+    },
+    {
+      "idx": 49,
+      "pali": "‘‘Parāyanañca vo, bhikkhave, desessāmi parāyanagāmiñca maggaṃ. Taṃ suṇātha. Katamañca, bhikkhave, parāyanaṃ? Yo, bhikkhave, rāgakkhayo dosakkhayo mohakkhayo – idaṃ vuccati, bhikkhave, parāyanaṃ. Katamo ca, bhikkhave, parāyanagāmī maggo? Kāyagatāsati. Ayaṃ vuccati, bhikkhave, parāyanagāmimaggo. Iti kho, bhikkhave, desitaṃ vo mayā parāyanaṃ, desito parāyanagāmimaggo. Yaṃ, bhikkhave, satthārā karaṇīyaṃ sāvakānaṃ hitesinā anukampakena anukampaṃ upādāya, kataṃ vo taṃ mayā. Etāni, bhikkhave, rukkhamūlāni, etāni suññāgārāni. Jhāyatha, bhikkhave, mā pamādattha; mā pacchā vippaṭisārino ahuvattha. Ayaṃ vo amhākaṃ anusāsanī’’ti. (Yathā asaṅkhataṃ tathā vitthāretabbaṃ). Tettiṃsatimaṃ.",
+      "zh": "“诸比丘，我将为你们开示彼岸，以及导向彼岸的道路。你们仔细听。诸比丘，什么是彼岸呢？诸比丘，贪的灭尽、嗔的灭尽、痴的灭尽，这就是彼岸。诸比丘，什么是导向彼岸的道路呢？身至念。诸比丘，这就是导向彼岸的道路。诸比丘，如是，我已为你们开示了彼岸，已开示了导向彼岸的道路。诸比丘，凡一位导师出于对弟子的利益与悲悯，所应做的事，我都已为你们做了。诸比丘，这里有树下、空寂之处这些地方。诸比丘，你们当修习禅那，莫放逸，莫要日后追悔。这就是我给你们的教诫。（如同无为一样，应当这样详细展开。）”第三十三经。",
+      "n": "409"
+    },
+    {
+      "idx": 50,
+      "pali": "Dutiyo vaggo.",
+      "zh": "第二品"
+    },
+    {
+      "idx": 51,
+      "pali": "Tassuddānaṃ –",
+      "zh": "其摄颂："
+    },
+    {
+      "idx": 52,
+      "pali": "Asaṅkhataṃ anataṃ anāsavaṃ, saccañca pāraṃ nipuṇaṃ sududdasaṃ;",
+      "zh": "无为、无倾、无漏，真谛、彼岸、微妙、极难见；",
+      "type": "verse"
+    },
+    {
+      "idx": 53,
+      "pali": "Ajajjaraṃ dhuvaṃ apalokitaṃ, anidassanaṃ nippapañca santaṃ.",
+      "zh": "不老、坚固、不坏，不可见、无戏论、寂静。",
+      "type": "verse"
+    },
+    {
+      "idx": 54,
+      "pali": "Amataṃ paṇītañca sivañca khemaṃ, taṇhākkhayo acchariyañca abbhutaṃ;",
+      "zh": "不死、殊胜、吉祥、安稳，是渴爱的灭尽，稀有、未曾有；",
+      "type": "verse"
+    },
+    {
+      "idx": 55,
+      "pali": "Anītikaṃ anītikadhammaṃ, nibbānametaṃ sugatena desitaṃ.",
+      "zh": "无灾、无灾之法，此即善逝所宣说的涅槃；",
+      "type": "verse"
+    },
+    {
+      "idx": 56,
+      "pali": "Abyāpajjho virāgo ca, suddhi mutti anālayo;",
+      "zh": "无恼害、离贪、清净、解脱、无依；",
+      "type": "verse"
+    },
+    {
+      "idx": 57,
+      "pali": "Dīpo leṇañca tāṇañca, saraṇañca parāyananti.",
+      "zh": "洲渚、庇护所、救护、皈依处与归宿。",
+      "type": "verse"
+    },
+    {
+      "idx": 58,
+      "pali": "Asaṅkhatasaṃyuttaṃ samattaṃ.",
+      "zh": "无为相应终"
+    }
+  ]
+}

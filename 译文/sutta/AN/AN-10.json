@@ -1,0 +1,125 @@
+{
+ "uid": 10,
+ "title": "10. 第二放逸等品",
+ "nik": "AN",
+ "segs": [
+  {
+   "idx": 19,
+   "pali": "10. Dutiyapamādādivaggo",
+   "zh": "第二放逸等品"
+  },
+  {
+   "idx": 1,
+   "pali": "‘‘Ajjhattikaṃ , bhikkhave, aṅganti karitvā nāññaṃ ekaṅgampi samanupassāmi yaṃ evaṃ mahato anatthāya saṃvattati yathayidaṃ, bhikkhave, pamādo. Pamādo, bhikkhave, mahato anatthāya saṃvattatī’’ti. Paṭhamaṃ.",
+   "zh": "“诸比丘，在内在因素中，我不见有其他任何一法，能像放逸这样导向大无利益。诸比丘，放逸导向大无利益。第一。”",
+   "n": "98"
+  },
+  {
+   "idx": 2,
+   "pali": "‘‘Ajjhattikaṃ, bhikkhave, aṅganti karitvā nāññaṃ ekaṅgampi samanupassāmi yaṃ evaṃ mahato atthāya saṃvattati yathayidaṃ, bhikkhave, appamādo. Appamādo , bhikkhave, mahato atthāya saṃvattatī’’ti. Dutiyaṃ.",
+   "zh": "“诸比丘，若论内在的支分，我不见有任何其他一法，能像不放逸这样导向极大的利益。诸比丘，不放逸导向极大的利益。第二。”",
+   "n": "99"
+  },
+  {
+   "idx": 3,
+   "pali": "‘‘Ajjhattikaṃ, bhikkhave, aṅganti karitvā nāññaṃ ekaṅgampi samanupassāmi yaṃ evaṃ mahato anatthāya saṃvattati yathayidaṃ, bhikkhave, kosajjaṃ. Kosajjaṃ, bhikkhave, mahato anatthāya saṃvattatī’’ti. Tatiyaṃ.",
+   "zh": "“诸比丘，在内在因素中，我不见有其他任何一法，能像懈怠这样导向大无利益。诸比丘，懈怠导向大无利益。第三。”",
+   "n": "100"
+  },
+  {
+   "idx": 4,
+   "pali": "‘‘Ajjhattikaṃ, bhikkhave, aṅganti karitvā nāññaṃ ekaṅgampi samanupassāmi yaṃ evaṃ mahato atthāya saṃvattati yathayidaṃ, bhikkhave, vīriyārambho. Vīriyārambho, bhikkhave, mahato atthāya saṃvattatī’’ti. Catutthaṃ.",
+   "zh": "“诸比丘，就内在支分而言，我不见有其他任何一法，能如精进发起这般导向大利益。诸比丘，精进发起导向大利益。”第四。",
+   "n": "101"
+  },
+  {
+   "idx": 5,
+   "pali": "‘‘Ajjhattikaṃ , bhikkhave, aṅganti karitvā nāññaṃ ekaṅgampi samanupassāmi yaṃ evaṃ mahato anatthāya saṃvattati yathayidaṃ, bhikkhave, mahicchatā…pe… appicchatā… asantuṭṭhitā… santuṭṭhitā… ayonisomanasikāro… yonisomanasikāro… asampajaññaṃ… sampajaññaṃ… dvādasamaṃ.",
+   "zh": "“诸比丘，就内在支分而言，我不见有其他任何一法，能如多欲这般导向大无利益。……少欲导向大利益。……不知足……知足……非如理作意……如理作意……不正知……正知。第十二。",
+   "n": "102-109"
+  },
+  {
+   "idx": 6,
+   "pali": "‘‘Bāhiraṃ , bhikkhave, aṅganti karitvā nāññaṃ ekaṅgampi samanupassāmi yaṃ evaṃ mahato anatthāya saṃvattati yathayidaṃ, bhikkhave, pāpamittatā. Pāpamittatā, bhikkhave, mahato anatthāya saṃvattatī’’ti. Terasamaṃ.",
+   "zh": "“诸比丘，在外在因素中，我不见有其他任何一法，能像恶友这样导向大无利益。诸比丘，恶友导向大无利益。第十三。”",
+   "n": "110"
+  },
+  {
+   "idx": 7,
+   "pali": "‘‘Bāhiraṃ, bhikkhave, aṅganti karitvā nāññaṃ ekaṅgampi samanupassāmi yaṃ evaṃ mahato atthāya saṃvattati yathayidaṃ, bhikkhave, kalyāṇamittatā. Kalyāṇamittatā, bhikkhave, mahato atthāya saṃvattatī’’ti. Cuddasamaṃ.",
+   "zh": "“诸比丘，就外在支分而言，我不见有其他任何一法，能如善友这般导向大利益。诸比丘，善友导向大利益。第十四。”",
+   "n": "111"
+  },
+  {
+   "idx": 8,
+   "pali": "‘‘Ajjhattikaṃ , bhikkhave, aṅganti karitvā nāññaṃ ekaṅgampi samanupassāmi yaṃ evaṃ mahato anatthāya saṃvattati yathayidaṃ, bhikkhave, anuyogo akusalānaṃ dhammānaṃ, ananuyogo kusalānaṃ dhammānaṃ. Anuyogo, bhikkhave, akusalānaṃ dhammānaṃ, ananuyogo kusalānaṃ dhammānaṃ mahato anatthāya saṃvattatī’’ti. Pannarasamaṃ.",
+   "zh": "“诸比丘，若论内在的支分，我不见有任何其他一法，能像致力于不善法、不致力于善法这样导向极大的不利益。诸比丘，致力于不善法、不致力于善法导向极大的不利益。”第十五经。",
+   "n": "112"
+  },
+  {
+   "idx": 9,
+   "pali": "‘‘Ajjhattikaṃ, bhikkhave, aṅganti karitvā nāññaṃ ekaṅgampi samanupassāmi yaṃ evaṃ mahato atthāya saṃvattati yathayidaṃ, bhikkhave, anuyogo kusalānaṃ dhammānaṃ, ananuyogo akusalānaṃ dhammānaṃ. Anuyogo, bhikkhave, kusalānaṃ dhammānaṃ, ananuyogo akusalānaṃ dhammānaṃ mahato atthāya saṃvattatī’’ti. Soḷasamaṃ.",
+   "zh": "“诸比丘，若论内在的支分，我不见有任何其他一法，能像致力于善法、不致力于不善法这样导向极大的利益。诸比丘，致力于善法、不致力于不善法导向极大的利益。”第十六经。",
+   "n": "113"
+  },
+  {
+   "idx": 10,
+   "pali": "‘‘Nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yo evaṃ saddhammassa sammosāya antaradhānāya saṃvattati yathayidaṃ, bhikkhave, pamādo. Pamādo, bhikkhave, saddhammassa sammosāya antaradhānāya saṃvattatī’’ti. Sattarasamaṃ.",
+   "zh": "“诸比丘，我不见有其他任何一法，如放逸这般，能导致正法的混乱与消失。诸比丘，放逸导致正法的混乱与消失。”第十七经。",
+   "n": "114"
+  },
+  {
+   "idx": 11,
+   "pali": "‘‘Nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yo evaṃ saddhammassa ṭhitiyā asammosāya anantaradhānāya saṃvattati yathayidaṃ, bhikkhave, appamādo. Appamādo , bhikkhave, saddhammassa ṭhitiyā asammosāya anantaradhānāya saṃvattatī’’ti. Aṭṭhārasamaṃ.",
+   "zh": "“诸比丘，我不见有其他任何一法，如不放逸这般，能令正法安立、不混乱、不消失。诸比丘，不放逸令正法安立、不混乱、不消失。”第十八经。",
+   "n": "115"
+  },
+  {
+   "idx": 12,
+   "pali": "‘‘Nāhaṃ , bhikkhave, aññaṃ ekadhammampi samanupassāmi yo evaṃ saddhammassa sammosāya antaradhānāya saṃvattati yathayidaṃ, bhikkhave, kosajjaṃ. Kosajjaṃ, bhikkhave, saddhammassa sammosāya antaradhānāya saṃvattatī’’ti. Ekūnavīsatimaṃ.",
+   "zh": "“诸比丘，我不见有其他任何一法，如懈怠这般，能导致正法的混乱与消失。诸比丘，懈怠导致正法的混乱与消失。”第十九经。",
+   "n": "116"
+  },
+  {
+   "idx": 13,
+   "pali": "‘‘Nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yo evaṃ saddhammassa ṭhitiyā asammosāya anantaradhānāya saṃvattati yathayidaṃ, bhikkhave, vīriyārambho. Vīriyārambho, bhikkhave, saddhammassa ṭhitiyā asammosāya anantaradhānāya saṃvattatī’’ti. Vīsatimaṃ.",
+   "zh": "“诸比丘，我不见有其他任何一法，能如精进发起这般，令正法住立、不混乱、不消亡。诸比丘，精进发起导向正法的住立、不混乱、不消亡。”第二十。",
+   "n": "117"
+  },
+  {
+   "idx": 14,
+   "pali": "‘‘Nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yo evaṃ saddhammassa sammosāya antaradhānāya saṃvattati yathayidaṃ, bhikkhave, mahicchatā…pe… appicchatā… asantuṭṭhitā… santuṭṭhitā… ayonisomanasikāro… yonisomanasikāro… asampajaññaṃ… sampajaññaṃ … pāpamittatā… kalyāṇamittatā… anuyogo akusalānaṃ dhammānaṃ, ananuyogo kusalānaṃ dhammānaṃ. Anuyogo, bhikkhave, akusalānaṃ dhammānaṃ, ananuyogo kusalānaṃ dhammānaṃ saddhammassa sammosāya antaradhānāya saṃvattatī’’ti. Ekattiṃsatimaṃ.",
+   "zh": "“诸比丘，我不见有其他任何一法，能如多欲这般，导向正法的混乱与消亡……如少欲这般，导向正法的住立、不混乱、不消亡……如不知足……如知足……如非如理作意……如如理作意……如不正知……如正知……如恶友……如善友……诸比丘，致力于不善法、不致力于善法，便导向正法的混乱与消亡。”第三十一。",
+   "n": "118-128"
+  },
+  {
+   "idx": 15,
+   "pali": "‘‘Nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yo evaṃ saddhammassa ṭhitiyā asammosāya anantaradhānāya saṃvattati yathayidaṃ, bhikkhave, anuyogo kusalānaṃ dhammānaṃ, ananuyogo akusalānaṃ dhammānaṃ. Anuyogo, bhikkhave, kusalānaṃ dhammānaṃ, ananuyogo akusalānaṃ dhammānaṃ saddhammassa ṭhitiyā asammosāya anantaradhānāya saṃvattatī’’ti. Catukkoṭikaṃ niṭṭhitaṃ. Bāttiṃsatimaṃ.",
+   "zh": "“诸比丘，我不见有其他任何一法，能如致力于善法、不致力于不善法这般，令正法住立、不混乱、不消亡。诸比丘，致力于善法、不致力于不善法，导向正法的住立、不混乱、不消亡。第四类完成。”第三十二。",
+   "n": "129"
+  },
+  {
+   "idx": 16,
+   "pali": "‘‘Ye te, bhikkhave, bhikkhū adhammaṃ dhammoti dīpenti te, bhikkhave, bhikkhū bahujanaahitāya paṭipannā bahujanaasukhāya, bahuno janassa anatthāya ahitāya dukkhāya devamanussānaṃ . Bahuñca te, bhikkhave, bhikkhū apuññaṃ pasavanti, te cimaṃ saddhammaṃ antaradhāpentī’’ti. Tettiṃsatimaṃ.",
+   "zh": "“诸比丘，那些将非法宣说为法的比丘，是行于对大众无益、令大众不安乐，行于众多人及天人的无义、无利与痛苦。诸比丘，他们积集众多非福，令此正法消亡。”第三十三。",
+   "n": "130"
+  },
+  {
+   "idx": 17,
+   "pali": "‘‘Ye te, bhikkhave, bhikkhū dhammaṃ adhammoti dīpenti te, bhikkhave, bhikkhū bahujanaahitāya paṭipannā bahujanaasukhāya, bahuno janassa anatthāya ahitāya dukkhāya devamanussānaṃ. Bahuñca te, bhikkhave, bhikkhū apuññaṃ pasavanti, te cimaṃ saddhammaṃ antaradhāpentī’’ti. Catuttiṃsatimaṃ.",
+   "zh": "“诸比丘，那些将法宣说为非法的比丘，是行于对大众无益、令大众不安乐，行于众多人及天人的无义、无利与痛苦。诸比丘，他们积集众多非福，令此正法消亡。”第三十四。",
+   "n": "131"
+  },
+  {
+   "idx": 18,
+   "pali": "‘‘Ye te, bhikkhave, bhikkhū avinayaṃ vinayoti dīpenti…pe… vinayaṃ avinayoti dīpenti…pe… abhāsitaṃ alapitaṃ tathāgatena bhāsitaṃ lapitaṃ tathāgatenāti dīpenti…pe… bhāsitaṃ lapitaṃ tathāgatena abhāsitaṃ alapitaṃ tathāgatenāti dīpenti…pe… anāciṇṇaṃ tathāgatena āciṇṇaṃ tathāgatenāti dīpenti…pe… āciṇṇaṃ tathāgatena anāciṇṇaṃ tathāgatenāti dīpenti…pe… apaññattaṃ tathāgatena paññattaṃ tathāgatenāti dīpenti…pe… paññattaṃ tathāgatena apaññattaṃ tathāgatenāti dīpenti te, bhikkhave, bhikkhū bahujanaahitāya paṭipannā bahujanaasukhāya, bahuno janassa anatthāya ahitāya dukkhāya devamanussānaṃ. Bahuñca te, bhikkhave, bhikkhū apuññaṃ pasavanti, te cimaṃ saddhammaṃ antaradhāpentī’’ti. Dvācattālīsatimaṃ.",
+   "zh": "“诸比丘，若有比丘将非律说为律……将律说为非律……将如来所不曾说、不曾讲的，说为如来所说、所讲……将如来所说、所讲的，说为如来不曾说、不曾讲……将如来所不曾行持的，说为如来所行持……将如来所行持的，说为如来不曾行持……将如来所不曾制定的，说为如来所制定……将如来所制定的，说为如来不曾制定；诸比丘，那些比丘是行于对大众无益、令大众不安乐，行于众多人及天人的无义、无利与痛苦。诸比丘，那些比丘亦积聚众多非福，并令此正法消亡。”第四十二。",
+   "n": "132-139"
+  },
+  {
+   "idx": 20,
+   "pali": "Dutiyapamādādivaggo dasamo.",
+   "zh": "第二放逸等品 第十"
+  }
+ ]
+}

@@ -1,0 +1,261 @@
+{
+ "uid": 83,
+ "title": "1. 证智经",
+ "nik": "AN",
+ "segs": [
+  {
+   "idx": 0,
+   "pali": "(26) 6. Abhiññāvaggo",
+   "zh": "（26） 六、证智品"
+  },
+  {
+   "idx": 1,
+   "pali": "1. Abhiññāsuttaṃ",
+   "zh": "1. [[abhiññāsutta|证智经]]"
+  },
+  {
+   "idx": 2,
+   "pali": "‘‘Cattārome , bhikkhave, dhammā. Katame cattāro? Atthi, bhikkhave, dhammā abhiññā pariññeyyā; atthi, bhikkhave , dhammā abhiññā pahātabbā; atthi, bhikkhave, dhammā abhiññā bhāvetabbā; atthi, bhikkhave, dhammā abhiññā sacchikātabbā.",
+   "zh": "“诸比丘，有四种法。哪四种呢？应依证智遍知的法、应依证智断除的法、应依证智修习的法、应依证智作证的法。",
+   "n": "254"
+  },
+  {
+   "idx": 3,
+   "pali": "‘‘Katame ca, bhikkhave, dhammā abhiññā pariññeyyā? Pañcupādānakkhandhā – ime vuccanti, bhikkhave , dhammā abhiññā pariññeyyā.",
+   "zh": "“诸比丘，什么是应以证智遍知的法呢？五取蕴——诸比丘，此即名为应以证智遍知的法。"
+  },
+  {
+   "idx": 4,
+   "pali": "‘‘Katame ca, bhikkhave, dhammā abhiññā pahātabbā? Avijjā ca bhavataṇhā ca – ime vuccanti, bhikkhave, dhammā abhiññā pahātabbā.",
+   "zh": "“诸比丘，什么是应以证智断除的法呢？无明与有渴爱——诸比丘，此即名为应以证智断除的法。"
+  },
+  {
+   "idx": 5,
+   "pali": "‘‘Katame ca, bhikkhave, dhammā abhiññā bhāvetabbā? Samatho ca vipassanā ca – ime vuccanti, bhikkhave, dhammā abhiññā bhāvetabbā.",
+   "zh": "“诸比丘，什么是应以证智修习的法呢？止与观——诸比丘，此即名为应以证智修习的法。",
+   "type": "text"
+  },
+  {
+   "idx": 6,
+   "pali": "‘‘Katame ca, bhikkhave, dhammā abhiññā sacchikātabbā? Vijjā ca vimutti ca – ime vuccanti, bhikkhave, dhammā abhiññā sacchikātabbā. Ime kho, bhikkhave, cattāro dhammā’’ti. Paṭhamaṃ.",
+   "zh": "“诸比丘，什么是应以证智作证的法？那就是明与解脱。诸比丘，这些便称为应以证智作证的法。诸比丘，这就是四种法。”第一经。"
+  },
+  {
+   "idx": 7,
+   "pali": "2. Pariyesanāsuttaṃ",
+   "zh": "2. [[pariyesanāsutta|寻求经]]"
+  },
+  {
+   "idx": 8,
+   "pali": "‘‘Catasso imā, bhikkhave, anariyapariyesanā. Katamā catasso? Idha, bhikkhave, ekacco attanā jarādhammo samāno jarādhammaṃyeva pariyesati; attanā byādhidhammo samāno byādhidhammaṃyeva pariyesati; attanā maraṇadhammo samāno maraṇadhammaṃyeva pariyesati; attanā saṃkilesadhammo samāno saṃkilesadhammaṃyeva pariyesati. Imā kho, bhikkhave, catasso anariyapariyesanā.",
+   "zh": "“诸比丘，有四种非圣的寻求。哪四种？比丘们，在此，有人自身有老法，却寻求老法；自身有病法，却寻求病法；自身有死法，却寻求死法；自身有杂染法，却寻求杂染法。诸比丘，这便是四种非圣的寻求。",
+   "n": "255"
+  },
+  {
+   "idx": 9,
+   "pali": "‘‘Catasso imā, bhikkhave, ariyapariyesanā. Katamā catasso? Idha, bhikkhave, ekacco attanā jarādhammo samāno jarādhamme ādīnavaṃ viditvā ajaraṃ anuttaraṃ yogakkhemaṃ nibbānaṃ pariyesati; attanā byādhidhammo samāno byādhidhamme ādīnavaṃ viditvā abyādhiṃ anuttaraṃ yogakkhemaṃ nibbānaṃ pariyesati; attanā maraṇadhammo samāno maraṇadhamme ādīnavaṃ viditvā amataṃ anuttaraṃ yogakkhemaṃ nibbānaṃ pariyesati; attanā saṃkilesadhammo samāno saṃkilesadhamme ādīnavaṃ viditvā asaṃkiliṭṭhaṃ anuttaraṃ yogakkhemaṃ nibbānaṃ pariyesati. Imā kho, bhikkhave , catasso ariyapariyesanā’’ti. Dutiyaṃ.",
+   "zh": "“诸比丘，有这四种圣的寻求。是哪四种呢？诸比丘，在此，有人自身有老法，了知老法的过患后，寻求无老、无上、离轭安稳的涅槃；自身有病法，了知病法的过患后，寻求无病、无上、离轭安稳的涅槃；自身有死法，了知死法的过患后，寻求不死、无上、离轭安稳的涅槃；自身有杂染法，了知杂染法的过患后，寻求无染、无上、离轭安稳的涅槃。诸比丘，这便是四种圣的寻求。”第二经。"
+  },
+  {
+   "idx": 10,
+   "pali": "3. Saṅgahavatthusuttaṃ",
+   "zh": "3. [[saṅgahavatthusutta|摄事经]]"
+  },
+  {
+   "idx": 11,
+   "pali": "‘‘Cattārimāni, bhikkhave, saṅgahavatthūni. Katamāni cattāri? Dānaṃ, peyyavajjaṃ , atthacariyā, samānattatā – imāni kho, bhikkhave, cattāri saṅgahavatthūnī’’ti.",
+   "zh": "“诸比丘，有这四种摄事。哪四种呢？布施、爱语、利行、同事。诸比丘，这便是四种摄事。”",
+   "n": "256"
+  },
+  {
+   "idx": 12,
+   "pali": "4. Mālukyaputtasuttaṃ",
+   "zh": "4. [[mālukyaputtasutta|摩罗迦子经]]"
+  },
+  {
+   "idx": 13,
+   "pali": "Atha kho āyasmā mālukyaputto yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho āyasmā mālukyaputto bhagavantaṃ etadavoca –",
+   "zh": "那时，具寿摩罗迦子来至世尊跟前；来到后，礼敬世尊，退坐一面。在一旁坐下的具寿摩罗迦子对世尊这样说：",
+   "n": "257"
+  },
+  {
+   "idx": 14,
+   "pali": "‘‘Sādhu me, bhante, bhagavā saṃkhittena dhammaṃ desetu, yamahaṃ bhagavato dhammaṃ sutvā eko vūpakaṭṭho appamatto ātāpī pahitatto vihareyya’’nti. ‘‘Ettha idāni, mālukyaputta, kiṃ dahare bhikkhū vakkhāma; yatra hi nāma tvaṃ jiṇṇo vuddho mahallako tathāgatassa saṃkhittena ovādaṃ yācasī’’ti! ‘‘Desetu me, bhante, bhagavā saṃkhittena dhammaṃ; desetu sugato saṃkhittena dhammaṃ. Appeva nāmāhaṃ bhagavato bhāsitassa atthaṃ ājāneyyaṃ; appeva nāmāhaṃ bhagavato bhāsitassa dāyādo assa’’nti.",
+   "zh": "“善哉！尊者，请世尊为我简要说法。我听闻世尊的法之后，将独处远离，住于不放逸、热忱、精勤。”“摩罗迦子，事到如今，我还能对那些年轻的比丘说些什么呢？你已经衰老、年迈、高龄，竟还来向如来求请简略的教诫！”“尊者，恳请世尊为我简要说法，恳请善逝为我简要说法。或许我能了悟世尊所说的义理，或许我能成为世尊法教的继承者。”"
+  },
+  {
+   "idx": 15,
+   "pali": "‘‘Cattārome , mālukyaputta, taṇhuppādā yattha bhikkhuno taṇhā uppajjamānā uppajjati. Katame cattāro? Cīvarahetu vā, mālukyaputta, bhikkhuno taṇhā uppajjamānā uppajjati. Piṇḍapātahetu vā, mālukyaputta, bhikkhuno taṇhā uppajjamānā uppajjati. Senāsanahetu vā, mālukyaputta, bhikkhuno taṇhā uppajjamānā uppajjati. Itibhavābhavahetu vā, mālukyaputta, bhikkhuno taṇhā uppajjamānā uppajjati. Ime kho, mālukyaputta, cattāro taṇhuppādā yattha bhikkhuno taṇhā uppajjamānā uppajjati. Yato kho, mālukyaputta , bhikkhuno taṇhā pahīnā hoti ucchinnamūlā tālāvatthukatā anabhāvaṃkatā āyatiṃ anuppādadhammā, ayaṃ vuccati, mālukyaputta, ‘bhikkhu acchecchi taṇhaṃ, vivattayi saṃyojanaṃ, sammā mānābhisamayā antamakāsi dukkhassā’’’ti.",
+   "zh": "“摩罗迦子，有四种渴爱的生起之处，比丘的渴爱便是在这些地方生起。哪四种？摩罗迦子，比丘的渴爱可以因衣服而生起；摩罗迦子，比丘的渴爱可以因食物而生起；摩罗迦子，比丘的渴爱可以因住所而生起；摩罗迦子，比丘的渴爱也可以因此有与彼有而生起。摩罗迦子，这便是四种渴爱的生起之处，比丘的渴爱便会在这些地方生起。摩罗迦子，当一位比丘的渴爱已被舍断，根部被切断，犹如多罗树头被截去，归于无有，未来不再生起时，摩罗迦子，他便被称为：已断除渴爱，已解开了结缚，以正确地现观慢而令苦完全终结。”"
+  },
+  {
+   "idx": 16,
+   "pali": "Atha kho āyasmā mālukyaputto bhagavatā iminā ovādena ovadito uṭṭhāyāsanā bhagavantaṃ abhivādetvā padakkhiṇaṃ katvā pakkāmi. Atha kho āyasmā mālukyaputto eko vūpakaṭṭho appamatto ātāpī pahitatto viharanto nacirasseva – yassatthāya kulaputtā sammadeva agārasmā anagāriyaṃ pabbajanti, tadanuttaraṃ – brahmacariyapariyosānaṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja vihāsi. ‘‘Khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyā’’ti abbhaññāsi. Aññataro ca panāyasmā mālukyaputto arahataṃ ahosīti. Catutthaṃ.",
+   "zh": "于是，具寿摩罗迦子接受了世尊这番教诫后，从座而起，礼敬世尊，右绕后离去。那时，具寿摩罗迦子独自隐退，不放逸，精勤热诚，心意坚决而住。不久，他便亲身证得了那无上梵行的究竟——善男子们正确地舍离家居、投入无家生活所追寻的目标，于现法中以自己的证智现证具足而住。他了知：“生已尽，梵行已立，应作已作，不受后有。”具寿摩罗迦子遂成为一位阿拉汉。第四经。",
+   "type": "verse"
+  },
+  {
+   "idx": 17,
+   "pali": "5. Kulasuttaṃ",
+   "zh": "5. [[kulasutta|家族经]]"
+  },
+  {
+   "idx": 18,
+   "pali": "‘‘Yāni kānici, bhikkhave, kulāni bhogesu mahattaṃ pattāni na ciraṭṭhitikāni bhavanti, sabbāni tāni catūhi ṭhānehi, etesaṃ vā aññatarena. Katamehi catūhi? Naṭṭhaṃ na gavesanti, jiṇṇaṃ na paṭisaṅkharonti, aparimitapānabhojanā honti, dussīlaṃ itthiṃ vā purisaṃ vā ādhipacce ṭhapenti. Yāni kānici, bhikkhave, kulāni bhogesu mahattaṃ pattāni na ciraṭṭhitikāni bhavanti, sabbāni tāni imehi catūhi ṭhānehi , etesaṃ vā aññatarena.",
+   "zh": "“诸比丘，凡于财富上成就广大的家族，若其不能长久住立，皆由四种原因，或其中之一所致。哪四种？于所失者，不加寻找；于破旧者，不加修缮；饮食不知节制；将无戒的女人或男人立为首领。诸比丘，凡于财富上成就广大的家族，若其不能长久住立，皆由这四种原因，或其中之一所致。",
+   "n": "258"
+  },
+  {
+   "idx": 19,
+   "pali": "‘‘Yāni kānici, bhikkhave, kulāni bhogesu mahattaṃ pattāni ciraṭṭhitikāni bhavanti, sabbāni tāni catūhi ṭhānehi, etesaṃ vā aññatarena. Katamehi catūhi? Naṭṭhaṃ gavesanti, jiṇṇaṃ paṭisaṅkharonti, parimitapānabhojanā honti, sīlavantaṃ itthiṃ vā purisaṃ vā ādhipacce ṭhapenti. Yāni kānici, bhikkhave, kulāni bhogesu mahattaṃ pattāni ciraṭṭhitikāni bhavanti, sabbāni tāni imehi catūhi ṭhānehi, etesaṃ vā aññatarenā’’ti. Pañcamaṃ.",
+   "zh": "“诸比丘，凡于财富上成就广大的家族，若其能长久住立，皆由四种原因，或其中之一所致。哪四种？于所失者，加以寻找；于破旧者，加以修缮；饮食有所节制；将有戒的女人或男人立为首领。诸比丘，凡于财富上成就广大的家族，若其能长久住立，皆由这四种原因，或其中之一所致。”"
+  },
+  {
+   "idx": 20,
+   "pali": "6. Paṭhamaājānīyasuttaṃ",
+   "zh": "6. [[paṭhamaājānīyasutta|第一良马经]]"
+  },
+  {
+   "idx": 21,
+   "pali": "‘‘Catūhi , bhikkhave, aṅgehi samannāgato rañño bhadro assājānīyo rājāraho hoti rājabhoggo, rañño aṅganteva saṅkhaṃ gacchati. Katamehi catūhi? Idha, bhikkhave, rañño bhadro assājānīyo vaṇṇasampanno ca hoti balasampanno ca javasampanno ca ārohapariṇāhasampanno ca. Imehi kho, bhikkhave, catūhi aṅgehi samannāgato rañño bhadro assājānīyo rājāraho hoti rājabhoggo, rañño aṅganteva saṅkhaṃ gacchati.",
+   "zh": "“诸比丘，具足四支的国王良种骏马，堪为国王所用，堪称国王的专属，名符其实被称为“国王的肢体”。哪四支呢？诸比丘，在此，国王的良种骏马具足容色、具足力量、具足速度、具足高广的身量。诸比丘，具足这四支的国王良种骏马，堪为国王所用，堪称国王的专属，名符其实被称为“国王的肢体”。",
+   "n": "259"
+  },
+  {
+   "idx": 22,
+   "pali": "‘‘Evamevaṃ kho, bhikkhave, catūhi dhammehi samannāgato bhikkhu āhuneyyo hoti…pe… anuttaraṃ puññakkhettaṃ lokassa. Katamehi catūhi? Idha, bhikkhave, bhikkhu vaṇṇasampanno ca hoti balasampanno ca javasampanno ca ārohapariṇāhasampanno ca.",
+   "zh": "“同样地，诸比丘，具足四法的比丘，应受供养……（中略）……是世间无上的福田。哪四法呢？诸比丘，在此，比丘具足容色、具足力量、具足速度、具足高广的身材。"
+  },
+  {
+   "idx": 23,
+   "pali": "‘‘Kathañca, bhikkhave, bhikkhu vaṇṇasampanno hoti? Idha, bhikkhave, bhikkhu sīlavā hoti…pe… samādāya sikkhati sikkhāpadesu. Evaṃ kho, bhikkhave, bhikkhu vaṇṇasampanno hoti.",
+   "zh": "“诸比丘，比丘如何具足色？诸比丘，于此，比丘具戒……（中略）……受持修习诸学处。诸比丘，比丘正是如此而具足色。"
+  },
+  {
+   "idx": 24,
+   "pali": "‘‘Kathañca, bhikkhave, bhikkhu balasampanno hoti? Idha, bhikkhave, bhikkhu āraddhavīriyo viharati akusalānaṃ dhammānaṃ pahānāya, kusalānaṃ dhammānaṃ upasampadāya, thāmavā daḷhaparakkamo anikkhittadhuro kusalesu dhammesu. Evaṃ kho, bhikkhave, bhikkhu balasampanno hoti.",
+   "zh": "“比丘们，比丘如何具足力？比丘们，此处，比丘为断除不善法、为具足善法，发勤精进而住，有力、坚固精勤，于诸善法不舍重担。比丘们，比丘这样具足力。”"
+  },
+  {
+   "idx": 25,
+   "pali": "‘‘Kathañca, bhikkhave, bhikkhu javasampanno hoti? Idha, bhikkhave, bhikkhu ‘idaṃ dukkha’nti yathābhūtaṃ pajānāti…pe… ‘ayaṃ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṃ pajānāti. Evaṃ kho, bhikkhave, bhikkhu javasampanno hoti.",
+   "zh": "“诸比丘，比丘如何才具足速行？诸比丘，在此，比丘如实了知“此是苦”……（中略）……如实了知“此是导至苦灭之道”。诸比丘，比丘便是这样具足速行。”"
+  },
+  {
+   "idx": 26,
+   "pali": "‘‘Kathañca, bhikkhave, bhikkhu ārohapariṇāhasampanno hoti? Idha, bhikkhave, bhikkhu lābhī hoti cīvarapiṇḍapātasenāsanagilānapaccayabhesajjaparikkhārānaṃ. Evaṃ kho, bhikkhave, bhikkhu ārohapariṇāhasampanno hoti .",
+   "zh": "“诸比丘，比丘如何具足身高与体围？诸比丘，在此，比丘能获得衣、食、卧具、病者所需的医药及资具。诸比丘，比丘便是这般具足身高与体围。"
+  },
+  {
+   "idx": 27,
+   "pali": "‘‘Imehi kho, bhikkhave, catūhi dhammehi samannāgato bhikkhu āhuneyyo hoti…pe… anuttaraṃ puññakkhettaṃ lokassā’’ti. Chaṭṭhaṃ.",
+   "zh": "“诸比丘，具足此四法的比丘，应受供养……（中略）……是世间的无上福田。”第六经。"
+  },
+  {
+   "idx": 28,
+   "pali": "7. Dutiyaājānīyasuttaṃ",
+   "zh": "7. [[dutiyaājānīyasutta|第二良马经]]"
+  },
+  {
+   "idx": 29,
+   "pali": "‘‘Catūhi, bhikkhave, aṅgehi samannāgato rañño bhadro assājānīyo rājāraho hoti rājabhoggo, rañño aṅganteva saṅkhaṃ gacchati. Katamehi catūhi? Idha, bhikkhave, rañño bhadro assājānīyo vaṇṇasampanno ca hoti, balasampanno ca, javasampanno ca, ārohapariṇāhasampanno ca. Imehi kho, bhikkhave, catūhi aṅgehi samannāgato rañño bhadro assājānīyo rājāraho hoti rājabhoggo, rañño aṅganteva saṅkhaṃ gacchati.",
+   "zh": "“诸比丘，具足四支的国王良马、纯种马，堪为王用，为王所受用，被算作王的部属。哪四种呢？诸比丘，国王的良马、纯种马具足容色、具足气力、具足迅捷、具足高广的身量。诸比丘，具足这四支的国王良马、纯种马，堪为王用，为王所受用，被算作王的部属。”",
+   "n": "260"
+  },
+  {
+   "idx": 30,
+   "pali": "‘‘Evamevaṃ kho, bhikkhave, catūhi dhammehi samannāgato bhikkhu āhuneyyo hoti…pe… anuttaraṃ puññakkhettaṃ lokassa. Katamehi catūhi? Idha, bhikkhave, bhikkhu vaṇṇasampanno ca hoti, balasampanno ca, javasampanno ca, ārohapariṇāhasampanno ca.",
+   "zh": "“诸比丘，同样地，具足四法的比丘应受供养……（中略）……是世间的无上福田。哪四种呢？诸比丘，比丘具足容色、具足气力、具足迅捷、具足身量匀称。”"
+  },
+  {
+   "idx": 31,
+   "pali": "‘‘Kathañca, bhikkhave, bhikkhu vaṇṇasampanno hoti? Idha, bhikkhave, bhikkhu sīlavā hoti…pe… samādāya sikkhati sikkhāpadesu. Evaṃ kho, bhikkhave, bhikkhu vaṇṇasampanno hoti.",
+   "zh": "“诸比丘，比丘如何具足色？诸比丘，于此，比丘具戒……（中略）……受持修习诸学处。诸比丘，比丘正是如此而具足色。"
+  },
+  {
+   "idx": 32,
+   "pali": "‘‘Kathañca, bhikkhave, bhikkhu balasampanno hoti? Idha, bhikkhave, bhikkhu āraddhavīriyo viharati akusalānaṃ dhammānaṃ pahānāya, kusalānaṃ dhammānaṃ upasampadāya, thāmavā daḷhaparakkamo anikkhittadhuro kusalesu dhammesu. Evaṃ kho, bhikkhave, bhikkhu balasampanno hoti.",
+   "zh": "“比丘们，比丘如何具足力？比丘们，此处，比丘为断除不善法、为具足善法，发勤精进而住，有力、坚固精勤，于诸善法不舍重担。比丘们，比丘这样具足力。”"
+  },
+  {
+   "idx": 33,
+   "pali": "‘‘Kathañca, bhikkhave, bhikkhu javasampanno hoti? Idha, bhikkhave, bhikkhu āsavānaṃ khayā…pe… sacchikatvā upasampajja viharati. Evaṃ kho, bhikkhave, bhikkhu javasampanno hoti.",
+   "zh": "“比丘们，比丘如何具足速？比丘们，比丘以诸漏灭尽……（中略）……现证后，具足而安住。比丘们，比丘如此具足速。"
+  },
+  {
+   "idx": 34,
+   "pali": "‘‘Kathañca, bhikkhave, bhikkhu ārohapariṇāhasampanno hoti? Idha, bhikkhave, bhikkhu lābhī hoti cīvarapiṇḍapātasenāsanagilānapaccayabhesajjaparikkhārānaṃ. Evaṃ kho, bhikkhave , bhikkhu ārohapariṇāhasampanno hoti.",
+   "zh": "“比丘们，比丘如何具足高广身量？比丘们，比丘获得衣、食、坐卧处，以及病者所需的医药资具。比丘们，比丘如此具足高广身量。"
+  },
+  {
+   "idx": 35,
+   "pali": "‘‘Imehi kho, bhikkhave, catūhi dhammehi samannāgato bhikkhu āhuneyyo hoti…pe… anuttaraṃ puññakkhettaṃ lokassā’’ti. Sattamaṃ.",
+   "zh": "“诸比丘，具足此四法的比丘堪应供养……（中略）……为世间无上福田。”第七经。"
+  },
+  {
+   "idx": 36,
+   "pali": "8. Balasuttaṃ",
+   "zh": "8. [[balasutta|力经]]"
+  },
+  {
+   "idx": 37,
+   "pali": "‘‘Cattārimāni, bhikkhave, balāni. Katamāni cattāri? Vīriyabalaṃ, satibalaṃ, samādhibalaṃ, paññābalaṃ – imāni kho, bhikkhave, cattāri balānī’’ti . Aṭṭhamaṃ.",
+   "zh": "“诸比丘，有四力。哪四种？精进力、念力、定力、慧力。诸比丘，这就是四力。”第八经。",
+   "n": "261"
+  },
+  {
+   "idx": 38,
+   "pali": "9. Araññasuttaṃ",
+   "zh": "9. [[araññasutta|林野经]]"
+  },
+  {
+   "idx": 39,
+   "pali": "‘‘Catūhi , bhikkhave, dhammehi samannāgato bhikkhu nālaṃ araññavanappatthāni pantāni senāsanāni paṭisevituṃ. Katamehi catūhi? Kāmavitakkena, byāpādavitakkena, vihiṃsāvitakkena, duppañño hoti jaḷo elamūgo – imehi kho, bhikkhave, catūhi dhammehi samannāgato bhikkhu nālaṃ araññavanappatthāni pantāni senāsanāni paṭisevituṃ.",
+   "zh": "“比丘们，具足四种法的比丘，便不宜亲近阿兰若、林野与边地的住所。哪四种？欲寻、嗔恚寻、害寻，以及智慧下劣、愚钝、如哑羊。比丘们，具足此四种法的比丘，不宜亲近阿兰若、林野与边地的住所。第九经。",
+   "n": "262"
+  },
+  {
+   "idx": 40,
+   "pali": "‘‘Catūhi, bhikkhave, dhammehi samannāgato bhikkhu alaṃ araññavanappatthāni pantāni senāsanāni paṭisevituṃ. Katamehi catūhi? Nekkhammavitakkena, abyāpādavitakkena, avihiṃsāvitakkena , paññavā hoti ajaḷo anelamūgo – imehi kho, bhikkhave, catūhi dhammehi samannāgato bhikkhu alaṃ araññavanappatthāni pantāni senāsanāni paṭisevitu’’nti. Navamaṃ.",
+   "zh": "“比丘们，具足四种法的比丘，则适合亲近阿兰若、林野与边地的住所。哪四种？出离寻、无嗔恚寻、无害寻，以及有慧、不愚钝、非如哑羊。比丘们，具足此四种法的比丘，适合亲近阿兰若、林野与边地的住所。第九经。"
+  },
+  {
+   "idx": 41,
+   "pali": "10. Kammasuttaṃ",
+   "zh": "10. [[kammasutta|业经]]"
+  },
+  {
+   "idx": 42,
+   "pali": "‘‘Catūhi, bhikkhave, dhammehi samannāgato bālo abyatto asappuriso khataṃ upahataṃ attānaṃ pariharati, sāvajjo ca hoti sānuvajjo viññūnaṃ, bahuñca apuññaṃ pasavati. Katamehi catūhi? Sāvajjena kāyakammena, sāvajjena vacīkammena, sāvajjena manokammena, sāvajjāya diṭṭhiyā – imehi kho, bhikkhave, catūhi dhammehi samannāgato bālo abyatto asappuriso khataṃ upahataṃ attānaṃ pariharati, sāvajjo ca hoti sānuvajjo viññūnaṃ, bahuñca apuññaṃ pasavati.",
+   "zh": "“比丘们，具足四法的愚者、无能者、非善士，是带着已遭毁坏、已遭损害的自身而活，他有罪过，被智者所呵责，并积聚众多非福。哪四种法？有罪的身业、有罪的语业、有罪的意业、有罪的见。比丘们，具足这四法，愚者、无能者、非善士便带着已遭毁坏、已遭损害的自身而活，有罪过，被智者所呵责，并积聚众多非福。",
+   "n": "263"
+  },
+  {
+   "idx": 43,
+   "pali": "‘‘Catūhi, bhikkhave, dhammehi samannāgato paṇḍito viyatto sappuriso akkhataṃ anupahataṃ attānaṃ pariharati, anavajjo ca hoti ananuvajjo viññūnaṃ, bahuñca puññaṃ pasavati. Katamehi catūhi? Anavajjena kāyakammena, anavajjena vacīkammena, anavajjena manokammena, anavajjāya diṭṭhiyā – imehi kho, bhikkhave, catūhi dhammehi samannāgato paṇḍito viyatto sappuriso akkhataṃ anupahataṃ attānaṃ pariharati, anavajjo ca hoti ananuvajjo viññūnaṃ, bahuñca puññaṃ pasavatī’’ti. Dasamaṃ.",
+   "zh": "“比丘们，具足四法的智者、明慧者、善士，自身完好无伤、不受损害，他无过失，不受智者呵责，并积聚众多福德。哪四种法？无过失的身业、无过失的语业、无过失的意业、无过失的见。比丘们，具足这四种法，智者、明慧者、善士自身完好无伤、不受损害，无过失，不受智者呵责，并积聚众多福德。”第十经。"
+  },
+  {
+   "idx": 44,
+   "pali": "Abhiññāvaggo chaṭṭho.",
+   "zh": "证智品第六"
+  },
+  {
+   "idx": 45,
+   "pali": "Tassuddānaṃ –",
+   "zh": "其摄颂："
+  },
+  {
+   "idx": 46,
+   "pali": "Abhiññā pariyesanā, saṅgahaṃ mālukyaputto;",
+   "zh": "证智、寻求，摄受、摩罗迦子。",
+   "type": "verse"
+  },
+  {
+   "idx": 47,
+   "pali": "Kulaṃ dve ca ājānīyā, balaṃ araññakammunāti.",
+   "zh": "家系、两匹良骏，力、阿兰若（经）与业（经）。",
+   "type": "verse"
+  }
+ ]
+}

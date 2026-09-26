@@ -1,0 +1,62 @@
+{
+  "uid": 186,
+  "title": "4. 贪略说",
+  "nik": "AN",
+  "segs": [
+    {
+      "idx": 0,
+      "pali": "4. Rāgapeyyālaṃ",
+      "zh": "4. 贪略说"
+    },
+    {
+      "idx": 1,
+      "pali": "‘‘Rāgassa , bhikkhave, abhiññāya ekādasa dhammā bhāvetabbā. Katame ekādasa? Paṭhamaṃ jhānaṃ, dutiyaṃ jhānaṃ, tatiyaṃ jhānaṃ, catutthaṃ jhānaṃ, mettācetovimutti, karuṇācetovimutti, muditācetovimutti, upekkhācetovimutti, ākāsānañcāyatanaṃ, viññāṇañcāyatanaṃ, ākiñcaññāyatanaṃ – rāgassa, bhikkhave, abhiññāya ime ekādasa dhammā bhāvetabbā.",
+      "zh": "“诸比丘，为遍知贪，应修习十一种法。哪十一种？初禅那、第二禅那、第三禅那、第四禅那、慈心解脱、悲心解脱、喜心解脱、舍心解脱、空无边处、识无边处、无所有处——诸比丘，为遍知贪，应修习此十一种法。",
+      "n": "502"
+    },
+    {
+      "idx": 2,
+      "pali": "‘‘Rāgassa, bhikkhave, pariññāya… parikkhayāya… pahānāya… khayāya… vayāya… virāgāya… nirodhāya… cāgāya… paṭinissaggāya… ime ekādasa dhammā bhāvetabbā.",
+      "zh": "“诸比丘！为遍知贪、为遍尽贪、为断贪、为灭尽贪、为消尽贪、为离贪、为止灭贪、为弃舍贪、为舍遣贪，应当修习此十一种法。”",
+      "n": "503-511"
+    },
+    {
+      "idx": 3,
+      "pali": "‘‘Dosassa …pe… mohassa… kodhassa… upanāhassa… makkhassa… paḷāsassa… issāya… macchariyassa… māyāya… sāṭheyyassa… thambhassa… sārambhassa… mānassa… atimānassa… madassa… pamādassa abhiññāya…pe… pariññāya… parikkhayāya… pahānāya… khayāya… vayāya… virāgāya… nirodhāya… cāgāya… paṭinissaggāya ime ekādasa dhammā bhāvetabbā’’ti.",
+      "zh": "“为了证知嗔，为了证知痴，为了证知忿，为了证知恨，为了证知覆，为了证知恼，为了证知嫉，为了证知悭，为了证知诳，为了证知谄，为了证知傲，为了证知愤发，为了证知慢，为了证知过慢，为了证知骄，为了证知放逸；乃至为了遍知、为了遍尽、为了断除、为了灭尽、为了消失、为了离贪、为了灭、为了舍弃、为了舍遣，应当修习这十一种法。”",
+      "n": "512-671"
+    },
+    {
+      "idx": 4,
+      "pali": "Idamavoca bhagavā. Attamanā te bhikkhū bhagavato bhāsitaṃ abhinandunti.",
+      "zh": "世尊如是说。那些比丘心满意足，对世尊所说欢喜信受。"
+    },
+    {
+      "idx": 5,
+      "pali": "Rāgapeyyālaṃ niṭṭhitaṃ.",
+      "zh": "贪略说终"
+    },
+    {
+      "idx": 6,
+      "pali": "Nava suttasahassāni, bhiyyo pañcasatāni ca ;",
+      "zh": "九千五百余经；",
+      "type": "verse"
+    },
+    {
+      "idx": 7,
+      "pali": "Sattapaññāsa suttantā , aṅguttarasamāyutā ti.",
+      "zh": "五十七经，与增支相应。",
+      "type": "verse"
+    },
+    {
+      "idx": 8,
+      "pali": "Aṅguttaranikāyo samatto.",
+      "zh": "增支部终"
+    },
+    {
+      "idx": 9,
+      "pali": "Ekādasakanipātapāḷi niṭṭhitā.",
+      "zh": "十一集终"
+    }
+  ]
+}

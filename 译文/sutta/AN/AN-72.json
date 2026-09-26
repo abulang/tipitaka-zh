@@ -1,0 +1,159 @@
+{
+ "uid": 72,
+ "title": "1. 光辉经",
+ "nik": "AN",
+ "segs": [
+  {
+   "idx": 0,
+   "pali": "(15) 5. Ābhāvaggo",
+   "zh": "5. 光辉品"
+  },
+  {
+   "idx": 1,
+   "pali": "1. Ābhāsuttaṃ",
+   "zh": "1. [[ābhāsutta|光辉经]]"
+  },
+  {
+   "idx": 2,
+   "pali": "‘‘Catasso imā, bhikkhave, ābhā. Katamā catasso? Candābhā, sūriyābhā, aggābhā, paññābhā – imā kho, bhikkhave, catasso ābhā. Etadaggaṃ, bhikkhave, imāsaṃ catunnaṃ ābhānaṃ yadidaṃ paññābhā’’ti. Paṭhamaṃ.",
+   "zh": "“诸比丘，有此四种光辉。哪四种呢？月光辉、日光辉、火光辉、慧光辉。诸比丘，这便是四种光辉。诸比丘，在这四种光辉中，最上者即是慧光辉。第一经。”",
+   "n": "141"
+  },
+  {
+   "idx": 3,
+   "pali": "2. Pabhāsuttaṃ",
+   "zh": "2. [[pabhāsutta|光明经]]"
+  },
+  {
+   "idx": 4,
+   "pali": "‘‘Catasso imā, bhikkhave, pabhā. Katamā catasso? Candappabhā , sūriyappabhā, aggippabhā, paññāpabhā – imā kho, bhikkhave, catasso pabhā. Etadaggaṃ, bhikkhave, imāsaṃ catunnaṃ pabhānaṃ yadidaṃ paññāpabhā’’ti. Dutiyaṃ.",
+   "zh": "“诸比丘，有四种光明。是哪四种？月光明、日光明、火光明、慧光明。诸比丘，这便是四种光明。诸比丘，于此四种光明中，慧光明最为殊胜。第二经。”",
+   "n": "142"
+  },
+  {
+   "idx": 5,
+   "pali": "3. Ālokasuttaṃ",
+   "zh": "3. [[ālokasutta|光亮经]]"
+  },
+  {
+   "idx": 6,
+   "pali": "‘‘Cattārome, bhikkhave, ālokā. Katame cattāro? Candāloko, sūriyāloko, aggāloko, paññāloko – ime kho, bhikkhave, cattāro ālokā. Etadaggaṃ, bhikkhave, imesaṃ catunnaṃ ālokānaṃ yadidaṃ paññāloko’’ti. Tatiyaṃ.",
+   "zh": "“诸比丘，有四种照明。哪四种？月照明、日照明、火照明、慧照明。诸比丘，这便是四种照明。诸比丘，这四种照明中，此为最上，即慧照明。”第三经。",
+   "n": "143"
+  },
+  {
+   "idx": 7,
+   "pali": "4. Obhāsasuttaṃ",
+   "zh": "4. [[obhāsasutta|辉耀经]]"
+  },
+  {
+   "idx": 8,
+   "pali": "‘‘Cattārome , bhikkhave, obhāsā. Katame cattāro? Candobhāso, sūriyobhāso, aggobhāso, paññobhāso – ime kho, bhikkhave, cattāro obhāsā. Etadaggaṃ, bhikkhave, imesaṃ catunnaṃ obhāsānaṃ yadidaṃ paññobhāso’’ti. Catutthaṃ.",
+   "zh": "“诸比丘，有四种辉耀。哪四种？月辉耀、日辉耀、火辉耀、慧辉耀。诸比丘，这便是四种辉耀。诸比丘，这四种辉耀中，此为最上，即慧辉耀。”第四经。",
+   "n": "144"
+  },
+  {
+   "idx": 9,
+   "pali": "5. Pajjotasuttaṃ",
+   "zh": "5. [[pajjotasutta|光明经]]"
+  },
+  {
+   "idx": 10,
+   "pali": "‘‘Cattārome , bhikkhave, pajjotā. Katame cattāro? Candapajjoto, sūriyapajjoto, aggipajjoto, paññāpajjoto – ime kho, bhikkhave, cattāro pajjotā. Etadaggaṃ, bhikkhave, imesaṃ catunnaṃ pajjotānaṃ yadidaṃ paññāpajjoto’’ti. Pañcamaṃ.",
+   "zh": "“诸比丘，有此四种灯明。哪四种？月灯明、日灯明、火灯明、慧灯明。诸比丘，这些即是四种灯明。诸比丘，于此四种灯明中，慧灯明为最上。”第五经。",
+   "n": "145"
+  },
+  {
+   "idx": 11,
+   "pali": "6. Paṭhamakālasuttaṃ",
+   "zh": "6. [[paṭhamakālasutta|初时经]]"
+  },
+  {
+   "idx": 12,
+   "pali": "‘‘Cattārome, bhikkhave, kālā. Katame cattāro? Kālena dhammassavanaṃ, kālena dhammasākacchā, kālena sammasanā , kālena vipassanā – ime kho, bhikkhave, cattāro kālā’’ti. Chaṭṭhaṃ.",
+   "zh": "“诸比丘，有这四种时。哪四种呢？适时听闻法、适时讨论法、适时思惟、适时观——诸比丘，这便是四种时。”第六经。",
+   "n": "146"
+  },
+  {
+   "idx": 13,
+   "pali": "7. Dutiyakālasuttaṃ",
+   "zh": "7. [[dutiyakālasutta|第二时经]]"
+  },
+  {
+   "idx": 14,
+   "pali": "‘‘Cattārome, bhikkhave, kālā sammā bhāviyamānā sammā anuparivattiyamānā anupubbena āsavānaṃ khayaṃ pāpenti. Katame cattāro? Kālena dhammassavanaṃ, kālena dhammasākacchā, kālena sammasanā, kālena vipassanā – ime kho, bhikkhave, cattāro kālā sammā bhāviyamānā sammā anuparivattiyamānā anupubbena āsavānaṃ khayaṃ pāpenti.",
+   "zh": "“诸比丘，这四种时，若能正确修习、随顺转起，便能渐次令诸漏灭尽。哪四种呢？适时听闻法、适时讨论法、适时思惟、适时观——诸比丘，正确地修习、随顺转起这四种时，便能渐次令诸漏灭尽。”",
+   "n": "147"
+  },
+  {
+   "idx": 15,
+   "pali": "‘‘Seyyathāpi, bhikkhave, uparipabbate thullaphusitake deve vassante taṃ udakaṃ yathāninnaṃ pavattamānaṃ pabbatakandarapadarasākhā paripūreti; pabbatakandarapadarasākhā paripūrā kusobbhe paripūrenti; kusobbhā paripūrā mahāsobbhe paripūrenti; mahāsobbhā paripūrā kunnadiyo paripūrenti; kunnadiyo paripūrā mahānadiyo paripūrenti; mahānadiyo paripūrā samuddaṃ paripūrenti. Evamevaṃ kho, bhikkhave, ime cattāro kālā sammā bhāviyamānā sammā anuparivattiyamānā anupubbena āsavānaṃ khayaṃ pāpentī’’ti. Sattamaṃ.",
+   "zh": "“诸比丘，譬如高山之顶降下大雨，雨水顺势而下，注满山涧、岩隙与溪谷；山涧、岩隙与溪谷注满后，又注满小池；小池注满后，又注满大池；大池注满后，又注满小河；小河注满后，又注满大河；大河注满后，又注满大海。同样地，诸比丘，这四种时若能正确修习、正确转起，便会次第导向诸漏的灭尽。”第七经。"
+  },
+  {
+   "idx": 16,
+   "pali": "8. Duccaritasuttaṃ",
+   "zh": "8. [[duccaritasutta|恶行经]]"
+  },
+  {
+   "idx": 17,
+   "pali": "‘‘Cattārimāni , bhikkhave, vacīduccaritāni. Katamāni cattāri? Musāvādo, pisuṇā vācā, pharusā vācā, samphappalāpo – imāni kho, bhikkhave, cattāri vacīduccaritānī’’ti. Aṭṭhamaṃ.",
+   "zh": "“诸比丘，有这四种语恶行。哪四种？妄语、两舌、粗恶语、杂秽语。诸比丘，这便是四种语恶行。”第八。",
+   "n": "148"
+  },
+  {
+   "idx": 18,
+   "pali": "9. Sucaritasuttaṃ",
+   "zh": "9. [[sucaritasutta|善行经]]"
+  },
+  {
+   "idx": 19,
+   "pali": "‘‘Cattārimāni, bhikkhave, vacīsucaritāni. Katamāni cattāri? Saccavācā, apisuṇā vācā, saṇhā vācā, mantabhāsā – imāni kho, bhikkhave, cattāri vacīsucaritānī’’ti. Navamaṃ.",
+   "zh": "“诸比丘，有这四种语善行。哪四种？真实语、不两舌语、柔和语、审慎语。诸比丘，这便是四种语善行。”第九。",
+   "n": "149"
+  },
+  {
+   "idx": 20,
+   "pali": "10. Sārasuttaṃ",
+   "zh": "10. [[sārasutta|心材经]]"
+  },
+  {
+   "idx": 21,
+   "pali": "‘‘Cattārome, bhikkhave, sārā. Katame cattāro? Sīlasāro, samādhisāro, paññāsāro, vimuttisāro – ime kho, bhikkhave, cattāro sārā’’ti. Dasamaṃ.",
+   "zh": "“诸比丘，有四种精髓。哪四种？戒精髓、定精髓、慧精髓、解脱精髓——诸比丘，这便是四种精髓。”第十",
+   "n": "150"
+  },
+  {
+   "idx": 22,
+   "pali": "Ābhāvaggo pañcamo.",
+   "zh": "光辉品第五"
+  },
+  {
+   "idx": 23,
+   "pali": "Tassuddānaṃ –",
+   "zh": "其摄颂："
+  },
+  {
+   "idx": 24,
+   "pali": "Ābhā pabhā ca ālokā, obhāsā ceva pajjotā;",
+   "zh": "辉光、光明与明亮，光耀以及辉照；",
+   "type": "verse"
+  },
+  {
+   "idx": 25,
+   "pali": "Dve kālā caritā dve ca, honti sārena te dasāti.",
+   "zh": "二时及二行，由此精髓而成十。",
+   "type": "verse"
+  },
+  {
+   "idx": 26,
+   "pali": "Tatiyapaṇṇāsakaṃ samattaṃ.",
+   "zh": "第三组五十经终"
+  },
+  {
+   "idx": 27,
+   "pali": "4. Catutthapaṇṇāsakaṃ",
+   "zh": "4. 第四组五十经"
+  }
+ ]
+}

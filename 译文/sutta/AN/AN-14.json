@@ -1,0 +1,567 @@
+{
+ "uid": 14,
+ "title": "14. 第一品",
+ "nik": "AN",
+ "segs": [
+  {
+   "idx": 94,
+   "pali": "14. Etadaggavaggo",
+      "zh": "（十四）最上品"
+  },
+  {
+   "idx": 95,
+   "pali": "1. Paṭhamavaggo",
+   "zh": "第一品"
+  },
+  {
+   "idx": 2,
+   "pali": "‘‘Etadaggaṃ , bhikkhave, mama sāvakānaṃ bhikkhūnaṃ rattaññūnaṃ yadidaṃ aññāsikoṇḍañño’’ .",
+   "zh": "“诸比丘，在我的声闻比丘弟子中，于久出家者最为第一的，就是这位[[aññāsikoṇḍañña|憍陈如]]。”",
+   "n": "188"
+  },
+  {
+   "idx": 3,
+   "pali": "… Mahāpaññānaṃ yadidaṃ sāriputto.",
+   "zh": "“在我的声闻比丘弟子中，大智慧第一者，就是[[Sāriputta|舍利弗]]。”",
+   "n": "189"
+  },
+  {
+   "idx": 4,
+   "pali": "… Iddhimantānaṃ yadidaṃ mahāmoggallāno.",
+   "zh": "“在我声闻弟子比丘中，具神变第一者，即是[[mahāmoggallāna|大目犍连]]。”",
+   "n": "190"
+  },
+  {
+   "idx": 5,
+   "pali": "… Dhutavādānaṃ yadidaṃ mahākassapo.",
+   "zh": "“在我声闻弟子比丘中，头陀行第一者，即是[[mahākassapa|大迦叶]]。”",
+   "n": "191"
+  },
+  {
+   "idx": 6,
+   "pali": "… Dibbacakkhukānaṃ yadidaṃ anuruddho.",
+   "zh": "在我声闻弟子比丘中，天眼第一者，即是[[anuruddha|阿那律]]。",
+   "n": "192"
+  },
+  {
+   "idx": 7,
+   "pali": "… Uccākulikānaṃ yadidaṃ bhaddiyo kāḷigodhāyaputto.",
+   "zh": "在我的比丘弟子中，出身高贵家族之第一者，就是[[bhaddiya|跋提]]·迦利郭达亚子。",
+   "n": "193"
+  },
+  {
+   "idx": 8,
+   "pali": "… Mañjussarānaṃ yadidaṃ lakuṇḍaka bhaddiyo.",
+   "zh": "在我的比丘弟子中，音声美妙之第一者，就是矮个子[[bhaddiya|跋提]]。",
+   "n": "194"
+  },
+  {
+   "idx": 9,
+   "pali": "… Sīhanādikānaṃ yadidaṃ piṇḍolabhāradvājo.",
+   "zh": "在我的比丘弟子中，能作狮子吼、说法无畏之第一者，就是[[piṇḍolabhāradvāja|宾头卢]]·[[bhāradvāja|婆罗堕阇]]。",
+   "n": "195"
+  },
+  {
+   "idx": 10,
+   "pali": "… Dhammakathikānaṃ yadidaṃ puṇṇo mantāṇiputto.",
+   "zh": "在我的比丘弟子中，最擅长宣讲法义者，就是满慈子富那。",
+   "n": "196"
+  },
+  {
+   "idx": 11,
+   "pali": "… Saṃkhittena bhāsitassa vitthārena atthaṃ vibhajantānaṃ yadidaṃ mahākaccānoti.",
+   "zh": "在我的比丘弟子中，对简略宣说的法义能详尽剖析其义者，就是[[mahākaccāna|大迦旃延]]。",
+   "n": "197"
+  },
+  {
+   "idx": 96,
+   "pali": "Vaggo paṭhamo.",
+   "zh": "第一品"
+  },
+  {
+   "idx": 97,
+   "pali": "2. Dutiyavaggo",
+   "zh": "第二品"
+  },
+  {
+   "idx": 14,
+   "pali": "‘‘Etadaggaṃ , bhikkhave, mama sāvakānaṃ bhikkhūnaṃ manomayaṃ kāyaṃ abhinimminantānaṃ yadidaṃ cūḷapanthako’’ .",
+   "zh": "“诸比丘，在我的比丘弟子中，能化现意所成身者，此中第一者，即[[cūḷapanthaka|周利槃陀伽]]比丘。”",
+   "n": "198"
+  },
+  {
+   "idx": 15,
+   "pali": "… Cetovivaṭṭakusalānaṃ yadidaṃ cūḷapanthako.",
+   "zh": "诸比丘，在我的声闻比丘弟子中，于心意转变善巧的，就是[[cūḷapanthaka|周利槃陀伽]]。",
+   "n": "199"
+  },
+  {
+   "idx": 16,
+   "pali": "… Saññāvivaṭṭakusalānaṃ yadidaṃ mahāpanthako.",
+   "zh": "在我的比丘弟子中，最善巧于转变想者，便是摩诃槃陀伽。",
+   "n": "200"
+  },
+  {
+   "idx": 17,
+   "pali": "… Araṇavihārīnaṃ yadidaṃ subhūti.",
+   "zh": "在安住无诤者中，便是须菩提。",
+   "n": "201"
+  },
+  {
+   "idx": 18,
+   "pali": "… Dakkhiṇeyyānaṃ yadidaṃ subhūti.",
+   "zh": "在堪受供养的比丘中，便是这位须菩提。",
+   "n": "202"
+  },
+  {
+   "idx": 19,
+   "pali": "… Āraññakānaṃ yadidaṃ revato khadiravaniyo.",
+   "zh": "于常居林野的比丘中，即是这位佉提罗林离婆多。",
+   "n": "203"
+  },
+  {
+   "idx": 20,
+   "pali": "… Jhāyīnaṃ yadidaṃ kaṅkhārevato.",
+   "zh": "于精勤禅那的比丘中，即是这位[[kaṅkhārevata|疑离婆多]]。",
+   "n": "204"
+  },
+  {
+   "idx": 21,
+   "pali": "… Āraddhavīriyānaṃ yadidaṃ soṇo koḷiviso.",
+   "zh": "于勇猛精进的比丘中，即是这位果离维萨的索那。",
+   "n": "205"
+  },
+  {
+   "idx": 22,
+   "pali": "… Kalyāṇavākkaraṇānaṃ yadidaṃ soṇo kuṭikaṇṇo.",
+   "zh": "我诸声闻弟子比丘中，言辞优美、音声悦耳第一者，即索那·古提甘那。",
+   "n": "206"
+  },
+  {
+   "idx": 23,
+   "pali": "… Lābhīnaṃ yadidaṃ sīvali.",
+   "zh": "我诸声闻弟子比丘中，得利养第一者，即[[sīvali|希瓦利]]。",
+   "n": "207"
+  },
+  {
+   "idx": 24,
+   "pali": "… Saddhādhimuttānaṃ yadidaṃ vakkalīti.",
+   "zh": "我诸声闻弟子比丘中，信胜解第一者，即[[vakkali|婆迦梨]]。",
+   "n": "208"
+  },
+  {
+   "idx": 98,
+   "pali": "Vaggo dutiyo.",
+   "zh": "第二品"
+  },
+  {
+   "idx": 99,
+   "pali": "3. Tatiyavaggo",
+   "zh": "第三品"
+  },
+  {
+   "idx": 27,
+   "pali": "‘‘Etadaggaṃ , bhikkhave, mama sāvakānaṃ bhikkhūnaṃ sikkhākāmānaṃ yadidaṃ rāhulo’’.",
+   "zh": "“诸比丘，在我的声闻比丘弟子中，最为乐学者，就是[[Rāhula|罗睺罗]]。”",
+   "n": "209"
+  },
+  {
+   "idx": 28,
+   "pali": "… Saddhāpabbajitānaṃ yadidaṃ raṭṭhapālo.",
+   "zh": "在我的声闻弟子比丘中，因信心而出家者中，最为第一者，即是拉塔帕叻。",
+   "n": "210"
+  },
+  {
+   "idx": 29,
+   "pali": "… Paṭhamaṃ salākaṃ gaṇhantānaṃ yadidaṃ kuṇḍadhāno.",
+   "zh": "在我的声闻弟子比丘中，取筹时最先得筹者中，即是昆达塔那。",
+   "n": "211"
+  },
+  {
+   "idx": 30,
+   "pali": "… Paṭibhānavantānaṃ yadidaṃ vaṅgīso.",
+   "zh": "在我的声闻弟子比丘中，辩才无碍者中，最为第一者，即是汪积萨。",
+   "n": "212"
+  },
+  {
+   "idx": 31,
+   "pali": "… Samantapāsādikānaṃ yadidaṃ upaseno vaṅgantaputto.",
+   "zh": "在我的声闻弟子比丘中，于令众欢喜、威仪端严最为第一者，即是汪干达之子[[upasena|优波先那]]。",
+   "n": "213"
+  },
+  {
+   "idx": 32,
+   "pali": "… Senāsanapaññāpakānaṃ yadidaṃ dabbo mallaputto.",
+   "zh": "在我的声闻弟子比丘中，于分派住处最为第一者，即是达波·[[mallaputta|末罗族之子]]。",
+   "n": "214"
+  },
+  {
+   "idx": 33,
+   "pali": "… Devatānaṃ piyamanāpānaṃ yadidaṃ pilindavaccho.",
+   "zh": "在我的声闻弟子比丘中，于为诸天神所喜爱、所悦可最为第一者，即是[[pilindavaccha|毕陵伽·婆蹉]]。",
+   "n": "215"
+  },
+  {
+   "idx": 34,
+   "pali": "… Khippābhiññānaṃ yadidaṃ bāhiyo dārucīriyo.",
+   "zh": "在我的声闻比丘弟子中，速疾证悟第一者，即树皮衣[[bāhiya|婆醯]]。",
+   "n": "216"
+  },
+  {
+   "idx": 35,
+   "pali": "… Cittakathikānaṃ yadidaṃ kumārakassapo.",
+   "zh": "在我的声闻比丘弟子中，妙语说法第一者，即[[Kumārakassapa|童子迦叶]]。",
+   "n": "217"
+  },
+  {
+   "idx": 36,
+   "pali": "… Paṭisambhidāpattānaṃ yadidaṃ mahākoṭṭhitoti .",
+   "zh": "在我的声闻比丘弟子中，得无碍解第一者，即摩诃拘絺罗。",
+   "n": "218"
+  },
+  {
+   "idx": 100,
+   "pali": "Vaggo tatiyo.",
+   "zh": "第三品"
+  },
+  {
+   "idx": 101,
+   "pali": "4. Catutthavaggo",
+   "zh": "第四品"
+  },
+  {
+   "idx": 39,
+   "pali": "‘‘Etadaggaṃ, bhikkhave, mama sāvakānaṃ bhikkhūnaṃ bahussutānaṃ yadidaṃ ānando’’.",
+   "zh": "“诸比丘，于我这些比丘弟子中，多闻第一者，即是[[ānanda|阿难]]。”",
+   "n": "219"
+  },
+  {
+   "idx": 40,
+   "pali": "… Satimantānaṃ yadidaṃ ānando.",
+   "zh": "具念第一者，即是[[ānanda|阿难]]。",
+   "n": "220"
+  },
+  {
+   "idx": 41,
+   "pali": "… Gatimantānaṃ yadidaṃ ānando.",
+   "zh": "通达第一者，即是[[ānanda|阿难]]。",
+   "n": "221"
+  },
+  {
+   "idx": 42,
+   "pali": "… Dhitimantānaṃ yadidaṃ ānando.",
+   "zh": "精力第一者，即是[[ānanda|阿难]]。",
+   "n": "222"
+  },
+  {
+   "idx": 43,
+   "pali": "… Upaṭṭhākānaṃ yadidaṃ ānando.",
+   "zh": "在我的声闻弟子比丘中，侍者第一者，就是[[ānanda|阿难]]。",
+   "n": "223"
+  },
+  {
+   "idx": 44,
+   "pali": "… Mahāparisānaṃ yadidaṃ uruvelakassapo.",
+   "zh": "在我的声闻弟子比丘中，拥有大随行众者中，最为第一者，就是[[uruvelakassapa|优楼频螺·迦叶]]。",
+   "n": "224"
+  },
+  {
+   "idx": 45,
+   "pali": "… Kulappasādakānaṃ yadidaṃ kāḷudāyī.",
+   "zh": "在我的声闻弟子比丘中，能令在家人心生净信者中，最为第一者，就是[[kāḷudāyī|迦留陀夷]]。",
+   "n": "225"
+  },
+  {
+   "idx": 46,
+   "pali": "… Appābādhānaṃ yadidaṃ bākulo .",
+      "zh": "在我的声闻比丘弟子中，身体最康健、少有病苦的，是[[bākula|拔古喇]]。",
+   "n": "226"
+  },
+  {
+   "idx": 47,
+   "pali": "… Pubbenivāsaṃ anussarantānaṃ yadidaṃ sobhito.",
+   "zh": "在我的声闻比丘弟子中，于忆念宿世最为第一的，是输毗多。",
+   "n": "227"
+  },
+  {
+   "idx": 48,
+   "pali": "… Vinayadharānaṃ yadidaṃ upāli.",
+   "zh": "在我的声闻比丘弟子中，持律最为第一的，是优波离。",
+   "n": "228"
+  },
+  {
+   "idx": 49,
+   "pali": "… Bhikkhunovādakānaṃ yadidaṃ nandako.",
+   "zh": "比丘们，在我的声闻比丘弟子中，教导比丘尼最第一者，是难陀迦。",
+   "n": "229"
+  },
+  {
+   "idx": 50,
+   "pali": "… Indriyesu guttadvārānaṃ yadidaṃ nando.",
+   "zh": "比丘们，在我的声闻比丘弟子中，守护根门最第一者，是难陀。",
+   "n": "230"
+  },
+  {
+   "idx": 51,
+   "pali": "… Bhikkhuovādakānaṃ yadidaṃ mahākappino.",
+   "zh": "比丘们，在我的声闻比丘弟子中，教导比丘最第一者，是[[mahākappina|摩诃劫宾那]]。",
+   "n": "231"
+  },
+  {
+   "idx": 52,
+   "pali": "… Tejodhātukusalānaṃ yadidaṃ sāgato.",
+   "zh": "诸比丘，在我的声闻比丘弟子中，于火界最为善巧者，即是沙伽陀。",
+   "n": "232"
+  },
+  {
+   "idx": 53,
+   "pali": "… Paṭibhāneyyakānaṃ yadidaṃ rādho.",
+   "zh": "诸比丘，在我的声闻比丘弟子中，辩才最为卓异者，即是[[Rādha|罗陀]]。",
+   "n": "233"
+  },
+  {
+   "idx": 54,
+   "pali": "… Lūkhacīvaradharānaṃ yadidaṃ mogharājāti.",
+   "zh": "诸比丘，在我的声闻比丘弟子中，持粗弊衣最为第一者，即是莫伽罗阇。",
+   "n": "234"
+  },
+  {
+   "idx": 102,
+   "pali": "Vaggo catuttho.",
+   "zh": "第四品"
+  },
+  {
+   "idx": 103,
+   "pali": "5. Pañcamavaggo",
+   "zh": "第五品"
+  },
+  {
+   "idx": 57,
+   "pali": "‘‘Etadaggaṃ , bhikkhave, mama sāvikānaṃ bhikkhunīnaṃ rattaññūnaṃ yadidaṃ mahāpajāpatigotamī’’.",
+   "zh": "“诸比丘，于我声闻比丘尼弟子中，久出家而最为第一者，即[[mahāpajāpatigotamī|大爱道]]·乔达摩。”",
+   "n": "235"
+  },
+  {
+   "idx": 58,
+   "pali": "… Mahāpaññānaṃ yadidaṃ khemā.",
+   "zh": "具大慧的比丘尼中，此中第一者，即是差摩。",
+   "n": "236"
+  },
+  {
+   "idx": 59,
+   "pali": "… Iddhimantīnaṃ yadidaṃ uppalavaṇṇā.",
+   "zh": "具神通的比丘尼中，此中第一者，即是[[uppalavaṇṇā|莲华色]]。",
+   "n": "237"
+  },
+  {
+   "idx": 60,
+   "pali": "… Vinayadharānaṃ yadidaṃ paṭācārā.",
+   "zh": "持律的比丘尼中，第一即是波吒左罗。",
+   "n": "238"
+  },
+  {
+   "idx": 61,
+   "pali": "… Dhammakathikānaṃ yadidaṃ dhammadinnā.",
+   "zh": "在说法比丘尼中，[[dhammadinnā|法乐]]为第一。",
+   "n": "239"
+  },
+  {
+   "idx": 62,
+   "pali": "… Jhāyīnaṃ yadidaṃ nandā.",
+   "zh": "在禅修比丘尼中，难陀为第一。",
+   "n": "240"
+  },
+  {
+   "idx": 63,
+   "pali": "… Āraddhavīriyānaṃ yadidaṃ soṇā.",
+   "zh": "在精进勇猛比丘尼中，首那为第一。",
+   "n": "241"
+  },
+  {
+   "idx": 64,
+   "pali": "… Dibbacakkhukānaṃ yadidaṃ bakulā .",
+      "zh": "在天眼方面最为第一的，是拔古喇。",
+   "n": "242"
+  },
+  {
+   "idx": 65,
+   "pali": "… Khippābhiññānaṃ yadidaṃ bhaddā kuṇḍalakesā.",
+   "zh": "在比丘尼中，于速疾证智方面最为第一的，是跋陀·军陀罗克萨。",
+   "n": "243"
+  },
+  {
+   "idx": 66,
+   "pali": "… Pubbenivāsaṃ anussarantīnaṃ yadidaṃ bhaddā kāpilānī.",
+   "zh": "于忆念过去生方面最为第一的，是跋陀·迦比罗尼。",
+   "n": "244"
+  },
+  {
+   "idx": 67,
+   "pali": "… Mahābhiññappattānaṃ yadidaṃ bhaddakaccānā.",
+   "zh": "比丘尼中，大神通第一者，是[[bhaddakaccānā|跋陀迦旃延]]。",
+   "n": "245"
+  },
+  {
+   "idx": 68,
+   "pali": "… Lūkhacīvaradharānaṃ yadidaṃ kisāgotamī.",
+   "zh": "比丘尼中，着粗衣第一者，是基沙·乔达弥。",
+   "n": "246"
+  },
+  {
+   "idx": 69,
+   "pali": "… Saddhādhimuttānaṃ yadidaṃ siṅgālakamātāti .",
+   "zh": "比丘尼中，信胜解第一者，是辛伽拉母。",
+   "n": "247"
+  },
+  {
+   "idx": 104,
+   "pali": "Vaggo pañcamo.",
+   "zh": "第五品"
+  },
+  {
+   "idx": 105,
+   "pali": "6. Chaṭṭhavaggo",
+   "zh": "第六品"
+  },
+  {
+   "idx": 72,
+   "pali": "‘‘Etadaggaṃ , bhikkhave, mama sāvakānaṃ upāsakānaṃ paṭhamaṃ saraṇaṃ gacchantānaṃ yadidaṃ tapussabhallikā vāṇijā’’.",
+   "zh": "“诸比丘，在我近事男弟子中，最先皈依者，即是达不色与跋离迦两位商人。”",
+   "n": "248"
+  },
+  {
+   "idx": 73,
+   "pali": "… Dāyakānaṃ yadidaṃ sudatto gahapati anāthapiṇḍiko.",
+   "zh": "在近事男弟子中的布施者里，最为第一者，便是[[sudatta|须达多]]居士，即[[Anāthapiṇḍika|给孤独]]长者。",
+   "n": "249"
+  },
+  {
+   "idx": 74,
+   "pali": "… Dhammakathikānaṃ yadidaṃ citto gahapati macchikāsaṇḍiko.",
+   "zh": "在近事男弟子中的说法者里，最为第一者，便是马基迦山达城的质多居士。",
+   "n": "250"
+  },
+  {
+   "idx": 75,
+   "pali": "… Catūhi saṅgahavatthūhi parisaṃ saṅgaṇhantānaṃ yadidaṃ hatthako āḷavako.",
+   "zh": "在近事男弟子中，以四种摄事摄受大众者，最为第一者，便是阿罗毘的呵塔咖。",
+   "n": "251"
+  },
+  {
+   "idx": 76,
+   "pali": "… Paṇītadāyakānaṃ yadidaṃ mahānāmo sakko.",
+   "zh": "在近事男弟子中，布施胜妙物最为第一者，即是摩诃男。",
+   "n": "252"
+  },
+  {
+   "idx": 77,
+   "pali": "… Manāpadāyakānaṃ yadidaṃ uggo gahapati vesāliko.",
+   "zh": "在近事男弟子中，布施令人悦意之物最为第一者，即是毗舍离城的伍格果居士。",
+   "n": "253"
+  },
+  {
+   "idx": 78,
+   "pali": "… Saṅghupaṭṭhākānaṃ yadidaṃ hatthigāmako uggato gahapati.",
+   "zh": "在近事男中，侍奉僧团最为第一者，即是象村的吁加答居士。",
+   "n": "254"
+  },
+  {
+   "idx": 79,
+   "pali": "… Aveccappasannānaṃ yadidaṃ sūrambaṭṭho .",
+   "zh": "于具足不坏净信者中，最上者即是苏兰跋途。",
+   "n": "255"
+  },
+  {
+   "idx": 80,
+   "pali": "… Puggalappasannānaṃ yadidaṃ jīvako komārabhacco.",
+   "zh": "于具个人净信者中，最上者即是[[jīvaka|耆婆]]童子医。",
+   "n": "256"
+  },
+  {
+   "idx": 81,
+   "pali": "… Vissāsakānaṃ yadidaṃ nakulapitā gahapatīti.",
+   "zh": "于可信赖者中，最上者即是那拘罗父亲居士。",
+   "n": "257"
+  },
+  {
+   "idx": 106,
+   "pali": "Vaggo chaṭṭho.",
+   "zh": "第六品"
+  },
+  {
+   "idx": 107,
+   "pali": "7. Sattamavaggo",
+   "zh": "第七品"
+  },
+  {
+   "idx": 84,
+   "pali": "‘‘Etadaggaṃ , bhikkhave, mama sāvikānaṃ upāsikānaṃ paṭhamaṃ saraṇaṃ gacchantīnaṃ yadidaṃ sujātā seniyadhītā’’ .",
+   "zh": "“诸比丘，在我的近事女女弟子中，最先皈依、最为第一者，正是塞尼之女善生。”",
+   "n": "258"
+  },
+  {
+   "idx": 85,
+   "pali": "… Dāyikānaṃ yadidaṃ visākhā migāramātā.",
+   "zh": "在近事女中，布施第一者，是鹿子母[[Visākhā|毗舍佉]]。",
+   "n": "259"
+  },
+  {
+   "idx": 86,
+   "pali": "… Bahussutānaṃ yadidaṃ khujjuttarā.",
+   "zh": "近事女中，多闻第一者，是[[khujjuttarā|久寿多罗]]。",
+   "n": "260"
+  },
+  {
+   "idx": 87,
+   "pali": "… Mettāvihārīnaṃ yadidaṃ sāmāvatī.",
+   "zh": "在家女弟子中，修慈心住第一者，是沙玛瓦蒂。",
+   "n": "261"
+  },
+  {
+   "idx": 88,
+   "pali": "… Jhāyīnaṃ yadidaṃ uttarānandamātā.",
+   "zh": "在家女弟子中，禅修第一者，是伍答拉难答母（郁多罗难陀母）。",
+   "n": "262"
+  },
+  {
+   "idx": 89,
+   "pali": "… Paṇītadāyikānaṃ yadidaṃ suppavāsā koliyadhītā.",
+   "zh": "在家女弟子中，供养胜妙物第一者，是[[koliya|拘利]]之女苏帕瓦莎。",
+   "n": "263"
+  },
+  {
+   "idx": 90,
+   "pali": "… Gilānupaṭṭhākīnaṃ yadidaṃ suppiyā upāsikā.",
+   "zh": "在家女弟子中，看护病人第一者，是苏毘耶近事女。",
+   "n": "264"
+  },
+  {
+   "idx": 91,
+   "pali": "… Aveccappasannānaṃ yadidaṃ kātiyānī.",
+   "zh": "在家女弟子中，于不动净信最为第一者，是迦提亚尼。",
+   "n": "265"
+  },
+  {
+   "idx": 92,
+   "pali": "… Vissāsikānaṃ yadidaṃ nakulamātā gahapatānī.",
+   "zh": "在家女弟子中，于堪信赖最为第一者，是那拘罗母居士。",
+   "n": "266"
+  },
+  {
+   "idx": 93,
+   "pali": "… Anussavappasannānaṃ yadidaṃ kāḷī upāsikā kulagharikā ti.",
+   "zh": "在近事女中，依传闻而生净信、最为第一者，是居家妇人迦利近事女。",
+   "n": "267"
+  },
+  {
+   "idx": 108,
+   "pali": "Vaggo sattamo.",
+   "zh": "第七品"
+  },
+  {
+   "idx": 109,
+   "pali": "Etadaggavaggo cuddasamo.",
+   "zh": "最胜品第十四"
+  }
+ ]
+}

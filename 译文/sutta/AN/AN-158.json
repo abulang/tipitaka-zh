@@ -1,0 +1,67 @@
+{
+ "uid": 158,
+ "title": "1. 学经",
+ "nik": "AN",
+ "segs": [
+  {
+   "idx": 0,
+   "pali": "(9) 4. Iddhipādavaggo",
+   "zh": "（9） 4. 神足品"
+  },
+  {
+   "idx": 1,
+   "pali": "1. Sikkhasuttaṃ",
+   "zh": "1. [[sikkhasutta|学经]]"
+  },
+  {
+   "idx": 2,
+   "pali": "‘‘Pañcimāni , bhikkhave, sikkhādubbalyāni. Katamāni pañca? Pāṇātipāto…pe… surāmerayamajjapamādaṭṭhānaṃ – imāni kho, bhikkhave, pañca sikkhādubbalyāni.",
+   "zh": "“诸比丘，有五种学处的羸弱。是哪五种？即杀生……（中略）……成为放逸之因的诸酒类。诸比丘，这便是五种学处的羸弱。",
+   "n": "83"
+  },
+  {
+   "idx": 3,
+   "pali": "‘‘Imesaṃ kho, bhikkhave, pañcannaṃ sikkhādubbalyānaṃ pahānāya cattāro iddhipādā bhāvetabbā. Katame cattāro? Idha , bhikkhave, bhikkhu chandasamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti, vīriyasamādhi… cittasamādhi… vīmaṃsāsamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti. Imesaṃ kho, bhikkhave, pañcannaṃ sikkhādubbalyānaṃ pahānāya ime cattāro iddhipādā bhāvetabbā’’ti. Paṭhamaṃ.",
+   "zh": "“诸比丘，为断除此五种学处的羸弱，应当修习四神足。是哪四种？诸比丘，于此，比丘修习具足欲定与勤行的神足，修习具足精进定与勤行的神足，修习具足心定与勤行的神足，修习具足观定与勤行的神足。诸比丘，为断除此五种学处的羸弱，应当修习这四神足。”第一。"
+  },
+  {
+   "idx": 4,
+   "pali": "(Yathā satipaṭṭhānavagge tathā iddhipādavasena vitthāretabbā.)",
+   "zh": "（应如念处品那样，以神足的方式详尽展开。）",
+   "n": "84-91"
+  },
+  {
+   "idx": 5,
+   "pali": "10. Cetasovinibandhasuttaṃ",
+   "zh": "10. [[cetasovinibandhasutta|心缚经]]"
+  },
+  {
+   "idx": 6,
+   "pali": "‘‘Pañcime , bhikkhave, cetasovinibandhā. Katame pañca? Idha, bhikkhave, bhikkhu kāmesu avītarāgo hoti…pe… ime kho, bhikkhave, pañca cetasovinibandhā.",
+   "zh": "“诸比丘，有五种心的束缚。哪五种？诸比丘，于此，比丘于诸欲未离贪……（中略）……诸比丘，这些便是五种心的束缚。”",
+   "n": "92"
+  },
+  {
+   "idx": 7,
+   "pali": "‘‘Imesaṃ kho, bhikkhave, pañcannaṃ cetasovinibandhānaṃ pahānāya ime cattāro iddhipādā bhāvetabbā. Katame cattāro? Idha, bhikkhave, bhikkhu chandasamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti, vīriyasamādhi… cittasamādhi… vīmaṃsāsamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti. Imesaṃ kho, bhikkhave, pañcannaṃ cetasovinibandhānaṃ pahānāya ime cattāro iddhipādā bhāvetabbā’’ti. Dasamaṃ.",
+   "zh": "“诸比丘，为断除这五种心的束缚，应修习四神足。哪四种？诸比丘，在此，比丘修习具足欲定勤行的神足，修习具足精进定勤行的神足，修习具足心定勤行的神足，修习具足观察定勤行的神足。诸比丘，为断除这五种心的束缚，即应修习此四神足。”第十。"
+  },
+  {
+   "idx": 8,
+   "pali": "Iddhipādavaggo catuttho.",
+   "zh": "神足品第四"
+  },
+  {
+   "idx": 9,
+   "pali": "Yatheva satipaṭṭhānā, padhānā caturopi ca;",
+   "zh": "如同四念处与四正勤，",
+   "type": "verse"
+  },
+  {
+   "idx": 10,
+   "pali": "Cattāro iddhipādā ca, tatheva sampayojayeti.",
+   "zh": "以及四神足，亦应同样连结。",
+   "type": "verse"
+  }
+ ]
+}

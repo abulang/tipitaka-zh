@@ -1,0 +1,525 @@
+{
+ "uid": 130,
+ "title": "3. 跋耆七法品",
+ "nik": "AN",
+ "segs": [
+  {
+   "idx": 0,
+   "pali": "3. Vajjisattakavaggo",
+   "zh": "3. 跋耆七法品"
+  },
+  {
+   "idx": 1,
+   "pali": "1. Sārandadasuttaṃ",
+   "zh": "1. [[sārandadasutta|萨兰达达经]]"
+  },
+  {
+   "idx": 2,
+   "pali": "Evaṃ me sutaṃ – ekaṃ samayaṃ bhagavā vesāliyaṃ viharati sārandade cetiye. Atha kho sambahulā licchavī yena bhagavā tenupasaṅkamiṃsu; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdiṃsu. Ekamantaṃ nisinne kho te licchavī bhagavā etadavoca – ‘‘satta vo, licchavī, aparihāniye dhamme desessāmi. Taṃ suṇātha, sādhukaṃ manasi karotha; bhāsissāmī’’ti. ‘‘Evaṃ, bhante’’ti kho te licchavī bhagavato paccassosuṃ. Bhagavā etadavoca –",
+   "zh": "如是我闻：一时，世尊住在[[vesālī|毗舍离]]的萨兰达达塔庙。那时，众多离车族人来到世尊那里，到了之后，向世尊礼敬，坐在一旁。世尊对坐在一旁的离车族人这样说道：“离车族，我将为你们宣说七不退法。你们要谛听，善加作意，我要宣说了。”“是的，尊者。”那些离车族人回答世尊。世尊这样说道：",
+   "n": "21"
+  },
+  {
+   "idx": 3,
+   "pali": "‘‘Katame ca, licchavī, satta aparihāniyā dhammā? Yāvakīvañca, licchavī, vajjī abhiṇhaṃ sannipātā bhavissanti sannipātabahulā; vuddhiyeva, licchavī, vajjīnaṃ pāṭikaṅkhā, no parihāni.",
+   "zh": "“离车族，什么是七不退法？离车族，只要跋耆人常常集会，勤于集会，离车族，跋耆人的增长便指日可期，而非衰败。"
+  },
+  {
+   "idx": 4,
+   "pali": "‘‘Yāvakīvañca, licchavī, vajjī samaggā sannipatissanti, samaggā vuṭṭhahissanti, samaggā vajjikaraṇīyāni karissanti; vuddhiyeva, licchavī, vajjīnaṃ pāṭikaṅkhā, no parihāni.",
+   "zh": "“离车族，只要跋耆人和合集会、和合起立、和合处理跋耆人的事务，离车族，跋耆人的增长便指日可期，而非衰败。"
+  },
+  {
+   "idx": 5,
+   "pali": "‘‘Yāvakīvañca, licchavī, vajjī apaññattaṃ na paññāpessanti, paññattaṃ na samucchindissanti, yathāpaññatte porāṇe vajjidhamme samādāya vattissanti; vuddhiyeva, licchavī, vajjīnaṃ pāṭikaṅkhā, no parihāni.",
+   "zh": "“离车族，只要跋耆人不制定尚未制定的法规，不废除已经制定的法规，受持古昔所制的跋耆法而依之践行，离车族，跋耆人的增长便指日可期，而非衰败。"
+  },
+  {
+   "idx": 6,
+   "pali": "‘‘Yāvakīvañca, licchavī, vajjī ye te vajjīnaṃ vajjimahallakā te sakkarissanti garuṃ karissanti mānessanti pūjessanti, tesañca sotabbaṃ maññissanti; vuddhiyeva, licchavī, vajjīnaṃ pāṭikaṅkhā, no parihāni.",
+   "zh": "“离车族，只要跋耆人恭敬、尊重、尊敬、供养那些跋耆众中的长老，并认为应当听从他们；离车族，便可预期跋耆人增长，而非衰退。"
+  },
+  {
+   "idx": 7,
+   "pali": "‘‘Yāvakīvañca , licchavī, vajjī yā tā kulitthiyo kulakumāriyo tā na okassa pasayha vāsessanti; vuddhiyeva, licchavī, vajjīnaṃ pāṭikaṅkhā, no parihāni.",
+   "zh": "“离车族，只要跋耆人不强行拘禁族中良家妇女与少女，逼令同住；离车族，便可预期跋耆人增长，而非衰退。"
+  },
+  {
+   "idx": 8,
+   "pali": "‘‘Yāvakīvañca, licchavī, vajjī yāni tāni vajjīnaṃ vajjicetiyāni abbhantarāni ceva bāhirāni ca tāni sakkarissanti garuṃ karissanti mānessanti pūjessanti, tesañca dinnapubbaṃ katapubbaṃ dhammikaṃ baliṃ no parihāpessanti; vuddhiyeva, licchavī, vajjīnaṃ pāṭikaṅkhā, no parihāni.",
+   "zh": "“离车族，只要跋耆人恭敬、尊重、尊敬、供养那些跋耆人的塔庙，无论是城内的还是城外的，并且不中断往昔所施、如法所行的供祭；离车族，便可预期跋耆人增长，而非衰退。"
+  },
+  {
+   "idx": 9,
+   "pali": "‘‘Yāvakīvañca, licchavī, vajjīnaṃ arahantesu dhammikā rakkhāvaraṇagutti susaṃvihitā bhavissati – ‘kinti anāgatā ca arahanto vijitaṃ āgaccheyyuṃ, āgatā ca arahanto vijite phāsuṃ vihareyyu’nti; vuddhiyeva, licchavī, vajjīnaṃ pāṭikaṅkhā, no parihāni.",
+   "zh": "“离车族，只要跋耆人持续为阿拉汉们妥善安排如法的守护、保护与防护，心怀此念：‘未至的阿拉汉们能来到这片国土，已至的阿拉汉们能在国土中安乐而住’；离车族，跋耆人便可期待增长，而非衰退。”"
+  },
+  {
+   "idx": 10,
+   "pali": "‘‘Yāvakīvañca, licchavī, ime satta aparihāniyā dhammā vajjīsu ṭhassanti , imesu ca sattasu aparihāniyesu dhammesu vajjī sandississanti ; vuddhiyeva, licchavī, vajjīnaṃ pāṭikaṅkhā, no parihānī’’ti. Paṭhamaṃ.",
+   "zh": "“离车族，只要这七不退法在跋耆人中安立，只要跋耆人能显现出这七不退法；离车族，跋耆人便可期待增长，而非衰退。”第一。"
+  },
+  {
+   "idx": 11,
+   "pali": "2. Vassakārasuttaṃ",
+   "zh": "2. [[vassakāra|瓦萨咖拉]]经"
+  },
+  {
+   "idx": 12,
+   "pali": "Evaṃ me sutaṃ – ekaṃ samayaṃ bhagavā rājagahe viharati gijjhakūṭe pabbate. Tena kho pana samayena rājā māgadho ajātasattu vedehiputto vajjī abhiyātukāmo hoti. So evamāha – ‘‘ahaṃ hime vajjī evaṃmahiddhike evaṃmahānubhāve ucchecchāmi , vajjī vināsessāmi, vajjī anayabyasanaṃ āpādessāmī’’ti .",
+   "zh": "如是我闻：一时，世尊住在[[rājagaha|王舍城]]的灵鹫山。那时，摩揭陀王韦提希子[[Ajātasattu|阿阇世]]想要攻打跋耆人。他这样说：“我将彻底铲除这些具大神力、大威德的跋耆人，我将摧毁跋耆人，我将令跋耆人遭遇不幸与灾难。”",
+   "n": "22"
+  },
+  {
+   "idx": 13,
+   "pali": "Atha kho rājā māgadho ajātasattu vedehiputto vassakāraṃ brāhmaṇaṃ māgadhamahāmattaṃ āmantesi – ‘‘ehi tvaṃ, brāhmaṇa, yena bhagavā tenupasaṅkama; upasaṅkamitvā mama vacanena bhagavato pāde sirasā vandāhi, appābādhaṃ appātaṅkaṃ lahuṭṭhānaṃ balaṃ phāsuvihāraṃ puccha – ‘rājā, bhante, māgadho ajātasattu vedehiputto bhagavato pāde sirasā vandati, appābādhaṃ appātaṅkaṃ lahuṭṭhānaṃ balaṃ phāsuvihāraṃ pucchatī’ti. Evañca vadehi – ‘rājā, bhante, māgadho ajātasattu vedehiputto vajjī abhiyātukāmo. So evamāha – ‘ahaṃ hime vajjī evaṃmahiddhike evaṃmahānubhāve ucchecchāmi, vajjī vināsessāmi, vajjī anayabyasanaṃ āpādessāmī’ti . Yathā te bhagavā byākaroti, taṃ sādhukaṃ uggahetvā mama āroceyyāsi. Na hi tathāgatā vitathaṃ bhaṇantī’’ti.",
+   "zh": "于是，摩揭陀王韦提希子[[Ajātasattu|阿阇世]]召来摩揭陀大臣婆罗门瓦萨咖拉，对他说：“来吧，婆罗门，前往世尊之处。到达后，以我的名义，头面顶礼世尊双足，并请问：少病、少恼、轻安、有力、安乐住吗？你要说：‘尊者，摩揭陀王韦提希子[[Ajātasattu|阿阇世]]头面顶礼世尊足，请问世尊少病、少恼、轻安、有力、安乐住。’还要这样说：‘尊者，摩揭陀王韦提希子[[Ajātasattu|阿阇世]]想要攻打跋耆人。他这样说：“我将彻底铲除这些具大神力、大威德的跋耆人，我将摧毁跋耆人，我将令跋耆人遭遇不幸与灾难。”’世尊如何授记，你要善加忆持，回来告诉我。因为诸如来从不说虚妄之语。”"
+  },
+  {
+   "idx": 14,
+   "pali": "‘‘Evaṃ, bho’’ti kho vassakāro brāhmaṇo māgadhamahāmatto rañño māgadhassa ajātasattussa vedehiputtassa paṭissutvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṃ sammodi. Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho vassakāro brāhmaṇo māgadhamahāmatto bhagavantaṃ etadavoca – ‘‘rājā, bho gotama, māgadho ajātasattu vedehiputto bhoto gotamassa pāde sirasā vandati, appābādhaṃ appātaṅkaṃ lahuṭṭhānaṃ balaṃ phāsuvihāraṃ pucchati. Rājā , bho gotama, māgadho ajātasattu vedehiputto vajjī abhiyātukāmo. So evamāha – ‘ahaṃ hime vajjī evaṃmahiddhike evaṃmahānubhāve ucchecchāmi, vajjī vināsessāmi, vajjī anayabyasanaṃ āpādessāmī’’’ti.",
+   "zh": "“是，尊者。”摩揭陀大臣婆罗门瓦萨咖拉应诺摩揭陀王韦提希子阿阇世后，便前往世尊之处。到了之后，与世尊彼此欢喜寒暄，交谈了亲切、令人难忘的话语后，在一旁坐下。坐于一旁的摩揭陀大臣婆罗门瓦萨咖拉对世尊这样说：“[[gotama|乔达摩尊]]者，摩揭陀王韦提希子阿阇世头面顶礼[[gotama|乔达摩尊]]者双足，请问尊者少病、少恼、轻安、有力、安乐住。[[gotama|乔达摩尊]]者，摩揭陀王韦提希子阿阇世想要攻打跋耆人。他这样说：‘我将彻底铲除这些具大神力、大威德的跋耆人，我将摧毁跋耆人，我将令跋耆人遭遇不幸与灾难。’”"
+  },
+  {
+   "idx": 15,
+   "pali": "Tena kho pana samayena āyasmā ānando bhagavato piṭṭhito ṭhito hoti bhagavantaṃ bījayamāno . Atha kho bhagavā āyasmantaṃ ānandaṃ āmantesi – ‘‘kinti te, ānanda, sutaṃ – ‘vajjī abhiṇhaṃ sannipātā sannipātabahulā’’’ti? ‘‘Sutaṃ metaṃ, bhante – ‘vajjī abhiṇhaṃ sannipātā sannipātabahulā’’’ti. ‘‘Yāvakīvañca, ānanda, vajjī abhiṇhaṃ sannipātā bhavissanti sannipātabahulā; vuddhiyeva, ānanda, vajjīnaṃ pāṭikaṅkhā, no parihāni.",
+   "zh": "那时，具寿[[ānanda|阿难]]正站在世尊背后，为世尊扇凉。于是，世尊对具寿[[ānanda|阿难]]说：“[[ānanda|阿难]]，你可曾听闻：‘跋耆人常相集会、乐于集会’？” “尊者，我曾听闻：‘跋耆人常相集会、乐于集会’。” “[[ānanda|阿难]]，只要跋耆人常相集会、乐于集会，[[ānanda|阿难]]，便可期待他们增长，而不会衰退。"
+  },
+  {
+   "idx": 16,
+   "pali": "‘‘Kinti te, ānanda, sutaṃ – ‘vajjī samaggā sannipatanti, samaggā vuṭṭhahanti, samaggā vajjikaraṇīyāni karontī’’’ti? ‘‘Sutaṃ metaṃ, bhante – ‘vajjī samaggā sannipatanti, samaggā vuṭṭhahanti, samaggā vajjikaraṇīyāni karontī’’’ti . ‘‘Yāvakīvañca, ānanda, vajjī samaggā sannipatissanti, samaggā vuṭṭhahissanti , samaggā vajjikaraṇīyāni karissanti; vuddhiyeva, ānanda, vajjīnaṃ pāṭikaṅkhā, no parihāni.",
+   "zh": "“[[ānanda|阿难]]，你可曾听闻：‘跋耆人和合一致地集会，和合一致地解散，和合一致地处理跋耆人应办的事务’？” “尊者，我曾听闻：‘跋耆人和合一致地集会，和合一致地解散，和合一致地处理跋耆人应办的事务’。” “[[ānanda|阿难]]，只要跋耆人和合一致地集会，和合一致地解散，和合一致地处理跋耆人应办的事务，[[ānanda|阿难]]，便可期待他们增长，而不会衰退。"
+  },
+  {
+   "idx": 17,
+   "pali": "‘‘Kinti te, ānanda, sutaṃ – ‘vajjī apaññattaṃ na paññāpenti, paññattaṃ na samucchindanti , yathāpaññatte porāṇe vajjidhamme samādāya vattantī’’’ti? ‘‘Sutaṃ metaṃ, bhante – ‘vajjī apaññattaṃ na paññāpenti, paññattaṃ na samucchindanti, yathāpaññatte porāṇe vajjidhamme samādāya vattantī’’’ti. ‘‘Yāvakīvañca, ānanda, vajjī apaññattaṃ na paññāpessanti, paññattaṃ na samucchindissanti, yathāpaññatte porāṇe vajjidhamme samādāya vattissanti; vuddhiyeva, ānanda, vajjīnaṃ pāṭikaṅkhā, no parihāni.",
+   "zh": "“[[ānanda|阿难]]，你可曾听闻：‘跋耆人不制定未曾施设的新法，不废除已经施设的旧制，依循昔时所立的古跋耆法而遵行’？” “尊者，我曾听闻：‘跋耆人不制定未曾施设的新法，不废除已经施设的旧制，依循昔时所立的古跋耆法而遵行’。” “[[ānanda|阿难]]，只要跋耆人不制定未曾施设的新法，不废除已经施设的旧制，依循昔时所立的古跋耆法而遵行，[[ānanda|阿难]]，便可期待他们增长，而不会衰退。"
+  },
+  {
+   "idx": 18,
+   "pali": "‘‘Kinti te, ānanda, sutaṃ – ‘vajjī ye te vajjīnaṃ vajjimahallakā te sakkaronti garuṃ karonti mānenti pūjenti, tesañca sotabbaṃ maññantī’’’ti? ‘‘Sutaṃ metaṃ, bhante – ‘vajjī ye te vajjīnaṃ vajjimahallakā te sakkaronti garuṃ karonti mānenti pūjenti, tesañca sotabbaṃ maññantī’’’ti. ‘‘Yāvakīvañca, ānanda, vajjī ye te vajjīnaṃ vajjimahallakā te sakkarissanti garuṃ karissanti mānessanti pūjessanti, tesañca sotabbaṃ maññissanti; vuddhiyeva, ānanda, vajjīnaṃ pāṭikaṅkhā, no parihāni.",
+   "zh": "“[[ānanda|阿难]]，你可曾听闻：‘跋耆人恭敬、尊重、崇敬、供养跋耆的长老，并认为应当听从他们’？”“尊者，我曾听闻：‘跋耆人恭敬、尊重、崇敬、供养跋耆的长老，并认为应当听从他们’。”“[[ānanda|阿难]]，只要跋耆人恭敬、尊重、崇敬、供养跋耆的长老，并认为应当听从他们，[[ānanda|阿难]]，跋耆人便当可望增长，不会衰退。”"
+  },
+  {
+   "idx": 19,
+   "pali": "‘‘Kinti te, ānanda, sutaṃ – ‘vajjī yā tā kulitthiyo kulakumāriyo tā na okassa pasayha vāsentī’’’ti? ‘‘Sutaṃ metaṃ, bhante – ‘vajjī yā tā kulitthiyo kulakumāriyo tā na okassa pasayha vāsentī’’’ti. ‘‘Yāvakīvañca, ānanda , vajjī yā tā kulitthiyo kulakumāriyo tā na okassa pasayha vāsessanti; vuddhiyeva, ānanda, vajjīnaṃ pāṭikaṅkhā, no parihāni.",
+   "zh": "“[[ānanda|阿难]]，你可曾听闻：‘跋耆人不强行掳走良家妇女、良家少女而迫令她们同住’？”“尊者，我曾听闻：‘跋耆人不强行掳走良家妇女、良家少女而迫令她们同住’。”“[[ānanda|阿难]]，只要跋耆人不强行掳走良家妇女、良家少女而迫令她们同住，[[ānanda|阿难]]，跋耆人便当可望增长，不会衰退。”"
+  },
+  {
+   "idx": 20,
+   "pali": "‘‘Kinti te, ānanda, sutaṃ – ‘vajjī yāni tāni vajjīnaṃ vajjicetiyāni abbhantarāni ceva bāhirāni ca tāni sakkaronti garuṃ karonti mānenti pūjenti, tesañca dinnapubbaṃ katapubbaṃ dhammikaṃ baliṃ no parihāpentī’’’ti? ‘‘Sutaṃ metaṃ, bhante – ‘vajjī yāni tāni vajjīnaṃ vajjicetiyāni abbhantarāni ceva bāhirāni ca tāni sakkaronti garuṃ karonti mānenti pūjenti, tesañca dinnapubbaṃ katapubbaṃ dhammikaṃ baliṃ no parihāpentī’’’ti. ‘‘Yāvakīvañca, ānanda, vajjī yāni tāni vajjīnaṃ vajjicetiyāni abbhantarāni ceva bāhirāni ca tāni sakkarissanti garuṃ karissanti mānessanti pūjessanti, tesañca dinnapubbaṃ katapubbaṃ dhammikaṃ baliṃ no parihāpessanti; vuddhiyeva, ānanda, vajjīnaṃ pāṭikaṅkhā, no parihāni.",
+   "zh": "“[[ānanda|阿难]]，你可曾听闻：‘跋耆人无论是城内还是城外的跋耆塔庙，都恭敬、尊重、崇敬、供养，并且不废弃先前所施、先前所作的如法供物’？”“尊者，我曾听闻：‘跋耆人无论是城内还是城外的跋耆塔庙，都恭敬、尊重、崇敬、供养，并且不废弃先前所施、先前所作的如法供物’。”“[[ānanda|阿难]]，只要跋耆人无论是城内还是城外的跋耆塔庙，都恭敬、尊重、崇敬、供养，并且不废弃先前所施、先前所作的如法供物，[[ānanda|阿难]]，跋耆人便当可望增长，不会衰退。”"
+  },
+  {
+   "idx": 21,
+   "pali": "‘‘Kinti te, ānanda, sutaṃ – ‘vajjīnaṃ arahantesu dhammikā rakkhāvaraṇagutti susaṃvihitā – kinti anāgatā ca arahanto vijitaṃ āgaccheyyuṃ, āgatā ca arahanto vijite phāsuṃ vihareyyu’’’nti? ‘‘Sutaṃ metaṃ, bhante – ‘vajjīnaṃ arahantesu dhammikā rakkhāvaraṇagutti susaṃvihitā bhavissati – kinti anāgatā ca arahanto vijitaṃ āgaccheyyuṃ, āgatā ca arahanto vijite phāsuṃ vihareyyu’’’nti. ‘‘Yāvakīvañca, ānanda, vajjīnaṃ arahantesu dhammikā rakkhāvaraṇagutti susaṃvihitā bhavissati – ‘kinti anāgatā ca arahanto vijitaṃ āgaccheyyuṃ, āgatā ca arahanto vijite phāsuṃ vihareyyu’nti; vuddhiyeva, ānanda , vajjīnaṃ pāṭikaṅkhā, no parihānī’’ti.",
+   "zh": "“[[ānanda|阿难]]，你可曾听闻：跋耆人为阿拉汉们善设了如法的保护、守护与防卫——让未来的阿拉汉能来到国中，已来的阿拉汉能在国中安乐而住？”“尊者，我听闻了：跋耆人为阿拉汉们善设了如法的保护、守护与防卫——让未来的阿拉汉能来到国中，已来的阿拉汉能在国中安乐而住。”“[[ānanda|阿难]]，只要跋耆人为阿拉汉们这样善设如法的保护、守护与防卫——让未来的阿拉汉能来到国中，已来的阿拉汉能在国中安乐而住，[[ānanda|阿难]]，便可以预期跋耆人增长，不会衰退。”"
+  },
+  {
+   "idx": 22,
+   "pali": "Atha kho bhagavā vassakāraṃ brāhmaṇaṃ māgadhamahāmattaṃ āmantesi – ‘‘ekamidāhaṃ, brāhmaṇa, samayaṃ vesāliyaṃ viharāmi sārandade cetiye. Tatrāhaṃ, brāhmaṇa, vajjīnaṃ ime satta aparihāniye dhamme desesiṃ. Yāvakīvañca, brāhmaṇa, ime satta aparihāniyā dhammā vajjīsu ṭhassanti, imesu ca sattasu aparihāniyesu dhammesu vajjī sandississanti; vuddhiyeva, brāhmaṇa, vajjīnaṃ pāṭikaṅkhā, no parihānī’’ti.",
+   "zh": "那时，世尊对摩揭陀大臣[[vassakāra|瓦萨咖拉]]婆罗门说：“婆罗门，有一次，我住在[[vesālī|毗舍离]]的沙兰达塔庙。婆罗门，就在那里，我向跋耆人宣说了这七种不退转法。婆罗门，只要这七种不退转法在跋耆人中存续，且跋耆人于此七种不退转法中安住而住，婆罗门，便可以预期跋耆人增长，不会衰退。”"
+  },
+  {
+   "idx": 23,
+   "pali": "‘‘Ekamekenapi bho, gotama, aparihāniyena dhammena samannāgatānaṃ vajjīnaṃ vuddhiyeva pāṭikaṅkhā, no parihāni; ko pana vādo sattahi aparihāniyehi dhammehi! Akaraṇīyā ca, bho gotama, vajjī raññā māgadhena ajātasattunā vedehiputtena yadidaṃ yuddhassa, aññatra upalāpanāya , aññatra mithubhedā. Handa ca dāni mayaṃ, bho gotama, gacchāma, bahukiccā mayaṃ bahukaraṇīyā’’ti. ‘‘Yassadāni tvaṃ, brāhmaṇa, kālaṃ maññasī’’ti. Atha kho vassakāro brāhmaṇo māgadhamahāmatto bhagavato bhāsitaṃ abhinanditvā anumoditvā uṭṭhāyāsanā pakkāmīti. Dutiyaṃ.",
+   "zh": "“[[gotama|乔达摩尊]]者，即便只具足其中一种不退转法，跋耆人也应预期增长，不会衰退，更何况具足七种不退转法！[[gotama|乔达摩尊]]者，摩揭陀王阿阇世·韦提希子无法以战争征服跋耆人，除非通过贿赂或离间。[[gotama|乔达摩尊]]者，现在我们要告辞了，我们事务繁多，还有许多当办的事。”“婆罗门，如今你当作时宜之想。”那时，摩揭陀大臣[[vassakāra|瓦萨咖拉]]婆罗门对世尊所说欢喜赞同，从座而起，告辞离去。第二经。"
+  },
+  {
+   "idx": 24,
+   "pali": "3. Paṭhamasattakasuttaṃ",
+   "zh": "3. 第一[[paṭhamasattakasutta|组七法经]]"
+  },
+  {
+   "idx": 25,
+   "pali": "Evaṃ me sutaṃ – ekaṃ samayaṃ bhagavā rājagahe viharati gijjhakūṭe pabbate. Tatra kho bhagavā bhikkhū āmantesi – ‘‘satta vo, bhikkhave, aparihāniye dhamme desessāmi. Taṃ suṇātha , sādhukaṃ manasi karotha; bhāsissāmī’’ti. ‘‘Evaṃ, bhante’’ti kho te bhikkhū bhagavato paccassosuṃ. Bhagavā etadavoca –",
+   "zh": "如是我闻：一时，世尊住[[rājagaha|王舍城]]灵鹫山。在那里，世尊对诸比丘说：\n“诸比丘，我将为你们宣说不衰退的七法。你们仔细听，善加作意，我这就说。”\n“是的，世尊。”那些比丘回答世尊。世尊便这样说道：",
+   "n": "23"
+  },
+  {
+   "idx": 26,
+   "pali": "‘‘Katame ca, bhikkhave, satta aparihāniyā dhammā? Yāvakīvañca, bhikkhave, bhikkhū abhiṇhaṃ sannipātā bhavissanti sannipātabahulā; vuddhiyeva, bhikkhave, bhikkhūnaṃ pāṭikaṅkhā, no parihāni.",
+   "zh": "“诸比丘，什么是不衰退的七法呢？\n诸比丘，只要比丘们常相集会、乐于集会，那么，诸比丘，便可预期他们只会增长，不会衰退。"
+  },
+  {
+   "idx": 27,
+   "pali": "‘‘Yāvakīvañca, bhikkhave, bhikkhū samaggā sannipatissanti, samaggā vuṭṭhahissanti, samaggā saṅghakaraṇīyāni karissanti; vuddhiyeva, bhikkhave, bhikkhūnaṃ pāṭikaṅkhā, no parihāni.",
+   "zh": "“诸比丘，只要比丘们和合集会、和合起立、和合而行僧团应作之事，比丘们的增长便可预期，不会衰退。”"
+  },
+  {
+   "idx": 28,
+   "pali": "‘‘Yāvakīvañca, bhikkhave, bhikkhū apaññattaṃ na paññāpessanti, paññattaṃ na samucchindissanti, yathāpaññattesu sikkhāpadesu samādāya vattissanti; vuddhiyeva, bhikkhave, bhikkhūnaṃ pāṭikaṅkhā, no parihāni.",
+   "zh": "“诸比丘，只要比丘们不制定未制之学处，不废除已制之学处，而受持遵行所制之学处，比丘们的增长便可预期，不会衰退。”"
+  },
+  {
+   "idx": 29,
+   "pali": "‘‘Yāvakīvañca, bhikkhave, bhikkhū ye te bhikkhū therā rattaññū cirapabbajitā saṅghapitaro saṅghapariṇāyakā te sakkarissanti garuṃ karissanti mānessanti pūjessanti, tesañca sotabbaṃ maññissanti; vuddhiyeva, bhikkhave, bhikkhūnaṃ pāṭikaṅkhā, no parihāni.",
+   "zh": "“诸比丘，只要比丘们对那些长老比丘——出家日久、久修梵行，为僧团之父、僧团之导者——恭敬、尊重、尊敬、礼敬，并心想应当听从他们，比丘们的增长便可预期，不会衰退。”"
+  },
+  {
+   "idx": 30,
+   "pali": "‘‘Yāvakīvañca , bhikkhave, bhikkhū uppannāya taṇhāya ponobhavikāya na vasaṃ gacchissanti; vuddhiyeva, bhikkhave, bhikkhūnaṃ pāṭikaṅkhā, no parihāni.",
+   "zh": "“诸比丘！只要比丘们不随顺于已生起的、导致再有的渴爱；诸比丘！比丘们的增长便可预期，而非衰退。"
+  },
+  {
+   "idx": 31,
+   "pali": "‘‘Yāvakīvañca, bhikkhave, bhikkhū āraññakesu senāsanesu sāpekkhā bhavissanti ; vuddhiyeva, bhikkhave, bhikkhūnaṃ pāṭikaṅkhā, no parihāni.",
+   "zh": "“诸比丘！只要比丘们对林野住处仍心系念之；诸比丘！比丘们的增长便可预期，而非衰退。"
+  },
+  {
+   "idx": 32,
+   "pali": "‘‘Yāvakīvañca, bhikkhave, bhikkhū paccattaññeva satiṃ upaṭṭhāpessanti – ‘kinti anāgatā ca pesalā sabrahmacārī āgaccheyyuṃ, āgatā ca pesalā sabrahmacārī phāsuṃ vihareyyu’nti; vuddhiyeva, bhikkhave, bhikkhūnaṃ pāṭikaṅkhā, no parihāni.",
+   "zh": "“诸比丘！只要比丘们各自安立这样的念：‘如何能使未至的良善梵行者得以前来，已至的良善梵行者安乐而住？’诸比丘！比丘们的增长便可预期，而非衰退。"
+  },
+  {
+   "idx": 33,
+   "pali": "‘‘Yāvakīvañca , bhikkhave, ime satta aparihāniyā dhammā bhikkhūsu ṭhassanti, imesu ca sattasu aparihāniyesu dhammesu bhikkhū sandississanti; vuddhiyeva, bhikkhave, bhikkhūnaṃ pāṭikaṅkhā, no parihānī’’ti. Tatiyaṃ.",
+   "zh": "“诸比丘！只要这七不退法尚住于比丘众中，而比丘众又于此七不退法中得以显现，那么，诸比丘！你们所能期待的唯有增长，不会衰退。”第三。"
+  },
+  {
+   "idx": 34,
+   "pali": "4. Dutiyasattakasuttaṃ",
+   "zh": "4. 第二七[[dutiyasattakasutta|法经]]"
+  },
+  {
+   "idx": 35,
+   "pali": "‘‘Satta vo, bhikkhave, aparihāniye dhamme desessāmi. Taṃ suṇātha, sādhukaṃ manasi karotha…pe… katame ca, bhikkhave, satta aparihāniyā dhammā?",
+   "zh": "“诸比丘！我将为你们宣说七不退法。谛听，善作意……诸比丘！什么是七不退法？”",
+   "n": "24"
+  },
+  {
+   "idx": 36,
+   "pali": "Yāvakīvañca, bhikkhave, bhikkhū na kammārāmā bhavissanti, na kammaratā, na kammārāmataṃ anuyuttā; vuddhiyeva, bhikkhave, bhikkhūnaṃ pāṭikaṅkhā, no parihāni.",
+   "zh": "诸比丘！只要比丘们不乐于事务、不好乐事务、不沉迷于事务之乐，诸比丘！比丘们的增长便可预期，而不会衰退。"
+  },
+  {
+   "idx": 37,
+   "pali": "‘‘Yāvakīvañca, bhikkhave, bhikkhū na bhassārāmā bhavissanti…pe… na niddārāmā bhavissanti… na saṅgaṇikārāmā bhavissanti… na pāpicchā bhavissanti na pāpikānaṃ icchānaṃ vasaṃ gatā… na pāpamittā bhavissanti na pāpasahāyā na pāpasampavaṅkā… na oramattakena visesādhigamena antarāvosānaṃ āpajjissanti; vuddhiyeva, bhikkhave, bhikkhūnaṃ pāṭikaṅkhā, no parihāni.",
+   "zh": "“诸比丘！只要比丘们不乐于谈话……不乐于睡眠……不乐于聚会……不怀恶欲、不被恶欲所左右……不结交恶友、恶伴、恶同行……不因下劣的殊胜成就而中途停顿，诸比丘！比丘们的增长便可预期，而不会衰退。"
+  },
+  {
+   "idx": 38,
+   "pali": "‘‘Yāvakīvañca, bhikkhave, ime satta aparihāniyā dhammā bhikkhūsu ṭhassanti, imesu ca sattasu aparihāniyesu dhammesu bhikkhū sandississanti; vuddhiyeva, bhikkhave, bhikkhūnaṃ pāṭikaṅkhā, no parihānī’’ti. Catutthaṃ.",
+   "zh": "“诸比丘！只要这七种不退法安住于比丘们之中，而比丘们又在这七种不退法上可被看见，诸比丘！比丘们的增长便可预期，而不会衰退。”第四。"
+  },
+  {
+   "idx": 39,
+   "pali": "5. Tatiyasattakasuttaṃ",
+   "zh": "5. [[tatiyasattakasutta|第三七法经]]"
+  },
+  {
+   "idx": 40,
+   "pali": "‘‘Satta vo, bhikkhave, aparihāniye dhamme desessāmi. Taṃ suṇātha, sādhukaṃ manasi karotha…pe… katame ca, bhikkhave, satta aparihāniyā dhammā? Yāvakīvañca, bhikkhave, bhikkhū saddhā bhavissanti; vuddhiyeva, bhikkhave, bhikkhūnaṃ pāṭikaṅkhā, no parihāni.",
+   "zh": "“诸比丘，我将为你们宣说七不退法。你们谛听，善作意……诸比丘，什么是七不退法呢？诸比丘，只要比丘们具足信，诸比丘便可期待增长，而非衰退。”",
+   "n": "25"
+  },
+  {
+   "idx": 41,
+   "pali": "‘‘Yāvakīvañca , bhikkhave, bhikkhū hirimanto bhavissanti…pe… ottappino bhavissanti… bahussutā bhavissanti… āraddhavīriyā bhavissanti… satimanto bhavissanti… paññavanto bhavissanti; vuddhiyeva, bhikkhave, bhikkhūnaṃ pāṭikaṅkhā, no parihāni. ‘‘Yāvakīvañca, bhikkhave, ime satta aparihāniyā dhammā bhikkhūsu ṭhassanti, imesu ca sattasu aparihāniyesu dhammesu bhikkhū sandississanti; vuddhiyeva, bhikkhave, bhikkhūnaṃ pāṭikaṅkhā, no parihānī’’ti. Pañcamaṃ.",
+   "zh": "“诸比丘，只要比丘们具足惭……具足愧……多闻……发起精进……具念……具足慧；诸比丘，比丘们便可期待增长，而非衰退。诸比丘，只要这七不退法在比丘众中安住，且比丘们在这七不退法上得以显现，诸比丘，比丘们便可期待增长，而非衰退。”第五。"
+  },
+  {
+   "idx": 42,
+   "pali": "6. Bojjhaṅgasuttaṃ",
+   "zh": "6. [[bojjhaṅgasutta|觉支经]]"
+  },
+  {
+   "idx": 43,
+   "pali": "‘‘Satta vo, bhikkhave, aparihāniye dhamme desessāmi. Taṃ suṇātha, sādhukaṃ manasi karotha…pe… katame ca, bhikkhave, satta aparihāniyā dhammā? Yāvakīvañca, bhikkhave, bhikkhū satisambojjhaṅgaṃ bhāvessanti; vuddhiyeva, bhikkhave, bhikkhūnaṃ pāṭikaṅkhā, no parihāni.",
+   "zh": "“诸比丘，我将为你们宣说七不退法。你们要谛听，善加作意……诸比丘，什么是七不退法？诸比丘，只要你们修习念觉支，你们便当预期增长，而不衰退。”",
+   "n": "26"
+  },
+  {
+   "idx": 44,
+   "pali": "‘‘Yāvakīvañca, bhikkhave, bhikkhū dhammavicayasambojjhaṅgaṃ bhāvessanti…pe… vīriyasambojjhaṅgaṃ bhāvessanti… pītisambojjhaṅgaṃ bhāvessanti… passaddhisambojjhaṅgaṃ bhāvessanti… samādhisambojjhaṅgaṃ bhāvessanti… upekkhāsambojjhaṅgaṃ bhāvessanti; vuddhiyeva, bhikkhave, bhikkhūnaṃ pāṭikaṅkhā, no parihāni. ‘‘Yāvakīvañca, bhikkhave, ime satta aparihāniyā dhammā bhikkhūsu ṭhassanti, imesu ca sattasu aparihāniyesu dhammesu bhikkhū sandississanti; vuddhiyeva, bhikkhave, bhikkhūnaṃ pāṭikaṅkhā, no parihānī’’ti. Chaṭṭhaṃ.",
+   "zh": "“诸比丘，只要比丘们修习择法觉支……修习精进觉支……修习喜觉支……修习轻安觉支……修习定觉支……修习舍觉支；比丘们便可期待增长，而不衰退。诸比丘，只要这七不退法住立于比丘众中，且比丘众在这七不退法中安住修习，比丘们便可期待增长，而不衰退。”第六。"
+  },
+  {
+   "idx": 45,
+   "pali": "7. Saññāsuttaṃ",
+   "zh": "7. [[saññāsutta|想经]]"
+  },
+  {
+   "idx": 46,
+   "pali": "‘‘Satta vo, bhikkhave, aparihāniye dhamme desessāmi. Taṃ suṇātha, sādhukaṃ manasi karotha…pe…. Katame ca, bhikkhave, satta aparihāniyā dhammā? Yāvakīvañca, bhikkhave, bhikkhū aniccasaññaṃ bhāvessanti; vuddhiyeva, bhikkhave, bhikkhūnaṃ pāṭikaṅkhā, no parihāni.",
+   "zh": "“诸比丘，我将为你们宣说七不退法。你们当谛听，善作意！……诸比丘，什么是七不退法？诸比丘，只要比丘们修习无常想，比丘们的增长便可期待，而不会衰退。”",
+   "n": "27"
+  },
+  {
+   "idx": 47,
+   "pali": "‘‘Yāvakīvañca , bhikkhave, bhikkhū anattasaññaṃ bhāvessanti…pe… asubhasaññaṃ bhāvessanti… ādīnavasaññaṃ bhāvessanti… pahānasaññaṃ bhāvessanti… virāgasaññaṃ bhāvessanti… nirodhasaññaṃ bhāvessanti ; vuddhiyeva, bhikkhave, bhikkhūnaṃ pāṭikaṅkhā, no parihāni. ‘‘Yāvakīvañca, bhikkhave, ime satta aparihāniyā dhammā bhikkhūsu ṭhassanti, imesu ca sattasu aparihāniyesu dhammesu, bhikkhū sandississanti; vuddhiyeva, bhikkhave, bhikkhūnaṃ pāṭikaṅkhā, no parihānī’’ti . Sattamaṃ.",
+   "zh": "“诸比丘，只要比丘们修习无我想……修习不净想……修习过患想……修习舍断想……修习离贪想……修习灭想，比丘们的增长便可期待，而不会衰退。诸比丘，只要这七不退法住立于比丘们之中，且比丘们于其中被看见，比丘们的增长便可期待，而不会衰退。第七。”"
+  },
+  {
+   "idx": 48,
+   "pali": "8. Paṭhamaparihānisuttaṃ",
+   "zh": "8. [[paṭhamaparihānisutta|第一衰退经]]"
+  },
+  {
+   "idx": 49,
+   "pali": "Evaṃ me sutaṃ – ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Tatra kho bhagavā bhikkhū āmantesi – ‘‘sattime, bhikkhave, dhammā sekhassa bhikkhuno parihānāya saṃvattanti. Katame satta? Kammārāmatā, bhassārāmatā, niddārāmatā, saṅgaṇikārāmatā, indriyesu aguttadvāratā, bhojane amattaññutā, santi kho pana saṅghe saṅghakaraṇīyāni; tatra sekho bhikkhu iti paṭisañcikkhati – ‘santi kho pana saṅghe therā rattaññū cirapabbajitā bhāravāhino, te tena paññāyissantī’ti attanā tesu yogaṃ āpajjati. Ime kho, bhikkhave, satta dhammā sekhassa bhikkhuno parihānāya saṃvattanti.",
+   "zh": "如是我闻：一时，世尊住于[[sāvatthī|舍卫城]]祇树[[Anāthapiṇḍika|给孤独]]园。于其处，世尊告诸比丘：“诸比丘，有七法，能令有学比丘退失。哪七种？喜好事务、喜好言谈、喜好睡眠、喜好结交、不守护根门、饮食不知量；再者，僧团中若有当办的僧团事务时，有学比丘如此省察：‘僧团中自有长老比丘，久住、久出家、担当重责，他们将为此而被知晓。’却自己于他们事务上亲身投入精勤。诸比丘，这七法能令有学比丘退失。”",
+   "n": "28"
+  },
+  {
+   "idx": 50,
+   "pali": "‘‘Sattime, bhikkhave, dhammā sekhassa bhikkhuno aparihānāya saṃvattanti. Katame satta? Na kammārāmatā, na bhassārāmatā, na niddārāmatā, na saṅgaṇikārāmatā, indriyesu guttadvāratā, bhojane mattaññutā, santi kho pana saṅghe saṅghakaraṇīyāni; tatra sekho bhikkhu iti paṭisañcikkhati – ‘santi kho pana saṅghe therā rattaññū cirapabbajitā bhāravāhino, te tena paññāyissantī’ti attanā na tesu yogaṃ āpajjati. Ime kho, bhikkhave, satta dhammā sekhassa bhikkhuno aparihānāya saṃvattantī’’ti. Aṭṭhamaṃ.",
+   "zh": "“诸比丘，有七法，能令有学比丘不退失。哪七种？不喜好事务、不喜好言谈、不喜好睡眠、不喜好结交、守护根门、饮食知量；再者，僧团中若有当办的僧团事务时，有学比丘如此省察：‘僧团中自有长老比丘，久住、久出家、担当重责，他们将为此而被知晓。’他自己便不投身于他们事务。诸比丘，这七法能令有学比丘不退失。”第八经。"
+  },
+  {
+   "idx": 51,
+   "pali": "9. Dutiyaparihānisuttaṃ",
+   "zh": "9. [[dutiyaparihānisutta|第二衰退经]]"
+  },
+  {
+   "idx": 52,
+   "pali": "‘‘Sattime , bhikkhave, dhammā upāsakassa parihānāya saṃvattanti . Katame satta? Bhikkhudassanaṃ hāpeti, saddhammassavanaṃ pamajjati, adhisīle na sikkhati, appasādabahulo hoti , bhikkhūsu theresu ceva navesu ca majjhimesu ca upārambhacitto dhammaṃ suṇāti randhagavesī, ito bahiddhā dakkhiṇeyyaṃ gavesati, tattha ca pubbakāraṃ karoti. Ime kho, bhikkhave, satta dhammā upāsakassa parihānāya saṃvattanti.",
+   "zh": "“诸比丘，有这七法，导向近事男的衰退。哪七种？疏于见比丘、于听闻正法懈怠、不学增上戒、多有不信、以寻过之心听法——无论对长老比丘、新学比丘或中等比丘——向外寻求应施者，并先于彼处作供养。诸比丘，这七法导向近事男的衰退。",
+   "n": "29",
+   "type": "verse"
+  },
+  {
+   "idx": 53,
+   "pali": "‘‘Sattime, bhikkhave, dhammā upāsakassa aparihānāya saṃvattanti. Katame satta? Bhikkhudassanaṃ na hāpeti, saddhammassavanaṃ nappamajjati, adhisīle sikkhati, pasādabahulo hoti, bhikkhūsu theresu ceva navesu ca majjhimesu ca anupārambhacitto dhammaṃ suṇāti na randhagavesī, na ito bahiddhā dakkhiṇeyyaṃ gavesati, idha ca pubbakāraṃ karoti. Ime kho, bhikkhave, satta dhammā upāsakassa aparihānāya saṃvattantī’’ti. Idamavoca bhagavā. Idaṃ vatvāna sugato athāparaṃ etadavoca satthā –",
+   "zh": "“诸比丘，有这七法，导向近事男的不衰退。哪七种？不疏于见比丘、于听闻正法不懈怠、学习增上戒、多有净信、以不寻过之心听法——无论对长老比丘、新学比丘或中等比丘——不向外寻求应施者，在此处先作供养。诸比丘，这七法导向近事男的不衰退。世尊说了这些话。善逝说了这些话后，导师又接着说道：”",
+   "type": "verse"
+  },
+  {
+   "idx": 54,
+   "pali": "‘‘Dassanaṃ bhāvitattānaṃ, yo hāpeti upāsako;",
+   "zh": "“这位近事男，舍弃了觐见已修习者，”",
+   "type": "verse"
+  },
+  {
+   "idx": 55,
+   "pali": "Savanañca ariyadhammānaṃ, adhisīle na sikkhati.",
+   "zh": "听闻圣法，却不修学增上戒。",
+   "type": "verse"
+  },
+  {
+   "idx": 56,
+   "pali": "‘‘Appasādo ca bhikkhūsu, bhiyyo bhiyyo pavaḍḍhati;",
+   "zh": "“于诸比丘的不净信，日益增长；",
+   "type": "verse"
+  },
+  {
+   "idx": 57,
+   "pali": "Upārambhakacitto ca, saddhammaṃ sotumicchati.",
+   "zh": "“怀挑剔之心，却欲听闻正法。”",
+   "type": "verse"
+  },
+  {
+   "idx": 58,
+   "pali": "‘‘Ito ca bahiddhā aññaṃ, dakkhiṇeyyaṃ gavesati;",
+   "zh": "“于此之外，还去寻求其他应供养者；",
+   "type": "verse"
+  },
+  {
+   "idx": 59,
+   "pali": "Tattheva ca pubbakāraṃ, yo karoti upāsako.",
+   "zh": "凡近事男，若于彼（外道）处先行供养，",
+   "type": "verse"
+  },
+  {
+   "idx": 60,
+   "pali": "‘‘Ete kho parihāniye, satta dhamme sudesite;",
+   "zh": "“这些是导致衰退的七法，已为善说。",
+   "type": "verse"
+  },
+  {
+   "idx": 61,
+   "pali": "Upāsako sevamāno, saddhammā parihāyati.",
+   "zh": "近事男若奉行这些，便会从正法衰退。",
+   "type": "verse"
+  },
+  {
+   "idx": 62,
+   "pali": "‘‘Dassanaṃ bhāvitattānaṃ, yo na hāpeti upāsako;",
+   "zh": "“近事男不舍弃对已修习者的拜见。",
+   "type": "verse"
+  },
+  {
+   "idx": 63,
+   "pali": "Savanañca ariyadhammānaṃ, adhisīle ca sikkhati.",
+   "zh": "他听闻圣法，于增上戒修学。",
+   "type": "verse"
+  },
+  {
+   "idx": 64,
+   "pali": "‘‘Pasādo cassa bhikkhūsu, bhiyyo bhiyyo pavaḍḍhati;",
+   "zh": "“他对诸比丘的净信，不断增长；",
+   "type": "verse"
+  },
+  {
+   "idx": 65,
+   "pali": "Anupārambhacitto ca, saddhammaṃ sotumicchati.",
+   "zh": "以无恼害之心，希求听闻正法。",
+   "type": "verse"
+  },
+  {
+   "idx": 66,
+   "pali": "‘‘Na ito bahiddhā aññaṃ, dakkhiṇeyyaṃ gavesati;",
+   "zh": "“他不向外寻求其他应供养者，",
+   "type": "verse"
+  },
+  {
+   "idx": 67,
+   "pali": "Idheva ca pubbakāraṃ, yo karoti upāsako.",
+   "zh": "近事男正是如此，于此处先行供养。",
+   "type": "verse"
+  },
+  {
+   "idx": 68,
+   "pali": "‘‘Ete kho aparihāniye, satta dhamme sudesite;",
+   "zh": "“这七种不衰退的法，已善为宣说，",
+   "type": "verse"
+  },
+  {
+   "idx": 69,
+   "pali": "Upāsako sevamāno, saddhammā na parihāyatī’’ti. navamaṃ;",
+   "zh": "近事男若如是奉行，便不会从正法退失。”第九经。",
+   "type": "verse"
+  },
+  {
+   "idx": 70,
+   "pali": "10. Vipattisuttaṃ",
+   "zh": "10. [[vipattisutta|失坏经]]"
+  },
+  {
+   "idx": 71,
+   "pali": "Sattimā, bhikkhave, upāsakassa vipattiyo…pe… sattimā, bhikkhave, upāsakassa sampadā…pe…. Dasamaṃ.",
+   "zh": "诸比丘，有七种近事男的失坏……（中略）……诸比丘，有七种近事男的成就……（中略）……。第十经。",
+   "n": "30"
+  },
+  {
+   "idx": 72,
+   "pali": "11. Parābhavasuttaṃ",
+   "zh": "11. [[parābhavasutta|败亡经]]"
+  },
+  {
+   "idx": 73,
+   "pali": "‘‘Sattime, bhikkhave, upāsakassa parābhavā…pe… sattime, bhikkhave, upāsakassa sambhavā. Katame satta? Bhikkhudassanaṃ na hāpeti, saddhammassavanaṃ nappamajjati, adhisīle sikkhati, pasādabahulo hoti, bhikkhūsu theresu ceva navesu ca majjhimesu ca anupārambhacitto dhammaṃ suṇāti na randhagavesī, na ito bahiddhā dakkhiṇeyyaṃ gavesati, idha ca pubbakāraṃ karoti. Ime kho, bhikkhave, satta upāsakassa sambhavāti.",
+   "zh": "“诸比丘，有七法能令近事男走向衰败……诸比丘，有七法能令近事男走向兴盛。哪七法？不舍离见比丘；不轻忽听闻正法；于增上戒修学；多具净信；于诸比丘长者、新学者及中等者，皆以无轻蔑心听法，不寻其过失；不于此处之外别求应供养者，而唯于此作先行供养。诸比丘，这便是近事男的七种兴盛。",
+   "n": "31",
+   "type": "verse"
+  },
+  {
+   "idx": 74,
+   "pali": "‘‘Dassanaṃ bhāvitattānaṃ, yo hāpeti upāsako;",
+   "zh": "“若近事男，舍弃觐见诸已修习者，",
+   "type": "verse"
+  },
+  {
+   "idx": 75,
+   "pali": "Savanañca ariyadhammānaṃ, adhisīle na sikkhati.",
+   "zh": "既已舍弃圣法，却不修学增上戒。",
+   "type": "verse"
+  },
+  {
+   "idx": 76,
+   "pali": "‘‘Appasādo ca bhikkhūsu, bhiyyo bhiyyo pavaḍḍhati;",
+   "zh": "“对诸比丘的不净信，日益增长；",
+   "type": "verse"
+  },
+  {
+   "idx": 77,
+   "pali": "Upārambhakacitto ca, saddhammaṃ sotumicchati.",
+   "zh": "心怀责难，却想听闻正法。",
+   "type": "verse"
+  },
+  {
+   "idx": 78,
+   "pali": "‘‘Ito ca bahiddhā aññaṃ, dakkhiṇeyyaṃ gavesati;",
+   "zh": "“于此处之外，另求余所应供养者；",
+   "type": "verse"
+  },
+  {
+   "idx": 79,
+   "pali": "Tattheva ca pubbakāraṃ, yo karoti upāsako.",
+   "zh": "若有近事男，于彼处先行供养。",
+   "type": "verse"
+  },
+  {
+   "idx": 80,
+   "pali": "‘‘Ete kho parihāniye, satta dhamme sudesite;",
+   "zh": "“此即已善说的七种衰退法；",
+   "type": "verse"
+  },
+  {
+   "idx": 81,
+   "pali": "Upāsako sevamāno, saddhammā parihāyati.",
+   "zh": "近事男若奉行这些，便从正法退失。",
+   "type": "verse"
+  },
+  {
+   "idx": 82,
+   "pali": "‘‘Dassanaṃ bhāvitattānaṃ, yo na hāpeti upāsako;",
+   "zh": "“近事男若不失去觐见已修习者的机会，",
+   "type": "verse"
+  },
+  {
+   "idx": 83,
+   "pali": "Savanañca ariyadhammānaṃ, adhisīle ca sikkhati.",
+   "zh": "听闻圣法，并修学增上戒。",
+   "type": "verse"
+  },
+  {
+   "idx": 84,
+   "pali": "‘‘Pasādo cassa bhikkhūsu, bhiyyo bhiyyo pavaḍḍhati;",
+   "zh": "“他对诸比丘的净信，日渐增长、愈加深厚；",
+   "type": "verse"
+  },
+  {
+   "idx": 85,
+   "pali": "Anupārambhacitto ca, saddhammaṃ sotumicchati.",
+   "zh": "其心无有挑剔，唯愿听闻正法。",
+   "type": "verse"
+  },
+  {
+   "idx": 86,
+   "pali": "‘‘Na ito bahiddhā aññaṃ, dakkhiṇeyyaṃ gavesati;",
+   "zh": "“他不在此之外，另寻其他应供养者；",
+   "type": "verse"
+  },
+  {
+   "idx": 87,
+   "pali": "Idheva ca pubbakāraṃ, yo karoti upāsako.",
+   "zh": "近事男若于此处，行先行供养。",
+   "type": "verse"
+  },
+  {
+   "idx": 88,
+   "pali": "‘‘Ete kho aparihāniye, satta dhamme sudesite;",
+   "zh": "“这便是善说的七种不退法；",
+   "type": "verse"
+  },
+  {
+   "idx": 89,
+   "pali": "Upāsako sevamāno, saddhammā na parihāyatī’’ti. ekādasamaṃ;",
+   "zh": "近事男如是奉行，则于正法不退失。”第十一经",
+   "type": "verse"
+  },
+  {
+   "idx": 90,
+   "pali": "Vajjisattakavaggo tatiyo.",
+   "zh": "跋耆七法品·第三"
+  },
+  {
+   "idx": 91,
+   "pali": "Tassuddānaṃ –",
+   "zh": "其摄颂："
+  },
+  {
+   "idx": 92,
+   "pali": "Sāranda -vassakāro ca, tisattakāni bhikkhukā;",
+   "zh": "沙兰达、[[vassakāra|瓦萨咖拉]]，三组七法、诸比丘；",
+   "type": "verse"
+  },
+  {
+   "idx": 93,
+   "pali": "Bodhisaññā dve ca hāni, vipatti ca parābhavoti.",
+   "zh": "菩提想、二种衰退，以及失坏与毁灭",
+   "type": "verse"
+  }
+ ]
+}

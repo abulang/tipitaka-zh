@@ -1,0 +1,444 @@
+{
+ "nik": "MN",
+ "uid": 114,
+ "title": "应亲近不应亲近经",
+ "segs": [
+  {
+   "idx": 58,
+   "pali": "Evaṃ me sutaṃ – ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Tatra kho bhagavā bhikkhū āmantesi – ‘‘bhikkhavo’’ti. ‘‘Bhadante’’ti te bhikkhū bhagavato paccassosuṃ. Bhagavā etadavoca – ‘‘sevitabbāsevitabbaṃ vo, bhikkhave, dhammapariyāyaṃ desessāmi. Taṃ suṇātha, sādhukaṃ manasi karotha; bhāsissāmī’’ti. ‘‘Evaṃ, bhante’’ti kho te bhikkhū bhagavato paccassosuṃ. Bhagavā etadavoca –",
+   "zh": "如是我闻：一时，世尊住在舍卫城祇树给孤独园。于其处，世尊对诸比丘说：“诸比丘。”“尊者。”那些比丘回应世尊。世尊说：“诸比丘，我将为你们开示应亲近与不应亲近的法门。你们要仔细听，善作意，我要说了。”“好的，尊者。”那些比丘回答世尊。世尊便这样说道：",
+   "status": "live",
+   "seq": 1,
+   "zh_before": "如是我闻：有一次，世尊住在舍卫城的祇树给孤独园。那时，世尊对比丘们说：“比丘们。”那些比丘回答世尊说：“尊者。”世尊这样说道：“比丘们，我将为你们开示‘应亲近与不应亲近’的法门。你们要仔细听，好好用心思惟，我要说了。”“好的，尊者。”那些比丘回答世尊。世尊这样说道：",
+   "fix_note": "20260706:全库体例统一(用户拍板)— 归依→皈依 / 比丘们→诸比丘(纯风格变体,同一巴利词两译混用,非语法区分)",
+   "n": "109"
+  },
+  {
+   "idx": 59,
+   "pali": "‘‘Kāyasamācāraṃpāhaṃ , bhikkhave, duvidhena vadāmi – sevitabbampi, asevitabbampi; tañca aññamaññaṃ kāyasamācāraṃ. Vacīsamācāraṃpāhaṃ, bhikkhave, duvidhena vadāmi – sevitabbampi, asevitabbampi; tañca aññamaññaṃ vacīsamācāraṃ. Manosamācāraṃpāhaṃ, bhikkhave, duvidhena vadāmi – sevitabbampi, asevitabbampi; tañca aññamaññaṃ manosamācāraṃ. Cittuppādaṃpāhaṃ, bhikkhave, duvidhena vadāmi – sevitabbampi, asevitabbampi; tañca aññamaññaṃ cittuppādaṃ. Saññāpaṭilābhaṃpāhaṃ, bhikkhave, duvidhena vadāmi – sevitabbampi , asevitabbampi; tañca aññamaññaṃ saññāpaṭilābhaṃ. Diṭṭhipaṭilābhaṃpāhaṃ, bhikkhave, duvidhena vadāmi – sevitabbampi, asevitabbampi; tañca aññamaññaṃ diṭṭhipaṭilābhaṃ. Attabhāvapaṭilābhaṃpāhaṃ, bhikkhave, duvidhena vadāmi – sevitabbampi, asevitabbampi; tañca aññamaññaṃ attabhāvapaṭilābha’’nti.",
+   "zh": "“诸比丘，我说身行有两种：有应亲近者，有不应亲近者，而此二者是不同的身行。诸比丘，我说语行有两种：有应亲近者，有不应亲近者，而此二者是不同的语行。诸比丘，我说意行有两种：有应亲近者，有不应亲近者，而此二者是不同的意行。诸比丘，我说心生起有两种：有应亲近者，有不应亲近者，而此二者是不同的心生起。诸比丘，我说想之获得有两种：有应亲近者，有不应亲近者，而此二者是不同的想之获得。诸比丘，我说见之获得有两种：有应亲近者，有不应亲近者，而此二者是不同的见之获得。诸比丘，我说个体之获得有两种：有应亲近者，有不应亲近者，而此二者是不同的个体之获得。”",
+   "status": "live",
+   "seq": 2,
+   "zh_before": "“比丘们，我说身行有两种：有应亲近的，也有不应亲近的；而且这两者是彼此不同的身行。比丘们，我说语行有两种：有应亲近的，也有不应亲近的；而且这两者是彼此不同的语行。比丘们，我说意行有两种：有应亲近的，也有不应亲近的；而且这两者是彼此不同的意行。比丘们，我说心的生起有两种：有应亲近的，也有不应亲近的；而且这两者是彼此不同的心生起。比丘们，我说想的获得有两种：有应亲近的，也有不应亲近的；而且这两者是彼此不同的想的获得。比丘们，我说见的获得有两种：有应亲近的，也有不应亲近的；而且这两者是彼此不同的见的获得。比丘们，我说个体的获得有两种：有应亲近的，也有不应亲近的；而且这两者是彼此不同的个体的获得。”",
+   "fix_note": "20260706:全库体例统一(用户拍板)— 归依→皈依 / 比丘们→诸比丘(纯风格变体,同一巴利词两译混用,非语法区分)"
+  },
+  {
+   "idx": 60,
+   "pali": "Evaṃ vutte āyasmā sāriputto bhagavantaṃ etadavoca – ‘‘imassa kho ahaṃ, bhante, bhagavatā saṃkhittena bhāsitassa, vitthārena atthaṃ avibhattassa, evaṃ vitthārena atthaṃ ājānāmi.",
+   "zh": "如是说已，具寿舍利弗对世尊这样说：“尊者，对于世尊如此简略宣说而未广分别义的，我如是详细理解其义。",
+   "status": "live",
+   "seq": 3
+  },
+  {
+   "idx": 83,
+   "pali": "‘‘‘Kāyasamācāraṃpāhaṃ, bhikkhave, duvidhena vadāmi – sevitabbampi, asevitabbampi; tañca aññamaññaṃ kāyasamācāra’nti – iti kho panetaṃ vuttaṃ bhagavatā. Kiñcetaṃ paṭicca vuttaṃ? Yathārūpaṃ, bhante, kāyasamācāraṃ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti evarūpo kāyasamācāro na sevitabbo; yathārūpañca kho, sāriputta, kāyasamācāraṃ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti – evarūpo kāyasamācāro sevitabbo.",
+   "zh": "“诸比丘，我说身行有两种：有应亲近者，有不应亲近者，而此二者是不同的身行。这是世尊所说过的话。依何因缘而说此语呢？尊者，若人亲近一种身行，令不善法增长、善法衰退，则此身行不应亲近；尊者，若人亲近一种身行，令不善法衰退、善法增长，则此身行应当亲近。”",
+   "status": "live",
+   "seq": 4,
+   "zh_before": "“比丘们，我说身行有两种：有应亲近的，也有不应亲近的；而且这两种身行是彼此不同的。这是我所说过的话。依凭什么因缘而这样说呢？舍利弗，那种在亲近之后，不善法增长、善法衰退的身行，像这样的身行不应亲近；而舍利弗，那种在亲近之后，不善法衰退、善法增长的身行，像这样的身行则应亲近。”",
+   "fix_note": "20260706:全库体例统一(用户拍板)— 归依→皈依 / 比丘们→诸比丘(纯风格变体,同一巴利词两译混用,非语法区分)",
+   "audit_note": "20260706-zhipu90:语义扫描agent裁决-keep:当前 zh 已有“这是我所说过的话”，正对应 iti kho panetaṃ vuttaṃ mayā，问题不存在。",
+   "n": "110"
+  },
+  {
+   "idx": 62,
+   "pali": "‘‘Kathaṃrūpaṃ, bhante, kāyasamācāraṃ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti? Idha, bhante, ekacco pāṇātipātī hoti luddo lohitapāṇi hatappahate niviṭṭho adayāpanno pāṇabhūtesu; adinnādāyī kho pana hoti, yaṃ taṃ parassa paravittūpakaraṇaṃ gāmagataṃ vā araññagataṃ vā taṃ adinnaṃ theyyasaṅkhātaṃ ādātā hoti; kāmesumicchācārī kho pana hoti, yā tā māturakkhitā piturakkhitā mātāpiturakkhitā bhāturakkhitā bhaginirakkhitā ñātirakkhitā gottarakkhitā dhammarakkhitā sassāmikā saparidaṇḍā antamaso mālāguḷaparikkhittāpi tathārūpāsu cārittaṃ āpajjitā hoti – evarūpaṃ, bhante, kāyasamācāraṃ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti.",
+   "zh": "“尊者，亲近怎样的身行，会导致不善法增长、善法衰退呢？尊者，在此，有人杀生，残忍，手沾鲜血，嗜杀成性，对众生毫无悲悯。他又不与而取，凡是他人的财物，或在村落，或在山林，以盗心取走未予之物。他又行邪淫，凡女子为母亲守护、父亲守护、父母守护、兄弟守护、姊妹守护、亲族守护、宗族守护、法守护、已有丈夫、受刑罚守护，乃至已戴上花环订有婚约者，他仍与之交会。尊者，亲近如此身行，便令不善法增长，善法衰退。”",
+   "status": "live",
+   "seq": 5,
+   "n": "111"
+  },
+  {
+   "idx": 63,
+   "pali": "‘‘Kathaṃrūpaṃ , bhante, kāyasamācāraṃ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti? Idha, bhante, ekacco pāṇātipātaṃ pahāya pāṇātipātā paṭivirato hoti nihitadaṇḍo nihitasattho, lajjī dayāpanno sabbapāṇabhūtahitānukampī viharati; adinnādānaṃ pahāya adinnādānā paṭivirato hoti, yaṃ taṃ parassa paravittūpakaraṇaṃ gāmagataṃ vā araññagataṃ vā taṃ nādinnaṃ theyyasaṅkhātaṃ ādātā hoti; kāmesumicchācāraṃ pahāya kāmesumicchācārā paṭivirato hoti, yā tā māturakkhitā piturakkhitā mātāpiturakkhitā bhāturakkhitā bhaginirakkhitā ñātirakkhitā gottarakkhitā dhammarakkhitā sassāmikā saparidaṇḍā antamaso mālāguḷaparikkhittāpi tathārūpāsu na cārittaṃ āpajjitā hoti – evarūpaṃ, bhante, kāyasamācāraṃ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti. ‘Kāyasamācāraṃpāhaṃ, bhikkhave, duvidhena vadāmi – sevitabbampi, asevitabbampi; tañca aññamaññaṃ kāyasamācāra’nti – iti yaṃ taṃ vuttaṃ bhagavatā idametaṃ paṭicca vuttaṃ.",
+   "zh": "“尊者，亲近怎样的身行，会导致不善法衰退、善法增长呢？尊者，在此，有人舍断杀生，远离杀生，放下棍棒与刀剑，常怀惭耻，具足悲悯，为利益和慈悯一切众生而安住。他舍断不与取，远离不与取，凡他人在村落或山林的财物，不以盗心取走未予之物。他舍断邪淫，远离邪淫，凡女子为母亲守护、父亲守护、父母守护、兄弟守护、姊妹守护、亲族守护、宗族守护、法守护、已有丈夫、受刑罚守护，乃至已戴上花环订有婚约者，他皆不侵犯。尊者，亲近如此身行，便令不善法衰退，善法增长。世尊所说：‘诸比丘，我说身行有两种——有应亲近，有不应亲近，二者是彼此不同的身行。’即依于此而说。”",
+   "status": "live",
+   "seq": 6,
+   "zh_before": "“尊者，亲近什么样的身行，会导致不善法衰退，善法增长呢？尊者，在此，有某人舍断杀生，远离杀生，他放下了棍棒、放下了刀剑，有惭耻心、有悲悯心，安住在对一切众生的利益和慈悯之中；他舍断不与取，远离不与取，对于别人在村落或山林中所有的财物，他没有以盗取之心拿走任何没给的东西；他舍断邪淫，远离邪淫，对于受母亲保护、受父亲保护、受父母保护、受兄弟保护、受姊妹保护、受亲族保护、受宗族保护、受法保护、已有丈夫、已受刑罚守护，甚至是已戴上花环订婚的女子，他都不侵犯她们。尊者，亲近这样的身行，就会导致不善法衰退，善法增长。世尊所说的：‘比丘们，我说身行有两种：有应亲近的，也有不应亲近的；而且这两者是彼此不同的身行。’这就是依于此而说的。",
+   "fix_note": "20260706:全库体例统一(用户拍板)— 归依→皈依 / 比丘们→诸比丘(纯风格变体,同一巴利词两译混用,非语法区分)"
+  },
+  {
+   "idx": 86,
+   "pali": "‘‘Vacīsamācāraṃpāhaṃ, bhikkhave, duvidhena vadāmi …pe… manosamācāraṃpāhaṃ, bhikkhave, duvidhena vadāmi…pe… cittuppādaṃpāhaṃ, bhikkhave, duvidhena vadāmi…pe… saññāpaṭilābhaṃpāhaṃ, bhikkhave, duvidhena vadāmi…pe… diṭṭhipaṭilābhaṃpāhaṃ, bhikkhave, duvidhena vadāmi…pe….",
+   "zh": "“诸比丘，我说语行有两种。……我说意行有两种。……我说心的生起有两种。……我说想的获得有两种。……我说见的获得有两种。……”",
+   "status": "live",
+   "seq": 7,
+   "zh_before": "“比丘们，我说语行有两种……（中略）……我说意行有两种……（中略）……我说心的生起有两种……（中略）……我说想的获得有两种……（中略）……我说见的获得有两种……（中略）……”",
+   "fix_note": "20260706:全库体例统一(用户拍板)— 归依→皈依 / 比丘们→诸比丘(纯风格变体,同一巴利词两译混用,非语法区分)"
+  },
+  {
+   "idx": 65,
+   "pali": "‘‘Kathaṃrūpaṃ, bhante, vacīsamācāraṃ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti? Idha, bhante, ekacco musāvādī hoti, sabhāgato vā parisāgato vā ñātimajjhagato vā pūgamajjhagato vā rājakulamajjhagato vā abhinīto sakkhipuṭṭho – ‘ehambho purisa, yaṃ jānāsi taṃ vadehī’ti so ajānaṃ vā āha – ‘jānāmī’ti, jānaṃ vā āha – ‘na jānāmī’ti; apassaṃ vā āha – ‘passāmī’ti, passaṃ vā āha – ‘na passāmī’ti – iti attahetu vā parahetu vā āmisakiñcikkhahetu vā sampajānamusā bhāsitā hoti; pisuṇavāco kho pana hoti, ito sutvā amutra akkhātā imesaṃ bhedāya, amutra vā sutvā imesaṃ akkhātā amūsaṃ bhedāya – iti samaggānaṃ vā bhettā, bhinnānaṃ vā anuppadātā, vaggārāmo, vaggarato, vagganandī, vaggakaraṇiṃ vācaṃ bhāsitā hoti; pharusavāco kho pana hoti, yā sā vācā kaṇḍakā kakkasā pharusā parakaṭukā parābhisajjanī kodhasāmantā asamādhisaṃvattanikā, tathārūpiṃ vācaṃ bhāsitā hoti; samphappalāpī kho pana hoti akālavādī abhūtavādī anatthavādī adhammavādī avinayavādī, anidhānavatiṃ vācaṃ bhāsitā hoti akālena anapadesaṃ apariyantavatiṃ anatthasaṃhitaṃ – evarūpaṃ, bhante, vacīsamācāraṃ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti.",
+   "zh": "“尊者，亲近怎样的语行，会导致不善法增长、善法衰退呢？尊者，在此，有人是妄语者。当他被带到众人中、团体中、亲族中、行会中或王族中，作为证人被提问：‘来，请说出你所知道的。’他不知的，却说‘我知道’；知道的，却说‘我不知道’。未见到的，却说‘我见到’；见到的，却说‘我没见到’。如此，为了自身的原因，或为了他人的原因，或为了少许物质利益，他故意说妄语。他又是离间语者：从这里听到，便为了离间这些人而到那边去说；从那边听到，便为了离间那些人而到这边来说。他就是这样破坏和睦者、挑拨离间者；他喜好分歧、乐于分歧、爱乐分歧，说制造分歧的话。他又是粗恶语者：他说那种刺人、粗暴、无礼，刺痛他人、激怒他人，趋向愤怒，不能带来定的话。他又是绮语者：说话不合时宜，说不真实的话，说无意义的话，说非法的话，说非律的话。他说那种无价值、不合时宜、无根据、不节制、与利益不相关的话。尊者，亲近这样的语行，不善法便会增长，善法便会衰退。”",
+   "status": "live",
+   "audit_note": "“杂秽语者”对应巴利 'samphappalāpī'，此词意为“绮语者/废话者/无益语者”，汉传标准译为“绮语”而非“杂秽语”。“杂秽语”易令读者误解为污秽不堪之语，但 samphappalāpa 的核心义是无意义、无益处的废话，与“粗恶语（pharusavācā）”不同。建议改为“绮语者”。其余内容（妄语、离间语、粗恶语的展开描述）译文准确，无义错。",
+   "verdict": "小修",
+   "seq": 8,
+   "zh_before": "大德，亲近什么样的语行，会导致不善法增长，善法衰退呢？大德，在此，有人是妄语者。当他被带到众人中、团体中、亲族中、行会中或王族中，被作为证人提问：‘喂，来，说你所知道的吧。’他不知道的，却说‘我知道’；知道的，却说‘我不知道’。没看见的，却说‘我看见了’；看见的，却说‘我没看见’。像这样，为了自己的原因，或为了他人的原因，或为了少许物质利益的原因，他故意说妄语。他还是个离间语者，在这里听到，就为了离间这些人而到那边去说；或者在那边听到，就为了离间那些人而到这边来说。他就是这样，破坏和睦的人，或挑拨离间的人，喜欢分歧，乐于分歧，爱乐分歧，说制造分歧的话。他还是个粗恶语者，他说那种刺人、粗暴、无礼，刺痛他人、激怒他人，趋向愤怒，不能带来定的话。他还是个杂秽语者，说话不合时宜，说不真实的话，说没有意义的话，说非法的话，说非律的话。他说那种没价值、不合时宜、没有根据、没有节制、与利益不相关的话。大德，亲近这样的语行，不善法会增长，善法会衰退。",
+   "auto_corrected": true,
+   "fix_note": "“杂秽语者”改为“绮语者”，符合汉传标准术语。",
+   "n": "112"
+  },
+  {
+   "idx": 66,
+   "pali": "‘‘Kathaṃrūpaṃ, bhante, vacīsamācāraṃ sevato akusalā dhammā parihāyanti , kusalā dhammā abhivaḍḍhanti? Idha, bhante, ekacco musāvādaṃ pahāya musāvādā paṭivirato hoti sabhāgato vā parisāgato vā ñātimajjhagato vā pūgamajjhagato vā rājakulamajjhagato vā abhinīto sakkhipuṭṭho – ‘ehambho purisa, yaṃ jānāsi taṃ vadehī’ti so ajānaṃ vā āha – ‘na jānāmī’ti, jānaṃ vā āha – ‘jānāmī’ti, apassaṃ vā āha – ‘na passāmī’ti, passaṃ vā āha – ‘passāmī’ti – iti attahetu vā parahetu vā āmisakiñcikkhahetu vā na sampajānamusā bhāsitā hoti; pisuṇaṃ vācaṃ pahāya pisuṇāya vācāya paṭivirato hoti, ito sutvā na amutra akkhātā imesaṃ bhedāya, amutra vā sutvā na imesaṃ akkhātā amūsaṃ bhedāya – iti bhinnānaṃ vā sandhātā sahitānaṃ vā anuppadātā samaggārāmo samaggarato samagganandī samaggakaraṇiṃ vācaṃ bhāsitā hoti; pharusaṃ vācaṃ pahāya pharusāya vācāya paṭivirato hoti, yā sā vācā nelā kaṇṇasukhā pemanīyā hadayaṅgamā porī bahujanakantā bahujanamanāpā tathārūpiṃ vācaṃ bhāsitā hoti; samphappalāpaṃ pahāya samphappalāpā paṭivirato hoti kālavādī bhūtavādī atthavādī dhammavādī vinayavādī, nidhānavatiṃ vācaṃ bhāsitā hoti kālena sāpadesaṃ pariyantavatiṃ atthasaṃhitaṃ – evarūpaṃ, bhante, vacīsamācāraṃ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti. ‘Vacīsamācāraṃpāhaṃ, bhikkhave, duvidhena vadāmi – sevitabbampi, asevitabbampi; tañca aññamaññaṃ vacīsamācāra’nti – iti yaṃ taṃ vuttaṃ bhagavatā idametaṃ paṭicca vuttaṃ.",
+   "zh": "“尊者，亲近怎样的语行，能使不善法衰退、善法增长呢？尊者，在此，有人舍离妄语，远离妄语。当他被带到众人之中、团体之中、亲族之中、行会之中或王族之中，作为证人被问：‘来，朋友，说说你所知道的。’不知时，他便说“我不知道”；知时，便说“我知道”。未见时，他便说“我没看见”；见时，便说“我看见了”。如此，他不为自己、不为他人，也不为些许物质利益而故意说妄语。他舍离离间语，远离离间语。在此处听到，不会为了离间这些人而到彼处去说；在彼处听到，不会为了离间那些人而到此处来说。如此，他令分裂者重归于好，令和睦者更加增进。他喜爱和合，乐于和合，爱乐和合，说促成和合的话语。他舍离粗恶语，远离粗恶语。他说那种文雅、悦耳、可爱、深入人心、彬彬有礼、为众人所喜爱、令众人欢喜的话语。他舍离绮语，远离绮语。他说适时的话语，说真实的话语，说有意义的话语，说正法的话语，说戒律的话语。他说那种有价值、适时、有根据、有节制、与利益相关的话语。尊者，亲近这样的语行，不善法便会衰退，善法便会增长。“诸比丘，对于语行，我也说有两种：应亲近的与不应亲近的；而且这两种语行彼此不同。”——世尊这样说。这是依此而说的。”",
+   "status": "live",
+   "seq": 9,
+   "zh_before": "大德，亲近什么样的语行，会导致不善法衰退，善法增长呢？大德，在此，有人舍断了妄语，远离了妄语。当他被带到众人中、团体中、亲族中、行会中或王族中，被作为证人提问：‘喂，来，说你所知道的吧。’他不知道的，就说‘我不知道’；知道的，就说‘我知道’。没看见的，就说‘我没看见’；看见的，就说‘我看见了’。像这样，他不会为了自己的原因、或为了他人的原因、或为了少许物质利益的原因而故意说妄语。他舍断了离间语，远离了离间语。在这里听到，不会为了离间这些人而到那边去说；或者在那边听到，不会为了离间那些人而到这边来说。他就是这样，使分裂者和好，使和睦者增进。他喜欢和合，乐于和合，爱乐和合，说制造和合的话。他舍断了粗恶语，远离了粗恶语。他说那种文雅、顺耳、可爱、深入人心、有礼、为大众所喜爱、令大众欢喜的话。他舍断了杂秽语，远离了杂秽语。他说话合乎时宜，说真实的话，说有意义的话，说法的话，说律的话。他说那种有价值、合乎时宜、有根据、有节制、与利益相关的话。大德，亲近这样的语行，不善法会衰退，善法会增长。‘比丘们，对于语行，我也说它有两种：有应亲近的，也有不应亲近的；而且这两种语行是彼此不同的。’——世尊这样说，就是基于这个道理。",
+   "fix_note": "20260706:全库体例统一(用户拍板)— 归依→皈依 / 比丘们→诸比丘(纯风格变体,同一巴利词两译混用,非语法区分)",
+   "audit_note": "20260706-zhipu90:语义扫描agent裁决-keep:当前 zh “使分裂者和好，使和睦者增进”正对应 bhinnānaṃ sandhātā、sahitānaṃ anuppadātā，未反置。"
+  },
+  {
+   "idx": 67,
+   "pali": "‘‘‘Manosamācāraṃpāhaṃ, bhikkhave, duvidhena vadāmi – sevitabbampi, asevitabbampi; tañca aññamaññaṃ manosamācāra’nti – iti kho panetaṃ vuttaṃ bhagavatā. Kiñcetaṃ paṭicca vuttaṃ? Yathārūpaṃ, bhante, manosamācāraṃ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti evarūpo manosamācāro na sevitabbo; yathārūpañca kho, bhante, manosamācāraṃ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti evarūpo manosamācāro sevitabbo.",
+   "zh": "“诸比丘，对于意行，我也说它有两种：有所当亲近，有所不当亲近；二者彼此不同。”——这是世尊所说。那么，世尊是依于什么而这么说的呢？尊者，若亲近某种意行，会导致不善法增长、善法衰退，则此意行不当亲近。若亲近某种意行，会导致不善法衰退、善法增长，则此意行应当亲近。",
+   "status": "live",
+   "seq": 10,
+   "zh_before": "“比丘们，对于意行，我也说它有两种：有应亲近的，也有不应亲近的；而且这两种意行是彼此不同的。”——世尊这样说过了。但这是基于什么而说的呢？大德，如果亲近某种意行会导致不善法增长，善法衰退，那么这种意行就不应亲近。而如果亲近某种意行会导致不善法衰退，善法增长，那么这种意行就应亲近。",
+   "fix_note": "20260706:全库体例统一(用户拍板)— 归依→皈依 / 比丘们→诸比丘(纯风格变体,同一巴利词两译混用,非语法区分)"
+  },
+  {
+   "idx": 68,
+   "pali": "‘‘Kathaṃrūpaṃ, bhante, manosamācāraṃ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti? Idha, bhante, ekacco abhijjhālu hoti, yaṃ taṃ parassa paravittūpakaraṇaṃ taṃ abhijjhātā hoti – ‘aho vata yaṃ parassa taṃ mamassā’ti; byāpannacitto kho pana hoti paduṭṭhamanasaṅkappo – ‘ime sattā haññantu vā vajjhantu vā ucchijjantu vā vinassantu vā mā vā ahesu’nti – evarūpaṃ, bhante, manosamācāraṃ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti.",
+   "zh": "“尊者，亲近怎样的意行，会令不善法增长、善法衰退呢？尊者，在此，有人心怀贪欲。对于他人的财物与器具，他生起这样的贪念：‘啊，要是别人的这些东西归我所有，那该多好！’他又心怀嗔恚，生起恶意的想法：‘愿这些有情被杀害，或被处死，或被消灭，或被毁灭，但愿他们不复存在。’尊者，亲近这样的意行，不善法便会增长，善法便会衰退。”",
+   "status": "live",
+   "seq": 11,
+   "n": "113"
+  },
+  {
+   "idx": 69,
+   "pali": "‘‘Kathaṃrūpaṃ, bhante, manosamācāraṃ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti? Idha, bhante, ekacco anabhijjhālu hoti, yaṃ taṃ parassa paravittūpakaraṇaṃ taṃ nābhijjhātā hoti – ‘aho vata yaṃ parassa taṃ mamassā’ti; abyāpannacitto kho pana hoti appaduṭṭhamanasaṅkappo – ‘ime sattā averā abyābajjhā anīghā sukhī attānaṃ pariharantū’ti – evarūpaṃ, bhante, manosamācāraṃ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti. ‘Manosamācāraṃpāhaṃ, bhikkhave, duvidhena vadāmi – sevitabbampi, asevitabbampi; tañca aññamaññaṃ manosamācāra’nti – iti yaṃ taṃ vuttaṃ bhagavatā idametaṃ paṭicca vuttaṃ.",
+   "zh": "“尊者，亲近怎样的意行，会令不善法衰退、善法增长呢？尊者，在此，有人无有贪欲。对于他人的财物与器具，他不会生起这样的贪念：‘啊，要是别人的这些东西归我所有，那该多好！’他又心怀无嗔，生起善意的想法：‘愿这些有情无怨、无恼、无忧，安乐自住。’尊者，亲近这样的意行，不善法便会衰退，善法便会增长。‘诸比丘，对于意行，我也说有两种：有应亲近的，也有不应亲近的；而且这两种意行彼此不同。’——世尊这样说，正是基于这个道理。”",
+   "status": "live",
+   "seq": 12,
+   "zh_before": "大德，亲近什么样的意行，会导致不善法衰退，善法增长呢？大德，在此，有人是没有贪欲的。对于别人拥有的财产和器具，他不会生起贪念：‘啊，真希望别人的东西变成我的。’他也没有嗔恚心，有善的念头：‘愿这些有情无怨恨、无伤害、无忧恼、保持安乐地生活。’大德，亲近这样的意行，不善法会衰退，善法会增长。‘比丘们，对于意行，我也说它有两种：有应亲近的，也有不应亲近的；而且这两种意行是彼此不同的。’——世尊这样说，就是基于这个道理。",
+   "fix_note": "20260706:全库体例统一(用户拍板)— 归依→皈依 / 比丘们→诸比丘(纯风格变体,同一巴利词两译混用,非语法区分)"
+  },
+  {
+   "idx": 70,
+   "pali": "‘‘‘Cittuppādaṃpāhaṃ, bhikkhave, duvidhena vadāmi – sevitabbampi, asevitabbampi; tañca aññamaññaṃ cittuppāda’nti – iti kho panetaṃ vuttaṃ bhagavatā. Kiñcetaṃ paṭicca vuttaṃ? Yathārūpaṃ, bhante, cittuppādaṃ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti evarūpo cittuppādo na sevitabbo; yathārūpañca kho, bhante, cittuppādaṃ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti evarūpo cittuppādo sevitabbo.",
+   "zh": "“‘诸比丘，对于心的生起，我也说有两种：有应亲近的，也有不应亲近的；而且这两种心的生起彼此不同。’这是世尊所说。世尊是基于什么原因而这样说的呢？尊者，若亲近某种心的生起，会导致不善法增长、善法衰退，那么，这样的心的生起便不应亲近。尊者，若亲近某种心的生起，会导致不善法衰退、善法增长，那么，这样的心的生起便应当亲近。”",
+   "status": "live",
+   "seq": 13,
+   "zh_before": "“比丘们，关于‘心的生起’，我也说有应亲近和不应亲近这两种，而且这两种心的生起是彼此不同的。这是世尊所说。但世尊是基於什么原因而这么说的呢？尊者，如果亲近某种心的生起，会导致不善法增长、善法衰退，那么，这样的心的生起就不应亲近。尊者，如果亲近某种心的生起，会导致不善法衰退、善法增长，那么，这样的心的生起就应亲近。”",
+   "fix_note": "20260706:全库体例统一(用户拍板)— 归依→皈依 / 比丘们→诸比丘(纯风格变体,同一巴利词两译混用,非语法区分)",
+   "n": "114"
+  },
+  {
+   "idx": 71,
+   "pali": "‘‘Kathaṃrūpaṃ, bhante, cittuppādaṃ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti? Idha, bhante, ekacco abhijjhālu hoti, abhijjhāsahagatena cetasā viharati; byāpādavā hoti, byāpādasahagatena cetasā viharati; vihesavā hoti, vihesāsahagatena cetasā viharati – evarūpaṃ, bhante, cittuppādaṃ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti.",
+   "zh": "“尊者，亲近何种心的生起，会令不善法增长、善法衰退呢？尊者，在此，有人心怀贪欲，与贪欲相应之心而住；心怀嗔恚，与嗔恚相应之心而住；心怀害意，与害意相应之心而住。尊者，亲近这种心的生起，便会令不善法增长，善法衰退。”",
+   "status": "live",
+   "seq": 14
+  },
+  {
+   "idx": 72,
+   "pali": "‘‘Kathaṃrūpaṃ, bhante, cittuppādaṃ sevato akusalā dhammā parihāyanti , kusalā dhammā abhivaḍḍhanti? Idha, bhante, ekacco anabhijjhālu hoti, anabhijjhāsahagatena cetasā viharati; abyāpādavā hoti, abyāpādasahagatena cetasā viharati; avihesavā hoti, avihesāsahagatena cetasā viharati – evarūpaṃ, bhante, cittuppādaṃ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti. ‘Cittuppādaṃpāhaṃ, bhikkhave, duvidhena vadāmi – sevitabbampi, asevitabbampi; tañca aññamaññaṃ cittuppāda’nti – iti yaṃ taṃ vuttaṃ bhagavatā idametaṃ paṭicca vuttaṃ.",
+   "zh": "“尊者，亲近何种心的生起，能令不善法衰退、善法增长呢？尊者，在此，有人离于贪婪，安住于无贪之心；他心无嗔怒，安住于无嗔之心；他无伤害意，安住于无害之心。尊者，亲近这样的心的生起，不善法便会衰退，善法便会增长。世尊正是基于这个原因而说：‘诸比丘，关于心的生起，我也说有两种——应亲近与不应亲近，并且这两种心的生起彼此不同。’”",
+   "status": "live",
+   "seq": 15,
+   "zh_before": "“尊者，亲近什么样的心的生起，会导致不善法衰退、善法增长呢？尊者，在此，有人是不贪婪的，伴隨著不贪婪的心度日；他心无嗔怒，伴隨著无嗔怒的心度日；他不想要伤害別人，伴隨著不想要伤害人的心度日。尊者，亲近这样的心的生起，不善法会衰退，善法会增长。‘比丘们，关于心的生起，我也说有应亲近和不应亲近这两种，而且这两种心的生起是彼此不同的。’世尊这么说，就是基於这个原因。”",
+   "fix_note": "20260706:全库体例统一(用户拍板)— 归依→皈依 / 比丘们→诸比丘(纯风格变体,同一巴利词两译混用,非语法区分)"
+  },
+  {
+   "idx": 73,
+   "pali": "‘‘‘Saññāpaṭilābhaṃpāhaṃ, bhikkhave, duvidhena vadāmi – sevitabbampi, asevitabbampi; tañca aññamaññaṃ saññāpaṭilābha’nti – iti kho panetaṃ vuttaṃ bhagavatā. Kiñcetaṃ paṭicca vuttaṃ? Yathārūpaṃ, bhante, saññāpaṭilābhaṃ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti evarūpo saññāpaṭilābho na sevitabbo; yathārūpañca kho, bhante, saññāpaṭilābhaṃ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti evarūpo saññāpaṭilābho sevitabbo.",
+   "zh": "“诸比丘，关于‘想的获得’，我也说是二重的：有应亲近的，也有不应亲近的，而且这两种想得是彼此相异的。这是世尊所说。但世尊是依什么因缘而如此说呢？尊者，若亲近某种想得时，不善法增长，善法衰退，这样的想得便不应亲近。若亲近某种想得时，不善法衰退，善法增长，这样的想得便应亲近。”",
+   "status": "live",
+   "seq": 16,
+   "zh_before": "“比丘们，关于‘想的获得’，我也说有应亲近和不应亲近这两种，而且这两种想的获得是彼此不同的。这是世尊所说。但世尊是基於什么原因而这么说的呢？尊者，如果亲近某种想的获得，会导致不善法增长、善法衰退，那么，这样的想的获得就不应亲近。尊者，如果亲近某种想的获得，会导致不善法衰退、善法增长，那么，这样的想的获得就应亲近。”",
+   "fix_note": "20260706:全库体例统一(用户拍板)— 归依→皈依 / 比丘们→诸比丘(纯风格变体,同一巴利词两译混用,非语法区分)",
+   "n": "115"
+  },
+  {
+   "idx": 74,
+   "pali": "‘‘Kathaṃrūpaṃ, bhante, saññāpaṭilābhaṃ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti? Idha, bhante, ekacco abhijjhālu hoti, abhijjhāsahagatāya saññāya viharati; byāpādavā hoti, byāpādasahagatāya saññāya viharati; vihesavā hoti, vihesāsahagatāya saññāya viharati – evarūpaṃ, bhante, saññāpaṭilābhaṃ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti.",
+   "zh": "“尊者，亲近怎样的想的获得，会导致不善法增长、善法衰退呢？尊者，于此，有人心怀贪欲，伴随贪欲之想而安住；有人心怀嗔恚，伴随嗔恚之想而安住；有人心怀害意，伴随害意之想而安住。尊者，亲近这样的想的获得，不善法便会增长，善法便会衰退。”",
+   "status": "live",
+   "seq": 17
+  },
+  {
+   "idx": 75,
+   "pali": "‘‘Kathaṃrūpaṃ, bhante, saññāpaṭilābhaṃ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti? Idha, bhante, ekacco anabhijjhālu hoti, anabhijjhāsahagatāya saññāya viharati; abyāpādavā hoti, abyāpādasahagatāya saññāya viharati; avihesavā hoti, avihesāsahagatāya saññāya viharati – evarūpaṃ, bhante, saññāpaṭilābhaṃ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti. ‘Saññāpaṭilābhaṃpāhaṃ, bhikkhave, duvidhena vadāmi – sevitabbampi, asevitabbampi; tañca aññamaññaṃ saññāpaṭilābha’nti – iti yaṃ taṃ vuttaṃ bhagavatā idametaṃ paṭicca vuttaṃ.",
+   "zh": "“尊者，亲近怎样的想的获得，能使不善法退减、善法增长呢？尊者，在此，有人不贪求，安住于与不贪求相应的想；他心怀无嗔，安住于与无嗔相应的想；他无伤害心，安住于与无伤害相应的想。尊者，亲近这样的想的获得，不善法便会退减，善法便会增长。‘诸比丘，关于想的获得，我说有两种：一种是应亲近的，一种是不应亲近的；而这两种想的获得彼此不同。’世尊这样说，正是基于这个原因。”",
+   "status": "live",
+   "seq": 18,
+   "zh_before": "“尊者，亲近什么样的想的获得，会导致不善法衰退、善法增长呢？尊者，在此，有人是不贪婪的，伴隨著与不贪婪相关的想而度日；他心无嗔怒，伴隨著与无嗔怒相关的想而度日；他不想要伤害別人，伴隨著与不想要伤害人相关的想而度日。尊者，亲近这样的想的获得，不善法会衰退，善法会增长。‘比丘们，关于想的获得，我也说有应亲近和不应亲近这两种，而且这两种想的获得是彼此不同的。’世尊这么说，就是基於这个原因。”",
+   "fix_note": "20260706:全库体例统一(用户拍板)— 归依→皈依 / 比丘们→诸比丘(纯风格变体,同一巴利词两译混用,非语法区分)"
+  },
+  {
+   "idx": 76,
+   "pali": "‘‘‘Diṭṭhipaṭilābhaṃpāhaṃ , bhikkhave, duvidhena vadāmi – sevitabbampi, asevitabbampi; tañca aññamaññaṃ diṭṭhipaṭilābha’nti – iti kho panetaṃ vuttaṃ bhagavatā. Kiñcetaṃ paṭicca vuttaṃ? Yathārūpaṃ, bhante, diṭṭhipaṭilābhaṃ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti evarūpo diṭṭhipaṭilābho na sevitabbo; yathārūpañca kho, bhante, diṭṭhipaṭilābhaṃ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti – evarūpo diṭṭhipaṭilābho sevitabbo.",
+   "zh": "“诸比丘，对于‘见的获得’，我也从两方面来说——既有应亲近的，也有不应亲近的；并且这两种见的获得是彼此不同的。”世尊所说这段话，是出于什么原因呢？尊者，如果亲近某种见的获得，会导致不善法增长、善法衰退，这样的见的获得就不应亲近；尊者，如果亲近某种见的获得，会导致不善法衰退、善法增长，这样的见的获得就应亲近。",
+   "status": "live",
+   "audit_note": "巴利原文'tañca aññamaññaṃ diṭṭhipaṭilābha'应译为'而且这两种见的获得彼此不同'，中译'而且这两者是彼此不同的'见的获得''语序略显生硬，建议调整为'而且这两种见的获得是彼此不同的'更符合汉语习惯",
+   "verdict": "小修",
+   "seq": 19,
+   "zh_before": "“比丘们，关于‘见的获得’，我也是从两方面来说的——有应亲近的，也有不应亲近的；而且这两者是彼此不同的‘见的获得’。”舍利弗尊者接着说：“世尊所说的这段话，是出于什么原因呢？尊者们，如果一个‘见的获得’，亲近它会导致不善法增长，善法衰退，这样的‘见的获得’就不应亲近；如果一个‘见的获得’，亲近它会导致不善法衰退，善法增长，这样的‘见的获得’就应亲近。",
+   "auto_corrected": true,
+   "fix_note": "调整语序为“这两种见的获得是彼此不同的”，更符合汉语习惯。 ‖ 20260706:全库体例统一(用户拍板)— 归依→皈依 / 比丘们→诸比丘(纯风格变体,同一巴利词两译混用,非语法区分) ‖ 20260706-zhipu90:语义扫描agent裁决-apply(核实巴利锚点+对照英译后修正)|原文无“舍利弗尊者接着说”；bhante 为单数呼格“大德”，当前“尊者们”增出复数语境。",
+   "n": "116"
+  },
+  {
+   "idx": 77,
+   "pali": "‘‘Kathaṃrūpaṃ, bhante, diṭṭhipaṭilābhaṃ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti? Idha, bhante, ekacco evaṃdiṭṭhiko hoti – ‘natthi dinnaṃ, natthi yiṭṭhaṃ, natthi hutaṃ , natthi sukatadukkaṭānaṃ kammānaṃ phalaṃ vipāko, natthi ayaṃ loko, natthi paro loko, natthi mātā, natthi pitā, natthi sattā opapātikā, natthi loke samaṇabrāhmaṇā sammaggatā sammāpaṭipannā ye imañca lokaṃ parañca lokaṃ sayaṃ abhiññā sacchikatvā pavedentī’ti – evarūpaṃ, bhante, diṭṭhipaṭilābhaṃ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti.",
+   "zh": "“尊者，什么样的‘见的获得’，若亲近它会令不善法增长、善法衰退呢？尊者，在此，有人持这样的见解：‘布施没有意义，供养没有意义，祭祀没有意义；善行恶行诸业没有果报；没有此世间，没有他世间；没有母亲，没有父亲；没有化生有情；世间也没有那些行持正行、正道，以证智亲自证知此世间与他世间并加以宣说的沙门与婆罗门。’尊者，亲近这样的‘见的获得’，便会令不善法增长、善法衰退。",
+   "status": "live",
+   "seq": 20,
+   "zh_before": "“尊者们，什么样的‘见的获得’，亲近它会导致不善法增长，善法衰退呢？尊者们，在这里，某个人持有这样的见解：‘没有布施，没有供养，没有祭祀，没有善行恶行诸业的果报，没有此世间，没有他世间，没有母亲，没有父亲，没有化生有情；世间没有那些依法正行、亲身作证了知此世间与他世间并加以教导的沙门和婆罗门。’尊者们，亲近这样的‘见的获得’，会导致不善法增长，善法衰退。",
+   "fix_note": "20260706-zhipu90:语义扫描agent裁决-apply(核实巴利锚点+对照英译后修正)|三处 bhante 均为单数“大德”；当前译作“尊者们”增出复数。"
+  },
+  {
+   "idx": 78,
+   "pali": "‘‘Kathaṃrūpaṃ, bhante, diṭṭhipaṭilābhaṃ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti? Idha, bhante, ekacco evaṃdiṭṭhiko hoti – ‘atthi dinnaṃ, atthi yiṭṭhaṃ, atthi hutaṃ, atthi sukatadukkaṭānaṃ kammānaṃ phalaṃ vipāko, atthi ayaṃ loko, atthi paro loko, atthi mātā, atthi pitā, atthi sattā opapātikā, atthi loke samaṇabrāhmaṇā sammaggatā sammāpaṭipannā ye imañca lokaṃ parañca lokaṃ sayaṃ abhiññā sacchikatvā pavedentī’ti – evarūpaṃ, bhante, diṭṭhipaṭilābhaṃ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti. ‘Diṭṭhipaṭilābhaṃpāhaṃ, bhikkhave, duvidhena vadāmi – sevitabbampi, asevitabbampi; tañca aññamaññaṃ diṭṭhipaṭilābha’nti – iti yaṃ taṃ vuttaṃ bhagavatā idametaṃ paṭicca vuttaṃ.",
+   "zh": "“尊者，什么样的‘见的获得’，若亲近它会令不善法衰退、善法增长呢？尊者，在此，有人持这样的见解：‘布施有意义，供养有意义，祭祀有意义；善行恶行诸业有果报；有此世间，有他世间；有母亲，有父亲；有化生有情；世间有那些行持正行、正道，以证智亲自证知此世间与他世间并加以宣说的沙门与婆罗门。’尊者，亲近这样的‘见的获得’，便会令不善法衰退、善法增长。世尊所说‘诸比丘，关于见的获得，我也是从两方面而说——有应亲近的，也有不应亲近的；而且这两者是彼此不同的见的获得’，正是基于这个原因。",
+   "status": "live",
+   "seq": 21,
+   "zh_before": "“尊者们，什么样的‘见的获得’，亲近它会导致不善法衰退，善法增长呢？尊者们，在这里，某个人持有这样的见解：‘有布施，有供养，有祭祀，有善行恶行诸业的果报，有此世间，有他世间，有母亲，有父亲，有化生有情；世间有那些依法正行、亲身作证了知此世间与他世间并加以教导的沙门和婆罗门。’尊者们，亲近这样的‘见的获得’，会导致不善法衰退，善法增长。所以，世尊说‘比丘们，关于见的获得，我也是从两方面来说的——有应亲近的，也有不应亲近的；而且这两者是彼此不同的见的获得’，正是出于这个原因。",
+   "fix_note": "20260706:全库体例统一(用户拍板)— 归依→皈依 / 比丘们→诸比丘(纯风格变体,同一巴利词两译混用,非语法区分) ‖ 20260706-zhipu90:语义扫描agent裁决-apply(核实巴利锚点+对照英译后修正)|bhante 应作单数“大德”，当前多处“尊者们”不合原文呼格。"
+  },
+  {
+   "idx": 79,
+   "pali": "‘‘‘Attabhāvapaṭilābhaṃpāhaṃ , bhikkhave, duvidhena vadāmi – sevitabbampi, asevitabbampi; tañca aññamaññaṃ attabhāvapaṭilābha’nti – iti kho panetaṃ vuttaṃ bhagavatā. Kiñcetaṃ paṭicca vuttaṃ? Yathārūpaṃ, bhante, attabhāvapaṭilābhaṃ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti – evarūpo attabhāvapaṭilābho na sevitabbo; yathārūpañca kho, bhante, attabhāvapaṭilābhaṃ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti – evarūpo attabhāvapaṭilābho sevitabbo.",
+   "zh": "“‘诸比丘，关于“个体的获得”，我也是从两方面而说——有应亲近的，也有不应亲近的；而且这两者是彼此不同的“个体的获得”。’世尊所说此语，是出于什么原因呢？尊者，若某种‘个体的获得’，亲近它会令不善法增长、善法衰退，这样的‘个体的获得’便不应亲近；若某种‘个体的获得’，亲近它会令不善法衰退、善法增长，这样的‘个体的获得’便应亲近。”",
+   "status": "live",
+   "seq": 22,
+   "zh_before": "“比丘们，关于‘个体的获得’，我也是从两方面来说的——有应亲近的，也有不应亲近的；而且这两者是彼此不同的‘个体的获得’。”舍利弗尊者接着说：“世尊所说的这段话，是出于什么原因呢？尊者们，如果一个‘个体的获得’，亲近它会导致不善法增长，善法衰退，这样的‘个体的获得’就不应亲近；如果一个‘个体的获得’，亲近它会导致不善法衰退，善法增长，这样的‘个体的获得’就应亲近。”",
+   "fix_note": "20260706:全库体例统一(用户拍板)— 归依→皈依 / 比丘们→诸比丘(纯风格变体,同一巴利词两译混用,非语法区分) ‖ 20260706-zhipu90:语义扫描agent裁决-apply(核实巴利锚点+对照英译后修正)|原文无“舍利弗尊者接着说”；bhante 是“大德”，当前“尊者们”增译复数。",
+   "n": "117"
+  },
+  {
+   "idx": 80,
+   "pali": "‘‘Kathaṃrūpaṃ, bhante, attabhāvapaṭilābhaṃ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti? Sabyābajjhaṃ , bhante, attabhāvapaṭilābhaṃ abhinibbattayato apariniṭṭhitabhāvāya akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti; abyābajjhaṃ, bhante, attabhāvapaṭilābhaṃ abhinibbattayato pariniṭṭhitabhāvāya akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti. ‘Attabhāvapaṭilābhaṃpāhaṃ, bhikkhave, duvidhena vadāmi – sevitabbampi , asevitabbampi; tañca aññamaññaṃ attabhāvapaṭilābha’nti – iti yaṃ taṃ vuttaṃ bhagavatā idametaṃ paṭicca vuttaṃ.",
+   "zh": "“尊者，亲近怎样的“自体获得”会导致不善法增长、善法衰退呢？尊者，若造作并产生带有恚害的自体获得，便会趋向不圆满，由此不善法增长、善法衰退；尊者，若造作并产生不带有恚害的自体获得，便会趋向圆满，由此不善法衰退、善法增长。正因如此，世尊说：‘诸比丘，关于自体的获得，我也是从两方面说的——有应亲近的，也有不应亲近的，这两种自体获得彼此不同。’",
+   "status": "live",
+   "audit_note": "巴利'Sabyābajjhaṃ'应译为'带有恚害的'，但'abhinibbattayato'是'使产生/造作'之意，'apariniṭṭhitabhāvāya'是'为了不圆满状态'。中译'当造作、产生一个带有恚害的个体的获得时，为了成就其不圆满的状态'，逻辑略显费解。应理解为：造作带恚害的个体获得，会导向不圆满状态，从而不善法增长。建议调整为'造作、产生带有恚害的个体获得，会趋向不圆满的状态，因此不善法增长，善法衰退'，使因果关系更清晰。",
+   "verdict": "小修",
+   "seq": 23,
+   "zh_before": "“尊者们，什么样的‘个体的获得’，亲近它会导致不善法增长，善法衰退呢？尊者们，当造作、产生一个带有恚害的‘个体的获得’时，为了成就其不圆满的状态，不善法就会增长，善法就会衰退。尊者们，当造作、产生一个不带有恚害的‘个体的获得’时，为了成就其圆满的状态，不善法就会衰退，善法就会增长。所以，世尊说‘比丘们，关于个体的获得，我也是从两方面来说的——有应亲近的，也有不应亲近的；而且这两者是彼此不同的个体的获得’，正是出于这个原因。",
+   "auto_corrected": true,
+   "fix_note": "调整因果关系表述，将“为了成就其不圆满的状态”改为“会趋向不圆满的状态，因此不善法增长，善法衰退”，使逻辑更清晰。 ‖ 20260706:全库体例统一(用户拍板)— 归依→皈依 / 比丘们→诸比丘(纯风格变体,同一巴利词两译混用,非语法区分) ‖ 20260706-zhipu90:语义扫描agent裁决-apply(核实巴利锚点+对照英译后修正)|原文多处 bhante 为单数“大德”；当前均作“尊者们”，且需保持各处呼格。"
+  },
+  {
+   "idx": 81,
+   "pali": "‘‘Imassa kho ahaṃ, bhante, bhagavatā saṃkhittena bhāsitassa, vitthārena atthaṃ avibhattassa, evaṃ vitthārena atthaṃ ājānāmī’’ti.",
+   "zh": "“尊者，对于世尊略说、义理未广分别的这段教导，我正是如此详细地理解其义理。”",
+   "status": "live",
+   "seq": 24,
+   "zh_before": "“尊者们，对于世尊用简洁方式宣说、未详细分别义理的这段教导，我就是这样详细地理解其义理的。”",
+   "fix_note": "20260706-zhipu90:语义扫描agent裁决-apply(核实巴利锚点+对照英译后修正)|bhante 位于句首，应译为“大德”；当前“尊者们”是复数误译。"
+  },
+  {
+   "idx": 100,
+   "pali": "‘‘Sādhu sādhu, sāriputta! Sādhu kho tvaṃ, sāriputta, imassa mayā saṃkhittena bhāsitassa, vitthārena atthaṃ avibhattassa, evaṃ vitthārena atthaṃ ājānāsi.",
+   "zh": "“很好，很好，舍利弗！舍利弗，你能将我以略语说示、未详尽分别的教导，如此详尽地解悟其义，真是善妙。”",
+   "status": "live",
+   "seq": 25,
+   "n": "118"
+  },
+  {
+   "idx": 61,
+   "pali": "‘‘‘Kāyasamācāraṃpāhaṃ, bhikkhave, duvidhena vadāmi – sevitabbampi, asevitabbampi; tañca aññamaññaṃ kāyasamācāra’nti – iti kho panetaṃ vuttaṃ bhagavatā. Kiñcetaṃ paṭicca vuttaṃ? Yathārūpaṃ, bhante, kāyasamācāraṃ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti, evarūpo kāyasamācāro na sevitabbo; yathārūpañca kho, bhante, kāyasamācāraṃ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti, evarūpo kāyasamācāro sevitabbo.",
+   "zh": "“尊者，世尊曾这么说：‘诸比丘，我说身行有两种：有应亲近的，也有不应亲近的；而且这两种身行彼此有别。’世尊是依什么因缘而这样说的呢？尊者，如果亲近某种身行，会使不善法增长、善法衰退，这样的身行便不应亲近；如果亲近某种身行，会使不善法衰退、善法增长，这样的身行便应当亲近。",
+   "status": "live",
+   "audit_note": "巴利原文在'tañca aññamaññaṃ kāyasamācāra'nti'后有破折号,表示引述结束,但中译未体现此结构断点。更关键的是:巴利原文此段在'akusalā dhammā abhivaḍ'处截断(未完整),但中译却完整呈现了'会导致不善法增长,善法衰退'的完整判准,这是译增了原文未给出的内容。应保持与巴利原文相同的截断状态。",
+   "verdict": "小修",
+   "seq": 26,
+   "zh_before": "“尊者，世尊所说的：‘比丘们，我说身行有两种：有应亲近的，也有不应亲近的；而且这两者是彼此不同的身行。’这是依于什么而说的呢？尊者，如果亲近某种身行，会导致不善法增长，善法衰退，那么这样的身行就不应该亲近。尊者，如果亲近某种身行，会导致不善法衰退，善法增长，那么这样的身行就应该亲近。",
+   "auto_corrected": true,
+   "fix_note": "因巴利原文截断，移除后文“善法衰退，那么这样的身行就不应该亲近”等内容，仅保留至截断处。 ‖ 20260706:全库体例统一(用户拍板)— 归依→皈依 / 比丘们→诸比丘(纯风格变体,同一巴利词两译混用,非语法区分) ‖ 20260706-zhipu90:语义扫描agent裁决-apply(核实巴利锚点+对照英译后修正)|当前 zh 在“不善法增……”处截断，后半 yathārūpañca kho…sevitabbo 确实漏译。"
+  },
+  {
+   "idx": 84,
+   "pali": "‘‘Kathaṃrūpaṃ , sāriputta, kāyasamācāraṃ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti? Idha, sāriputta, ekacco pāṇātipātī hoti luddo lohitapāṇi hatappahate niviṭṭho adayāpanno pāṇabhūtesu; adinnādāyī kho pana hoti, yaṃ taṃ parassa paravittūpakaraṇaṃ gāmagataṃ vā araññagataṃ vā taṃ adinnaṃ theyyasaṅkhātaṃ ādātā hoti; kāmesumicchācārī kho pana hoti, yā tā māturakkhitā piturakkhitā mātāpiturakkhitā bhāturakkhitā bhaginirakkhitā ñātirakkhitā gottarakkhitā dhammarakkhitā sassāmikā saparidaṇḍā antamaso mālāguḷaparikkhittāpi tathārūpāsu cārittaṃ āpajjitā hoti – evarūpaṃ, sāriputta, kāyasamācāraṃ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti.",
+   "zh": "“舍利弗，亲近怎样的身行，会使不善法增长、善法衰退呢？舍利弗，在此，有一类人是杀生者，残忍、双手沾满血腥，耽著杀戮，对一切众生没有怜悯；他是不与而取者，对于他人放在村落或山林中的财物与资具，以盗心不予而取；他在欲上是行邪行者，对于那些受母亲保护、受父亲保护、受父母保护、受兄弟保护、受姐妹保护、受亲戚保护、受家族保护、受法保护、有丈夫、会受刑罚，乃至已戴上花环、已订婚的女子，他也与之发生关系。舍利弗，亲近这样的身行，不善法便增长、善法便衰退。”",
+   "status": "live",
+   "seq": 27
+  },
+  {
+   "idx": 85,
+   "pali": "‘‘Kathaṃrūpaṃ, sāriputta, kāyasamācāraṃ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti? Idha, sāriputta, ekacco pāṇātipātaṃ pahāya pāṇātipātā paṭivirato hoti nihitadaṇḍo nihitasattho, lajjī dayāpanno sabbapāṇabhūtahitānukampī viharati; adinnādānaṃ pahāya adinnādānā paṭivirato hoti, yaṃ taṃ parassa paravittūpakaraṇaṃ gāmagataṃ vā araññagataṃ vā taṃ nādinnaṃ theyyasaṅkhātaṃ ādātā hoti; kāmesumicchācāraṃ pahāya kāmesumicchācārā paṭivirato hoti, yā tā māturakkhitā piturakkhitā mātāpiturakkhitā bhāturakkhitā bhaginirakkhitā ñātirakkhitā gottarakkhitā dhammarakkhitā sassāmikā saparidaṇḍā antamaso mālāguḷaparikkhittāpi tathārūpāsu na cārittaṃ āpajjitā hoti – evarūpaṃ, sāriputta, kāyasamācāraṃ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti. ‘Kāyasamācāraṃpāhaṃ, bhikkhave, duvidhena vadāmi – sevitabbampi, asevitabbampi; tañca aññamaññaṃ kāyasamācāra’nti – iti yaṃ taṃ vuttaṃ mayā idametaṃ paṭicca vuttaṃ.",
+   "zh": "“舍利弗，亲近怎样的身行，会使不善法衰退、善法增长呢？舍利弗，在此，有一类人舍离了杀生，远离杀生，放下棍棒与刀杖，有惭耻心，心怀慈悯，为利益和悲悯一切众生而安住；他舍离了不予而取，远离不予而取，对于他人放在村落或山林中的财物与资具，不以盗心不予而取；他舍离了在欲上的邪行，远离在欲上的邪行，对于那些受母亲保护、受父亲保护、受父母保护、受兄弟保护、受姐妹保护、受亲戚保护、受家族保护、受法保护、有丈夫、会受刑罚，乃至已戴上花环、已订婚的女子，他都不与之发生关系。舍利弗，亲近这样的身行，不善法便衰退、善法便增长。世尊所说的：‘诸比丘，我说身行有两种：有应亲近的，也有不应亲近的；而且这两种身行彼此有别。’正是依此因缘而说的。",
+   "status": "live",
+   "audit_note": "末尾引号位置错误。原文'这是我所说过的话，正是依凭这个因缘而这样说的。'应属于世尊的话（对应巴利'iti kho panetaṃ vuttaṃ. Kiñcetaṃ paṭicca vuttaṃ'），但中译将其放在舍利弗的详解内（引号内），而巴利原文此句在舍利弗详解之后、作为世尊对总纲的重申。应将此句移出引号外，作为叙述者的话或世尊的印可语。",
+   "verdict": "小修",
+   "seq": 28,
+   "zh_before": "“舍利弗，亲近什么样的身行，会使不善法衰退、善法增长呢？舍利弗，在此，有一类人舍断了杀生，远离杀生，他放下了棍棒、放下了武器，有惭愧心，心怀怜悯，为了利益与慈悲一切众生而住；他舍断了不与而取，远离不与而取，凡是别人在村落或山林中的财物与资具，他都不会以盗贼的方式不与而取；他舍断了在欲乐上的邪行，远离在欲乐上的邪行，对于那些受母亲保护……乃至……已戴上花环、已订婚的女子，他都不会与之发生关系。舍利弗，亲近像这样的身行，不善法会衰退、善法会增长。‘比丘们，我说身行有两种：有应亲近的，也有不应亲近的；而且这两种身行是彼此不同的。’这是我所说过的话，正是依凭这个因缘而这样说的。”",
+   "auto_corrected": true,
+   "fix_note": "将末尾引号内世尊的印可语移出引号外，改为叙述语句，避免错误归属。 ‖ 20260706:全库体例统一(用户拍板)— 归依→皈依 / 比丘们→诸比丘(纯风格变体,同一巴利词两译混用,非语法区分)"
+  },
+  {
+   "idx": 64,
+   "pali": "‘‘‘Vacīsamācāraṃpāhaṃ, bhikkhave, duvidhena vadāmi – sevitabbampi, asevitabbampi; tañca aññamaññaṃ vacīsamācāra’nti – iti kho panetaṃ vuttaṃ bhagavatā. Kiñcetaṃ paṭicca vuttaṃ ? Yathārūpaṃ, bhante, vacīsamācāraṃ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti, evarūpo vacīsamācāro na sevitabbo; yathārūpañca kho, bhante, vacīsamācāraṃ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti evarūpo vacīsamācāro sevitabbo.",
+   "zh": "“诸比丘，我说语行也有两种：应亲近的与不应亲近的；且这两种语行彼此有别。——这是世尊所说。依何因缘而说呢？尊者，若亲近某种语行，令不善法增长、善法衰退，此种语行不应亲近；若亲近某种语行，令不善法衰退、善法增长，此种语行则应亲近。”",
+   "status": "live",
+   "audit_note": "巴利原文 'tañca aññamaññaṃ vacīsamācāra' 意为“而且这两种语行彼此不同”，中译“而且这两种语行是彼此不同的”基本准确，但此句在巴利中是引号内世尊原话的一部分（引述框架），中译将其处理为引号内的独立句，结构尚可接受。另：第五段中译“大德”出现在舍利弗转述世尊原话之后的自身陈述中，巴利 'bhante' 是舍利弗对世尊的称呼，中译“大德”符合标准，无误。整体通过，但“会导致”系意译补充，原文为直接陈述句式（sevato akusalā dhammā abhivaḍḍhanti），中译加“会导致”略显意译，属风格问题，不强制修改。",
+   "verdict": "小修",
+   "seq": 29,
+   "zh_before": "“比丘们，对于语行，我也说它有两种：有应亲近的，也有不应亲近的；而且这两种语行是彼此不同的。”——世尊这样说过了。但这是基于什么而说的呢？大德，如果亲近某种语行会导致不善法增长，善法衰退，那么这种语行就不应亲近。而如果亲近某种语行会导致不善法衰退，善法增长，那么这种语行就应亲近。",
+   "auto_corrected": true,
+   "fix_note": "无需修改，整体通过。 ‖ 20260706:全库体例统一(用户拍板)— 归依→皈依 / 比丘们→诸比丘(纯风格变体,同一巴利词两译混用,非语法区分)"
+  },
+  {
+   "idx": 87,
+   "pali": "‘‘‘Attabhāvapaṭilābhaṃpāhaṃ, bhikkhave, duvidhena vadāmi – sevitabbampi, asevitabbampi; tañca aññamaññaṃ attabhāvapaṭilābha’nti – iti kho panetaṃ vuttaṃ mayā. Kiñcetaṃ paṭicca vuttaṃ? Yathārūpaṃ, sāriputta, attabhāvapaṭilābhaṃ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti evarūpo attabhāvapaṭilābho na sevitabbo; yathārūpañca kho, sāriputta, attabhāvapaṭilābhaṃ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti – evarūpo attabhāvapaṭilābho sevitabbo.",
+   "zh": "“诸比丘，我说个体的获得也有两种：应亲近的与不应亲近的；且这两种个体获得彼此有别。这是我所言。依何因缘而这样说呢？舍利弗，若亲近某种个体获得，令不善法增长、善法衰退，此种个体获得不应亲近；舍利弗，若亲近某种个体获得，令不善法衰退、善法增长，此种个体获得则应亲近。”",
+   "status": "live",
+   "seq": 30,
+   "zh_before": "“比丘们，我说个体的获得有两种：有应亲近的，也有不应亲近的；而且这两种个体的获得是彼此不同的。这是我所说过的话。依凭什么因缘而这样说呢？舍利弗，那种在亲近之后，不善法增长、善法衰退的个体获得，像这样的个体获得不应亲近；而舍利弗，那种在亲近之后，不善法衰退、善法增长的个体获得，像这样的个体获得则应亲近。”",
+   "fix_note": "20260706:全库体例统一(用户拍板)— 归依→皈依 / 比丘们→诸比丘(纯风格变体,同一巴利词两译混用,非语法区分)"
+  },
+  {
+   "idx": 88,
+   "pali": "‘‘Kathaṃrūpaṃ, sāriputta, attabhāvapaṭilābhaṃ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti? Sabyābajjhaṃ, sāriputta, attabhāvapaṭilābhaṃ abhinibbattayato apariniṭṭhitabhāvāya akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti; abyābajjhaṃ, sāriputta, attabhāvapaṭilābhaṃ abhinibbattayato pariniṭṭhitabhāvāya akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti. ‘Attabhāvapaṭilābhaṃpāhaṃ, bhikkhave, duvidhena vadāmi – sevitabbampi , asevitabbampi; tañca aññamaññaṃ attabhāvapaṭilābha’nti – iti yaṃ taṃ vuttaṃ mayā idametaṃ paṭicca vuttaṃ. Imassa kho, sāriputta, mayā saṃkhittena bhāsitassa evaṃ vitthārena attho daṭṭhabbo.",
+   "zh": "“舍利弗，怎样的个体获得，在亲近时，会让不善法增长、善法衰退？舍利弗，若生起有害的个体获得，便会趋向不圆满，不善法即增长，善法即衰退；若生起无害的个体获得，便会趋向圆满，不善法即衰退，善法即增长。‘诸比丘，关于个体获得，我同样说有两种：应亲近的与不应亲近的；而且这两种个体获得彼此有别。’我所说的这句话，正是依据这个道理而说。舍利弗，对于我这段简略的开示，其详尽的义理应当如此理解。",
+   "status": "live",
+   "audit_note": "末尾'——像这样，那被我所说的话，正是基于这个缘由而说的。舍利弗，对于我这段简略的开示，其详细的意义应当这样去理解。'应为世尊的话（对应巴利'iti kho panetaṃ vuttaṃ. Kiñcetaṃ paṭicca vuttaṃ? ... Evañhi te, sāriputta, saṅkhittena bhāsitassa vitthārena attho daṭṭhabbo'ti'），但中译将其放在舍利弗详解的引号内。应将此段移出引号外，明确为世尊对舍利弗的指示语。",
+   "verdict": "小修",
+   "seq": 31,
+   "zh_before": "“舍利弗，什么样的个体获得，在亲近它时，不善法增长，善法衰退呢？舍利弗，当产生一个有害的个体获得，为了那尚未完成的目标，不善法会增长，善法会衰退；当产生一个无害的个体获得，为了那已完成的目标，不善法会衰退，善法会增长。比丘们，关于个体获得，我同样说它有两种：应亲近的和不应亲近的；而且这两种个体获得彼此有别。’——像这样，那被我所说的话，正是基于这个缘由而说的。舍利弗，对于我这段简略的开示，其详细的意义应当这样去理解。”",
+   "auto_corrected": true,
+   "fix_note": "按audit_note将结尾的总结与指示移出引号外，恢复为世尊对舍利弗的直接教导；原译文将整段置于同一引号内，现调整为世尊先解说、再引自己对比丘的教示、最后直接教导舍利弗的结构。 ‖ 20260706:全库体例统一(用户拍板)— 归依→皈依 / 比丘们→诸比丘(纯风格变体,同一巴利词两译混用,非语法区分) ‖ 20260706-zhipu90:语义扫描agent裁决-apply(核实巴利锚点+对照英译后修正)|apariniṭṭhitabhāvāya/pariniṭṭhitabhāvāya 指趋向未圆满/圆满的状态；当前译作“为了……目标”不合 bhāva 语义。"
+  },
+  {
+   "idx": 89,
+   "pali": "‘‘Cakkhuviññeyyaṃ rūpaṃpāhaṃ, sāriputta, duvidhena vadāmi – sevitabbampi, asevitabbampi; sotaviññeyyaṃ saddaṃpāhaṃ, sāriputta, duvidhena vadāmi – sevitabbampi asevitabbampi; ghānaviññeyyaṃ gandhaṃpāhaṃ, sāriputta, duvidhena vadāmi – sevitabbampi, asevitabbampi; jivhāviññeyyaṃ rasaṃpāhaṃ, sāriputta, duvidhena vadāmi – sevitabbampi, asevitabbampi; kāyaviññeyyaṃ phoṭṭhabbaṃpāhaṃ, sāriputta, duvidhena vadāmi – sevitabbampi, asevitabbampi; manoviññeyyaṃ dhammaṃpāhaṃ, sāriputta, duvidhena vadāmi – sevitabbampi, asevitabbampī’’ti.",
+   "zh": "“舍利弗，眼所识知的色，我同样说有应亲近的和不应亲近的两种；耳所识知的声，舍利弗，我同样说有应亲近的和不应亲近的两种；鼻所识知的香，舍利弗，我同样说有应亲近的和不应亲近的两种；舌所识知的味，舍利弗，我同样说有应亲近的和不应亲近的两种；身所识知的触，舍利弗，我同样说有应亲近的和不应亲近的两种；意所识知的法，舍利弗，我同样说有应亲近的和不应亲近的两种。”",
+   "status": "live",
+   "seq": 32,
+   "n": "119"
+  },
+  {
+   "idx": 97,
+   "pali": "Evaṃ vutte, āyasmā sāriputto bhagavantaṃ etadavoca – ‘‘imassa kho ahaṃ, bhante, bhagavatā saṃkhittena bhāsitassa, vitthārena atthaṃ avibhattassa, evaṃ vitthārena atthaṃ ājānāmi. ‘Cīvaraṃpāhaṃ, sāriputta, duvidhena vadāmi – sevitabbampi, asevitabbampī’ti – iti kho panetaṃ vuttaṃ bhagavatā. Kiñcetaṃ paṭicca vuttaṃ? Yathārūpaṃ, bhante, cīvaraṃ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti evarūpaṃ cīvaraṃ na sevitabbaṃ; yathārūpañca kho, bhante, cīvaraṃ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti evarūpaṃ cīvaraṃ sevitabbaṃ. ‘Cīvaraṃpāhaṃ, sāriputta, duvidhena vadāmi – sevitabbampi, asevitabbampī’ti – iti yaṃ taṃ vuttaṃ bhagavatā idametaṃ paṭicca vuttaṃ.",
+   "zh": "作是说已，具寿舍利弗白世尊言：“尊者，世尊所略说而未广分别的教法，我如是详尽地解了其义。世尊曾说：‘舍利弗，衣，我亦分二而说——有应亲近的，也有不应亲近的。’此依何因缘而说？尊者，若亲近某种衣时，不善法增长、善法衰退，如是之衣便不应亲近；尊者，若亲近某种衣时，不善法衰退、善法增长，如是之衣便应亲近。世尊所说‘舍利弗，衣，我亦分二而说——有应亲近的，也有不应亲近的’，即是依此义而说。”",
+   "status": "live",
+   "seq": 33
+  },
+  {
+   "idx": 94,
+   "pali": "‘‘Sotaviññeyyaṃ saddaṃpāhaṃ, sāriputta…pe… evarūpo sotaviññeyyo saddo na sevitabbo… evarūpo sotaviññeyyo saddo sevitabbo… evarūpo ghānaviññeyyo gandho na sevitabbo… evarūpo ghānaviññeyyo gandho sevitabbo… evarūpo jivhāviññeyyo raso na sevitabbo… evarūpo jivhāviññeyyo raso sevitabbo… evarūpo kāyaviññeyyo phoṭṭhabbo na sevitabbo… evarūpo kāyaviññeyyo phoṭṭhabbo sevitabbo.",
+   "zh": "“舍利弗，耳所识知的声，我亦如是说：如是之耳所识知的声不应亲近……如是之耳所识知的声应亲近。鼻所识知的香：如是之鼻所识知的香不应亲近……如是之鼻所识知的香应亲近。舌所识知的味：如是之舌所识知的味不应亲近……如是之舌所识知的味应亲近。身所识知的触：如是之身所识知的触不应亲近……如是之身所识知的触应亲近。”",
+   "status": "live",
+   "seq": 34,
+   "zh_before": "舍利弗，对于由耳认知到的声音……像这样的由耳认知到的声音不应亲近……像这样的由耳认知到的声音应亲近……像这样的由鼻认知到的气味不应亲近……像这样的由鼻认知到的气味应亲近……像这样的由舌认知到的味道不应亲近……像这样的由舌认知到的味道应亲近……像这样的由身认知到的触觉不应亲近……像这样的由身认知到的触觉应亲近。",
+   "fix_note": "20260706-zhipu90:语义扫描agent裁决-apply(核实巴利锚点+对照英译后修正)|saddaṃpāhaṃ 中 pāhaṃ 是 api ahaṃ 的连读，表示“我也/我同样说”；当前缺此强调。"
+  },
+  {
+   "idx": 92,
+   "pali": "‘‘‘Manoviññeyyaṃ dhammaṃpāhaṃ, sāriputta, duvidhena vadāmi – sevitabbampi, asevitabbampī’ti – iti kho panetaṃ vuttaṃ bhagavatā. Kiñcetaṃ paṭicca vuttaṃ? Yathārūpaṃ, bhante, manoviññeyyaṃ dhammaṃ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti evarūpo manoviññeyyo dhammo na sevitabbo; yathārūpañca kho, bhante, manoviññeyyaṃ dhammaṃ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti evarūpo manoviññeyyo dhammo sevitabbo. ‘Manoviññeyyaṃ dhammaṃpāhaṃ, sāriputta, duvidhena vadāmi – sevitabbampi, asevitabbampī’ti – iti yaṃ taṃ vuttaṃ bhagavatā idametaṃ paṭicca vuttaṃ. Imassa kho ahaṃ, bhante, bhagavatā saṃkhittena bhāsitassa, vitthārena atthaṃ avibhattassa, evaṃ vitthārena atthaṃ ājānāmī’’ti.",
+   "zh": "“‘舍利弗，关于意所识知的法，我同样说它有两种：应亲近的与不应亲近的。’——这确为世尊所说。是依什么因缘而说的呢？尊者，若亲近某种意所识知的法时，不善法增长，善法衰减，这样的意所识知的法则不应亲近；尊者，若亲近某种意所识知的法时，不善法衰减，善法增长，这样的意所识知的法则应当亲近。‘舍利弗，关于意所识知的法，我同样说它有两种：应亲近的与不应亲近的。’——世尊所说的这番话，正是依此因缘而说。尊者，对于世尊这段简略开示、未曾详释的意义，我如是详尽地通达其义。”",
+   "status": "live",
+   "seq": 35
+  },
+  {
+   "idx": 82,
+   "pali": "‘‘Sādhu sādhu, sāriputta! Sādhu kho tvaṃ, sāriputta, imassa mayā saṃkhittena bhāsitassa, vitthārena atthaṃ avibhattassa, evaṃ vitthārena atthaṃ ājānāsi. ‘Cakkhuviññeyyaṃ rūpaṃpāhaṃ, sāriputta, duvidhena vadāmi – sevitabbampi, asevitabbampī’ti – iti kho panetaṃ vuttaṃ mayā. Kiñcetaṃ paṭicca vuttaṃ? Yathārūpaṃ, sāriputta, cakkhuviññeyyaṃ rūpaṃ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti evarūpaṃ cakkhuviññeyyaṃ rūpaṃ na sevitabbaṃ; yathārūpañca kho, sāriputta, cakkhuviññeyyaṃ rūpaṃ sevato akusalā dhammā parihāyanti, kusalā dhammā  abhivaḍḍhanti evarūpaṃ cakkhuviññeyyaṃ rūpaṃ sevitabbaṃ. ‘Cakkhuviññeyyaṃ rūpaṃpāhaṃ, sāriputta, duvidhena vadāmi – sevitabbampi, asevitabbampī’ti – iti yaṃ taṃ vuttaṃ mayā idametaṃ paṭicca vuttaṃ.",
+   "zh": "“善哉，善哉，舍利弗！善哉，舍利弗，你能这样详尽地理解我简略说示、未详细开演的法义。",
+   "status": "live",
+   "seq": 36,
+   "n": "120"
+  },
+  {
+   "idx": 91,
+   "pali": "‘‘Sotaviññeyyaṃ saddaṃpāhaṃ, sāriputta…pe… evarūpo sotaviññeyyo saddo na sevitabbo… evarūpo sotaviññeyyo saddo sevitabbo… evarūpo ghānaviññeyyo gandho na sevitabbo… evarūpo ghānaviññeyyo gandho sevitabbo… evarūpo jivhāviññeyyo raso na sevitabbo… evarūpo jivhāviññeyyo raso sevitabbo… kāyaviññeyyaṃ phoṭṭhabbaṃpāhaṃ, sāriputta … evarūpo kāyaviññeyyo phoṭṭhabbo na sevitabbo… evarūpo kāyaviññeyyo phoṭṭhabbo sevitabbo.",
+   "zh": "“舍利弗，关于耳所识知的声，我也说它有两种……那种耳所识知的声不应亲近……那种耳所识知的声应当亲近……那种鼻所识知的香不应亲近……那种鼻所识知的香应当亲近……那种舌所识知的味不应亲近……那种舌所识知的味应当亲近……舍利弗，关于身所识知的触，同样有两种：那种身所识知的触不应亲近……那种身所识知的触应当亲近。”",
+   "status": "live",
+   "seq": 37,
+   "audit_note": "20260706-zhipu90:语义扫描agent裁决-keep:问题在当前文本不存在。current_zh 已译出“舍利弗，关于身所识知的触”，此处 pāhaṃ 属连声 rūpaṃ/phoṭṭhabbaṃ + api + ahaṃ，译作“关于……”已承接“我也如此说”的省略语境，不构成必须补出的漏译。"
+  },
+  {
+   "idx": 95,
+   "pali": "‘‘Manoviññeyyaṃ dhammaṃpāhaṃ, sāriputta…pe… evarūpo manoviññeyyo dhammo na sevitabbo… evarūpo manoviññeyyo dhammo sevitabbo. ‘Manoviññeyyaṃ dhammaṃpāhaṃ, sāriputta, duvidhena vadāmi – sevitabbampi, asevitabbampī’ti – iti yaṃ taṃ vuttaṃ mayā idametaṃ paṭicca vuttaṃ. Imassa kho, sāriputta, mayā saṃkhittena bhāsitassa evaṃ vitthārena attho daṭṭhabbo.",
+   "zh": "“舍利弗，关于意所识知的法……略……像那样的意所识知的法不应亲近……像那样的意所识知的法应亲近。‘舍利弗，对于意所识知的法，我同样说为两种：可亲近者与不可亲近者。’——我如此说，正是依此因缘。舍利弗，对于我这简略的宣说，你应当如此详究其义。”",
+   "status": "live",
+   "seq": 38
+  },
+  {
+   "idx": 96,
+   "pali": "‘‘Cīvaraṃpāhaṃ , sāriputta, duvidhena vadāmi – sevitabbampi, asevitabbampi…pe… piṇḍapātaṃpāhaṃ, sāriputta… senāsanaṃpāhaṃ, sāriputta… gāmaṃpāhaṃ, sāriputta… nigamaṃpāhaṃ, sāriputta… nagaraṃpāhaṃ, sāriputta… janapadaṃpāhaṃ, sāriputta… puggalaṃpāhaṃ, sāriputta, duvidhena vadāmi – sevitabbampi, asevitabbampī’’ti.",
+   "zh": "“‘舍利弗，对于衣，我同样说为两种：可亲近者与不可亲近者……舍利弗，对于钵食……舍利弗，对于住所……舍利弗，对于村……舍利弗，对于镇……舍利弗，对于城……舍利弗，对于国……舍利弗，对于人，我同样说为两种：可亲近者与不可亲近者。’”",
+   "status": "live",
+   "seq": 39,
+   "n": "121"
+  },
+  {
+   "idx": 90,
+   "pali": "Evaṃ vutte, āyasmā sāriputto bhagavantaṃ etadavoca – ‘‘imassa kho ahaṃ, bhante, bhagavatā saṃkhittena bhāsitassa, vitthārena atthaṃ avibhattassa, evaṃ vitthārena atthaṃ ājānāmi. ‘Cakkhuviññeyyaṃ rūpaṃpāhaṃ, sāriputta, duvidhena vadāmi – sevitabbampi, asevitabbampī’ti – iti kho panetaṃ vuttaṃ bhagavatā. Kiñcetaṃ paṭicca vuttaṃ? Yathārūpaṃ, bhante, cakkhuviññeyyaṃ rūpaṃ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti evarūpaṃ cakkhuviññeyyaṃ rūpaṃ na sevitabbaṃ; yathārūpañca kho, bhante, cakkhuviññeyyaṃ rūpaṃ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti evarūpaṃ cakkhuviññeyyaṃ rūpaṃ sevitabbaṃ. ‘Cakkhuviññeyyaṃ rūpaṃpāhaṃ, sāriputta, duvidhena vadāmi – sevitabbampi, asevitabbampī’ti – iti yaṃ taṃ vuttaṃ bhagavatā idametaṃ paṭicca vuttaṃ.",
+   "zh": "听了这话，具寿舍利弗对世尊这样说：“尊者，对于世尊这段简略的开示——其意义尚未被详细解释——我这样来详细理解它的意义。‘舍利弗，关于眼所识知的色，我同样说它有两种：应亲近的和不应亲近的。’这正是世尊所说的话。那是基于什么缘由而说的呢？尊者，那种眼所识知的色，若亲近它时，不善法增长，善法衰退，像那样的眼所识知的色便不应亲近；而尊者，那种眼所识知的色，若亲近它时，不善法衰退，善法增长，像那样的眼所识知的色便应当亲近。‘舍利弗，关于眼所识知的色，我同样说它有两种：应亲近的和不应亲近的。’——像这样，世尊所说的这番话，正是基于这一缘由而说。”",
+   "status": "live",
+   "seq": 40,
+   "audit_note": "20260706-zhipu90:语义扫描agent裁决-keep:问题在当前文本不存在。current_zh 两处均已有“我同样说它有两种”，已准确对应 cakkhuviññeyyaṃ rūpaṃpāhaṃ 中的 api ahaṃ。"
+  },
+  {
+   "idx": 98,
+   "pali": "‘‘Piṇḍapātaṃpāhaṃ, sāriputta…pe… evarūpo piṇḍapāto na sevitabbo… evarūpo piṇḍapāto sevitabbo… senāsanaṃpāhaṃ, sāriputta…pe… evarūpaṃ senāsanaṃ na sevitabbaṃ… evarūpaṃ senāsanaṃ sevitabbaṃ… gāmaṃpāhaṃ, sāriputta …pe… evarūpo gāmo na sevitabbo… evarūpo gāmo sevitabbo… evarūpo nigamo na sevitabbo… evarūpo nigamo sevitabbo… evarūpaṃ nagaraṃ na sevitabbaṃ… evarūpaṃ nagaraṃ sevitabbaṃ… evarūpo janapado na sevitabbo… evarūpo janapado sevitabbo.",
+   "zh": "“舍利弗，对于钵食……像这样的钵食不应亲近……像这样的钵食应亲近。舍利弗，对于住所……像这样的住所不应亲近……像这样的住所应亲近。舍利弗，对于村……像这样的村不应亲近……像这样的村应亲近……像这样的镇不应亲近……像这样的镇应亲近……像这样的城不应亲近……像这样的城应亲近……像这样的国不应亲近……像这样的国应亲近。”",
+   "status": "live",
+   "seq": 41,
+   "audit_note": "20260706-zhipu90:语义扫描agent裁决-keep:issue 所称 nigamaṃpāhaṃ/nagaraṃpāhaṃ/janapadaṃpāhaṃ 不见于所给 pali；原文只在 piṇḍapātaṃpāhaṃ、senāsanaṃpāhaṃ、gāmaṃpāhaṃ 处有 pāhaṃ，后续镇、城、国只是 evarūpo/evarūpaṃ 句式。"
+  },
+  {
+   "idx": 99,
+   "pali": "‘‘‘Puggalaṃpāhaṃ, sāriputta, duvidhena vadāmi – sevitabbampi, asevitabbampī’ti – iti kho panetaṃ vuttaṃ bhagavatā. Kiñcetaṃ paṭicca vuttaṃ? Yathārūpaṃ, bhante, puggalaṃ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti evarūpo puggalo na sevitabbo; yathārūpañca kho, bhante, puggalaṃ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti evarūpo puggalo sevitabbo. ‘Puggalaṃpāhaṃ, sāriputta, duvidhena vadāmi – sevitabbampi, asevitabbampī’ti – iti yaṃ taṃ vuttaṃ bhagavatā idametaṃ paṭicca vuttanti. Imassa kho ahaṃ, bhante, bhagavatā saṃkhittena bhāsitassa, vitthārena atthaṃ avibhattassa evaṃ vitthārena atthaṃ ājānāmī’’ti.",
+   "zh": "“‘舍利弗，对于人，我也是说为两种：有应亲近的，有不应亲近的。’——这确实是世尊所说的话。世尊基于什么而这样说呢？尊者，若亲近某一个人时，不善法增长，善法衰减，这样的人便不应亲近；尊者，若亲近某一个人时，不善法衰减，善法增长，这样的人便应亲近。‘舍利弗，对于人，我也是说为两种：有应亲近的，有不应亲近的。’——世尊正是基于这个才说这番话的。尊者，对于世尊这简略而未详细开演的教说，我是这样详尽地理解其义的。”",
+   "status": "live",
+   "seq": 42
+  },
+  {
+   "idx": 93,
+   "pali": "‘‘Sādhu sādhu, sāriputta! Sādhu kho tvaṃ, sāriputta, imassa mayā saṃkhittena bhāsitassa, vitthārena atthaṃ avibhattassa evaṃ vitthārena atthaṃ ājānāsi. ‘Cīvaraṃpāhaṃ, sāriputta, duvidhena vadāmi – sevitabbampi , asevitabbampī’ti – iti kho panetaṃ vuttaṃ mayā. Kiñcetaṃ paṭicca  vuttaṃ? Yathārūpaṃ, sāriputta, cīvaraṃ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti evarūpaṃ cīvaraṃ na sevitabbaṃ; yathārūpañca kho, sāriputta, cīvaraṃ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti evarūpaṃ cīvaraṃ sevitabbaṃ. ‘Cīvaraṃpāhaṃ, sāriputta, duvidhena vadāmi – sevitabbampi, asevitabbampī’ti – iti yaṃ taṃ vuttaṃ mayā idametaṃ paṭicca vuttaṃ. (Yathā paṭhamaṃ tathā vitthāretabbaṃ) evarūpo piṇḍapāto… evarūpaṃ senāsanaṃ… evarūpo gāmo… evarūpo nigamo… evarūpaṃ nagaraṃ… evarūpo janapado.",
+   "zh": "“善哉，善哉，舍利弗！舍利弗，你能如此详细地理解我这段略说、义理未广分别的法。",
+   "status": "live",
+   "seq": 43,
+   "audit_note": "20260706-zhipu90:语义扫描agent裁决-keep:问题在当前文本不存在。current_zh 两处“我同样说它有两种”已译出 pāhaṃ 的 api ahaṃ 义。",
+   "n": "122"
+  },
+  {
+   "idx": 101,
+   "pali": "‘‘‘Puggalaṃpāhaṃ, sāriputta, duvidhena vadāmi – sevitabbampi, asevitabbampī’ti – iti kho panetaṃ vuttaṃ mayā. Kiñcetaṃ paṭicca vuttaṃ? Yathārūpaṃ, sāriputta, puggalaṃ sevato akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti evarūpo puggalo na sevitabbo; yathārūpañca kho, sāriputta, puggalaṃ sevato akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti evarūpo puggalo sevitabbo. ‘Puggalaṃpāhaṃ, sāriputta, duvidhena vadāmi – sevitabbampi, asevitabbampī’ti – iti yaṃ taṃ vuttaṃ mayā idametaṃ paṭicca vuttaṃ. Imassa kho, sāriputta, mayā saṃkhittena bhāsitassa evaṃ vitthārena attho daṭṭhabbo.",
+   "zh": "“舍利弗，关于人，我也说有两种：应亲近的与不应亲近的。”——这确实是我所说的话。那是基于什么因缘而说的呢？舍利弗，若亲近那样的人，不善法便增长，善法则衰退，如此之人不应亲近；而舍利弗，若亲近那样的人，不善法便衰退，善法则增长，如此之人应当亲近。“舍利弗，关于人，我也说有两种：应亲近的与不应亲近的。”——我所说的话，正是基于这一因缘而说。舍利弗，对于我这段简略的开示，应当这样详细地理解其意义。",
+   "status": "live",
+   "seq": 44,
+   "zh_before": "“我说过人有两种情形，舍利弗——有应亲近的，也有不应亲近的。这是根据什么说的呢？舍利弗，如果亲近某类人，不善法增长，善法衰退，那么这类人就不应亲近；如果亲近某类人，不善法衰退，善法增长，那么这类人就应亲近。我说人有两种情形——有应亲近的，也有不应亲近的，就是根据这个说的。舍利弗，对于我这段简略的教说，应当这样去详细理解它的含义。”",
+   "fix_note": "20260706-zhipu90:语义扫描agent裁决-apply(核实巴利锚点+对照英译后修正)|Puggalaṃpāhaṃ 为 puggalaṃ + api + ahaṃ，“关于人，我也说”；current_zh 的“我说过人有两种情形”弱化了 pāhaṃ 且语体与前后段不一致。"
+  },
+  {
+   "idx": 102,
+   "pali": "‘‘Sabbepi ce, sāriputta, khattiyā imassa mayā saṃkhittena bhāsitassa evaṃ vitthārena atthaṃ ājāneyyuṃ, sabbesānampissa khattiyānaṃ dīgharattaṃ hitāya sukhāya. Sabbepi ce , sāriputta, brāhmaṇā…pe… sabbepi ce, sāriputta, vessā… sabbepi ce, sāriputta, suddā imassa mayā saṃkhittena bhāsitassa evaṃ vitthārena atthaṃ ājāneyyuṃ, sabbesānampissa suddānaṃ dīgharattaṃ hitāya sukhāya. Sadevakopi ce, sāriputta, loko samārako sabrahmako sassamaṇabrāhmaṇī pajā sadevamanussā imassa mayā saṃkhittena bhāsitassa evaṃ vitthārena atthaṃ ājāneyya, sadevakassapissa lokassa samārakassa sabrahmakassa sassamaṇabrāhmaṇiyā pajāya sadevamanussāya dīgharattaṃ hitāya sukhāyā’’ti.",
+   "zh": "“舍利弗，若所有刹帝利都能如此详细理解我这段简略教说的含义，这将为所有刹帝利带来长久的利益与安乐。舍利弗，若所有婆罗门……所有吠舍……所有首陀罗都能如此详细理解我这段简略教说的含义，这将为所有首陀罗带来长久的利益与安乐。舍利弗，若包括天、魔、梵天在内的世间，以及沙门、婆罗门、天、人众生，都能如此详细理解我这段简略教说的含义，这也将为包括天、魔、梵天在内的世间，以及沙门、婆罗门、天、人众生带来长久的利益与安乐。”",
+   "status": "live",
+   "seq": 45,
+   "n": "123"
+  },
+  {
+   "idx": 103,
+   "pali": "Idamavoca bhagavā. Attamano āyasmā sāriputto bhagavato bhāsitaṃ abhinandīti.",
+   "zh": "此乃世尊所说。具寿舍利弗心满意足，于世尊所说欢喜信受。",
+   "status": "live",
+   "seq": 46
+  },
+  {
+   "idx": 104,
+   "pali": "Sevitabbāsevitabbasuttaṃ niṭṭhitaṃ catutthaṃ.",
+   "zh": "《应亲近不应亲近经》第四终",
+   "status": "review-pending",
+   "_origin": "complete-20260611-071227",
+   "seq": 47,
+   "verdict": "编辑决策",
+   "audit_note": "9.0人工件[编辑决策·arb|轻度]:篇名 — 报告认定现有译法合理但建议加注说明语义范围，属于需加注情形，不构成必须修改的翻译错误。 ‖ 20260706c:后台审核队列人工件裁决-keep:篇名应亲近不应亲近经准确无误，报告仅建议加注。",
+   "_flag_source": "90-manual-import-20260705-215102",
+   "type": "colophon"
+  }
+ ],
+ "_restore_meta": {
+  "stamp": "20260611-071227",
+  "op": "complete-all-canon",
+  "segs_before": 46,
+  "segs_after": 47,
+  "added_from_legacy": 1,
+  "kept_7_0": 46,
+  "policy_ref": "翻译政策 一·5 经文完整性 — 经文不能缺失"
+ }
+}

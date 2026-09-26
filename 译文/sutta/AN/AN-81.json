@@ -1,0 +1,322 @@
+{
+ "uid": 81,
+ "title": "1. 略说经",
+ "nik": "AN",
+ "segs": [
+  {
+   "idx": 0,
+   "pali": "(24) 4. Kammavaggo",
+   "zh": "（24） 4. 业品"
+  },
+  {
+   "idx": 1,
+   "pali": "1. Saṃkhittasuttaṃ",
+   "zh": "1. [[saṃkhittasutta|略说经]]"
+  },
+  {
+   "idx": 2,
+   "pali": "‘‘Cattārimāni , bhikkhave, kammāni mayā sayaṃ abhiññā sacchikatvā paveditāni. Katamāni cattāri? Atthi, bhikkhave, kammaṃ kaṇhaṃ kaṇhavipākaṃ; atthi, bhikkhave, kammaṃ sukkaṃ sukkavipākaṃ; atthi, bhikkhave, kammaṃ kaṇhasukkaṃ kaṇhasukkavipākaṃ; atthi, bhikkhave, kammaṃ akaṇhaasukkaṃ akaṇhaasukkavipākaṃ kammakkhayāya saṃvattati. Imāni kho, bhikkhave, cattāri kammāni mayā sayaṃ abhiññā sacchikatvā paveditānī’’ti. Paṭhamaṃ.",
+   "zh": "“诸比丘，这四种业是我亲自以证智证知后所宣说的。哪四种？诸比丘，有黑业而有黑异熟；有白业而有白异熟；有黑白业而有黑白异熟；有非黑非白业而有非黑非白异熟，导向业的灭尽。诸比丘，这四种业是我亲自以证智证知后所宣说的。”第一。",
+   "n": "232"
+  },
+  {
+   "idx": 3,
+   "pali": "2. Vitthārasuttaṃ",
+   "zh": "2. [[vitthārasutta|详细经]]"
+  },
+  {
+   "idx": 4,
+   "pali": "‘‘Cattārimāni, bhikkhave, kammāni mayā sayaṃ abhiññā sacchikatvā paveditāni. Katamāni cattāri? Atthi, bhikkhave, kammaṃ kaṇhaṃ kaṇhavipākaṃ; atthi, bhikkhave, kammaṃ sukkaṃ sukkavipākaṃ; atthi, bhikkhave , kammaṃ kaṇhasukkaṃ kaṇhasukkavipākaṃ; atthi, bhikkhave, kammaṃ akaṇhaasukkaṃ akaṇhaasukkavipākaṃ kammakkhayāya saṃvattati.",
+   "zh": "“诸比丘，这四种业是我以证智亲自证知之后所宣说的。哪四种呢？诸比丘，有黑业黑异熟；有白业白异熟；有黑白业黑白异熟；有非黑非白业非黑非白异熟，导向业的灭尽。",
+   "n": "233"
+  },
+  {
+   "idx": 5,
+   "pali": "‘‘Katamañca, bhikkhave, kammaṃ kaṇhaṃ kaṇhavipākaṃ? Idha, bhikkhave, ekacco sabyābajjhaṃ kāyasaṅkhāraṃ abhisaṅkharoti, sabyābajjhaṃ vacīsaṅkhāraṃ abhisaṅkharoti, sabyābajjhaṃ manosaṅkhāraṃ abhisaṅkharoti. So sabyābajjhaṃ kāyasaṅkhāraṃ abhisaṅkharitvā, sabyābajjhaṃ vacīsaṅkhāraṃ abhisaṅkharitvā, sabyābajjhaṃ manosaṅkhāraṃ abhisaṅkharitvā sabyābajjhaṃ lokaṃ upapajjati. Tamenaṃ sabyābajjhaṃ lokaṃ upapannaṃ samānaṃ sabyābajjhā phassā phusanti. So sabyābajjhehi phassehi phuṭṭho samāno sabyābajjhaṃ vedanaṃ vediyati ekantadukkhaṃ, seyyathāpi sattā nerayikā. Idaṃ vuccati, bhikkhave, kammaṃ kaṇhaṃ kaṇhavipākaṃ.",
+   "zh": "“诸比丘，什么是黑业黑异熟？诸比丘，于此，有人造作有恼害的身行，造作有恼害的语行，造作有恼害的意行。他造作了有恼害的身行、语行、意行之后，便投生于有恼害的世间。当他投生到有恼害的世间时，有恼害的触便接触他。当他被有恼害的触所触时，便感受有恼害的受，纯一之苦，犹如地狱众生。诸比丘，这便称为黑业黑异熟。"
+  },
+  {
+   "idx": 6,
+   "pali": "‘‘Katamañca , bhikkhave, kammaṃ sukkaṃ sukkavipākaṃ? Idha, bhikkhave, ekacco abyābajjhaṃ kāyasaṅkhāraṃ abhisaṅkharoti, abyābajjhaṃ vacīsaṅkhāraṃ abhisaṅkharoti, abyābajjhaṃ manosaṅkhāraṃ abhisaṅkharoti. So abyābajjhaṃ kāyasaṅkhāraṃ abhisaṅkharitvā, abyābajjhaṃ vacīsaṅkhāraṃ abhisaṅkharitvā, abyābajjhaṃ manosaṅkhāraṃ abhisaṅkharitvā abyābajjhaṃ lokaṃ upapajjati. Tamenaṃ abyābajjhaṃ lokaṃ upapannaṃ samānaṃ abyābajjhā phassā phusanti. So abyābajjhehi phassehi phuṭṭho samāno abyābajjhaṃ vedanaṃ vediyati ekantasukhaṃ, seyyathāpi devā subhakiṇhā. Idaṃ vuccati, bhikkhave, kammaṃ sukkaṃ sukkavipākaṃ.",
+   "zh": "“诸比丘，什么是白业白异熟？诸比丘，于此，有人造作无恼害的身行，造作无恼害的语行，造作无恼害的意行。他造作了无恼害的身行、语行、意行之后，便投生于无恼害的世间。当他投生到无恼害的世间时，无恼害的触便接触他。当他被无恼害的触所触时，便感受无恼害的受，纯一之乐，犹如遍净天。诸比丘，这便称为白业白异熟。"
+  },
+  {
+   "idx": 7,
+   "pali": "‘‘Katamañca, bhikkhave, kammaṃ kaṇhasukkaṃ kaṇhasukkavipākaṃ? Idha, bhikkhave, ekacco sabyābajjhampi abyābajjhampi kāyasaṅkhāraṃ abhisaṅkharoti, sabyābajjhampi abyābajjhampi vacīsaṅkhāraṃ abhisaṅkharoti, sabyābajjhampi abyābajjhampi manosaṅkhāraṃ abhisaṅkharoti. So sabyābajjhampi abyābajjhampi kāyasaṅkhāraṃ abhisaṅkharitvā, sabyābajjhampi abyābajjhampi vacīsaṅkhāraṃ abhisaṅkharitvā, sabyābajjhampi abyābajjhampi manosaṅkhāraṃ abhisaṅkharitvā sabyābajjhampi abyābajjhampi lokaṃ upapajjati. Tamenaṃ sabyābajjhampi abyābajjhampi lokaṃ upapannaṃ samānaṃ sabyābajjhāpi abyābajjhāpi phassā phusanti. So sabyābajjhehipi abyābajjhehipi phassehi phuṭṭho samāno sabyābajjhampi abyābajjhampi vedanaṃ vediyati vokiṇṇasukhadukkhaṃ, seyyathāpi manussā ekacce ca devā ekacce ca vinipātikā. Idaṃ vuccati, bhikkhave, kammaṃ kaṇhasukkaṃ kaṇhasukkavipākaṃ.",
+   "zh": "“诸比丘，什么是黑白业、黑白异熟？诸比丘，在此，有一种人造作既有恼害又无恼害的身行，造作既有恼害又无恼害的语行，造作既有恼害又无恼害的意行。他造作了既有恼害又无恼害的身行、造作了既有恼害又无恼害的语行、造作了既有恼害又无恼害的意行之后，便投生于既有恼害又无恼害的世界。投生到既有恼害又无恼害的世界的他，会被既有恼害又无恼害的触所触及。被既有恼害又无恼害的触所触，他便感受到既有恼害又无恼害的受，其中的乐与苦交织混杂，正如某些人类、某些天人、某些堕恶趣者所经历的那样。诸比丘，这就称为黑白业、黑白异熟。”"
+  },
+  {
+   "idx": 8,
+   "pali": "‘‘Katamañca, bhikkhave, kammaṃ akaṇhaasukkaṃ akaṇhaasukkavipākaṃ kammakkhayāya saṃvattati? Tatra, bhikkhave, yamidaṃ kammaṃ kaṇhaṃ kaṇhavipākaṃ tassa pahānāya yā cetanā, yamidaṃ kammaṃ sukkaṃ sukkavipākaṃ tassa pahānāya yā cetanā, yamidaṃ kammaṃ kaṇhasukkaṃ kaṇhasukkavipākaṃ tassa pahānāya yā cetanā – idaṃ vuccati, bhikkhave , kammaṃ akaṇhaasukkaṃ akaṇhaasukkavipākaṃ kammakkhayāya saṃvattati. Imāni kho, bhikkhave, cattāri kammāni mayā sayaṃ abhiññā sacchikatvā paveditānī’’ti. Dutiyaṃ.",
+   "zh": "“诸比丘，何谓非黑非白之业、非黑非白之异熟、导向业的灭尽？诸比丘，那即是：为断除黑业黑异熟的思，为断除白业白异熟的思，为断除黑白业黑白异熟的思。诸比丘，这便名为非黑非白之业、非黑非白之异熟、导向业的灭尽。诸比丘，这四种业，是我以证智亲自证知后所宣说的。”第二。"
+  },
+  {
+   "idx": 9,
+   "pali": "3. Soṇakāyanasuttaṃ",
+   "zh": "3. [[soṇakāyanasutta|首那咖亚那经]]"
+  },
+  {
+   "idx": 10,
+   "pali": "Atha kho sikhāmoggallāno brāhmaṇo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṃ sammodi. Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho sikhāmoggallāno brāhmaṇo bhagavantaṃ etadavoca –",
+   "zh": "那时，西咖[[moggallāna|目犍连]]婆罗门来到世尊处，与世尊互相问候，共叙了亲善、令人忆念的交谈，然后在一旁坐下。坐于一旁的西咖[[moggallāna|目犍连]]婆罗门对世尊这样说：",
+   "n": "234"
+  },
+  {
+   "idx": 11,
+   "pali": "‘‘Purimāni, bho gotama, divasāni purimatarāni soṇakāyano māṇavo yenāhaṃ tenupasaṅkami; upasaṅkamitvā maṃ etadavoca – ‘samaṇo gotamo sabbakammānaṃ akiriyaṃ paññapeti, sabbakammānaṃ kho pana akiriyaṃ paññapento ucchedaṃ āha lokassa – kammasaccāyaṃ , bho, loko kammasamārambhaṭṭhāyī’’’ti.",
+   "zh": "“[[gotama|乔达摩尊]]者，前些日子，更早些时候，首那咖亚那学童来到我这里，到后对我这样说：‘[[gotama|沙门乔达摩]]宣说一切业的不作；若宣说一切业的不作，那便是在说世间的断灭。尊者，这世间依业而存在，依业的执取而住立。’”"
+  },
+  {
+   "idx": 12,
+   "pali": "‘‘Dassanampi kho ahaṃ, brāhmaṇa, soṇakāyanassa māṇavassa nābhijānāmi; kuto panevarūpo kathāsallāpo! Cattārimāni, brāhmaṇa, kammāni mayā sayaṃ abhiññā sacchikatvā paveditāni. Katamāni cattāri? Atthi, brāhmaṇa, kammaṃ kaṇhaṃ kaṇhavipākaṃ; atthi, brāhmaṇa, kammaṃ sukkaṃ sukkavipākaṃ; atthi, brāhmaṇa, kammaṃ kaṇhasukkaṃ kaṇhasukkavipākaṃ; atthi , brāhmaṇa, kammaṃ akaṇhaasukkaṃ akaṇhaasukkavipākaṃ kammakkhayāya saṃvattati.",
+   "zh": "“婆罗门，我全然不记得曾见过首那咖亚那学童，更不用说像那样的言谈了。婆罗门，有四种业，是我亲自由证智证知后所宣说的。哪四种呢？婆罗门，有黑业、黑果报；婆罗门，有白业、白果报；婆罗门，有黑白业、黑白果报；婆罗门，有非黑非白业、非黑非白果报，导向业的灭尽。”"
+  },
+  {
+   "idx": 13,
+   "pali": "‘‘Katamañca, brāhmaṇa, kammaṃ kaṇhaṃ kaṇhavipākaṃ? Idha, brāhmaṇa, ekacco sabyābajjhaṃ kāyasaṅkhāraṃ abhisaṅkharoti, sabyābajjhaṃ vacīsaṅkhāraṃ abhisaṅkharoti, sabyābajjhaṃ manosaṅkhāraṃ abhisaṅkharoti. So sabyābajjhaṃ kāyasaṅkhāraṃ abhisaṅkharitvā, sabyābajjhaṃ vacīsaṅkhāraṃ abhisaṅkharitvā, sabyābajjhaṃ manosaṅkhāraṃ abhisaṅkharitvā sabyābajjhaṃ lokaṃ upapajjati. Tamenaṃ sabyābajjhaṃ lokaṃ upapannaṃ samānaṃ sabyābajjhā phassā phusanti. So sabyābajjhehi phassehi phuṭṭho samāno sabyābajjhaṃ vedanaṃ vediyati ekantadukkhaṃ, seyyathāpi sattā nerayikā. Idaṃ vuccati, brāhmaṇa, kammaṃ kaṇhaṃ kaṇhavipākaṃ.",
+   "zh": "“婆罗门，什么是黑业而有黑果报？在此，有人造作有恼害的身行、有恼害的语行、有恼害的意行。他造作了这些有恼害的身、语、意行后，便投生于有恼害的世间。当他投生到有恼害的世间时，有恼害的触接触他。他为有恼害的触所触时，便感受有恼害的受，纯然是苦，如同地狱中的众生。婆罗门，这便名为黑业而有黑果报。"
+  },
+  {
+   "idx": 14,
+   "pali": "‘‘Katamañca , brāhmaṇa, kammaṃ sukkaṃ sukkavipākaṃ? Idha, brāhmaṇa, ekacco abyābajjhaṃ kāyasaṅkhāraṃ abhisaṅkharoti, abyābajjhaṃ vacīsaṅkhāraṃ abhisaṅkharoti, abyābajjhaṃ manosaṅkhāraṃ abhisaṅkharoti. So abyābajjhaṃ kāyasaṅkhāraṃ abhisaṅkharitvā, abyābajjhaṃ vacīsaṅkhāraṃ abhisaṅkharitvā , abyābajjhaṃ manosaṅkhāraṃ abhisaṅkharitvā abyābajjhaṃ lokaṃ upapajjati. Tamenaṃ abyābajjhaṃ lokaṃ upapannaṃ samānaṃ abyābajjhā phassā phusanti. So abyābajjhehi phassehi phuṭṭho samāno abyābajjhaṃ vedanaṃ vediyati ekantasukhaṃ, seyyathāpi devā subhakiṇhā. Idaṃ vuccati, brāhmaṇa, kammaṃ sukkaṃ sukkavipākaṃ.",
+   "zh": "“婆罗门，什么是白业而有白果报？在此，有人造作无恼害的身行、无恼害的语行、无恼害的意行。他造作了这些无恼害的身、语、意行后，便投生于无恼害的世间。当他投生到无恼害的世间时，无恼害的触接触他。他为无恼害的触所触时，便感受无恼害的受，纯然是乐，如同遍净天的众生。婆罗门，这便名为白业而有白果报。"
+  },
+  {
+   "idx": 15,
+   "pali": "‘‘Katamañca, brāhmaṇa, kammaṃ kaṇhasukkaṃ kaṇhasukkavipākaṃ? Idha, brāhmaṇa, ekacco sabyābajjhampi abyābajjhampi kāyasaṅkhāraṃ abhisaṅkharoti, sabyābajjhampi abyābajjhampi vacīsaṅkhāraṃ abhisaṅkharoti, sabyābajjhampi abyābajjhampi manosaṅkhāraṃ abhisaṅkharoti. So sabyābajjhampi abyābajjhampi kāyasaṅkhāraṃ abhisaṅkharitvā, sabyābajjhampi abyābajjhampi vacīsaṅkhāraṃ abhisaṅkharitvā, sabyābajjhampi abyābajjhampi manosaṅkhāraṃ abhisaṅkharitvā sabyābajjhampi abyābajjhampi lokaṃ upapajjati. Tamenaṃ sabyābajjhampi abyābajjhampi lokaṃ upapannaṃ samānaṃ sabyābajjhāpi abyābajjhāpi phassā phusanti. So sabyābajjhehipi abyābajjhehipi phassehi phuṭṭho samāno sabyābajjhampi abyābajjhampi vedanaṃ vediyati vokiṇṇasukhadukkhaṃ, seyyathāpi manussā ekacce ca devā ekacce ca vinipātikā. Idaṃ vuccati, brāhmaṇa, kammaṃ kaṇhasukkaṃ kaṇhasukkavipākaṃ.",
+   "zh": "“婆罗门，什么是黑白业而有黑白果报？在此，有人造作既有恼害也有无恼害的身行，既有恼害也有无恼害的语行，既有恼害也有无恼害的意行。他造作了这样的身、语、意行后，便投生于既有恼害也有无恼害的世间。当他投生到这样的世间时，既有恼害也有无恼害的触接触他。他为这种触所触时，便感受既有恼害也有无恼害的受，苦乐交杂，犹如某些人、某些天众以及某些堕恶趣者。婆罗门，这便名为黑白业而有黑白果报。"
+  },
+  {
+   "idx": 16,
+   "pali": "‘‘Katamañca, brāhmaṇa, kammaṃ akaṇhaasukkaṃ akaṇhaasukkavipākaṃ kammakkhayāya saṃvattati? Tatra, brāhmaṇa, yamidaṃ kammaṃ kaṇhaṃ kaṇhavipākaṃ tassa pahānāya yā cetanā, yamidaṃ kammaṃ sukkaṃ sukkavipākaṃ tassa pahānāya yā cetanā, yamidaṃ kammaṃ kaṇhasukkaṃ kaṇhasukkavipākaṃ tassa pahānāya yā cetanā – idaṃ vuccati, brāhmaṇa, kammaṃ akaṇhaasukkaṃ akaṇhaasukkavipākaṃ kammakkhayāya saṃvattati. Imāni kho, brāhmaṇa, cattāri kammāni mayā sayaṃ abhiññā sacchikatvā paveditānī’’ti. Tatiyaṃ.",
+   "zh": "“婆罗门，何为非黑非白之业、非黑非白之果报，而能导向业的灭尽？婆罗门，此中，为断除彼黑业黑果报之思，为断除彼白业白果报之思，为断除彼黑白业黑白果报之思——婆罗门，这便称为非黑非白业、非黑非白果报，导向业的灭尽。婆罗门，这四种业是我以证智亲自证得后所宣说的。”第三经。"
+  },
+  {
+   "idx": 17,
+   "pali": "4. Paṭhamasikkhāpadasuttaṃ",
+   "zh": "4. [[paṭhamasikkhāpadasutta|第一学处经]]"
+  },
+  {
+   "idx": 18,
+   "pali": "‘‘Cattārimāni, bhikkhave, kammāni mayā sayaṃ abhiññā sacchikatvā paveditāni. Katamāni cattāri? Atthi , bhikkhave, kammaṃ kaṇhaṃ kaṇhavipākaṃ; atthi, bhikkhave, kammaṃ sukkaṃ sukkavipākaṃ; atthi, bhikkhave, kammaṃ kaṇhasukkaṃ kaṇhasukkavipākaṃ ; atthi, bhikkhave, kammaṃ akaṇhaasukkaṃ akaṇhaasukkavipākaṃ kammakkhayāya saṃvattati. Katamañca, bhikkhave, kammaṃ kaṇhaṃ kaṇhavipākaṃ? Idha, bhikkhave, ekacco pāṇātipātī hoti, adinnādāyī hoti, kāmesumicchācārī hoti, musāvādī hoti, surāmerayamajjapamādaṭṭhāyī hoti. Idaṃ vuccati, bhikkhave, kammaṃ kaṇhaṃ kaṇhavipākaṃ.",
+   "zh": "“诸比丘，这四种业是我以证智亲自证得后所宣说的。哪四种？诸比丘，有黑业黑果报；诸比丘，有白业白果报；诸比丘，有黑白业黑白果报；诸比丘，有非黑非白业、非黑非白果报，导向业的灭尽。诸比丘，何为黑业黑果报？诸比丘，此处，某人是杀生者、不与取者、欲邪行者、妄语者，以及放逸之因的诸酒类耽溺者。诸比丘，这便称为黑业黑果报。”",
+   "n": "235"
+  },
+  {
+   "idx": 19,
+   "pali": "‘‘Katamañca, bhikkhave, kammaṃ sukkaṃ sukkavipākaṃ? Idha, bhikkhave, ekacco pāṇātipātā paṭivirato hoti, adinnādānā paṭivirato hoti, kāmesumicchācārā paṭivirato hoti, musāvādā paṭivirato hoti, surāmerayamajjapamādaṭṭhānā paṭivirato hoti. Idaṃ vuccati, bhikkhave, kammaṃ sukkaṃ sukkavipākaṃ.",
+   "zh": "“比丘们，何谓白业、白果报？比丘们，于此，有人远离杀生、远离不与取、远离欲邪行、远离妄语、远离饮用谷酒、果酒等放逸之因的麻醉品。比丘们，这便称为白业、白果报。"
+  },
+  {
+   "idx": 20,
+   "pali": "‘‘Katamañca, bhikkhave, kammaṃ kaṇhasukkaṃ kaṇhasukkavipākaṃ? Idha, bhikkhave, ekacco sabyābajjhampi abyābajjhampi kāyasaṅkhāraṃ abhisaṅkharoti…pe… idaṃ vuccati, bhikkhave, kammaṃ kaṇhasukkaṃ kaṇhasukkavipākaṃ.",
+   "zh": "“诸比丘，什么是黑白业、黑白果报？诸比丘，在此，有人造作有害亦无害的身行……（中略）……诸比丘，这便称为黑白业、黑白果报。"
+  },
+  {
+   "idx": 21,
+   "pali": "‘‘Katamañca, bhikkhave, kammaṃ akaṇhaasukkaṃ akaṇhaasukkavipākaṃ kammakkhayāya saṃvattati? Tatra, bhikkhave, yamidaṃ kammaṃ kaṇhaṃ kaṇhavipākaṃ…pe… idaṃ vuccati, bhikkhave, kammaṃ akaṇhaasukkaṃ akaṇhaasukkavipākaṃ kammakkhayāya saṃvattati. Imāni kho, bhikkhave, cattāri kammāni mayā sayaṃ abhiññā sacchikatvā paveditānī’’ti. Catutthaṃ.",
+   "zh": "“比丘们，何谓非黑非白、果报亦非黑非白，且导向业灭尽的业？比丘们，于此，那种黑业、黑果报的业……（中略）……比丘们，这便称为非黑非白、果报亦非黑非白，导向业灭尽的业。比丘们，此即我以证智亲自证悟后，所宣说的四种业。”第四经。"
+  },
+  {
+   "idx": 22,
+   "pali": "5. Dutiyasikkhāpadasuttaṃ",
+   "zh": "5. [[dutiyasikkhāpadasutta|第二学处经]]"
+  },
+  {
+   "idx": 23,
+   "pali": "‘‘Cattārimāni, bhikkhave, kammāni mayā sayaṃ abhiññā sacchikatvā paveditāni. Katamāni cattāri? Atthi, bhikkhave, kammaṃ kaṇhaṃ kaṇhavipākaṃ; atthi, bhikkhave, kammaṃ sukkaṃ sukkavipākaṃ; atthi, bhikkhave, kammaṃ kaṇhasukkaṃ kaṇhasukkavipākaṃ; atthi, bhikkhave, kammaṃ akaṇhaasukkaṃ akaṇhaasukkavipākaṃ kammakkhayāya saṃvattati.",
+   "zh": "“诸比丘！这四种业是我亲自以证智证知后所宣说。哪四种呢？诸比丘！有黑、黑果报之业；诸比丘！有白、白果报之业；诸比丘！有黑白、黑白果报之业；诸比丘！有非黑非白、非黑非白果报、导向业灭尽之业。”",
+   "n": "236"
+  },
+  {
+   "idx": 24,
+   "pali": "‘‘Katamañca, bhikkhave, kammaṃ kaṇhaṃ kaṇhavipākaṃ? Idha, bhikkhave, ekaccena mātā jīvitā voropitā hoti, pitā jīvitā voropito hoti, arahaṃ jīvitā voropito hoti , tathāgatassa duṭṭhena cittena lohitaṃ uppāditaṃ hoti, saṅgho bhinno hoti. Idaṃ vuccati, bhikkhave, kammaṃ kaṇhaṃ kaṇhavipākaṃ.",
+   "zh": "“诸比丘！什么是黑、黑果报之业？于此，有人夺取母亲性命，夺取父亲性命，夺取阿拉汉性命，以恶心令如来出血，破坏僧团。诸比丘！这便称为黑、黑果报之业。”"
+  },
+  {
+   "idx": 25,
+   "pali": "‘‘Katamañca, bhikkhave, kammaṃ sukkaṃ sukkavipākaṃ? Idha, bhikkhave, ekacco pāṇātipātā paṭivirato hoti, adinnādānā paṭivirato hoti, kāmesumicchācārā paṭivirato hoti, musāvādā paṭivirato hoti, pisuṇāya vācāya paṭivirato hoti, pharusāya vācāya paṭivirato hoti, samphappalāpā paṭivirato hoti, anabhijjhālu hoti, abyāpannacitto hoti, sammādiṭṭhi hoti. Idaṃ vuccati, bhikkhave, kammaṃ sukkaṃ sukkavipākaṃ.",
+   "zh": "“诸比丘！何等是白业、有白果报之业？诸比丘！此处，有人离杀生，离不与取，离欲邪行，离妄语，离两舌，离粗恶语，离杂秽语，不贪，心无嗔恨，具足正见。诸比丘！这便称为白业、有白果报之业。"
+  },
+  {
+   "idx": 26,
+   "pali": "‘‘Katamañca, bhikkhave, kammaṃ kaṇhasukkaṃ kaṇhasukkavipākaṃ? Idha, bhikkhave, ekacco sabyābajjhampi abyābajjhampi kāyasaṅkhāraṃ abhisaṅkharoti…pe… idaṃ vuccati, bhikkhave, kammaṃ kaṇhasukkaṃ kaṇhasukkavipākaṃ.",
+   "zh": "“诸比丘，什么是黑白业、黑白果报？诸比丘，在此，有人造作有害亦无害的身行……（中略）……诸比丘，这便称为黑白业、黑白果报。"
+  },
+  {
+   "idx": 27,
+   "pali": "‘‘Katamañca, bhikkhave, kammaṃ akaṇhaasukkaṃ akaṇhaasukkavipākaṃ kammakkhayāya saṃvattati? Tatra, bhikkhave, yamidaṃ kammaṃ kaṇhaṃ kaṇhavipākaṃ…pe… idaṃ vuccati, bhikkhave, kammaṃ akaṇhaasukkaṃ akaṇhaasukkavipākaṃ kammakkhayāya saṃvattati. Imāni kho, bhikkhave, cattāri kammāni mayā sayaṃ abhiññā sacchikatvā paveditānī’’ti. Pañcamaṃ.",
+   "zh": "“诸比丘！何等是非黑非白业、非黑非白果报、而导向业尽之业？诸比丘！于彼，凡此黑业、有黑果报者……（中略）……诸比丘！这便称为非黑非白业、非黑非白果报、导向业尽之业。诸比丘！此四种业，是我以自证智证知、证解后所宣说的。”第五经。"
+  },
+  {
+   "idx": 28,
+   "pali": "6. Ariyamaggasuttaṃ",
+   "zh": "6. [[ariyamaggasutta|圣道经]]"
+  },
+  {
+   "idx": 29,
+   "pali": "‘‘Cattārimāni, bhikkhave, kammāni mayā sayaṃ abhiññā sacchikatvā paveditāni. Katamāni cattāri? Atthi, bhikkhave, kammaṃ kaṇhaṃ kaṇhavipākaṃ; atthi, bhikkhave, kammaṃ sukkaṃ sukkavipākaṃ; atthi, bhikkhave, kammaṃ kaṇhasukkaṃ kaṇhasukkavipākaṃ; atthi, bhikkhave, kammaṃ akaṇhaasukkaṃ akaṇhaasukkavipākaṃ kammakkhayāya saṃvattati.",
+   "zh": "“诸比丘！有四种业是我亲证、亲知后而宣说的。哪四种？诸比丘！有黑业、黑果报；诸比丘！有白业、白果报；诸比丘！有黑白业、黑白果报；诸比丘！有非黑非白业、非黑非白果报，导向业尽的业。",
+   "n": "237"
+  },
+  {
+   "idx": 30,
+   "pali": "‘‘Katamañca, bhikkhave, kammaṃ kaṇhaṃ kaṇhavipākaṃ? Idha, bhikkhave, ekacco sabyābajjhaṃ kāyasaṅkhāraṃ abhisaṅkharoti…pe… idaṃ vuccati, bhikkhave, kammaṃ kaṇhaṃ kaṇhavipākaṃ.",
+   "zh": "“诸比丘，什么是黑业、黑报之业？诸比丘，在此，有人造作有损害的身行……诸比丘，这便称为黑业、黑报之业。"
+  },
+  {
+   "idx": 31,
+   "pali": "‘‘Katamañca , bhikkhave, kammaṃ sukkaṃ sukkavipākaṃ? Idha , bhikkhave, ekacco abyābajjhaṃ kāyasaṅkhāraṃ abhisaṅkharoti…pe… idaṃ vuccati, bhikkhave, kammaṃ sukkaṃ sukkavipākaṃ.",
+   "zh": "“诸比丘，什么是白业、白报之业？诸比丘，在此，有人造作无损害的身行……诸比丘，这便称为白业、白报之业。"
+  },
+  {
+   "idx": 32,
+   "pali": "‘‘Katamañca, bhikkhave, kammaṃ kaṇhasukkaṃ kaṇhasukkavipākaṃ? Idha, bhikkhave, ekacco sabyābajjhampi abyābajjhampi kāyasaṅkhāraṃ abhisaṅkharoti…pe… idaṃ vuccati, bhikkhave, kammaṃ kaṇhasukkaṃ kaṇhasukkavipākaṃ.",
+   "zh": "“诸比丘，什么是黑白业、黑白果报？诸比丘，在此，有人造作有害亦无害的身行……（中略）……诸比丘，这便称为黑白业、黑白果报。"
+  },
+  {
+   "idx": 33,
+   "pali": "‘‘Katamañca, bhikkhave, kammaṃ akaṇhaasukkaṃ akaṇhaasukkavipākaṃ kammakkhayāya saṃvattati? Sammādiṭṭhi…pe… sammāsamādhi. Idaṃ vuccati, bhikkhave, kammaṃ akaṇhaasukkaṃ akaṇhaasukkavipākaṃ kammakkhayāya saṃvattati. Imāni kho, bhikkhave, cattāri kammāni mayā sayaṃ abhiññā sacchikatvā paveditānī’’ti. Chaṭṭhaṃ.",
+   "zh": "“诸比丘，什么是非黑非白业而有非黑非白果报、能令业尽的业呢？那就是正见……（中略）……正定。诸比丘，这便称为非黑非白业而有非黑非白果报、能令业尽的业。诸比丘，这四种业，是我亲自以证智证知后所宣说的。”第六经。"
+  },
+  {
+   "idx": 34,
+   "pali": "7. Bojjhaṅgasuttaṃ",
+   "zh": "7. [[bojjhaṅgasutta|觉支经]]"
+  },
+  {
+   "idx": 35,
+   "pali": "‘‘Cattārimāni, bhikkhave, kammāni…pe… kaṇhaṃ kaṇhavipākaṃ…pe… idha, bhikkhave, ekacco sabyābajjhaṃ kāyasaṅkhāraṃ abhisaṅkharoti…pe… idaṃ vuccati, bhikkhave, kammaṃ kaṇhaṃ kaṇhavipākaṃ.",
+   "zh": "“诸比丘，这四种业……黑业黑果报……诸比丘，于此，有一类人造作有恚的身行……诸比丘，此即名为黑业黑果报。",
+   "n": "238"
+  },
+  {
+   "idx": 36,
+   "pali": "‘‘Katamañca, bhikkhave, kammaṃ sukkaṃ sukkavipākaṃ? Idha, bhikkhave, ekacco abyābajjhaṃ kāyasaṅkhāraṃ abhisaṅkharoti…pe… idaṃ vuccati, bhikkhave, kammaṃ sukkaṃ sukkavipākaṃ.",
+   "zh": "“诸比丘，什么是白业白果报？诸比丘，在此，有人造作无害的身行……（中略）……诸比丘，这称为白业白果报。"
+  },
+  {
+   "idx": 37,
+   "pali": "‘‘Katamañca, bhikkhave, kammaṃ kaṇhasukkaṃ kaṇhasukkavipākaṃ? Idha , bhikkhave, ekacco sabyābajjhampi abyābajjhampi kāyasaṅkhāraṃ abhisaṅkharoti…pe… idaṃ vuccati, bhikkhave, kammaṃ kaṇhasukkaṃ kaṇhasukkavipākaṃ.",
+   "zh": "“诸比丘，什么是黑白业、黑白果报？诸比丘，在此，有人造作有害亦无害的身行……（中略）……诸比丘，这便称为黑白业、黑白果报。"
+  },
+  {
+   "idx": 38,
+   "pali": "‘‘Katamañca, bhikkhave, kammaṃ akaṇhaasukkaṃ akaṇhaasukkavipākaṃ kammakkhayāya saṃvattati? Satisambojjhaṅgo, dhammavicayasambojjhaṅgo, vīriyasambojjhaṅgo, pītisambojjhaṅgo, passaddhisambojjhaṅgo, samādhisambojjhaṅgo, upekkhāsambojjhaṅgo – idaṃ vuccati, bhikkhave, kammaṃ akaṇhaasukkaṃ akaṇhaasukkavipākaṃ kammakkhayāya saṃvattati. Imāni kho, bhikkhave, cattāri kammāni mayā sayaṃ abhiññā sacchikatvā paveditānī’’ti. Sattamaṃ.",
+   "zh": "“诸比丘，什么是非黑非白业非黑非白果报，导向业尽？念觉支、择法觉支、精进觉支、喜觉支、轻安觉支、定觉支、舍觉支——诸比丘，此即名为非黑非白业非黑非白果报，导向业尽。诸比丘，这四种业是我以证智亲自证知后所宣说的。”第七经。"
+  },
+  {
+   "idx": 39,
+   "pali": "8. Sāvajjasuttaṃ",
+   "zh": "8. [[sāvajjasutta|有罪经]]"
+  },
+  {
+   "idx": 40,
+   "pali": "‘‘Catūhi , bhikkhave, dhammehi samannāgato yathābhataṃ nikkhitto evaṃ niraye. Katamehi catūhi? Sāvajjena kāyakammena, sāvajjena vacīkammena, sāvajjena manokammena, sāvajjāya diṭṭhiyā – imehi kho, bhikkhave, catūhi dhammehi samannāgato yathābhataṃ nikkhitto evaṃ niraye.",
+   "zh": "“诸比丘，成就四法者，恰如被带来弃置于地狱。哪四种呢？有罪的身业、有罪的语业、有罪的意业、有罪的见。诸比丘，成就此四法者，恰如被带来弃置于地狱。",
+   "n": "239"
+  },
+  {
+   "idx": 41,
+   "pali": "‘‘Catūhi, bhikkhave, dhammehi samannāgato yathābhataṃ nikkhitto evaṃ sagge. Katamehi catūhi? Anavajjena kāyakammena, anavajjena vacīkammena, anavajjena manokammena, anavajjāya diṭṭhiyā – imehi kho, bhikkhave, catūhi dhammehi samannāgato yathābhataṃ nikkhitto evaṃ sagge’’ti. Aṭṭhamaṃ.",
+   "zh": "“诸比丘，成就四法者，恰如被带来置于天界。哪四种呢？无罪的身业、无罪的语业、无罪的意业、无罪的见。诸比丘，成就此四法者，恰如被带来置于天界。”第八。"
+  },
+  {
+   "idx": 42,
+   "pali": "9. Abyābajjhasuttaṃ",
+   "zh": "9. [[abyābajjhasutta|无害经]]"
+  },
+  {
+   "idx": 43,
+   "pali": "‘‘Catūhi , bhikkhave, dhammehi samannāgato yathābhataṃ nikkhitto evaṃ niraye. Katamehi catūhi? Sabyābajjhena kāyakammena, sabyābajjhena vacīkammena, sabyābajjhena manokammena, sabyābajjhāya diṭṭhiyā – imehi kho, bhikkhave, catūhi dhammehi samannāgato yathābhataṃ nikkhitto evaṃ niraye.",
+   "zh": "诸比丘，具足四法者，就如被带来一样，被弃置于地狱。哪四种？有害的身业、有害的语业、有害的意业、有害的见——诸比丘，具足此四法者，便如同被带来一样，被弃置于地狱。",
+   "n": "240"
+  },
+  {
+   "idx": 44,
+   "pali": "‘‘Catūhi , bhikkhave, dhammehi samannāgato yathābhataṃ nikkhitto evaṃ sagge. Katamehi catūhi? Abyābajjhena kāyakammena, abyābajjhena vacīkammena, abyābajjhena manokammena, abyābajjhāya diṭṭhiyā – imehi kho, bhikkhave, catūhi dhammehi samannāgato yathābhataṃ nikkhitto evaṃ sagge’’ti. Navamaṃ.",
+   "zh": "“诸比丘，具足四法者，犹如担子般被弃置于天界。哪四种？无害的身业、无害的语业、无害的意业、无害的见——诸比丘，具足此四法者，便如同担子般被弃置于天界。”第九。"
+  },
+  {
+   "idx": 45,
+   "pali": "10. Samaṇasuttaṃ",
+   "zh": "10. [[samaṇasutta|沙门经]]"
+  },
+  {
+   "idx": 46,
+   "pali": "‘‘‘Idheva, bhikkhave, (paṭhamo) samaṇo, idha dutiyo samaṇo, idha tatiyo samaṇo, idha catuttho samaṇo; suññā parappavādā samaṇehi aññehī’ti – evametaṃ, bhikkhave, sammā sīhanādaṃ nadatha.",
+   "zh": "“诸比丘，唯有此处有第一沙门，此处有第二沙门，此处有第三沙门，此处有第四沙门；其他外道则空无沙门。”诸比丘，你们应当这样正确地作狮子吼。",
+   "n": "241"
+  },
+  {
+   "idx": 47,
+   "pali": "‘‘Katamo ca, bhikkhave, paṭhamo samaṇo? Idha, bhikkhave, bhikkhu tiṇṇaṃ saṃyojanānaṃ parikkhayā sotāpanno hoti avinipātadhammo niyato sambodhiparāyaṇo. Ayaṃ, bhikkhave, paṭhamo samaṇo.",
+   "zh": "“诸比丘，什么是第一沙门？诸比丘，于此，比丘灭尽三结，成为入流者，得不退堕法，决定趣向正觉。诸比丘，这是第一沙门。"
+  },
+  {
+   "idx": 48,
+   "pali": "‘‘Katamo ca, bhikkhave, dutiyo samaṇo? Idha, bhikkhave, bhikkhu tiṇṇaṃ saṃyojanānaṃ parikkhayā rāgadosamohānaṃ tanuttā sakadāgāmī hoti, sakideva imaṃ lokaṃ āgantvā dukkhassantaṃ karoti. Ayaṃ, bhikkhave, dutiyo samaṇo.",
+   "zh": "“诸比丘，什么是第二沙门？诸比丘，于此，比丘灭尽三结，并令贪嗔痴减弱，成为一来者，唯一次还来此世间，便作苦之边际。诸比丘，这是第二沙门。"
+  },
+  {
+   "idx": 49,
+   "pali": "‘‘Katamo ca, bhikkhave, tatiyo samaṇo? Idha, bhikkhave, bhikkhu pañcannaṃ orambhāgiyānaṃ saṃyojanānaṃ parikkhayā opapātiko hoti tattha parinibbāyī anāvattidhammo tasmā lokā. Ayaṃ, bhikkhave, tatiyo samaṇo.",
+   "zh": "“诸比丘，什么是第三沙门呢？诸比丘，在此法中，有比丘以五下分结灭尽，成为化生者，于彼处般涅槃，不再从那世间回来。诸比丘，这就是第三沙门。"
+  },
+  {
+   "idx": 50,
+   "pali": "‘‘Katamo ca, bhikkhave, catuttho samaṇo? Idha , bhikkhave, bhikkhu āsavānaṃ khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharati. Ayaṃ, bhikkhave, catuttho samaṇo.",
+   "zh": "“诸比丘，什么是第四沙门呢？诸比丘，在此法中，有比丘以诸漏灭尽，于现法中，亲自以证智作证，具足安住于无漏的心解脱与慧解脱。诸比丘，这就是第四沙门。"
+  },
+  {
+   "idx": 51,
+   "pali": "‘‘‘Idheva, bhikkhave, paṭhamo samaṇo, idha dutiyo samaṇo, idha tatiyo samaṇo, idha catuttho samaṇo; suññā parappavādā samaṇebhi aññehī’ti – evametaṃ, bhikkhave, sammā sīhanādaṃ nadathā’’ti. Dasamaṃ.",
+   "zh": "“诸比丘！‘唯此教中有第一沙门，于此有第二沙门，于此有第三沙门，于此有第四沙门；其他外道之中，空无沙门。’诸比丘！你们应当如此正确地作狮子吼。”第十经。"
+  },
+  {
+   "idx": 52,
+   "pali": "11. Sappurisānisaṃsasuttaṃ",
+   "zh": "11. [[sappurisānisaṃsasutta|善士利益经]]"
+  },
+  {
+   "idx": 53,
+   "pali": "‘‘Sappurisaṃ , bhikkhave, nissāya cattāro ānisaṃsā pāṭikaṅkhā. Katame cattāro? Ariyena sīlena vaḍḍhati, ariyena samādhinā vaḍḍhati, ariyāya paññāya vaḍḍhati, ariyāya vimuttiyā vaḍḍhati – sappurisaṃ, bhikkhave, nissāya ime cattāro ānisaṃsā pāṭikaṅkhā’’ti. Ekādasamaṃ.",
+   "zh": "“诸比丘，依止善士，当有四种利益可期。哪四种？于圣戒而得增长，于圣定而得增长，于圣慧而得增长，于圣解脱而得增长——诸比丘，依止善士，当有此四种利益可期。”第十一经。",
+   "n": "242"
+  },
+  {
+   "idx": 54,
+   "pali": "Kammavaggo catuttho.",
+   "zh": "业品第四"
+  },
+  {
+   "idx": 55,
+   "pali": "Tassuddānaṃ –",
+   "zh": "其摄颂："
+  },
+  {
+   "type": "verse",
+   "idx": 56,
+   "pali": "Saṃkhitta vitthāra soṇakāyana,",
+   "zh": "略说、广说、首那咖亚那，"
+  },
+  {
+   "idx": 57,
+   "pali": "Sikkhāpadaṃ ariyamaggo bojjhaṅgaṃ;",
+   "zh": "学处、圣道、觉支。",
+   "type": "verse"
+  },
+  {
+   "idx": 58,
+   "pali": "Sāvajjañceva abyābajjhaṃ,",
+   "zh": "有罪者与无害者，",
+   "type": "verse"
+  },
+  {
+   "idx": 59,
+   "pali": "Samaṇo ca sappurisānisaṃsoti.",
+   "zh": "沙门与善士的利益。",
+   "type": "verse"
+  }
+ ]
+}

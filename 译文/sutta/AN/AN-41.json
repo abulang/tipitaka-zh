@@ -1,0 +1,320 @@
+{
+ "uid": 41,
+ "title": "2. 车匠品",
+ "nik": "AN",
+ "segs": [
+  {
+   "idx": 0,
+   "pali": "2. Rathakāravaggo",
+   "zh": "2. 车匠品"
+  },
+  {
+   "idx": 1,
+   "pali": "1. Ñātasuttaṃ",
+   "zh": "1. [[ñātasutta|已知经]]"
+  },
+  {
+   "idx": 2,
+   "pali": "‘‘Tīhi , bhikkhave, dhammehi samannāgato ñāto bhikkhu bahujanaahitāya paṭipanno hoti bahujanadukkhāya, bahuno janassa anatthāya ahitāya dukkhāya devamanussānaṃ. Katamehi tīhi? Ananulomike kāyakamme samādapeti, ananulomike vacīkamme samādapeti, ananulomikesu dhammesu samādapeti. Imehi kho, bhikkhave, tīhi dhammehi samannāgato ñāto bhikkhu bahujanaahitāya paṭipanno hoti bahujanadukkhāya, bahuno janassa anatthāya ahitāya dukkhāya devamanussānaṃ.",
+   "zh": "“诸比丘，具足三法的知名比丘，所行是令众人无益、受苦，为众多人带来无利、无益与痛苦，为天与人带来无利、无益与痛苦。哪三种？他劝导不随顺的身业，劝导不随顺的语业，劝导不随顺的法。诸比丘，具足这三法的知名比丘，所行是令众人无益、受苦，为众多人带来无利、无益与痛苦，为天与人带来无利、无益与痛苦。",
+   "n": "11"
+  },
+  {
+   "idx": 3,
+   "pali": "‘‘Tīhi, bhikkhave, dhammehi samannāgato ñāto bhikkhu bahujanahitāya paṭipanno hoti bahujanasukhāya, bahuno janassa atthāya hitāya sukhāya devamanussānaṃ. Katamehi tīhi? Anulomike kāyakamme samādapeti, anulomike vacīkamme samādapeti, anulomikesu dhammesu samādapeti. Imehi kho, bhikkhave, tīhi dhammehi samannāgato ñāto bhikkhu bahujanahitāya paṭipanno hoti bahujanasukhāya, bahuno janassa atthāya hitāya sukhāya devamanussāna’’nti. Paṭhamaṃ.",
+   "zh": "“诸比丘，具足三法的知名比丘，所行是令众人得益、安乐，为众多人带来利益、益处与安乐，为天与人带来利益、益处与安乐。哪三种？他劝导随顺的身业，劝导随顺的语业，劝导随顺的法。诸比丘，具足这三法的知名比丘，所行是令众人得益、安乐，为众多人带来利益、益处与安乐，为天与人带来利益、益处与安乐。第一经。"
+  },
+  {
+   "idx": 4,
+   "pali": "2. Sāraṇīyasuttaṃ",
+   "zh": "2. [[sāraṇīyasutta|可忆念经]]"
+  },
+  {
+   "idx": 5,
+   "pali": "‘‘Tīṇimāni , bhikkhave, rañño khattiyassa muddhāvasittassa yāvajīvaṃ sāraṇīyāni bhavanti. Katamāni tīṇi? Yasmiṃ, bhikkhave, padese rājā khattiyo muddhāvasitto jāto hoti. Idaṃ, bhikkhave, paṭhamaṃ rañño khattiyassa muddhāvasittassa yāvajīvaṃ sāraṇīyaṃ hoti.",
+   "zh": "“诸比丘，有这三种事，灌顶刹帝利王终其一生都应当忆念。哪三种呢？诸比丘，灌顶刹帝利王出生的地方——这是第一种灌顶刹帝利王终其一生都应当忆念的事。",
+   "n": "12"
+  },
+  {
+   "idx": 6,
+   "pali": "‘‘Puna caparaṃ, bhikkhave, yasmiṃ padese rājā khattiyo muddhāvasitto hoti. Idaṃ, bhikkhave, dutiyaṃ rañño khattiyassa muddhāvasittassa yāvajīvaṃ sāraṇīyaṃ hoti.",
+   "zh": "“再者，诸比丘，灌顶刹帝利王接受灌顶的地方——这是第二种灌顶刹帝利王终其一生都应当忆念的事。"
+  },
+  {
+   "idx": 7,
+   "pali": "‘‘Puna caparaṃ, bhikkhave, yasmiṃ padese rājā khattiyo muddhāvasitto saṅgāmaṃ abhivijinitvā vijitasaṅgāmo tameva saṅgāmasīsaṃ ajjhāvasati. Idaṃ, bhikkhave, tatiyaṃ rañño khattiyassa muddhāvasittassa yāvajīvaṃ sāraṇīyaṃ hoti. Imāni kho, bhikkhave, tīṇi rañño khattiyassa muddhāvasittassa yāvajīvaṃ sāraṇīyāni bhavanti.",
+   "zh": "“再者，诸比丘，灌顶刹帝利王战胜后，以胜利者之姿安住在该处战场——这是第三种灌顶刹帝利王终其一生都应当忆念的事。诸比丘，这就是灌顶刹帝利王终其一生应当忆念的三种事。"
+  },
+  {
+   "idx": 8,
+   "pali": "‘‘Evamevaṃ kho, bhikkhave, tīṇimāni bhikkhussa yāvajīvaṃ sāraṇīyāni bhavanti. Katamāni tīṇi? Yasmiṃ, bhikkhave, padese bhikkhu kesamassuṃ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṃ pabbajito hoti. Idaṃ, bhikkhave, paṭhamaṃ bhikkhussa yāvajīvaṃ sāraṇīyaṃ hoti.",
+   "zh": "“诸比丘！同样地，比丘有三种应当终生忆念之事。哪三种呢？诸比丘！比丘在某处剃除须发，披上袈裟，辞家出家而为无家者。诸比丘！这是比丘应当终生忆念的第一事。"
+  },
+  {
+   "idx": 9,
+   "pali": "‘‘Puna caparaṃ, bhikkhave, yasmiṃ padese bhikkhu ‘idaṃ dukkha’nti yathābhūtaṃ pajānāti, ‘ayaṃ dukkhasamudayo’ti yathābhūtaṃ pajānāti, ‘ayaṃ dukkhanirodho’ti yathābhūtaṃ pajānāti, ‘ayaṃ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṃ pajānāti. Idaṃ, bhikkhave, dutiyaṃ bhikkhussa yāvajīvaṃ sāraṇīyaṃ hoti.",
+   "zh": "“再者，诸比丘！比丘在某处如实了知‘此是苦’，如实了知‘此是苦集’，如实了知‘此是苦灭’，如实了知‘此是导向苦灭之道’。诸比丘！这是比丘应当终生忆念的第二事。”"
+  },
+  {
+   "idx": 10,
+   "pali": "‘‘Puna caparaṃ, bhikkhave, yasmiṃ padese bhikkhu āsavānaṃ khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharati. Idaṃ, bhikkhave, tatiyaṃ bhikkhussa yāvajīvaṃ sāraṇīyaṃ hoti. Imāni kho, bhikkhave, tīṇi bhikkhussa yāvajīvaṃ sāraṇīyāni bhavantī’’ti. Dutiyaṃ.",
+   "zh": "“再者，诸比丘！比丘于某处，以诸漏尽，在现法中凭自己的胜智作证，证得无漏的心解脱与慧解脱，具足而住。诸比丘！这是比丘应当终生忆念的第三事。诸比丘！这便是比丘应当终生忆念的三种事。”第二经。"
+  },
+  {
+   "idx": 11,
+   "pali": "3. Āsaṃsasuttaṃ",
+   "zh": "3. [[āsaṃsasutta|期望经]]"
+  },
+  {
+   "idx": 12,
+   "pali": "‘‘Tayome , bhikkhave, puggalā santo saṃvijjamānā lokasmiṃ. Katame tayo? Nirāso, āsaṃso, vigatāso. Katamo ca, bhikkhave puggalo nirāso? Idha, bhikkhave, ekacco puggalo nīce kule paccājāto hoti, caṇḍālakule vā venakule vā nesādakule vā rathakārakule vā pukkusakule vā dalidde appannapānabhojane kasiravuttike, yattha kasirena ghāsacchādo labbhati. So ca hoti dubbaṇṇo duddasiko okoṭimako bavhābādho kāṇo vā kuṇī vā khañjo vā pakkhahato vā, na lābhī annassa pānassa vatthassa yānassa mālāgandhavilepanassa seyyāvasathapadīpeyyassa. So suṇāti – ‘itthannāmo kira khattiyo khattiyehi khattiyābhisekena abhisitto’ti. Tassa na evaṃ hoti – ‘kudāssu nāma mampi khattiyā khattiyābhisekena abhisiñcissantī’ti! Ayaṃ vuccati, bhikkhave, puggalo nirāso.",
+   "zh": "“诸比丘，这三种人存在于世间，可得现见。哪三种？无望者、有望者、离望者。比丘们，什么是无望者？于此，有一类人生于卑贱之家——或旃陀罗族，或竹工族，或猎师族，或车匠族，或清洁工族，贫乏困苦，饮食难得，活命艰辛，少得衣食。他又丑陋、难看、形体不全、多病，乃至眼盲、驼背、跛足或半身不遂，得不到食物、饮料、衣、车乘、花鬘、香、涂油、床座、住处与灯烛。他听闻：‘某刹帝利已由刹帝利众以刹帝利灌顶行灌顶。’他并不这样思惟：‘何时刹帝利众也能以刹帝利灌顶来灌顶我呢？’比丘们，这就是所谓无望者。”",
+   "n": "13"
+  },
+  {
+   "idx": 13,
+   "pali": "‘‘Katamo ca, bhikkhave, puggalo āsaṃso? Idha , bhikkhave, rañño khattiyassa muddhāvasittassa jeṭṭho putto hoti ābhiseko anabhisitto acalappatto . So suṇāti – ‘itthannāmo kira khattiyo khattiyehi khattiyābhisekena abhisitto’ti. Tassa evaṃ hoti – ‘kudāssu nāma mampi khattiyā khattiyābhisekena abhisiñcissantī’ti! Ayaṃ vuccati, bhikkhave, puggalo āsaṃso.",
+   "zh": "“诸比丘，什么是有望者？于此，有灌顶刹帝利王的长子，已具灌顶位而未受灌顶，其地位安稳不动。他听闻：‘某刹帝利已由刹帝利众以刹帝利灌顶行灌顶。’他便思惟：‘何时刹帝利众也能以刹帝利灌顶来灌顶我呢？’比丘们，这就是所谓有望者。”"
+  },
+  {
+   "idx": 14,
+   "pali": "‘‘Katamo ca, bhikkhave, puggalo vigatāso? Idha, bhikkhave, rājā hoti khattiyo muddhāvasitto. So suṇāti – ‘itthannāmo kira khattiyo khattiyehi khattiyābhisekena abhisitto’ti. Tassa na evaṃ hoti – ‘kudāssu nāma mampi khattiyā khattiyābhisekena abhisiñcissantī’ti! Taṃ kissa hetu? Yā hissa, bhikkhave, pubbe anabhisittassa abhisekāsā sā paṭippassaddhā. Ayaṃ vuccati, bhikkhave, puggalo vigatāso. Ime kho, bhikkhave, tayo puggalā santo saṃvijjamānā lokasmiṃ.",
+   "zh": "“诸比丘，何等为离望者？诸比丘，此处有刹帝利王，已受灌顶。他听闻：‘名为某甲的刹帝利已由诸刹帝利行刹帝利灌顶。’他却不这么想：‘何时诸刹帝利也将为我行刹帝利灌顶呢？’那是什么原因？诸比丘，因为他先前未受灌顶时对灌顶的渴望已经止息。诸比丘，是名离望者。诸比丘，这便是那三种人，存在于世间，可得而见。”"
+  },
+  {
+   "idx": 15,
+   "pali": "‘‘Evamevaṃ kho, bhikkhave, tayo puggalā santo saṃvijjamānā bhikkhūsu. Katame tayo? Nirāso, āsaṃso, vigatāso. Katamo ca, bhikkhave, puggalo nirāso? Idha, bhikkhave, ekacco puggalo dussīlo hoti pāpadhammo asuci saṅkassarasamācāro paṭicchannakammanto assamaṇo samaṇapaṭiñño abrahmacārī brahmacāripaṭiñño antopūti avassuto kasambujāto. So suṇāti – ‘itthannāmo kira bhikkhu āsavānaṃ khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharatī’ti. Tassa na evaṃ hoti – ‘kudāssu nāma ahampi āsavānaṃ khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharissāmī’ti! Ayaṃ vuccati, bhikkhave, puggalo nirāso.",
+   "zh": "“诸比丘，正是如此，在比丘众中有三种人可觅得、可见。哪三种？无望者、有望者、离望者。诸比丘，何等为无望者？诸比丘，此处有人破戒、恶法、不净、行为可疑、隐藏所行、非沙门而自称沙门、非梵行者而自称梵行者、内心腐败、漏泄、污秽。他听闻：‘某比丘因诸漏尽，于现法中自以上智证得、证悟无漏的心解脱、慧解脱而住。’他便不会这样想：‘我何时也能因诸漏尽，于现法中自以上智证得、证悟无漏的心解脱、慧解脱而住呢？’诸比丘，是名无望者。”"
+  },
+  {
+   "idx": 16,
+   "pali": "‘‘Katamo ca, bhikkhave, puggalo āsaṃso? Idha, bhikkhave, bhikkhu sīlavā hoti kalyāṇadhammo. So suṇāti āsavānaṃ khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharatī’ti. Tassa evaṃ hoti – ‘kudāssu nāma ahampi āsavānaṃ khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharissāmī’ti! Ayaṃ vuccati, bhikkhave, puggalo āsaṃso.",
+   "zh": "“诸比丘，何等为有望者？诸比丘，此处有比丘，具戒、善法。他听闻：‘某比丘以诸漏尽，于现法中自以上智证得、证悟无漏的心解脱、慧解脱而住。’他便生起这样的心念：‘我何时也能以诸漏尽，于现法中自以上智证得、证悟无漏的心解脱、慧解脱而住呢？’诸比丘，是名有望者。”"
+  },
+  {
+   "idx": 17,
+   "pali": "‘‘Katamo ca, bhikkhave, puggalo vigatāso? Idha, bhikkhave, bhikkhu arahaṃ hoti khīṇāsavo. So suṇāti – ‘itthannāmo kira bhikkhu āsavānaṃ khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharatī’ti. Tassa na evaṃ hoti – ‘kudāssu nāma ahampi āsavānaṃ khayā…pe… sacchikatvā upasampajja viharissāmī’ti! Taṃ kissa hetu? Yā hissa, bhikkhave, pubbe avimuttassa vimuttāsā sā paṭippassaddhā. Ayaṃ vuccati, bhikkhave, puggalo vigatāso. Ime kho, bhikkhave, tayo puggalā santo saṃvijjamānā bhikkhūsū’’ti. Tatiyaṃ.",
+   "zh": "“诸比丘，什么是离望者？诸比丘，于此，有比丘是阿拉汉、漏尽者。他听闻：‘某某比丘因漏尽，于现法中以自己的上智证得、证悟无漏的心解脱、慧解脱而住。’他并不这样想：‘我何时也能漏尽……证得、证悟而住呢？’那是什么缘故？诸比丘，因为他过去未解脱时，对解脱的盼望已经止息。诸比丘，这就称为离望者。诸比丘，这三种人出现于世间，存在于比丘众中。”第三经。"
+  },
+  {
+   "idx": 18,
+   "pali": "4. Cakkavattisuttaṃ",
+   "zh": "4. [[cakkavattisutta|转轮王经]]"
+  },
+  {
+   "idx": 19,
+   "pali": "‘‘Yopi so, bhikkhave, rājā cakkavattī dhammiko dhammarājā sopi na arājakaṃ cakkaṃ vattetī’’ti. Evaṃ vutte aññataro bhikkhu bhagavantaṃ etadavoca – ‘‘ko pana, bhante, rañño cakkavattissa dhammikassa dhammarañño rājā’’ti ? ‘‘Dhammo, bhikkhū’’ti bhagavā avoca – ‘‘idha, bhikkhu, rājā cakkavattī dhammiko dhammarājā dhammaṃyeva nissāya dhammaṃ sakkaronto dhammaṃ garuṃ karonto dhammaṃ apacāyamāno dhammaddhajo dhammaketu dhammādhipateyyo dhammikaṃ rakkhāvaraṇaguttiṃ saṃvidahati antojanasmiṃ’’.",
+   "zh": "“诸比丘，即便是那位如法的法王转轮王，也不会在没有王的情况下转动轮宝。”这样说时，有位比丘对世尊这样说：“尊者，那么，谁是如法的法王转轮王的王呢？”“比丘，是法。”世尊说：“比丘，于此，如法的法王转轮王依止法，恭敬、尊重、崇敬法，以法为幢、以法为旗、以法为尊，为内眷属施设如法的守护、庇护与保护。”",
+   "n": "14"
+  },
+  {
+   "idx": 20,
+   "pali": "‘‘Puna caparaṃ, bhikkhu, rājā cakkavattī dhammiko dhammarājā dhammaṃyeva nissāya dhammaṃ sakkaronto dhammaṃ garuṃ karonto dhammaṃ apacāyamāno dhammaddhajo dhammaketu dhammādhipateyyo dhammikaṃ rakkhāvaraṇaguttiṃ saṃvidahati khattiyesu, anuyantesu , balakāyasmiṃ, brāhmaṇagahapatikesu , negamajānapadesu, samaṇabrāhmaṇesu, migapakkhīsu. Sa kho so bhikkhu rājā cakkavattī dhammiko dhammarājā dhammaṃyeva nissāya dhammaṃ sakkaronto dhammaṃ garuṃ karonto dhammaṃ apacāyamāno dhammaddhajo dhammaketu dhammādhipateyyo dhammikaṃ rakkhāvaraṇaguttiṃ saṃvidahitvā antojanasmiṃ, dhammikaṃ rakkhāvaraṇaguttiṃ saṃvidahitvā khattiyesu, anuyantesu, balakāyasmiṃ, brāhmaṇagahapatikesu, negamajānapadesu, samaṇabrāhmaṇesu, migapakkhīsu, dhammeneva cakkaṃ vatteti. Taṃ hoti cakkaṃ appaṭivattiyaṃ kenaci manussabhūtena paccatthikena pāṇinā.",
+   "zh": "“复次，比丘！如法的转轮王、法王，唯依止于法，恭敬于法，尊重于法，崇敬于法，以法为幢，以法为旗，以法为尊，为诸刹帝利、随从、军队、婆罗门居士、城镇乡村人民、沙门婆罗门、鸟兽，施设如法的守护、庇护与保护。比丘！那位如法的转轮王、法王，依止于法，恭敬于法，尊重于法，崇敬于法，以法为幢，以法为旗，以法为尊，先为内眷属施设如法的守护、庇护与保护之后，又为诸刹帝利、随从、军队、婆罗门居士、城镇乡村人民、沙门婆罗门、鸟兽施设如法的守护、庇护与保护之后，便纯粹以法转动法轮。那法轮，是任何敌对的人类有情都无法逆转的。”"
+  },
+  {
+   "idx": 21,
+   "pali": "‘‘Evamevaṃ kho, bhikkhu , tathāgato arahaṃ sammāsambuddho dhammiko dhammarājā dhammaṃyeva nissāya dhammaṃ sakkaronto dhammaṃ garuṃ karonto dhammaṃ apacāyamāno dhammaddhajo dhammaketu dhammādhipateyyo dhammikaṃ rakkhāvaraṇaguttiṃ saṃvidahati kāyakammasmiṃ – ‘evarūpaṃ kāyakammaṃ sevitabbaṃ, evarūpaṃ kāyakammaṃ na sevitabba’’’nti.",
+   "zh": "“同样地，比丘，如来、阿拉汉、正自觉者，正是这样一位如法的法王。他唯法是依，恭敬法、尊重法、崇敬法，以法为幢、以法为旗、以法为尊，于身业施设如法的守护、庇护、保护，说道：‘应亲近这样的身业，不应亲近那样的身业。’"
+  },
+  {
+   "idx": 22,
+   "pali": "‘‘Puna caparaṃ, bhikkhu, tathāgato arahaṃ sammāsambuddho dhammiko dhammarājā dhammaṃyeva nissāya dhammaṃ sakkaronto dhammaṃ garuṃ karonto dhammaṃ apacāyamāno dhammaddhajo dhammaketu dhammādhipateyyo dhammikaṃ rakkhāvaraṇaguttiṃ saṃvidahati vacīkammasmiṃ – ‘evarūpaṃ vacīkammaṃ sevitabbaṃ, evarūpaṃ vacīkammaṃ na sevitabba’nti…pe… manokammasmiṃ – ‘evarūpaṃ manokammaṃ sevitabbaṃ, evarūpaṃ manokammaṃ na sevitabba’’’nti.",
+   "zh": "“再者，比丘，如来、阿拉汉、正自觉者，这位如法的法王，唯法是依，恭敬法、尊重法、崇敬法，以法为幢、以法为旗、以法为尊，于语业施设如法的守护、庇护、保护，说道：‘应亲近这样的语业，不应亲近那样的语业。’……复于意业施设如法的守护、庇护、保护，说道：‘应亲近这样的意业，不应亲近那样的意业。’"
+  },
+  {
+   "idx": 23,
+   "pali": "‘‘Sa kho so, bhikkhu, tathāgato arahaṃ sammāsambuddho dhammiko dhammarājā dhammaṃyeva nissāya dhammaṃ sakkaronto dhammaṃ garuṃ karonto dhammaṃ apacāyamāno dhammaddhajo dhammaketu dhammādhipateyyo dhammikaṃ rakkhāvaraṇaguttiṃ saṃvidahitvā kāyakammasmiṃ, dhammikaṃ rakkhāvaraṇaguttiṃ saṃvidahitvā vacīkammasmiṃ, dhammikaṃ rakkhāvaraṇaguttiṃ saṃvidahitvā manokammasmiṃ, dhammeneva anuttaraṃ dhammacakkaṃ pavatteti. Taṃ hoti cakkaṃ appaṭivattiyaṃ samaṇena vā brāhmaṇena vā devena vā mārena vā brahmunā vā kenaci vā lokasmi’’nti. Catutthaṃ.",
+   "zh": "“比丘，那位如来、阿拉汉、正自觉者，是如法的法王。他唯依于法，恭敬法、尊重法、崇敬法；以法为幢、以法为旗、以法为尊。他对身业施设了如法的守护、防护与保护，对语业施设了如法的守护、防护与保护，对意业施设了如法的守护、防护与保护。他唯以法转起无上法轮，这法轮是任何沙门、婆罗门、天人、魔罗、梵天神，乃至世间任何人都不能逆转的。”第四经。"
+  },
+  {
+   "idx": 24,
+   "pali": "5. Sacetanasuttaṃ",
+   "zh": "5. [[sacetanasutta|沙者答那经]]"
+  },
+  {
+   "idx": 25,
+   "pali": "Ekaṃ samayaṃ bhagavā bārāṇasiyaṃ viharati isipatane migadāye. Tatra kho bhagavā bhikkhū āmantesi – ‘‘bhikkhavo’’ti. ‘‘Bhadante’’ti te bhikkhū bhagavato paccassosuṃ. Bhagavā etadavoca –",
+   "zh": "一时，世尊住在[[bārāṇasī|波罗奈]]仙人堕处鹿野苑。在那里，世尊对诸比丘说：“诸比丘。”那些比丘回答：“尊者。”世尊这样说道：",
+   "n": "15"
+  },
+  {
+   "idx": 26,
+   "pali": "‘‘Bhūtapubbaṃ, bhikkhave, rājā ahosi sacetano nāma. Atha kho, bhikkhave, rājā sacetano rathakāraṃ āmantesi – ‘ito me, samma rathakāra, channaṃ māsānaṃ accayena saṅgāmo bhavissati. Sakkhissasi me, samma rathakāra, navaṃ cakkayugaṃ kātu’nti? ‘Sakkomi devā’ti kho, bhikkhave, rathakāro rañño sacetanassa paccassosi. Atha kho, bhikkhave, rathakāro chahi māsehi chārattūnehi ekaṃ cakkaṃ niṭṭhāpesi. Atha kho, bhikkhave, rājā sacetano rathakāraṃ āmantesi – ‘ito me, samma rathakāra, channaṃ divasānaṃ accayena saṅgāmo bhavissati, niṭṭhitaṃ navaṃ cakkayuga’nti? ‘Imehi kho, deva, chahi māsehi chārattūnehi ekaṃ cakkaṃ niṭṭhita’nti. ‘Sakkhissasi pana me, samma rathakāra, imehi chahi divasehi dutiyaṃ cakkaṃ niṭṭhāpetu’nti? ‘Sakkomi devā’ti kho, bhikkhave, rathakāro chahi divasehi dutiyaṃ cakkaṃ niṭṭhāpetvā navaṃ cakkayugaṃ ādāya yena rājā sacetano tenupasaṅkami; upasaṅkamitvā rājānaṃ sacetanaṃ etadavoca – ‘idaṃ te, deva, navaṃ cakkayugaṃ niṭṭhita’nti. ‘Yañca te idaṃ, samma rathakāra, cakkaṃ chahi māsehi niṭṭhitaṃ chārattūnehi yañca te idaṃ cakkaṃ chahi divasehi niṭṭhitaṃ, imesaṃ kiṃ nānākaraṇaṃ? Nesāhaṃ kiñci nānākaraṇaṃ passāmī’ti. ‘Atthesaṃ, deva, nānākaraṇaṃ. Passatu devo nānākaraṇa’’’nti.",
+   "zh": "“诸比丘，过去有一位国王，名叫沙者答那。那时，沙者答那王召来车匠，对他说：‘朋友车匠，从现在起六个月后，将有一场战争。朋友车匠，你能为我制造一对新车轮吗？’‘陛下，我能。’车匠回答。于是，在六个月还差六天时，车匠完成了一个车轮。那时，沙者答那王又召来车匠，问道：‘朋友车匠，从现在起六天后，战争就要爆发。那对新轮子完成了吗？’‘陛下，在这六个月缺六天里，我只完成了一个车轮。’‘那么，朋友车匠，你能在剩下的六天里完成第二个车轮吗？’‘陛下，我能。’于是，车匠在六天内完成了第二个车轮，带着新造的一对车轮前往沙者答那王那里。到了之后，他对沙者答那王这样说：‘陛下，这对新车轮已经完成。’‘朋友车匠，这个六个月缺六天完成的车轮，和这个六天完成的车轮，两者有什么差别？我看不出任何不同。’‘陛下，它们并不相同。请您看看这差别。’”",
+   "type": "colophon"
+  },
+  {
+   "idx": 27,
+   "pali": "‘‘Atha kho, bhikkhave, rathakāro yaṃ taṃ cakkaṃ chahi divasehi niṭṭhitaṃ taṃ pavattesi. Taṃ pavattitaṃ samānaṃ yāvatikā abhisaṅkhārassa gati tāvatikaṃ gantvā ciṅgulāyitvā bhūmiyaṃ papati. Yaṃ pana taṃ cakkaṃ chahi māsehi niṭṭhitaṃ chārattūnehi taṃ pavattesi. Taṃ pavattitaṃ samānaṃ yāvatikā abhisaṅkhārassa gati tāvatikaṃ gantvā akkhāhataṃ maññe aṭṭhāsi.",
+   "zh": "“于是，车匠转动那个六天完成的车轮。车轮转动起来，在造作力所及的范围内向前滚动，随后便摇晃着倒在地上。接着，他又转动那个六个月缺六天完成的车轮。车轮转动起来，在造作力所及的范围内向前滚动，依我看，它如同被轴钉住一般，稳稳地立着。",
+   "type": "colophon"
+  },
+  {
+   "idx": 28,
+   "pali": "‘‘‘Ko nu kho, samma rathakāra, hetu ko paccayo yamidaṃ cakkaṃ chahi divasehi niṭṭhitaṃ taṃ pavattitaṃ samānaṃ yāvatikā abhisaṅkhārassa gati tāvatikaṃ gantvā ciṅgulāyitvā bhūmiyaṃ papati? Ko pana, samma rathakāra, hetu ko paccayo yamidaṃ cakkaṃ chahi māsehi niṭṭhitaṃ chārattūnehi taṃ pavattitaṃ samānaṃ yāvatikā abhisaṅkhārassa gati tāvatikaṃ gantvā akkhāhataṃ maññe aṭṭhāsī’ti? ‘Yamidaṃ, deva, cakkaṃ chahi divasehi niṭṭhitaṃ tassa nemipi savaṅkā sadosā sakasāvā, arāpi savaṅkā sadosā sakasāvā, nābhipi savaṅkā sadosā sakasāvā. Taṃ nemiyāpi savaṅkattā sadosattā sakasāvattā, arānampi savaṅkattā sadosattā sakasāvattā, nābhiyāpi savaṅkattā sadosattā sakasāvattā pavattitaṃ samānaṃ yāvatikā abhisaṅkhārassa gati tāvatikaṃ gantvā ciṅgulāyitvā bhūmiyaṃ papati. Yaṃ pana taṃ, deva, cakkaṃ chahi māsehi niṭṭhitaṃ chārattūnehi tassa nemipi avaṅkā adosā akasāvā, arāpi avaṅkā adosā akasāvā, nābhipi avaṅkā adosā akasāvā. Taṃ nemiyāpi avaṅkattā adosattā akasāvattā, arānampi avaṅkattā adosattā akasāvattā, nābhiyāpi avaṅkattā adosattā akasāvattā pavattitaṃ samānaṃ yāvatikā abhisaṅkhārassa gati tāvatikaṃ gantvā akkhāhataṃ maññe aṭṭhāsī’’’ti.",
+   "zh": "“朋友车匠，是什么因、什么缘，使得这个六天完成的车轮，在造作力所及的范围内转动之后，便摇晃着倒在地上？而朋友车匠，又是什么因、什么缘，使得那个六个月缺六天完成的车轮，在同样范围内转动之后，却如同被轴钉住一般，稳稳地立着？”“陛下，那个六天完成的车轮，其轮辋弯曲、有瑕疵、有污点，轮辐弯曲、有瑕疵、有污点，轮毂弯曲、有瑕疵、有污点。正因为轮辋、轮辐、轮毂都有弯曲、瑕疵和污点，所以它转动起来，在造作力所及的范围内滚动后，便摇晃着倒在地上。然而，陛下，那个六个月缺六天完成的车轮，其轮辋无弯曲、无瑕疵、无污点，轮辐无弯曲、无瑕疵、无污点，轮毂无弯曲、无瑕疵、无污点。正因为轮辋、轮辐、轮毂全都无弯曲、无瑕疵、无污点，所以它转动起来，在造作力所及的范围内滚动后，依我看，它如同被轴固定一般，稳稳地立着。”",
+   "type": "colophon"
+  },
+  {
+   "idx": 29,
+   "pali": "‘‘Siyā kho pana, bhikkhave, tumhākaṃ evamassa – ‘añño nūna tena samayena so rathakāro ahosī’ti! Na kho panetaṃ, bhikkhave, evaṃ daṭṭhabbaṃ. Ahaṃ tena samayena so rathakāro ahosiṃ. Tadāhaṃ, bhikkhave, kusalo dāruvaṅkānaṃ dārudosānaṃ dārukasāvānaṃ. Etarahi kho panāhaṃ, bhikkhave, arahaṃ sammāsambuddho kusalo kāyavaṅkānaṃ kāyadosānaṃ kāyakasāvānaṃ, kusalo vacīvaṅkānaṃ vacīdosānaṃ vacīkasāvānaṃ, kusalo manovaṅkānaṃ manodosānaṃ manokasāvānaṃ. Yassa kassaci, bhikkhave, bhikkhussa vā bhikkhuniyā vā kāyavaṅko appahīno kāyadoso kāyakasāvo, vacīvaṅko appahīno vacīdoso vacīkasāvo, manovaṅko appahīno manodoso manokasāvo, evaṃ papatitā te, bhikkhave, imasmā dhammavinayā, seyyathāpi taṃ cakkaṃ chahi divasehi niṭṭhitaṃ.",
+   "zh": "“诸比丘，你们或许会这样想：‘那时的那位车匠必定是另一个人。’诸比丘，不应这样看待。我于那时正是那位车匠。诸比丘，那时我善巧于木材的弯曲、木材的瑕疵、木材的污点。诸比丘，如今我是阿拉汉、正自觉者，善巧于身的弯曲、身的瑕疵、身的污点，善巧于语的弯曲、语的瑕疵、语的污点，善巧于意的弯曲、意的瑕疵、意的污点。诸比丘，任何比丘或比丘尼，若身的弯曲、瑕疵、污点未断，语的弯曲、瑕疵、污点未断，意的弯曲、瑕疵、污点未断，诸比丘，他们便如此从这法与律中倾覆，正如那在六日内完成的车轮。”",
+   "type": "colophon"
+  },
+  {
+   "idx": 30,
+   "pali": "‘‘Yassa kassaci, bhikkhave, bhikkhussa vā bhikkhuniyā vā kāyavaṅko pahīno kāyadoso kāyakasāvo, vacīvaṅko pahīno vacīdoso vacīkasāvo, manovaṅko pahīno manodoso manokasāvo , evaṃ patiṭṭhitā te, bhikkhave, imasmiṃ dhammavinaye, seyyathāpi taṃ cakkaṃ chahi māsehi niṭṭhitaṃ chārattūnehi.",
+   "zh": "“诸比丘，任何比丘或比丘尼，若已舍断身曲、身过失、身垢秽，已舍断语曲、语过失、语垢秽，已舍断意曲、意过失、意垢秽，他们便如此安立于此法与律中，犹如那个用六个月减去六夜完成的车轮。"
+  },
+  {
+   "idx": 31,
+   "pali": "‘‘Tasmātiha , bhikkhave, evaṃ sikkhitabbaṃ – ‘kāyavaṅkaṃ pajahissāma kāyadosaṃ kāyakasāvaṃ, vacīvaṅkaṃ pajahissāma vacīdosaṃ vacīkasāvaṃ, manovaṅkaṃ pajahissāma manodosaṃ manokasāva’nti. Evañhi vo, bhikkhave, sikkhitabba’’nti. Pañcamaṃ.",
+   "zh": "“诸比丘，因此，应这样修学：‘我们将舍断身曲、身过失、身垢秽，我们将舍断语曲、语过失、语垢秽，我们将舍断意曲、意过失、意垢秽。’诸比丘，你们确实应当这样修学。第五经。"
+  },
+  {
+   "idx": 32,
+   "pali": "6. Apaṇṇakasuttaṃ",
+   "zh": "6. [[apaṇṇakasutta|无讹经]]"
+  },
+  {
+   "idx": 33,
+   "pali": "‘‘Tīhi, bhikkhave, dhammehi samannāgato bhikkhu apaṇṇakapaṭipadaṃ paṭipanno hoti, yoni cassa āraddhā hoti āsavānaṃ khayāya. Katamehi tīhi? Idha, bhikkhave, bhikkhu indriyesu guttadvāro hoti, bhojane mattaññū hoti, jāgariyaṃ anuyutto hoti.",
+   "zh": "“诸比丘，具足三法的比丘，即行于无疑之道，其漏尽的因缘也已善加策励。哪三种呢？诸比丘，于此，比丘守护根门，于食知量，勤修觉醒。",
+   "n": "16"
+  },
+  {
+   "idx": 34,
+   "pali": "‘‘Kathañca, bhikkhave, bhikkhu indriyesu guttadvāro hoti? Idha, bhikkhave, bhikkhu cakkhunā rūpaṃ disvā na nimittaggāhī hoti nānubyañjanaggāhī. Yatvādhikaraṇamenaṃ cakkhundriyaṃ asaṃvutaṃ viharantaṃ abhijjhādomanassā pāpakā akusalā dhammā anvāssaveyyuṃ tassa saṃvarāya paṭipajjati, rakkhati cakkhundriyaṃ, cakkhundriye saṃvaraṃ āpajjati. Sotena saddaṃ sutvā… ghānena gandhaṃ ghāyitvā… jivhāya rasaṃ sāyitvā… kāyena phoṭṭhabbaṃ phusitvā… manasā dhammaṃ viññāya na nimittaggāhī hoti nānubyañjanaggāhī. Yatvādhikaraṇamenaṃ manindriyaṃ asaṃvutaṃ viharantaṃ abhijjhādomanassā pāpakā akusalā dhammā anvāssaveyyuṃ tassa saṃvarāya paṭipajjati, rakkhati manindriyaṃ, manindriye saṃvaraṃ āpajjati. Evaṃ kho, bhikkhave, bhikkhu indriyesu guttadvāro hoti.",
+   "zh": "“诸比丘，比丘如何守护根门呢？诸比丘，于此，比丘以眼见色后，不取相、不取随相。若眼根不加防护而随其放纵，贪、忧等诸恶不善法便会流入，因此他修习防护，守护眼根，成就眼根的防护。以耳闻声后……以鼻嗅香后……以舌尝味后……以身触所触后……以意了知法后，不取相、不取随相。若意根不加防护而随其放纵，贪、忧等诸恶不善法便会流入，因此他修习防护，守护意根，成就意根的防护。诸比丘，比丘便是如此守护根门。"
+  },
+  {
+   "idx": 35,
+   "pali": "‘‘Kathañca , bhikkhave, bhikkhu bhojane mattaññū hoti? Idha, bhikkhave, bhikkhu paṭisaṅkhā yoniso āhāraṃ āhāreti – ‘neva davāya na madāya na maṇḍanāya na vibhūsanāya, yāvadeva imassa kāyassa ṭhitiyā yāpanāya vihiṃsūparatiyā brahmacariyānuggahāya, iti purāṇañca vedanaṃ paṭihaṅkhāmi, navañca vedanaṃ na uppādessāmi, yātrā ca me bhavissati anavajjatā ca phāsuvihāro cā’ti. Evaṃ kho, bhikkhave, bhikkhu bhojane mattaññū hoti.",
+   "zh": "“诸比丘，比丘如何于食知量呢？诸比丘，在此，比丘如理省察而受用食物：不为嬉戏，不为骄慢，不为装饰，不为庄严，唯为此身得以住立与存续，为止息恼害，为资助梵行。如此，我将灭除旧受，不令新受生起，从而安稳无过、安乐而住。诸比丘，这便是比丘于食知量。”"
+  },
+  {
+   "idx": 36,
+   "pali": "‘‘Kathañca, bhikkhave, bhikkhu jāgariyaṃ anuyutto hoti? Idha, bhikkhave, bhikkhu divasaṃ caṅkamena nisajjāya āvaraṇīyehi dhammehi cittaṃ parisodheti, rattiyā paṭhamaṃ yāmaṃ caṅkamena nisajjāya āvaraṇīyehi dhammehi cittaṃ parisodheti, rattiyā majjhimaṃ yāmaṃ dakkhiṇena passena sīhaseyyaṃ kappeti pāde pādaṃ accādhāya sato sampajāno uṭṭhānasaññaṃ manasi karitvā, rattiyā pacchimaṃ yāmaṃ paccuṭṭhāya caṅkamena nisajjāya āvaraṇīyehi dhammehi cittaṃ parisodheti. Evaṃ kho, bhikkhave, bhikkhu jāgariyaṃ anuyutto hoti. Imehi kho, bhikkhave, tīhi dhammehi samannāgato bhikkhu apaṇṇakapaṭipadaṃ paṭipanno hoti, yoni cassa āraddhā hoti āsavānaṃ khayāyā’’ti. Chaṭṭhaṃ.",
+   "zh": "“诸比丘，比丘又如何专精于警寤呢？诸比丘，在此，比丘于日间以经行与端坐净化自心，远离诸障碍法；于夜初分以经行与端坐净化自心，远离诸障碍法；于夜中分以右胁作狮子卧，足足相叠，正念正知，作意起想；于夜后分起身之后，以经行与端坐净化自心，远离诸障碍法。诸比丘，比丘便是如此专精于警寤。诸比丘，具足此三法的比丘，已行于无过失之道，且他的修行已为诸漏的灭尽而发动。第六经。”"
+  },
+  {
+   "idx": 37,
+   "pali": "7. Attabyābādhasuttaṃ",
+   "zh": "7. [[attabyābādhasutta|自恼经]]"
+  },
+  {
+   "idx": 38,
+   "pali": "‘‘Tayome, bhikkhave, dhammā attabyābādhāyapi saṃvattanti, parabyābādhāyapi saṃvattanti, ubhayabyābādhāyapi saṃvattanti. Katame tayo? Kāyaduccaritaṃ, vacīduccaritaṃ, manoduccaritaṃ. Ime kho, bhikkhave, tayo dhammā attabyābādhāyapi saṃvattanti, parabyābādhāyapi saṃvattanti, ubhayabyābādhāyapi saṃvattanti.",
+   "zh": "“诸比丘！这三法导致自害、导致害他，也导致自他俱害。哪三种？身恶行、语恶行、意恶行。诸比丘！正是这三法，导致自害、导致害他，也导致自他俱害。",
+   "n": "17",
+   "type": "verse"
+  },
+  {
+   "idx": 39,
+   "pali": "‘‘Tayome, bhikkhave, dhammā nevattabyābādhāyapi saṃvattanti, na parabyābādhāyapi saṃvattanti, na ubhayabyābādhāyapi saṃvattanti. Katame tayo? Kāyasucaritaṃ, vacīsucaritaṃ, manosucaritaṃ. Ime kho, bhikkhave, tayo dhammā nevattabyābādhāyapi saṃvattanti, na parabyābādhāyapi saṃvattanti, na ubhayabyābādhāyapi saṃvattantī’’ti. Sattamaṃ.",
+   "zh": "“诸比丘！这三法既不导致自害，也不导致害他，也不导致自他俱害。哪三种？身善行、语善行、意善行。诸比丘！正是这三法，既不导致自害，也不导致害他，也不导致自他俱害。”第七经。"
+  },
+  {
+   "idx": 40,
+   "pali": "8. Devalokasuttaṃ",
+   "zh": "8. [[devalokasutta|天界经]]"
+  },
+  {
+   "idx": 41,
+   "pali": "‘‘Sace vo, bhikkhave, aññatitthiyā paribbājakā evaṃ puccheyyuṃ – ‘devalokūpapattiyā, āvuso, samaṇe gotame brahmacariyaṃ vussathā’ti? Nanu tumhe, bhikkhave, evaṃ puṭṭhā aṭṭīyeyyātha harāyeyyātha jiguccheyyāthā’’ti? ‘‘Evaṃ, bhante’’. ‘‘Iti kira tumhe, bhikkhave, dibbena āyunā aṭṭīyatha harāyatha jigucchatha, dibbena vaṇṇena dibbena sukhena dibbena yasena dibbenādhipateyyena aṭṭīyatha harāyatha jigucchatha; pageva kho pana, bhikkhave, tumhehi kāyaduccaritena aṭṭīyitabbaṃ harāyitabbaṃ jigucchitabbaṃ, vacīduccaritena… manoduccaritena aṭṭīyitabbaṃ harāyitabbaṃ jigucchitabba’’nti. Aṭṭhamaṃ.",
+   "zh": "“诸比丘！如果其他外道游方者这样问你们：‘贤友们！你们在沙门[[gotama|乔达摩]]座下修习梵行，是为了投生天界吗？’诸比丘！你们被这样问时，难道不会感到羞耻、惭愧、厌恶吗？”“是的，尊者。”“诸比丘！由此可见，你们对天寿感到羞耻、惭愧、厌恶，对天色、天乐、天名声、天自在感到羞耻、惭愧、厌恶；诸比丘！那么，你们更应对身恶行、语恶行、意恶行感到羞耻、惭愧、厌恶。”第八经。",
+   "n": "18"
+  },
+  {
+   "idx": 42,
+   "pali": "9. Paṭhamapāpaṇikasuttaṃ",
+   "zh": "9. [[paṭhamapāpaṇikasutta|第一商人经]]"
+  },
+  {
+   "idx": 43,
+   "pali": "‘‘Tīhi , bhikkhave, aṅgehi samannāgato pāpaṇiko abhabbo anadhigataṃ vā bhogaṃ adhigantuṃ, adhigataṃ vā bhogaṃ phātiṃ kātuṃ. Katamehi tīhi? Idha, bhikkhave, pāpaṇiko pubbaṇhasamayaṃ na sakkaccaṃ kammantaṃ adhiṭṭhāti, majjhanhikasamayaṃ na sakkaccaṃ kammantaṃ adhiṭṭhāti, sāyanhasamayaṃ na sakkaccaṃ kammantaṃ adhiṭṭhāti. Imehi kho, bhikkhave, tīhi aṅgehi samannāgato pāpaṇiko abhabbo anadhigataṃ vā bhogaṃ adhigantuṃ, adhigataṃ vā bhogaṃ phātiṃ kātuṃ .",
+   "zh": "“诸比丘！具足三支的商人，无法获得未得的财富，也无法令已得的财富增长。哪三支呢？诸比丘！这位商人早晨不专心致力于工作，中午不专心致力于工作，傍晚不专心致力于工作。诸比丘！具足这三支的商人，无法获得未得的财富，也无法令已得的财富增长。”",
+   "n": "19"
+  },
+  {
+   "idx": 44,
+   "pali": "‘‘Evamevaṃ kho, bhikkhave, tīhi dhammehi samannāgato bhikkhu abhabbo anadhigataṃ vā kusalaṃ dhammaṃ adhigantuṃ, adhigataṃ vā kusalaṃ dhammaṃ phātiṃ kātuṃ. Katamehi tīhi? Idha, bhikkhave, bhikkhu pubbaṇhasamayaṃ na sakkaccaṃ samādhinimittaṃ adhiṭṭhāti, majjhanhikasamayaṃ na sakkaccaṃ samādhinimittaṃ adhiṭṭhāti, sāyanhasamayaṃ na sakkaccaṃ samādhinimittaṃ adhiṭṭhāti. Imehi kho, bhikkhave, tīhi dhammehi samannāgato bhikkhu abhabbo anadhigataṃ vā kusalaṃ dhammaṃ adhigantuṃ, adhigataṃ vā kusalaṃ dhammaṃ phātiṃ kātuṃ.",
+   "zh": "“诸比丘！同样地，具足三法的比丘，便不能获得未得的善法，也不能增长已得的善法。哪三法呢？诸比丘！在此，比丘于上午不以至诚恳切之心安立定相，于中午不以至诚恳切之心安立定相，于傍晚不以至诚恳切之心安立定相。诸比丘！具足此三法的比丘，便不能获得未得的善法，也不能增长已得的善法。"
+  },
+  {
+   "idx": 45,
+   "pali": "‘‘Tīhi , bhikkhave, aṅgehi samannāgato pāpaṇiko bhabbo anadhigataṃ vā bhogaṃ adhigantuṃ, adhigataṃ vā bhogaṃ phātiṃ kātuṃ. Katamehi tīhi? Idha , bhikkhave, pāpaṇiko pubbaṇhasamayaṃ sakkaccaṃ kammantaṃ adhiṭṭhāti, majjhanhikasamayaṃ…pe… sāyanhasamayaṃ sakkaccaṃ kammantaṃ adhiṭṭhāti. Imehi kho, bhikkhave, tīhi aṅgehi samannāgato pāpaṇiko bhabbo anadhigataṃ vā bhogaṃ adhigantuṃ, adhigataṃ vā bhogaṃ phātiṃ kātuṃ.",
+   "zh": "“诸比丘！具足三支的商人，便能获得未得的财富，或能增长已得的财富。哪三支呢？诸比丘！在此，商人于上午至诚恳切地致力于工作，于中午……于傍晚至诚恳切地致力于工作。诸比丘！具足此三支的商人，便能获得未得的财富，或能增长已得的财富。"
+  },
+  {
+   "idx": 46,
+   "pali": "‘‘Evamevaṃ kho, bhikkhave, tīhi dhammehi samannāgato bhikkhu bhabbo anadhigataṃ vā kusalaṃ dhammaṃ adhigantuṃ, adhigataṃ vā kusalaṃ dhammaṃ phātiṃ kātuṃ. Katamehi tīhi? Idha, bhikkhave, bhikkhu pubbaṇhasamayaṃ sakkaccaṃ samādhinimittaṃ adhiṭṭhāti, majjhanhikasamayaṃ…pe… sāyanhasamayaṃ sakkaccaṃ samādhinimittaṃ adhiṭṭhāti. Imehi kho, bhikkhave, tīhi dhammehi samannāgato bhikkhu bhabbo anadhigataṃ vā kusalaṃ dhammaṃ adhigantuṃ, adhigataṃ vā kusalaṃ dhammaṃ phātiṃ kātu’’nti. Navamaṃ.",
+   "zh": "“诸比丘！同样地，具足三法的比丘，便能获得未得的善法，或能增长已得的善法。哪三法呢？诸比丘！在此，比丘于上午至诚恳切地安立定相，于中午……于傍晚至诚恳切地安立定相。诸比丘！具足此三法的比丘，便能获得未得的善法，或能增长已得的善法。第九经。"
+  },
+  {
+   "idx": 47,
+   "pali": "10. Dutiyapāpaṇikasuttaṃ",
+   "zh": "10. [[dutiyapāpaṇikasutta|第二商人经]]"
+  },
+  {
+   "idx": 48,
+   "pali": "‘‘Tīhi , bhikkhave, aṅgehi samannāgato pāpaṇiko nacirasseva mahattaṃ vepullattaṃ pāpuṇāti bhogesu. Katamehi tīhi? Idha, bhikkhave, pāpaṇiko cakkhumā ca hoti vidhuro ca nissayasampanno ca. Kathañca, bhikkhave, pāpaṇiko cakkhumā hoti? Idha, bhikkhave, pāpaṇiko paṇiyaṃ jānāti – ‘idaṃ paṇiyaṃ evaṃ kītaṃ, evaṃ vikkayamānaṃ , ettakaṃ mūlaṃ bhavissati, ettako udayo’ti . Evaṃ kho, bhikkhave, pāpaṇiko cakkhumā hoti.",
+   "zh": "“诸比丘，具足三法的商人，很快就能在财富上获得广大与丰盛。哪三法呢？诸比丘，在此，商人具足眼目、具足善巧、具足依怙。诸比丘，商人如何具足眼目呢？诸比丘，在此，商人能辨识商品：‘这件商品这样买进，这样卖出，将得到这么多的本钱，这么多的利润。’诸比丘，商人便是如此具足眼目。",
+   "n": "20"
+  },
+  {
+   "idx": 49,
+   "pali": "‘‘Kathañca, bhikkhave, pāpaṇiko vidhuro hoti? Idha, bhikkhave, pāpaṇiko kusalo hoti paṇiyaṃ ketuñca vikketuñca. Evaṃ kho, bhikkhave, pāpaṇiko vidhuro hoti.",
+   "zh": "“诸比丘，商人又如何具足善巧呢？诸比丘，在此，商人善于买进与卖出商品。诸比丘，商人便是如此具足善巧。"
+  },
+  {
+   "idx": 50,
+   "pali": "‘‘Kathañca, bhikkhave, pāpaṇiko nissayasampanno hoti? Idha bhikkhave , pāpaṇikaṃ ye te gahapatī vā gahapatiputtā vā aḍḍhā mahaddhanā mahābhogā te evaṃ jānanti – ‘ayaṃ kho bhavaṃ pāpaṇiko cakkhumā vidhuro ca paṭibalo puttadārañca posetuṃ, amhākañca kālena kālaṃ anuppadātu’nti. Te naṃ bhogehi nipatanti – ‘ito, samma pāpaṇika, bhoge karitvā puttadārañca posehi, amhākañca kālena kālaṃ anuppadehī’ti. Evaṃ kho, bhikkhave, pāpaṇiko nissayasampanno hoti. Imehi kho, bhikkhave, tīhi aṅgehi samannāgato pāpaṇiko nacirasseva mahattaṃ vepullattaṃ pāpuṇāti bhogesu.",
+   "zh": "“诸比丘，商人如何是有依止者？诸比丘，在此，那些富有、大富、多财的居士或居士子，他们这样了知：‘这位商主具眼、有才干，能扶养妻儿，且能时时供给我们。’他们便以财物托付他：‘朋友商人，你从这些财物中取用，以扶养妻儿，并时时供给我们。’诸比丘，商人便如此是有依止者。诸比丘，具足此三支的商人，不久即能于财富中达至广大与丰盛。”"
+  },
+  {
+   "idx": 51,
+   "pali": "‘‘Evamevaṃ kho, bhikkhave, tīhi dhammehi samannāgato bhikkhu nacirasseva mahattaṃ vepullattaṃ pāpuṇāti kusalesu dhammesu. Katamehi tīhi? Idha, bhikkhave, bhikkhu cakkhumā ca hoti vidhuro ca nissayasampanno ca. Kathañca, bhikkhave, bhikkhu cakkhumā hoti? Idha, bhikkhave, bhikkhu ‘idaṃ dukkha’nti yathābhūtaṃ pajānāti, ‘ayaṃ dukkhasamudayo’ti yathābhūtaṃ pajānāti, ‘ayaṃ dukkhanirodho’ti yathābhūtaṃ pajānāti, ‘ayaṃ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṃ pajānāti. Evaṃ kho, bhikkhave, bhikkhu cakkhumā hoti.",
+   "zh": "“诸比丘，同样地，具足三法的比丘，不久便能于诸善法中达到广大与丰盛。哪三种呢？诸比丘，于此，比丘具眼、精勤、具足依止。诸比丘，比丘如何具眼？诸比丘，于此，比丘如实了知‘此是苦’，如实了知‘此是苦之集’，如实了知‘此是苦之灭’，如实了知‘此是导至苦灭之道’。诸比丘，比丘如此即具眼。”"
+  },
+  {
+   "idx": 52,
+   "pali": "‘‘Kathañca, bhikkhave, bhikkhu vidhuro hoti? Idha, bhikkhave, bhikkhu āraddhavīriyo viharati akusalānaṃ dhammānaṃ pahānāya, kusalānaṃ dhammānaṃ upasampadāya, thāmavā daḷhaparakkamo anikkhittadhuro kusalesu dhammesu. Evaṃ kho, bhikkhave, bhikkhu vidhuro hoti.",
+   "zh": "“诸比丘，比丘如何为精勤？诸比丘，于此，比丘为断除诸不善法、为圆满诸善法，而住于精进，坚毅有力，勇猛精勤，于诸善法不舍其轭。诸比丘，比丘如此即精勤。”"
+  },
+  {
+   "idx": 53,
+   "pali": "‘‘Kathañca, bhikkhave, bhikkhu nissayasampanno hoti? Idha, bhikkhave, bhikkhu ye te bhikkhū bahussutā āgatāgamā dhammadharā vinayadharā mātikādharā te kālena kālaṃ upasaṅkamitvā paripucchati paripañhati – ‘idaṃ, bhante, kathaṃ, imassa ko attho’ti? Tassa te āyasmanto avivaṭañceva vivaranti, anuttānīkatañca uttānīkaronti, anekavihitesu ca kaṅkhāṭhāniyesu dhammesu kaṅkhaṃ paṭivinodenti. Evaṃ kho, bhikkhave, bhikkhu nissayasampanno hoti. Imehi kho, bhikkhave, tīhi dhammehi samannāgato bhikkhu nacirasseva mahattaṃ vepullattaṃ pāpuṇāti kusalesu dhammesū’’ti. Dasamaṃ.",
+   "zh": "“诸比丘，比丘如何具足依止呢？在此，比丘时常前往那些多闻、通晓圣典、持法、持律、持本母的比丘们那里，请教请问：‘尊者，这是什么？这有什么含义？’那些具寿便为他开显尚未开显的，阐明尚未阐明的，并为他除去对于种种疑惑法门的疑虑。诸比丘，比丘这样便是具足依止。诸比丘，具足这三法的比丘，不久便能令诸善法增长广大。”第十经。"
+  },
+  {
+   "idx": 54,
+   "pali": "Rathakāravaggo dutiyo.",
+   "zh": "车匠品 第二"
+  },
+  {
+   "idx": 55,
+   "pali": "Paṭhamabhāṇavāro niṭṭhito.",
+   "zh": "第一诵品终",
+   "type": "colophon"
+  },
+  {
+   "idx": 56,
+   "pali": "Tassuddānaṃ –",
+   "zh": "其摄颂："
+  },
+  {
+   "idx": 57,
+   "pali": "Ñāto sāraṇīyo bhikkhu, cakkavattī sacetano;",
+   "zh": "已知者、可忆念之比丘，转轮王、有思者；",
+   "type": "verse"
+  },
+  {
+   "idx": 58,
+   "pali": "Apaṇṇakattā devo ca, duve pāpaṇikena cāti.",
+   "zh": "无疑惑性、天，及商人二则。",
+   "type": "verse"
+  }
+ ]
+}

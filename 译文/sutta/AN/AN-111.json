@@ -1,0 +1,136 @@
+{
+ "uid": 111,
+ "title": "1. 应授具足戒经",
+ "nik": "AN",
+ "segs": [
+  {
+   "idx": 0,
+   "pali": "(26) 6. Upasampadāvaggo",
+   "zh": "（26） 6. 具足戒品"
+  },
+  {
+   "idx": 1,
+   "pali": "1. Upasampādetabbasuttaṃ",
+   "zh": "1. [[upasampādetabbasutta|应授具足戒经]]"
+  },
+  {
+   "idx": 2,
+   "pali": "‘‘Pañcahi , bhikkhave, dhammehi samannāgatena bhikkhunā upasampādetabbaṃ. Katamehi pañcahi? Idha, bhikkhave, bhikkhu asekhena sīlakkhandhena samannāgato hoti; asekhena samādhikkhandhena samannāgato hoti; asekhena paññākkhandhena samannāgato hoti; asekhena vimuttikkhandhena samannāgato hoti; asekhena vimuttiñāṇadassanakkhandhena samannāgato hoti. Imehi kho, bhikkhave, pañcahi dhammehi samannāgatena bhikkhunā upasampādetabba’’nti. Paṭhamaṃ.",
+   "zh": "“诸比丘，具足五法的比丘应授具足戒。哪五种呢？诸比丘，于此，比丘具足无学戒蕴；具足无学定蕴；具足无学慧蕴；具足无学解脱蕴；具足无学解脱智见蕴。诸比丘，具足此五法的比丘应授具足戒。”第一经。",
+   "n": "251"
+  },
+  {
+   "idx": 3,
+   "pali": "2. Nissayasuttaṃ",
+   "zh": "2. [[nissayasutta|依止经]]"
+  },
+  {
+   "idx": 4,
+   "pali": "‘‘Pañcahi, bhikkhave, dhammehi samannāgatena bhikkhunā nissayo dātabbo. Katamehi pañcahi? Idha, bhikkhave, bhikkhu asekhena sīlakkhandhena samannāgato hoti…pe… asekhena vimuttiñāṇadassanakkhandhena samannāgato hoti. Imehi…pe… nissayo dātabbo’’ti. Dutiyaṃ.",
+   "zh": "“诸比丘，具足五法的比丘应给予依止。哪五种呢？诸比丘，于此，比丘具足无学戒蕴，具足无学定蕴，具足无学慧蕴，具足无学解脱蕴，具足无学解脱智见蕴。诸比丘，具足此五法的比丘应给予依止。第二”",
+   "n": "252"
+  },
+  {
+   "idx": 5,
+   "pali": "3. Sāmaṇerasuttaṃ",
+   "zh": "3. [[sāmaṇerasutta|沙弥经]]"
+  },
+  {
+   "idx": 6,
+   "pali": "‘‘Pañcahi, bhikkhave, dhammehi samannāgatena bhikkhunā sāmaṇero upaṭṭhāpetabbo. Katamehi pañcahi? Idha, bhikkhave, bhikkhu asekhena sīlakkhandhena samannāgato hoti; asekhena samādhikkhandhena… asekhena paññākkhandhena… asekhena vimuttikkhandhena… asekhena vimuttiñāṇadassanakkhandhena samannāgato hoti. Imehi kho, bhikkhave, pañcahi dhammehi samannāgatena bhikkhunā sāmaṇero upaṭṭhāpetabbo’’ti. Tatiyaṃ.",
+   "zh": "“诸比丘，具足五法的比丘，可令沙弥随侍。哪五种呢？诸比丘，于此，比丘具足无学的戒蕴，具足无学的定蕴，具足无学的慧蕴，具足无学的解脱蕴，具足无学的解脱智见蕴。诸比丘，具足此五法的比丘，可令沙弥随侍。”第三经。",
+   "n": "253"
+  },
+  {
+   "idx": 7,
+   "pali": "4. Pañcamacchariyasuttaṃ",
+   "zh": "4. [[pañcamacchariyasutta|第五悭吝经]]"
+  },
+  {
+   "idx": 8,
+   "pali": "‘‘Pañcimāni , bhikkhave, macchariyāni. Katamāni pañca? Āvāsamacchariyaṃ, kulamacchariyaṃ, lābhamacchariyaṃ, vaṇṇamacchariyaṃ, dhammamacchariyaṃ – imāni kho, bhikkhave, pañca macchariyāni. Imesaṃ kho, bhikkhave, pañcannaṃ macchariyānaṃ etaṃ paṭikuṭṭhaṃ , yadidaṃ dhammamacchariya’’nti. Catutthaṃ.",
+   "zh": "“诸比丘，有五种悭。哪五种？住所悭、家族悭、利养悭、赞叹悭、法悭。诸比丘，这便是五种悭。诸比丘，在此五种悭中，最可厌弃者，即是法悭。”第四经。",
+   "n": "254"
+  },
+  {
+   "idx": 9,
+   "pali": "5. Macchariyappahānasuttaṃ",
+   "zh": "5. [[macchariyappahānasutta|舍断悭吝经]]"
+  },
+  {
+   "idx": 10,
+   "pali": "‘‘Pañcannaṃ , bhikkhave, macchariyānaṃ pahānāya samucchedāya brahmacariyaṃ vussati. Katamesaṃ pañcannaṃ? Āvāsamacchariyassa pahānāya samucchedāya brahmacariyaṃ vussati; kulamacchariyassa…pe… lābhamacchariyassa… vaṇṇamacchariyassa… dhammamacchariyassa pahānāya samucchedāya brahmacariyaṃ vussati. Imesaṃ kho, bhikkhave, pañcannaṃ macchariyānaṃ pahānāya samucchedāya brahmacariyaṃ vussatī’’ti. Pañcamaṃ.",
+   "zh": "“诸比丘！为舍断、根除五种悭吝，而行梵行。哪五种？为舍断、根除住处悭吝，而行梵行；为舍断、根除家族悭吝，而行梵行；为舍断、根除利养悭吝，而行梵行；为舍断、根除赞叹悭吝，而行梵行；为舍断、根除法悭吝，而行梵行。诸比丘！为舍断、根除此五种悭吝，而行梵行。第五”",
+   "n": "255"
+  },
+  {
+   "idx": 11,
+   "pali": "6. Paṭhamajhānasuttaṃ",
+   "zh": "6. [[paṭhamajhānasutta|初禅经]]"
+  },
+  {
+   "idx": 12,
+   "pali": "‘‘Pañcime, bhikkhave, dhamme appahāya abhabbo paṭhamaṃ jhānaṃ upasampajja viharituṃ. Katame pañca? Āvāsamacchariyaṃ, kulamacchariyaṃ, lābhamacchariyaṃ, vaṇṇamacchariyaṃ, dhammamacchariyaṃ – ime kho, bhikkhave, pañca dhamme appahāya abhabbo paṭhamaṃ jhānaṃ upasampajja viharituṃ.",
+   "zh": "“诸比丘，若不断此五法，便无法进入并安住于初禅。是哪五种呢？对住所的悭吝、对家的悭吝、对利养的悭吝、对赞誉的悭吝、对法的悭吝。诸比丘，若不断此五法，便无法进入并安住于初禅。第六经。",
+   "n": "256"
+  },
+  {
+   "idx": 13,
+   "pali": "‘‘Pañcime, bhikkhave, dhamme pahāya bhabbo paṭhamaṃ jhānaṃ upasampajja viharituṃ. Katame pañca? Āvāsamacchariyaṃ, kulamacchariyaṃ, lābhamacchariyaṃ, vaṇṇamacchariyaṃ, dhammamacchariyaṃ – ime kho, bhikkhave, pañca dhamme pahāya bhabbo paṭhamaṃ jhānaṃ upasampajja viharitu’’nti. Chaṭṭhaṃ.",
+   "zh": "“诸比丘，若能断此五法，便能进入并安住于初禅。是哪五种呢？对住所的悭吝、对家的悭吝、对利养的悭吝、对赞誉的悭吝、对法的悭吝。诸比丘，若能断此五法，便能进入并安住于初禅。第六经。"
+  },
+  {
+   "idx": 14,
+   "pali": "7-13. Dutiyajhānasuttādisattakaṃ",
+   "zh": "7-13. 第二禅那经等七经。"
+  },
+  {
+   "idx": 15,
+   "pali": "‘‘Pañcime , bhikkhave, dhamme appahāya abhabbo dutiyaṃ jhānaṃ…pe… abhabbo tatiyaṃ jhānaṃ… abhabbo catutthaṃ jhānaṃ… abhabbo sotāpattiphalaṃ… abhabbo sakadāgāmiphalaṃ… abhabbo anāgāmiphalaṃ… abhabbo arahattaṃ sacchikātuṃ. Katame pañca? Āvāsamacchariyaṃ , kulamacchariyaṃ, lābhamacchariyaṃ, vaṇṇamacchariyaṃ, dhammamacchariyaṃ – ime kho, bhikkhave, pañca dhamme appahāya abhabbo arahattaṃ sacchikātuṃ.",
+   "zh": "“诸比丘，不舍断此五法，便不能证得第二禅那……不能证得第三禅那……不能证得第四禅那……不能证得入流果……不能证得一来果……不能证得不来果……不能现证阿拉汉。哪五种？住所悭、家族悭、利养悭、称赞悭、法悭。诸比丘，不舍断此五法，便不能现证阿拉汉。",
+   "n": "257-263"
+  },
+  {
+   "idx": 16,
+   "pali": "‘‘Pañcime, bhikkhave, dhamme pahāya bhabbo dutiyaṃ jhānaṃ…pe… bhabbo tatiyaṃ jhānaṃ… bhabbo catutthaṃ jhānaṃ… bhabbo sotāpattiphalaṃ… bhabbo sakadāgāmiphalaṃ… bhabbo anāgāmiphalaṃ… bhabbo arahattaṃ sacchikātuṃ. Katame pañca? Āvāsamacchariyaṃ, kulamacchariyaṃ, lābhamacchariyaṃ, vaṇṇamacchariyaṃ, dhammamacchariyaṃ – ime kho, bhikkhave, pañca dhamme pahāya bhabbo arahattaṃ sacchikātu’’nti. Terasamaṃ.",
+   "zh": "“诸比丘，舍断此五法后，便能证得第二禅那……便能证得第三禅那……便能证得第四禅那……便能证得入流果……便能证得一来果……便能证得不来果……便能现证阿拉汉。哪五种？住所悭、家族悭、利养悭、称赞悭、法悭。诸比丘，舍断此五法后，便能现证阿拉汉。”第十三"
+  },
+  {
+   "idx": 17,
+   "pali": "14. Aparapaṭhamajhānasuttaṃ",
+   "zh": "14. [[aparapaṭhamajhānasutta|另一第一禅那经]]"
+  },
+  {
+   "idx": 18,
+   "pali": "‘‘Pañcime , bhikkhave, dhamme appahāya abhabbo paṭhamaṃ jhānaṃ upasampajja viharituṃ. Katame pañca? Āvāsamacchariyaṃ, kulamacchariyaṃ, lābhamacchariyaṃ, vaṇṇamacchariyaṃ, akataññutaṃ akataveditaṃ – ime kho, bhikkhave, pañca dhamme appahāya abhabbo paṭhamaṃ jhānaṃ upasampajja viharituṃ.",
+   "zh": "“诸比丘，若不舍断此五法，便不可能证入初禅而安住。哪五种？对住所的悭吝、对家门的悭吝、对利养的悭吝、对名声的悭吝、不知恩不感恩。诸比丘，若不舍断此五法，便不可能证入初禅而安住。",
+   "n": "264"
+  },
+  {
+   "idx": 19,
+   "pali": "‘‘Pañcime, bhikkhave, dhamme pahāya bhabbo paṭhamaṃ jhānaṃ upasampajja viharituṃ. Katame pañca? Āvāsamacchariyaṃ, kulamacchariyaṃ, lābhamacchariyaṃ, vaṇṇamacchariyaṃ, akataññutaṃ akataveditaṃ – ime kho, bhikkhave, pañca dhamme pahāya bhabbo paṭhamaṃ jhānaṃ upasampajja viharitu’’nti. Cuddasamaṃ.",
+   "zh": "“诸比丘，舍断此五法之后，便能证入初禅而安住。哪五种？对住所的悭吝、对家门的悭吝、对利养的悭吝、对名声的悭吝、不知恩不感恩。诸比丘，舍断此五法之后，便能证入初禅而安住。”第十四"
+  },
+  {
+   "idx": 20,
+   "pali": "15-21. Aparadutiyajhānasuttādisattakaṃ",
+   "zh": "十五至二十一．另一组第二禅那等七经"
+  },
+  {
+   "idx": 21,
+   "pali": "‘‘Pañcime , bhikkhave, dhamme appahāya abhabbo dutiyaṃ jhānaṃ…pe… tatiyaṃ jhānaṃ… catutthaṃ jhānaṃ… sotāpattiphalaṃ… sakadāgāmiphalaṃ… anāgāmiphalaṃ… arahattaṃ sacchikātuṃ. Katame pañca? Āvāsamacchariyaṃ, kulamacchariyaṃ, lābhamacchariyaṃ, vaṇṇamacchariyaṃ, akataññutaṃ akataveditaṃ – ime kho, bhikkhave, pañca dhamme appahāya abhabbo arahattaṃ sacchikātuṃ.",
+   "zh": "“诸比丘，若不舍断此五法，则不能证得第二禅那……第三禅那……第四禅那……入流果……一来果……不来果……现证阿拉汉。哪五种？住所悭、家悭、利得悭、称赞悭，不知恩、不感恩。诸比丘，不舍断此五法，便不能现证阿拉汉。",
+   "n": "265-271"
+  },
+  {
+   "idx": 22,
+   "pali": "‘‘Pañcime, bhikkhave, dhamme pahāya bhabbo dutiyaṃ jhānaṃ…pe… tatiyaṃ jhānaṃ… catutthaṃ jhānaṃ… sotāpattiphalaṃ… sakadāgāmiphalaṃ… anāgāmiphalaṃ… arahattaṃ sacchikātuṃ. Katame pañca? Āvāsamacchariyaṃ, kulamacchariyaṃ, lābhamacchariyaṃ, vaṇṇamacchariyaṃ, akataññutaṃ akataveditaṃ – ime kho, bhikkhave, pañca dhamme pahāya bhabbo arahattaṃ sacchikātu’’nti. Ekavīsatimaṃ.",
+   "zh": "“诸比丘，若舍断此五法，则能证得第二禅那……第三禅那……第四禅那……入流果……一来果……不来果……现证阿拉汉。哪五种？住所悭、家悭、利得悭、称赞悭，不知恩、不感恩。诸比丘，舍断此五法，便能现证阿拉汉。”"
+  },
+  {
+   "idx": 23,
+   "pali": "Upasampadāvaggo chaṭṭho.",
+   "zh": "具足戒品第六"
+  }
+ ]
+}

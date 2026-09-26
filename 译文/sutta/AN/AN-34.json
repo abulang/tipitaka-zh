@@ -1,0 +1,89 @@
+{
+ "uid": 34,
+ "title": "4. 招待品",
+ "nik": "AN",
+ "segs": [
+  {
+   "idx": 0,
+   "pali": "(14) 4. Santhāravaggo",
+   "zh": "（14） 4. 招待品"
+  },
+  {
+   "idx": 1,
+   "pali": "‘‘Dveme , bhikkhave, santhārā . Katame dve? Āmisasanthāro ca dhammasanthāro ca. Ime kho, bhikkhave, dve santhārā. Etadaggaṃ, bhikkhave, imesaṃ dvinnaṃ santhārānaṃ yadidaṃ dhammasanthāro’’ti.",
+   "zh": "“诸比丘，有这两种款待。哪两种？利养之款待与法之款待。诸比丘，这便是两种款待。诸比丘，于此两种款待中，以法之款待最为殊胜。”",
+   "n": "152"
+  },
+  {
+   "idx": 2,
+   "pali": "‘‘Dveme, bhikkhave, paṭisanthārā . Katame dve? Āmisapaṭisanthāro ca dhammapaṭisanthāro ca. Ime kho, bhikkhave, dve paṭisanthārā. Etadaggaṃ, bhikkhave, imesaṃ dvinnaṃ paṭisanthārānaṃ yadidaṃ dhammapaṭisanthāro’’ti.",
+   "zh": "“诸比丘，有这两种应接。哪两种？利养应接与法应接。诸比丘，这便是两种应接。诸比丘，于此两种应接中，以法应接最为殊胜。”",
+   "n": "153"
+  },
+  {
+   "idx": 3,
+   "pali": "‘‘Dvemā, bhikkhave, esanā. Katamā dve? Āmisesanā ca dhammesanā ca. Imā kho, bhikkhave, dve esanā. Etadaggaṃ, bhikkhave, imāsaṃ dvinnaṃ esanānaṃ yadidaṃ dhammesanā’’ti.",
+   "zh": "“诸比丘，有这两种寻求。哪两种？利养寻求与法寻求。诸比丘，这便是两种寻求。诸比丘，于此两种寻求中，以法寻求最为殊胜。”",
+   "n": "154"
+  },
+  {
+   "idx": 4,
+   "pali": "‘‘Dvemā, bhikkhave, pariyesanā. Katamā dve? Āmisapariyesanā ca dhammapariyesanā ca. Imā kho, bhikkhave, dve pariyesanā. Etadaggaṃ, bhikkhave, imāsaṃ dvinnaṃ pariyesanānaṃ yadidaṃ dhammapariyesanā’’ti.",
+   "zh": "“诸比丘，有此二种遍求。哪二种？利养遍求与法遍求。诸比丘，这便是二种遍求。诸比丘，于此二种遍求中，最上者，即是法遍求。”",
+   "n": "155"
+  },
+  {
+   "idx": 5,
+   "pali": "‘‘Dvemā, bhikkhave, pariyeṭṭhiyo. Katamā dve? Āmisapariyeṭṭhi ca dhammapariyeṭṭhi ca. Imā kho, bhikkhave, dve pariyeṭṭhiyo. Etadaggaṃ, bhikkhave, imāsaṃ dvinnaṃ pariyeṭṭhīnaṃ yadidaṃ dhammapariyeṭṭhī’’ti.",
+   "zh": "“诸比丘，有此二种追求。哪二种？利养追求与法追求。诸比丘，这便是二种追求。诸比丘，于此二种追求中，最上者，即是法追求。”",
+   "n": "156"
+  },
+  {
+   "idx": 6,
+   "pali": "‘‘Dvemā , bhikkhave, pūjā. Katamā dve? Āmisapūjā ca dhammapūjā ca. Imā kho bhikkhave, dve pūjā. Etadaggaṃ, bhikkhave, imāsaṃ dvinnaṃ pūjānaṃ yadidaṃ dhammapūjā’’ti.",
+   "zh": "“诸比丘，有此二种供养。哪二种？利养供养与法供养。诸比丘，这便是二种供养。诸比丘，于此二种供养中，最上者，即是法供养。”",
+   "n": "157"
+  },
+  {
+   "idx": 7,
+   "pali": "‘‘Dvemāni, bhikkhave, ātitheyyāni. Katamāni dve? Āmisātitheyyañca dhammātitheyyañca . Imāni kho, bhikkhave, dve ātitheyyāni. Etadaggaṃ, bhikkhave, imesaṃ dvinnaṃ ātitheyyānaṃ yadidaṃ dhammātitheyya’’nti.",
+   "zh": "“诸比丘，有此两种待客。哪两种？利养待客与法待客。诸比丘，这便是两种待客。诸比丘，在这两种待客中，最上的，即是法待客。”",
+   "n": "158"
+  },
+  {
+   "idx": 8,
+   "pali": "‘‘Dvemā, bhikkhave, iddhiyo. Katamā dve? Āmisiddhi ca dhammiddhi ca. Imā kho, bhikkhave, dve iddhiyo. Etadaggaṃ, bhikkhave, imāsaṃ dvinnaṃ iddhīnaṃ yadidaṃ dhammiddhī’’ti.",
+   "zh": "“诸比丘，有此两种成就。哪两种？利养成就与法成就。诸比丘，这便是两种成就。诸比丘，在这两种成就中，最上的，即是法成就。”",
+   "n": "159"
+  },
+  {
+   "idx": 9,
+   "pali": "‘‘Dvemā , bhikkhave, vuddhiyo. Katamā dve? Āmisavuddhi ca dhammavuddhi ca. Imā kho, bhikkhave, dve vuddhiyo. Etadaggaṃ, bhikkhave, imāsaṃ dvinnaṃ vuddhīnaṃ yadidaṃ dhammavuddhī’’ti.",
+   "zh": "“诸比丘，有此两种增长。哪两种？利养增长与法增长。诸比丘，这便是两种增长。诸比丘，在这两种增长中，最上的，即是法增长。”",
+   "n": "160"
+  },
+  {
+   "idx": 10,
+   "pali": "‘‘Dvemāni , bhikkhave, ratanāni. Katamāni dve? Āmisaratanañca dhammaratanañca. Imāni kho, bhikkhave, dve ratanāni. Etadaggaṃ, bhikkhave, imesaṃ dvinnaṃ ratanānaṃ yadidaṃ dhammaratana’’nti.",
+   "zh": "“诸比丘，有这二种宝。哪二种？物质之宝与法宝。诸比丘，这便是二种宝。诸比丘，于此二种宝中，最上者即是法宝。”",
+   "n": "161"
+  },
+  {
+   "idx": 11,
+   "pali": "‘‘Dveme, bhikkhave, sannicayā. Katame dve? Āmisasannicayo ca dhammasannicayo ca. Ime kho, bhikkhave, dve sannicayā. Etadaggaṃ, bhikkhave, imesaṃ dvinnaṃ sannicayānaṃ yadidaṃ dhammasannicayo’’ti.",
+   "zh": "“诸比丘，有这二种积聚。哪二种？财利积聚与法积聚。诸比丘，这便是二种积聚。诸比丘，于此二种积聚中，最上者即是法积聚。”",
+   "n": "162"
+  },
+  {
+   "idx": 12,
+   "pali": "‘‘Dvemāni, bhikkhave, vepullāni. Katamāni dve? Āmisavepullañca dhammavepullañca. Imāni kho, bhikkhave, dve vepullāni. Etadaggaṃ, bhikkhave, imesaṃ dvinnaṃ vepullānaṃ yadidaṃ dhammavepulla’’nti.",
+   "zh": "“诸比丘，有这二种广益。哪二种？丰富广益与法广益。诸比丘，这便是二种广益。诸比丘，于此二种广益中，最上者即是法广益。”",
+   "n": "163"
+  },
+  {
+   "idx": 13,
+   "pali": "Santhāravaggo catuttho.",
+   "zh": "第四 招待品"
+  }
+ ]
+}

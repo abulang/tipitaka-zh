@@ -1,0 +1,180 @@
+{
+ "uid": 155,
+ "title": "1. 安稳经",
+ "nik": "AN",
+ "segs": [
+  {
+   "idx": 0,
+   "pali": "(6) 1. Khemavaggo",
+   "zh": "（六）1. 安稳品"
+  },
+  {
+   "idx": 1,
+   "pali": "1. Khemasuttaṃ",
+   "zh": "1. [[khemasutta|差摩经]]"
+  },
+  {
+   "idx": 2,
+   "pali": "‘‘‘Khemaṃ khema’nti , āvuso, vuccati. Kittāvatā nu kho, āvuso, khemaṃ vuttaṃ bhagavatā’’ti?",
+   "zh": "“贤友，‘安稳、安稳’常被说起。贤友，世尊究竟在何种意义上，称之为安稳呢？”",
+   "n": "52"
+  },
+  {
+   "idx": 3,
+   "pali": "‘‘Idhāvuso, bhikkhu vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati. Ettāvatāpi kho, āvuso, khemaṃ vuttaṃ bhagavatā pariyāyena…pe….",
+   "zh": "“贤友，于此，比丘远离诸欲……（中略）……具足初禅而住。贤友们，到此程度，世尊依方便而说安稳……（中略）……”"
+  },
+  {
+   "idx": 4,
+   "pali": "‘‘Puna caparaṃ, āvuso, bhikkhu sabbaso nevasaññānāsaññāyatanaṃ samatikkamma saññāvedayitanirodhaṃ upasampajja viharati, paññāya cassa disvā āsavā parikkhīṇā honti. Ettāvatāpi kho, āvuso, khemaṃ vuttaṃ bhagavatā nippariyāyenā’’ti. Paṭhamaṃ.",
+   "zh": "“再者，贤友，比丘完全超越非想非非想处，具足想受灭而住，并以慧观见，诸漏灭尽。贤友，到这个程度，世尊所说的安稳，是无方便之说。”第一。"
+  },
+  {
+   "idx": 5,
+   "pali": "2. Khemappattasuttaṃ",
+   "zh": "2. [[khemappattasutta|安稳已达经]]"
+  },
+  {
+   "idx": 6,
+   "pali": "Khemappatto khemappattoti, āvuso, vuccati…pe…. Dutiyaṃ.",
+   "zh": "“贤友，所谓‘已达安稳、已达安稳’……（中略）……第二。”",
+   "n": "53"
+  },
+  {
+   "idx": 7,
+   "pali": "3. Amatasuttaṃ",
+   "zh": "3. [[amatasutta|不死经]]"
+  },
+  {
+   "idx": 8,
+   "pali": "Amataṃ amatanti, āvuso, vuccati…pe…. Tatiyaṃ.",
+   "zh": "“贤友们，所谓‘不死、不死’……（中略）……第三。",
+   "n": "54"
+  },
+  {
+   "idx": 9,
+   "pali": "4. Amatappattasuttaṃ",
+   "zh": "4. [[amatappattasutta|达不死经]]"
+  },
+  {
+   "idx": 10,
+   "pali": "Amatappatto amatappattoti, āvuso, vuccati…pe…. Catutthaṃ.",
+   "zh": "贤友们，所谓‘已达不死、已达不死’……（中略）……第四。",
+   "n": "55"
+  },
+  {
+   "idx": 11,
+   "pali": "5. Abhayasuttaṃ",
+   "zh": "5. [[abhayasutta|无畏经]]"
+  },
+  {
+   "idx": 12,
+   "pali": "Abhayaṃ abhayanti, āvuso, vuccati…pe…. Pañcamaṃ.",
+   "zh": "贤友们，所谓‘无畏、无畏’……（中略）……第五。",
+   "n": "56"
+  },
+  {
+   "idx": 13,
+   "pali": "6. Abhayappattasuttaṃ",
+   "zh": "6. [[abhayappattasutta|得无畏经]]"
+  },
+  {
+   "idx": 14,
+   "pali": "Abhayappatto abhayappattoti, āvuso, vuccati…pe…. Chaṭṭhaṃ.",
+   "zh": "贤友，所谓“已达无畏、已达无畏”……（中略）……第六。",
+   "n": "57"
+  },
+  {
+   "idx": 15,
+   "pali": "7. Passaddhisuttaṃ",
+   "zh": "7. [[passaddhisutta|轻安经]]"
+  },
+  {
+   "idx": 16,
+   "pali": "Passaddhi passaddhīti, āvuso, vuccati…pe…. Sattamaṃ.",
+   "zh": "“贤友们，所谓的‘轻安、轻安’……”第七。",
+   "n": "58"
+  },
+  {
+   "idx": 17,
+   "pali": "8. Anupubbapassaddhisuttaṃ",
+   "zh": "8. [[anupubbapassaddhisutta|次第轻安经]]"
+  },
+  {
+   "idx": 18,
+   "pali": "Anupubbapassaddhi anupubbapassaddhīti, āvuso, vuccati…pe…. Aṭṭhamaṃ.",
+   "zh": "“贤友们，所谓的‘次第轻安、次第轻安’……”第八。",
+   "n": "59"
+  },
+  {
+   "idx": 19,
+   "pali": "9. Nirodhasuttaṃ",
+   "zh": "9. [[nirodhasutta|灭经]]"
+  },
+  {
+   "idx": 20,
+   "pali": "Nirodho nirodhoti, āvuso, vuccati…pe…. Navamaṃ.",
+   "zh": "“贤友们，所谓‘灭、灭’……”第九。",
+   "n": "60"
+  },
+  {
+   "idx": 21,
+   "pali": "10. Anupubbanirodhasuttaṃ",
+   "zh": "10. [[anupubbanirodhasutta|次第灭经]]"
+  },
+  {
+   "idx": 22,
+   "pali": "‘‘‘Anupubbanirodho anupubbanirodho’ti, āvuso, vuccati. Kittāvatā nu kho, āvuso, anupubbanirodho vutto bhagavatā’’ti?",
+   "zh": "“贤友们，所谓“次第灭、次第灭”。贤友们，世尊是在何种意义上宣说次第灭的呢？”",
+   "n": "61"
+  },
+  {
+   "idx": 23,
+   "pali": "‘‘Idhāvuso, bhikkhu vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati. Ettāvatāpi kho, āvuso, anupubbanirodho vutto bhagavatā pariyāyena…pe… .",
+   "zh": "“贤友们，于此，比丘远离诸欲……进入并安住于初禅。贤友们，以此方便，世尊宣说了次第灭。……"
+  },
+  {
+   "idx": 24,
+   "pali": "‘‘Puna caparaṃ, āvuso, bhikkhu sabbaso nevasaññānāsaññāyatanaṃ samatikkamma saññāvedayitanirodhaṃ upasampajja viharati, paññāya cassa disvā āsavā parikkhīṇā honti. Ettāvatāpi kho, āvuso, anupubbanirodho vutto bhagavatā nippariyāyenā’’ti. Dasamaṃ.",
+   "zh": "“再者，贤友们，比丘完全超越非想非非想处，进入并安住于想受灭，以慧见后，他诸漏灭尽。贤友们，世尊直接地宣说了次第灭。”第十经。"
+  },
+  {
+   "idx": 25,
+   "pali": "11. Abhabbasuttaṃ",
+   "zh": "11. [[abhabbasutta|不能经]]"
+  },
+  {
+   "idx": 26,
+   "pali": "‘‘Nava, bhikkhave, dhamme appahāya abhabbo arahattaṃ sacchikātuṃ. Katame nava? Rāgaṃ, dosaṃ, mohaṃ, kodhaṃ, upanāhaṃ, makkhaṃ, paḷāsaṃ, issaṃ, macchariyaṃ – ime kho, bhikkhave, nava dhamme appahāya abhabbo arahattaṃ sacchikātuṃ.",
+   "zh": "“诸比丘，未断舍此九法者，不能现证阿拉汉果。哪九种？贪、嗔、痴、忿、恨、覆、恼、嫉、悭。诸比丘，不断舍此九法者，不能现证阿拉汉果。",
+   "n": "62"
+  },
+  {
+   "idx": 27,
+   "pali": "‘‘Nava, bhikkhave, dhamme pahāya bhabbo arahattaṃ sacchikātuṃ. Katame nava? Rāgaṃ, dosaṃ, mohaṃ, kodhaṃ, upanāhaṃ, makkhaṃ, paḷāsaṃ, issaṃ, macchariyaṃ – ime kho, bhikkhave, nava dhamme pahāya bhabbo arahattaṃ sacchikātu’’nti. Ekādasamaṃ.",
+   "zh": "“诸比丘，断舍此九法者，能现证阿拉汉果。哪九种？贪、嗔、痴、忿、恨、覆、恼、嫉、悭。诸比丘，断舍此九法者，能现证阿拉汉果。”第十一。"
+  },
+  {
+   "idx": 28,
+   "pali": "Khemavaggo paṭhamo.",
+   "zh": "安稳品第一"
+  },
+  {
+   "idx": 29,
+   "pali": "Tassuddānaṃ –",
+   "zh": "其摄颂："
+  },
+  {
+   "idx": 30,
+   "pali": "Khemo ca amatañceva, abhayaṃ passaddhiyena ca;",
+   "zh": "安稳与甘露，无畏与轻安，",
+   "type": "verse"
+  },
+  {
+   "idx": 31,
+   "pali": "Nirodho anupubbo ca, dhammaṃ pahāya bhabbena cāti.",
+   "zh": "灭与次第灭，舍法与能者。",
+   "type": "verse"
+  }
+ ]
+}

@@ -1,0 +1,716 @@
+{
+ "uid": 31,
+ "title": "善生经",
+ "nik": "DN",
+ "segs": [
+  {
+   "idx": 121,
+   "pali": "8. Siṅgālasuttaṃ",
+   "zh": "8. 《[[siṅgālasutta|善生经]]》"
+  },
+  {
+   "idx": 1,
+   "pali": "Evaṃ me sutaṃ – ekaṃ samayaṃ bhagavā rājagahe viharati veḷuvane kalandakanivāpe. Tena kho pana samayena siṅgālako gahapatiputto kālasseva uṭṭhāya rājagahā nikkhamitvā allavattho allakeso pañjaliko puthudisā namassati – puratthimaṃ disaṃ dakkhiṇaṃ disaṃ pacchimaṃ disaṃ uttaraṃ disaṃ heṭṭhimaṃ disaṃ uparimaṃ disaṃ.",
+   "zh": "如是我闻：一时，世尊住在[[rājagaha|王舍城]]竹林中的迦兰陀竹园。那时，居士子善生在清晨早早起床，出了[[rājagaha|王舍城]]。他衣发尽湿，双手合十，向着各方礼拜——东方、南方、西方、北方、下方、上方，一一礼敬。",
+   "n": "242"
+  },
+  {
+   "idx": 2,
+   "pali": "Atha kho bhagavā pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya rājagahaṃ piṇḍāya pāvisi. Addasā kho bhagavā siṅgālakaṃ gahapatiputtaṃ kālasseva vuṭṭhāya rājagahā nikkhamitvā allavatthaṃ allakesaṃ pañjalikaṃ puthudisā namassantaṃ – puratthimaṃ disaṃ dakkhiṇaṃ disaṃ pacchimaṃ disaṃ uttaraṃ disaṃ heṭṭhimaṃ disaṃ uparimaṃ disaṃ. Disvā siṅgālakaṃ gahapatiputtaṃ etadavoca – ‘‘kiṃ nu kho tvaṃ, gahapatiputta, kālasseva uṭṭhāya rājagahā nikkhamitvā allavattho allakeso pañjaliko puthudisā namassasi – puratthimaṃ disaṃ dakkhiṇaṃ disaṃ pacchimaṃ disaṃ uttaraṃ disaṃ heṭṭhimaṃ disaṃ uparimaṃ disa’’nti? ‘‘Pitā maṃ, bhante, kālaṃ karonto evaṃ avaca – ‘disā, tāta, namasseyyāsī’ti. So kho ahaṃ, bhante, pituvacanaṃ sakkaronto garuṃ karonto mānento pūjento kālasseva uṭṭhāya rājagahā nikkhamitvā allavattho allakeso pañjaliko puthudisā namassāmi – puratthimaṃ disaṃ dakkhiṇaṃ disaṃ pacchimaṃ disaṃ uttaraṃ disaṃ heṭṭhimaṃ disaṃ uparimaṃ disa’’nti.",
+   "zh": "那时，世尊于午前时分着衣持钵，进入[[rājagaha|王舍城]]乞食。世尊望见居士之子善生一早便起床、出了[[rājagaha|王舍城]]，衣服与头发尽湿，双掌合十，礼拜各方——东方、南方、西方、北方、下方、上方。看见之后，世尊便对居士之子善生说：“居士之子，你为何一早便起床出[[rājagaha|王舍城]]，衣服与头发尽湿，双掌合十，礼拜各方——东方、南方、西方、北方、下方、上方呢？”善生回答：“尊者，我父亲在临终时对我说：‘孩子，你要礼敬诸方。’尊者，我恭敬、尊重并铭记父亲的话，以此表达对父亲的忆念与敬奉，所以每日清晨即起，出[[rājagaha|王舍城]]，衣裳与头发尽湿，合掌礼拜各方——东方、南方、西方、北方、下方、上方。”",
+   "n": "243"
+  },
+  {
+   "idx": 3,
+   "pali": "Cha disā",
+   "zh": "六方"
+  },
+  {
+   "idx": 4,
+   "pali": "‘‘Na kho, gahapatiputta, ariyassa vinaye evaṃ cha disā namassitabbā’’ti. ‘‘Yathā kathaṃ pana, bhante, ariyassa vinaye cha disā namassitabbā? Sādhu me, bhante, bhagavā tathā dhammaṃ desetu, yathā ariyassa vinaye cha disā namassitabbā’’ti.",
+   "zh": "世尊这样说：“居士的儿子，在圣者的律中，六方并非如此礼敬。” “善哉，尊者！那么，在圣者的律中，六方应当如何礼敬呢？恳请世尊为我宣说法要，令我了知圣者律中礼敬六方的正道。”",
+   "n": "244"
+  },
+  {
+   "idx": 5,
+   "pali": "‘‘Tena hi, gahapatiputta suṇohi sādhukaṃ manasikarohi bhāsissāmī’’ti. ‘‘Evaṃ, bhante’’ti kho siṅgālako gahapatiputto bhagavato paccassosi. Bhagavā etadavoca –",
+   "zh": "“那么，居士的儿子，你仔细听，善加思惟，我这就为你宣说。”“是的，尊者。”善生居士子回答世尊。世尊便这样说道："
+  },
+  {
+   "idx": 6,
+   "pali": "‘‘Yato kho, gahapatiputta, ariyasāvakassa cattāro kammakilesā pahīnā honti, catūhi ca ṭhānehi pāpakammaṃ na karoti, cha ca bhogānaṃ apāyamukhāni na sevati, so evaṃ cuddasa pāpakāpagato chaddisāpaṭicchādī ubholokavijayāya paṭipanno hoti. Tassa ayañceva loko āraddho hoti paro ca loko. So kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjati.",
+   "zh": "“居士之子，当一位圣弟子断除了四种业垢，不依四种偏私之处而造恶事，远离了六种损耗财富的败财之门时，他便如此舍离了这十四种恶行，成为以六方守护自身之人，走上了一条既能赢得此生、也能赢得来生的道路。他的此生已得成就，来世亦得成就。当他身坏命终之后，便会投生善道、天界之中。"
+  },
+  {
+   "idx": 7,
+   "pali": "Cattārokammakilesā",
+   "zh": "四种业的染垢"
+  },
+  {
+   "idx": 8,
+   "pali": "‘‘Katamassa cattāro kammakilesā pahīnā honti? Pāṇātipāto kho, gahapatiputta, kammakileso, adinnādānaṃ kammakileso, kāmesumicchācāro kammakileso, musāvādo kammakileso. Imassa cattāro kammakilesā pahīnā hontī’’ti. Idamavoca bhagavā, idaṃ vatvāna sugato athāparaṃ etadavoca satthā –",
+   "zh": "“哪四种业的染垢已被断除？居士子，杀生是业的染垢，偷盗是业的染垢，欲邪行是业的染垢，妄语是业的染垢。这四种业的染垢，他已断除。”世尊说了这些之后，善逝这样说罢，导师又进一步说了以下偈颂：",
+   "n": "245"
+  },
+  {
+   "idx": 9,
+   "pali": "‘‘Pāṇātipāto adinnādānaṃ, musāvādo ca vuccati;",
+   "zh": "“杀生、不与取，及所言妄语，",
+   "type": "verse"
+  },
+  {
+   "idx": 10,
+   "pali": "Paradāragamanañceva, nappasaṃsanti paṇḍitā’’ti.",
+   "zh": "与他人妻私通，智者皆不赞叹。”",
+   "type": "verse"
+  },
+  {
+   "idx": 11,
+   "pali": "Catuṭṭhānaṃ",
+   "zh": "四事"
+  },
+  {
+   "idx": 12,
+   "pali": "‘‘Katamehi catūhi ṭhānehi pāpakammaṃ na karoti? Chandāgatiṃ gacchanto pāpakammaṃ karoti, dosāgatiṃ gacchanto pāpakammaṃ karoti, mohāgatiṃ gacchanto pāpakammaṃ karoti, bhayāgatiṃ gacchanto pāpakammaṃ karoti. Yato kho, gahapatiputta, ariyasāvako neva chandāgatiṃ gacchati, na dosāgatiṃ gacchati, na mohāgatiṃ gacchati, na bhayāgatiṃ gacchati; imehi catūhi ṭhānehi pāpakammaṃ na karotī’’ti. Idamavoca bhagavā, idaṃ vatvāna sugato athāparaṃ etadavoca satthā –",
+   "zh": "“哪四种情况使人不造恶业呢？人若随贪欲而行，便造恶业；随嗔恨而行，便造恶业；随愚痴而行，便造恶业；随恐惧而行，便造恶业。居士子，当圣弟子既不随贪欲而行，也不随嗔恨而行，既不随愚痴而行，也不随恐惧而行——他便是在这四种情况下不造恶业。”世尊说了这些之后，善逝这样说罢，导师又进一步说了以下偈颂：",
+   "n": "246"
+  },
+  {
+   "idx": 13,
+   "pali": "‘‘Chandā dosā bhayā mohā, yo dhammaṃ ativattati;",
+   "zh": "“凡因欲、因嗔、因怖畏、因痴而违越正法者，",
+   "type": "verse"
+  },
+  {
+   "idx": 14,
+   "pali": "Nihīyati yaso tassa , kāḷapakkheva candimā.",
+   "zh": "他的名声便会衰减，犹如黑分之月渐亏。",
+   "type": "verse"
+  },
+  {
+   "idx": 15,
+   "pali": "‘‘Chandā dosā bhayā mohā, yo dhammaṃ nātivattati;",
+   "zh": "“凡不因欲、因嗔、因怖畏、因痴而违越正法者，",
+   "type": "verse"
+  },
+  {
+   "idx": 16,
+   "pali": "Āpūrati yaso tassa , sukkapakkheva candimā’’ti.",
+   "zh": "他的名声日益增广，犹如白分之月渐圆。”",
+   "type": "verse"
+  },
+  {
+   "idx": 17,
+   "pali": "Cha apāyamukhāni",
+   "zh": "六种损耗财富的门径"
+  },
+  {
+   "idx": 18,
+   "pali": "‘‘Katamāni cha bhogānaṃ apāyamukhāni na sevati? Surāmerayamajjappamādaṭṭhānānuyogo kho, gahapatiputta, bhogānaṃ apāyamukhaṃ, vikālavisikhācariyānuyogo bhogānaṃ apāyamukhaṃ, samajjābhicaraṇaṃ bhogānaṃ apāyamukhaṃ, jūtappamādaṭṭhānānuyogo bhogānaṃ apāyamukhaṃ, pāpamittānuyogo bhogānaṃ apāyamukhaṃ, ālasyānuyogo bhogānaṃ apāyamukhaṃ.",
+   "zh": "“哪六种损耗财产的途径，是他所不亲近的呢？居士子，耽溺于酒类、发酵饮料、麻醉品等放逸之事，是损耗财产的途径；非时游荡街巷，是损耗财产的途径；频繁出入歌舞集会，是损耗财产的途径；沉迷于赌博等放逸之事，是损耗财产的途径；亲近恶友，是损耗财产的途径；耽著懒惰，是损耗财产的途径。",
+   "n": "247"
+  },
+  {
+   "idx": 19,
+   "pali": "Surāmerayassa cha ādīnavā",
+   "zh": "饮酒的六种过患"
+  },
+  {
+   "idx": 20,
+   "pali": "‘‘Cha khome, gahapatiputta, ādīnavā surāmerayamajjappamādaṭṭhānānuyoge. Sandiṭṭhikā dhanajāni , kalahappavaḍḍhanī, rogānaṃ āyatanaṃ, akittisañjananī, kopīnanidaṃsanī , paññāya dubbalikaraṇītveva chaṭṭhaṃ padaṃ bhavati. Ime kho, gahapatiputta, cha ādīnavā surāmerayamajjappamādaṭṭhānānuyoge.",
+   "zh": "“居士子，耽溺于谷酒、果酒等令人放逸的麻醉品，有六种过患：现前可见的财产损失，助长纷争，引生疾病，招致恶名，暴露私处，第六则是令智慧羸弱。居士子，这便是耽溺于谷酒、果酒等令人放逸的麻醉品的六种过患。",
+   "n": "248"
+  },
+  {
+   "idx": 21,
+   "pali": "Vikālacariyāya cha ādīnavā",
+   "zh": "非时游行的六种过患"
+  },
+  {
+   "idx": 22,
+   "pali": "‘‘Cha khome, gahapatiputta, ādīnavā vikālavisikhācariyānuyoge. Attāpissa agutto arakkhito hoti, puttadāropissa agutto arakkhito hoti, sāpateyyaṃpissa aguttaṃ arakkhitaṃ hoti, saṅkiyo ca hoti pāpakesu ṭhānesu , abhūtavacanañca tasmiṃ rūhati, bahūnañca dukkhadhammānaṃ purakkhato hoti. Ime kho, gahapatiputta, cha ādīnavā vikālavisikhācariyānuyoge.",
+   "zh": "“居士子，夜晚游荡街头有六种过患：自身无人守护、无人保护；妻子儿女无人守护、无人保护；财产无人守护、无人保护；于恶事中易遭人怀疑；不实的流言会落在身上；更有众多苦事在前等候。居士子，这便是夜晚游荡街头的六种过患。",
+   "n": "249"
+  },
+  {
+   "idx": 23,
+   "pali": "Samajjābhicaraṇassa cha ādīnavā",
+   "zh": "常赴娱乐集会的六种过患"
+  },
+  {
+   "idx": 24,
+   "pali": "‘‘Cha khome, gahapatiputta, ādīnavā samajjābhicaraṇe. Kva naccaṃ, kva gītaṃ, kva vāditaṃ, kva akkhānaṃ, kva pāṇissaraṃ, kva kumbhathunanti. Ime kho, gahapatiputta, cha ādīnavā samajjābhicaraṇe.",
+   "zh": "“居士子，常赴娱乐集会有六种过患：心里总在寻思：‘哪里有舞蹈？哪里有歌唱？哪里有音乐？哪里有故事？哪里有掌声？哪里有罐鼓？’居士子，这便是常赴娱乐集会的六种过患。",
+   "n": "250"
+  },
+  {
+   "idx": 25,
+   "pali": "Jūtappamādassa cha ādīnavā",
+   "zh": "耽著赌博放逸的六种过患"
+  },
+  {
+   "idx": 26,
+   "pali": "‘‘Cha khome, gahapatiputta, ādīnavā jūtappamādaṭṭhānānuyoge. Jayaṃ veraṃ pasavati, jino vittamanusocati, sandiṭṭhikā dhanajāni, sabhāgatassa vacanaṃ na rūhati, mittāmaccānaṃ paribhūto hoti, āvāhavivāhakānaṃ apatthito hoti – ‘akkhadhutto ayaṃ purisapuggalo nālaṃ dārabharaṇāyā’ti. Ime kho, gahapatiputta, cha ādīnavā jūtappamādaṭṭhānānuyoge.",
+   "zh": "“居士子，惯行赌博放逸，有这六种过患：获胜则结怨，落败则懊悔钱财，现前可见的财富损减；于集会中，其言词无人信受；为朋友与同僚所轻贱；欲娶妻成家者无人愿考虑，都说：‘这是个赌徒，不堪养育妻儿。’居士子，这便是惯行赌博放逸的六种过患。”",
+   "n": "251"
+  },
+  {
+   "idx": 27,
+   "pali": "Pāpamittatāya cha ādīnavā",
+   "zh": "恶友的六种过患"
+  },
+  {
+   "idx": 28,
+   "pali": "‘‘Cha khome, gahapatiputta, ādīnavā pāpamittānuyoge. Ye dhuttā, ye soṇḍā, ye pipāsā, ye nekatikā, ye vañcanikā, ye sāhasikā. Tyāssa mittā honti te sahāyā. Ime kho, gahapatiputta, cha ādīnavā pāpamittānuyoge.",
+   "zh": "“居士子，亲近恶友有六种过患：那些赌徒、酒徒、贪求无度者、惯行欺诳者、巧设骗局者、动辄施暴者，竟成为他的朋友、他的同伴。居士子，这便是亲近恶友的六种过患。",
+   "n": "252"
+  },
+  {
+   "idx": 29,
+   "pali": "Ālasyassa cha ādīnavā",
+   "zh": "懈怠的六种过患"
+  },
+  {
+   "idx": 30,
+   "pali": "‘‘Cha khome, gahapatiputta, ādīnavā ālasyānuyoge. Atisītanti kammaṃ na karoti, atiuṇhanti kammaṃ na karoti, atisāyanti kammaṃ na karoti, atipātoti kammaṃ na karoti, atichātosmīti kammaṃ na karoti, atidhātosmīti kammaṃ na karoti. Tassa evaṃ kiccāpadesabahulassa viharato anuppannā ceva bhogā nuppajjanti, uppannā ca bhogā parikkhayaṃ gacchanti. Ime kho, gahapatiputta, cha ādīnavā ālasyānuyoge’’ti. Idamavoca bhagavā, idaṃ vatvāna sugato athāparaṃ etadavoca satthā –",
+   "zh": "“居士子，耽著懈怠有六种过患：觉得‘太冷了’而不做事，觉得‘太热了’而不做事，觉得‘太晚了’而不做事，觉得‘太早了’而不做事，觉得‘我太饿了’而不做事，觉得‘我太饱了’而不做事。如此以种种借口推延而安住，未生的财富便不会生起，已生的财富亦会耗尽。居士子，这便是耽著懈怠的六种过患。”世尊说了这些之后，善逝这样说罢，导师又进一步说了以下偈颂：",
+   "n": "253"
+  },
+  {
+   "idx": 31,
+   "pali": "‘‘Hoti pānasakhā nāma,",
+   "zh": "“所谓酒肉之交，",
+   "type": "verse"
+  },
+  {
+   "idx": 32,
+   "pali": "Hoti sammiyasammiyo;",
+   "zh": "表面亲昵之友，",
+   "type": "verse"
+  },
+  {
+   "idx": 33,
+   "pali": "Yo ca atthesu jātesu,",
+   "zh": "若有所需时，",
+   "type": "verse"
+  },
+  {
+   "idx": 34,
+   "pali": "Sahāyo hoti so sakhā.",
+   "zh": "能作伴者方为友。",
+   "type": "verse"
+  },
+  {
+   "idx": 35,
+   "pali": "‘‘Ussūraseyyā paradārasevanā,",
+   "zh": "“贪眠、近他人妻，",
+   "type": "verse"
+  },
+  {
+   "idx": 36,
+   "pali": "Verappasavo ca anatthatā ca;",
+   "zh": "招怨、行无义，",
+   "type": "verse"
+  },
+  {
+   "idx": 37,
+   "pali": "Pāpā ca mittā sukadariyatā ca,",
+   "zh": "恶友与极悭吝，",
+   "type": "verse"
+  },
+  {
+   "idx": 38,
+   "pali": "Ete cha ṭhānā purisaṃ dhaṃsayanti.",
+   "zh": "此六处能毁坏人。",
+   "type": "verse"
+  },
+  {
+   "idx": 39,
+   "pali": "‘‘Pāpamitto pāpasakho,",
+   "zh": "“恶友、恶伴，",
+   "type": "verse"
+  },
+  {
+   "idx": 40,
+   "pali": "Pāpaācāragocaro;",
+   "zh": "恶行与恶处（行为与行乞处）；",
+   "type": "verse"
+  },
+  {
+   "idx": 41,
+   "pali": "Asmā lokā paramhā ca,",
+   "zh": "于此世与他世，",
+   "type": "verse"
+  },
+  {
+   "idx": 42,
+   "pali": "Ubhayā dhaṃsate naro.",
+   "zh": "人在两方面皆败坏。",
+   "type": "verse"
+  },
+  {
+   "idx": 43,
+   "pali": "‘‘Akkhitthiyo vāruṇī naccagītaṃ,",
+   "zh": "“掷骰赌博、女色、饮酒、歌舞，",
+   "type": "verse"
+  },
+  {
+   "idx": 44,
+   "pali": "Divā soppaṃ pāricariyā akāle;",
+   "zh": "昼寝、非时行欲，",
+   "type": "verse"
+  },
+  {
+   "idx": 45,
+   "pali": "Pāpā ca mittā sukadariyatā ca,",
+   "zh": "恶友与极悭吝，",
+   "type": "verse"
+  },
+  {
+   "idx": 46,
+   "pali": "Ete cha ṭhānā purisaṃ dhaṃsayanti.",
+   "zh": "此六处能毁坏人。",
+   "type": "verse"
+  },
+  {
+   "idx": 47,
+   "pali": "‘‘Akkhehi dibbanti suraṃ pivanti,",
+   "zh": "“掷骰赌博，饮啜烈酒，",
+   "type": "verse"
+  },
+  {
+   "idx": 48,
+   "pali": "Yantitthiyo pāṇasamā paresaṃ;",
+   "zh": "竟去私通他人视若生命的妻子；",
+   "type": "verse"
+  },
+  {
+   "idx": 49,
+   "pali": "Nihīnasevī na ca vuddhasevī ,",
+   "zh": "亲近下劣，不近贤德者，",
+   "type": "verse"
+  },
+  {
+   "idx": 50,
+   "pali": "Nihīyate kāḷapakkheva cando.",
+   "zh": "如黑分月渐次衰损。",
+   "type": "verse"
+  },
+  {
+   "idx": 51,
+   "pali": "‘‘Yo vāruṇī addhano akiñcano,",
+   "zh": "“若嗜酒而贫穷困乏，",
+   "type": "verse"
+  },
+  {
+   "idx": 52,
+   "pali": "Pipāso pivaṃ papāgato ;",
+   "zh": "为渴所驱，入酒肆而饮；",
+   "type": "verse"
+  },
+  {
+   "idx": 53,
+   "pali": "Udakamiva iṇaṃ vigāhati,",
+   "zh": "如石沉水，深陷于债务，",
+   "type": "verse"
+  },
+  {
+   "idx": 54,
+   "pali": "Akulaṃ kāhiti khippamattano.",
+   "zh": "迅速毁坏自己的家庭。",
+   "type": "verse"
+  },
+  {
+   "idx": 55,
+   "pali": "‘‘Na divā soppasīlena, rattimuṭṭhānadessinā ;",
+   "zh": "“惯于昼寝、厌于夜起，",
+   "type": "verse"
+  },
+  {
+   "idx": 56,
+   "pali": "Niccaṃ mattena soṇḍena, sakkā āvasituṃ gharaṃ.",
+   "zh": "常醉嗜酒之人，不能安住持家。",
+   "type": "verse"
+  },
+  {
+   "idx": 57,
+   "pali": "‘‘Atisītaṃ atiuṇhaṃ, atisāyamidaṃ ahu;",
+   "zh": "“‘太冷了，太热了，天色也已太晚’，",
+   "type": "verse"
+  },
+  {
+   "idx": 58,
+   "pali": "Iti vissaṭṭhakammante, atthā accenti māṇave.",
+   "zh": "如此说而荒废己事的年轻人，利益便从他们身旁流逝。",
+   "type": "verse"
+  },
+  {
+   "idx": 59,
+   "pali": "‘‘Yodha sītañca uṇhañca, tiṇā bhiyyo na maññati;",
+   "zh": "“若人于此世，不视寒暑重于草芥，",
+   "type": "verse"
+  },
+  {
+   "idx": 60,
+   "pali": "Karaṃ purisakiccāni, so sukhaṃ na vihāyatī’’ti.",
+   "zh": "他尽丈夫之务，便不失安乐。”",
+   "type": "verse"
+  },
+  {
+   "idx": 61,
+   "pali": "Mittapatirūpakā",
+   "zh": "貌为友者"
+  },
+  {
+   "idx": 62,
+   "pali": "‘‘Cattārome, gahapatiputta, amittā mittapatirūpakā veditabbā. Aññadatthuharo amitto mittapatirūpako veditabbo, vacīparamo amitto mittapatirūpako veditabbo, anuppiyabhāṇī amitto mittapatirūpako veditabbo, apāyasahāyo amitto mittapatirūpako veditabbo.",
+   "zh": "“居士子，有这四种貌似友人的敌人，应当认清：只知索取者，是貌似友人的敌人；夸夸其谈者，是貌似友人的敌人；甜言蜜语者，是貌似友人的敌人；引诱堕落之伴，是貌似友人的敌人。",
+   "n": "254"
+  },
+  {
+   "idx": 63,
+   "pali": "‘‘Catūhi kho, gahapatiputta, ṭhānehi aññadatthuharo amitto mittapatirūpako veditabbo.",
+   "zh": "“居士子，透过四种情形，便能认出只知索取者这种貌似友人的敌人。",
+   "n": "255"
+  },
+  {
+   "idx": 64,
+   "pali": "‘‘Aññadatthuharo hoti, appena bahumicchati ;",
+   "zh": "“唯求索取，施少而望多；",
+   "type": "verse"
+  },
+  {
+   "idx": 65,
+   "pali": "Bhayassa kiccaṃ karoti, sevati atthakāraṇā.",
+   "zh": "因恐惧而行事，为利益而亲近。",
+   "type": "verse"
+  },
+  {
+   "idx": 66,
+   "pali": "‘‘Imehi kho, gahapatiputta, catūhi ṭhānehi aññadatthuharo amitto mittapatirūpako veditabbo.",
+   "zh": "“居士子，以此四种情形，当知那唯求索取者并非真友，只是貌似朋友。"
+  },
+  {
+   "idx": 67,
+   "pali": "‘‘Catūhi kho, gahapatiputta, ṭhānehi vacīparamo amitto mittapatirūpako veditabbo. Atītena paṭisantharati , anāgatena paṭisantharati, niratthakena saṅgaṇhāti, paccuppannesu kiccesu byasanaṃ dasseti. Imehi kho, gahapatiputta, catūhi ṭhānehi vacīparamo amitto mittapatirūpako veditabbo.",
+   "zh": "“居士子，由四种情形，可辨识那空谈之人非友而似友：他以过往之事与你套近乎，以未来之事与你套近乎，以无益的空话取悦你，而当眼前有事需办时，便示现为难。居士子，即由这四种情形，可辨识那空谈之人非友而似友。",
+   "n": "256"
+  },
+  {
+   "idx": 68,
+   "pali": "‘‘Catūhi kho, gahapatiputta, ṭhānehi anuppiyabhāṇī amitto mittapatirūpako veditabbo. Pāpakaṃpissa anujānāti, kalyāṇaṃpissa anujānāti, sammukhāssa vaṇṇaṃ bhāsati, parammukhāssa avaṇṇaṃ bhāsati. Imehi kho, gahapatiputta, catūhi ṭhānehi anuppiyabhāṇī amitto mittapatirūpako veditabbo.",
+   "zh": "“居士子，由四种情形，可辨识那好说悦耳语之人非友而似友：对于你的恶行，他赞同；对于你的善行，他也赞同；他当面赞叹你，背后却讥毁你。居士子，即由这四种情形，可辨识那好说悦耳语之人非友而似友。",
+   "n": "257"
+  },
+  {
+   "idx": 69,
+   "pali": "‘‘Catūhi kho, gahapatiputta, ṭhānehi apāyasahāyo amitto mittapatirūpako veditabbo . Surāmeraya majjappamādaṭṭhānānuyoge sahāyo hoti, vikāla visikhā cariyānuyoge sahāyo hoti, samajjābhicaraṇe sahāyo hoti, jūtappamādaṭṭhānānuyoge sahāyo hoti. Imehi kho, gahapatiputta, catūhi ṭhānehi apāyasahāyo amitto mittapatirūpako veditabbo’’ti.",
+   "zh": "“居士子，有四种情形，你可以认出那种带你走向堕落的人——他不是真正的朋友，而是外表像朋友的假朋友：他陪你沉溺于酒与发酵饮料等令人放逸的事物；他陪你在夜晚时分于街巷中游荡；他陪你流连于歌舞表演等聚会；他陪你沉溺于赌博等令人放逸的场合。居士子，从这四种情形，你可以认出那种带你走向堕落的人——他不是真正的朋友，而是外表像朋友的假朋友。”",
+   "n": "258"
+  },
+  {
+   "idx": 70,
+   "pali": "Idamavoca bhagavā, idaṃ vatvāna sugato athāparaṃ etadavoca satthā –",
+   "zh": "世尊说了这些之后，善逝这样说罢，导师又进一步说了以下偈颂：",
+   "n": "259"
+  },
+  {
+   "idx": 71,
+   "pali": "‘‘Aññadatthuharo mitto, yo ca mitto vacīparo ;",
+   "zh": "“只知索取的朋友，夸夸其谈的朋友，",
+   "type": "verse"
+  },
+  {
+   "idx": 72,
+   "pali": "Anuppiyañca yo āha, apāyesu ca yo sakhā.",
+   "zh": "甜言蜜语的友人，引诱堕落的同伴。",
+   "type": "verse"
+  },
+  {
+   "idx": 73,
+   "pali": "Ete amitte cattāro, iti viññāya paṇḍito;",
+   "zh": "智者了知此四敌后，",
+   "type": "verse"
+  },
+  {
+   "idx": 74,
+   "pali": "Ārakā parivajjeyya, maggaṃ paṭibhayaṃ yathā’’ti.",
+   "zh": "便应远远避开，如避险道。”",
+   "type": "verse"
+  },
+  {
+   "idx": 75,
+   "pali": "Suhadamitto",
+   "zh": "善心之友"
+  },
+  {
+   "idx": 76,
+   "pali": "‘‘Cattārome , gahapatiputta, mittā suhadā veditabbā. Upakāro mitto suhado veditabbo, samānasukhadukkho mitto suhado veditabbo, atthakkhāyī mitto suhado veditabbo, anukampako mitto suhado veditabbo.",
+   "zh": "“居士子，应知这四种人为善友：能提供帮助的朋友是善友，能同甘共苦的朋友是善友，能说利益语的朋友是善友，心怀慈悯的朋友是善友。",
+   "n": "260"
+  },
+  {
+   "idx": 77,
+   "pali": "‘‘Catūhi kho, gahapatiputta, ṭhānehi upakāro mitto suhado veditabbo. Pamattaṃ rakkhati, pamattassa sāpateyyaṃ rakkhati, bhītassa saraṇaṃ hoti, uppannesu kiccakaraṇīyesu taddiguṇaṃ bhogaṃ anuppadeti. Imehi kho, gahapatiputta, catūhi ṭhānehi upakāro mitto suhado veditabbo.",
+   "zh": "“居士子，通过四种情形，便可知能提供帮助的朋友是善友：他保护放逸者，保护放逸者的财物，是恐惧者的救护，遇到应办之事时施予双倍的资财。居士子，正是通过这四种情形，可知能提供帮助的朋友是善友。",
+   "n": "261"
+  },
+  {
+   "idx": 78,
+   "pali": "‘‘Catūhi kho, gahapatiputta, ṭhānehi samānasukhadukkho mitto suhado veditabbo. Guyhamassa ācikkhati, guyhamassa parigūhati, āpadāsu na vijahati, jīvitaṃpissa atthāya pariccattaṃ hoti. Imehi kho, gahapatiputta, catūhi ṭhānehi samānasukhadukkho mitto suhado veditabbo.",
+   "zh": "“居士子，通过四种情形，便可知能同甘共苦的朋友是善友：他向你吐露秘密，为你保守秘密，在患难中不舍离你，甚至为你的利益舍弃生命。居士子，正是通过这四种情形，可知能同甘共苦的朋友是善友。",
+   "n": "262"
+  },
+  {
+   "idx": 79,
+   "pali": "‘‘Catūhi kho, gahapatiputta, ṭhānehi atthakkhāyī mitto suhado veditabbo. Pāpā nivāreti, kalyāṇe niveseti, assutaṃ sāveti, saggassa maggaṃ ācikkhati. Imehi kho, gahapatiputta, catūhi ṭhānehi atthakkhāyī mitto suhado veditabbo.",
+   "zh": "“居士子，由四种相，可知说利益话者为真心之友。他遮止你行恶，安置你于善，为你开示未曾听闻之法，为你指明升天之道。居士子，即由这四种相，可知说利益话者为真心之友。”",
+   "n": "263"
+  },
+  {
+   "idx": 80,
+   "pali": "‘‘Catūhi kho, gahapatiputta, ṭhānehi anukampako mitto suhado veditabbo. Abhavenassa na nandati, bhavenassa nandati, avaṇṇaṃ bhaṇamānaṃ nivāreti, vaṇṇaṃ bhaṇamānaṃ pasaṃsati. Imehi kho, gahapatiputta, catūhi ṭhānehi anukampako mitto suhado veditabbo’’ti.",
+   "zh": "“居士子，由四种相，可知心怀慈悯者为真心之友。见你衰损，他不欢喜；见你盛荣，他生欢喜；有人宣扬你的过失，他便制止；有人称赞你的功德，他便随喜。居士子，即由这四种相，可知心怀慈悯者为真心之友。”",
+   "n": "264"
+  },
+  {
+   "idx": 81,
+   "pali": "Idamavoca bhagavā, idaṃ vatvāna sugato athāparaṃ etadavoca satthā –",
+   "zh": "世尊说了这些之后，善逝这样说罢，导师又进一步说了以下偈颂：",
+   "n": "265"
+  },
+  {
+   "idx": 82,
+   "pali": "‘‘Upakāro ca yo mitto, sukhe dukkhe ca yo sakhā ;",
+   "zh": "“能给予帮助的朋友，以及在快乐与痛苦中都一样的同伴，",
+   "type": "verse"
+  },
+  {
+   "idx": 83,
+   "pali": "Atthakkhāyī ca yo mitto, yo ca mittānukampako.",
+   "zh": "能给予善言劝告的朋友，以及心怀同情的朋友。",
+   "type": "verse"
+  },
+  {
+   "idx": 84,
+   "pali": "‘‘Etepi mitte cattāro, iti viññāya paṇḍito;",
+   "zh": "“智者明了这四种朋友后，",
+   "type": "verse"
+  },
+  {
+   "idx": 85,
+   "pali": "Sakkaccaṃ payirupāseyya, mātā puttaṃ va orasaṃ;",
+   "zh": "恭敬承事，如母哺育亲儿；",
+   "type": "verse"
+  },
+  {
+   "idx": 86,
+   "pali": "Paṇḍito sīlasampanno, jalaṃ aggīva bhāsati.",
+   "zh": "具戒的智者，犹如炽燃火焰，光明显耀。",
+   "type": "verse"
+  },
+  {
+   "idx": 87,
+   "pali": "‘‘Bhoge saṃharamānassa, bhamarasseva irīyato;",
+   "zh": "“积聚财物时，如蜜蜂采蜜而行；",
+   "type": "verse"
+  },
+  {
+   "idx": 88,
+   "pali": "Bhogā sannicayaṃ yanti, vammikovupacīyati.",
+   "zh": "财物逐渐积聚，犹如蚁冢增高。",
+   "type": "verse"
+  },
+  {
+   "idx": 89,
+   "pali": "‘‘Evaṃ bhoge samāhatvā , alamatto kule gihī;",
+   "zh": "“这样积聚了财富，在家人便足以养护家眷；",
+   "type": "verse"
+  },
+  {
+   "idx": 90,
+   "pali": "Catudhā vibhaje bhoge, sa ve mittāni ganthati.",
+   "zh": "应将财物分作四份，他才得以结交善友。",
+   "type": "verse"
+  },
+  {
+   "idx": 91,
+   "pali": "‘‘Ekena bhoge bhuñjeyya, dvīhi kammaṃ payojaye;",
+   "zh": "“应以一分财富受用，二分用于营办事业，",
+   "type": "verse"
+  },
+  {
+   "idx": 92,
+   "pali": "Catutthañca nidhāpeyya, āpadāsu bhavissatī’’ti.",
+   "zh": "第四份则应妥善储存，以备急难之时所需。”",
+   "type": "verse"
+  },
+  {
+   "idx": 93,
+   "pali": "Chaddisāpaṭicchādanakaṇḍaṃ",
+   "zh": "六方守护篇"
+  },
+  {
+   "idx": 94,
+   "pali": "‘‘Kathañca, gahapatiputta, ariyasāvako chaddisāpaṭicchādī hoti? Cha imā, gahapatiputta, disā veditabbā. Puratthimā disā mātāpitaro veditabbā, dakkhiṇā disā ācariyā veditabbā, pacchimā disā puttadārā veditabbā, uttarā disā mittāmaccā veditabbā, heṭṭhimā disā dāsakammakarā veditabbā, uparimā disā samaṇabrāhmaṇā veditabbā.",
+   "zh": "“居士子，圣弟子如何守护六方？当知此六方：东方应视为父母，南方应视为师长，西方应视为妻儿，北方应视为朋友同事，下方应视为奴仆工人，上方应视为沙门婆罗门。”",
+   "n": "266"
+  },
+  {
+   "idx": 95,
+   "pali": "‘‘Pañcahi kho, gahapatiputta, ṭhānehi puttena puratthimā disā mātāpitaro paccupaṭṭhātabbā – bhato ne bharissāmi, kiccaṃ nesaṃ karissāmi, kulavaṃsaṃ ṭhapessāmi, dāyajjaṃ paṭipajjāmi, atha vā pana petānaṃ kālaṅkatānaṃ dakkhiṇaṃ anuppadassāmīti. Imehi kho, gahapatiputta, pañcahi ṭhānehi puttena puratthimā disā mātāpitaro paccupaṭṭhitā pañcahi ṭhānehi puttaṃ anukampanti. Pāpā nivārenti, kalyāṇe nivesenti, sippaṃ sikkhāpenti, patirūpena dārena saṃyojenti, samaye dāyajjaṃ niyyādenti . Imehi kho, gahapatiputta, pañcahi ṭhānehi puttena puratthimā disā mātāpitaro paccupaṭṭhitā imehi pañcahi ṭhānehi puttaṃ anukampanti. Evamassa esā puratthimā disā paṭicchannā hoti khemā appaṭibhayā.",
+   "zh": "“居士子，儿子应当从五个方面来侍奉作为东方的父母，心里这样想：‘他们养育了我，我将赡养他们；我将为他们做应做的事务；我将维系家族的传承；我将善护所继承的遗产；并且，在父母过世之后，我将以他们的名义作布施。’居士子，通过这五个方面，儿子这样侍奉作为东方的父母之后，父母也从五个方面慈悯儿子。他们阻止儿子作恶，让儿子安立于善行，教给儿子谋生的技艺，为他婚配相称的妻子，并在适当的时候把遗产交付给他。居士子，儿子从这五个方面侍奉作为东方的父母，父母又从这五个方面慈悯儿子。就这样，他的东方便得到了守护，变得安稳，没有畏惧。”",
+   "n": "267"
+  },
+  {
+   "idx": 96,
+   "pali": "‘‘Pañcahi kho, gahapatiputta, ṭhānehi antevāsinā dakkhiṇā disā ācariyā paccupaṭṭhātabbā – uṭṭhānena upaṭṭhānena sussusāya pāricariyāya sakkaccaṃ sippapaṭiggahaṇena . Imehi kho, gahapatiputta, pañcahi ṭhānehi antevāsinā dakkhiṇā disā ācariyā paccupaṭṭhitā pañcahi ṭhānehi antevāsiṃ anukampanti – suvinītaṃ vinenti, suggahitaṃ gāhāpenti, sabbasippassutaṃ samakkhāyino bhavanti, mittāmaccesu paṭiyādenti , disāsu parittāṇaṃ karonti. Imehi kho, gahapatiputta, pañcahi ṭhānehi antevāsinā dakkhiṇā disā ācariyā paccupaṭṭhitā imehi pañcahi ṭhānehi antevāsiṃ anukampanti. Evamassa esā dakkhiṇā disā paṭicchannā hoti khemā appaṭibhayā.",
+   "zh": "“居士子，学生应以五种方式侍奉南方的师长：起立迎接，随行服侍，专心聆听，悉心照料，恭敬领受所学技艺。居士子，学生以这五种方式侍奉南方的师长后，师长则以五种方式慈悯学生：善加调教，令其善持所学，将一切技艺无余传授，在朋友同事间为其引荐，于一切处提供护佑。居士子，正是如此，学生以这五种方式侍奉南方的师长，师长亦以此五种方式慈悯学生。如是，他的南方便得到守护，安稳而无有恐惧。”",
+   "n": "268"
+  },
+  {
+   "idx": 97,
+   "pali": "‘‘Pañcahi kho, gahapatiputta, ṭhānehi sāmikena pacchimā disā bhariyā paccupaṭṭhātabbā – sammānanāya anavamānanāya anaticariyāya issariyavossaggena alaṅkārānuppadānena. Imehi kho, gahapatiputta, pañcahi ṭhānehi sāmikena pacchimā disā bhariyā paccupaṭṭhitā pañcahi ṭhānehi sāmikaṃ anukampati – susaṃvihitakammantā ca hoti, saṅgahitaparijanā ca, anaticārinī ca, sambhatañca anurakkhati, dakkhā ca hoti analasā sabbakiccesu. Imehi kho, gahapatiputta, pañcahi ṭhānehi sāmikena pacchimā disā bhariyā paccupaṭṭhitā imehi pañcahi ṭhānehi sāmikaṃ anukampati. Evamassa esā pacchimā disā paṭicchannā hoti khemā appaṭibhayā.",
+   "zh": "“居士子，丈夫应以五种方式敬护作为西方的妻子：以尊重，以不轻蔑，以忠贞不二，以委付家权，以供给装饰品。居士子，丈夫以这五种方式敬护作为西方的妻子后，她会以五种方式回报丈夫：她妥善安排家务，善待仆从眷属，忠贞不二，守护所积财物，并在一切事务上勤快不懈。居士子，丈夫以这五种方式敬护作为西方的妻子，妻子便以此五种方式回报丈夫。正是如此，他的西方得以守护，安稳无忧。",
+   "n": "269"
+  },
+  {
+   "idx": 98,
+   "pali": "‘‘Pañcahi kho, gahapatiputta, ṭhānehi kulaputtena uttarā disā mittāmaccā paccupaṭṭhātabbā – dānena peyyavajjena atthacariyāya samānattatāya avisaṃvādanatāya. Imehi kho, gahapatiputta, pañcahi ṭhānehi kulaputtena uttarā disā mittāmaccā paccupaṭṭhitā pañcahi ṭhānehi kulaputtaṃ anukampanti – pamattaṃ rakkhanti, pamattassa sāpateyyaṃ rakkhanti, bhītassa saraṇaṃ honti, āpadāsu na vijahanti, aparapajā cassa paṭipūjenti. Imehi kho, gahapatiputta, pañcahi ṭhānehi kulaputtena uttarā disā mittāmaccā paccupaṭṭhitā imehi pañcahi ṭhānehi kulaputtaṃ anukampanti. Evamassa esā uttarā disā paṭicchannā hoti khemā appaṭibhayā.",
+   "zh": "“居士子，良家子应以五种方式守护作为北方的朋友同伴：以布施，以爱语，以利行，以同事，以不欺诳。居士子，良家子以这五种方式守护作为北方的朋友同伴后，朋友同伴便会以五种方式回报他：守护放逸的他，守护放逸者的财物，当他恐惧时成为他的庇护所，在危难时不离不弃，并礼敬他的后代。居士子，良家子以这五种方式守护作为北方的朋友同伴，朋友同伴便以此五种方式回报良家子。正是如此，他的北方得以守护，安稳无忧。",
+   "n": "270"
+  },
+  {
+   "idx": 99,
+   "pali": "‘‘Pañcahi kho, gahapatiputta, ṭhānehi ayyirakena heṭṭhimā disā dāsakammakarā paccupaṭṭhātabbā – yathābalaṃ kammantasaṃvidhānena bhattavetanānuppadānena gilānupaṭṭhānena acchariyānaṃ rasānaṃ saṃvibhāgena samaye vossaggena. Imehi kho, gahapatiputta, pañcahi ṭhānehi ayyirakena heṭṭhimā disā dāsakammakarā paccupaṭṭhitā pañcahi ṭhānehi ayyirakaṃ anukampanti – pubbuṭṭhāyino ca honti, pacchā nipātino ca, dinnādāyino ca, sukatakammakarā ca, kittivaṇṇaharā ca. Imehi kho, gahapatiputta, pañcahi ṭhānehi ayyirakena heṭṭhimā disā dāsakammakarā paccupaṭṭhitā imehi pañcahi ṭhānehi ayyirakaṃ anukampanti. Evamassa esā heṭṭhimā disā paṭicchannā hoti khemā appaṭibhayā.",
+   "zh": "“居士子，主人应以五种方式守护作为下方的仆人工匠：根据能力安排劳作，供给饮食与工钱，患病时给予照料，分享珍馐美味，适时准予休假。居士子，主人以这五种方式守护作为下方的仆人工匠后，他们会以五种方式回报主人：比主人早起，比主人晚睡，唯取所与，善巧作务，并称扬主人的美名。居士子，主人以这五种方式守护作为下方的仆人工匠，仆人工匠便以此五种方式回报主人。正是如此，他的下方得以守护，安稳无忧。",
+   "n": "271"
+  },
+  {
+   "idx": 100,
+   "pali": "‘‘Pañcahi kho, gahapatiputta, ṭhānehi kulaputtena uparimā disā samaṇabrāhmaṇā paccupaṭṭhātabbā – mettena kāyakammena mettena vacīkammena mettena manokammena anāvaṭadvāratāya āmisānuppadānena. Imehi kho, gahapatiputta, pañcahi ṭhānehi kulaputtena uparimā disā samaṇabrāhmaṇā paccupaṭṭhitā chahi ṭhānehi kulaputtaṃ anukampanti – pāpā nivārenti, kalyāṇe nivesenti, kalyāṇena manasā anukampanti, assutaṃ sāventi, sutaṃ pariyodāpenti, saggassa maggaṃ ācikkhanti. Imehi kho, gahapatiputta, pañcahi ṭhānehi kulaputtena uparimā disā samaṇabrāhmaṇā paccupaṭṭhitā imehi chahi ṭhānehi kulaputtaṃ anukampanti. Evamassa esā uparimā disā paṭicchannā hoti khemā appaṭibhayā’’ti.",
+   "zh": "“居士子，良家子应以五种方式事奉作为上方的沙门与婆罗门：以慈爱的身业、慈爱的语业、慈爱的意业，以家门敞开不拒，以供给资具。居士子，良家子以此五种方式事奉作为上方的沙门与婆罗门后，沙门与婆罗门便会以六种方式来慈愍他：劝阻他为恶，令其住立于善，以善意之心关怀他，教导他未曾听闻的，净化他已听闻的，并为他指示通往天界之路。居士子，良家子以此五种方式事奉作为上方的沙门与婆罗门，沙门与婆罗门即以这六种方式慈愍他。如是，他的上方便得安稳，无忧无虑。”",
+   "n": "272"
+  },
+  {
+   "idx": 101,
+   "pali": "Idamavoca bhagavā. Idaṃ vatvāna sugato athāparaṃ etadavoca satthā –",
+   "zh": "世尊说了这些之后，善逝这样说罢，导师又进一步说了以下偈颂：",
+   "n": "273"
+  },
+  {
+   "idx": 102,
+   "pali": "‘‘Mātāpitā disā pubbā, ācariyā dakkhiṇā disā;",
+   "zh": "“父母是东方，师长是南方；",
+   "type": "verse"
+  },
+  {
+   "idx": 103,
+   "pali": "Puttadārā disā pacchā, mittāmaccā ca uttarā.",
+   "zh": "妻儿为西方，朋友同僚为北方。",
+   "type": "verse"
+  },
+  {
+   "idx": 104,
+   "pali": "‘‘Dāsakammakarā heṭṭhā, uddhaṃ samaṇabrāhmaṇā;",
+   "zh": "“奴仆和工人为下方，沙门与婆罗门为上方；",
+   "type": "verse"
+  },
+  {
+   "idx": 105,
+   "pali": "Etā disā namasseyya, alamatto kule gihī.",
+   "zh": "礼敬此诸方，在家者即于家中尽责圆满。",
+   "type": "verse"
+  },
+  {
+   "idx": 106,
+   "pali": "‘‘Paṇḍito sīlasampanno, saṇho ca paṭibhānavā;",
+   "zh": "“智者具足戒德，温和而善辩；",
+   "type": "verse"
+  },
+  {
+   "idx": 107,
+   "pali": "Nivātavutti atthaddho, tādiso labhate yasaṃ.",
+   "zh": "谦和柔顺者，如是之人得名誉。",
+   "type": "verse"
+  },
+  {
+   "idx": 108,
+   "pali": "‘‘Uṭṭhānako analaso, āpadāsu na vedhati;",
+   "zh": "“精勤不懈怠，患难不动摇；",
+   "type": "verse"
+  },
+  {
+   "idx": 109,
+   "pali": "Acchinnavutti medhāvī, tādiso labhate yasaṃ.",
+   "zh": "行持恒常不断而有智慧，如是之人得名誉。",
+   "type": "verse"
+  },
+  {
+   "idx": 110,
+   "pali": "‘‘Saṅgāhako mittakaro, vadaññū vītamaccharo;",
+   "zh": "“能摄众结友，慷慨无悭吝；",
+   "type": "verse"
+  },
+  {
+   "idx": 111,
+   "pali": "Netā vinetā anunetā, tādiso labhate yasaṃ.",
+   "zh": "能引导、能教诲、能劝化，如是之人得名誉。",
+   "type": "verse"
+  },
+  {
+   "idx": 112,
+   "pali": "‘‘Dānañca peyyavajjañca, atthacariyā ca yā idha;",
+   "zh": "“布施、爱语、利行于此世，",
+   "type": "verse"
+  },
+  {
+   "idx": 113,
+   "pali": "Samānattatā ca dhammesu, tattha tattha yathārahaṃ;",
+   "zh": "及于诸处随宜而行之同事摄，",
+   "type": "verse"
+  },
+  {
+   "idx": 114,
+   "pali": "Ete kho saṅgahā loke, rathassāṇīva yāyato.",
+   "zh": "这些世间的摄持之法，犹如行进中马车的轮辖。",
+   "type": "verse"
+  },
+  {
+   "idx": 115,
+   "pali": "‘‘Ete ca saṅgahā nāssu, na mātā puttakāraṇā;",
+   "zh": "“若无这些摄持之道，母亲不会因为子女的缘故，",
+   "type": "verse"
+  },
+  {
+   "idx": 116,
+   "pali": "Labhetha mānaṃ pūjaṃ vā, pitā vā puttakāraṇā.",
+   "zh": "父亲也不会因为儿子而得到恭敬或供养。",
+   "type": "verse"
+  },
+  {
+   "idx": 117,
+   "pali": "‘‘Yasmā ca saṅgahā ete, sammapekkhanti paṇḍitā;",
+   "zh": "“因为智者会正确观察这些摄受之法，",
+   "type": "verse"
+  },
+  {
+   "idx": 118,
+   "pali": "Tasmā mahattaṃ papponti, pāsaṃsā ca bhavanti te’’ti.",
+   "zh": "故成就广大，亦为人所称叹。”",
+   "type": "verse"
+  },
+  {
+   "idx": 119,
+   "pali": "Evaṃ vutte, siṅgālako gahapatiputto bhagavantaṃ etadavoca – ‘‘abhikkantaṃ, bhante! Abhikkantaṃ, bhante! Seyyathāpi, bhante, nikkujjitaṃ vā ukkujjeyya, paṭicchannaṃ vā vivareyya, mūḷhassa vā maggaṃ ācikkheyya, andhakāre vā telapajjotaṃ dhāreyya ‘cakkhumanto rūpāni dakkhantī’ti. Evamevaṃ bhagavatā anekapariyāyena dhammo pakāsito. Esāhaṃ, bhante, bhagavantaṃ saraṇaṃ gacchāmi dhammañca bhikkhusaṃghañca. Upāsakaṃ maṃ bhagavā dhāretu, ajjatagge pāṇupetaṃ saraṇaṃ gata’’nti.",
+   "zh": "听了这话，善生居士子对世尊说：“真是殊胜啊，尊者！真是殊胜啊，尊者！尊者，犹如有人将倒下的扶起，将隐藏的揭开，为迷路者指明道路，或在黑暗中持举油灯，使具眼者得以看见诸色。同样地，世尊以种种方便阐明了法。尊者，我从今日起，皈依世尊、皈依法、皈依比丘僧团。愿世尊接受我为在家弟子，我从今日尽形寿，皈依三宝。”",
+   "n": "274"
+  },
+  {
+   "idx": 120,
+   "pali": "Siṅgālasuttaṃ niṭṭhitaṃ aṭṭhamaṃ.",
+   "zh": "善生经第八终",
+   "type": "colophon"
+  }
+ ]
+}

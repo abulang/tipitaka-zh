@@ -1,0 +1,606 @@
+{
+ "uid": 56,
+ "title": "优波离经",
+ "nik": "MN",
+ "segs": [
+  {
+   "idx": 123,
+   "pali": "Evaṃ me sutaṃ – ekaṃ samayaṃ bhagavā nāḷandāyaṃ viharati pāvārikambavane. Tena kho pana samayena nigaṇṭho nāṭaputto nāḷandāyaṃ paṭivasati mahatiyā nigaṇṭhaparisāya saddhiṃ. Atha kho dīghatapassī nigaṇṭho nāḷandāyaṃ piṇḍāya caritvā pacchābhattaṃ piṇḍapātapaṭikkanto yena pāvārikambavanaṃ yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṃ sammodi. Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ aṭṭhāsi. Ekamantaṃ ṭhitaṃ kho dīghatapassiṃ nigaṇṭhaṃ bhagavā etadavoca – ‘‘saṃvijjanti kho, tapassi , āsanāni; sace ākaṅkhasi nisīdā’’ti. Evaṃ vutte, dīghatapassī nigaṇṭho aññataraṃ nīcaṃ āsanaṃ gahetvā ekamantaṃ nisīdi. Ekamantaṃ nisinnaṃ kho dīghatapassiṃ nigaṇṭhaṃ bhagavā etadavoca – ‘‘kati pana, tapassi, nigaṇṭho nāṭaputto kammāni paññapeti pāpassa kammassa kiriyāya pāpassa kammassa pavattiyā’’ti?",
+   "zh": "如是我闻：一时，世尊住在那喇兰达的波婆利咖芒果园。那时，尼乾陀·若提子也住在那喇兰达，与一大群尼乾陀弟子共住。当时，长苦行尼乾陀在那喇兰达托钵乞食，食后从乞食归来，便前往波婆利咖芒果园，来到世尊那里。到了之后，与世尊互相问候致意。在亲切友善的交谈之后，便立于一旁。世尊对已立于一旁的长苦行尼乾陀说：“苦行者，这里有座位，你若愿意，就请坐吧。”听了这话，长苦行尼乾陀取了一个低矮的座位，坐在一旁。世尊对坐在一旁的长苦行尼乾陀这样说：“苦行者，尼乾陀·若提子为了造作恶业、施行恶业，设立了哪几种业呢？”",
+   "n": "56"
+  },
+  {
+   "idx": 124,
+   "pali": "‘‘Na kho, āvuso gotama, āciṇṇaṃ nigaṇṭhassa nāṭaputtassa ‘kammaṃ, kamma’nti paññapetuṃ; ‘daṇḍaṃ, daṇḍa’nti kho, āvuso gotama, āciṇṇaṃ nigaṇṭhassa nāṭaputtassa paññapetu’’nti.",
+   "zh": "“[[gotama|乔达摩尊]]者，尼乾陀·若提子通常不将之安立为“业、业”，而一贯将其安立为“罚、罚”。"
+  },
+  {
+   "idx": 125,
+   "pali": "‘‘Kati pana, tapassi, nigaṇṭho nāṭaputto daṇḍāni paññapeti pāpassa kammassa kiriyāya pāpassa kammassa pavattiyā’’ti?",
+   "zh": "“那么，苦行者，尼乾陀·若提子为实施恶业、造作恶业，设立了哪几种罚呢？”"
+  },
+  {
+   "idx": 126,
+   "pali": "‘‘Tīṇi kho, āvuso gotama, nigaṇṭho nāṭaputto daṇḍāni paññapeti pāpassa kammassa kiriyāya pāpassa kammassa pavattiyāti, seyyathidaṃ – kāyadaṇḍaṃ, vacīdaṇḍaṃ, manodaṇḍa’’nti.",
+   "zh": "“[[gotama|乔达摩]]尊者，尼乾陀·若提子为实施恶业、造作恶业，设立了三种罚，即：身罚、语罚、意罚。”"
+  },
+  {
+   "idx": 127,
+   "pali": "‘‘Kiṃ pana, tapassi, aññadeva kāyadaṇḍaṃ, aññaṃ vacīdaṇḍaṃ, aññaṃ manodaṇḍa’’nti?",
+   "zh": "“那么，苦行者，身罚是一种，语罚是另一种，意罚又是另一种——这三者彼此不同吗？”"
+  },
+  {
+   "idx": 128,
+   "pali": "‘‘Aññadeva , āvuso gotama, kāyadaṇḍaṃ, aññaṃ vacīdaṇḍaṃ, aññaṃ manodaṇḍa’’nti.",
+   "zh": "“是的，朋友[[gotama|乔达摩]]，身罚是一种，语罚是另一种，意罚又是另一种。”"
+  },
+  {
+   "idx": 129,
+   "pali": "‘‘Imesaṃ pana, tapassi, tiṇṇaṃ daṇḍānaṃ evaṃ paṭivibhattānaṃ evaṃ paṭivisiṭṭhānaṃ katamaṃ daṇḍaṃ nigaṇṭho nāṭaputto mahāsāvajjataraṃ paññapeti pāpassa kammassa kiriyāya pāpassa kammassa pavattiyā , yadi vā kāyadaṇḍaṃ, yadi vā vacīdaṇḍaṃ, yadi vā manodaṇḍa’’nti?",
+   "zh": "“苦行者，那么，对这三种如此区分、如此分别的罚，尼乾陀·若提子将哪一种罚定为造恶、作恶中最重的罪过？是身罚、语罚，还是意罚？”"
+  },
+  {
+   "idx": 130,
+   "pali": "‘‘Imesaṃ kho, āvuso gotama, tiṇṇaṃ daṇḍānaṃ evaṃ paṭivibhattānaṃ evaṃ paṭivisiṭṭhānaṃ kāyadaṇḍaṃ nigaṇṭho nāṭaputto mahāsāvajjataraṃ paññapeti pāpassa kammassa kiriyāya pāpassa kammassa pavattiyā, no tathā vacīdaṇḍaṃ, no tathā manodaṇḍa’’nti.",
+   "zh": "“[[gotama|乔达摩]]朋友，这三种罚经过如此区分、如此差别之后，尼乾陀·若提子将身罚定为更重的罪过——对恶行的造作与推动而言，语罚并非如此，意罚也非如此。”"
+  },
+  {
+   "idx": 131,
+   "pali": "‘‘Kāyadaṇḍanti, tapassi, vadesi’’?",
+   "zh": "“苦行者，你所说的可是“身罚”吗？”"
+  },
+  {
+   "idx": 132,
+   "pali": "‘‘Kāyadaṇḍanti, āvuso gotama, vadāmi’’.",
+   "zh": "“[[gotama|乔达摩]]朋友，我所说的是“身罚”。”"
+  },
+  {
+   "idx": 133,
+   "pali": "‘‘Kāyadaṇḍanti, tapassi, vadesi’’?",
+   "zh": "“苦行者，你所说的可是“身罚”吗？”"
+  },
+  {
+   "idx": 134,
+   "pali": "‘‘Kāyadaṇḍanti, āvuso gotama, vadāmi’’.",
+   "zh": "“[[gotama|乔达摩]]朋友，我所说的是“身罚”。”"
+  },
+  {
+   "idx": 135,
+   "pali": "‘‘Kāyadaṇḍanti, tapassi, vadesi’’?",
+   "zh": "“苦行者，你所说的可是“身罚”吗？”"
+  },
+  {
+   "idx": 136,
+   "pali": "‘‘Kāyadaṇḍanti, āvuso gotama, vadāmī’’ti.",
+   "zh": "“我说的是身罚，[[gotama|乔达摩]]尊者。”"
+  },
+  {
+   "idx": 137,
+   "pali": "Itiha bhagavā dīghatapassiṃ nigaṇṭhaṃ imasmiṃ kathāvatthusmiṃ yāvatatiyakaṃ patiṭṭhāpesi.",
+   "zh": "就这样，世尊令长苦行者尼干陀在这个论题上确认了三遍。"
+  },
+  {
+   "idx": 138,
+   "pali": "Evaṃ vutte, dīghatapassī nigaṇṭho bhagavantaṃ etadavoca – ‘‘tvaṃ panāvuso gotama, kati daṇḍāni paññapesi pāpassa kammassa kiriyāya pāpassa kammassa pavattiyā’’ti?",
+   "zh": "听了这话，长苦行者尼干陀对世尊说：“那么，[[gotama|乔达摩]]尊者，您安立了多少种杖，以造作恶业、令恶业生起呢？”",
+   "n": "57"
+  },
+  {
+   "idx": 139,
+   "pali": "‘‘Na kho, tapassi, āciṇṇaṃ tathāgatassa ‘daṇḍaṃ, daṇḍa’nti paññapetuṃ; ‘kammaṃ, kamma’nti kho, tapassi, āciṇṇaṃ tathāgatassa paññapetu’’nti?",
+   "zh": "“长苦行者，如来的习惯并非安立‘罚’；长苦行者，如来的习惯是安立‘业’。”"
+  },
+  {
+   "idx": 140,
+   "pali": "‘‘Tvaṃ panāvuso gotama, kati kammāni paññapesi pāpassa kammassa kiriyāya pāpassa kammassa pavattiyā’’ti?",
+   "zh": "“那么，[[gotama|乔达摩]]尊者，你安立了几种业，能造作恶业、令恶业生起呢？”"
+  },
+  {
+   "idx": 141,
+   "pali": "‘‘Tīṇi kho ahaṃ, tapassi, kammāni paññapemi pāpassa kammassa kiriyāya pāpassa kammassa pavattiyā, seyyathidaṃ – kāyakammaṃ, vacīkammaṃ, manokamma’’nti.",
+   "zh": "“长苦行者，我安立三种业，能造作恶业、令恶业生起，即：身业、语业、意业。”"
+  },
+  {
+   "idx": 142,
+   "pali": "‘‘Kiṃ panāvuso gotama, aññadeva kāyakammaṃ, aññaṃ vacīkammaṃ, aññaṃ manokamma’’nti?",
+   "zh": "“[[gotama|乔达摩]]尊者，那身业是一回事，语业是另一回事，意业又是另一回事吗？”"
+  },
+  {
+   "idx": 143,
+   "pali": "‘‘Aññadeva, tapassi, kāyakammaṃ, aññaṃ vacīkammaṃ, aññaṃ manokamma’’nti.",
+   "zh": "“长苦行者，身业是一回事，语业是另一回事，意业是另一回事。”"
+  },
+  {
+   "idx": 144,
+   "pali": "‘‘Imesaṃ panāvuso gotama, tiṇṇaṃ kammānaṃ evaṃ paṭivibhattānaṃ evaṃ paṭivisiṭṭhānaṃ katamaṃ kammaṃ mahāsāvajjataraṃ paññapesi pāpassa kammassa kiriyāya pāpassa kammassa pavattiyā, yadi vā kāyakammaṃ, yadi vā vacīkammaṃ, yadi vā manokamma’’nti?",
+   "zh": "“[[gotama|乔达摩]]尊者，这三种业如此分别、如此有别，在您看来，造恶行恶时，哪种业罪过最重——是身业、语业，还是意业？”"
+  },
+  {
+   "idx": 145,
+   "pali": "‘‘Imesaṃ kho ahaṃ, tapassi, tiṇṇaṃ kammānaṃ evaṃ paṭivibhattānaṃ evaṃ paṭivisiṭṭhānaṃ manokammaṃ mahāsāvajjataraṃ paññapemi pāpassa kammassa kiriyāya pāpassa kammassa pavattiyā, no tathā kāyakammaṃ, no tathā vacīkamma’’nti.",
+   "zh": "“长苦行者，对于这三种如此区分、如此别异的业，我宣说：意业在造作恶业、引发恶业方面罪过最重；身业不然，语业不然。”"
+  },
+  {
+   "idx": 146,
+   "pali": "‘‘Manokammanti, āvuso gotama, vadesi’’?",
+   "zh": "“[[gotama|乔达摩尊]]者，您说的是意业吗？”"
+  },
+  {
+   "idx": 147,
+   "pali": "‘‘Manokammanti, tapassi, vadāmi’’.",
+   "zh": "“长苦行者，我说的是意业。”"
+  },
+  {
+   "idx": 148,
+   "pali": "‘‘Manokammanti, āvuso gotama, vadesi’’?",
+   "zh": "“[[gotama|乔达摩尊]]者，您说的是意业吗？”"
+  },
+  {
+   "idx": 149,
+   "pali": "‘‘Manokammanti, tapassi, vadāmi’’.",
+   "zh": "“长苦行者，我说的是意业。”"
+  },
+  {
+   "idx": 150,
+   "pali": "‘‘Manokammanti , āvuso gotama, vadesi’’?",
+   "zh": "“[[gotama|乔达摩尊]]者，您说的是意业吗？”"
+  },
+  {
+   "idx": 151,
+   "pali": "‘‘Manokammanti, tapassi, vadāmī’’ti.",
+   "zh": "“长苦行者，我所说的是意业。”"
+  },
+  {
+   "idx": 152,
+   "pali": "Itiha dīghatapassī nigaṇṭho bhagavantaṃ imasmiṃ kathāvatthusmiṃ yāvatatiyakaṃ patiṭṭhāpetvā uṭṭhāyāsanā yena nigaṇṭho nāṭaputto tenupasaṅkami.",
+   "zh": "就这样，长苦行者尼乾陀在此论题上，令世尊重复确认了三次，之后便从座起身，前往尼乾陀·若提子的所在。"
+  },
+  {
+   "idx": 153,
+   "pali": "Tena kho pana samayena nigaṇṭho nāṭaputto mahatiyā gihiparisāya saddhiṃ nisinno hoti bālakiniyā parisāya upālipamukhāya. Addasā kho nigaṇṭho nāṭaputto dīghatapassiṃ nigaṇṭhaṃ dūratova āgacchantaṃ; disvāna dīghatapassiṃ nigaṇṭhaṃ etadavoca – ‘‘handa, kuto nu tvaṃ, tapassi, āgacchasi divā divassā’’ti? ‘‘Ito hi kho ahaṃ, bhante, āgacchāmi samaṇassa gotamassa santikā’’ti. ‘‘Ahu pana te, tapassi, samaṇena gotamena saddhiṃ kocideva kathāsallāpo’’ti ? ‘‘Ahu kho me, bhante, samaṇena gotamena saddhiṃ kocideva kathāsallāpo’’ti. ‘‘Yathā kathaṃ pana te, tapassi, ahu samaṇena gotamena saddhiṃ kocideva kathāsallāpo’’ti? Atha kho dīghatapassī nigaṇṭho yāvatako ahosi bhagavatā saddhiṃ kathāsallāpo taṃ sabbaṃ nigaṇṭhassa nāṭaputtassa ārocesi. Evaṃ vutte, nigaṇṭho nāṭaputto dīghatapassiṃ nigaṇṭhaṃ etadavoca – ‘‘sādhu sādhu, tapassi! Yathā taṃ sutavatā sāvakena sammadeva satthusāsanaṃ ājānantena evameva dīghatapassinā nigaṇṭhena samaṇassa gotamassa byākataṃ. Kiñhi sobhati chavo manodaṇḍo imassa evaṃ oḷārikassa kāyadaṇḍassa upanidhāya! Atha kho kāyadaṇḍova mahāsāvajjataro pāpassa kammassa kiriyāya pāpassa kammassa pavattiyā, no tathā vacīdaṇḍo, no tathā manodaṇḍo’’ti.",
+   "zh": "那时，尼乾陀·若提子正与一大群在家弟子共坐，那是一群以优波离居士为首的巴勒基众会。尼乾陀·若提子远远望见长苦行者尼乾陀正走过来，见后便对长苦行者尼乾陀说：“苦行者，你大白天从何处来？”\n“尊者，我从[[gotama|沙门乔达摩]]那里来。”\n“苦行者，你可曾与[[gotama|沙门乔达摩]]有过交谈？”\n“尊者，我与[[gotama|沙门乔达摩]]确有一些交谈。”\n“苦行者，你是怎样与[[gotama|沙门乔达摩]]交谈的呢？”\n于是，长苦行者尼乾陀便将与世尊所谈的全部内容，告诉了尼乾陀·若提子。\n听了这些后，尼乾陀·若提子对长苦行者尼乾陀说：“好！好！苦行者！正如有学识的弟子如实领会了老师的教导，长苦行者尼乾陀正是这样回答[[gotama|沙门乔达摩]]的。那微不足道的意罚，与如此粗重、显著的身罚相比，又算什么呢？在造作恶业、促使恶业延续上，身罚才是最重大的罪过，语罚不是，意罚也不是。”",
+   "n": "58"
+  },
+  {
+   "idx": 154,
+   "pali": "Evaṃ vutte, upāli gahapati nigaṇṭhaṃ nāṭaputtaṃ etadavoca – ‘‘sādhu sādhu, bhante dīghatapassī ! Yathā taṃ sutavatā sāvakena sammadeva satthusāsanaṃ ājānantena evamevaṃ bhadantena tapassinā samaṇassa gotamassa byākataṃ. Kiñhi sobhati chavo manodaṇḍo imassa evaṃ oḷārikassa kāyadaṇḍassa upanidhāya! Atha kho kāyadaṇḍova mahāsāvajjataro pāpassa kammassa kiriyāya pāpassa kammassa pavattiyā, no tathā vacīdaṇḍo, no tathā manodaṇḍo. Handa cāhaṃ, bhante, gacchāmi samaṇassa gotamassa imasmiṃ kathāvatthusmiṃ vādaṃ āropessāmi. Sace me samaṇo gotamo tathā patiṭṭhahissati yathā bhadantena tapassinā patiṭṭhāpitaṃ; seyyathāpi nāma balavā puriso dīghalomikaṃ eḷakaṃ lomesu gahetvā ākaḍḍheyya parikaḍḍheyya samparikaḍḍheyya, evamevāhaṃ samaṇaṃ gotamaṃ vādena vādaṃ ākaḍḍhissāmi parikaḍḍhissāmi samparikaḍḍhissāmi . Seyyathāpi nāma balavā soṇḍikākammakāro mahantaṃ soṇḍikākilañjaṃ gambhīre udakarahade pakkhipitvā kaṇṇe gahetvā ākaḍḍheyya parikaḍḍheyya samparikaḍḍheyya, evamevāhaṃ samaṇaṃ gotamaṃ vādena vādaṃ ākaḍḍhissāmi parikaḍḍhissāmi samparikaḍḍhissāmi. Seyyathāpi nāma balavā soṇḍikādhutto vālaṃ kaṇṇe gahetvā odhuneyya niddhuneyya nipphoṭeyya , evamevāhaṃ samaṇaṃ gotamaṃ vādena vādaṃ odhunissāmi niddhunissāmi nipphoṭessāmi . Seyyathāpi nāma kuñjaro saṭṭhihāyano gambhīraṃ pokkharaṇiṃ ogāhetvā sāṇadhovikaṃ nāma kīḷitajātaṃ kīḷati, evamevāhaṃ samaṇaṃ gotamaṃ sāṇadhovikaṃ maññe kīḷitajātaṃ kīḷissāmi. Handa cāhaṃ, bhante, gacchāmi samaṇassa gotamassa imasmiṃ kathāvatthusmiṃ vādaṃ āropessāmī’’ti. ‘‘Gaccha tvaṃ, gahapati, samaṇassa gotamassa imasmiṃ kathāvatthusmiṃ vādaṃ āropehi. Ahaṃ vā hi, gahapati, samaṇassa gotamassa vādaṃ āropeyyaṃ, dīghatapassī vā nigaṇṭho, tvaṃ vā’’ti.",
+   "zh": "听了这话，优波离居士便对尼乾陀·若提子说：“善哉！善哉！尊者长苦行者！正如一位多闻的弟子正确无误地理解导师的教法那样，尊者苦行者正是这样回答[[gotama|沙门乔达摩]]的。和如此粗重明显的身罚相比，那微不足道的意罚算得了什么！实际上，在造作恶业、令恶业延续上，身罚最具罪过，语罚并非如此，意罚也并非如此。好了，尊者，让我去，就这个论题与[[gotama|沙门乔达摩]]辩论。如果[[gotama|沙门乔达摩]]坚持尊者苦行者所宣说的立场，那么，就像一位大力士抓住长毛绵羊的毛，把它拖过来、拽过来、来回拉扯，在辩论中，我也要用论式把[[gotama|沙门乔达摩]]拖过来、拽过来、来回拉扯。就像一位大力士酿酒工，将一副巨大的酿酒草席抛入深水潭，抓住它的角，把它拖过来、拽过来、来回拉扯，在辩论中，我也要用论式把[[gotama|沙门乔达摩]]拖过来、拽过来、来回拉扯。就像一位大力士酿酒无赖，揪住一根尾毛，把它抖动、猛抖、拍打得干干净净，在辩论中，我也要用论式把[[gotama|沙门乔达摩]]抖动、猛抖、拍打得干干净净。就像一头六十岁的大象，跃入深深的莲池，玩起名为‘洗麻布’的游戏，我也要和[[gotama|沙门乔达摩]]这样玩玩，在我看来，这就像‘洗麻布’的游戏。好了，尊者，让我去，就这个论题与[[gotama|沙门乔达摩]]辩论吧。”“居士，你去吧，就这个论题去与[[gotama|沙门乔达摩]]辩论。居士，因为堪能去与[[gotama|沙门乔达摩]]辩论的，要么是我，要么是长苦行者尼乾陀，要么就是你啊。”",
+   "n": "59"
+  },
+  {
+   "idx": 155,
+   "pali": "Evaṃ vutte, dīghatapassī nigaṇṭho nigaṇṭhaṃ nāṭaputtaṃ etadavoca – ‘‘na kho metaṃ, bhante, ruccati yaṃ upāli gahapati samaṇassa gotamassa vādaṃ āropeyya. Samaṇo hi, bhante, gotamo māyāvī āvaṭṭaniṃ māyaṃ jānāti yāya aññatitthiyānaṃ sāvake āvaṭṭetī’’ti. ‘‘Aṭṭhānaṃ kho etaṃ, tapassi, anavakāso yaṃ upāli gahapati samaṇassa gotamassa sāvakattaṃ upagaccheyya. Ṭhānañca kho etaṃ vijjati yaṃ samaṇo gotamo upālissa gahapatissa sāvakattaṃ upagaccheyya. Gaccha, tvaṃ, gahapati, samaṇassa gotamassa imasmiṃ kathāvatthusmiṃ vādaṃ āropehi. Ahaṃ vā hi, gahapati, samaṇassa gotamassa vādaṃ āropeyyaṃ, dīghatapassī vā nigaṇṭho, tvaṃ vā’’ti. Dutiyampi kho dīghatapassī…pe… tatiyampi kho dīghatapassī nigaṇṭho nigaṇṭhaṃ nāṭaputtaṃ etadavoca – ‘‘na kho metaṃ, bhante, ruccati yaṃ upāli gahapati samaṇassa gotamassa vādaṃ āropeyya. Samaṇo hi, bhante, gotamo māyāvī āvaṭṭaniṃ māyaṃ jānāti yāya aññatitthiyānaṃ sāvake āvaṭṭetī’’ti. ‘‘Aṭṭhānaṃ kho etaṃ, tapassi , anavakāso yaṃ upāli gahapati samaṇassa gotamassa sāvakattaṃ upagaccheyya. Ṭhānañca kho etaṃ vijjati yaṃ samaṇo gotamo upālissa gahapatissa sāvakattaṃ upagaccheyya. Gaccha tvaṃ, gahapati, samaṇassa gotamassa imasmiṃ kathāvatthusmiṃ vādaṃ āropehi. Ahaṃ vā hi, gahapati, samaṇassa gotamassa vādaṃ āropeyyaṃ, dīghatapassī vā nigaṇṭho, tvaṃ vā’’ti. ‘‘Evaṃ, bhante’’ti kho upāli gahapati nigaṇṭhassa nāṭaputtassa paṭissutvā uṭṭhāyāsanā nigaṇṭhaṃ nāṭaputtaṃ abhivādetvā padakkhiṇaṃ katvā yena pāvārikambavanaṃ yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho upāli gahapati bhagavantaṃ etadavoca – ‘‘āgamā nu khvidha, bhante, dīghatapassī nigaṇṭho’’ti?",
+   "zh": "听了这话，长苦行者尼乾陀对尼乾陀·若提子说：“尊者，我不赞成优波离居士去与[[gotama|沙门乔达摩]]辩论。尊者，[[gotama|沙门乔达摩]]是有幻术的人，他知道一种能诱转人的幻法，以此诱转其他教派的弟子。”“苦行者，优波离居士会成为[[gotama|沙门乔达摩]]的弟子，这绝不可能、绝无道理；相反，[[gotama|沙门乔达摩]]来成为优波离居士的弟子，这事倒有可能。居士，你去吧，去与[[gotama|沙门乔达摩]]就此议题辩一辩。因为居士，能去与[[gotama|沙门乔达摩]]辩论的，不是我就是长苦行者尼乾陀，要不就是你。”第二次，长苦行者尼乾陀再次对尼乾陀·若提子说了同样的话。第三次，长苦行者尼乾陀又对尼乾陀·若提子说：“尊者，我不赞成优波离居士去与[[gotama|沙门乔达摩]]辩论。尊者，[[gotama|沙门乔达摩]]是有幻术的人，他知道一种能诱转人的幻法，以此诱转其他教派的弟子。”“苦行者，优波离居士会成为[[gotama|沙门乔达摩]]的弟子，这绝不可能、绝无道理；相反，[[gotama|沙门乔达摩]]来成为优波离居士的弟子，这事倒有可能。居士，你去吧，去与[[gotama|沙门乔达摩]]就此议题辩一辩。因为居士，能去与[[gotama|沙门乔达摩]]辩论的，不是我就是长苦行者尼乾陀，要不就是你。”“是的，尊者。”优波离居士应诺尼乾陀·若提子后，从座起身，向尼乾陀·若提子礼敬，右绕作礼，便前往波婆利咖芒果园，来到世尊那里。到了之后，他向世尊礼敬，坐在一旁。坐在一旁的优波离居士对世尊这样说：“尊者，长苦行者尼乾陀曾来过这里吗？”",
+   "n": "60"
+  },
+  {
+   "idx": 156,
+   "pali": "‘‘Āgamā khvidha, gahapati, dīghatapassī nigaṇṭho’’ti.",
+   "zh": "“居士，长苦行者尼乾陀来过这里。”"
+  },
+  {
+   "idx": 157,
+   "pali": "‘‘Ahu kho pana te, bhante, dīghatapassinā nigaṇṭhena saddhiṃ kocideva kathāsallāpo’’ti?",
+   "zh": "“尊者，您与长苦行者尼干陀可曾有过交谈？”"
+  },
+  {
+   "idx": 158,
+   "pali": "‘‘Ahu kho me, gahapati, dīghatapassinā nigaṇṭhena saddhiṃ kocideva kathāsallāpo’’ti.",
+   "zh": "“居士，我确与长苦行者尼干陀有过一些交谈。”"
+  },
+  {
+   "idx": 159,
+   "pali": "‘‘Yathā kathaṃ pana te, bhante, ahu dīghatapassinā nigaṇṭhena saddhiṃ kocideva kathāsallāpo’’ti?",
+   "zh": "“那么，尊者，您与长苦行者尼干陀之间的交谈，是怎样的呢？”"
+  },
+  {
+   "idx": 160,
+   "pali": "Atha kho bhagavā yāvatako ahosi dīghatapassinā nigaṇṭhena saddhiṃ kathāsallāpo taṃ sabbaṃ upālissa gahapatissa ārocesi.",
+   "zh": "于是，世尊将他与长苦行尼干陀交谈的全部内容，都告诉了优波离居士。"
+  },
+  {
+   "idx": 161,
+   "pali": "Evaṃ vutte, upāli gahapati bhagavantaṃ etadavoca – ‘‘sādhu sādhu, bhante tapassī! Yathā taṃ sutavatā sāvakena sammadeva satthusāsanaṃ ājānantena evamevaṃ dīghatapassinā nigaṇṭhena bhagavato byākataṃ. Kiñhi sobhati chavo manodaṇḍo imassa evaṃ oḷārikassa kāyadaṇḍassa upanidhāya? Atha kho kāyadaṇḍova mahāsāvajjataro pāpassa kammassa kiriyāya pāpassa kammassa pavattiyā, no tathā vacīdaṇḍo, no tathā manodaṇḍo’’ti. ‘‘Sace kho tvaṃ, gahapati, sacce patiṭṭhāya manteyyāsi siyā no ettha kathāsallāpo’’ti. ‘‘Sacce ahaṃ, bhante, patiṭṭhāya mantessāmi; hotu no ettha kathāsallāpo’’ti.",
+   "zh": "听了世尊这么说，优波离居士便对世尊说：“善哉！善哉！苦行者！正如有学识的弟子能完全正确地领悟导师的教导，长苦行尼干陀也是如此回答世尊的。那微不足道的意罚，与这般粗重的身罚相比，又算得了什么呢？既然如此，在造作恶业、令恶业持续上，身罚才是罪过最重的，语罚不是这样，意罚也不是这样。”\n“居士，你若能立于真理与我讨论，我们的对话才会有意义。”\n“尊者，我将立于真理来讨论。让我们开始这番对话吧。”",
+   "n": "61"
+  },
+  {
+   "idx": 162,
+   "pali": "‘‘Taṃ kiṃ maññasi, gahapati, idhassa nigaṇṭho ābādhiko dukkhito bāḷhagilāno sītodakapaṭikkhitto uṇhodakapaṭisevī. So sītodakaṃ alabhamāno kālaṅkareyya. Imassa pana, gahapati, nigaṇṭho nāṭaputto katthūpapattiṃ paññapetī’’ti?",
+   "zh": "“居士，你意下如何？假如有位尼乾陀，患病、受苦、病重，他拒绝冷水而只用热水；若他因得不到冷水而死去，居士，对这样的尼乾陀，尼乾陀·若提子会判定他投生何处呢？”",
+   "n": "62"
+  },
+  {
+   "idx": 163,
+   "pali": "‘‘Atthi, bhante, manosattā nāma devā tattha so upapajjati’’.",
+   "zh": "“尊者，有名为‘意所系’的天神，他会投生到那里去。”"
+  },
+  {
+   "idx": 164,
+   "pali": "‘‘Taṃ kissa hetu’’?",
+   "zh": "“是何因缘呢？”"
+  },
+  {
+   "idx": 165,
+   "pali": "‘‘Asu hi, bhante , manopaṭibaddho kālaṅkarotī’’ti.",
+   "zh": "“尊者，因为那位临终时心为所系而命终。”"
+  },
+  {
+   "idx": 166,
+   "pali": "‘‘Manasi karohi, gahapati , manasi karitvā kho, gahapati, byākarohi. Na kho te sandhiyati purimena vā pacchimaṃ, pacchimena vā purimaṃ. Bhāsitā kho pana te, gahapati, esā vācā – ‘sacce ahaṃ, bhante, patiṭṭhāya mantessāmi, hotu no ettha kathāsallāpo’’’ti. ‘‘Kiñcāpi, bhante, bhagavā evamāha, atha kho kāyadaṇḍova mahāsāvajjataro pāpassa kammassa kiriyāya pāpassa kammassa pavattiyā, no tathā vacīdaṇḍo, no tathā manodaṇḍo’’ti.",
+   "zh": "“居士，你用心思量，思量清楚后再回答。你的前言与后语，实不相合；后语与前言，也无从衔接。居士，你先前却说过：‘尊者，我将立足于真实来讨论，愿我们之间于此有番对谈。’”“尊者，纵然世尊如此说，但在造作恶业、行恶行、令恶业相续这些方面，身罚的罪过更重，语罚并非如此，意罚也并非如此。”"
+  },
+  {
+   "idx": 167,
+   "pali": "‘‘Taṃ kiṃ maññasi, gahapati , idhassa nigaṇṭho nāṭaputto cātuyāmasaṃvarasaṃvuto sabbavārivārito sabbavāriyutto sabbavāridhuto sabbavāriphuṭo. So abhikkamanto paṭikkamanto bahū khuddake pāṇe saṅghātaṃ āpādeti. Imassa pana, gahapati, nigaṇṭho nāṭaputto kaṃ vipākaṃ paññapetī’’ti?",
+   "zh": "“居士，你如何思惟？假如有一位尼干陀·若提子，他具足四禁防护，于一切所应禁制者皆禁制，于一切所应系缚者皆系缚，于一切所应洗刷者皆洗刷，于一切所应遍满者皆遍满。当他前进或后退时，却会压死许多微细的众生。居士，这位尼干陀·若提子对此宣说何等果报？”",
+   "n": "63"
+  },
+  {
+   "idx": 168,
+   "pali": "‘‘Asañcetanikaṃ, bhante, nigaṇṭho nāṭaputto no mahāsāvajjaṃ paññapetī’’ti.",
+   "zh": "“尊者，尼干陀[[nāṭaputta|若提子]]宣说，非故意造作之业并非重罪。”"
+  },
+  {
+   "idx": 169,
+   "pali": "‘‘Sace pana, gahapati, cetetī’’ti?",
+   "zh": "“居士，若是故意的呢？”"
+  },
+  {
+   "idx": 170,
+   "pali": "‘‘Mahāsāvajjaṃ, bhante, hotī’’ti.",
+   "zh": "“尊者，那便是重罪了。”"
+  },
+  {
+   "idx": 171,
+   "pali": "‘‘Cetanaṃ pana, gahapati, nigaṇṭho nāṭaputto kismiṃ paññapetī’’ti?",
+   "zh": "“居士，那么尼乾陀·若提子将‘思’归为哪一类呢？”"
+  },
+  {
+   "idx": 172,
+   "pali": "‘‘Manodaṇḍasmiṃ, bhante’’ti.",
+   "zh": "“在于意罚，尊者。”"
+  },
+  {
+   "idx": 173,
+   "pali": "‘‘Manasi karohi, gahapati , manasi karitvā kho, gahapati, byākarohi. Na kho te sandhiyati purimena vā pacchimaṃ, pacchimena vā purimaṃ. Bhāsitā kho pana te, gahapati, esā vācā – ‘sacce ahaṃ, bhante, patiṭṭhāya mantessāmi; hotu no ettha kathāsallāpo’’’ti. ‘‘Kiñcāpi, bhante, bhagavā evamāha, atha kho kāyadaṇḍova mahāsāvajjataro pāpassa kammassa kiriyāya pāpassa kammassa pavattiyā, no tathā vacīdaṇḍo, no tathā manodaṇḍo’’ti.",
+   "zh": "“居士，你用心想一想，想好之后再回答。你前面所说的与后面所说的不相应，后面所说的与前面所说的也不相应。居士，你可是说过这样的话：‘尊者，我将立足于真实与你探讨；让我们之间有些对话吧。’”“尊者，纵然世尊您这样说，我依然认为，对于造作恶业、令恶业转动，身罚的罪过最重，语罚没那么重，意罚也没那么重。”"
+  },
+  {
+   "idx": 174,
+   "pali": "‘‘Taṃ kiṃ maññasi, gahapati, ayaṃ nāḷandā iddhā ceva phītā ca bahujanā ākiṇṇamanussā’’ti?",
+   "zh": "“居士，你意下如何？这座那烂陀城繁荣、富庶，人口众多，人烟稠密，不是么？”",
+   "n": "64"
+  },
+  {
+   "idx": 175,
+   "pali": "‘‘Evaṃ, bhante, ayaṃ nāḷandā iddhā ceva phītā ca bahujanā ākiṇṇamanussā’’ti.",
+   "zh": "“是的，尊者，此那烂陀城繁荣富庶，人口众多，人烟稠密。”"
+  },
+  {
+   "idx": 176,
+   "pali": "‘‘Taṃ kiṃ maññasi, gahapati, idha puriso āgaccheyya ukkhittāsiko. So evaṃ vadeyya – ‘ahaṃ yāvatikā imissā nāḷandāya pāṇā te ekena khaṇena ekena muhuttena ekaṃ maṃsakhalaṃ ekaṃ maṃsapuñjaṃ karissāmī’ti. Taṃ kiṃ maññasi, gahapati, pahoti nu kho so puriso yāvatikā imissā nāḷandāya pāṇā te ekena khaṇena ekena muhuttena ekaṃ maṃsakhalaṃ ekaṃ maṃsapuñjaṃ kātu’’nti?",
+   "zh": "“居士，你意下如何？假设有人手持利剑来到这里，说：‘我将在一刹那、一片刻间，将这那烂陀城中一切众生，尽数化作一堆碎肉、一座肉山。’居士，你意下如何？那人能在一刹那、一片刻间，将这那烂陀城中一切众生，尽数化作一堆碎肉、一座肉山吗？”"
+  },
+  {
+   "idx": 177,
+   "pali": "‘‘Dasapi, bhante, purisā, vīsampi, bhante, purisā, tiṃsampi, bhante, purisā, cattārīsampi, bhante, purisā, paññāsampi, bhante, purisā nappahonti yāvatikā imissā nāḷandāya pāṇā te ekena khaṇena ekena muhuttena ekaṃ maṃsakhalaṃ ekaṃ maṃsapuñjaṃ kātuṃ. Kiñhi sobhati eko chavo puriso’’ti!",
+   "zh": "“尊者，即使十人、二十人、三十人、四十人，乃至五十人，也无法在一刹那、一片刻间，将这那烂陀城中一切众生化作一堆碎肉、一座肉山。区区一个卑劣之人，又算得了什么！”"
+  },
+  {
+   "idx": 178,
+   "pali": "‘‘Taṃ kiṃ maññasi, gahapati , idha āgaccheyya samaṇo vā brāhmaṇo vā iddhimā cetovasippatto. So evaṃ vadeyya – ‘ahaṃ imaṃ nāḷandaṃ ekena manopadosena bhasmaṃ karissāmī’ti. Taṃ kiṃ maññasi, gahapati, pahoti nu kho so samaṇo vā brāhmaṇo vā iddhimā cetovasippatto imaṃ nāḷandaṃ ekena manopadosena bhasmaṃ kātu’’nti ?",
+   "zh": "“居士，你意下如何？假如有一位具足神通、心得自在的沙门或婆罗门来到这里，这样说道：‘我仅以一次嗔心之念，便能将那烂陀化为灰烬。’居士，你意下如何？那位具足神通、心得自在的沙门或婆罗门，真能以一次嗔心之念，将那烂陀化为灰烬吗？”"
+  },
+  {
+   "idx": 179,
+   "pali": "‘‘Dasapi, bhante, nāḷandā, vīsampi nāḷandā, tiṃsampi nāḷandā, cattārīsampi nāḷandā, paññāsampi nāḷandā pahoti so samaṇo vā brāhmaṇo vā iddhimā cetovasippatto ekena manopadosena bhasmaṃ kātuṃ. Kiñhi sobhati ekā chavā nāḷandā’’ti!",
+   "zh": "“尊者，十座、二十座、三十座、四十座，乃至五十座那烂陀，那位具足神通、心得自在的沙门或婆罗门，都能仅以一次嗔心之念将它们化作灰烬。区区一座那烂陀又算得了什么！”"
+  },
+  {
+   "idx": 180,
+   "pali": "‘‘Manasi karohi, gahapati, manasi karitvā kho, gahapati, byākarohi. Na kho te sandhiyati purimena vā pacchimaṃ, pacchimena vā purimaṃ. Bhāsitā kho pana te, gahapati, esā vācā – ‘sacce ahaṃ, bhante, patiṭṭhāya mantessāmi; hotu no ettha kathāsallāpo’’’ti.",
+   "zh": "“居士，请你用心思惟，思惟清楚后再回答。你前后的说法并不相符，前言不搭后语，后语不搭前言。居士，你自己不也说过这样的话吗：‘尊者，我将立足于真相而进行谈论；让我们就在这里展开这场论谈吧。’”"
+  },
+  {
+   "idx": 181,
+   "pali": "‘‘Kiñcāpi, bhante, bhagavā evamāha, atha kho kāyadaṇḍova mahāsāvajjataro pāpassa kammassa kiriyāya pāpassa kammassa pavattiyā, no tathā vacīdaṇḍo, no tathā manodaṇḍo’’ti.",
+   "zh": "“世尊虽然这样说，但我仍以为，对于恶业的造作与发动，身杖的罪过重于语杖和意杖。”"
+  },
+  {
+   "idx": 182,
+   "pali": "‘‘Taṃ kiṃ maññasi, gahapati, sutaṃ te daṇḍakīraññaṃ kāliṅgāraññaṃ majjhāraññaṃ mātaṅgāraññaṃ araññaṃ araññabhūta’’nti?",
+   "zh": "“居士，你意如何？你可曾听说丹达基森林、卡陵嘎森林、美吒森林、摩登伽森林——那些变成了森林荒野的地方吗？”",
+   "n": "65"
+  },
+  {
+   "idx": 183,
+   "pali": "‘‘Evaṃ, bhante, sutaṃ me daṇḍakīraññaṃ kāliṅgāraññaṃ majjhāraññaṃ mātaṅgāraññaṃ araññaṃ araññabhūta’’nti.",
+   "zh": "“是的，尊者，我听闻，丹达基森林、卡陵嘎森林、中间森林、摩登伽森林，曾是森林，后来都成了荒原。”"
+  },
+  {
+   "idx": 184,
+   "pali": "‘‘Taṃ kiṃ maññasi, gahapati, kinti te sutaṃ kena taṃ daṇḍakīraññaṃ kāliṅgāraññaṃ majjhāraññaṃ mātaṅgāraññaṃ araññaṃ araññabhūta’’nti?",
+   "zh": "“居士，你意如何？你可曾听说——丹达基森林、咖林咖森林、中部森林和马当咖森林，这些原本的森林，是因何变成了荒野？”"
+  },
+  {
+   "idx": 185,
+   "pali": "‘‘Sutaṃ metaṃ, bhante, isīnaṃ manopadosena taṃ daṇḍakīraññaṃ kāliṅgāraññaṃ majjhāraññaṃ mātaṅgāraññaṃ araññaṃ araññabhūta’’nti.",
+   "zh": "“尊者，我曾听闻，是由于仙人们心生嗔怒，丹达基森林、咖林咖森林、中部森林和马当咖森林，这些曾经的森林，才变成了荒野。”"
+  },
+  {
+   "idx": 186,
+   "pali": "‘‘Manasi karohi, gahapati, manasi karitvā kho, gahapati, byākarohi. Na kho te sandhiyati purimena vā pacchimaṃ, pacchimena vā purimaṃ. Bhāsitā kho pana te, gahapati, esā vācā – ‘sacce ahaṃ, bhante, patiṭṭhāya mantessāmi; hotu no ettha kathāsallāpo’’’ti.",
+   "zh": "“居士，你当善加思惟，思惟之后再作回答。你前面所说的与后面所说的，后面所说的与前面所说的，并不相应。然而居士，你曾说过这样的话：‘尊者，我将立足于真实与你论辩；且让我们就此展开对话。’”"
+  },
+  {
+   "idx": 187,
+   "pali": "‘‘Purimenevāhaṃ , bhante, opammena bhagavato attamano abhiraddho. Api cāhaṃ imāni bhagavato vicitrāni pañhapaṭibhānāni sotukāmo, evāhaṃ bhagavantaṃ paccanīkaṃ kātabbaṃ amaññissaṃ. Abhikkantaṃ, bhante, abhikkantaṃ, bhante! Seyyathāpi, bhante, nikkujjitaṃ vā ukkujjeyya, paṭicchannaṃ vā vivareyya, mūḷhassa vā maggaṃ ācikkheyya, andhakāre vā telapajjotaṃ dhāreyya – cakkhumanto rūpāni dakkhantīti; evamevaṃ bhagavatā anekapariyāyena dhammo pakāsito. Esāhaṃ, bhante, bhagavantaṃ saraṇaṃ gacchāmi dhammañca bhikkhusaṅghañca. Upāsakaṃ maṃ bhagavā dhāretu ajjatagge pāṇupetaṃ saraṇaṃ gata’’nti.",
+   "zh": "“尊者，仅是第一个譬喻，我已对世尊感到欢喜与满意。然而，我还想听闻世尊对种种问题的善巧解答，因此之前才起了与世尊对论的心。真是殊胜啊，尊者！真是殊胜啊，尊者！犹如有人把倒下的扶正，把隐藏的揭开，为迷路者指明道路，或在黑暗中擎起油灯，使有眼者得以看见诸色；同样地，世尊以种种方便阐明了法。从今以后，我皈依世尊、皈依法、皈依比丘僧团。愿世尊纳受我为近事男，自今日起尽形寿皈依。”",
+   "n": "66"
+  },
+  {
+   "idx": 188,
+   "pali": "‘‘Anuviccakāraṃ kho, gahapati, karohi, anuviccakāro tumhādisānaṃ ñātamanussānaṃ sādhu hotī’’ti. ‘‘Imināpāhaṃ, bhante, bhagavato bhiyyosomattāya attamano abhiraddho yaṃ maṃ bhagavā evamāha – ‘anuviccakāraṃ kho, gahapati, karohi, anuviccakāro tumhādisānaṃ ñātamanussānaṃ sādhu hotī’ti. Mañhi, bhante, aññatitthiyā sāvakaṃ labhitvā kevalakappaṃ nāḷandaṃ paṭākaṃ parihareyyuṃ – ‘upāli amhākaṃ gahapati sāvakattaṃ upagato’ti. Atha ca pana maṃ bhagavā evamāha – ‘anuviccakāraṃ kho, gahapati, karohi, anuviccakāro tumhādisānaṃ ñātamanussānaṃ sādhu hotī’ti. Esāhaṃ, bhante, dutiyampi bhagavantaṃ saraṇaṃ gacchāmi dhammañca bhikkhusaṅghañca. Upāsakaṃ maṃ bhagavā dhāretu ajjatagge pāṇupetaṃ saraṇaṃ gata’’nti.",
+   "zh": "“居士，你应当审慎考虑后而行。像你这样有名望的人，审慎而行是善好的。”“尊者，世尊这样对我说：‘居士，你应当审慎考虑后而行。像你这样有名望的人，审慎而行是善好的。’这让我对世尊更为满意与欢喜。尊者，若是其他外道得到我这样的弟子，他们大概会扛着旗在那烂陀城中到处宣告：‘优波离居士已成为我等的弟子了！’然而世尊却对我说：‘居士，你应当审慎考虑后而行。像你这样有名望的人，审慎而行是善好的。’因此，尊者，这是我第二次皈依世尊、皈依法、皈依比丘僧。愿世尊纳受我为近事男，自今日起尽形寿皈依。",
+   "n": "67"
+  },
+  {
+   "idx": 189,
+   "pali": "‘‘Dīgharattaṃ kho te, gahapati, nigaṇṭhānaṃ opānabhūtaṃ kulaṃ yena nesaṃ upagatānaṃ piṇḍakaṃ dātabbaṃ maññeyyāsī’’ti. ‘‘Imināpāhaṃ, bhante, bhagavato bhiyyosomattāya attamano abhiraddho yaṃ maṃ bhagavā evamāha – ‘dīgharattaṃ kho te, gahapati, nigaṇṭhānaṃ opānabhūtaṃ kulaṃ yena nesaṃ upagatānaṃ piṇḍakaṃ dātabbaṃ maññeyyāsī’ti. Sutaṃ metaṃ, bhante, samaṇo gotamo evamāha – ‘mayhameva dānaṃ dātabbaṃ, nāññesaṃ dānaṃ dātabbaṃ; mayhameva sāvakānaṃ dānaṃ dātabbaṃ, nāññesaṃ sāvakānaṃ dānaṃ dātabbaṃ; mayhameva dinnaṃ mahapphalaṃ, nāññesaṃ dinnaṃ mahapphalaṃ; mayhameva sāvakānaṃ dinnaṃ mahapphalaṃ, nāññesaṃ sāvakānaṃ dinnaṃ mahapphala’nti. Atha ca pana maṃ bhagavā nigaṇṭhesupi dāne samādapeti. Api ca, bhante, mayamettha kālaṃ jānissāma. Esāhaṃ, bhante, tatiyampi bhagavantaṃ saraṇaṃ gacchāmi dhammañca bhikkhusaṅghañca. Upāsakaṃ maṃ bhagavā dhāretu ajjatagge pāṇupetaṃ saraṇaṃ gata’’nti.",
+   "zh": "“居士，你家世代是尼乾陀的供养之源，犹如水井。当那些尼乾陀到来时，你可想到要布施食物给他们。”“尊者，世尊对我这样说：‘居士，你家世代是尼乾陀的供养之源，犹如水井。当那些尼乾陀到来时，你可想到要布施食物给他们。’这让我对世尊更加满意、更加欢喜了。尊者，我曾听说，沙门[[gotama|乔达摩]]这样声称：‘只应布施给我，不应布施给别人；只应布施给我的弟子，不应布施给别人的弟子；只有布施给我才有大果报，布施给别人没有大果报；只有布施给我的弟子才有大果报，布施给别人的弟子没有大果报。’然而，世尊现在却劝导我也布施给那些尼乾陀。不过，尊者，我们自当知晓合适的时机。尊者，这是我第三次皈依世尊、皈依法、皈依比丘僧。愿世尊纳受我为近事男，自今日起尽形寿皈依。”",
+   "n": "68"
+  },
+  {
+   "idx": 190,
+   "pali": "Atha kho bhagavā upālissa gahapatissa anupubbiṃ kathaṃ kathesi, seyyathidaṃ – dānakathaṃ sīlakathaṃ saggakathaṃ, kāmānaṃ ādīnavaṃ okāraṃ saṃkilesaṃ, nekkhamme ānisaṃsaṃ pakāsesi. Yadā bhagavā aññāsi upāliṃ gahapatiṃ kallacittaṃ muducittaṃ vinīvaraṇacittaṃ udaggacittaṃ pasannacittaṃ, atha yā buddhānaṃ sāmukkaṃsikā dhammadesanā taṃ pakāsesi – dukkhaṃ, samudayaṃ, nirodhaṃ, maggaṃ. Seyyathāpi nāma suddhaṃ vatthaṃ apagatakāḷakaṃ sammadeva rajanaṃ paṭiggaṇheyya, evameva upālissa gahapatissa tasmiṃyeva āsane virajaṃ vītamalaṃ dhammacakkhuṃ udapādi – ‘yaṃ kiñci samudayadhammaṃ sabbaṃ taṃ nirodhadhamma’nti. Atha kho upāli gahapati diṭṭhadhammo pattadhammo viditadhammo pariyogāḷhadhammo tiṇṇavicikiccho vigatakathaṃkatho vesārajjappatto aparappaccayo satthusāsane bhagavantaṃ etadavoca – ‘‘handa ca dāni mayaṃ, bhante, gacchāma, bahukiccā mayaṃ bahukaraṇīyā’’ti. ‘‘Yassadāni tvaṃ, gahapati, kālaṃ maññasī’’ti.",
+   "zh": "那时，世尊为优波离居士次第开示教法，即：布施论、持戒论、生天论；又说明欲乐的过患、卑劣与杂染，以及出离的功德利益。当世尊了知优波离居士的心已准备妥当——柔软、无障碍、欣悦、净信——便为他开示了诸佛最殊胜的教说：苦圣谛、集圣谛、灭圣谛、道圣谛。正如一块无垢的白布能完全吸收染料，优波离居士就在所坐之处，生起了离垢无染的法眼：“凡是具有生起性质的，都具有息灭的性质。”那时，优波离居士见法、证法、悟法、深入于法，度越疑惑，远离犹豫，获得确信，于导师的教法中不复依止他人。他对世尊说：“尊者，请容我等告辞，我们还有许多事务，许多待办之事。”世尊说：“居士，你自知时机，便可如宜而行。”",
+   "n": "69"
+  },
+  {
+   "idx": 191,
+   "pali": "Atha kho upāli gahapati bhagavato bhāsitaṃ abhinanditvā anumoditvā uṭṭhāyāsanā bhagavantaṃ abhivādetvā padakkhiṇaṃ katvā yena sakaṃ nivesanaṃ tenupasaṅkami; upasaṅkamitvā dovārikaṃ āmantesi – ‘‘ajjatagge, samma dovārika, āvarāmi dvāraṃ nigaṇṭhānaṃ nigaṇṭhīnaṃ, anāvaṭaṃ dvāraṃ bhagavato bhikkhūnaṃ bhikkhunīnaṃ upāsakānaṃ upāsikānaṃ. Sace koci nigaṇṭho āgacchati tamenaṃ tvaṃ evaṃ vadeyyāsi – ‘tiṭṭha, bhante, mā pāvisi. Ajjatagge upāli gahapati samaṇassa gotamassa sāvakattaṃ upagato. Āvaṭaṃ dvāraṃ nigaṇṭhānaṃ nigaṇṭhīnaṃ, anāvaṭaṃ dvāraṃ bhagavato bhikkhūnaṃ bhikkhunīnaṃ upāsakānaṃ upāsikānaṃ . Sace te, bhante, piṇḍakena attho, ettheva tiṭṭha, ettheva te āharissantī’’’ti. ‘‘Evaṃ, bhante’’ti kho dovāriko upālissa gahapatissa paccassosi.",
+   "zh": "那时，优波离居士对世尊的开示欢喜信受，随后从座起身，向世尊顶礼，右绕作礼，然后返回自己的住处。归家后，他吩咐守门人：“善友，守门人，从今日起，此门对尼干陀与尼干陀女关闭；对世尊的比丘、比丘尼、近事男、近事女敞开。若有尼干陀前来，你便这样告诉他：‘尊者请留步，勿入。从今日起，优波离居士已是沙门[[gotama|乔达摩]]的弟子。此门对尼干陀与尼干陀女关闭，对世尊的比丘、比丘尼、近事男、近事女敞开。尊者若需施食，请在此稍候；我等会将食物送到您这里。’”守门人回答优波离居士：“是的，尊者。”",
+   "n": "70"
+  },
+  {
+   "idx": 192,
+   "pali": "Assosi kho dīghatapassī nigaṇṭho – ‘‘upāli kira gahapati samaṇassa gotamassa sāvakattaṃ upagato’’ti. Atha kho dīghatapassī nigaṇṭho yena nigaṇṭho nāṭaputto tenupasaṅkami; upasaṅkamitvā nigaṇṭhaṃ nāṭaputtaṃ etadavoca – ‘‘sutaṃ metaṃ, bhante, upāli kira gahapati samaṇassa gotamassa sāvakattaṃ upagato’’ti. ‘‘Aṭṭhānaṃ kho etaṃ, tapassi , anavakāso yaṃ upāli gahapati samaṇassa gotamassa sāvakattaṃ upagaccheyya. Ṭhānañca kho etaṃ vijjati yaṃ samaṇo gotamo upālissa gahapatissa sāvakattaṃ upagaccheyyā’’ti . Dutiyampi kho dīghatapassī nigaṇṭho…pe… tatiyampi kho dīghatapassī nigaṇṭho nigaṇṭhaṃ nāṭaputtaṃ etadavoca – ‘‘sutaṃ metaṃ, bhante …pe… upālissa gahapatissa sāvakattaṃ upagaccheyyā’’ti. ‘‘Handāhaṃ, bhante, gacchāmi yāva jānāmi yadi vā upāli gahapati samaṇassa gotamassa sāvakattaṃ upagato yadi vā no’’ti. ‘‘Gaccha tvaṃ, tapassi, jānāhi yadi vā upāli gahapati samaṇassa gotamassa sāvakattaṃ upagato yadi vā no’’ti.",
+   "zh": "长苦行者尼乾陀听到这样的消息：“听说优波离居士已归为[[gotama|沙门乔达摩]]的弟子。”于是，长苦行者尼乾陀便前往尼乾陀·若提子那里，到了之后，对尼乾陀·若提子这样说：“尊者，我听说优波离居士已归为[[gotama|沙门乔达摩]]的弟子。”“苦行者，这是不可能的，绝无此理：优波离居士会成为[[gotama|沙门乔达摩]]的弟子。但有另一种可能，那就是[[gotama|沙门乔达摩]]会成为优波离居士的弟子。”第二次……乃至第三次，长苦行者尼乾陀对尼乾陀·若提子这样说：“尊者，我听说优波离居士已归为[[gotama|沙门乔达摩]]的弟子。”“苦行者，这是不可能的，绝无此理：优波离居士会成为[[gotama|沙门乔达摩]]的弟子。但有另一种可能，有这种道理，那就是[[gotama|沙门乔达摩]]会成为优波离居士的弟子。那么，尊者，我这就去吧，去看看优波离居士究竟是归为[[gotama|沙门乔达摩]]的弟子，还是没有。”“去吧，苦行者，你去看看优波离居士是归为[[gotama|沙门乔达摩]]的弟子，还是没有。”",
+   "n": "71"
+  },
+  {
+   "idx": 193,
+   "pali": "Atha kho dīghatapassī nigaṇṭho yena upālissa gahapatissa nivesanaṃ tenupasaṅkami. Addasā kho dovāriko dīghatapassiṃ nigaṇṭhaṃ dūratova āgacchantaṃ. Disvāna dīghatapassiṃ nigaṇṭhaṃ etadavoca – ‘‘tiṭṭha, bhante, mā pāvisi. Ajjatagge upāli gahapati samaṇassa gotamassa sāvakattaṃ upagato. Āvaṭaṃ dvāraṃ nigaṇṭhānaṃ nigaṇṭhīnaṃ, anāvaṭaṃ dvāraṃ bhagavato bhikkhūnaṃ bhikkhunīnaṃ upāsakānaṃ upāsikānaṃ . Sace te, bhante, piṇḍakena attho, ettheva tiṭṭha, ettheva te āharissantī’’ti. ‘‘Na me, āvuso, piṇḍakena attho’’ti vatvā tato paṭinivattitvā yena nigaṇṭho nāṭaputto tenupasaṅkami; upasaṅkamitvā nigaṇṭhaṃ nāṭaputtaṃ etadavoca – ‘‘saccaṃyeva kho, bhante, yaṃ upāli gahapati samaṇassa gotamassa sāvakattaṃ upagato. Etaṃ kho te ahaṃ, bhante, nālatthaṃ na kho me, bhante, ruccati yaṃ upāli gahapati samaṇassa gotamassa vādaṃ āropeyya. Samaṇo hi, bhante, gotamo māyāvī āvaṭṭaniṃ māyaṃ jānāti yāya aññatitthiyānaṃ sāvake āvaṭṭetīti. Āvaṭṭo kho te, bhante, upāli gahapati samaṇena gotamena āvaṭṭaniyā māyāyā’’ti. ‘‘Aṭṭhānaṃ kho etaṃ, tapassi, anavakāso yaṃ upāli gahapati samaṇassa gotamassa sāvakattaṃ upagaccheyya. Ṭhānañca kho etaṃ vijjati yaṃ samaṇo gotamo upālissa gahapatissa sāvakattaṃ upagaccheyyā’’ti. Dutiyampi kho dīghatapassī nigaṇṭho nigaṇṭhaṃ nāṭaputtaṃ etadavoca – ‘‘saccaṃyeva, bhante…pe… upālissa gahapatissa sāvakattaṃ upagaccheyyā’’ti. Tatiyampi kho dīghatapassī nigaṇṭho nigaṇṭhaṃ nāṭaputtaṃ etadavoca – ‘‘saccaṃyeva kho, bhante…pe… upālissa gahapatissa sāvakattaṃ upagaccheyyā’’ti. ‘‘Handa cāhaṃ , tapassi, gacchāmi yāva cāhaṃ sāmaṃyeva jānāmi yadi vā upāli gahapati samaṇassa gotamassa sāvakattaṃ upagato yadi vā no’’ti.",
+   "zh": "于是，长苦行者尼乾陀便前往优波离居士的住处。守门人远远望见长苦行者尼乾陀正走来，看见后，便对长苦行者尼乾陀说道：“尊者，请您止步，莫入内。从今日起，优波离居士已成为[[gotama|沙门乔达摩]]的弟子。此门对尼乾陀与尼乾陀女已然关闭，而对世尊的比丘、比丘尼、近事男、近事女，却是敞开的。尊者，若您需要食物，请在此稍候，我们会将食物送到这里来给您。”长苦行者说道：“朋友，我不需要食物。”说完，他便从那里转身离去，去见尼乾陀·若提子。见面之后，他对尼乾陀·若提子说道：“尊者，此事确凿无疑，优波离居士已成了[[gotama|沙门乔达摩]]的弟子。尊者，我先前未能让您接受这一点：我本不赞同优波离居士去向[[gotama|沙门乔达摩]]进行论争。尊者，因为[[gotama|沙门乔达摩]]懂得一种名为‘摄法’的幻术，能以此转变其他外道的弟子。尊者，优波离居士正是被[[gotama|沙门乔达摩]]以这种‘摄法’幻术所转变的。”“苦行者，此事绝无可能，毫无道理可言，优波离居士绝不可能成为[[gotama|沙门乔达摩]]的弟子。倒是[[gotama|沙门乔达摩]]会成为优波离居士的弟子，这才有可能。”长苦行者尼乾陀第二次对尼乾陀·若提子说道：“尊者，这的确是真的……[[gotama|沙门乔达摩]]会成为优波离居士的弟子。”第三次对尼乾陀·若提子说道：“尊者，这的确是真的……[[gotama|沙门乔达摩]]会”",
+   "n": "72"
+  },
+  {
+   "idx": 194,
+   "pali": "Atha kho nigaṇṭho nāṭaputto mahatiyā nigaṇṭhaparisāya saddhiṃ yena upālissa gahapatissa nivesanaṃ tenupasaṅkami. Addasā kho dovāriko nigaṇṭhaṃ nāṭaputtaṃ dūratova āgacchantaṃ. Disvāna nigaṇṭhaṃ nāṭaputtaṃ etadavoca – ‘‘tiṭṭha, bhante, mā pāvisi. Ajjatagge upāli gahapati samaṇassa gotamassa sāvakattaṃ upagato. Āvaṭaṃ dvāraṃ nigaṇṭhānaṃ nigaṇṭhīnaṃ, anāvaṭaṃ dvāraṃ bhagavato bhikkhūnaṃ bhikkhunīnaṃ upāsakānaṃ upāsikānaṃ. Sace te, bhante, piṇḍakena attho, ettheva tiṭṭha, ettheva te āharissantī’’ti. ‘‘Tena hi, samma dovārika, yena upāli gahapati tenupasaṅkama; upasaṅkamitvā upāliṃ gahapatiṃ evaṃ vadehi – ‘nigaṇṭho, bhante, nāṭaputto mahatiyā nigaṇṭhaparisāya saddhiṃ bahidvārakoṭṭhake ṭhito; so te dassanakāmo’’’ti. ‘‘Evaṃ, bhante’’ti kho dovāriko nigaṇṭhassa nāṭaputtassa paṭissutvā yena upāli gahapati tenupasaṅkami; upasaṅkamitvā upāliṃ gahapatiṃ etadavoca – ‘‘nigaṇṭho, bhante, nāṭaputto mahatiyā nigaṇṭhaparisāya saddhiṃ bahidvārakoṭṭhake ṭhito; so te dassanakāmo’’ti. ‘‘Tena hi, samma dovārika, majjhimāya dvārasālāya āsanāni paññapehī’’ti. ‘‘Evaṃ, bhante’’ti kho dovāriko upālissa gahapatissa paṭissutvā majjhimāya dvārasālāya āsanāni paññapetvā yena upāli gahapati tenupasaṅkami; upasaṅkamitvā upāliṃ gahapatiṃ etadavoca – ‘‘paññattāni kho, bhante, majjhimāya dvārasālāya āsanāni. Yassadāni kālaṃ maññasī’’ti.",
+   "zh": "于是，尼乾陀·若提子带着一大群尼乾陀弟子，前往优波离居士的住处。守门人远远望见尼乾陀·若提子正向这边走来，见后便对他说道：“尊者，请留步，莫要进入。从今日起，优波离居士已皈依沙门[[gotama|乔达摩]]，成为他的弟子。此门对尼乾陀与尼乾陀女关闭，而对世尊的比丘、比丘尼、近事男、近事女敞开。尊者，若您需要饮食，请在此稍候，我们会将食物送来给您。”尼乾陀·若提子说：“那么，好守门人，请你去优波离居士那里，见到他之后，对优波离居士这样说：‘尊者，尼乾陀·若提子带着一大群尼乾陀弟子，正站在门外的门房里，他想见您。’”守门人回答尼乾陀·若提子说：“是的，尊者。”于是，守门人便去优波离居士那里，见到后，对优波离居士说：“尊者，尼乾陀·若提子带着一大群尼乾陀弟子，正站在门外的门房里，他想见您。”优波离居士说：“那么，好守门人，请你在中间的会客厅里铺设座位。”守门人回答优波离居士说：“是的，尊者。”守门人便在中间的会客厅里铺设了座位，然后又去优波离居士那里，见到后，对优波离居士说：“尊者，中间会客厅的座位已铺设完毕。现在，您若觉得时机适宜，请便。”"
+  },
+  {
+   "idx": 195,
+   "pali": "Atha kho upāli gahapati yena majjhimā dvārasālā tenupasaṅkami; upasaṅkamitvā yaṃ tattha āsanaṃ aggañca seṭṭhañca uttamañca paṇītañca tattha sāmaṃ nisīditvā dovārikaṃ āmantesi – ‘‘tena hi, samma dovārika, yena nigaṇṭho nāṭaputto tenupasaṅkama; upasaṅkamitvā nigaṇṭhaṃ nāṭaputtaṃ evaṃ vadehi – ‘upāli, bhante, gahapati evamāha – pavisa kira, bhante, sace ākaṅkhasī’’’ti. ‘‘Evaṃ, bhante’’ti kho dovāriko upālissa gahapatissa paṭissutvā yena nigaṇṭho nāṭaputto tenupasaṅkami; upasaṅkamitvā nigaṇṭhaṃ nāṭaputtaṃ etadavoca – ‘‘upāli, bhante, gahapati evamāha – ‘pavisa kira, bhante, sace ākaṅkhasī’’’ti. Atha kho nigaṇṭho nāṭaputto mahatiyā nigaṇṭhaparisāya saddhiṃ yena majjhimā dvārasālā tenupasaṅkami. Atha kho upāli gahapati – yaṃ sudaṃ pubbe yato passati nigaṇṭhaṃ nāṭaputtaṃ dūratova āgacchantaṃ disvāna tato paccuggantvā yaṃ tattha āsanaṃ aggañca seṭṭhañca uttamañca paṇītañca taṃ uttarāsaṅgena sammajjitvā pariggahetvā nisīdāpeti so – dāni yaṃ tattha āsanaṃ aggañca seṭṭhañca uttamañca paṇītañca tattha sāmaṃ nisīditvā nigaṇṭhaṃ nāṭaputtaṃ etadavoca – ‘‘saṃvijjanti kho, bhante, āsanāni; sace ākaṅkhasi, nisīdā’’ti. Evaṃ vutte, nigaṇṭho nāṭaputto upāliṃ gahapatiṃ etadavoca – ‘‘ummattosi tvaṃ, gahapati, dattosi tvaṃ, gahapati! ‘Gacchāmahaṃ, bhante, samaṇassa gotamassa vādaṃ āropessāmī’ti gantvā mahatāsi vādasaṅghāṭena paṭimukko āgato. Seyyathāpi, gahapati, puriso aṇḍahārako gantvā ubbhatehi aṇḍehi āgaccheyya, seyyathā vā pana gahapati puriso akkhikahārako gantvā ubbhatehi akkhīhi āgaccheyya; evameva kho tvaṃ, gahapati, ‘gacchāmahaṃ, bhante, samaṇassa gotamassa vādaṃ āropessāmī’ti gantvā mahatāsi vādasaṅghāṭena paṭimukko āgato. Āvaṭṭosi kho tvaṃ, gahapati, samaṇena gotamena āvaṭṭaniyā māyāyā’’ti.",
+   "zh": "接着，优波离居士前往中门大堂。到达后，他亲自坐上了那最高、最胜、最上、最殊妙的座位，而后对守门人说：“守门人朋友，劳烦你去尼干陀·若提子那里。到了之后，便对尼干陀·若提子这样说：‘尊者，优波离居士说：尊者，若您愿意，请进来吧。’”“好的，尊者。”那位守门人应诺优波离居士后，便去见尼干陀·若提子，到了之后对尼干陀·若提子说：“尊者，优波离居士说：‘尊者，若您愿意，请进来吧。’”于是，尼干陀·若提子便与一大群尼干陀信众一同前往中门大堂。那时，以往优波离居士从远处望见尼干陀·若提子走来时，总会迎上前去，用上衣把那最高、最胜、最上、最殊妙的座位拂拭干净，然后安顿他坐下；而如今，他自己坐上了那最高、最胜、最上、最殊妙的座位，却对尼干陀·若提子说：“尊者，这里有座位，若您愿意，请坐吧。”听了这话，尼干陀·若提子对优波离居士说：“居士，你疯了！居士，你昏了头了！你说：‘尊者，我要去与[[gotama|沙门乔达摩]]辩论。’去后，却被一团又一团的论辩纠缠裹挟而回。居士，这就好比一个去取人睾丸的人，反被夺去睾丸归来；或者，居士，就像一个去取人眼睛的人，反被夺去眼睛归来。正是如此，居士，你说：‘尊者，我要去与[[gotama|沙门乔达摩]]辩论。’去后，却被一大团论辩纠缠裹挟而回。居士，你确实已被[[gotama|沙门乔达摩]]那能转化人的幻术所转化了！”",
+   "n": "73"
+  },
+  {
+   "idx": 196,
+   "pali": "‘‘Bhaddikā, bhante, āvaṭṭanī māyā; kalyāṇī, bhante, āvaṭṭanī māyā; piyā me, bhante, ñātisālohitā imāya āvaṭṭaniyā āvaṭṭeyyuṃ; piyānampi me assa ñātisālohitānaṃ dīgharattaṃ hitāya sukhāya; sabbe cepi, bhante, khattiyā imāya āvaṭṭaniyā āvaṭṭeyyuṃ; sabbesānampissa khattiyānaṃ dīgharattaṃ hitāya sukhāya; sabbe cepi, bhante, brāhmaṇā…pe… vessā…pe… suddā imāya āvaṭṭaniyā āvaṭṭeyyuṃ; sabbesānampissa suddānaṃ dīgharattaṃ hitāya sukhāya; sadevako cepi, bhante, loko samārako sabrahmako sassamaṇabrāhmaṇī pajā sadevamanussā imāya āvaṭṭaniyā āvaṭṭeyyuṃ; sadevakassapissa lokassa samārakassa sabrahmakassa sassamaṇabrāhmaṇiyā pajāya sadevamanussāya dīgharattaṃ hitāya sukhāyāti. Tena hi, bhante, upamaṃ te karissāmi. Upamāya pidhekacce viññū purisā bhāsitassa atthaṃ ājānanti.",
+   "zh": "“尊者，这转化之术真是殊胜！尊者，这转化之术真是善好！如果我的亲族血亲能以此转化之术得以转化，那将为我的亲族血亲带来长久的利益与安乐。如果所有的刹帝利都能以此转化之术得以转化，那也将为所有刹帝利带来长久的利益与安乐。如果所有的婆罗门……乃至所有的吠舍……乃至所有的首陀罗都能以此转化之术得以转化，那也将为所有首陀罗带来长久的利益与安乐。如果整个有天、有魔、有梵天的世界，连同其中的沙门、婆罗门、天与人，都能以此转化之术得以转化，那也将为整个有天、有魔、有梵天的世界，连同其中的沙门、婆罗门、天与人，带来长久的利益与安乐。那么，尊者，我来说一个譬喻。世间确实有些智者能借譬喻而了知所说的义理。”",
+   "n": "74"
+  },
+  {
+   "idx": 197,
+   "pali": "‘‘Bhūtapubbaṃ , bhante, aññatarassa brāhmaṇassa jiṇṇassa vuḍḍhassa mahallakassa daharā māṇavikā pajāpatī ahosi gabbhinī upavijaññā. Atha kho, bhante, sā māṇavikā taṃ brāhmaṇaṃ etadavoca – ‘gaccha tvaṃ, brāhmaṇa, āpaṇā makkaṭacchāpakaṃ kiṇitvā ānehi, yo me kumārakassa kīḷāpanako bhavissatī’ti. Evaṃ vutte, so brāhmaṇo taṃ māṇavikaṃ etadavoca – ‘āgamehi tāva, bhoti, yāva vijāyati. Sace tvaṃ, bhoti, kumārakaṃ vijāyissasi, tassā te ahaṃ āpaṇā makkaṭacchāpakaṃ kiṇitvā ānessāmi, yo te kumārakassa kīḷāpanako bhavissati. Sace pana tvaṃ, bhoti, kumārikaṃ vijāyissasi, tassā te ahaṃ āpaṇā makkaṭacchāpikaṃ kiṇitvā ānessāmi, yā te kumārikāya kīḷāpanikā bhavissatī’ti. Dutiyampi kho, bhante, sā māṇavikā…pe… tatiyampi kho, bhante, sā māṇavikā taṃ brāhmaṇaṃ etadavoca – ‘gaccha tvaṃ, brāhmaṇa, āpaṇā makkaṭacchāpakaṃ kiṇitvā ānehi, yo me kumārakassa kīḷāpanako bhavissatī’ti. Atha kho, bhante, so brāhmaṇo tassā māṇavikāya sāratto paṭibaddhacitto āpaṇā makkaṭacchāpakaṃ kiṇitvā ānetvā taṃ māṇavikaṃ etadavoca – ‘ayaṃ te, bhoti, āpaṇā makkaṭacchāpako kiṇitvā ānīto, yo te kumārakassa kīḷāpanako bhavissatī’ti. Evaṃ vutte, bhante, sā māṇavikā taṃ brāhmaṇaṃ etadavoca – ‘gaccha tvaṃ, brāhmaṇa, imaṃ makkaṭacchāpakaṃ ādāya yena rattapāṇi rajataputto tenupasaṅkama; upasaṅkamitvā rattapāṇiṃ rajakaputtaṃ evaṃ vadehi – icchāmahaṃ, samma rattapāṇi, imaṃ makkaṭacchāpakaṃ pītāvalepanaṃ nāma raṅgajātaṃ rajitaṃ ākoṭitapaccākoṭitaṃ ubhatobhāgavimaṭṭha’nti.",
+   "zh": "“尊者，往昔有一位婆罗门，年老、衰迈、垂暮，娶了一位年轻的婆罗门少女为妻，当时她怀有身孕，临产在即。那时，尊者，那位少女对那婆罗门说：‘婆罗门，你去集市买一只小猴子带回来，将来好给我的小男孩做玩伴。’听了这话，尊者，那婆罗门对少女说：‘夫人，请稍待，等你分娩之后再说。夫人，你若生了男孩，我便去集市买只小公猴带回来，给你的小男孩做玩伴；夫人，你若生了女孩，我就去集市买只小母猴带回来，给你的小女孩做玩伴。’第二次，尊者，那位少女……乃至第三次，那位少女又对那婆罗门说：‘婆罗门，你去集市买一只小猴子带回来，将来好给我的小男孩做玩伴。’那时，尊者，那婆罗门因深深迷恋、倾心于那位少女，便去集市买了一只小猴子，带回来对少女说：‘夫人，我从集市买回了这只小猴子，将来可以给你的小男孩做玩伴。’听了这话，尊者，那位少女便对那婆罗门说：‘婆罗门，你带着这只小猴子，到染衣匠之子赤手那里去。到了之后，对染衣匠之子赤手这样说：赤手朋友，我想请你将这只小猴子，用名为“黄涂染”的染料染色，反复捶打，令两面都打磨光滑。’",
+   "n": "75"
+  },
+  {
+   "idx": 198,
+   "pali": "‘‘Atha kho, bhante, so brāhmaṇo tassā māṇavikāya sāratto paṭibaddhacitto taṃ makkaṭacchāpakaṃ ādāya yena rattapāṇi rajakaputto tenupasaṅkami; upasaṅkamitvā rattapāṇiṃ rajakaputtaṃ etadavoca – ‘icchāmahaṃ, samma rattapāṇi, imaṃ makkaṭacchāpakaṃ pītāvalepanaṃ nāma raṅgajātaṃ rajitaṃ ākoṭitapaccākoṭitaṃ ubhatobhāgavimaṭṭha’nti. Evaṃ vutte, bhante, rattapāṇi rajakaputto taṃ brāhmaṇaṃ etadavoca – ‘ayaṃ kho te, makkaṭacchāpako raṅgakkhamo hi kho, no ākoṭanakkhamo , no vimajjanakkhamo’ti. Evameva kho, bhante, bālānaṃ nigaṇṭhānaṃ vādo raṅgakkhamo hi kho bālānaṃ no paṇḍitānaṃ, no anuyogakkhamo, no vimajjanakkhamo. Atha kho, bhante, so brāhmaṇo aparena samayena navaṃ dussayugaṃ ādāya yena rattapāṇi rajakaputto tenupasaṅkami; upasaṅkamitvā rattapāṇiṃ rajakaputtaṃ etadavoca – ‘icchāmahaṃ, samma rattapāṇi, imaṃ navaṃ dussayugaṃ pītāvalepanaṃ nāma raṅgajātaṃ rajitaṃ ākoṭitapaccākoṭitaṃ ubhatobhāgavimaṭṭha’nti. Evaṃ vutte, bhante, rattapāṇi rajakaputto taṃ brāhmaṇaṃ etadavoca – ‘idaṃ kho te, bhante, navaṃ dussayugaṃ raṅgakkhamañceva ākoṭanakkhamañca vimajjanakkhamañcā’ti. Evameva kho, bhante, tassa bhagavato vādo arahato sammāsambuddhassa raṅgakkhamo ceva paṇḍitānaṃ no bālānaṃ, anuyogakkhamo ca vimajjanakkhamo cā’’ti.",
+   "zh": "“那时，尊者，那婆罗门因为深深迷恋、倾心于那位少女，便带着那只小猴子，前往染衣匠之子赤手那里。到了之后，对染衣匠之子赤手说：‘赤手朋友，我想请你将这只小猴子染上那种名为‘黄膏’的染料，好好地捶打、反复捶打，两面都压磨光滑。’听了这话，尊者，染衣匠之子赤手对那婆罗门说：‘您这只猴子呢，倒是经得起染色，却经不起捶打，也经不起压磨。’正像这样，尊者，那些愚者尼干陀的教说，也只经得起愚者的染色，不经智者的；经不起追问，也经不起反复推敲。然而，尊者，那婆罗门后来又带着一套新布料，前去见染衣匠之子赤手。到了之后，对染衣匠之子赤手说：‘赤手朋友，我想请你将这套新布料染上那种名为‘黄膏’的染料，好好地捶打、反复捶打，两面都压磨光滑。’听了这话，尊者，染衣匠之子赤手对那婆罗门说：‘尊者，您这套新布料，既经得起染色，又经得起捶打，也经得起压磨。’正像这样，尊者，彼世尊、阿拉汉、正自觉者的教说，则经得起智者的染色，不经愚者的；经得起追问，也经得起反复推敲。”"
+  },
+  {
+   "idx": 199,
+   "pali": "‘‘Sarājikā kho, gahapati, parisā evaṃ jānāti – ‘upāli gahapati nigaṇṭhassa nāṭaputtassa sāvako’ti. Kassa taṃ, gahapati, sāvakaṃ dhāremā’’ti? Evaṃ vutte, upāli gahapati uṭṭhāyāsanā ekaṃsaṃ uttarāsaṅgaṃ karitvā yena bhagavā tenañjaliṃ paṇāmetvā nigaṇṭhaṃ nāṭaputtaṃ etadavoca – ‘‘tena hi, bhante, suṇohi yassāhaṃ sāvako’’ti –",
+   "zh": "“尼乾陀·若提子说：‘居士，国王及其随从的会众都知道：“优波离居士是尼乾陀·若提子的弟子。”居士，我们该记住你是谁的弟子呢？’听罢此言，优波离居士从座而起，将上衣搭于一边肩上，面向世尊合掌致敬，然后对尼乾陀·若提子说：‘那么，尊者，请听我现在是谁的弟子。’随即以偈颂说道：”"
+  },
+  {
+   "idx": 200,
+   "n": "76",
+   "pali": "‘‘Dhīrassa vigatamohassa, pabhinnakhīlassa vijitavijayassa;",
+   "zh": "“他是智者，已离痴暗，心之顽结已破，战胜应胜之战。",
+   "type": "verse"
+  },
+  {
+   "idx": 201,
+   "pali": "Anīghassa susamacittassa, vuddhasīlassa sādhupaññassa;",
+   "zh": "他无忧恼，心意极其平等，具足长者的戒德与圣者的智慧；",
+   "type": "verse"
+  },
+  {
+   "idx": 202,
+   "pali": "Vesamantarassa vimalassa, bhagavato tassa sāvakohamasmi.",
+   "zh": "处一切中而无瑕秽，那便是世尊，我即他的弟子。",
+   "type": "verse"
+  },
+  {
+   "idx": 203,
+   "pali": "‘‘Akathaṃkathissa tusitassa, vantalokāmisassa muditassa;",
+   "zh": "“他无有疑惑，知足、欣悦，已吐弃世间之饵；",
+   "type": "verse"
+  },
+  {
+   "idx": 204,
+   "pali": "Katasamaṇassa manujassa, antimasārīrassa narassa;",
+   "zh": "作为人，他已成就沙门之行，是持最后身者；",
+   "type": "verse"
+  },
+  {
+   "idx": 205,
+   "pali": "Anopamassa virajassa, bhagavato tassa sāvakohamasmi.",
+   "zh": "他无可比拟，离诸尘垢；他是世尊，我是他的弟子。",
+   "type": "verse"
+  },
+  {
+   "idx": 206,
+   "pali": "‘‘Asaṃsayassa kusalassa, venayikassa sārathivarassa;",
+   "zh": "“他断尽疑惑，善巧通达，是调御者、无上调御者；",
+   "type": "verse"
+  },
+  {
+   "idx": 207,
+   "pali": "Anuttarassa ruciradhammassa, nikkaṅkhassa pabhāsakassa ;",
+   "zh": "他是无上者，具足妙法，无疑无惑，光明照耀；",
+   "type": "verse"
+  },
+  {
+   "idx": 208,
+   "pali": "Mānacchidassa vīrassa, bhagavato tassa sāvakohamasmi.",
+   "zh": "他是已断除骄慢的勇者，是彼世尊，我是他的弟子。",
+   "type": "verse"
+  },
+  {
+   "idx": 209,
+   "pali": "‘‘Nisabhassa appameyyassa, gambhīrassa monapattassa;",
+   "zh": "“犹如牛王，无可称量，深邃，成就牟尼行者；",
+   "type": "verse"
+  },
+  {
+   "idx": 210,
+   "pali": "Khemaṅkarassa vedassa, dhammaṭṭhassa saṃvutattassa;",
+   "zh": "安隐作者，有知识者，住法者，善自制者；",
+   "type": "verse"
+  },
+  {
+   "idx": 211,
+   "pali": "Saṅgātigassa muttassa, bhagavato tassa sāvakohamasmi.",
+   "zh": "他已超越系缚，得究竟解脱，正是彼世尊，而我是他的弟子。",
+   "type": "verse"
+  },
+  {
+   "idx": 212,
+   "pali": "‘‘Nāgassa pantasenassa, khīṇasaṃyojanassa muttassa;",
+   "zh": "“他是龙象，住于远离，已断尽结缚，得解脱者；",
+   "type": "verse"
+  },
+  {
+   "idx": 213,
+   "pali": "Paṭimantakassa dhonassa, pannadhajassa vītarāgassa;",
+   "zh": "他是善辩者、清净者，已舍慢幢、离欲者；",
+   "type": "verse"
+  },
+  {
+   "idx": 214,
+   "pali": "Dantassa nippapañcassa, bhagavato tassa sāvakohamasmi.",
+   "zh": "他已调伏，远离戏论，他是世尊，我是他的弟子。",
+   "type": "verse"
+  },
+  {
+   "idx": 215,
+   "pali": "‘‘Isisattamassa akuhassa, tevijjassa brahmapattassa;",
+   "zh": "“第七仙人，心无谄曲，具足三明，已达梵天；",
+   "type": "verse"
+  },
+  {
+   "idx": 216,
+   "pali": "Nhātakassa padakassa, passaddhassa viditavedassa;",
+   "zh": "沐浴清净，通达文义，身心轻安，了知所知；",
+   "type": "verse"
+  },
+  {
+   "idx": 217,
+   "pali": "Purindadassa sakkassa, bhagavato tassa sāvakohamasmi.",
+   "zh": "他是施城者、能天帝释，即是彼世尊，而我是他的弟子。",
+   "type": "verse"
+  },
+  {
+   "idx": 218,
+   "pali": "‘‘Ariyassa bhāvitattassa, pattipattassa veyyākaraṇassa;",
+   "zh": "“圣者、已修习者，已证应证、善于记说者，",
+   "type": "verse"
+  },
+  {
+   "idx": 219,
+   "pali": "Satimato vipassissa, anabhinatassa no apanatassa;",
+   "zh": "具足正念，观慧明彻，不偏向此，不排斥彼，",
+   "type": "verse"
+  },
+  {
+   "idx": 220,
+   "pali": "Anejassa vasippattassa, bhagavato tassa sāvakohamasmi .",
+   "zh": "无有动摇，已达自在——彼即世尊，我是他的弟子。",
+   "type": "verse"
+  },
+  {
+   "idx": 221,
+   "pali": "‘‘Samuggatassa jhāyissa, ananugatantarassa suddhassa;",
+   "zh": "“他已超越，修习禅那，内心无有随逐，清净无染；",
+   "type": "verse"
+  },
+  {
+   "idx": 222,
+   "pali": "Asitassa hitassa , pavivittassa aggappattassa;",
+   "zh": "无所依着，饶益世间，独居远离，已达最上；",
+   "type": "verse"
+  },
+  {
+   "idx": 223,
+   "pali": "Tiṇṇassa tārayantassa, bhagavato tassa sāvakohamasmi.",
+   "zh": "他已渡至彼岸，亦令他人得渡——我是彼世尊的弟子。",
+   "type": "verse"
+  },
+  {
+   "idx": 224,
+   "pali": "‘‘Santassa bhūripaññassa, mahāpaññassa vītalobhassa;",
+   "zh": "“他是寂静者、广慧者、大慧者、离贪者；",
+   "type": "verse"
+  },
+  {
+   "idx": 225,
+   "pali": "Tathāgatassa sugatassa, appaṭipuggalassa asamassa;",
+   "zh": "是如来、善逝、无可匹敌者、无等者；",
+   "type": "verse"
+  },
+  {
+   "idx": 226,
+   "pali": "Visāradassa nipuṇassa, bhagavato tassa sāvakohamasmi.",
+   "zh": "那位无畏、精微的世尊，我是他的弟子；",
+   "type": "verse"
+  },
+  {
+   "idx": 227,
+   "pali": "‘‘Taṇhacchidassa buddhassa, vītadhūmassa anupalittassa;",
+   "zh": "“他已断尽渴爱，是觉醒者，远离烟雾，无有染污；",
+   "type": "verse"
+  },
+  {
+   "idx": 228,
+   "pali": "Āhuneyyassa yakkhassa, uttamapuggalassa atulassa;",
+   "zh": "他是应受供养的圣者，至高无上、不可估量的人中最胜者；",
+   "type": "verse"
+  },
+  {
+   "idx": 229,
+   "pali": "Mahato yasaggapattassa, bhagavato tassa sāvakohamasmī’’ti.",
+   "zh": "我是那位成就广大声誉、达到荣耀顶峰的世尊——佛陀的弟子。”",
+   "type": "verse"
+  },
+  {
+   "idx": 230,
+   "pali": "‘‘Kadā saññūḷhā pana te, gahapati, ime samaṇassa gotamassa vaṇṇā’’ti? ‘‘Seyyathāpi, bhante, nānāpupphānaṃ mahāpuppharāsi , tamenaṃ dakkho mālākāro vā mālākārantevāsī vā vicittaṃ mālaṃ gantheyya; evameva kho, bhante, so bhagavā anekavaṇṇo anekasatavaṇṇo. Ko hi, bhante, vaṇṇārahassa vaṇṇaṃ na karissatī’’ti? Atha kho nigaṇṭhassa nāṭaputtassa bhagavato sakkāraṃ asahamānassa tattheva uṇhaṃ lohitaṃ mukhato uggacchīti .",
+   "zh": "“居士，你是在什么时候，汇整出这些对沙门[[gotama|乔达摩]]的赞辞的呢？”“尊者，这就好比有一大堆各种各样的花朵，然后一位灵巧的花匠，或花匠的学徒，将它们编织成一只绚丽的花环；同样的，尊者，彼世尊具备种种功德、数百种功德。尊者，对于值得赞美的人，有谁会不去赞美呢？”当时，尼干陀[[nāṭaputta|若提子]]不能忍受世尊受到的这般尊敬，就在原地，当场口吐鲜血。",
+   "n": "77",
+   "type": "verse"
+  },
+  {
+   "idx": 232,
+   "pali": "Upālisuttaṃ niṭṭhitaṃ chaṭṭhaṃ.",
+   "zh": "优波离经第六经终",
+   "type": "colophon"
+  }
+ ]
+}

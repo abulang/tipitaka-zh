@@ -1,0 +1,539 @@
+{
+ "uid": 42,
+ "title": "3. 补特伽罗品",
+ "nik": "AN",
+ "segs": [
+  {
+   "idx": 0,
+   "pali": "3. Puggalavaggo",
+   "zh": "3. 补特伽罗品"
+  },
+  {
+   "idx": 1,
+   "pali": "1. Samiddhasuttaṃ",
+   "zh": "1. [[samiddhasutta|三弥提经]]"
+  },
+  {
+   "idx": 2,
+   "pali": "Evaṃ me sutaṃ – ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Atha kho āyasmā ca samiddho āyasmā ca mahākoṭṭhiko yenāyasmā sāriputto tenupasaṅkamiṃsu; upasaṅkamitvā āyasmatā sāriputtena saddhiṃ sammodiṃsu. Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdiṃsu. Ekamantaṃ nisinnaṃ kho āyasmantaṃ samiddhaṃ āyasmā sāriputto etadavoca –",
+   "zh": "如是我闻：一时，世尊住在[[sāvatthī|舍卫城]]祇树[[Anāthapiṇḍika|给孤独]]园。那时，具寿三弥提与具寿[[mahākoṭṭhika|大拘絺罗]]一同前往具寿舍利弗处。到了之后，与具寿舍利弗互相问候，共相致意，彼此交换了亲切、值得忆念的交谈，而后退坐一边。坐定后，具寿舍利弗对具寿三弥提这样说：",
+   "n": "21"
+  },
+  {
+   "idx": 3,
+   "pali": "‘‘Tayome, āvuso samiddha, puggalā santo saṃvijjamānā lokasmiṃ. Katame tayo? Kāyasakkhī, diṭṭhippatto , saddhāvimutto. Ime kho, āvuso, tayo puggalā santo saṃvijjamānā lokasmiṃ. Imesaṃ, āvuso, tiṇṇaṃ puggalānaṃ katamo te puggalo khamati abhikkantataro ca paṇītataro cā’’ti?",
+   "zh": "“贤友三弥提，这三类人出现于世间，存在于这世间。哪三类？身证者、见至者、信解脱者。贤友，这三类人出现于世间，存在于这世间。贤友，在这三类人之中，你觉得哪一种人更为殊胜、更为优越呢？”"
+  },
+  {
+   "idx": 4,
+   "pali": "‘‘Tayome, āvuso sāriputta, puggalā santo saṃvijjamānā lokasmiṃ. Katame tayo? Kāyasakkhī, diṭṭhippatto, saddhāvimutto. Ime kho, āvuso, tayo puggalā santo saṃvijjamānā lokasmiṃ. Imesaṃ, āvuso, tiṇṇaṃ puggalānaṃ yvāyaṃ puggalo saddhāvimutto, ayaṃ me puggalo khamati imesaṃ tiṇṇaṃ puggalānaṃ abhikkantataro ca paṇītataro ca. Taṃ kissa hetu? Imassa, āvuso, puggalassa saddhindriyaṃ adhimatta’’nti.",
+   "zh": "“贤友[[Sāriputta|舍利弗]]，这三类人出现于世间，存在于这世间。哪三类？身证者、见至者、信解脱者。贤友，这三类人出现于世间，存在于这世间。贤友，在这三类人中，凡是信解脱者，便是我于此三类人中，视为更为殊胜、更为优越的人。那是什么缘故呢？贤友，因为此人的信根最为殊胜。”"
+  },
+  {
+   "idx": 5,
+   "pali": "Atha kho āyasmā sāriputto āyasmantaṃ mahākoṭṭhikaṃ etadavoca – ‘‘tayome, āvuso koṭṭhika, puggalā santo saṃvijjamānā lokasmiṃ . Katame tayo? Kāyasakkhī, diṭṭhippatto, saddhāvimutto. Ime kho, āvuso, tayo puggalā santo saṃvijjamānā lokasmiṃ. Imesaṃ , āvuso, tiṇṇaṃ puggalānaṃ katamo te puggalo khamati abhikkantataro ca paṇītataro cā’’ti?",
+   "zh": "那时，具寿[[Sāriputta|舍利弗]]对具寿[[mahākoṭṭhika|大拘絺罗]]说：“贤友[[koṭṭhika|拘絺罗]]，有三类人出现于世间，存在于这世间。哪三类？身证者、见至者、信解脱者。贤友，这三类人出现于世间，存在于这世间。贤友，在这三类人之中，你觉得哪一种人更为殊胜、更为优越呢？”"
+  },
+  {
+   "idx": 6,
+   "pali": "‘‘Tayome , āvuso sāriputta, puggalā santo saṃvijjamānā lokasmiṃ. Katame tayo? Kāyasakkhī, diṭṭhippatto, saddhāvimutto. Ime kho, āvuso, tayo puggalā santo saṃvijjamānā lokasmiṃ. Imesaṃ, āvuso, tiṇṇaṃ puggalānaṃ yvāyaṃ puggalo kāyasakkhī, ayaṃ me puggalo khamati imesaṃ tiṇṇaṃ puggalānaṃ abhikkantataro ca paṇītataro ca. Taṃ kissa hetu? Imassa, āvuso, puggalassa samādhindriyaṃ adhimatta’’nti.",
+   "zh": "“贤友[[Sāriputta|舍利弗]]，世间有三种补特伽罗存在，可以见到。哪三种？身证者、见至者、信解脱者。贤友，这三种补特伽罗确存于世间，可以见到。贤友，在这三种补特伽罗中，凡这位身证者，我认为在这三种补特伽罗中，这位补特伽罗更为殊胜、更为优越。那是什么缘故呢？贤友，因为此人的定根最为殊胜。”"
+  },
+  {
+   "idx": 7,
+   "pali": "Atha kho āyasmā mahākoṭṭhiko āyasmantaṃ sāriputtaṃ etadavoca – ‘‘tayome, āvuso sāriputta, puggalā santo saṃvijjamānā lokasmiṃ. Katame tayo? Kāyasakkhī , diṭṭhippatto, saddhāvimutto. Ime kho, āvuso, tayo puggalā santo saṃvijjamānā lokasmiṃ. Imesaṃ, āvuso, tiṇṇaṃ puggalānaṃ katamo te puggalo khamati abhikkantataro ca paṇītataro cā’’ti?",
+   "zh": "那时，尊者[[mahākoṭṭhika|大拘絺罗]]对尊者[[Sāriputta|舍利弗]]说：“贤友[[Sāriputta|舍利弗]]，世间有三种补特伽罗存在，可以见到。哪三种？身证者、见至者、信解脱者。贤友，这三种补特伽罗确存于世间，可以见到。贤友，在这三种补特伽罗中，哪一种补特伽罗你认为是更为殊胜、更为优越的呢？”"
+  },
+  {
+   "idx": 8,
+   "pali": "‘‘Tayome, āvuso koṭṭhika, puggalā santo saṃvijjamānā lokasmiṃ. Katame tayo? Kāyasakkhī, diṭṭhippatto, saddhāvimutto. Ime kho, āvuso, tayo puggalā santo saṃvijjamānā lokasmiṃ. Imesaṃ, āvuso, tiṇṇaṃ puggalānaṃ yvāyaṃ puggalo diṭṭhippatto, ayaṃ me puggalo khamati imesaṃ tiṇṇaṃ puggalānaṃ abhikkantataro ca paṇītataro ca. Taṃ kissa hetu? Imassa, āvuso, puggalassa paññindriyaṃ adhimatta’’nti.",
+   "zh": "“贤友[[koṭṭhika|拘絺罗]]，世间有三种补特伽罗存在，可以见到。哪三种？身证者、见至者、信解脱者。贤友，这三种补特伽罗确存于世间，可以见到。贤友，在这三种补特伽罗中，凡这位见至者，我认为在这三种补特伽罗中，这位补特伽罗更为殊胜、更为优越。那是什么缘故呢？贤友，因为此人的慧根最为殊胜。”"
+  },
+  {
+   "idx": 9,
+   "pali": "Atha kho āyasmā sāriputto āyasmantañca samiddhaṃ āyasmantañca mahākoṭṭhikaṃ etadavoca – ‘‘byākataṃ kho, āvuso, amhehi sabbeheva yathāsakaṃ paṭibhānaṃ. Āyāmāvuso, yena bhagavā tenupasaṅkamissāma; upasaṅkamitvā bhagavato etamatthaṃ ārocessāma. Yathā no bhagavā byākarissati tathā naṃ dhāressāmā’’ti. ‘‘Evamāvuso’’ti kho āyasmā ca samiddho āyasmā ca mahākoṭṭhiko āyasmato sāriputtassa paccassosuṃ. Atha kho āyasmā ca sāriputto āyasmā ca samiddho āyasmā ca mahākoṭṭhiko yena bhagavā tenupasaṅkamiṃsu; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdiṃsu. Ekamantaṃ nisinno kho āyasmā sāriputto yāvatako ahosi āyasmatā ca samiddhena āyasmatā ca mahākoṭṭhikena saddhiṃ kathāsallāpo taṃ sabbaṃ bhagavato ārocesi.",
+   "zh": "那时，具寿舍利弗对具寿三弥提和具寿[[mahākoṭṭhika|大拘絺罗]]这样说道：“贤友们，我们每个人都已依各自的辩才作了阐述。贤友们，来吧，我们一同前往世尊处；到了以后，将此事禀告世尊。世尊如何解说，我们便如何受持。”“好的，贤友。”具寿三弥提和具寿[[mahākoṭṭhika|大拘絺罗]]回答具寿舍利弗。于是，具寿舍利弗、具寿三弥提与具寿[[mahākoṭṭhika|大拘絺罗]]便前往世尊处。抵达后，他们礼敬世尊，坐在一旁。坐定之后，具寿舍利弗将他与具寿三弥提、具寿[[mahākoṭṭhika|大拘絺罗]]之间的全部对话禀告了世尊。"
+  },
+  {
+   "idx": 10,
+   "pali": "‘‘Na khvettha, sāriputta, sukaraṃ ekaṃsena byākātuṃ – ‘ayaṃ imesaṃ tiṇṇaṃ puggalānaṃ abhikkantataro ca paṇītataro cā’ti. Ṭhānañhetaṃ, sāriputta, vijjati yvāyaṃ puggalo saddhāvimutto svāssa arahattāya paṭipanno, yvāyaṃ puggalo kāyasakkhī svāssa sakadāgāmī vā anāgāmī vā, yo cāyaṃ puggalo diṭṭhippatto sopassa sakadāgāmī vā anāgāmī vā.",
+   "zh": "“[[Sāriputta|舍利弗]]，在这件事上，并不容易下一个绝对的判断：‘这三种人之中，此人更为殊胜、更为优越。’[[Sāriputta|舍利弗]]，这是可能的：这位信解脱者，正为证得阿拉汉果而修行；这位身证者，是一来者或不来者；而这位见至者，也是一来者或不来者。”"
+  },
+  {
+   "idx": 11,
+   "pali": "‘‘Na khvettha, sāriputta, sukaraṃ ekaṃsena byākātuṃ – ‘ayaṃ imesaṃ tiṇṇaṃ puggalānaṃ abhikkantataro ca paṇītataro cā’ti. Ṭhānañhetaṃ, sāriputta, vijjati yvāyaṃ puggalo kāyasakkhī svāssa arahattāya paṭipanno, yvāyaṃ puggalo saddhāvimutto svāssa sakadāgāmī vā anāgāmī vā, yo cāyaṃ puggalo diṭṭhippatto sopassa sakadāgāmī vā anāgāmī vā.",
+   "zh": "“[[Sāriputta|舍利弗]]，在这件事上，并不容易下一个绝对的判断：‘这三种人之中，此人更为殊胜、更为优越。’[[Sāriputta|舍利弗]]，这是可能的：这位身证者，正为证得阿拉汉果而修行；这位信解脱者，是一来者或不来者；而这位见至者，也是一来者或不来者。”"
+  },
+  {
+   "idx": 12,
+   "pali": "‘‘Na khvettha, sāriputta, sukaraṃ ekaṃsena byākātuṃ – ‘ayaṃ imesaṃ tiṇṇaṃ puggalānaṃ abhikkantataro ca paṇītataro cā’ti. Ṭhānañhetaṃ, sāriputta, vijjati yvāyaṃ puggalo diṭṭhippatto svāssa arahattāya paṭipanno, yvāyaṃ puggalo saddhāvimutto svāssa sakadāgāmī vā anāgāmī vā, yo cāyaṃ puggalo kāyasakkhī sopassa sakadāgāmī vā anāgāmī vā.",
+   "zh": "“[[Sāriputta|舍利弗]]，此处难以径直断言：‘此人比这三种人更殊胜、更优越。’[[Sāriputta|舍利弗]]，这确有可能：见至者正行道于阿拉汉果；信解脱者是一来者或不来者；身证者是一来者或不来者。”"
+  },
+  {
+   "idx": 13,
+   "pali": "‘‘Na khvettha, sāriputta, sukaraṃ ekaṃsena byākātuṃ – ‘ayaṃ imesaṃ tiṇṇaṃ puggalānaṃ abhikkantataro ca paṇītataro cā’’’ti. Paṭhamaṃ.",
+   "zh": "“[[Sāriputta|舍利弗]]，此处难以径直断言：‘此人比这三种人更殊胜、更优越。’”第一经。"
+  },
+  {
+   "idx": 14,
+   "pali": "2. Gilānasuttaṃ",
+   "zh": "2. [[gilānasutta|病经]]"
+  },
+  {
+   "idx": 15,
+   "pali": "‘‘Tayome, bhikkhave, gilānā santo saṃvijjamānā lokasmiṃ. Katame tayo? Idha, bhikkhave, ekacco gilāno labhanto vā sappāyāni bhojanāni alabhanto vā sappāyāni bhojanāni, labhanto vā sappāyāni bhesajjāni alabhanto vā sappāyāni bhesajjāni, labhanto vā patirūpaṃ upaṭṭhākaṃ alabhanto vā patirūpaṃ upaṭṭhākaṃ neva vuṭṭhāti tamhā ābādhā.",
+   "zh": "“比丘们，世间有三种病人。哪三种？比丘们，有一种病人，无论得遇合宜的饮食，还是不得遇合宜的饮食；无论得遇合宜的医药，还是不得遇合宜的医药；无论得遇合适的看护者，还是不得遇合适的看护者，他的病都不会痊愈。",
+   "n": "22"
+  },
+  {
+   "idx": 16,
+   "pali": "‘‘Idha pana, bhikkhave, ekacco gilāno labhanto vā sappāyāni bhojanāni alabhanto vā sappāyāni bhojanāni, labhanto vā sappāyāni bhesajjāni alabhanto vā sappāyāni bhesajjāni , labhanto vā patirūpaṃ upaṭṭhākaṃ alabhanto vā patirūpaṃ upaṭṭhākaṃ vuṭṭhāti tamhā ābādhā.",
+   "zh": "“又，比丘们，有一种病人，无论得遇合宜的饮食，还是不得遇合宜的饮食；无论得遇合宜的医药，还是不得遇合宜的医药；无论得遇合适的看护者，还是不得遇合适的看护者，他都能从那病中痊愈。"
+  },
+  {
+   "idx": 17,
+   "pali": "‘‘Idha pana, bhikkhave, ekacco gilāno labhantova sappāyāni bhojanāni no alabhanto, labhantova sappāyāni bhesajjāni no alabhanto, labhantova patirūpaṃ upaṭṭhākaṃ no alabhanto vuṭṭhāti tamhā ābādhā.",
+   "zh": "“又，比丘们，有一种病人，须得遇合宜的饮食，方能从那病中痊愈，得不到便不能；须得遇合宜的医药，方能从那病中痊愈，得不到便不能；须得遇合适的看护者，方能从那病中痊愈，得不到便不能。"
+  },
+  {
+   "idx": 18,
+   "pali": "‘‘Tatra, bhikkhave, yvāyaṃ gilāno labhantova sappāyāni bhojanāni no alabhanto, labhantova sappāyāni bhesajjāni no alabhanto, labhantova patirūpaṃ upaṭṭhākaṃ no alabhanto vuṭṭhāti tamhā ābādhā, imaṃ kho, bhikkhave, gilānaṃ paṭicca gilānabhattaṃ anuññātaṃ gilānabhesajjaṃ anuññātaṃ gilānupaṭṭhāko anuññāto. Imañca pana, bhikkhave, gilānaṃ paṭicca aññepi gilānā upaṭṭhātabbā. Ime kho, bhikkhave, tayo gilānā santo saṃvijjamānā lokasmiṃ.",
+   "zh": "“诸比丘，在此，那位病人：若得适宜的食物，便能痊愈，不得则否；若得适宜的药物，便能痊愈，不得则否；若得合适的看护者，便能痊愈，不得则否——他由此疾病痊愈。诸比丘，正因为这位病人，才开许了病人食、病人药与病人看护者。然而，诸比丘，也正因为这位病人，其他的病人同样应得到看护。诸比丘，这便是存在于世间、显现于世间中的三种病人。”"
+  },
+  {
+   "idx": 19,
+   "pali": "‘‘Evamevaṃ kho, bhikkhave, tayome gilānūpamā puggalā santo saṃvijjamānā lokasmiṃ. Katame tayo? Idha, bhikkhave, ekacco puggalo labhanto vā tathāgataṃ dassanāya alabhanto vā tathāgataṃ dassanāya, labhanto vā tathāgatappaveditaṃ dhammavinayaṃ savanāya alabhanto vā tathāgatappaveditaṃ dhammavinayaṃ savanāya neva okkamati niyāmaṃ kusalesu dhammesu sammattaṃ.",
+   "zh": "“正如这样，诸比丘，这三种以病人为譬喻的人，存在于世间、出现于世间。哪三种呢？诸比丘，有一类人，无论得见如来与否，无论得闻如来所宣说的法与律与否，于善法中皆不趣入决定的正性。",
+   "type": "verse"
+  },
+  {
+   "idx": 20,
+   "pali": "‘‘Idha, pana, bhikkhave, ekacco puggalo labhanto vā tathāgataṃ dassanāya alabhanto vā tathāgataṃ dassanāya, labhanto vā tathāgatappaveditaṃ dhammavinayaṃ savanāya alabhanto vā tathāgatappaveditaṃ dhammavinayaṃ savanāya okkamati niyāmaṃ kusalesu dhammesu sammattaṃ.",
+   "zh": "“然而，诸比丘，有一类人，无论得见如来与否，无论得闻如来所宣说的法与律与否，于善法中皆趣入决定的正性。",
+   "type": "text"
+  },
+  {
+   "idx": 21,
+   "pali": "‘‘Idha pana, bhikkhave, ekacco puggalo labhantova tathāgataṃ dassanāya no alabhanto, labhantova tathāgatappaveditaṃ dhammavinayaṃ savanāya no alabhanto okkamati niyāmaṃ kusalesu dhammesu sammattaṃ.",
+   "zh": "“诸比丘！然而，有一种人，唯有得见如来，而非不得见；唯有得闻如来所宣说的法与律，而非不得闻，方能趣入善法中的决定正性。",
+   "type": "verse"
+  },
+  {
+   "idx": 22,
+   "pali": "‘‘Tatra , bhikkhave, yvāyaṃ puggalo labhantova tathāgataṃ dassanāya no alabhanto, labhantova tathāgatappaveditaṃ dhammavinayaṃ savanāya no alabhanto okkamati niyāmaṃ kusalesu dhammesu sammattaṃ, imaṃ kho bhikkhave, puggalaṃ paṭicca dhammadesanā anuññātā. Imañca pana, bhikkhave, puggalaṃ paṭicca aññesampi dhammo desetabbo. ‘‘Ime kho, bhikkhave, tayo gilānūpamā puggalā santo saṃvijjamānā lokasmi’’nti. Dutiyaṃ.",
+   "zh": "“诸比丘！若有一种人，唯有得见如来，而非不得见；唯有得闻如来所宣说的法与律，而非不得闻，方能趣入善法中的决定正性——诸比丘！正是缘于此人，说法才被允许。诸比丘！而且缘于此人，也应当为他人说法。诸比丘！世间有这三种如病人譬喻的人，可得而见。”第二经。",
+   "type": "verse"
+  },
+  {
+   "idx": 23,
+   "pali": "3. Saṅkhārasuttaṃ",
+   "zh": "3. [[saṅkhārasutta|诸行经]]"
+  },
+  {
+   "idx": 24,
+   "pali": "‘‘Tayome, bhikkhave, puggalā santo saṃvijjamānā lokasmiṃ. Katame tayo? Idha, bhikkhave, ekacco puggalo sabyābajjhaṃ kāyasaṅkhāraṃ abhisaṅkharoti, sabyābajjhaṃ vacīsaṅkhāraṃ abhisaṅkharoti, sabyābajjhaṃ manosaṅkhāraṃ abhisaṅkharoti. So sabyābajjhaṃ kāyasaṅkhāraṃ abhisaṅkharitvā, sabyābajjhaṃ vacīsaṅkhāraṃ abhisaṅkharitvā, sabyābajjhaṃ manosaṅkhāraṃ abhisaṅkharitvā sabyābajjhaṃ lokaṃ upapajjati. Tamenaṃ sabyābajjhaṃ lokaṃ upapannaṃ samānaṃ sabyābajjhā phassā phusanti. So sabyābajjhehi phassehi phuṭṭho samāno sabyābajjhaṃ vedanaṃ vedayati ekantadukkhaṃ, seyyathāpi sattā nerayikā.",
+   "zh": "“诸比丘，世间有三种人，真实存在、可得见。哪三种？诸比丘，有一类人，造作有伤害的身行，造作有伤害的语行，造作有伤害的意行。他造作了有伤害的身行、有伤害的语行、有伤害的意行之后，便投生于有伤害的世间。投生到有伤害的世间时，有伤害的种种触触击他。他被有伤害的触所触时，便领受有伤害的感受，纯一之苦，如同地狱的众生。",
+   "n": "23"
+  },
+  {
+   "idx": 25,
+   "pali": "‘‘Idha pana, bhikkhave, ekacco puggalo abyābajjhaṃ kāyasaṅkhāraṃ abhisaṅkharoti, abyābajjhaṃ vacīsaṅkhāraṃ abhisaṅkharoti, abyābajjhaṃ manosaṅkhāraṃ abhisaṅkharoti. So abyābajjhaṃ kāyasaṅkhāraṃ abhisaṅkharitvā, abyābajjhaṃ vacīsaṅkhāraṃ abhisaṅkharitvā, abyābajjhaṃ manosaṅkhāraṃ abhisaṅkharitvā abyābajjhaṃ lokaṃ upapajjati. Tamenaṃ abyābajjhaṃ lokaṃ upapannaṃ samānaṃ abyābajjhā phassā phusanti. So abyābajjhehi phassehi phuṭṭho samāno abyābajjhaṃ vedanaṃ vedayati ekantasukhaṃ, seyyathāpi devā subhakiṇhā.",
+   "zh": "“诸比丘，又有一类人，造作无伤害的身行，造作无伤害的语行，造作无伤害的意行。他造作了无伤害的身行、无伤害的语行、无伤害的意行之后，便投生于无伤害的世间。投生到无伤害的世间时，无伤害的种种触触击他。他被无伤害的触所触时，便领受无伤害的感受，纯一之乐，如同遍净天的天众。"
+  },
+  {
+   "idx": 26,
+   "pali": "‘‘Idha pana, bhikkhave, ekacco puggalo sabyābajjhampi abyābajjhampi kāyasaṅkhāraṃ abhisaṅkharoti, sabyābajjhampi abyābajjhampi vacīsaṅkhāraṃ abhisaṅkharoti, sabyābajjhampi abyābajjhampi manosaṅkhāraṃ abhisaṅkharoti. So sabyābajjhampi abyābajjhampi kāyasaṅkhāraṃ abhisaṅkharitvā, sabyābajjhampi abyābajjhampi vacīsaṅkhāraṃ abhisaṅkharitvā, sabyābajjhampi abyābajjhampi manosaṅkhāraṃ abhisaṅkharitvā sabyābajjhampi abyābajjhampi lokaṃ upapajjati. Tamenaṃ sabyābajjhampi abyābajjhampi lokaṃ upapannaṃ samānaṃ sabyābajjhāpi abyābajjhāpi phassā phusanti. So sabyābajjhehipi abyābajjhehipi phassehi phuṭṭho samāno sabyābajjhampi abyābajjhampi vedanaṃ vedayati vokiṇṇasukhadukkhaṃ, seyyathāpi manussā ekacce ca devā ekacce ca vinipātikā. Ime kho, bhikkhave, tayo puggalā santo saṃvijjamānā lokasmi’’nti. Tatiyaṃ.",
+   "zh": "“诸比丘，还有一类人，造作既有伤害又无伤害的身行，造作既有伤害又无伤害的语行，造作既有伤害又无伤害的意行。他造作了既有伤害又无伤害的身行、既有伤害又无伤害的语行、既有伤害又无伤害的意行之后，便投生于既有伤害又无伤害的世间。投生到既有伤害又无伤害的世间时，既有伤害又无伤害的种种触触击他。他被既有伤害又无伤害的触所触时，便领受既有伤害又无伤害的感受，乐与苦相杂，正如某些人、某些天，以及某些堕恶趣者。诸比丘，世间有这三种人，真实存在、可得见。第三经。"
+  },
+  {
+   "idx": 27,
+   "pali": "4. Bahukārasuttaṃ",
+   "zh": "4. [[bahukārasutta|多作经]]"
+  },
+  {
+   "idx": 28,
+   "pali": "‘‘Tayome , bhikkhave, puggalā puggalassa bahukārā. Katame tayo? Yaṃ, bhikkhave, puggalaṃ āgamma puggalo buddhaṃ saraṇaṃ gato hoti, dhammaṃ saraṇaṃ gato hoti, saṅghaṃ saraṇaṃ gato hoti; ayaṃ, bhikkhave, puggalo imassa puggalassa bahukāro.",
+   "zh": "“比丘们，有这三种补特伽罗，对补特伽罗大有助益。哪三种呢？比丘们，依止某位补特伽罗，而使得另一位补特伽罗皈依佛、皈依法、皈依僧——比丘们，这第一位补特伽罗，对这第二位补特伽罗大有助益。",
+   "n": "24"
+  },
+  {
+   "idx": 29,
+   "pali": "‘‘Puna caparaṃ, bhikkhave, yaṃ puggalaṃ āgamma puggalo ‘idaṃ dukkha’nti yathābhūtaṃ pajānāti, ‘ayaṃ dukkhasamudayo’ti yathābhūtaṃ pajānāti, ‘ayaṃ dukkhanirodho’ti yathābhūtaṃ pajānāti, ‘ayaṃ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṃ pajānāti; ayaṃ, bhikkhave, puggalo imassa puggalassa bahukāro.",
+   "zh": "“再者，比丘们，依止某位补特伽罗，而使得另一位补特伽罗如实地了知‘这是苦’，如实地了知‘这是苦的集起’，如实地了知‘这是苦的息灭’，如实地了知‘这是导向苦灭之道’——比丘们，这第一位补特伽罗，对这第二位补特伽罗大有助益。”"
+  },
+  {
+   "idx": 30,
+   "pali": "‘‘Puna caparaṃ, bhikkhave, yaṃ puggalaṃ āgamma puggalo āsavānaṃ khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharati; ayaṃ, bhikkhave, puggalo imassa puggalassa bahukāro. Ime kho, bhikkhave, tayo puggalā puggalassa bahukārā.",
+   "zh": "“再者，比丘们，依止于某个人，另一个人便能诸漏灭尽，于现法中以自己的证智体证无漏心解脱、慧解脱，并具足而住。比丘们，这即是于人有大助益之人。比丘们，这三种人于人有大助益。"
+  },
+  {
+   "idx": 31,
+   "pali": "‘‘Imehi ca pana, bhikkhave, tīhi puggalehi imassa puggalassa natthañño puggalo bahukāroti vadāmi. Imesaṃ pana, bhikkhave, tiṇṇaṃ puggalānaṃ iminā puggalena na suppatikāraṃ vadāmi, yadidaṃ abhivādanapaccuṭṭhānaañjalikammasāmīcikammacīvarapiṇḍapātasenāsana-gilānapaccayabhesajjaparikkhārānuppadānenā’’ti. Catutthaṃ.",
+   "zh": "“比丘们，我尚不说除这三种人之外，还有他人能对此人有更大助益。比丘们，我亦不说此人能以礼敬、起迎、合掌、恭敬之道，或以衣、食、住所、病者所需之病缘药资具的供养，便能充分报答这三种人的恩德。”第四经。"
+  },
+  {
+   "idx": 32,
+   "pali": "5. Vajirūpamasuttaṃ",
+   "zh": "5. [[vajirūpamasutta|金刚喻经]]"
+  },
+  {
+   "idx": 33,
+   "pali": "‘‘Tayome , bhikkhave, puggalā santo saṃvijjamānā lokasmiṃ . Katame tayo? Arukūpamacitto puggalo, vijjūpamacitto puggalo, vajirūpamacitto puggalo. Katamo ca, bhikkhave, arukūpamacitto puggalo? Idha, bhikkhave, ekacco puggalo kodhano hoti upāyāsabahulo appampi vutto samāno abhisajjati kuppati byāpajjati patitthīyati kopañca dosañca appaccayañca pātukaroti. Seyyathāpi, bhikkhave, duṭṭhāruko kaṭṭhena vā kaṭhalāya vā ghaṭṭito bhiyyosomattāya āsavaṃ deti ; evamevaṃ kho, bhikkhave, idhekacco puggalo kodhano hoti upāyāsabahulo appampi vutto samāno abhisajjati kuppati byāpajjati patitthīyati kopañca dosañca appaccayañca pātukaroti. Ayaṃ vuccati, bhikkhave, arukūpamacitto puggalo.",
+   "zh": "“诸比丘，有这三种人存在于世间。哪三种？心如疮之人、心如闪电之人、心如金刚之人。诸比丘，何谓心如疮之人？诸比丘，此处有人暴躁易怒、多有忧恼，稍受指责便恼怒、嗔恚、执拗，显露忿怒、嗔恨与不满。诸比丘，犹如一处恶疮，被木棍或瓦片触及时，便会涌出更多脓液；同样地，诸比丘，此处有人暴躁易怒、多有忧恼，稍受指责便恼怒、嗔恚、执拗，显露忿怒、嗔恨与不满。诸比丘，是名心如疮之人。",
+   "n": "25"
+  },
+  {
+   "idx": 34,
+   "pali": "‘‘Katamo ca, bhikkhave, vijjūpamacitto puggalo? Idha, bhikkhave, ekacco puggalo ‘idaṃ dukkha’nti yathābhūtaṃ pajānāti, ‘ayaṃ dukkhasamudayo’ti yathābhūtaṃ pajānāti, ‘ayaṃ dukkhanirodho’ti yathābhūtaṃ pajānāti, ‘ayaṃ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṃ pajānāti. Seyyathāpi bhikkhave, cakkhumā puriso rattandhakāratimisāyaṃ vijjantarikāya rūpāni passeyya; evamevaṃ kho, bhikkhave, idhekacco puggalo ‘idaṃ dukkha’nti yathābhūtaṃ pajānāti…pe… ‘ayaṃ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṃ pajānāti. Ayaṃ vuccati, bhikkhave, vijjūpamacitto puggalo.",
+   "zh": "“诸比丘，何谓心如闪电之人？诸比丘，此处有人如实地了知：‘这是苦’，如实地了知：‘这是苦的集’，如实地了知：‘这是苦的灭’，如实地了知：‘这是导向苦灭之道’。诸比丘，譬如有眼之人在夜晚的黑暗中，藉由闪电之光看见诸色；同样地，诸比丘，此处有人如实地了知‘这是苦’……如实地了知‘这是导向苦灭之道’。诸比丘，是名心如闪电之人。”"
+  },
+  {
+   "idx": 35,
+   "pali": "‘‘Katamo ca, bhikkhave, vajirūpamacitto puggalo? Idha, bhikkhave, ekacco puggalo āsavānaṃ khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharati. Seyyathāpi, bhikkhave, vajirassa natthi kiñci abhejjaṃ maṇi vā pāsāṇo vā; evamevaṃ kho, bhikkhave, idhekacco puggalo āsavānaṃ khayā…pe… upasampajja viharati. Ayaṃ vuccati, bhikkhave, vajirūpamacitto puggalo. ‘Ime kho, bhikkhave, tayo puggalā santo saṃvijjamānā lokasmi’’’nti . Pañcamaṃ.",
+   "zh": "“诸比丘，何谓心如金刚之人？诸比丘，此处有人以诸漏灭尽，于现法中以证智亲自作证，具足而住于无漏的心解脱、慧解脱。诸比丘，犹如金刚能摧破一切宝石与石块，无有不能摧破者；同样地，诸比丘，此处有人以诸漏灭尽，具足而住于无漏的心解脱、慧解脱。诸比丘，是名心如金刚之人。诸比丘，这三种人即出现于世间。第五经。"
+  },
+  {
+   "idx": 36,
+   "pali": "6. Sevitabbasuttaṃ",
+   "zh": "6. [[sevitabbasutta|应亲近经]]"
+  },
+  {
+   "idx": 37,
+   "pali": "‘‘Tayome , bhikkhave, puggalā santo saṃvijjamānā lokasmiṃ. Katame tayo? Atthi, bhikkhave, puggalo na sevitabbo na bhajitabbo na payirupāsitabbo. Atthi, bhikkhave, puggalo sevitabbo bhajitabbo payirupāsitabbo. Atthi, bhikkhave, puggalo sakkatvā garuṃ katvā sevitabbo bhajitabbo payirupāsitabbo. Katamo ca, bhikkhave, puggalo na sevitabbo na bhajitabbo na payirupāsitabbo? Idha, bhikkhave, ekacco puggalo hīno hoti sīlena samādhinā paññāya. Evarūpo, bhikkhave, puggalo na sevitabbo na bhajitabbo na payirupāsitabbo aññatra anuddayā aññatra anukampā.",
+   "zh": "“诸比丘，世间有这三种人存在、出现。哪三种呢？一种人不可亲近、不可结交、不可侍奉；一种人可亲近、可结交、可侍奉；一种人应当恭敬、尊重之后，再亲近、结交、侍奉。诸比丘，什么样的人不可亲近、不可结交、不可侍奉呢？诸比丘，在此，有人在戒、定、慧方面较为低劣。这样的人，除非出于怜悯与同情，不应亲近、不应结交、不应侍奉。",
+   "n": "26"
+  },
+  {
+   "idx": 38,
+   "pali": "‘‘Katamo ca, bhikkhave, puggalo sevitabbo bhajitabbo payirupāsitabbo? Idha, bhikkhave, ekacco puggalo sadiso hoti sīlena samādhinā paññāya. Evarūpo, bhikkhave, puggalo sevitabbo bhajitabbo payirupāsitabbo. Taṃ kissa hetu? Sīlasāmaññagatānaṃ sataṃ sīlakathā ca no bhavissati, sā ca no pavattinī bhavissati, sā ca no phāsu bhavissati. Samādhisāmaññagatānaṃ sataṃ samādhikathā ca no bhavissati, sā ca no pavattinī bhavissati, sā ca no phāsu bhavissati. Paññāsāmaññagatānaṃ sataṃ paññākathā ca no bhavissati, sā ca no pavattinī bhavissati, sā ca no phāsu bhavissatīti. Tasmā evarūpo puggalo sevitabbo bhajitabbo payirupāsitabbo.",
+   "zh": "“诸比丘，什么样的人应亲近、应结交、应侍奉呢？诸比丘，在此，有人于戒、定、慧方面与自己相等。这样的人应亲近、应结交、应侍奉。这是什么缘故呢？因为戒行相等的人，彼此之间会有关于戒的交谈，那样的交谈得以展开，由此能令我们安乐；定力相等的人，会有关于定的交谈，那样的交谈得以展开，由此能令我们安乐；智慧相等的人，会有关于慧的交谈，那样的交谈得以展开，由此能令我们安乐。因此，这样的人应亲近、应结交、应侍奉。"
+  },
+  {
+   "idx": 39,
+   "pali": "‘‘Katamo ca, bhikkhave, puggalo sakkatvā garuṃ katvā sevitabbo bhajitabbo payirupāsitabbo? Idha, bhikkhave , ekacco puggalo adhiko hoti sīlena samādhinā paññāya. Evarūpo, bhikkhave, puggalo sakkatvā garuṃ katvā sevitabbo bhajitabbo payirupāsitabbo. Taṃ kissa hetu? Iti aparipūraṃ vā sīlakkhandhaṃ paripūressāmi, paripūraṃ vā sīlakkhandhaṃ tattha tattha paññāya anuggahessāmi; aparipūraṃ vā samādhikkhandhaṃ paripūressāmi, paripūraṃ vā samādhikkhandhaṃ tattha tattha paññāya anuggahessāmi; aparipūraṃ vā paññākkhandhaṃ paripūressāmi, paripūraṃ vā paññākkhandhaṃ tattha tattha paññāya anuggahessāmīti. Tasmā evarūpo puggalo sakkatvā garuṃ katvā sevitabbo bhajitabbo payirupāsitabbo. Ime kho, bhikkhave, tayo puggalā santo saṃvijjamānā lokasmi’’nti.",
+   "zh": "“诸比丘，哪一种人，应当恭敬尊重，而后亲近、结交、侍奉呢？诸比丘，在此，有一类人在戒、定、慧上更为殊胜。诸比丘，这样的人应当恭敬尊重，而后亲近、结交、侍奉。那是什么缘故呢？因为：这样，我便能圆满尚未圆满的戒蕴，或以智慧处处守护已圆满的戒蕴；这样，我便能圆满尚未圆满的定蕴，或以智慧处处守护已圆满的定蕴；这样，我便能圆满尚未圆满的慧蕴，或以智慧处处守护已圆满的慧蕴。因此，这样的人应当恭敬尊重，并亲近、结交、侍奉。诸比丘，这三种人存在于世间。”"
+  },
+  {
+   "idx": 40,
+   "pali": "‘‘Nihīyati puriso nihīnasevī,",
+   "zh": "“亲近低劣之人，人便退堕；",
+   "type": "verse"
+  },
+  {
+   "idx": 41,
+   "pali": "Na ca hāyetha kadāci tulyasevī;",
+   "zh": "亲近同等之人，则永不退堕；",
+   "type": "verse"
+  },
+  {
+   "idx": 42,
+   "pali": "Seṭṭhamupanamaṃ udeti khippaṃ,",
+   "zh": "亲近最胜者，便迅速上升。",
+   "type": "verse"
+  },
+  {
+   "idx": 43,
+   "pali": "Tasmā attano uttariṃ bhajethā’’ti. chaṭṭhaṃ;",
+   "zh": "因此，应追随胜于自己者。”第六经",
+   "type": "verse"
+  },
+  {
+   "idx": 44,
+   "pali": "7. Jigucchitabbasuttaṃ",
+   "zh": "7. [[jigucchitabbasutta|应厌离经]]"
+  },
+  {
+   "idx": 45,
+   "pali": "‘‘Tayome , bhikkhave, puggalā santo saṃvijjamānā lokasmiṃ. Katame tayo? Atthi, bhikkhave, puggalo jigucchitabbo na sevitabbo na bhajitabbo na payirupāsitabbo. Atthi, bhikkhave, puggalo ajjhupekkhitabbo na sevitabbo na bhajitabbo na payirupāsitabbo. Atthi, bhikkhave, puggalo sevitabbo bhajitabbo payirupāsitabbo. Katamo ca, bhikkhave, puggalo jigucchitabbo na sevitabbo na bhajitabbo na payirupāsitabbo? Idha , bhikkhave, ekacco puggalo dussīlo hoti pāpadhammo asuci saṅkassarasamācāro paṭicchannakammanto, assamaṇo samaṇapaṭiñño, abrahmacārī brahmacāripaṭiñño, antopūti avassuto kasambujāto. Evarūpo, bhikkhave, puggalo jigucchitabbo na sevitabbo na bhajitabbo na payirupāsitabbo. Taṃ kissa hetu? Kiñcāpi, bhikkhave, evarūpassa puggalassa na diṭṭhānugatiṃ āpajjati, atha kho naṃ pāpako kittisaddo abbhuggacchati – ‘pāpamitto purisapuggalo pāpasahāyo pāpasampavaṅko’ti. Seyyathāpi, bhikkhave, ahi gūthagato kiñcāpi na daṃsati , atha kho naṃ makkheti; evamevaṃ kho, bhikkhave, kiñcāpi evarūpassa puggalassa na diṭṭhānugatiṃ āpajjati, atha kho naṃ pāpako kittisaddo abbhuggacchati – ‘pāpamitto purisapuggalo pāpasahāyo pāpasampavaṅko’ti. Tasmā evarūpo puggalo jigucchitabbo na sevitabbo na bhajitabbo na payirupāsitabbo.",
+   "zh": "“诸比丘，世间有三种人存在、出现。哪三种？诸比丘，有一种人应厌恶，不应亲近、不应结交、不应侍奉。诸比丘，有一种人应舍置，不应亲近、不应结交、不应侍奉。诸比丘，有一种人应亲近、应结交、应侍奉。诸比丘，什么样的人应厌恶，不应亲近、不应结交、不应侍奉？诸比丘，在此，有人破戒、行恶法、不净、行为可疑、行事隐秘，非沙门而自称沙门，非梵行者而自称梵行者，内里腐坏，烦恼外漏，由垢秽所生。诸比丘，对于这样的人应厌恶，不应亲近、不应结交、不应侍奉。这是什么原因？诸比丘，即使并未随学此人的见解，恶名声仍会流传：‘这是恶友之人、恶伴、恶同侣。’诸比丘，犹如蛇钻入粪堆，虽未咬人，也弄得污秽不净；同样地，诸比丘，即使并未随学此人的见解，恶名声仍会流传：‘这是恶友之人、恶伴、恶同侣。’因此，对于这样的人应厌恶，不应亲近、不应结交、不应侍奉。”",
+   "n": "27"
+  },
+  {
+   "idx": 46,
+   "pali": "‘‘Katamo ca, bhikkhave, puggalo ajjhupekkhitabbo na sevitabbo na bhajitabbo na payirupāsitabbo? Idha, bhikkhave, ekacco puggalo kodhano hoti upāyāsabahulo , appampi vutto samāno abhisajjati kuppati byāpajjati patitthīyati, kopañca dosañca appaccayañca pātukaroti. Seyyathāpi, bhikkhave, duṭṭhāruko kaṭṭhena vā kaṭhalāya vā ghaṭṭito bhiyyosomattāya āsavaṃ deti; evamevaṃ kho, bhikkhave…pe… seyyathāpi, bhikkhave, tindukālātaṃ kaṭṭhena vā kaṭhalāya vā ghaṭṭitaṃ bhiyyosomattāya cicciṭāyati ciṭiciṭāyati; evamevaṃ kho bhikkhave…pe… seyyathāpi, bhikkhave, gūthakūpo kaṭṭhena vā kaṭhalāya vā ghaṭṭito bhiyyosomattāya duggandho hoti; evamevaṃ kho, bhikkhave, idhekacco puggalo kodhano hoti upāyāsabahulo, appampi vutto samāno abhisajjati kuppati byāpajjati patitthīyati, kopañca dosañca appaccayañca pātukaroti. Evarūpo, bhikkhave, puggalo ajjhupekkhitabbo na sevitabbo na bhajitabbo na payirupāsitabbo. Taṃ kissa hetu? Akkoseyyapi maṃ paribhāseyyapi maṃ anatthampi maṃ kareyyāti. Tasmā evarūpo puggalo ajjhupekkhitabbo na sevitabbo na bhajitabbo na payirupāsitabbo.",
+   "zh": "“诸比丘，什么样的人应舍置，不应亲近、不应结交、不应侍奉？诸比丘，在此，有一类人易怒、多恼害，即使稍被提醒，也会恼怒、气愤、怨恨、固执，显露出忿怒、嗔恨与不满。诸比丘，譬如恶疮，被木棍或瓦片触碰，便更增流脓；同样地，诸比丘……诸比丘，譬如丁杜迦火把，被木棍或瓦片触碰，便更增噼啪作响；同样地，诸比丘……诸比丘，譬如粪坑，被木棍或瓦片触碰，便更增恶臭；同样地，诸比丘，在此有一类人易怒、多恼害，即使稍被提醒，也会恼怒、气愤、怨恨、固执，显露出忿怒、嗔恨与不满。诸比丘，对于这样的人应舍置，不应亲近、不应结交、不应侍奉。这是什么原因？他可能会辱骂我、诽谤我、对我不利。因此，对于这样的人应舍置，不应亲近、不应结交、不应侍奉。"
+  },
+  {
+   "idx": 47,
+   "pali": "‘‘Katamo ca, bhikkhave, puggalo sevitabbo bhajitabbo payirupāsitabbo? Idha, bhikkhave, ekacco puggalo sīlavā hoti kalyāṇadhammo. Evarūpo, bhikkhave, puggalo sevitabbo bhajitabbo payirupāsitabbo. Taṃ kissa hetu? Kiñcāpi, bhikkhave, evarūpassa puggalassa na diṭṭhānugatiṃ āpajjati, atha kho naṃ kalyāṇo kittisaddo abbhuggacchati – ‘kalyāṇamitto purisapuggalo kalyāṇasahāyo kalyāṇasampavaṅko’ti. Tasmā evarūpo puggalo sevitabbo bhajitabbo payirupāsitabbo. ‘Ime kho, bhikkhave, tayo puggalā santo saṃvijjamānā lokasmi’’’nti.",
+   "zh": "“诸比丘，什么样的人应亲近、应结交、应侍奉？诸比丘，在此，有一类人具戒、具足善法。诸比丘，对于这样的人应亲近、应结交、应侍奉。这是什么原因？诸比丘，即使并未随学此人的见解，善名声也会流传：‘这是善友之人、善伴、善同侣。’因此，对于这样的人应亲近、应结交、应侍奉。诸比丘，这就是世间存在、出现的三种人。”"
+  },
+  {
+   "idx": 48,
+   "pali": "‘‘Nihīyati puriso nihīnasevī,",
+   "zh": "“亲近卑劣者，人便退堕；",
+   "type": "verse"
+  },
+  {
+   "idx": 49,
+   "pali": "Na ca hāyetha kadāci tulyasevī;",
+   "zh": "亲近同等之人，则永不退堕；",
+   "type": "verse"
+  },
+  {
+   "idx": 50,
+   "pali": "Seṭṭhamupanamaṃ udeti khippaṃ,",
+   "zh": "亲近最胜者，迅速升进。",
+   "type": "verse"
+  },
+  {
+   "idx": 51,
+   "pali": "Tasmā attano uttariṃ bhajethā’’ti. sattamaṃ;",
+   "zh": "因此，应当亲近胜过自己的人。”第七经。",
+   "type": "verse"
+  },
+  {
+   "idx": 52,
+   "pali": "8. Gūthabhāṇīsuttaṃ",
+   "zh": "8. [[gūthabhāṇīsutta|粪秽语者经]]"
+  },
+  {
+   "idx": 53,
+   "pali": "‘‘Tayome, bhikkhave, puggalā santo saṃvijjamānā lokasmiṃ . Katame tayo? Gūthabhāṇī, pupphabhāṇī, madhubhāṇī. Katamo ca, bhikkhave, puggalo gūthabhāṇī? Idha, bhikkhave, ekacco puggalo sabhaggato vā parisaggato vā ñātimajjhagato vā pūgamajjhagato vā rājakulamajjhagato vā abhinīto sakkhipuṭṭho – ‘ehambho purisa, yaṃ jānāsi taṃ vadehī’ti. So ajānaṃ vā āha ‘jānāmī’ti, jānaṃ vā āha ‘na jānāmī’ti, apassaṃ vā āha ‘passāmī’ti, passaṃ vā āha ‘na passāmī’ti ; iti attahetu vā parahetu vā āmisakiñcikkhahetu vā sampajānamusā bhāsitā hoti. Ayaṃ vuccati, bhikkhave, puggalo gūthabhāṇī.",
+   "zh": "“诸比丘！世间有三种人存在、出现于世间。哪三种？粪秽语者、花语者、蜜语者。诸比丘！谁是粪秽语者？比丘们，在此，有人被带到集会中、众人中、亲族中、团体中或王族中，被传为证人，受询问：‘喂，来，说你所知。’他不知，却说‘我知道’；知，却说‘我不知道’；没看见，却说‘我看见’；看见了，却说‘我没看见’。像这样，他为了自己的原因，或他人的原因，或为了些许利养，明知而说妄语。诸比丘！即名为粪秽语者。",
+   "n": "28"
+  },
+  {
+   "idx": 54,
+   "pali": "‘‘Katamo ca, bhikkhave, puggalo pupphabhāṇī? Idha, bhikkhave, ekacco puggalo sabhaggato vā parisaggato vā ñātimajjhagato vā pūgamajjhagato vā rājakulamajjhagato vā abhinīto sakkhipuṭṭho – ‘ehambho purisa, yaṃ pajānāsi taṃ vadehī’ti, so ajānaṃ vā āha ‘na jānāmī’ti, jānaṃ vā āha ‘jānāmī’ti, apassaṃ vā āha ‘na passāmī’ti, passaṃ vā āha ‘passāmī’ti; iti attahetu vā parahetu vā āmisakiñcikkhahetu vā na sampajānamusā bhāsitā hoti. Ayaṃ vuccati, bhikkhave, puggalo pupphabhāṇī.",
+   "zh": "“诸比丘！何为花语者？诸比丘！在此，有人来到集会中，或到众人中，或到亲族中，或到团体中，或到王族中，被带去作证人，受到询问：‘来，你这个人，你知什么，便说什么。’他若不知，便说‘我不知’；若知，便说‘我知’；若未见，便说‘我未见’；若见，便说‘我见’。如此，他不为自己、不为他人，也不为些许利养而故意说妄语。诸比丘！此人便称为花语者。”"
+  },
+  {
+   "idx": 55,
+   "pali": "‘‘Katamo ca, bhikkhave, puggalo madhubhāṇī? Idha, bhikkhave, ekacco puggalo pharusaṃ vācaṃ pahāya pharusāya vācāya paṭivirato hoti; yā sā vācā nelā kaṇṇasukhā pemanīyā hadayaṅgamā porī bahujanakantā bahujanamanāpā tathārūpiṃ vācaṃ bhāsitā hoti. Ayaṃ vuccati, bhikkhave, puggalo madhubhāṇī. Ime kho, bhikkhave, tayo puggalā santo saṃvijjamānā lokasmi’’nti. Aṭṭhamaṃ.",
+   "zh": "“诸比丘！何为蜜语者？诸比丘！在此，有人舍断粗恶语，远离粗恶语。他所说的语言，柔和、悦耳、可爱、深入人心、文雅，为众人所喜爱、所乐闻。他说的正是这样的语言。诸比丘！此人便称为蜜语者。诸比丘！这三种人存在于世间，出现于世间。第八经。"
+  },
+  {
+   "idx": 56,
+   "pali": "9. Andhasuttaṃ",
+   "zh": "9. [[andhasutta|盲者经]]"
+  },
+  {
+   "idx": 57,
+   "pali": "‘‘Tayome, bhikkhave, puggalā santo saṃvijjamānā lokasmiṃ. Katame tayo? Andho, ekacakkhu, dvicakkhu. Katamo ca, bhikkhave, puggalo andho? Idha, bhikkhave, ekaccassa puggalassa tathārūpaṃ cakkhu na hoti yathārūpena cakkhunā anadhigataṃ vā bhogaṃ adhigaccheyya adhigataṃ vā bhogaṃ phātiṃ kareyya ; tathārūpampissa cakkhu na hoti yathārūpena cakkhunā kusalākusale dhamme jāneyya, sāvajjānavajje dhamme jāneyya, hīnappaṇīte dhamme jāneyya, kaṇhasukkasappaṭibhāge dhamme jāneyya. Ayaṃ vuccati, bhikkhave, puggalo andho.",
+   "zh": "“诸比丘，这三种人存在于世间。哪三种？盲者、独眼者、双眼者。诸比丘，什么是盲者呢？在此，有一类人，他既没有这样的眼——依此眼能获得未得的财富，或令已得的财富增长；也没有那样的眼——依此眼能了知善与不善法，了知有罪与无罪法，了知劣与胜法，了知黑白相对法。诸比丘，这人便称为盲者。",
+   "n": "29"
+  },
+  {
+   "idx": 58,
+   "pali": "‘‘Katamo ca, bhikkhave, puggalo ekacakkhu? Idha, bhikkhave, ekaccassa puggalassa tathārūpaṃ cakkhu hoti yathārūpena cakkhunā anadhigataṃ vā bhogaṃ adhigaccheyya adhigataṃ vā bhogaṃ phātiṃ kareyya; tathārūpaṃ panassa cakkhu na hoti yathārūpena cakkhunā kusalākusale dhamme jāneyya, sāvajjānavajje dhamme jāneyya, hīnappaṇīte dhamme jāneyya, kaṇhasukkasappaṭibhāge dhamme jāneyya. Ayaṃ vuccati, bhikkhave, puggalo ekacakkhu.",
+   "zh": "“诸比丘，什么是独眼者呢？在此，有一类人，他有这样的眼——依此眼能获得未得的财富，或令已得的财富增长；但他却没有那样的眼——依此眼能了知善与不善法，了知有罪与无罪法，了知劣与胜法，了知黑白相对法。诸比丘，这人便称为独眼者。"
+  },
+  {
+   "idx": 59,
+   "pali": "‘‘Katamo ca, bhikkhave, puggalo dvicakkhu? Idha, bhikkhave, ekaccassa puggalassa tathārūpaṃ cakkhu hoti yathārūpena cakkhunā anadhigataṃ vā bhogaṃ adhigaccheyya, adhigataṃ vā bhogaṃ phātiṃ kareyya; tathārūpampissa cakkhu hoti yathārūpena cakkhunā kusalākusale dhamme jāneyya; sāvajjānavajje dhamme jāneyya, hīnappaṇīte dhamme jāneyya, kaṇhasukkasappaṭibhāge dhamme jāneyya. Ayaṃ vuccati, bhikkhave, puggalo dvicakkhu. ‘Ime kho, bhikkhave, tayo puggalā santo saṃvijjamānā lokasmi’’’nti.",
+   "zh": "“诸比丘，什么是双眼者呢？在此，有一类人，他既有这样的眼——依此眼能获得未得的财富，或令已得的财富增长；又有那样的眼——依此眼能了知善与不善法，了知有罪与无罪法，了知劣与胜法，了知黑白相对法。诸比丘，这人便称为双眼者。诸比丘，这三种人，便是存在于世间者。"
+  },
+  {
+   "idx": 60,
+   "pali": "‘‘Na ceva bhogā tathārūpā, na ca puññāni kubbati;",
+   "zh": "“既无这种财富，又不修诸福德；”",
+   "type": "verse"
+  },
+  {
+   "idx": 61,
+   "pali": "Ubhayattha kaliggāho, andhassa hatacakkhuno.",
+   "zh": "“两头俱落空，犹如盲者眼已坏。”",
+   "type": "verse"
+  },
+  {
+   "idx": 62,
+   "pali": "‘‘Athāparāyaṃ akkhāto, ekacakkhu ca puggalo;",
+   "zh": "“又有另一种人已说，即独眼者；”",
+   "type": "verse"
+  },
+  {
+   "idx": 63,
+   "pali": "Dhammādhammena saṭhoso , bhogāni pariyesati.",
+   "zh": "“以法与非法，欺诳求财。”",
+   "type": "verse"
+  },
+  {
+   "idx": 64,
+   "pali": "‘‘Theyyena kūṭakammena, musāvādena cūbhayaṃ;",
+   "zh": "“偷盗、欺诈与妄语——两者兼行；”",
+   "type": "verse"
+  },
+  {
+   "idx": 65,
+   "pali": "Kusalo hoti saṅghātuṃ , kāmabhogī ca mānavo;",
+   "zh": "“彼学童善巧积聚，耽着欲乐；”",
+   "type": "verse"
+  },
+  {
+   "idx": 66,
+   "pali": "Ito so nirayaṃ gantvā, ekacakkhu vihaññati.",
+   "zh": "此人从此处堕入地狱，成为独眼者而受苦。",
+   "type": "verse"
+  },
+  {
+   "idx": 67,
+   "pali": "‘‘Dvicakkhu pana akkhāto, seṭṭho purisapuggalo;",
+   "zh": "“而被称为“双眼”者，才是最殊胜的人；",
+   "type": "verse"
+  },
+  {
+   "idx": 68,
+   "pali": "Dhammaladdhehi bhogehi, uṭṭhānādhigataṃ dhanaṃ.",
+   "zh": "以如法得来的财富，以勤勉所获的资财。",
+   "type": "verse"
+  },
+  {
+   "idx": 69,
+   "pali": "‘‘Dadāti seṭṭhasaṅkappo, abyaggamānaso naro;",
+   "zh": "“以最殊胜的意向行布施、心意不散乱的人；",
+   "type": "verse"
+  },
+  {
+   "idx": 70,
+   "pali": "Upeti bhaddakaṃ ṭhānaṃ, yattha gantvā na socati.",
+   "zh": "他到达善妙之处，到了那里便无忧愁。",
+   "type": "verse"
+  },
+  {
+   "idx": 71,
+   "pali": "‘‘Andhañca ekacakkhuñca, ārakā parivajjaye;",
+   "zh": "“应远离盲者与独眼者，",
+   "type": "verse"
+  },
+  {
+   "idx": 72,
+   "pali": "Dvicakkhuṃ pana sevetha, seṭṭhaṃ purisapuggala’’nti. navamaṃ;",
+   "zh": "应当亲近具双眼者——那最殊胜的人。”第九经",
+   "type": "verse"
+  },
+  {
+   "idx": 73,
+   "pali": "10. Avakujjasuttaṃ",
+   "zh": "10. [[avakujjasutta|覆钵经]]"
+  },
+  {
+   "idx": 74,
+   "pali": "‘‘Tayome , bhikkhave , puggalā santo saṃvijjamānā lokasmiṃ. Katame tayo? Avakujjapañño puggalo, ucchaṅgapañño puggalo, puthupañño puggalo. Katamo ca, bhikkhave, avakujjapañño puggalo? Idha, bhikkhave, ekacco puggalo ārāmaṃ gantā hoti abhikkhaṇaṃ bhikkhūnaṃ santike dhammassavanāya. Tassa bhikkhū dhammaṃ desenti ādikalyāṇaṃ majjhekalyāṇaṃ pariyosānakalyāṇaṃ sātthaṃ sabyañjanaṃ, kevalaparipuṇṇaṃ parisuddhaṃ brahmacariyaṃ pakāsenti. So tasmiṃ āsane nisinno tassā kathāya neva ādiṃ manasi karoti, na majjhaṃ manasi karoti, na pariyosānaṃ manasi karoti; vuṭṭhitopi tamhā āsanā tassā kathāya neva ādiṃ manasi karoti, na majjhaṃ manasi karoti, na pariyosānaṃ manasi karoti. Seyyathāpi, bhikkhave, kumbho nikkujjo tatra udakaṃ āsittaṃ vivaṭṭati, no saṇṭhāti; evamevaṃ kho, bhikkhave, idhekacco puggalo ārāmaṃ gantā hoti abhikkhaṇaṃ bhikkhūnaṃ santike dhammassavanāya. Tassa bhikkhū dhammaṃ desenti ādikalyāṇaṃ majjhekalyāṇaṃ pariyosānakalyāṇaṃ sātthaṃ sabyañjanaṃ, kevalaparipuṇṇaṃ parisuddhaṃ brahmacariyaṃ pakāsenti. So tasmiṃ āsane nisinno tassā kathāya neva ādiṃ manasi karoti, na majjhaṃ manasi karoti, na pariyosānaṃ manasi karoti; vuṭṭhitopi tamhā āsanā tassā kathāya nevādiṃ manasi karoti, na majjhaṃ manasi karoti, na pariyosānaṃ manasi karoti. Ayaṃ vuccati, bhikkhave, avakujjapañño puggalo.",
+   "zh": "“诸比丘，世间有这三种人存在、出现。哪三种？覆盖慧者、膝上慧者、广大慧者。诸比丘，什么是覆盖慧者？诸比丘，在此有一类人，常常前往僧园，到比丘们面前听受法语。比丘们为他开示法义，初善、中善、后善，具足义理，具足文句，开显完全圆满、清净的梵行。他坐在那座位上，对这法义，开头也不忆念，中间也不忆念，结尾也不忆念；从座位起身之后，对这法义，开头也不忆念，中间也不忆念，结尾也不忆念。诸比丘，犹如覆钵，水注入其中便流走，不会停留；同样地，诸比丘，在此有一类人，常常前往僧园，到比丘们面前听受法语。比丘们为他开示法义，初善、中善、后善，具足义理，具足文句，开显完全圆满、清净的梵行。他坐在那座位上，对这法义，开头也不忆念，中间也不忆念，结尾也不忆念；从座位起身之后，对这法义，开头也不忆念，中间也不忆念，结尾也不忆念。诸比丘，这便称为覆盖慧者。",
+   "n": "30"
+  },
+  {
+   "idx": 75,
+   "pali": "‘‘Katamo ca, bhikkhave, ucchaṅgapañño puggalo? Idha, bhikkhave, ekacco puggalo ārāmaṃ gantā hoti abhikkhaṇaṃ bhikkhūnaṃ santike dhammassavanāya. Tassa bhikkhū dhammaṃ desenti ādikalyāṇaṃ majjhekalyāṇaṃ pariyosānakalyāṇaṃ sātthaṃ sabyañjanaṃ, kevalaparipuṇṇaṃ parisuddhaṃ brahmacariyaṃ pakāsenti. So tasmiṃ āsane nisinno tassā kathāya ādimpi manasi karoti, majjhampi manasi karoti, pariyosānampi manasi karoti; vuṭṭhito ca kho tamhā āsanā tassā kathāya nevādiṃ manasi karoti, na majjhaṃ manasi karoti, na pariyosānaṃ manasi karoti. Seyyathāpi, bhikkhave, purisassa ucchaṅge nānākhajjakāni ākiṇṇāni – tilā taṇḍulā modakā badarā. So tamhā āsanā vuṭṭhahanto satisammosā pakireyya . Evamevaṃ kho, bhikkhave, idhekacco puggalo ārāmaṃ gantā hoti abhikkhaṇaṃ bhikkhūnaṃ santike dhammassavanāya. Tassa bhikkhū dhammaṃ desenti ādikalyāṇaṃ majjhekalyāṇaṃ pariyosānakalyāṇaṃ sātthaṃ sabyañjanaṃ, kevalaparipuṇṇaṃ parisuddhaṃ brahmacariyaṃ pakāsenti. So tasmiṃ āsane nisinno tassā kathāya ādimpi manasi karoti, majjhampi manasi karoti, pariyosānampi manasi karoti; vuṭṭhito ca kho tamhā āsanā tassā kathāya neva ādiṃ manasi karoti, na majjhaṃ manasi karoti, na pariyosānaṃ manasi karoti. Ayaṃ vuccati, bhikkhave, ucchaṅgapañño puggalo.",
+   "zh": "“诸比丘，什么是膝上慧者？诸比丘，在此有这样一种人，他常去园林，屡屡亲近比丘们听闻正法。比丘们为他开示初善、中善、后善，有义有文，完全圆满、清净无染的梵行。他坐在座上时，对于所说的法，开头加以作意，中间加以作意，结尾加以作意；而从那座起身之后，对于所说的法，开头便不作意，中间不作意，结尾也不作意。诸比丘，譬如有人膝上堆满了各种食物——芝麻、米、糕点、枣子，当他从那座起身时，由于忘失正念，食物便散落一地。同样地，诸比丘，在此有这样一种人，他常去园林，屡屡亲近比丘们听闻正法。比丘们为他开示初善、中善、后善，有义有文，完全圆满、清净无染的梵行。他坐在座上时，对于所说的法，开头、中间和结尾都加以作意；而从那座起身之后，开头、中间和结尾便都不作意。诸比丘，这称为膝上慧者。”"
+  },
+  {
+   "idx": 76,
+   "pali": "‘‘Katamo ca, bhikkhave, puthupañño puggalo? Idha, bhikkhave, ekacco puggalo ārāmaṃ gantā hoti abhikkhaṇaṃ bhikkhūnaṃ santike dhammassavanāya. Tassa bhikkhū dhammaṃ desenti ādikalyāṇaṃ majjhekalyāṇaṃ pariyosānakalyāṇaṃ sātthaṃ sabyañjanaṃ, kevalaparipuṇṇaṃ parisuddhaṃ brahmacariyaṃ pakāsenti. So tasmiṃ āsane nisinno tassā kathāya ādimpi manasi karoti, majjhampi manasi karoti, pariyosānampi manasi karoti; vuṭṭhitopi tamhā āsanā tassā kathāya ādimpi manasi karoti, majjhampi manasi karoti, pariyosānampi manasi karoti. Seyyathāpi, bhikkhave, kumbho ukkujjo tatra udakaṃ āsittaṃ saṇṭhāti no vivaṭṭati; evamevaṃ kho, bhikkhave, idhekacco puggalo ārāmaṃ gantā hoti abhikkhaṇaṃ bhikkhūnaṃ santike dhammassavanāya. Tassa bhikkhū dhammaṃ desenti ādikalyāṇaṃ majjhekalyāṇaṃ pariyosānakalyāṇaṃ sātthaṃ sabyañjanaṃ, kevalaparipuṇṇaṃ parisuddhaṃ brahmacariyaṃ pakāsenti. So tasmiṃ āsane nisinno tassā kathāya ādimpi manasi karoti, majjhampi manasi karoti, pariyosānampi manasi karoti; vuṭṭhitopi tamhā āsanā tassā kathāya ādimpi manasi karoti, majjhampi manasi karoti, pariyosānampi manasi karoti. Ayaṃ vuccati, bhikkhave, puthupañño puggalo. ‘Ime kho, bhikkhave, tayo puggalā santo saṃvijjamānā lokasmi’’’nti.",
+   "zh": "“诸比丘，什么是广大慧者？诸比丘，在此有这样一种人，他常去园林，屡屡亲近比丘们听闻正法。比丘们为他开示初善、中善、后善，有义有文，完全圆满、清净无染的梵行。他坐在座上时，对于所说的法，开头加以作意，中间加以作意，结尾加以作意；从那座起身之后，对于所说的法，开头依然作意，中间依然作意，结尾依然作意。诸比丘，譬如一只直立的水瓶，注入其中的水停住而不外漏；同样地，诸比丘，在此有这样一种人，他常去园林，屡屡亲近比丘们听闻正法。比丘们为他开示初善、中善、后善，有义有文，完全圆满、清净无染的梵行。他坐在座上时，对于所说的法，开头、中间和结尾都加以作意；从那座起身之后，开头、中间和结尾依然加以作意。诸比丘，这称为广大慧者。诸比丘，这三种人存在于世间。”"
+  },
+  {
+   "idx": 77,
+   "pali": "‘‘Avakujjapañño puriso, dummedho avicakkhaṇo;",
+   "zh": "“倒覆慧之人，愚钝无智慧；”",
+   "type": "verse"
+  },
+  {
+   "idx": 78,
+   "pali": "Abhikkhaṇampi ce hoti, gantā bhikkhūna santike.",
+   "zh": "“即使常常前往比丘们的近前，”",
+   "type": "verse"
+  },
+  {
+   "idx": 79,
+   "pali": "‘‘Ādiṃ kathāya majjhañca, pariyosānañca tādiso;",
+   "zh": "“说法之始、中、终，皆如是之人。”",
+   "type": "verse"
+  },
+  {
+   "idx": 80,
+   "pali": "Uggahetuṃ na sakkoti, paññā hissa na vijjati.",
+   "zh": "“他无法领受，因为无有智慧。”",
+   "type": "verse"
+  },
+  {
+   "idx": 81,
+   "pali": "‘‘Ucchaṅgapañño puriso, seyyo etena vuccati;",
+   "zh": "膝上慧之人，说为比他较胜；",
+   "type": "verse"
+  },
+  {
+   "idx": 82,
+   "pali": "Abhikkhaṇampi ce hoti, gantā bhikkhūna santike.",
+   "zh": "“即使常常前往比丘们的近前，”",
+   "type": "verse"
+  },
+  {
+   "idx": 83,
+   "pali": "‘‘Ādiṃ kathāya majjhañca, pariyosānañca tādiso;",
+   "zh": "“说法之始、中、终，皆如是之人。”",
+   "type": "verse"
+  },
+  {
+   "idx": 84,
+   "pali": "Nisinno āsane tasmiṃ, uggahetvāna byañjanaṃ;",
+   "zh": "“坐于那座位之上，学习文句之后；”",
+   "type": "verse"
+  },
+  {
+   "idx": 85,
+   "pali": "Vuṭṭhito nappajānāti, gahitaṃ hissa mussati.",
+   "zh": "“一旦起身便不能了知，所领受的已然忘失。”",
+   "type": "verse"
+  },
+  {
+   "idx": 86,
+   "pali": "‘‘Puthupañño ca puriso, seyyo etehi vuccati;",
+   "zh": "“而具广慧之人，被称为胜过这些；”",
+   "type": "verse"
+  },
+  {
+   "idx": 87,
+   "pali": "Abhikkhaṇampi ce hoti, gantā bhikkhūna santike.",
+   "zh": "“即使常常前往比丘们的近前，”",
+   "type": "verse"
+  },
+  {
+   "idx": 88,
+   "pali": "‘‘Ādiṃ kathāya majjhañca, pariyosānañca tādiso;",
+   "zh": "“说法之始、中、终，皆如是之人。”",
+   "type": "verse"
+  },
+  {
+   "idx": 89,
+   "pali": "Nisinno āsane tasmiṃ, uggahetvāna byañjanaṃ.",
+   "zh": "“坐于座中，学取文句；”",
+   "type": "verse"
+  },
+  {
+   "idx": 90,
+   "pali": "‘‘Dhāreti seṭṭhasaṅkappo, abyaggamānaso naro;",
+   "zh": "“持最胜之志，心无散乱者。”",
+   "type": "verse"
+  },
+  {
+   "idx": 91,
+   "pali": "Dhammānudhammappaṭipanno, dukkhassantakaro siyā’’ti. dasamaṃ;",
+   "zh": "随法而行者，将成为苦的终结者。第十经",
+   "type": "verse"
+  },
+  {
+   "idx": 92,
+   "pali": "Puggalavaggo tatiyo.",
+   "zh": "补特伽罗品第三。"
+  },
+  {
+   "idx": 93,
+   "pali": "Tassuddānaṃ –",
+   "zh": "其摄颂："
+  },
+  {
+   "idx": 94,
+   "pali": "Samiddha -gilāna-saṅkhārā, bahukārā vajirena ca;",
+   "zh": "三弥提、病、诸行、多所作、金刚；",
+   "type": "verse"
+  },
+  {
+   "idx": 95,
+   "pali": "Sevi-jiguccha-gūthabhāṇī, andho ca avakujjatāti.",
+   "zh": "亲近、厌离、粪语者、盲者，以及倒覆。",
+   "type": "verse"
+  }
+ ]
+}

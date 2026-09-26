@@ -1,0 +1,83 @@
+{
+ "uid": 29,
+ "title": "4. 法品",
+ "nik": "AN",
+ "segs": [
+  {
+   "idx": 0,
+   "pali": "(9) 4. Dhammavaggo",
+   "zh": "4. 法品"
+  },
+  {
+   "idx": 1,
+   "pali": "‘‘Dveme , bhikkhave, dhammā. Katame dve? Cetovimutti ca paññāvimutti ca. Ime kho, bhikkhave, dve dhammā’’ti.",
+   "zh": "“诸比丘，有此二法。哪二种？心解脱与慧解脱。诸比丘，这即是二法。”",
+   "n": "88"
+  },
+  {
+   "idx": 2,
+   "pali": "‘‘Dveme, bhikkhave, dhammā. Katame dve? Paggāho ca avikkhepo ca. Ime kho, bhikkhave, dve dhammā’’ti.",
+   "zh": "“诸比丘，有此二法。哪二种？执持与不散乱。诸比丘，这即是二法。”",
+   "n": "89"
+  },
+  {
+   "idx": 3,
+   "pali": "‘‘Dveme , bhikkhave, dhammā. Katame dve? Nāmañca rūpañca. Ime kho, bhikkhave, dve dhammā’’ti.",
+   "zh": "“诸比丘，有此二法。哪两种？名与色。诸比丘，此即二法。”",
+   "n": "90"
+  },
+  {
+   "idx": 4,
+   "pali": "‘‘Dveme, bhikkhave, dhammā. Katame dve? Vijjā ca vimutti ca. Ime kho, bhikkhave, dve dhammā’’ti.",
+   "zh": "“诸比丘，有此二法。哪两种？明与解脱。诸比丘，此即二法。”",
+   "n": "91"
+  },
+  {
+   "idx": 5,
+   "pali": "‘‘Dveme, bhikkhave, dhammā. Katame dve? Bhavadiṭṭhi ca vibhavadiṭṭhi ca. Ime kho, bhikkhave, dve dhammā’’ti.",
+   "zh": "“诸比丘，有此二法。哪两种？有见与无有见。诸比丘，此即二法。”",
+   "n": "92"
+  },
+  {
+   "idx": 6,
+   "pali": "‘‘Dveme, bhikkhave, dhammā. Katame dve? Ahirikañca anottappañca . Ime kho, bhikkhave, dve dhammā’’ti.",
+   "zh": "“诸比丘，有此二法。哪二种？即无惭与无愧。诸比丘，这便是二法。”",
+   "n": "93"
+  },
+  {
+   "idx": 7,
+   "pali": "‘‘Dveme, bhikkhave, dhammā. Katame dve? Hirī ca ottappañca. Ime kho, bhikkhave, dve dhammā’’ti.",
+   "zh": "“诸比丘，有此二法。哪二种？即惭与愧。诸比丘，这便是二法。”",
+   "n": "94"
+  },
+  {
+   "idx": 8,
+   "pali": "‘‘Dveme, bhikkhave, dhammā. Katame dve? Dovacassatā ca pāpamittatā ca. Ime kho, bhikkhave, dve dhammā’’ti.",
+   "zh": "“诸比丘，有此二法。哪二种？即不受劝导与亲近恶友。诸比丘，这便是二法。”",
+   "n": "95"
+  },
+  {
+   "idx": 9,
+   "pali": "‘‘Dveme, bhikkhave, dhammā. Katame dve? Sovacassatā ca kalyāṇamittatā ca. Ime kho, bhikkhave, dve dhammā’’ti.",
+   "zh": "“诸比丘，有这两种法。哪两种呢？易受教与善友。诸比丘，这就是两种法。”",
+   "n": "96"
+  },
+  {
+   "idx": 10,
+   "pali": "‘‘Dveme , bhikkhave, dhammā. Katame dve? Dhātukusalatā ca manasikārakusalatā ca. Ime kho, bhikkhave, dve dhammā’’ti.",
+   "zh": "“诸比丘，有这两种法。哪两种呢？界善巧与作意善巧。诸比丘，这就是两种法。”",
+   "n": "97"
+  },
+  {
+   "idx": 11,
+   "pali": "‘‘Dveme , bhikkhave, dhammā. Katame dve? Āpattikusalatā ca āpattivuṭṭhānakusalatā ca. Ime kho, bhikkhave, dve dhammā’’ti.",
+   "zh": "“诸比丘，有这两种法。哪两种呢？罪善巧与出罪善巧。诸比丘，这就是两种法。”",
+   "n": "98"
+  },
+  {
+   "idx": 12,
+   "pali": "Dhammavaggo catuttho.",
+   "zh": "法品第四"
+  }
+ ]
+}

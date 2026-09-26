@@ -1,0 +1,439 @@
+{
+ "uid": 29,
+ "title": "清净经",
+ "nik": "DN",
+ "segs": [
+  {
+   "idx": 79,
+   "pali": "6. Pāsādikasuttaṃ",
+   "zh": "6. [[pāsādikasutta|清净经]]"
+  },
+  {
+   "idx": 1,
+   "pali": "Evaṃ me sutaṃ – ekaṃ samayaṃ bhagavā sakkesu viharati vedhaññā nāma sakyā, tesaṃ ambavane pāsāde.",
+   "zh": "如是我闻：一时，世尊住在释迦族中，一个名唤韦达尼亚的释迦族人，在他们芒果园中的楼阁里。",
+   "n": "164"
+  },
+  {
+   "type": "subhead",
+   "idx": 2,
+   "pali": "Nigaṇṭhanāṭaputtakālaṅkiriyā",
+   "zh": "尼乾陀·若提子之命终"
+  },
+  {
+   "idx": 3,
+   "pali": "Tena kho pana samayena nigaṇṭho nāṭaputto pāvāyaṃ adhunākālaṅkato hoti. Tassa kālaṅkiriyāya bhinnā nigaṇṭhā dvedhikajātā bhaṇḍanajātā kalahajātā vivādāpannā aññamaññaṃ mukhasattīhi vitudantā viharanti – ‘‘na tvaṃ imaṃ dhammavinayaṃ ājānāsi, ahaṃ imaṃ dhammavinayaṃ ājānāmi, kiṃ tvaṃ imaṃ dhammavinayaṃ ājānissasi? Micchāpaṭipanno tvamasi, ahamasmi sammāpaṭipanno. Sahitaṃ me, asahitaṃ te. Purevacanīyaṃ pacchā avaca, pacchāvacanīyaṃ pure avaca. Adhiciṇṇaṃ te viparāvattaṃ, āropito te vādo, niggahito tvamasi, cara vādappamokkhāya, nibbeṭhehi vā sace pahosī’’ti. Vadhoyeva kho maññe nigaṇṭhesu nāṭaputtiyesu vattati . Yepi nigaṇṭhassa nāṭaputtassa sāvakā gihī odātavasanā , tepi nigaṇṭhesu nāṭaputtiyesu nibbinnarūpā virattarūpā paṭivānarūpā, yathā taṃ durakkhāte dhammavinaye duppavedite aniyyānike anupasamasaṃvattanike asammāsambuddhappavedite bhinnathūpe appaṭisaraṇe.",
+   "zh": "那时，尼乾陀·若提子刚在[[pāvā|波婆]]城命终不久。随着他的命终，尼乾陀众便分裂为两派，彼此争吵、诤论、纷争，以利口相互刺伤而住。他们这样说：“你不知此法、律，我知此法、律；你如何能知此法、律？你是邪道，我是正道。我的言说一致，你的言说不一致。应当先说的，你却后说；应当后说的，你却先说。你所熟思的已被推翻，你的论点已被驳倒，你已被折服。去脱出你的见解吧，或者设法解开它！”在尼乾陀·若提子的随众当中，仿佛有杀戮正在进行。那些尼乾陀·若提子的在家白衣弟子，见尼乾陀·若提子的随众，亦心生厌离、离贪与厌恶，因为那法、律是恶说、恶示，非导向出离，非导向寂静，非正自觉者所说，塔庙已破，无所皈依。"
+  },
+  {
+   "idx": 4,
+   "pali": "Atha kho cundo samaṇuddeso pāvāyaṃ vassaṃvuṭṭho yena sāmagāmo, yenāyasmā ānando tenupasaṅkami; upasaṅkamitvā āyasmantaṃ ānandaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho cundo samaṇuddeso āyasmantaṃ ānandaṃ etadavoca – ‘‘nigaṇṭho, bhante, nāṭaputto pāvāyaṃ adhunākālaṅkato. Tassa kālaṅkiriyāya bhinnā nigaṇṭhā dvedhikajātā…pe… bhinnathūpe appaṭisaraṇe’’ti.",
+   "zh": "那时，沙弥[[cunda|准陀]]在[[pāvā|波婆城]]雨安居结束后，前往沙玛村，来到具寿[[ānanda|阿难]]之处。到了之后，顶礼具寿[[ānanda|阿难]]，然后坐在一旁。坐定后，沙弥[[cunda|准陀]]对具寿[[ānanda|阿难]]说：“尊者，尼乾陀·若提子不久前在[[pāvā|波婆城]]命终。由于他的命终，尼乾陀众分裂为两派……（中略）……塔庙已破，无所皈依。”",
+   "n": "165"
+  },
+  {
+   "idx": 5,
+   "pali": "Evaṃ vutte, āyasmā ānando cundaṃ samaṇuddesaṃ etadavoca – ‘‘atthi kho idaṃ, āvuso cunda, kathāpābhataṃ bhagavantaṃ dassanāya. Āyāmāvuso cunda, yena bhagavā tenupasaṅkamissāma; upasaṅkamitvā etamatthaṃ bhagavato ārocessāmā’’ti . ‘‘Evaṃ, bhante’’ti kho cundo samaṇuddeso āyasmato ānandassa paccassosi.",
+   "zh": "听了这番话，具寿[[ānanda|阿难]]对沙弥[[cunda|准陀]]说：“[[cunda|准陀]]学友，这正是一个值得带到世尊面前禀告的话题。来吧，[[cunda|准陀]]学友，我们一同前往世尊处，将这件事禀告世尊。”“好的，尊者。”沙弥[[cunda|准陀]]回答具寿[[ānanda|阿难]]。"
+  },
+  {
+   "idx": 6,
+   "pali": "Atha kho āyasmā ca ānando cundo ca samaṇuddeso yena bhagavā tenupasaṅkamiṃsu; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdiṃsu. Ekamantaṃ nisinno kho āyasmā ānando bhagavantaṃ etadavoca – ‘‘ayaṃ, bhante, cundo samaṇuddeso evamāha, ‘nigaṇṭho, bhante, nāṭaputto pāvāyaṃ adhunākālaṅkato, tassa kālaṅkiriyāya bhinnā nigaṇṭhā…pe… bhinnathūpe appaṭisaraṇe’’’ti.",
+   "zh": "于是，具寿[[ānanda|阿难]]与沙弥[[cunda|准陀]]一同来到世尊前，顶礼世尊之后，坐在一旁。坐定后，具寿[[ānanda|阿难]]对世尊说：“尊者，这位沙弥[[cunda|准陀]]这样说：‘尊者，尼乾陀·若提子最近在[[pāvā|波婆]]城去世了。由于他的去世，尼乾子们分裂成两派……（中略）……塔庙破损，无所皈依。’”"
+  },
+  {
+   "idx": 7,
+   "pali": "Asammāsambuddhappaveditadhammavinayo",
+   "zh": "非正自觉者所宣说的法与律"
+  },
+  {
+   "idx": 8,
+   "pali": "‘‘Evaṃ hetaṃ, cunda, hoti durakkhāte dhammavinaye duppavedite aniyyānike anupasamasaṃvattanike asammāsambuddhappavedite. Idha, cunda, satthā ca hoti asammāsambuddho, dhammo ca durakkhāto duppavedito aniyyāniko anupasamasaṃvattaniko asammāsambuddhappavedito, sāvako ca tasmiṃ dhamme na dhammānudhammappaṭipanno viharati na sāmīcippaṭipanno na anudhammacārī, vokkamma ca tamhā dhammā vattati. So evamassa vacanīyo – ‘tassa te, āvuso, lābhā, tassa te suladdhaṃ, satthā ca te asammāsambuddho, dhammo ca durakkhāto duppavedito aniyyāniko anupasamasaṃvattaniko asammāsambuddhappavedito. Tvañca tasmiṃ dhamme na dhammānudhammappaṭipanno viharasi, na sāmīcippaṭipanno, na anudhammacārī, vokkamma ca tamhā dhammā vattasī’ti. Iti kho, cunda, satthāpi tattha gārayho, dhammopi tattha gārayho, sāvako ca tattha evaṃ pāsaṃso. Yo kho, cunda, evarūpaṃ sāvakaṃ evaṃ vadeyya – ‘etāyasmā tathā paṭipajjatu, yathā te satthārā dhammo desito paññatto’ti. Yo ca samādapeti , yañca samādapeti, yo ca samādapito tathattāya paṭipajjati. Sabbe te bahuṃ apuññaṃ pasavanti. Taṃ kissa hetu? Evaṃ hetaṃ, cunda, hoti durakkhāte dhammavinaye duppavedite aniyyānike anupasamasaṃvattanike asammāsambuddhappavedite.",
+   "zh": "“[[cunda|准陀]]，在恶说、恶示、非出离、不导向寂静、非正自觉者所宣说的法与律中，情况正是如此。[[cunda|准陀]]，于此，导师并非正自觉者，法也恶说、恶示、非出离、不导向寂静、非正自觉者所宣说，而弟子住于那法中，却不依法随法而行，不行正道，不顺法行，舍离了那法而住。应这样对他说：‘贤友，这实是汝之得，是汝之善利！你的导师并非正自觉者，法也恶说、恶示、非出离、不导向寂静、非正自觉者所宣说，而你也住于那法中，不依法随法而行，不行正道，不顺法行，舍离了那法而住。’[[cunda|准陀]]，如此，在这里，导师应受呵责，法应受呵责，弟子却应这样受到赞叹。[[cunda|准陀]]，若有人对这一类弟子这样说：‘具寿，请你们依此而行，如同你们导师所教导、所施设的法那样。’那么，劝导者、所劝导者，以及被劝导后依此而行的人，他们全部造作众多非福德。这是什么原因呢？[[cunda|准陀]]，因为在恶说、恶示、非出离、不导向寂静、非正自觉者所宣说的法与律中，情况正是如此。”",
+   "n": "166"
+  },
+  {
+   "idx": 9,
+   "pali": "‘‘Idha pana, cunda, satthā ca hoti asammāsambuddho, dhammo ca durakkhāto duppavedito aniyyāniko anupasamasaṃvattaniko asammāsambuddhappavedito, sāvako ca tasmiṃ dhamme dhammānudhammappaṭipanno viharati sāmīcippaṭipanno anudhammacārī, samādāya taṃ dhammaṃ vattati. So evamassa vacanīyo – ‘tassa te, āvuso, alābhā, tassa te dulladdhaṃ, satthā ca te asammāsambuddho , dhammo ca durakkhāto duppavedito aniyyāniko anupasamasaṃvattaniko asammāsambuddhappavedito. Tvañca tasmiṃ dhamme dhammānudhammappaṭipanno viharasi sāmīcippaṭipanno anudhammacārī, samādāya taṃ dhammaṃ vattasī’ti. Iti kho, cunda, satthāpi tattha gārayho, dhammopi tattha gārayho, sāvakopi tattha evaṃ gārayho. Yo kho, cunda, evarūpaṃ sāvakaṃ evaṃ vadeyya – ‘addhāyasmā ñāyappaṭipanno ñāyamārādhessatī’ti. Yo ca pasaṃsati, yañca pasaṃsati, yo ca pasaṃsito bhiyyoso mattāya vīriyaṃ ārabhati. Sabbe te bahuṃ apuññaṃ pasavanti. Taṃ kissa hetu? Evañhetaṃ, cunda, hoti durakkhāte dhammavinaye duppavedite aniyyānike anupasamasaṃvattanike asammāsambuddhappavedite.",
+   "zh": "“[[cunda|准陀]]，然而，还有这样的情况：导师并非正自觉者，法亦恶说、宣说恶劣，非导向出离，不引向寂静，非正自觉者所宣说；而弟子却住于那法中，依法随法而行，如法修行，随顺于法，受持那法而活命。对此弟子，应当这样说：‘贤友，这实在是你的损失，是你的不幸！导师并非正自觉者，法又恶说、宣说恶劣……，而你自己却住于那法中，依法随法而行……’[[cunda|准陀]]，如此，在这里，导师应受责备，法应受责备，那样的弟子也应受责备。[[cunda|准陀]]，如果有人这般称赞那种弟子：‘这位尊者确是依理而行，必定会证达真理’，那么，称赞者、被称赞者，以及被称赞后更精勤努力的人，所有这些人都将造作众多非福德。这是什么缘故呢？[[cunda|准陀]]，因为在恶说、宣说恶劣、非导向出离、不导向寂静、非正自觉者所宣说的法与律中，情况正是如此。”",
+   "n": "167"
+  },
+  {
+   "idx": 10,
+   "pali": "Sammāsambuddhappaveditadhammavinayo",
+   "zh": "正自觉者所宣说的法与律"
+  },
+  {
+   "idx": 11,
+   "pali": "‘‘Idha pana, cunda, satthā ca hoti sammāsambuddho, dhammo ca svākkhāto suppavedito niyyāniko upasamasaṃvattaniko sammāsambuddhappavedito, sāvako ca tasmiṃ dhamme na dhammānudhammappaṭipanno viharati, na sāmīcippaṭipanno, na anudhammacārī, vokkamma ca tamhā dhammā vattati. So evamassa vacanīyo – ‘tassa te, āvuso, alābhā, tassa te dulladdhaṃ, satthā ca te sammāsambuddho, dhammo ca svākkhāto suppavedito niyyāniko upasamasaṃvattaniko sammāsambuddhappavedito. Tvañca tasmiṃ dhamme na dhammānudhammappaṭipanno viharasi, na sāmīcippaṭipanno, na anudhammacārī, vokkamma ca tamhā dhammā vattasī’ti. Iti kho, cunda, satthāpi tattha pāsaṃso, dhammopi tattha pāsaṃso, sāvako ca tattha evaṃ gārayho. Yo kho, cunda, evarūpaṃ sāvakaṃ evaṃ vadeyya – ‘etāyasmā tathā paṭipajjatu yathā te satthārā dhammo desito paññatto’ti. Yo ca samādapeti, yañca samādapeti, yo ca samādapito tathattāya paṭipajjati. Sabbe te bahuṃ puññaṃ pasavanti. Taṃ kissa hetu? Evañhetaṃ , cunda, hoti svākkhāte dhammavinaye suppavedite niyyānike upasamasaṃvattanike sammāsambuddhappavedite.",
+   "zh": "“然而，[[cunda|准陀]]，这里又有一种情况：导师是正自觉者，法是善说、善阐明的，是导向出离、导向寂静的，由正自觉者所宣说；但弟子在那法中却不依法随法而行，不正行，不顺法而行，背离法而转起。应如此对他说：‘贤友，这实在是你的损失，是你的不幸！你的导师是正自觉者，法是善说、善阐明的，导向出离、导向寂静的，由正自觉者所宣说；你却在那法中不依法随法而行，不正行，不顺法而行，背离法而转起。’[[cunda|准陀]]，如此，导师值得赞叹，法值得赞叹，但那样的弟子则应受呵责。若有人如此劝导这样的弟子：‘愿具寿依照导师所教导、所制定的法而修行。’那么，劝导者、被劝导者，以及被劝导后为达此行而修行者，他们全都生起众多福德。这是什么缘故呢？[[cunda|准陀]]，因为在这善说、善阐明、导向出离、导向寂静、由正自觉者所宣说的法与律中，情形正是如此。”",
+   "n": "168"
+  },
+  {
+   "idx": 12,
+   "pali": "‘‘Idha pana, cunda, satthā ca hoti sammāsambuddho, dhammo ca svākkhāto suppavedito niyyāniko upasamasaṃvattaniko sammāsambuddhappavedito, sāvako ca tasmiṃ dhamme dhammānudhammappaṭipanno viharati sāmīcippaṭipanno anudhammacārī, samādāya taṃ dhammaṃ vattati. So evamassa vacanīyo – ‘tassa te, āvuso, lābhā, tassa te suladdhaṃ, satthā ca te sammāsambuddho , dhammo ca svākkhāto suppavedito niyyāniko upasamasaṃvattaniko sammāsambuddhappavedito. Tvañca tasmiṃ dhamme dhammānudhammappaṭipanno viharasi sāmīcippaṭipanno anudhammacārī, samādāya taṃ dhammaṃ vattasī’ti. Iti kho, cunda, satthāpi tattha pāsaṃso, dhammopi tattha pāsaṃso, sāvakopi tattha evaṃ pāsaṃso. Yo kho, cunda, evarūpaṃ sāvakaṃ evaṃ vadeyya – ‘addhāyasmā ñāyappaṭipanno ñāyamārādhessatī’ti. Yo ca pasaṃsati, yañca pasaṃsati, yo ca pasaṃsito bhiyyoso mattāya vīriyaṃ ārabhati. Sabbe te bahuṃ puññaṃ pasavanti. Taṃ kissa hetu? Evañhetaṃ, cunda, hoti svākkhāte dhammavinaye suppavedite niyyānike upasamasaṃvattanike sammāsambuddhappavedite.",
+   "zh": "“再者，[[cunda|准陀]]，还有这样一种情况：导师是正自觉者，法是善说、善阐明的，导向出离、导向寂静的，由正自觉者所宣说；弟子在那法中，依法随法而行，如理而行，顺法而行，受持法而安住。应如此对他说：‘贤友，你获得了利益，你善得利益！你的导师是正自觉者，法是善说、善阐明的，导向出离、导向寂静的，由正自觉者所宣说；而你正在那法中依法随法而行，如理而行，顺法而行，受持法而安住。’[[cunda|准陀]]，如此，导师值得赞叹，法值得赞叹，这样的弟子同样值得赞叹。[[cunda|准陀]]，若有人对这样的弟子如此说：‘具寿确实是随法而行，必将证得法。’那么，赞叹者、被赞叹者，以及被赞叹后倍加精进者，他们全都生起众多福德。这是什么缘故呢？[[cunda|准陀]]，因为在这善说、善阐明、导向出离、导向寂静、由正自觉者所宣说的法与律中，正是如此。”",
+   "n": "169"
+  },
+  {
+   "idx": 13,
+   "pali": "Sāvakānutappasatthu",
+   "zh": "弟子追悔导师"
+  },
+  {
+   "idx": 14,
+   "pali": "‘‘Idha pana, cunda, satthā ca loke udapādi arahaṃ sammāsambuddho, dhammo ca svākkhāto suppavedito niyyāniko upasamasaṃvattaniko sammāsambuddhappavedito, aviññāpitatthā cassa honti sāvakā saddhamme, na ca tesaṃ kevalaṃ paripūraṃ brahmacariyaṃ āvikataṃ hoti uttānīkataṃ sabbasaṅgāhapadakataṃ sappāṭihīrakataṃ yāva devamanussehi suppakāsitaṃ. Atha nesaṃ satthuno antaradhānaṃ hoti. Evarūpo kho, cunda, satthā sāvakānaṃ kālaṅkato anutappo hoti. Taṃ kissa hetu? Satthā ca no loke udapādi arahaṃ sammāsambuddho, dhammo ca svākkhāto suppavedito niyyāniko upasamasaṃvattaniko sammāsambuddhappavedito, aviññāpitatthā camha saddhamme, na ca no kevalaṃ paripūraṃ brahmacariyaṃ āvikataṃ hoti uttānīkataṃ sabbasaṅgāhapadakataṃ sappāṭihīrakataṃ yāva devamanussehi suppakāsitaṃ. Atha no satthuno antaradhānaṃ hotīti. Evarūpo kho, cunda, satthā sāvakānaṃ kālaṅkato anutappo hoti.",
+   "zh": "“然而，[[cunda|准陀]]，在此有导师出现于世间，是阿拉汉、正自觉者；法由正自觉者善说、善阐，导向出离，导向寂静。但是弟子们未能通达正法的义理，他们的完全圆满的梵行也未被明晰、详尽、统摄一切句、有示现地开显出来，乃至未曾在天与人中被善为宣明。随后，导师便入灭了。[[cunda|准陀]]，这样的导师去世后，弟子们便会心生追悔。这是什么缘故呢？他们会这样想：‘导师出现于世间，是阿拉汉、正自觉者；法由正自觉者善说、善阐，导向出离，导向寂静。可是我们未能通达正法的义理，我们的梵行也未被完整、明晰、详尽、统摄一切句、有示现地开显出来，乃至未曾在天与人中被善为宣明。随后，导师便入灭了。’[[cunda|准陀]]，这样的导师去世后，弟子们便会心生追悔。”",
+   "n": "170"
+  },
+  {
+   "idx": 15,
+   "pali": "Sāvakānanutappasatthu",
+   "zh": "弟子所追悔之师"
+  },
+  {
+   "idx": 16,
+   "pali": "‘‘Idha pana, cunda, satthā ca loke udapādi arahaṃ sammāsambuddho. Dhammo ca svākkhāto suppavedito niyyāniko upasamasaṃvattaniko sammāsambuddhappavedito. Viññāpitatthā cassa honti sāvakā saddhamme, kevalañca tesaṃ paripūraṃ brahmacariyaṃ āvikataṃ hoti uttānīkataṃ sabbasaṅgāhapadakataṃ sappāṭihīrakataṃ yāva devamanussehi suppakāsitaṃ. Atha nesaṃ satthuno antaradhānaṃ hoti. Evarūpo kho, cunda, satthā sāvakānaṃ kālaṅkato ananutappo hoti . Taṃ kissa hetu? Satthā ca no loke udapādi arahaṃ sammāsambuddho. Dhammo ca svākkhāto suppavedito niyyāniko upasamasaṃvattaniko sammāsambuddhappavedito. Viññāpitatthā camha saddhamme, kevalañca no paripūraṃ brahmacariyaṃ āvikataṃ hoti uttānīkataṃ sabbasaṅgāhapadakataṃ sappāṭihīrakataṃ yāva devamanussehi suppakāsitaṃ . Atha no satthuno antaradhānaṃ hotīti. Evarūpo kho, cunda, satthā sāvakānaṃ kālaṅkato ananutappo hoti.",
+   "zh": "“然而，[[cunda|准陀]]，且说此一事例：世间出现了一位导师，他是阿拉汉、正自觉者。法被善说、善阐明，导向出离，导向寂静，由正自觉者所宣说。他的弟子们于正法中已通达义理，他们那全然圆满的梵行，被开显、被揭示、被收摄一切句、具神变示现地，乃至在天与人之间被善为宣说。而后，他们的导师隐没。[[cunda|准陀]]，像这样的导师命终之后，弟子们心无懊悔。这是什么缘故呢？‘世间出现了一位导师，他是阿拉汉、正自觉者。法被善说、善阐明，导向出离，导向寂静，由正自觉者所宣说。我们于正法中已通达义理，我们那全然圆满的梵行，被开显、被揭示、被收摄一切句、具神变示现地，乃至在天与人之间被善为宣说。而后，我们的导师隐没。’[[cunda|准陀]]，像这样的导师命终之后，弟子们心无懊悔。”",
+   "n": "171"
+  },
+  {
+   "idx": 17,
+   "pali": "Brahmacariyaaparipūrādikathā",
+   "zh": "梵行未圆满等论"
+  },
+  {
+   "idx": 18,
+   "pali": "‘‘Etehi cepi, cunda, aṅgehi samannāgataṃ brahmacariyaṃ hoti, no ca kho satthā hoti thero rattaññū cirapabbajito addhagato vayoanuppatto. Evaṃ taṃ brahmacariyaṃ aparipūraṃ hoti tenaṅgena.",
+   "zh": "“[[cunda|准陀]]，即使梵行具备这些支分，但若导师并非长老、久经岁月、久已出家、年迈已达人生暮年，那么，以此支分，那样的梵行便是不圆满的。",
+   "n": "172"
+  },
+  {
+   "idx": 19,
+   "pali": "‘‘Yato ca kho, cunda, etehi ceva aṅgehi samannāgataṃ brahmacariyaṃ hoti, satthā ca hoti thero rattaññū cirapabbajito addhagato vayoanuppatto. Evaṃ taṃ brahmacariyaṃ paripūraṃ hoti tenaṅgena.",
+   "zh": "“[[cunda|准陀]]，然而，当梵行具备这些支分，导师又是长老、久经岁月、久已出家、年迈已达人生暮年，以此支分，那样的梵行便是圆满的。"
+  },
+  {
+   "idx": 20,
+   "pali": "‘‘Etehi cepi, cunda, aṅgehi samannāgataṃ brahmacariyaṃ hoti, satthā ca hoti thero rattaññū cirapabbajito addhagato vayoanuppatto , no ca khvassa therā bhikkhū sāvakā honti viyattā vinītā visāradā pattayogakkhemā. Alaṃ samakkhātuṃ saddhammassa, alaṃ uppannaṃ parappavādaṃ sahadhammehi suniggahitaṃ niggahetvā sappāṭihāriyaṃ dhammaṃ desetuṃ. Evaṃ taṃ brahmacariyaṃ aparipūraṃ hoti tenaṅgena.",
+   "zh": "“[[cunda|准陀]]，若梵行具足这些支分，导师是长老、耆宿、久已出家、年迈寿高，但若缺少这样的长老比丘弟子——他们聪慧、已善调御、自信坚定、已得安稳，能宣说正法，能以正法善巧折服生起的外道邪说，并宣说具神变的法——那么，此梵行在这一支分上便不圆满。”",
+   "n": "173"
+  },
+  {
+   "idx": 21,
+   "pali": "‘‘Yato ca kho, cunda, etehi ceva aṅgehi samannāgataṃ brahmacariyaṃ hoti, satthā ca hoti thero rattaññū cirapabbajito addhagato vayoanuppatto, therā cassa bhikkhū sāvakā honti viyattā vinītā visāradā pattayogakkhemā. Alaṃ samakkhātuṃ saddhammassa, alaṃ uppannaṃ parappavādaṃ sahadhammehi suniggahitaṃ niggahetvā sappāṭihāriyaṃ dhammaṃ desetuṃ. Evaṃ taṃ brahmacariyaṃ paripūraṃ hoti tenaṅgena.",
+   "zh": "“[[cunda|准陀]]，当梵行具足这些支分，导师是长老、耆宿、久已出家、年迈寿高，并且有如是长老比丘弟子——他们聪慧、已善调御、自信坚定、已得安稳，能宣说正法，能以正法善巧折服生起的外道邪说，并宣说具神变的法——那时，此梵行便以此支分而得圆满。"
+  },
+  {
+   "idx": 22,
+   "pali": "‘‘Etehi cepi, cunda, aṅgehi samannāgataṃ brahmacariyaṃ hoti, satthā ca hoti thero rattaññū cirapabbajito addhagato vayoanuppatto, therā cassa bhikkhū sāvakā honti viyattā vinītā visāradā pattayogakkhemā. Alaṃ samakkhātuṃ saddhammassa, alaṃ uppannaṃ parappavādaṃ sahadhammehi suniggahitaṃ niggahetvā sappāṭihāriyaṃ dhammaṃ desetuṃ. No ca khvassa majjhimā bhikkhū sāvakā honti…pe… majjhimā cassa bhikkhū sāvakā honti, no ca khvassa navā bhikkhū sāvakā honti…pe… navā cassa bhikkhū sāvakā honti, no ca khvassa therā bhikkhuniyo sāvikā honti…pe… therā cassa bhikkhuniyo sāvikā honti, no ca khvassa majjhimā bhikkhuniyo sāvikā honti…pe… majjhimā cassa bhikkhuniyo sāvikā honti , no ca khvassa navā bhikkhuniyo sāvikā honti…pe… navā cassa bhikkhuniyo sāvikā honti, no ca khvassa upāsakā sāvakā honti gihī odātavasanā brahmacārino…pe… upāsakā cassa sāvakā honti gihī odātavasanā brahmacārino, no ca khvassa upāsakā sāvakā honti gihī odātavasanā kāmabhogino…pe… upāsakā cassa sāvakā honti gihī odātavasanā kāmabhogino, no ca khvassa upāsikā sāvikā honti gihiniyo odātavasanā brahmacāriniyo…pe… upāsikā cassa sāvikā honti gihiniyo odātavasanā brahmacāriniyo, no ca khvassa upāsikā sāvikā honti gihiniyo odātavasanā kāmabhoginiyo…pe… upāsikā cassa sāvikā honti gihiniyo odātavasanā kāmabhoginiyo, no ca khvassa brahmacariyaṃ hoti iddhañceva phītañca vitthārikaṃ bāhujaññaṃ puthubhūtaṃ yāva devamanussehi suppakāsitaṃ…pe… brahmacariyañcassa hoti iddhañceva phītañca vitthārikaṃ bāhujaññaṃ puthubhūtaṃ yāva devamanussehi suppakāsitaṃ, no ca kho lābhaggayasaggappattaṃ. Evaṃ taṃ brahmacariyaṃ aparipūraṃ hoti tenaṅgena.",
+   "zh": "“[[cunda|准陀]]，即使梵行具足这些支分，导师是长老、耆宿、久已出家、年迈寿高，也有长老比丘弟子，他们聪慧、已善调御、自信坚定、已得安稳，能宣说正法，能以正法善巧折服生起的外道邪说，并宣说具神变的法。然而，若没有中年比丘弟子……（中略）……若有中年比丘弟子，却没有新学比丘弟子……（中略）……若有新学比丘弟子，却没有长老比丘尼弟子……（中略）……若有长老比丘尼弟子，却没有中年比丘尼弟子……（中略）……若有中年比丘尼弟子，却没有新学比丘尼弟子……（中略）……若有新学比丘尼弟子，却没有近事男弟子——白衣居家、持守梵行者……（中略）……若有近事男弟子——白衣居家、持守梵行者，却没有近事男弟子——白衣居家、享受欲乐者……（中略）……若有近事男弟子——白衣居家、享受欲乐者，却没有近事女弟子——白衣居家、持守梵行者……（中略）……若有近事女弟子——白衣居家、持守梵行者，却没有近事女弟子——白衣居家、享受欲乐者……（中略）……若有近事女弟子——白衣居家、享受欲乐者，梵行却未兴盛、未繁荣、未广布、未为人众所知、未广远流传，未能乃至为天人所善显……（中略）……若梵行已兴盛、繁荣、广布、为人众所知、广远流传，乃至为天人所善显，却未达到利养的顶点、名声的顶点，那么，此梵行在这一支分上便不圆满。",
+   "n": "174"
+  },
+  {
+   "idx": 23,
+   "pali": "‘‘Yato ca kho, cunda, etehi ceva aṅgehi samannāgataṃ brahmacariyaṃ hoti, satthā ca hoti thero rattaññū cirapabbajito addhagato vayoanuppatto, therā cassa bhikkhū sāvakā honti viyattā vinītā visāradā pattayogakkhemā. Alaṃ samakkhātuṃ saddhammassa, alaṃ uppannaṃ parappavādaṃ sahadhammehi suniggahitaṃ niggahetvā sappāṭihāriyaṃ dhammaṃ desetuṃ. Majjhimā cassa bhikkhū sāvakā honti…pe… navā cassa bhikkhū sāvakā honti…pe… therā cassa bhikkhuniyo sāvikā honti…pe… majjhimā cassa bhikkhuniyo sāvikā honti…pe… navā cassa bhikkhuniyo sāvikā honti…pe… upāsakā cassa sāvakā honti…pe… gihī odātavasanā brahmacārino . Upāsakā cassa sāvakā honti gihī odātavasanā kāmabhogino…pe… upāsikā cassa sāvikā honti gihiniyo odātavasanā brahmacāriniyo…pe… upāsikā cassa sāvikā honti gihiniyo odātavasanā kāmabhoginiyo…pe… brahmacariyañcassa hoti iddhañceva phītañca vitthārikaṃ bāhujaññaṃ puthubhūtaṃ yāva devamanussehi suppakāsitaṃ, lābhaggappattañca yasaggappattañca. Evaṃ taṃ brahmacariyaṃ paripūraṃ hoti tenaṅgena.",
+   "zh": "“[[cunda|准陀]]，当梵行具足这些支分，导师又是长老、耆宿、久出家者、已至暮年，他的长老比丘弟子们聪慧、调伏、自信、已得安稳，堪能宣说正法，堪能以正法善加破斥已生起的异论，而后演说具神变之法。他的中年比丘弟子们……（中略）……他的新学比丘弟子们……他的长老比丘尼弟子们……他的中年比丘尼弟子们……他的新学比丘尼弟子们……他的近事男弟子们，乃在家白衣之梵行者……他的近事男弟子们，乃在家白衣而受用欲乐者……他的近事女弟子们，乃在家白衣之梵行女……他的近事女弟子们，乃在家白衣而受用欲乐者……他的梵行兴盛、繁荣、广布、人众、广远，乃至为天人所善显，并达到利养的顶点、名声的顶点。如此，梵行以此支分而得圆满。"
+  },
+  {
+   "idx": 24,
+   "pali": "‘‘Ahaṃ kho pana, cunda, etarahi satthā loke uppanno arahaṃ sammāsambuddho. Dhammo ca svākkhāto suppavedito niyyāniko upasamasaṃvattaniko sammāsambuddhappavedito. Viññāpitatthā ca me sāvakā saddhamme, kevalañca tesaṃ paripūraṃ brahmacariyaṃ āvikataṃ uttānīkataṃ sabbasaṅgāhapadakataṃ sappāṭihīrakataṃ yāva devamanussehi suppakāsitaṃ. Ahaṃ kho pana, cunda, etarahi satthā thero rattaññū cirapabbajito addhagato vayoanuppatto.",
+   "zh": "“[[cunda|准陀]]，如今我已出现于世，为导师、阿拉汉、正自觉者。法已善说、善阐扬，能导向解脱，带来寂静，为等正觉者所宣说。我已令弟子们解了正法之义，也为他们完整、清晰地开示了那圆满的梵行，它涵摄一切要点，有示现，乃至为天人所善阐明。[[cunda|准陀]]，如今我身为导师，正是那位长老、久历岁月、出家已久、已届垂暮之年的长者。”",
+   "n": "175"
+  },
+  {
+   "idx": 25,
+   "pali": "‘‘Santi kho pana me, cunda, etarahi therā bhikkhū sāvakā honti viyattā vinītā visāradā pattayogakkhemā. Alaṃ samakkhātuṃ saddhammassa, alaṃ uppannaṃ parappavādaṃ sahadhammehi suniggahitaṃ niggahetvā sappāṭihāriyaṃ dhammaṃ desetuṃ. Santi kho pana me, cunda , etarahi majjhimā bhikkhū sāvakā…pe… santi kho pana me, cunda, etarahi navā bhikkhū sāvakā…pe… santi kho pana me, cunda, etarahi therā bhikkhuniyo sāvikā…pe… santi kho pana me, cunda, etarahi majjhimā bhikkhuniyo sāvikā…pe… santi kho pana me, cunda, etarahi navā bhikkhuniyo sāvikā…pe… santi kho pana me, cunda, etarahi upāsakā sāvakā gihī odātavasanā brahmacārino…pe… santi kho pana me, cunda, etarahi upāsakā sāvakā gihī odātavasanā kāmabhogino…pe… santi kho pana me, cunda, etarahi upāsikā sāvikā gihiniyo odātavasanā brahmacāriniyo…pe… santi kho pana me, cunda, etarahi upāsikā sāvikā gihiniyo odātavasanā kāmabhoginiyo…pe… etarahi kho pana me, cunda, brahmacariyaṃ iddhañceva phītañca vitthārikaṃ bāhujaññaṃ puthubhūtaṃ yāva devamanussehi suppakāsitaṃ.",
+   "zh": "“[[cunda|准陀]]，我如今确有长老比丘弟子，他们聪慧、训练有素、无所畏惧、已抵达安稳，堪能阐扬正法，堪能以正法如理地破斥其他所生起的论说，并以神变示现说法。[[cunda|准陀]]，我如今确有中年比丘弟子……[[cunda|准陀]]，我如今确有新学比丘弟子……[[cunda|准陀]]，我如今确有长老比丘尼弟子……[[cunda|准陀]]，我如今确有中年比丘尼弟子……[[cunda|准陀]]，我如今确有新学比丘尼弟子……[[cunda|准陀]]，我如今确有白衣在家的近事男弟子，他们是梵行者……[[cunda|准陀]]，我如今确有白衣在家的近事男弟子，他们是受用欲乐者……[[cunda|准陀]]，我如今确有白衣在家的近事女弟子，她们是梵行者……[[cunda|准陀]]，我如今确有白衣在家的近事女弟子，她们是受用欲乐者……[[cunda|准陀]]，如今我的梵行确是兴盛、繁荣、弘传广布、被人众广知、遍及四方，乃至被天与人完美地宣说。"
+  },
+  {
+   "idx": 26,
+   "pali": "‘‘Yāvatā kho, cunda, etarahi satthāro loke uppannā, nāhaṃ, cunda, aññaṃ ekasatthārampi samanupassāmi evaṃlābhaggayasaggappattaṃ yatharivāhaṃ. Yāvatā kho pana, cunda, etarahi saṅgho vā gaṇo vā loke uppanno; nāhaṃ, cunda, aññaṃ ekaṃ saṃghampi samanupassāmi evaṃlābhaggayasaggappattaṃ yatharivāyaṃ, cunda, bhikkhusaṅgho. Yaṃ kho taṃ, cunda, sammā vadamāno vadeyya – ‘sabbākārasampannaṃ sabbākāraparipūraṃ anūnamanadhikaṃ svākkhātaṃ kevalaṃ paripūraṃ brahmacariyaṃ suppakāsita’nti. Idameva taṃ sammā vadamāno vadeyya – ‘sabbākārasampannaṃ…pe… suppakāsita’nti.",
+   "zh": "“[[cunda|准陀]]，于现今世间已出现的所有导师中，我不见任何一位导师像我这样，达到利养与名声的顶点。[[cunda|准陀]]，于现今世间已出现的僧团或教团中，我不见任何僧团像这比丘僧团那样，达到利养与名声的顶点。[[cunda|准陀]]，如果有人要正确地赞叹：‘它是具足一切特征、圆满一切特征、无减无增、善说、完全圆满的梵行，被很好地阐明’，那么，他正确地所说的，正是这个：‘它是具足一切特征……被很好地阐明。’”",
+   "n": "176"
+  },
+  {
+   "idx": 27,
+   "pali": "‘‘Udako sudaṃ, cunda, rāmaputto evaṃ vācaṃ bhāsati – ‘passaṃ na passatī’ti. Kiñca passaṃ na passatīti? Khurassa sādhunisitassa talamassa passati, dhārañca khvassa na passati. Idaṃ vuccati – ‘passaṃ na passatī’ti. Yaṃ kho panetaṃ, cunda, udakena rāmaputtena bhāsitaṃ hīnaṃ gammaṃ pothujjanikaṃ anariyaṃ anatthasaṃhitaṃ khurameva sandhāya. Yañca taṃ , cunda, sammā vadamāno vadeyya – ‘passaṃ na passatī’ti, idameva taṃ sammā vadamāno vadeyya – ‘passaṃ na passatī’ti. Kiñca passaṃ na passatīti? Evaṃ sabbākārasampannaṃ sabbākāraparipūraṃ anūnamanadhikaṃ svākkhātaṃ kevalaṃ paripūraṃ brahmacariyaṃ suppakāsitanti, iti hetaṃ passati . Idamettha apakaḍḍheyya, evaṃ taṃ parisuddhataraṃ assāti, iti hetaṃ na passati . Idamettha upakaḍḍheyya, evaṃ taṃ paripūraṃ assāti, iti hetaṃ na passati. Idaṃ vuccati cunda – ‘passaṃ na passatī’ti. Yaṃ kho taṃ, cunda, sammā vadamāno vadeyya – ‘sabbākārasampannaṃ…pe… brahmacariyaṃ suppakāsita’nti. Idameva taṃ sammā vadamāno vadeyya – ‘sabbākārasampannaṃ sabbākāraparipūraṃ anūnamanadhikaṃ svākkhātaṃ kevalaṃ paripūraṃ brahmacariyaṃ suppakāsita’nti.",
+   "zh": "“[[cunda|准陀]]，优陀迦·罗摩子曾说过这样的话：‘看见的人却看不见。’什么是‘看见的人却看不见’呢？他看见已极锋利剃刀的刀面，却看不见它的刀刃。这就叫作‘看见的人却看不见’。[[cunda|准陀]]，优陀迦·罗摩子所说的这句话，是低劣、凡俗、属于凡夫、非圣者、不具利益的，只是就一把剃刀而言。然而，[[cunda|准陀]]，如果有人要正确地赞叹说‘看见的人却看不见’，那么，他正确地所说的，正是这个：‘看见的人却看不见。’怎么是‘看见的人却看不见’呢？‘如此具足一切特征、圆满一切特征、无减无增、善说、完全圆满的梵行，被很好地阐明’——像这样，他看见了这整体。‘在此处，如果将这部分削减，它会变得更为清净’——像这样，他不见其中的道理。‘在此处，如果将这部分增添，它会变得圆满’——像这样，他不见其中的道理。[[cunda|准陀]]，这就叫作‘看见的人却看不见’。[[cunda|准陀]]，如果有人要正确地赞叹：‘它是具足一切特征……梵行被很好地阐明’，那么，他正确地所说的，正是这个：‘它是具足一切特征、圆满一切特征、无减无增、善说、完全圆满的梵行，被很好地阐明。’”"
+  },
+  {
+   "idx": 28,
+   "pali": "Saṅgāyitabbadhammo",
+   "zh": "应合诵之法"
+  },
+  {
+   "idx": 29,
+   "pali": "Tasmātiha, cunda, ye vo mayā dhammā abhiññā desitā, tattha sabbeheva saṅgamma samāgamma atthena atthaṃ byañjanena byañjanaṃ saṅgāyitabbaṃ na vivaditabbaṃ, yathayidaṃ brahmacariyaṃ addhaniyaṃ assa ciraṭṭhitikaṃ, tadassa bahujanahitāya bahujanasukhāya lokānukampāya atthāya hitāya sukhāya devamanussānaṃ. Katame ca te, cunda , dhammā mayā abhiññā desitā, yattha sabbeheva saṅgamma samāgamma atthena atthaṃ byañjanena byañjanaṃ saṅgāyitabbaṃ na vivaditabbaṃ, yathayidaṃ brahmacariyaṃ addhaniyaṃ assa ciraṭṭhitikaṃ, tadassa bahujanahitāya bahujanasukhāya lokānukampāya atthāya hitāya sukhāya devamanussānaṃ? Seyyathidaṃ – cattāro satipaṭṭhānā, cattāro sammappadhānā, cattāro iddhipādā, pañcindriyāni, pañca balāni, satta bojjhaṅgā , ariyo aṭṭhaṅgiko maggo. Ime kho te, cunda, dhammā mayā abhiññā desitā. Yattha sabbeheva saṅgamma samāgamma atthena atthaṃ byañjanena byañjanaṃ saṅgāyitabbaṃ na vivaditabbaṃ, yathayidaṃ brahmacariyaṃ addhaniyaṃ assa ciraṭṭhitikaṃ, tadassa bahujanahitāya bahujanasukhāya lokānukampāya atthāya hitāya sukhāya devamanussānaṃ.",
+   "zh": "“[[cunda|准陀]]，因此，对于我以证智亲证后为你们宣说的法，你们应当齐聚一处、会合和合，使义理与义理相印，文句与文句相符，共同合诵，而不应生起诤论，如此，这梵行方能长久安住、流传久远。这将为众人带来利益，为众人带来安乐，出于对世间的悲悯，为天与人带来利益、福祉与安乐。[[cunda|准陀]]，哪些是我以证智亲证后为你们宣说的法，你们应当齐聚一处、会合和合，使义理与义理相印，文句与文句相符，共同合诵，而不应生起诤论，以便这梵行长久安住、流传久远，为众人带来利益与安乐，出于对世间的悲悯，为天与人带来利益、福祉与安乐呢？即：四念处、四正勤、四神足、五根、五力、七觉支、八支圣道。[[cunda|准陀]]，这些便是我为你们宣说、以证智亲证的法。对于这些法，你们应当齐聚一处、会合和合，使义理与义理相印，文句与文句相符，共同合诵，而不应生起诤论，以便这梵行长久安住、流传久远，为众人带来利益与安乐，出于对世间的悲悯，为天与人带来利益、福祉与安乐。”",
+   "n": "177"
+  },
+  {
+   "idx": 30,
+   "pali": "Saññāpetabbavidhi",
+   "zh": "令得解了之规"
+  },
+  {
+   "idx": 31,
+   "pali": "‘‘Tesañca vo, cunda, samaggānaṃ sammodamānānaṃ avivadamānānaṃ sikkhataṃ aññataro sabrahmacārī saṅghe dhammaṃ bhāseyya. Tatra ce tumhākaṃ evamassa – ‘ayaṃ kho āyasmā atthañceva micchā gaṇhāti, byañjanāni ca micchā ropetī’ti. Tassa neva abhinanditabbaṃ na paṭikkositabbaṃ, anabhinanditvā appaṭikkositvā so evamassa vacanīyo – ‘imassa nu kho, āvuso, atthassa imāni vā byañjanāni etāni vā byañjanāni katamāni opāyikatarāni, imesañca byañjanānaṃ ayaṃ vā attho eso vā attho katamo opāyikataro’ti ? So ce evaṃ vadeyya – ‘imassa kho, āvuso, atthassa imāneva byañjanāni opāyikatarāni, yā ceva etāni; imesañca byañjanānaṃ ayameva attho opāyikataro, yā ceva eso’ti. So neva ussādetabbo na apasādetabbo, anussādetvā anapasādetvā sveva sādhukaṃ saññāpetabbo tassa ca atthassa tesañca byañjanānaṃ nisantiyā.",
+   "zh": "“[[cunda|准陀]]，当你们和合、融洽、不相诤论地修学时，若有一位同梵行者在僧团中说法，而你们心里这样想：‘这位尊者误解了义理，文句也安排失当。’那么，对于他，你们既不应心生随喜，也不应加以驳斥。不随喜、不驳斥之后，应当这样对他说：‘贤友，就这个义理而言，是这些文句更为贴切，还是那些文句更为贴切？就这些文句而言，是这个义理更为贴切，还是那个义理更为贴切？’如果他这么说：‘贤友，就这个义理而言，正是这些文句更为贴切；就这些文句而言，正是这个义理更为贴切。’那么，对于他，你们不应赞扬，也不应指摘。不赞扬、不指摘之后，应当妥善地引导他，使他正确了知那义理与那些文句。”",
+   "n": "178"
+  },
+  {
+   "idx": 32,
+   "pali": "‘‘Aparopi ce, cunda, sabrahmacārī saṅghe dhammaṃ bhāseyya. Tatra ce tumhākaṃ evamassa – ‘ayaṃ kho āyasmā atthañhi kho micchā gaṇhāti byañjanāni sammā ropetī’ti. Tassa neva abhinanditabbaṃ na paṭikkositabbaṃ, anabhinanditvā appaṭikkositvā so evamassa vacanīyo – ‘imesaṃ nu kho, āvuso, byañjanānaṃ ayaṃ vā attho eso vā attho katamo opāyikataro’ti? So ce evaṃ vadeyya – ‘imesaṃ kho, āvuso, byañjanānaṃ ayameva attho opāyikataro, yā ceva eso’ti. So neva ussādetabbo na apasādetabbo, anussādetvā anapasādetvā sveva sādhukaṃ saññāpetabbo tasseva atthassa nisantiyā.",
+   "zh": "“再者，[[cunda|准陀]]，若僧团中有同梵行者说法，你们若这样想：‘这位尊者错解了义理，但文句安立得正确。’那么，对他既不应随喜，也不应驳斥；在不随喜、不驳斥之后，应这样对他说：‘贤友，对于这些文句，是这个义理还是那个义理更为合适呢？’如果他这样说：‘贤友，对于这些文句，正是这个义理更合适，而不是那个。’此时，既不应对他加以抬举，也不应加以贬抑；在不抬举、不贬抑之后，应善巧地引导他辨明那份义理。”",
+   "n": "179"
+  },
+  {
+   "idx": 33,
+   "pali": "‘‘Aparopi ce, cunda, sabrahmacārī saṅghe dhammaṃ bhāseyya. Tatra ce tumhākaṃ evamassa – ‘ayaṃ kho āyasmā atthañhi kho sammā gaṇhāti byañjanāni micchā ropetī’ti. Tassa neva abhinanditabbaṃ na paṭikkositabbaṃ; anabhinanditvā appaṭikkositvā so evamassa vacanīyo – ‘imassa nu kho, āvuso, atthassa imāni vā byañjanāni etāni vā byañjanāni katamāni opāyikatarānī’ti? So ce evaṃ vadeyya – ‘imassa kho, āvuso, atthassa imāneva byañjanāni opayikatarāni, yāni ceva etānī’ti . So neva ussādetabbo na apasādetabbo; anussādetvā anapasādetvā sveva sādhukaṃ saññāpetabbo tesaññeva byañjanānaṃ nisantiyā.",
+   "zh": "“再者，[[cunda|准陀]]，若僧团中有同梵行者说法，你们若这样想：‘这位尊者正确通达了义理，但文句安立有误。’那么，对他既不应随喜，也不应驳斥；在不随喜、不驳斥之后，应这样对他说：‘贤友，对于这个义理，这些文句与那些文句，哪一种更为恰当呢？’如果他这样说：‘贤友，对于这个义理，正是这些文句更为恰当，而非那些。’此时，既不应对他加以赞扬，也不应加以贬低；在不赞扬、不贬低之后，应善巧地使他理解那些文句的检验。”",
+   "n": "180"
+  },
+  {
+   "idx": 34,
+   "pali": "‘‘Aparopi ce, cunda, sabrahmacārī saṅghe dhammaṃ bhāseyya. Tatra ce tumhākaṃ evamassa – ‘ayaṃ kho āyasmā atthañceva sammā gaṇhāti byañjanāni ca sammā ropetī’ti. Tassa ‘sādhū’ti bhāsitaṃ abhinanditabbaṃ anumoditabbaṃ; tassa ‘sādhū’ti bhāsitaṃ abhinanditvā anumoditvā so evamassa vacanīyo – ‘lābhā no āvuso, suladdhaṃ no āvuso, ye mayaṃ āyasmantaṃ tādisaṃ sabrahmacāriṃ passāma evaṃ atthupetaṃ byañjanupeta’nti.",
+   "zh": "“再者，[[cunda|准陀]]，若僧团中有同梵行者说法，你们若这样想：‘这位尊者既正确通达了义理，文句也安立得正确。’那么，对他所说的，应赞许：‘善哉！’并生起随喜；在赞许‘善哉’并生起随喜之后，应这样对他说：‘贤友，我们真是获益，贤友，我们真是得大利益，才得以见到像尊者这样义理与文句俱足的同梵行者。’”",
+   "n": "181"
+  },
+  {
+   "idx": 35,
+   "pali": "Paccayānuññātakāraṇaṃ",
+   "zh": "开许资具的缘由"
+  },
+  {
+   "idx": 36,
+   "pali": "‘‘Na vo ahaṃ, cunda, diṭṭhadhammikānaṃyeva āsavānaṃ saṃvarāya dhammaṃ desemi. Na panāhaṃ, cunda, samparāyikānaṃyeva āsavānaṃ paṭighātāya dhammaṃ desemi. Diṭṭhadhammikānaṃ cevāhaṃ, cunda, āsavānaṃ saṃvarāya dhammaṃ desemi; samparāyikānañca āsavānaṃ paṭighātāya. Tasmātiha, cunda, yaṃ vo mayā cīvaraṃ anuññātaṃ, alaṃ vo taṃ – yāvadeva sītassa paṭighātāya, uṇhassa paṭighātāya, ḍaṃsamakasavātātapasarīsapa samphassānaṃ paṭighātāya, yāvadeva hirikopīnapaṭicchādanatthaṃ. Yo vo mayā piṇḍapāto anuññāto, alaṃ vo so yāvadeva imassa kāyassa ṭhitiyā yāpanāya vihiṃsūparatiyā brahmacariyānuggahāya, iti purāṇañca vedanaṃ paṭihaṅkhāmi, navañca vedanaṃ na uppādessāmi, yātrā ca me bhavissati anavajjatā ca phāsuvihāro ca . Yaṃ vo mayā senāsanaṃ anuññātaṃ, alaṃ vo taṃ yāvadeva sītassa paṭighātāya, uṇhassa paṭighātāya, ḍaṃsamakasavātātapasarīsapasamphassānaṃ paṭighātāya, yāvadeva utuparissayavinodana paṭisallānārāmatthaṃ. Yo vo mayā gilānapaccayabhesajja parikkhāro anuññāto, alaṃ vo so yāvadeva uppannānaṃ veyyābādhikānaṃ vedanānaṃ paṭighātāya abyāpajjaparamatāya .",
+   "zh": "“[[cunda|准陀]]，我不只为防护现世烦恼而说法。[[cunda|准陀]]，我也不只为对治来世烦恼而说法。[[cunda|准陀]]，我既为防护现世烦恼而说法，也为对治来世烦恼而说法。因此，[[cunda|准陀]]，我所允许你们受用的衣，对你们而言是足够的——仅为了防护寒冷、防护炎热，防护虻蚊、风吹、日晒、爬虫类的触恼，仅为了遮蔽羞处的目的。我所允许你们受用的钵食，对你们而言是足够的——仅为了此身的存续与安住，为了止息伤害，为了资助梵行，如此思维：‘我将灭除旧受，不令新受生起，我将得以存续、无有过患、安乐而住。’我所允许你们受用的住所，对你们而言是足够的——仅为了防护寒冷、防护炎热，防护虻蚊、风吹、日晒、爬虫类的触恼，仅为了避开季节的危难、乐于独处的目的。我所允许你们受用的病者所需之药品资具，对你们而言是足够的——仅为了对治已生起的病痛之受，以达致无病为最上。”",
+   "n": "182"
+  },
+  {
+   "idx": 37,
+   "pali": "Sukhallikānuyogo",
+   "zh": "耽著乐行"
+  },
+  {
+   "idx": 38,
+   "pali": "‘‘Ṭhānaṃ kho panetaṃ, cunda, vijjati yaṃ aññatitthiyā paribbājakā evaṃ vadeyyuṃ – ‘sukhallikānuyogamanuyuttā samaṇā sakyaputtiyā viharantī’ti. Evaṃvādino , cunda, aññatitthiyā paribbājakā evamassu vacanīyā – ‘katamo so , āvuso, sukhallikānuyogo? Sukhallikānuyogā hi bahū anekavihitā nānappakārakā’ti.",
+   "zh": "“[[cunda|准陀]]，确实会有这样的情况：外道游行者可能会说：‘释迦子沙门住于耽著享乐。’[[cunda|准陀]]，对这样说的外道游行者，应当这样回答：‘贤友，你们说的耽著享乐是指哪一种呢？耽著享乐有众多、种种、不同的类别。’”",
+   "n": "183"
+  },
+  {
+   "idx": 39,
+   "pali": "‘‘Cattārome, cunda, sukhallikānuyogā hīnā gammā pothujjanikā anariyā anatthasaṃhitā na nibbidāya na virāgāya na nirodhāya na upasamāya na abhiññāya na sambodhāya na nibbānāya saṃvattanti. Katame cattāro?",
+   "zh": "“[[cunda|准陀]]，有这四种耽著乐行，是卑下、粗俗、凡夫、非圣者、没有利益的，它们不导向厌离、不导向离欲、不导向灭尽、不导向寂静、不导向证智、不导向正觉、不导向涅槃。是哪四种呢？"
+  },
+  {
+   "idx": 40,
+   "pali": "‘‘Idha, cunda, ekacco bālo pāṇe vadhitvā vadhitvā attānaṃ sukheti pīṇeti. Ayaṃ paṭhamo sukhallikānuyogo.",
+   "zh": "“[[cunda|准陀]]，在此，有愚人以不断地杀害众生而自得快乐与满足。这是第一种耽著乐行。”"
+  },
+  {
+   "idx": 41,
+   "pali": "‘‘Puna caparaṃ, cunda, idhekacco adinnaṃ ādiyitvā ādiyitvā attānaṃ sukheti pīṇeti. Ayaṃ dutiyo sukhallikānuyogo.",
+   "zh": "“再者，[[cunda|准陀]]，有人一再不与取，以此使自己快乐、满足。这是第二种耽著乐行。”"
+  },
+  {
+   "idx": 42,
+   "pali": "‘‘Puna caparaṃ, cunda, idhekacco musā bhaṇitvā bhaṇitvā attānaṃ sukheti pīṇeti. Ayaṃ tatiyo sukhallikānuyogo.",
+   "zh": "“再者，[[cunda|准陀]]，有人一再妄语，以此使自己快乐、满足。这是第三种耽著乐行。”"
+  },
+  {
+   "idx": 43,
+   "pali": "‘‘Puna caparaṃ, cunda, idhekacco pañcahi kāmaguṇehi samappito samaṅgībhūto paricāreti. Ayaṃ catuttho sukhallikānuyogo.",
+   "zh": "“再者，[[cunda|准陀]]，有人具足五种欲乐，受用自娱。这是第四种耽著乐行。”"
+  },
+  {
+   "idx": 44,
+   "pali": "‘‘Ime kho, cunda, cattāro sukhallikānuyogā hīnā gammā pothujjanikā anariyā anatthasaṃhitā na nibbidāya na virāgāya na nirodhāya na upasamāya na abhiññāya na sambodhāya na nibbānāya saṃvattanti.",
+   "zh": "“[[cunda|准陀]]，这四种乐著之随行，是低级、粗俗、凡夫、非圣贤、无益的，不导向厌离、不导向离欲、不导向灭尽、不导向寂静、不导向证智、不导向觉悟、不导向涅槃。”"
+  },
+  {
+   "idx": 45,
+   "pali": "‘‘Ṭhānaṃ kho panetaṃ, cunda, vijjati yaṃ aññatitthiyā paribbājakā evaṃ vadeyyuṃ – ‘‘ime cattāro sukhallikānuyoge anuyuttā samaṇā sakyaputtiyā viharantī’ti. Te vo ‘māhevaṃ’ tissu vacanīyā. Na te vo sammā vadamānā vadeyyuṃ, abbhācikkheyyuṃ asatā abhūtena.",
+   "zh": "“[[cunda|准陀]]，然而这是有可能发生的情况：外道的游方者们可能会这样说——‘释迦族的沙门弟子，正是依这四种乐著之随行而生活。’应对他们说：‘并非如此。’他们这样说，并非如实而说，是以不实不真之语在诽谤你们。”"
+  },
+  {
+   "idx": 46,
+   "pali": "‘‘Cattārome, cunda, sukhallikānuyogā ekantanibbidāya virāgāya nirodhāya upasamāya abhiññāya sambodhāya nibbānāya saṃvattanti. Katame cattāro?",
+   "zh": "“[[cunda|准陀]]，有这四种乐著之随行，能唯一导向厌离、导向离欲、导向灭尽、导向寂静、导向证智、导向觉悟、导向涅槃。是哪四种呢？”",
+   "n": "184"
+  },
+  {
+   "idx": 47,
+   "pali": "‘‘Idha , cunda, bhikkhu vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṃ savicāraṃ vivekajaṃ pītisukhaṃ paṭhamaṃ jhānaṃ upasampajja viharati. Ayaṃ paṭhamo sukhallikānuyogo.",
+   "zh": "“[[cunda|准陀]]，在此，有比丘远离感官欲乐，远离不善法，有寻有伺，由远离而生起的喜与乐，进入并安住于初禅。这是第一种乐著之随行。”"
+  },
+  {
+   "idx": 48,
+   "pali": "‘‘Puna caparaṃ, cunda, bhikkhu vitakkavicārānaṃ vūpasamā…pe… dutiyaṃ jhānaṃ upasampajja viharati. Ayaṃ dutiyo sukhallikānuyogo.",
+   "zh": "“再者，[[cunda|准陀]]，有比丘平息了寻与伺，内净一心，无寻无伺，由定而生起的喜与乐，进入并安住于第二禅那。这是第二种乐著之随行。"
+  },
+  {
+   "idx": 49,
+   "pali": "‘‘Puna caparaṃ, cunda, bhikkhu pītiyā ca virāgā…pe… tatiyaṃ jhānaṃ upasampajja viharati. Ayaṃ tatiyo sukhallikānuyogo.",
+   "zh": "“再者，[[cunda|准陀]]，有比丘对喜离欲，住于舍，正念正知，以身受乐，即如圣者们所说的‘舍、念、乐住’，进入并安住于第三禅那。这是第三种乐著之随行。"
+  },
+  {
+   "idx": 50,
+   "pali": "‘‘Puna caparaṃ, cunda, bhikkhu sukhassa ca pahānā dukkhassa ca pahānā…pe… catutthaṃ jhānaṃ upasampajja viharati. Ayaṃ catuttho sukhallikānuyogo.",
+   "zh": "“再者，[[cunda|准陀]]，有比丘舍断了乐、舍断了苦，……进入并安住于第四禅那。这是第四种对安乐的追求。"
+  },
+  {
+   "idx": 51,
+   "pali": "‘‘Ime kho, cunda, cattāro sukhallikānuyogā ekantanibbidāya virāgāya nirodhāya upasamāya abhiññāya sambodhāya nibbānāya saṃvattanti.",
+   "zh": "“[[cunda|准陀]]，这四种对安乐的追求，能纯粹地导向厌离、离欲、灭尽、寂静、证智、正觉、涅槃。”"
+  },
+  {
+   "idx": 52,
+   "pali": "‘‘Ṭhānaṃ kho panetaṃ, cunda, vijjati yaṃ aññatitthiyā paribbājakā evaṃ vadeyyuṃ – ‘‘ime cattāro sukhallikānuyoge anuyuttā samaṇā sakyaputtiyā viharantī’ti. Te vo ‘evaṃ’ tissu vacanīyā. Sammā te vo vadamānā vadeyyuṃ, na te vo abbhācikkheyyuṃ asatā abhūtena.",
+   "zh": "“[[cunda|准陀]]，这是很有可能的：异教游方者们也许会这样说——‘释迦子沙门住于这四种对安乐的追求。’对于他们，应当回答：‘正是如此。’他们如此说是正确的说法，并未以不实、虚妄之辞诽谤你们。”"
+  },
+  {
+   "idx": 53,
+   "pali": "Sukhallikānuyogānisaṃso",
+   "zh": "追求安乐的功德"
+  },
+  {
+   "idx": 54,
+   "pali": "‘‘Ṭhānaṃ kho panetaṃ, cunda, vijjati, yaṃ aññatitthiyā paribbājakā evaṃ vadeyyuṃ – ‘ime panāvuso, cattāro sukhallikānuyoge anuyuttānaṃ viharataṃ kati phalāni katānisaṃsā pāṭikaṅkhā’ti? Evaṃvādino, cunda, aññatitthiyā paribbājakā evamassu vacanīyā – ‘ime kho, āvuso, cattāro sukhallikānuyoge anuyuttānaṃ viharataṃ cattāri phalāni cattāro ānisaṃsā pāṭikaṅkhā. Katame cattāro? Idhāvuso, bhikkhu tiṇṇaṃ saṃyojanānaṃ parikkhayā sotāpanno hoti avinipātadhammo niyato sambodhiparāyaṇo. Idaṃ paṭhamaṃ phalaṃ, paṭhamo ānisaṃso. Puna caparaṃ, āvuso, bhikkhu tiṇṇaṃ saṃyojanānaṃ parikkhayā rāgadosamohānaṃ tanuttā sakadāgāmī hoti, sakideva imaṃ lokaṃ āgantvā dukkhassantaṃ karoti. Idaṃ dutiyaṃ phalaṃ, dutiyo ānisaṃso. Puna caparaṃ, āvuso, bhikkhu pañcannaṃ orambhāgiyānaṃ saṃyojanānaṃ parikkhayā opapātiko hoti, tattha parinibbāyī anāvattidhammo tasmā lokā. Idaṃ tatiyaṃ phalaṃ, tatiyo ānisaṃso. Puna caparaṃ, āvuso, bhikkhu āsavānaṃ khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharati. Idaṃ catutthaṃ phalaṃ catuttho ānisaṃso. Ime kho, āvuso, cattāro sukhallikānuyoge anuyuttānaṃ viharataṃ imāni cattāri phalāni, cattāro ānisaṃsā pāṭikaṅkhā’’ti.",
+   "zh": "“[[cunda|准陀]]，可能会有这样的情况：其他教派的游方者们这样问道——‘贤友们，对于依这四种乐住随行而住的人，能期待多少果、多少功德利益呢？’[[cunda|准陀]]，当那些其他教派的游方者们这样问时，应当这样回答他们：‘贤友们，对于依这四种乐住随行而住的人，可期待四种果、四种功德利益。哪四种呢？贤友们，在此，有比丘灭尽三结，成为入流，不再堕入恶道，必定趋向正觉。这是第一果、第一功德利益。再者，贤友们，有比丘灭尽三结，并减弱贪、嗔、痴，成为一来，只需再来此世间一次，便作苦的尽头。这是第二果、第二功德利益。再者，贤友们，有比丘灭尽五下分结，成为化生者，在那里般涅槃，再不会从这个世间回来。这是第三果、第三功德利益。再者，贤友们，有比丘灭尽诸漏，于现法中，自己以证智证得并安住于无漏的心解脱、慧解脱。这是第四果、第四功德利益。贤友们，对于依这四种乐住随行而住的人，可期待的就是这四种果、这四种功德利益。’”",
+   "n": "185"
+  },
+  {
+   "idx": 55,
+   "pali": "Khīṇāsavaabhabbaṭhānaṃ",
+   "zh": "漏尽者不可能处"
+  },
+  {
+   "idx": 56,
+   "pali": "‘‘Ṭhānaṃ kho panetaṃ, cunda, vijjati yaṃ aññatitthiyā paribbājakā evaṃ vadeyyuṃ – ‘aṭṭhitadhammā samaṇā sakyaputtiyā viharantī’ti. Evaṃvādino, cunda, aññatitthiyā paribbājakā evamassu vacanīyā – ‘atthi kho, āvuso, tena bhagavatā jānatā passatā arahatā sammāsambuddhena sāvakānaṃ dhammā desitā paññattā yāvajīvaṃ anatikkamanīyā. Seyyathāpi, āvuso, indakhīlo vā ayokhīlo vā gambhīranemo sunikhāto acalo asampavedhī. Evameva kho, āvuso, tena bhagavatā jānatā passatā arahatā sammāsambuddhena sāvakānaṃ dhammā desitā paññattā yāvajīvaṃ anatikkamanīyā. Yo so, āvuso, bhikkhu arahaṃ khīṇāsavo vusitavā katakaraṇīyo ohitabhāro anuppattasadattho parikkhīṇabhavasaṃyojano sammadaññā vimutto, abhabbo so nava ṭhānāni ajjhācarituṃ. Abhabbo, āvuso, khīṇāsavo bhikkhu sañcicca pāṇaṃ jīvitā voropetuṃ; abhabbo khīṇāsavo bhikkhu adinnaṃ theyyasaṅkhātaṃ ādiyituṃ; abhabbo khīṇāsavo bhikkhu methunaṃ dhammaṃ paṭisevituṃ; abhabbo khīṇāsavo bhikkhu sampajānamusā bhāsituṃ; abhabbo khīṇāsavo bhikkhu sannidhikārakaṃ kāme paribhuñjituṃ seyyathāpi pubbe āgārikabhūto; abhabbo khīṇāsavo bhikkhu chandāgatiṃ gantuṃ; abhabbo khīṇāsavo bhikkhu dosāgatiṃ gantuṃ; abhabbo khīṇāsavo bhikkhu mohāgatiṃ gantuṃ; abhabbo khīṇāsavo bhikkhu bhayāgatiṃ gantuṃ. Yo so, āvuso, bhikkhu arahaṃ khīṇāsavo vusitavā katakaraṇīyo ohitabhāro anuppattasadattho parikkhīṇabhavasaṃyojano sammadaññā vimutto, abhabbo so imāni nava ṭhānāni ajjhācaritu’’nti.",
+   "zh": "“[[cunda|准陀]]，这是有可能的：异教游方者可能会这样说——‘沙门释迦子们所住之法并不稳固。’[[cunda|准陀]]，面对这样说的异教游方者，应这样回答：‘贤友们，确有彼世尊、知者、见者、阿拉汉、正自觉者为弟子们所教导、所施设的诸法，尽形寿不可逾越。贤友们，譬如那因陀罗柱或铁柱，根基深埋，善加安立，不动不摇。同样地，贤友们，彼世尊、知者、见者、阿拉汉、正自觉者为弟子们所教导、所施设的诸法，尽形寿不可逾越。贤友们，凡那位比丘是阿拉汉、漏尽者、梵行已立、所作已办、已舍重担、已达己利、有结已尽、正智解脱者，他不可能行九事。贤友们，漏尽比丘不可能故意夺命；漏尽比丘不可能以盗心取未给之物；漏尽比丘不可能行淫法；漏尽比丘不可能知而妄语；漏尽比丘不可能如昔日在家时那样积蓄受用诸欲；漏尽比丘不可能出于偏爱而行；漏尽比丘不可能随嗔而行；漏尽比丘不可能随痴而行；漏尽比丘不可能随怖畏而行。贤友们，凡那位比丘是阿拉汉、漏尽者、梵行已立、所作已办、已舍重担、已达己利、有结已尽、正智解脱者，他不可能行这九事。’”",
+   "n": "186"
+  },
+  {
+   "idx": 57,
+   "pali": "Pañhābyākaraṇaṃ",
+   "zh": "问答"
+  },
+  {
+   "idx": 58,
+   "pali": "‘‘Ṭhānaṃ kho panetaṃ, cunda, vijjati, yaṃ aññatitthiyā paribbājakā evaṃ vadeyyuṃ – ‘atītaṃ kho addhānaṃ ārabbha samaṇo gotamo atīrakaṃ ñāṇadassanaṃ paññapeti, no ca kho anāgataṃ addhānaṃ ārabbha atīrakaṃ ñāṇadassanaṃ paññapeti, tayidaṃ kiṃsu tayidaṃ kathaṃsū’ti? Te ca aññatitthiyā paribbājakā aññavihitakena ñāṇadassanena aññavihitakaṃ ñāṇadassanaṃ paññapetabbaṃ maññanti yathariva bālā abyattā. Atītaṃ kho, cunda, addhānaṃ ārabbha tathāgatassa satānusāri ñāṇaṃ hoti; so yāvatakaṃ ākaṅkhati tāvatakaṃ anussarati. Anāgatañca kho addhānaṃ ārabbha tathāgatassa bodhijaṃ ñāṇaṃ uppajjati – ‘ayamantimā jāti, natthidāni punabbhavo’ti. ‘Atītaṃ cepi, cunda, hoti abhūtaṃ atacchaṃ anatthasaṃhitaṃ, na taṃ tathāgato byākaroti. Atītaṃ cepi, cunda, hoti bhūtaṃ tacchaṃ anatthasaṃhitaṃ, tampi tathāgato na byākaroti. Atītaṃ cepi cunda, hoti bhūtaṃ tacchaṃ atthasaṃhitaṃ, tatra kālaññū tathāgato hoti tassa pañhassa veyyākaraṇāya. Anāgataṃ cepi, cunda, hoti abhūtaṃ atacchaṃ anatthasaṃhitaṃ, na taṃ tathāgato byākaroti…pe… tassa pañhassa veyyākaraṇāya. Paccuppannaṃ cepi, cunda, hoti abhūtaṃ atacchaṃ anatthasaṃhitaṃ, na taṃ tathāgato byākaroti. Paccuppannaṃ cepi, cunda, hoti bhūtaṃ tacchaṃ anatthasaṃhitaṃ, tampi tathāgato na byākaroti. Paccuppannaṃ cepi, cunda, hoti bhūtaṃ tacchaṃ atthasaṃhitaṃ, tatra kālaññū tathāgato hoti tassa pañhassa veyyākaraṇāya.",
+   "zh": "“[[cunda|准陀]]，这是有可能的：异教游方者可能会这样说——‘沙门[[gotama|乔达摩]]施设关于过去时的无边智见，却不施设关于未来时的无边智见，这是什么道理？如何如此？’那些异教游方者，如同愚者、无能者，以另一种智见来设想另一种智见。[[cunda|准陀]]，关于过去时，如来有随念智，能随念所愿的程度。关于未来时，如来生起菩提生智：‘这是最后生，现在不再有后有。’[[cunda|准陀]]，若过去事非真实、非真正、不引义利，如来不记说；若过去事真实、真正，但不引义利，如来亦不记说；若过去事真实、真正，且引义利，于彼，如来是知时者，将为该问作答。[[cunda|准陀]]，若未来事非真实、非真正、不引义利，如来不记说；若未来事真实、真正，但不引义利，如来亦不记说；若未来事真实、真正，且引义利，于彼，如来是知时者，将为该问作答。[[cunda|准陀]]，若现在事非真实、非真正、不引义利，如来不记说；若现在事真实、真正，但不引义利，如来亦不记说；若现在事真实、真正，且引义利，于彼，如来是知时者，将为该问作答。”",
+   "n": "187"
+  },
+  {
+   "idx": 59,
+   "pali": "‘‘Iti kho, cunda, atītānāgatapaccuppannesu dhammesu tathāgato kālavādī bhūtavādī atthavādī dhammavādī vinayavādī, tasmā ‘tathāgato’ti vuccati. Yañca kho, cunda, sadevakassa lokassa samārakassa sabrahmakassa sassamaṇabrāhmaṇiyā pajāya sadevamanussāya diṭṭhaṃ sutaṃ mutaṃ viññātaṃ pattaṃ pariyesitaṃ anuvicaritaṃ manasā, sabbaṃ tathāgatena abhisambuddhaṃ, tasmā ‘tathāgato’ti vuccati. Yañca, cunda, rattiṃ tathāgato anuttaraṃ sammāsambodhiṃ abhisambujjhati, yañca rattiṃ anupādisesāya nibbānadhātuyā parinibbāyati, yaṃ etasmiṃ antare bhāsati lapati niddisati. Sabbaṃ taṃ tatheva hoti no aññathā, tasmā ‘tathāgato’ti vuccati. Yathāvādī, cunda, tathāgato tathākārī, yathākārī tathāvādī. Iti yathāvādī tathākārī, yathākārī tathāvādī, tasmā ‘tathāgato’ti vuccati. Sadevake loke, cunda, samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya tathāgato abhibhū anabhibhūto aññadatthudaso vasavattī, tasmā ‘tathāgato’ti vuccati.",
+   "zh": "“[[cunda|准陀]]，正因如此，对于过去、未来、现在的一切法，如来皆是应时而言、真实而言、利益而言、依法而言、依律而言，因此他被称作‘如来’。再者，[[cunda|准陀]]，在这含括天、魔、梵天的世间，在这含括沙门、婆罗门、天、人的众生中，凡是所见、所闻、所觉、所识、所得、所寻、以及心所随行的一切，如来都已彻底觉悟，因此他被称作‘如来’。再者，[[cunda|准陀]]，从如来证悟无上正自觉的那一夜，直到他于无余涅槃界般涅槃的那一夜，在这期间，他所说、所谈、所开示的一切，皆完全是如，绝非不如，因此他被称作‘如来’。[[cunda|准陀]]，如来如何说，便如何行；如何行，便如何说。如此，因他如说而行、如行而说，故被称作‘如来’。[[cunda|准陀]]，在这含括天、魔、梵天的世间，在这含括沙门、婆罗门、天、人的众生中，如来是征服者、不可被征服者、一切法的遍见者、大自在者，因此他被称作‘如来’。”",
+   "n": "188"
+  },
+  {
+   "idx": 60,
+   "pali": "Abyākataṭṭhānaṃ",
+   "zh": "未记说处"
+  },
+  {
+   "idx": 61,
+   "pali": "‘‘Ṭhānaṃ kho panetaṃ, cunda, vijjati yaṃ aññatitthiyā paribbājakā evaṃ vadeyyuṃ – ‘kiṃ nu kho, āvuso, hoti tathāgato paraṃ maraṇā, idameva saccaṃ moghamañña’nti? Evaṃvādino, cunda, aññatitthiyā paribbājakā evamassu vacanīyā – ‘abyākataṃ kho, āvuso, bhagavatā – ‘‘hoti tathāgato paraṃ maraṇā, idameva saccaṃ moghamañña’’’nti.",
+   "zh": "“[[cunda|准陀]]，这是可能发生的：外道游方者或许会这样说——‘贤友们，你们是否持这样的见解：“如来死后存在，唯此为真，其余皆虚妄”？’[[cunda|准陀]]，对于如此说的外道游方者，应当这样回答——‘贤友们，世尊未对此作记说：“如来死后存在，唯此为真，其余皆虚妄”。’”",
+   "n": "189"
+  },
+  {
+   "idx": 62,
+   "pali": "‘‘Ṭhānaṃ kho panetaṃ, cunda, vijjati, yaṃ aññatitthiyā paribbājakā evaṃ vadeyyuṃ – ‘kiṃ panāvuso, na hoti tathāgato paraṃ maraṇā, idameva saccaṃ moghamañña’nti? Evaṃvādino, cunda, aññatitthiyā paribbājakā evamassu vacanīyā – ‘etampi kho, āvuso, bhagavatā abyākataṃ – ‘‘na hoti tathāgato paraṃ maraṇā, idameva saccaṃ moghamañña’’’nti.",
+   "zh": "“[[cunda|准陀]]，确实有这种可能：外道游方者会这样说：‘贤友，难道如来死后不存在，唯此为真，余皆虚妄？’ [[cunda|准陀]]，对于这样说的外道游方者，应当这样回答：‘贤友，这也是世尊所未记说的——如来死后不存在，唯此为真，余皆虚妄。’"
+  },
+  {
+   "idx": 63,
+   "pali": "‘‘Ṭhānaṃ kho panetaṃ, cunda, vijjati, yaṃ aññatitthiyā paribbājakā evaṃ vadeyyuṃ – ‘kiṃ panāvuso, hoti ca na ca hoti tathāgato paraṃ maraṇā, idameva saccaṃ moghamañña’nti? Evaṃvādino, cunda, aññatitthiyā paribbājakā evamassu vacanīyā – ‘abyākataṃ kho etaṃ, āvuso, bhagavatā – ‘‘hoti ca na ca hoti tathāgato paraṃ maraṇā, idameva saccaṃ moghamañña’’’nti.",
+   "zh": "“[[cunda|准陀]]，确实有这种可能：外道游方者会这样说：‘贤友，难道如来死后亦存在亦不存在，唯此为真，余皆虚妄？’ [[cunda|准陀]]，对于这样说的外道游方者，应当这样回答：‘贤友，这也是世尊所未记说的——如来死后亦存在亦不存在，唯此为真，余皆虚妄。’"
+  },
+  {
+   "idx": 64,
+   "pali": "‘‘Ṭhānaṃ kho panetaṃ, cunda, vijjati, yaṃ aññatitthiyā paribbājakā evaṃ vadeyyuṃ – ‘kiṃ panāvuso, neva hoti na na hoti tathāgato paraṃ maraṇā, idameva saccaṃ moghamañña’nti? Evaṃvādino, cunda, aññatitthiyā paribbājakā evamassu vacanīyā – ‘etampi kho, āvuso, bhagavatā abyākataṃ – ‘‘neva hoti na na hoti tathāgato paraṃ maraṇā, idameva saccaṃ moghamañña’’’nti.",
+   "zh": "“[[cunda|准陀]]，确实有这种可能：外道游方者会这样说：‘贤友，难道如来死后既非存在亦非不存在，唯此为真，余皆虚妄？’ [[cunda|准陀]]，对于这样说的外道游方者，应当这样回答：‘贤友，这也是世尊所未记说的——如来死后既非存在亦非不存在，唯此为真，余皆虚妄。’"
+  },
+  {
+   "idx": 65,
+   "pali": "‘‘Ṭhānaṃ kho panetaṃ, cunda, vijjati, yaṃ aññatitthiyā paribbājakā evaṃ vadeyyuṃ – ‘kasmā panetaṃ, āvuso, samaṇena gotamena abyākata’nti? Evaṃvādino, cunda, aññatitthiyā paribbājakā evamassu vacanīyā – ‘na hetaṃ, āvuso, atthasaṃhitaṃ na dhammasaṃhitaṃ na ādibrahmacariyakaṃ na nibbidāya na virāgāya na nirodhāya na upasamāya na abhiññāya na sambodhāya na nibbānāya saṃvattati, tasmā taṃ bhagavatā abyākata’nti.",
+   "zh": "“[[cunda|准陀]]，确有可能，其他外道游方者会这样问：‘贤友，为何沙门[[gotama|乔达摩]]未记说此事？’[[cunda|准陀]]，对这样问的外道游方者，应当这样回答：‘贤友，此事不具义利，不相应于法，非梵行之根本，不导向厌离、离贪、灭尽、寂止、证智、正觉、涅槃，因此世尊未予记说。’”"
+  },
+  {
+   "idx": 66,
+   "pali": "Byākataṭṭhānaṃ",
+   "zh": "记说处"
+  },
+  {
+   "idx": 67,
+   "pali": "‘‘Ṭhānaṃ kho panetaṃ, cunda, vijjati, yaṃ aññatitthiyā paribbājakā evaṃ vadeyyuṃ – ‘kiṃ panāvuso, samaṇena gotamena byākata’nti? Evaṃvādino, cunda, aññatitthiyā paribbājakā evamassu vacanīyā – ‘idaṃ dukkhanti kho, āvuso, bhagavatā byākataṃ, ayaṃ dukkhasamudayoti kho, āvuso, bhagavatā byākataṃ, ayaṃ dukkhanirodhoti kho, āvuso, bhagavatā byākataṃ, ayaṃ dukkhanirodhagāminī paṭipadāti kho, āvuso, bhagavatā byākata’nti.",
+   "zh": "“[[cunda|准陀]]，确有可能，其他外道游方者会这样问：‘贤友，沙门[[gotama|乔达摩]]记说了什么？’[[cunda|准陀]]，对这样问的外道游方者，应当这样回答：‘贤友，世尊已记说：“此是苦”；已记说：“此是苦集”；已记说：“此是苦灭”；已记说：“此是导向苦灭之道”。’”",
+   "n": "190"
+  },
+  {
+   "idx": 68,
+   "pali": "‘‘Ṭhānaṃ kho panetaṃ, cunda, vijjati, yaṃ aññatitthiyā paribbājakā evaṃ vadeyyuṃ – ‘kasmā panetaṃ, āvuso, samaṇena gotamena byākata’nti? Evaṃvādino, cunda, aññatitthiyā paribbājakā evamassu vacanīyā – ‘etañhi, āvuso, atthasaṃhitaṃ, etaṃ dhammasaṃhitaṃ, etaṃ ādibrahmacariyakaṃ ekantanibbidāya virāgāya nirodhāya upasamāya abhiññāya sambodhāya nibbānāya saṃvattati. Tasmā taṃ bhagavatā byākata’nti.",
+   "zh": "“[[cunda|准陀]]，确实有这样的情况：其他外道游方者会这样问：‘贤友，为何沙门[[gotama|乔达摩]]记说此事？’[[cunda|准陀]]，对如此发问的外道游方者，应当这样回答：‘贤友，因为这与义相应，与法相应，是梵行的根本，导向完全厌离、离欲、灭尽、寂止、证智、正觉、涅槃。因此，世尊记说此事。’”"
+  },
+  {
+   "idx": 69,
+   "pali": "Pubbantasahagatadiṭṭhinissayā",
+   "zh": "前际相应的见依处"
+  },
+  {
+   "idx": 70,
+   "pali": "‘‘Yepi te, cunda, pubbantasahagatā diṭṭhinissayā, tepi vo mayā byākatā, yathā te byākātabbā. Yathā ca te na byākātabbā, kiṃ vo ahaṃ te tathā byākarissāmi? Yepi te, cunda, aparantasahagatā diṭṭhinissayā, tepi vo mayā byākatā, yathā te byākātabbā. Yathā ca te na byākātabbā, kiṃ vo ahaṃ te tathā byākarissāmi? Katame ca te, cunda, pubbantasahagatā diṭṭhinissayā, ye vo mayā byākatā, yathā te byākātabbā. (Yathā ca te na byākātabbā, kiṃ vo ahaṃ te tathā byākarissāmi) ? Santi kho, cunda, eke samaṇabrāhmaṇā evaṃvādino evaṃdiṭṭhino – ‘sassato attā ca loko ca, idameva saccaṃ moghamañña’nti. Santi pana, cunda, eke samaṇabrāhmaṇā evaṃvādino evaṃdiṭṭhino – ‘asassato attā ca loko ca…pe… sassato ca asassato ca attā ca loko ca… neva sassato nāsassato attā ca loko ca… sayaṃkato attā ca loko ca… paraṃkato attā ca loko ca… sayaṃkato ca paraṃkato ca attā ca loko ca… asayaṃkāro aparaṃkāro adhiccasamuppanno attā ca loko ca, idameva saccaṃ moghamañña’nti. Sassataṃ sukhadukkhaṃ… asassataṃ sukhadukkhaṃ… sassatañca asassatañca sukhadukkhaṃ… nevasassataṃ nāsassataṃ sukhadukkhaṃ… sayaṃkataṃ sukhadukkhaṃ… paraṃkataṃ sukhadukkhaṃ… sayaṃkatañca paraṃkatañca sukhadukkhaṃ… asayaṃkāraṃ aparaṃkāraṃ adhiccasamuppannaṃ sukhadukkhaṃ, idameva saccaṃ moghamañña’nti.",
+   "zh": "“[[cunda|准陀]]，关于过去边的见依处，我已如其所应为你们解说。而那些不应那般解说的，我又怎会为你们作那般解说呢？[[cunda|准陀]]，关于未来边的见依处，我已如其所应为你们解说。而那些不应那般解说的，我又怎会为你们作那般解说呢？\n[[cunda|准陀]]，哪些是我已如其所应为你们解说的、关于过去边的见依处呢？而那些不应那般解说的，我又怎会为你们作那般解说呢？[[cunda|准陀]]，有一些沙门、婆罗门，持这样的论、这样的见：“我与世界是常，唯此是真实，余皆是虚妄。”然而，[[cunda|准陀]]，还有一些沙门、婆罗门，持这样的论、这样的见：“我与世界是无常……我与世界亦常亦无常……我与世界非常非无常……我与世界是自作……我与世界是他作……我与世界既是自作又是他作……我与世界非自作、非他作，是无因生，唯此是真实，余皆是虚妄。”“乐与苦是常，唯此是真实，余皆是虚妄。乐与苦是无常……乐与苦亦常亦无常……乐与苦非常非无常……乐与苦是自作……乐与苦是他作……乐与苦既是自作又是他作……乐与苦非自作、非他作，是无因生，唯此是真实，余皆是虚妄。”",
+   "n": "191"
+  },
+  {
+   "idx": 71,
+   "pali": "‘‘Tatra, cunda, ye te samaṇabrāhmaṇā evaṃvādino evaṃdiṭṭhino – ‘sassato attā ca loko ca, idameva saccaṃ moghamañña’nti. Tyāhaṃ upasaṅkamitvā evaṃ vadāmi – ‘atthi nu kho idaṃ, āvuso, vuccati – ‘‘sassato attā ca loko cā’’ti? Yañca kho te evamāhaṃsu – ‘idameva saccaṃ moghamañña’nti. Taṃ tesaṃ nānujānāmi. Taṃ kissa hetu? Aññathāsaññinopi hettha, cunda, santeke sattā. Imāyapi kho ahaṃ, cunda, paññattiyā neva attanā samasamaṃ samanupassāmi kuto bhiyyo. Atha kho ahameva tattha bhiyyo yadidaṃ adhipaññatti.",
+   "zh": "“[[cunda|准陀]]，对于那些持此说、持此见的沙门婆罗门——‘我与世间是常，唯此为真，余皆虚妄。’我前往他们那里，这样说道：‘贤友，你们确实如此说——“我与世间是常”吗？’当他们说‘唯此为真，余皆虚妄’时，对此我并不认可。那是什么缘故呢？[[cunda|准陀]]，因为此处也有众生持有不同的想。[[cunda|准陀]]，就这种施设而言，我不见有与己相等者，更何况是超胜者。然而，在增上施设方面，我确实更为殊胜。”",
+   "n": "192"
+  },
+  {
+   "idx": 72,
+   "pali": "‘‘Tatra, cunda, ye te samaṇabrāhmaṇā evaṃvādino evaṃdiṭṭhino – ‘asassato attā ca loko ca…pe… sassato ca asassato ca attā ca loko ca… nevasassato nāsassato attā ca loko ca… sayaṃkato attā ca loko ca… paraṃkato attā ca loko ca… sayaṃkato ca paraṃkato ca attā ca loko ca… asayaṃkāro aparaṃkāro adhiccasamuppanno attā ca loko ca… sassataṃ sukhadukkhaṃ… asassataṃ sukhadukkhaṃ… sassatañca asassatañca sukhadukkhaṃ… nevasassataṃ nāsassataṃ sukhadukkhaṃ… sayaṃkataṃ sukhadukkhaṃ… paraṃkataṃ sukhadukkhaṃ… sayaṃkatañca paraṃkatañca sukhadukkhaṃ… asayaṃkāraṃ aparaṃkāraṃ adhiccasamuppannaṃ sukhadukkhaṃ, idameva saccaṃ moghamañña’nti. Tyāhaṃ upasaṅkamitvā evaṃ vadāmi – ‘atthi nu kho idaṃ, āvuso, vuccati – ‘‘asayaṃkāraṃ aparaṃkāraṃ adhiccasamuppannaṃ sukhadukkha’’’nti? Yañca kho te evamāhaṃsu – ‘idameva saccaṃ moghamañña’nti. Taṃ tesaṃ nānujānāmi. Taṃ kissa hetu? Aññathāsaññinopi hettha, cunda, santeke sattā. Imāyapi kho ahaṃ, cunda, paññattiyā neva attanā samasamaṃ samanupassāmi kuto bhiyyo. Atha kho ahameva tattha bhiyyo yadidaṃ adhipaññatti. Ime kho te, cunda, pubbantasahagatā diṭṭhinissayā, ye vo mayā byākatā, yathā te byākātabbā . Yathā ca te na byākātabbā, kiṃ vo ahaṃ te tathā byākarissāmīti ?",
+   "zh": "“[[cunda|准陀]]，对于那些持此说、持此见的沙门婆罗门——‘我与世间是无常的……我与世间是亦常亦无常的……我与世间是非常非无常的……我与世间是自作的……我与世间是他作的……我与世间是亦自亦他作的……我与世间是非自非他、无因作的；苦乐是常的……苦乐是无常的……苦乐是亦常亦无常的……苦乐是非常非无常的……苦乐是自作的……苦乐是他作的……苦乐是亦自亦他作的……苦乐是非自非他、无因生的——唯此为真，余皆虚妄。’我前往他们那里，这样问道：‘贤友们，你们确实有被称为“苦乐非自作、非他作、无因生”的主张吗？’当他们说‘唯此为真，余皆虚妄’时，对此我并不认可。那是什么缘故呢？[[cunda|准陀]]，因为此处确实有一些众生持有不同的见解。[[cunda|准陀]]，即使凭这种施设，我也不见有与己相等者，更何况是更胜者。然而，正是在增上施设方面，我更为殊胜。[[cunda|准陀]]，这些是与前际相应的见依处，我已如其应被分辨而作了分辨；至于不应当被分辨的，我为何要为你们那样分辨呢？",
+   "n": "193"
+  },
+  {
+   "type": "subhead",
+   "idx": 73,
+   "pali": "Aparantasahagatadiṭṭhinissayā",
+   "zh": "与后际相应的见依处。"
+  },
+  {
+   "idx": 74,
+   "pali": "‘‘Katame ca te, cunda, aparantasahagatā diṭṭhinissayā, ye vo mayā byākatā, yathā te byākātabbā. (Yathā ca te na byākātabbā, kiṃ vo ahaṃ te tathā byākarissāmī) ? Santi, cunda, eke samaṇabrāhmaṇā evaṃvādino evaṃdiṭṭhino – ‘rūpī attā hoti arogo paraṃ maraṇā, idameva saccaṃ moghamañña’nti. Santi pana, cunda, eke samaṇabrāhmaṇā evaṃvādino evaṃdiṭṭhino – ‘arūpī attā hoti…pe… rūpī ca arūpī ca attā hoti… nevarūpī nārūpī attā hoti… saññī attā hoti… asaññī attā hoti… nevasaññīnāsaññī attā hoti… attā ucchijjati vinassati na hoti paraṃ maraṇā, idameva saccaṃ moghamañña’nti. Tatra, cunda, ye te samaṇabrāhmaṇā evaṃvādino evaṃdiṭṭhino – ‘rūpī attā hoti arogo paraṃ maraṇā, idameva saccaṃ moghamañña’nti. Tyāhaṃ upasaṅkamitvā evaṃ vadāmi – ‘atthi nu kho idaṃ, āvuso, vuccati – ‘‘rūpī attā hoti arogo paraṃ maraṇā’’’ti? Yañca kho te evamāhaṃsu – ‘idameva saccaṃ moghamañña’nti. Taṃ tesaṃ nānujānāmi. Taṃ kissa hetu? Aññathāsaññinopi hettha, cunda, santeke sattā. Imāyapi kho ahaṃ, cunda, paññattiyā neva attanā samasamaṃ samanupassāmi kuto bhiyyo. Atha kho ahameva tattha bhiyyo yadidaṃ adhipaññatti.",
+   "zh": "“[[cunda|准陀]]，哪些是我已为你们说明、并应如此说明的、与后际相应的见依处？至于那些不应如此解说的，我又怎会为你们那样解说呢？[[cunda|准陀]]，有一些沙门、婆罗门，持这样的论、这样的见：‘死后自我有形、无病，唯此为真，余皆虚妄。’然而，[[cunda|准陀]]，还有一些沙门、婆罗门，持这样的论、这样的见：‘死后自我无形……死后自我既有形又无形……死后自我非有形非无形……死后自我有想……死后自我无想……死后自我非有想非无想……自我断灭、消亡，死后不存在，唯此为真，余皆虚妄。’\n\n[[cunda|准陀]]，对于持这样论、这样见的沙门、婆罗门——即认为‘死后自我有形、无病，唯此为真，余皆虚妄’的那些人，我前往他们那里，这样说：‘贤友，你们真的主张“死后自我有形、无病”吗？’他们便如此回答：‘唯此是真实，余皆虚妄。’对此，我不予认可。为什么呢？[[cunda|准陀]]，因为于此之中，也有众生抱持不同的认知。[[cunda|准陀]]，即便就此施设而言，我亦不见有与我等同者，何况更胜一筹者；然而正是在此处，我更为殊胜，也就是在增上施设方面。”",
+   "n": "194"
+  },
+  {
+   "idx": 75,
+   "pali": "‘‘Tatra, cunda, ye te samaṇabrāhmaṇā evaṃvādino evaṃdiṭṭhino – ‘arūpī attā hoti…pe… rūpī ca arūpī ca attā hoti… nevarūpīnārūpī attā hoti… saññī attā hoti… asaññī attā hoti… nevasaññīnāsaññī attā hoti… attā ucchijjati vinassati na hoti paraṃ maraṇā, idameva saccaṃ moghamañña’nti. Tyāhaṃ upasaṅkamitvā evaṃ vadāmi – ‘atthi nu kho idaṃ, āvuso, vuccati – ‘‘attā ucchijjati vinassati na hoti paraṃ maraṇā’’’ti? Yañca kho te, cunda, evamāhaṃsu – ‘idameva saccaṃ moghamañña’nti. Taṃ tesaṃ nānujānāmi. Taṃ kissa hetu? Aññathāsaññinopi hettha, cunda, santeke sattā. Imāyapi kho ahaṃ, cunda, paññattiyā neva attanā samasamaṃ samanupassāmi, kuto bhiyyo. Atha kho ahameva tattha bhiyyo yadidaṃ adhipaññatti. Ime kho te, cunda, aparantasahagatā diṭṭhinissayā, ye vo mayā byākatā , yathā te byākātabbā. Yathā ca te na byākātabbā, kiṃ vo ahaṃ te tathā byākarissāmīti ?",
+   "zh": "“[[cunda|准陀]]，那些持这般言论、这般见解的沙门婆罗门——‘我死后无色……我死后既有色又无色……我死后既非有色也非无色……我死后有想……我死后无想……我死后非有想非无想……我死后断灭、消散，不复存在，唯此为真实，余皆虚妄’——我前往他们那里，这样问道：‘贤友们，是否确有你们所说的“我死后断灭、消散，不复存在”？’[[cunda|准陀]]，当他们说‘唯此为真实，余皆虚妄’时，我不认可其说。这是什么原因呢？[[cunda|准陀]]，于此，确实有一些众生持不同的见解。[[cunda|准陀]]，在这项施设上，我不见有与我等同者，更遑论更胜者。然而，我于此确实更胜，即更殊胜的施设。[[cunda|准陀]]，这些便是与未来边际相应的见依处，我已知其所应解说般为你们解说。而如其所不应解说的，我为何还要为你们那样解说呢？”",
+   "n": "195"
+  },
+  {
+   "idx": 76,
+   "pali": "‘‘Imesañca, cunda, pubbantasahagatānaṃ diṭṭhinissayānaṃ imesañca aparantasahagatānaṃ diṭṭhinissayānaṃ pahānāya samatikkamāya evaṃ mayā cattāro satipaṭṭhānā desitā paññattā. Katame cattāro? Idha, cunda, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṃ. Vedanāsu vedanānupassī…pe… citte cittānupassī… dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṃ. Imesañca cunda, pubbantasahagatānaṃ diṭṭhinissayānaṃ imesañca aparantasahagatānaṃ diṭṭhinissayānaṃ pahānāya samatikkamāya. Evaṃ mayā ime cattāro satipaṭṭhānā desitā paññattā’’ti.",
+   "zh": "“[[cunda|准陀]]，为了舍断与超越这些与过去边际相应的见依处，以及这些与未来边际相应的见依处，我如此教导、安立了四念处。哪四种呢？\n[[cunda|准陀]]，于此，比丘安住于身，随观身，精勤、正知、具念，调伏世间的贪忧。安住于受，随观受……安住于心，随观心……安住于法，随观法，精勤、正知、具念，调伏世间的贪忧。\n[[cunda|准陀]]，正是为了舍断与超越这些与过去边际相应的见依处，以及这些与未来边际相应的见依处，我如此教导、安立了这四念处。”",
+   "n": "196"
+  },
+  {
+   "idx": 77,
+   "pali": "Tena kho pana samayena āyasmā upavāṇo bhagavato piṭṭhito ṭhito hoti bhagavantaṃ bījayamāno. Atha kho āyasmā upavāṇo bhagavantaṃ etadavoca – ‘‘acchariyaṃ, bhante, abbhutaṃ, bhante! Pāsādiko vatāyaṃ, bhante, dhammapariyāyo; supāsādiko vatāyaṃ bhante, dhammapariyāyo, ko nāmāyaṃ bhante dhammapariyāyo’’ti? ‘‘Tasmātiha tvaṃ, upavāṇa, imaṃ dhammapariyāyaṃ ‘pāsādiko’ tveva naṃ dhārehī’’ti. Idamavoca bhagavā. Attamano āyasmā upavāṇo bhagavato bhāsitaṃ abhinandīti.",
+   "zh": "那时，具寿优波婆那站在世尊背后，为世尊扇凉。于是，具寿优波婆那对世尊这样说：“真是不可思议啊，尊者！真是未曾有啊，尊者！这法门的确令人净信，尊者，这法门实在是极其令人净信。尊者，这个法门叫什么名字呢？”“优波婆那，因此，你应当忆持这个法门，名为‘令人净信’。”世尊这样说了。具寿优波婆那心大欢喜，信受世尊所说。",
+   "n": "197"
+  },
+  {
+   "idx": 78,
+   "pali": "Pāsādikasuttaṃ niṭṭhitaṃ chaṭṭhaṃ.",
+   "zh": "《清净经》第六经终",
+   "type": "colophon"
+  }
+ ]
+}

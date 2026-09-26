@@ -1,0 +1,137 @@
+{
+  "uid": 174,
+  "title": "1. 圣道经",
+  "nik": "AN",
+  "segs": [
+    {
+      "idx": 0,
+      "pali": "(15) 5. Ariyavaggo",
+      "zh": "（十五）第五 圣品"
+    },
+    {
+      "idx": 1,
+      "pali": "1. Ariyamaggasuttaṃ",
+      "zh": "1. [[ariyamaggasutta|圣道经]]"
+    },
+    {
+      "idx": 2,
+      "pali": "‘‘Ariyamaggañca vo, bhikkhave, dhammaṃ desessāmi anariyamaggañca. Taṃ suṇātha…pe… katamo ca, bhikkhave, anariyo maggo? Micchādiṭṭhi…pe… micchāvimutti – ayaṃ vuccati, bhikkhave, anariyo maggo. Katamo ca, bhikkhave, ariyo maggo? Sammādiṭṭhi…pe… sammāvimutti – ayaṃ vuccati, bhikkhave, ariyo maggo’’ti. Paṭhamaṃ.",
+      "zh": "“诸比丘，我将为你们宣说圣道与非圣道之法。你们谛听……诸比丘，什么是非圣道？邪见……（中略）……邪解脱——诸比丘，这称为非圣道。诸比丘，什么是圣道？正见……（中略）……正解脱——诸比丘，这称为圣道。第一”",
+      "n": "145"
+    },
+    {
+      "idx": 3,
+      "pali": "2. Kaṇhamaggasuttaṃ",
+      "zh": "2. [[kaṇhamaggasutta|黑道经]]"
+    },
+    {
+      "idx": 4,
+      "pali": "‘‘Kaṇhamaggañca vo, bhikkhave, dhammaṃ desessāmi sukkamaggañca. Taṃ suṇātha…pe… katamo ca, bhikkhave, kaṇhamaggo? Micchādiṭṭhi…pe… micchāvimutti – ayaṃ vuccati, bhikkhave, kaṇhamaggo. Katamo ca, bhikkhave, sukkamaggo? Sammādiṭṭhi…pe… sammāvimutti – ayaṃ vuccati, bhikkhave, sukkamaggo’’ti. Dutiyaṃ.",
+      "zh": "“诸比丘，我将为你们宣说黑道与白道之法。你们谛听……诸比丘，什么是黑道？邪见……（中略）……邪解脱——诸比丘，这称为黑道。诸比丘，什么是白道？正见……（中略）……正解脱——诸比丘，这称为白道。第二”",
+      "n": "146"
+    },
+    {
+      "idx": 5,
+      "pali": "3. Saddhammasuttaṃ",
+      "zh": "3. [[saddhammasutta|正法经]]"
+    },
+    {
+      "idx": 6,
+      "pali": "‘‘Saddhammañca vo, bhikkhave, dhammaṃ desessāmi asaddhammañca. Taṃ suṇātha…pe… katamo ca, bhikkhave, asaddhammo? Micchādiṭṭhi…pe… micchāvimutti – ayaṃ vuccati, bhikkhave, asaddhammo. Katamo ca, bhikkhave, saddhammo? Sammādiṭṭhi…pe… sammāvimutti – ayaṃ vuccati, bhikkhave, saddhammo’’ti. Tatiyaṃ.",
+      "zh": "“诸比丘，我将为你们宣说正法与非法。你们谛听……（中略）……诸比丘，什么是非法？邪见……（中略）……邪解脱——诸比丘，这称为非法。诸比丘，什么是正法？正见……（中略）……正解脱——诸比丘，这称为正法。”第三",
+      "n": "147"
+    },
+    {
+      "idx": 7,
+      "pali": "4. Sappurisadhammasuttaṃ",
+      "zh": "4. [[sappurisadhammasutta|善士法经]]"
+    },
+    {
+      "idx": 8,
+      "pali": "‘‘Sappurisadhammañca vo, bhikkhave, desessāmi asappurisadhammañca. Taṃ suṇātha …pe… katamo ca, bhikkhave, asappurisadhammo? Micchādiṭṭhi…pe… micchāvimutti – ayaṃ vuccati, bhikkhave, asappurisadhammo. Katamo ca, bhikkhave, sappurisadhammo? Sammādiṭṭhi…pe… sammāvimutti – ayaṃ vuccati, bhikkhave, sappurisadhammo’’ti. Catutthaṃ.",
+      "zh": "“诸比丘，我将为你们宣说善士法与非善士法。你们当谛听……（中略）……诸比丘，什么是非善士法？邪见……（中略）……邪解脱——诸比丘，这称为非善士法。诸比丘，什么是善士法？正见……（中略）……正解脱——诸比丘，这称为善士法。”第四",
+      "n": "148"
+    },
+    {
+      "idx": 9,
+      "pali": "5. Uppādetabbasuttaṃ",
+      "zh": "5. [[uppādetabbasutta|应生起经]]"
+    },
+    {
+      "idx": 10,
+      "pali": "‘‘Uppādetabbañca vo, bhikkhave, dhammaṃ desessāmi na uppādetabbañca. Taṃ suṇātha…pe… katamo ca, bhikkhave, na uppādetabbo dhammo? Micchādiṭṭhi…pe… micchāvimutti – ayaṃ vuccati, bhikkhave, na uppādetabbo dhammo. Katamo ca, bhikkhave, uppādetabbo dhammo? Sammādiṭṭhi…pe… sammāvimutti – ayaṃ vuccati, bhikkhave, uppādetabbo dhammo’’ti. Pañcamaṃ.",
+      "zh": "“诸比丘，我将为你们宣说应生起之法与不应生起之法。你们当谛听……（中略）……诸比丘，什么是不应生起之法？邪见……（中略）……邪解脱——诸比丘，这称为不应生起之法。诸比丘，什么是应生起之法？正见……（中略）……正解脱——诸比丘，这称为应生起之法。”第五",
+      "n": "149"
+    },
+    {
+      "idx": 11,
+      "pali": "6. Āsevitabbasuttaṃ",
+      "zh": "6. [[āsevitabbasutta|应亲近经]]"
+    },
+    {
+      "idx": 12,
+      "pali": "‘‘Āsevitabbañca vo, bhikkhave, dhammaṃ desessāmi na āsevitabbañca. Taṃ suṇātha…pe… katamo ca, bhikkhave, na āsevitabbo dhammo? Micchādiṭṭhi…pe… micchāvimutti – ayaṃ vuccati, bhikkhave, na āsevitabbo dhammo. Katamo ca, bhikkhave, āsevitabbo dhammo? Sammādiṭṭhi…pe… sammāvimutti – ayaṃ vuccati, bhikkhave, āsevitabbo dhammo’’ti. Chaṭṭhaṃ.",
+      "zh": "“诸比丘，我将为你们宣说应亲近之法与不应亲近之法。谛听……（中略）……诸比丘，哪些是不应亲近之法？邪见……（中略）……邪解脱——诸比丘，这便称为不应亲近之法。诸比丘，哪些是应亲近之法？正见……（中略）……正解脱——诸比丘，这便称为应亲近之法。”第六",
+      "n": "150"
+    },
+    {
+      "idx": 13,
+      "pali": "7. Bhāvetabbasuttaṃ",
+      "zh": "7. [[bhāvetabbasutta|应修习经]]"
+    },
+    {
+      "idx": 14,
+      "pali": "‘‘Bhāvetabbañca vo, bhikkhave, dhammaṃ desessāmi na bhāvetabbañca . Taṃ suṇātha…pe… katamo ca, bhikkhave, na bhāvetabbo dhammo? Micchādiṭṭhi…pe… micchāvimutti – ayaṃ vuccati, bhikkhave, na bhāvetabbo dhammo. Katamo ca, bhikkhave, bhāvetabbo dhammo? Sammādiṭṭhi…pe… sammāvimutti – ayaṃ vuccati, bhikkhave, bhāvetabbo dhammo’’ti. Sattamaṃ.",
+      "zh": "“诸比丘，我为你们说应修习之法与不应修习之法。谛听……（中略）……诸比丘，何者为不应修习之法？邪见……（中略）……邪解脱——诸比丘，这即是不应修习之法。诸比丘，何者为应修习之法？正见……（中略）……正解脱——诸比丘，这即是应修习之法。第七”",
+      "n": "151"
+    },
+    {
+      "idx": 15,
+      "pali": "8. Bahulīkātabbasuttaṃ",
+      "zh": "8. [[bahulīkātabbasutta|应多作经]]"
+    },
+    {
+      "idx": 16,
+      "pali": "‘‘Bahulīkātabbañca vo, bhikkhave, dhammaṃ desessāmi na bahulīkātabbañca. Taṃ suṇātha…pe… katamo ca, bhikkhave, na bahulīkātabbo dhammo? Micchādiṭṭhi…pe… micchāvimutti – ayaṃ vuccati, bhikkhave, na bahulīkātabbo dhammo. Katamo ca, bhikkhave, bahulīkātabbo dhammo? Sammādiṭṭhi…pe… sammāvimutti – ayaṃ vuccati, bhikkhave, bahulīkātabbo dhammo’’ti. Aṭṭhamaṃ.",
+      "zh": "“诸比丘，我为你们说应多修习之法与不应多修习之法。谛听……（中略）……诸比丘，何者为不应多修习之法？邪见……（中略）……邪解脱——诸比丘，这即是不应多修习之法。诸比丘，何者为应多修习之法？正见……（中略）……正解脱——诸比丘，这即是应多修习之法。第八”",
+      "n": "152"
+    },
+    {
+      "idx": 17,
+      "pali": "9. Anussaritabbasuttaṃ",
+      "zh": "9. [[anussaritabbasutta|应随念经]]"
+    },
+    {
+      "idx": 18,
+      "pali": "‘‘Anussaritabbañca vo, bhikkhave, dhammaṃ desessāmi na anussaritabbañca. Taṃ suṇātha…pe… katamo ca, bhikkhave, na anussaritabbo dhammo? Micchādiṭṭhi…pe… micchāvimutti – ayaṃ vuccati, bhikkhave, na anussaritabbo dhammo. Katamo ca, bhikkhave, anussaritabbo dhammo? Sammādiṭṭhi…pe… sammāvimutti – ayaṃ vuccati, bhikkhave, anussaritabbo dhammo’’ti. Navamaṃ.",
+      "zh": "“诸比丘，我将为你们宣说应随念的法与不应随念的法。你们谛听……诸比丘，什么是不应随念的法？邪见……（中略）……邪解脱——诸比丘，这就称为不应随念的法。诸比丘，什么是应随念的法？正见……（中略）……正解脱——诸比丘，这就称为应随念的法。第九经。”",
+      "n": "153"
+    },
+    {
+      "idx": 19,
+      "pali": "10. Sacchikātabbasuttaṃ",
+      "zh": "10. [[sacchikātabbasutta|应作证经]]"
+    },
+    {
+      "idx": 20,
+      "pali": "‘‘Sacchikātabbañca vo, bhikkhave, dhammaṃ desessāmi na sacchikātabbañca. Taṃ suṇātha…pe… katamo ca, bhikkhave, na sacchikātabbo dhammo? Micchādiṭṭhi…pe… micchāvimutti – ayaṃ vuccati, bhikkhave, na sacchikātabbo dhammo. Katamo ca, bhikkhave, sacchikātabbo dhammo? Sammādiṭṭhi…pe… sammāvimutti – ayaṃ vuccati, bhikkhave, sacchikātabbo dhammo’’ti. Dasamaṃ.",
+      "zh": "“诸比丘，我将为你们宣说应作证之法与不应作证之法。谛听……（中略）……诸比丘，什么是不应作证之法？邪见……（中略）……邪解脱——诸比丘，这称为不应作证之法。诸比丘，什么是应作证之法？正见……（中略）……正解脱——诸比丘，这称为应作证之法。第十经。”",
+      "n": "154"
+    },
+    {
+      "idx": 21,
+      "pali": "Ariyavaggo pañcamo.",
+      "zh": "圣品第五"
+    },
+    {
+      "idx": 22,
+      "pali": "Tatiyapaṇṇāsakaṃ samattaṃ.",
+      "zh": "第三组五十经终"
+    },
+    {
+      "idx": 23,
+      "pali": "4. Catutthapaṇṇāsakaṃ",
+      "zh": "4. 第四组五十经"
+    }
+  ]
+}

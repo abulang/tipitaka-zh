@@ -1,0 +1,119 @@
+{
+ "uid": 112,
+ "title": "1. 认可略说",
+ "nik": "AN",
+ "segs": [
+  {
+   "idx": 0,
+   "pali": "1. Sammutipeyyālaṃ",
+   "zh": "1. 认可略说"
+  },
+  {
+   "idx": 1,
+   "pali": "1. Bhattuddesakasuttaṃ",
+   "zh": "1. [[bhattuddesakasutta|食物分配者经]]"
+  },
+  {
+   "idx": 2,
+   "pali": "‘‘Pañcahi , bhikkhave, dhammehi samannāgato bhattuddesako na sammannitabbo . Katamehi pañcahi? Chandāgatiṃ gacchati, dosāgatiṃ gacchati, mohāgatiṃ gacchati, bhayāgatiṃ gacchati, uddiṭṭhānuddiṭṭhaṃ na jānāti – imehi kho, bhikkhave, pañcahi dhammehi samannāgato bhattuddesako na sammannitabbo.",
+   "zh": "“诸比丘，具足五法的食物分配者，不应予以认可。哪五种法？他行于欲、行于嗔、行于痴、行于怖，不知已分配与未分配——诸比丘，具足如此五法的食物分配者，不应予以认可。",
+   "n": "272"
+  },
+  {
+   "idx": 3,
+   "pali": "‘‘Pañcahi, bhikkhave, dhammehi samannāgato bhattuddesako sammannitabbo. Katamehi pañcahi? Na chandāgatiṃ gacchati, na dosāgatiṃ gacchati, na mohāgatiṃ gacchati, na bhayāgatiṃ gacchati, uddiṭṭhānuddiṭṭhaṃ jānāti – imehi kho, bhikkhave, pañcahi dhammehi samannāgato bhattuddesako sammannitabboti.",
+   "zh": "“诸比丘，具足五法的分食者应得认可。哪五种法呢？他不以欲而行，不以嗔而行，不以痴而行，不以怖而行，且了知已分配与未分配。诸比丘，具足这五法的分食者应得认可。"
+  },
+  {
+   "idx": 4,
+   "pali": "‘‘Pañcahi, bhikkhave, dhammehi samannāgato bhattuddesako sammato na pesetabbo…pe… sammato pesetabbo… bālo veditabbo… paṇḍito veditabbo… khataṃ upahataṃ attānaṃ pariharati… akkhataṃ anupahataṃ attānaṃ pariharati… yathābhataṃ nikkhitto evaṃ niraye… yathābhataṃ nikkhitto evaṃ sagge. Katamehi pañcahi? Na chandāgatiṃ gacchati, na dosāgatiṃ gacchati, na mohāgatiṃ gacchati, na bhayāgatiṃ gacchati, uddiṭṭhānuddiṭṭhaṃ jānāti – imehi kho, bhikkhave, pañcahi dhammehi samannāgato bhattuddesako yathābhataṃ nikkhitto evaṃ sagge’’ti. Paṭhamaṃ.",
+   "zh": "“诸比丘，具足五法的分食者，被认可后不应被派遣；……被认可后应被派遣；……应知为愚者；……应知为智者；……他损毁、伤害自己而住；……他不损毁、不伤害自己而住；……如所投掷般堕于地狱；……如所投掷般生于天界。哪五种法呢？即不以欲而行，不以嗔而行，不以痴而行，不以怖而行，了知已指派与未指派。诸比丘，具足这五法的分食者，如所投掷般生于天界。”第一。"
+  },
+  {
+   "idx": 5,
+   "pali": "2-14. Senāsanapaññāpakasuttāditerasakaṃ",
+   "zh": "2-14. 住所分配者经等十三经"
+  },
+  {
+   "idx": 6,
+   "pali": "‘‘Pañcahi, bhikkhave, dhammehi samannāgato senāsanapaññāpako na sammannitabbo…pe… paññattāpaññattaṃ na jānāti…pe… senāsanapaññāpako sammannitabbo…pe… paññattāpaññattaṃ jānāti…pe….",
+   "zh": "“诸比丘，具足五法的分配住所者不应受认可……不知已分配与未分配……分配住所者应受认可……了知已分配与未分配……",
+   "n": "273-285"
+  },
+  {
+   "idx": 7,
+   "pali": "Senāsanagāhāpako na sammannitabbo…pe… gahitāgahitaṃ na jānāti…pe… senāsanagāhāpako sammannitabbo…pe… gahitāgahitaṃ jānāti…pe….",
+   "zh": "收取住所者不应受认可……不知已收取与未收取……收取住所者应受认可……了知已收取与未收取……"
+  },
+  {
+   "idx": 8,
+   "pali": "Bhaṇḍāgāriko na sammannitabbo…pe… guttāguttaṃ na jānāti… bhaṇḍāgāriko sammannitabbo…pe… guttāguttaṃ jānāti…pe….",
+   "zh": "库房管理者不应受认可……不知已保管与未保管……库房管理者应受认可……了知已保管与未保管……"
+  },
+  {
+   "idx": 9,
+   "pali": "Cīvarapaṭiggāhako na sammannitabbo…pe… gahitāgahitaṃ na jānāti… cīvarapaṭiggāhako sammannitabbo …pe… gahitāgahitaṃ jānāti…pe….",
+   "zh": "不应认可此人担任衣的接收者……若不了知已接受与未接受之衣……应认可此人担任衣的接收者……若了知已接受与未接受之衣……"
+  },
+  {
+   "idx": 10,
+   "pali": "Cīvarabhājako na sammannitabbo…pe… bhājitābhājitaṃ na jānāti… cīvarabhājako sammannitabbo…pe… bhājitābhājitaṃ jānāti…pe….",
+   "zh": "不应认可此人担任衣的分配者……若不了知已分配与未分配之衣……应认可此人担任衣的分配者……若了知已分配与未分配之衣……"
+  },
+  {
+   "idx": 11,
+   "pali": "Yāgubhājako na sammannitabbo…pe… yāgubhājako sammannitabbo…pe….",
+   "zh": "不应认可此人担任粥的分配者……应认可此人担任粥的分配者……"
+  },
+  {
+   "idx": 12,
+   "pali": "Phalabhājako na sammannitabbo…pe… phalabhājako sammannitabbo…pe….",
+   "zh": "果分配者不应被认可……果分配者应被认可……"
+  },
+  {
+   "idx": 13,
+   "pali": "Khajjakabhājako na sammannitabbo…pe… bhājitābhājitaṃ na jānāti… khajjakabhājako sammannitabbo…pe… bhājitābhājitaṃ jānāti…pe….",
+   "zh": "副食分配者不应被认可……不知已分配与未分配……副食分配者应被认可……知已分配与未分配……"
+  },
+  {
+   "idx": 14,
+   "pali": "Appamattakavissajjako na sammannitabbo…pe… vissajjitāvissajjitaṃ na jānāti… appamattakavissajjako sammannitabbo…pe… vissajjitāvissajjitaṃ jānāti….",
+   "zh": "少量分发者不应被认可……不知已分发与未分发……少量分发者应被认可……知已分发与未分发……"
+  },
+  {
+   "idx": 15,
+   "pali": "Sāṭiyaggāhāpako na sammannitabbo…pe… gahitāgahitaṃ na jānāti … sāṭiyaggāhāpako sammannitabbo…pe… gahitāgahitaṃ jānāti….",
+   "zh": "不得认可浴衣收取者……不能辨明已收取与未收取……应认可浴衣收取者……能辨明已收取与未收取……"
+  },
+  {
+   "idx": 16,
+   "pali": "Pattaggāhāpako na sammannitabbo…pe… gahitāgahitaṃ na jānāti… pattaggāhāpako sammannitabbo…pe… gahitāgahitaṃ jānāti….",
+    "zh": "不得认可钵收取者……不能辨明已收取与未收取……应认可钵收取者……能辨明已收取与未收取……"
+  },
+  {
+   "idx": 17,
+   "pali": "Ārāmikapesako na sammannitabbo…pe… ārāmikapesako sammannitabbo…pe….",
+   "zh": "不得认可能园民差遣者……应认可能园民差遣者……"
+  },
+  {
+   "idx": 18,
+   "pali": "Sāmaṇerapesako na sammannitabbo…pe… sāmaṇerapesako sammannitabbo…pe….",
+   "zh": "不应认可沙弥差遣者……沙弥差遣者应予认可……"
+  },
+  {
+   "idx": 19,
+   "pali": "Sammato na pesetabbo…pe… sammato pesetabbo…pe….",
+   "zh": "被认可者不应被差遣……被认可者应当被差遣……"
+  },
+  {
+   "idx": 20,
+   "pali": "Sāmaṇerapesako bālo veditabbo…pe… paṇḍito veditabbo… khataṃ upahataṃ attānaṃ pariharati… akkhataṃ anupahataṃ attānaṃ pariharati… yathābhataṃ nikkhitto evaṃ niraye… yathābhataṃ nikkhitto evaṃ sagge. Katamehi pañcahi? Na chandāgatiṃ gacchati, na dosāgatiṃ gacchati, na mohāgatiṃ gacchati, na bhayāgatiṃ gacchati, pesitāpesitaṃ jānāti. Imehi kho, bhikkhave, pañcahi dhammehi samannāgato sāmaṇerapesako yathābhataṃ nikkhitto evaṃ sagge’’ti. Cuddasamaṃ.",
+   "zh": "沙弥差遣者当知为愚者……当知为智者……他护持那已损已伤的自身……他护持那无损无伤的自身……犹如卸下的重担，他必堕地狱……犹如卸下的重担，他必升天界。以哪五法？他不依贪欲而行，不依嗔恚而行，不依愚痴而行，不依怖畏而行，他知已差遣与未差遣。诸比丘，具足这五法的沙弥差遣者，犹如卸下的重担，他必升天界。”第十四"
+  },
+  {
+   "idx": 21,
+   "pali": "Sammutipeyyālaṃ niṭṭhitaṃ.",
+   "zh": "认可略说终"
+  }
+ ]
+}

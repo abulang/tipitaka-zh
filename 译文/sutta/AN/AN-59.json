@@ -1,0 +1,506 @@
+{
+ "uid": 59,
+ "title": "2. 行品",
+ "nik": "AN",
+ "segs": [
+  {
+   "idx": 0,
+   "pali": "2. Caravaggo",
+   "zh": "2. 行品"
+  },
+  {
+   "idx": 1,
+   "pali": "1. Carasuttaṃ",
+   "zh": "1. [[carasutta|行经]]"
+  },
+  {
+   "idx": 2,
+   "pali": "‘‘Carato cepi, bhikkhave, bhikkhuno uppajjati kāmavitakko vā byāpādavitakko vā vihiṃsāvitakko vā. Taṃ ce bhikkhu adhivāseti, nappajahati na vinodeti na byantīkaroti na anabhāvaṃ gameti, carampi, bhikkhave, bhikkhu evaṃbhūto ‘anātāpī anottāpī satataṃ samitaṃ kusīto hīnavīriyo’ti vuccati.",
+   "zh": "“诸比丘，若比丘在行走时生起欲寻、嗔恚寻或伤害寻，他若容忍而不舍断、不驱除、不灭尽、不令其消失，则虽在行走，也当被称为无热忱、无愧、恒常懈怠、精进低劣者。”",
+   "n": "11"
+  },
+  {
+   "idx": 3,
+   "pali": "‘‘Ṭhitassa cepi, bhikkhave, bhikkhuno uppajjati kāmavitakko vā byāpādavitakko vā vihiṃsāvitakko vā. Taṃ ce bhikkhu adhivāseti, nappajahati na vinodeti na byantīkaroti na anabhāvaṃ gameti, ṭhitopi, bhikkhave, bhikkhu evaṃbhūto ‘anātāpī anottāpī satataṃ samitaṃ kusīto hīnavīriyo’ti vuccati.",
+   "zh": "“诸比丘，若比丘在站立时生起欲寻、嗔恚寻或伤害寻，他若容忍而不舍断、不驱除、不灭尽、不令其消失，则虽在站立，也当被称为无热忱、无愧、恒常懈怠、精进低劣者。”"
+  },
+  {
+   "idx": 4,
+   "pali": "‘‘Nisinnassa cepi, bhikkhave, bhikkhuno uppajjati kāmavitakko vā byāpādavitakko vā vihiṃsāvitakko vā. Taṃ ce bhikkhu adhivāseti, nappajahati na vinodeti na byantīkaroti na anabhāvaṃ gameti, nisinnopi, bhikkhave, bhikkhu evaṃbhūto ‘anātāpī anottāpī satataṃ samitaṃ kusīto hīnavīriyo’ti vuccati.",
+   "zh": "“诸比丘，若比丘在坐着时生起欲寻、嗔恚寻或伤害寻，他若容忍而不舍断、不驱除、不灭尽、不令其消失，则虽在坐着，也当被称为无热忱、无愧、恒常懈怠、精进低劣者。”"
+  },
+  {
+   "idx": 5,
+   "pali": "‘‘Sayānassa cepi, bhikkhave, bhikkhuno jāgarassa uppajjati kāmavitakko vā byāpādavitakko vā vihiṃsāvitakko vā. Taṃ ce bhikkhu adhivāseti, nappajahati na vinodeti na byantīkaroti na anabhāvaṃ gameti, sayānopi, bhikkhave, bhikkhu jāgaro evaṃbhūto ‘anātāpī anottāpī satataṃ samitaṃ kusīto hīnavīriyo’ti vuccati.",
+   "zh": "“诸比丘！若比丘在卧而醒时，生起了欲寻、或嗔恚寻、或伤害寻。若他容忍此寻，不舍断、不驱除、不灭尽、不令其消失，诸比丘！纵使卧而清醒，这样的比丘便被称为‘不热忱、无愧、恒常而持续地懈怠、精进下劣者’。”"
+  },
+  {
+   "idx": 6,
+   "pali": "‘‘Carato cepi, bhikkhave, bhikkhuno uppajjati kāmavitakko vā byāpādavitakko vā vihiṃsāvitakko vā. Taṃ ce bhikkhu nādhivāseti, pajahati vinodeti byantīkaroti anabhāvaṃ gameti, carampi, bhikkhave, bhikkhu evaṃbhūto ‘ātāpī ottāpī satataṃ samitaṃ āraddhavīriyo pahitatto’ti vuccati.",
+   "zh": "“诸比丘！若比丘在行走时，生起了欲寻、或嗔恚寻、或伤害寻。若他对此不随顺，舍断、驱除、灭尽、令其消失，诸比丘！纵使处于行走，这样的比丘便被称为‘热忱、有愧、恒常而持续、已发精进、心意坚定者’。”"
+  },
+  {
+   "idx": 7,
+   "pali": "‘‘Ṭhitassa cepi, bhikkhave, bhikkhuno uppajjati kāmavitakko vā byāpādavitakko vā vihiṃsāvitakko vā. Taṃ ce bhikkhu nādhivāseti, pajahati vinodeti byantīkaroti anabhāvaṃ gameti, ṭhitopi, bhikkhave, bhikkhu evaṃbhūto ‘ātāpī ottāpī satataṃ samitaṃ āraddhavīriyo pahitatto’ti vuccati.",
+   "zh": "“诸比丘！若比丘在站立时，生起了欲寻、或嗔恚寻、或伤害寻。若他对此不随顺，舍断、驱除、灭尽、令其消失，诸比丘！纵使处于站立，这样的比丘便被称为‘热忱、有愧、恒常而持续、已发精进、心意坚定者’。”"
+  },
+  {
+   "idx": 8,
+   "pali": "‘‘Nisinnassa cepi, bhikkhave, bhikkhuno uppajjati kāmavitakko vā byāpādavitakko vā vihiṃsāvitakko vā. Taṃ ce bhikkhu nādhivāseti, pajahati vinodeti byantīkaroti anabhāvaṃ gameti, nisinnopi, bhikkhave, bhikkhu evaṃbhūto ‘ātāpī ottāpī satataṃ samitaṃ āraddhavīriyo pahitatto’ti vuccati.",
+   "zh": "“诸比丘！若比丘于坐时生起欲寻、嗔恚寻或伤害寻，若他不予容忍，而舍断、驱除、灭尽、令其无有，诸比丘！即使处于坐姿，如此比丘亦被称为“精勤、有愧、恒常相续、发奋精进、意志坚定者”。”"
+  },
+  {
+   "idx": 9,
+   "pali": "‘‘Sayānassa cepi, bhikkhave, bhikkhuno jāgarassa uppajjati kāmavitakko vā byāpādavitakko vā vihiṃsāvitakko vā. Taṃ ce bhikkhu nādhivāseti, pajahati vinodeti byantīkaroti anabhāvaṃ gameti, sayānopi, bhikkhave, bhikkhu jāgaro evaṃbhūto ‘ātāpī ottāpī satataṃ samitaṃ āraddhavīriyo pahitatto’ti vuccatī’’ti.",
+   "zh": "“诸比丘！若比丘卧而清醒时生起欲寻、嗔恚寻或伤害寻，若他不予容忍，而舍断、驱除、灭尽、令其无有，诸比丘！即使卧而清醒，如此比丘亦被称为“精勤、有愧、恒常相续、发奋精进、意志坚定者”。”"
+  },
+  {
+   "idx": 10,
+   "pali": "‘‘Caraṃ vā yadi vā tiṭṭhaṃ, nisinno uda vā sayaṃ;",
+   "zh": "“若行、若立、若坐、若卧；",
+   "type": "verse"
+  },
+  {
+   "idx": 11,
+   "pali": "Yo vitakkaṃ vitakketi, pāpakaṃ gehanissitaṃ.",
+   "zh": "若他寻思那邪恶的、依着居家生活的寻思。",
+   "type": "verse"
+  },
+  {
+   "idx": 12,
+   "pali": "‘‘Kummaggappaṭipanno so, mohaneyyesu mucchito;",
+   "zh": "“他是行于邪道者，迷醉于令人迷惑的事物；",
+   "type": "verse"
+  },
+  {
+   "idx": 13,
+   "pali": "Abhabbo tādiso bhikkhu, phuṭṭhuṃ sambodhimuttamaṃ.",
+   "zh": "这样的比丘，不能触证无上的正觉。",
+   "type": "verse"
+  },
+  {
+   "idx": 14,
+   "pali": "‘‘Yo ca caraṃ vā tiṭṭhaṃ vā, nisinno uda vā sayaṃ;",
+   "zh": "“或行、或立、或坐、或卧",
+   "type": "verse"
+  },
+  {
+   "idx": 15,
+   "pali": "Vitakkaṃ samayitvāna, vitakkūpasame rato;",
+   "zh": "平息寻思之后，便乐于寻思的止息",
+   "type": "verse"
+  },
+  {
+   "idx": 16,
+   "pali": "Bhabbo so tādiso bhikkhu, phuṭṭhuṃ sambodhimuttama’’nti. paṭhamaṃ;",
+   "zh": "这样的比丘，能触证无上正觉。第一。",
+   "type": "verse"
+  },
+  {
+   "idx": 17,
+   "pali": "2. Sīlasuttaṃ",
+   "zh": "2. [[sīlasutta|戒经]]"
+  },
+  {
+   "idx": 18,
+   "pali": "‘‘Sampannasīlā, bhikkhave, viharatha sampannapātimokkhā, pātimokkhasaṃvarasaṃvutā viharatha ācāragocarasampannā aṇumattesu vajjesu bhayadassāvino. Samādāya sikkhatha sikkhāpadesu. Sampannasīlānaṃ vo, bhikkhave, viharataṃ sampannapātimokkhānaṃ pātimokkhasaṃvarasaṃvutānaṃ viharataṃ ācāragocarasampannānaṃ aṇumattesu vajjesu bhayadassāvīnaṃ samādāya sikkhataṃ sikkhāpadesu kimassa uttari karaṇīyaṃ?",
+   "zh": "“诸比丘，你们应具足戒而住，具足巴帝摩卡而住，以巴帝摩卡防护而住，具足行处与所行，于微细的罪过中见怖畏，受持诸学处而修学。诸比丘，你们既已这样具足戒而住、具足巴帝摩卡、以巴帝摩卡防护、具足行处与所行、于微细罪过见怖畏、受持学处而修学，还有什么应作的呢？”",
+   "n": "12"
+  },
+  {
+   "idx": 19,
+   "pali": "‘‘Carato cepi, bhikkhave, bhikkhuno abhijjhābyāpādo vigato hoti, thinamiddhaṃ… uddhaccakukkuccaṃ… vicikicchā pahīnā hoti, āraddhaṃ hoti vīriyaṃ asallīnaṃ, upaṭṭhitā sati asammuṭṭhā, passaddho kāyo asāraddho, samāhitaṃ cittaṃ ekaggaṃ, carampi, bhikkhave, bhikkhu evaṃbhūto ‘ātāpī ottāpī satataṃ samitaṃ āraddhavīriyo pahitatto’ti vuccati.",
+   "zh": "“诸比丘，若比丘行走时，贪欲与瞋恚已灭去，昏沉睡眠、掉举追悔、疑已舍断，精进已发起而不懈怠，念已现前而不忘失，身已轻安而无躁扰，心已入定而一境，诸比丘，即便在行走中，这样的比丘亦可称为‘热诚、有愧、常恒相续、精进发起、心已决了’。”"
+  },
+  {
+   "idx": 20,
+   "pali": "‘‘Ṭhitassa cepi, bhikkhave, bhikkhuno abhijjhābyāpādo vigato hoti, thinamiddhaṃ… uddhaccakukkuccaṃ… vicikicchā pahīnā hoti, āraddhaṃ hoti vīriyaṃ asallīnaṃ, upaṭṭhitā sati asammuṭṭhā, passaddho kāyo asāraddho, samāhitaṃ cittaṃ ekaggaṃ, ṭhitopi, bhikkhave, bhikkhu evaṃbhūto ‘ātāpī ottāpī satataṃ samitaṃ āraddhavīriyo pahitatto’ti vuccati.",
+   "zh": "“诸比丘！若比丘站立之时，贪欲与嗔恚已离去，昏沉睡眠、掉举追悔、疑皆已舍断，精进已发起而不懈怠，念已现前而不忘失，身已轻安而不躁动，心已得定且一境——诸比丘！即使站立，这样的比丘便称为‘热诚、有惭、恒常精勤、精进已发起、心意专一者’。”"
+  },
+  {
+   "idx": 21,
+   "pali": "‘‘Nisinnassa cepi, bhikkhave, bhikkhuno abhijjhābyāpādo vigato hoti, thinamiddhaṃ… uddhaccakukkuccaṃ… vicikicchā pahīnā hoti, āraddhaṃ hoti vīriyaṃ asallīnaṃ, upaṭṭhitā sati asammuṭṭhā, passaddho kāyo asāraddho, samāhitaṃ cittaṃ ekaggaṃ, nisinnopi, bhikkhave, bhikkhu evaṃbhūto ‘ātāpī ottāpī satataṃ samitaṃ āraddhavīriyo pahitatto’ti vuccati.",
+   "zh": "“诸比丘！若比丘坐下之时，贪欲与嗔恚已离去，昏沉睡眠、掉举追悔、疑皆已舍断，精进已发起而不懈怠，念已现前而不忘失，身已轻安而不躁动，心已得定且一境——诸比丘！即便坐着，这样的比丘便称为‘热诚、有惭、恒常精勤、精进已发起、心意专一者’。”"
+  },
+  {
+   "idx": 22,
+   "pali": "‘‘Sayānassa cepi, bhikkhave, bhikkhuno jāgarassa abhijjhābyāpādo vigato hoti, thinamiddhaṃ… uddhaccakukkuccaṃ… vicikicchā pahīnā hoti, āraddhaṃ hoti vīriyaṃ asallīnaṃ, upaṭṭhitā sati asammuṭṭhā, passaddho kāyo asāraddho, samāhitaṃ cittaṃ ekaggaṃ, sayānopi, bhikkhave, bhikkhu jāgaro evaṃbhūto ‘ātāpī ottāpī satataṃ samitaṃ āraddhavīriyo pahitatto’ti vuccatī’’ti.",
+   "zh": "“诸比丘！若比丘躺卧而清醒之时，贪欲与嗔恚已离去，昏沉睡眠、掉举追悔、疑皆已舍断，精进已发起而不懈怠，念已现前而不忘失，身已轻安而不躁动，心已得定且一境——诸比丘！即便躺卧而清醒，这样的比丘便称为‘热诚、有惭、恒常精勤、精进已发起、心意专一者’。”"
+  },
+  {
+   "idx": 23,
+   "pali": "‘‘Yataṃ care yataṃ tiṭṭhe, yataṃ acche yataṃ saye;",
+   "zh": "“行时克制，立时克制，坐时克制，卧时克制；",
+   "type": "verse"
+  },
+  {
+   "idx": 24,
+   "pali": "Yataṃ samiñjaye bhikkhu, yatamenaṃ pasāraye.",
+   "zh": "比丘屈身时克制，伸身时克制。",
+   "type": "verse"
+  },
+  {
+   "idx": 25,
+   "pali": "‘‘Uddhaṃ tiriyaṃ apācīnaṃ, yāvatā jagato gati;",
+   "zh": "“上方、横向与下方，凡世间一切所趋之处；",
+   "type": "verse"
+  },
+  {
+   "idx": 26,
+   "pali": "Samavekkhitā ca dhammānaṃ, khandhānaṃ udayabbayaṃ.",
+   "zh": "观察诸法与诸蕴之生灭。",
+   "type": "verse"
+  },
+  {
+   "idx": 27,
+   "pali": "‘‘Cetosamathasāmīciṃ, sikkhamānaṃ sadā sataṃ;",
+   "zh": "“常修习心寂止之正道，恒持正念，",
+   "type": "verse"
+  },
+  {
+   "type": "verse",
+   "idx": 28,
+   "pali": "Satataṃ pahitattoti, āhu bhikkhuṃ tathāvidha’’nti. dutiyaṃ;",
+   "zh": "恒常精勤者，人称如此比丘为如是之人。”第二。"
+  },
+  {
+   "idx": 29,
+   "pali": "3. Padhānasuttaṃ",
+   "zh": "3. [[padhānasutta|精勤经]]"
+  },
+  {
+   "idx": 30,
+   "pali": "‘‘Cattārimāni, bhikkhave, sammappadhānāni. Katamāni cattāri? Idha, bhikkhave, bhikkhu anuppannānaṃ pāpakānaṃ akusalānaṃ dhammānaṃ anuppādāya chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati; uppannānaṃ pāpakānaṃ akusalānaṃ dhammānaṃ pahānāya chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati; anuppannānaṃ kusalānaṃ dhammānaṃ uppādāya chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati; uppannānaṃ kusalānaṃ dhammānaṃ ṭhitiyā asammosāya bhiyyobhāvāya vepullāya bhāvanāya pāripūriyā chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati. Imāni kho, bhikkhave, cattāri sammappadhānānī’’ti.",
+   "zh": "“比丘们，有四正勤。哪四种呢？比丘们，在此，比丘为了令未生的诸恶不善法不生起，生起意欲，精勤努力，策励其心，奋勇修习；为了令已生的诸恶不善法断除，生起意欲，精勤努力，策励其心，奋勇修习；为了令未生的诸善法生起，生起意欲，精勤努力，策励其心，奋勇修习；为了令已生的诸善法得以久住、不忘失、增长、广大、修习、圆满，生起意欲，精勤努力，策励其心，奋勇修习。比丘们，这就是四正勤。”",
+   "n": "13"
+  },
+  {
+   "idx": 31,
+   "pali": "‘‘Sammappadhānā māradheyyābhibhūtā,",
+   "zh": "“以正勤降伏魔境者，",
+   "type": "verse"
+  },
+  {
+   "idx": 32,
+   "pali": "Te asitā jātimaraṇabhayassa pāragū;",
+   "zh": "他们无所依著，已度脱生死怖畏之彼岸；",
+   "type": "verse"
+  },
+  {
+   "idx": 33,
+   "pali": "Te tusitā jetvā māraṃ savāhiniṃ te anejā,",
+   "zh": "他们心意满足，降伏魔王及其魔军，不动不摇，",
+   "type": "verse"
+  },
+  {
+   "idx": 34,
+   "pali": "Sabbaṃ namucibalaṃ upātivattā te sukhitā’’ti. tatiyaṃ;",
+   "zh": "超越一切死魔之力，他们安乐。”第三。",
+   "type": "verse"
+  },
+  {
+   "idx": 35,
+   "pali": "4. Saṃvarasuttaṃ",
+   "zh": "4. [[saṃvarasutta|律仪经]]"
+  },
+  {
+   "idx": 36,
+   "pali": "‘‘Cattārimāni , bhikkhave, padhānāni. Katamāni cattāri? Saṃvarappadhānaṃ, pahānappadhānaṃ, bhāvanāppadhānaṃ, anurakkhaṇāppadhānaṃ. Katamañca, bhikkhave, saṃvarappadhānaṃ? Idha, bhikkhave, bhikkhu cakkhunā rūpaṃ disvā na nimittaggāhī hoti nānubyañjanaggāhī. Yatvādhikaraṇamenaṃ cakkhundriyaṃ asaṃvutaṃ viharantaṃ abhijjhādomanassā pāpakā akusalā dhammā anvāssaveyyuṃ , tassa saṃvarāya paṭipajjati, rakkhati cakkhundriyaṃ, cakkhundriye saṃvaraṃ āpajjati. Sotena saddaṃ sutvā… ghānena gandhaṃ ghāyitvā… jivhāya rasaṃ sāyitvā… kāyena phoṭṭhabbaṃ phusitvā… manasā dhammaṃ viññāya na nimittaggāhī hoti nānubyañjanaggāhī, yatvādhikaraṇamenaṃ manindriyaṃ asaṃvutaṃ viharantaṃ abhijjhādomanassā pāpakā akusalā dhammā anvāssaveyyuṃ, tassa saṃvarāya paṭipajjati, rakkhati manindriyaṃ, manindriye saṃvaraṃ āpajjati. Idaṃ vuccati, bhikkhave, saṃvarappadhānaṃ.",
+   "zh": "“诸比丘，有四种精勤。哪四种？防护精勤、断除精勤、修习精勤、守护精勤。诸比丘，什么是防护精勤？在此，比丘以眼见色后，不取相，不取随相；因为若不防护眼根，贪忧、恶不善法便会流入，他为防护而行，守护眼根，于眼根达成防护。以耳闻声后……以鼻嗅香后……以舌尝味后……以身触所触后……以意识法后，不取相，不取随相；因为若不防护意根，贪忧、恶不善法便会流入，他为防护而行，守护意根，于意根达成防护。诸比丘，这称为防护精勤。",
+   "n": "14"
+  },
+  {
+   "idx": 37,
+   "pali": "‘‘Katamañca, bhikkhave, pahānappadhānaṃ? Idha, bhikkhave, bhikkhu uppannaṃ kāmavitakkaṃ nādhivāseti pajahati vinodeti byantīkaroti anabhāvaṃ gameti; uppannaṃ byāpādavitakkaṃ…pe… uppannaṃ vihiṃsāvitakkaṃ…pe… uppannuppanne pāpake akusale dhamme nādhivāseti pajahati vinodeti byantīkaroti anabhāvaṃ gameti. Idaṃ vuccati, bhikkhave, pahānappadhānaṃ.",
+   "zh": "“诸比丘，什么是断除精勤？在此，比丘于已生起的欲寻不加容忍，断除、驱除、灭除、令其不复存在；于已生起的嗔恚寻……于已生起的害寻……于任何已生起的恶不善法，不加容忍，断除、驱除、灭除、令其不复存在。诸比丘，这称为断除精勤。”"
+  },
+  {
+   "idx": 38,
+   "pali": "‘‘Katamañca, bhikkhave, bhāvanāppadhānaṃ? Idha, bhikkhave, bhikkhu satisambojjhaṅgaṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ, dhammavicayasambojjhaṅgaṃ bhāveti… vīriyasambojjhaṅgaṃ bhāveti… pītisambojjhaṅgaṃ bhāveti… passaddhisambojjhaṅgaṃ bhāveti… samādhisambojjhaṅgaṃ bhāveti… upekkhāsambojjhaṅgaṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ. Idaṃ vuccati, bhikkhave, bhāvanāppadhānaṃ.",
+   "zh": "“诸比丘，什么是修习精进？于此，比丘修习依远离、依离贪、依灭、转向舍遣的念觉支，修习择法觉支……修习精进觉支……修习喜觉支……修习轻安觉支……修习定觉支……修习依远离、依离贪、依灭、转向舍遣的舍觉支。诸比丘，这称为修习精进。”"
+  },
+  {
+   "idx": 39,
+   "pali": "‘‘Katamañca , bhikkhave, anurakkhaṇāppadhānaṃ? Idha, bhikkhave, bhikkhu uppannaṃ bhaddakaṃ samādhinimittaṃ anurakkhati aṭṭhikasaññaṃ puḷavakasaññaṃ vinīlakasaññaṃ vicchiddakasaññaṃ uddhumātakasaññaṃ. Idaṃ vuccati, bhikkhave, anurakkhaṇāppadhānaṃ. Imāni kho, bhikkhave, cattāri padhānānī’’ti.",
+   "zh": "“诸比丘，什么是守护精进？于此，比丘守护已生起的善定相——骨想、虫食想、青瘀想、断坏想、膨胀想。诸比丘，这称为守护精进。诸比丘，此即四种精进。”"
+  },
+  {
+   "idx": 40,
+   "pali": "‘‘Saṃvaro ca pahānañca, bhāvanā anurakkhaṇā;",
+   "zh": "“防护与断除，修习与守护；",
+   "type": "verse"
+  },
+  {
+   "idx": 41,
+   "pali": "Ete padhānā cattāro, desitādiccabandhunā;",
+   "zh": "这四种精进，为太阳族尊所宣说；",
+   "type": "verse"
+  },
+  {
+   "idx": 42,
+   "pali": "Yehi bhikkhu idhātāpī, khayaṃ dukkhassa pāpuṇe’’ti. catutthaṃ;",
+   "zh": "比丘于此精勤热忱，便能证达苦的灭尽。”第四经。",
+   "type": "verse"
+  },
+  {
+   "idx": 43,
+   "pali": "5. Paññattisuttaṃ",
+   "zh": "5. [[paññattisutta|施设经]]"
+  },
+  {
+   "idx": 44,
+   "pali": "‘‘Catasso imā, bhikkhave, aggapaññattiyo. Katamā catasso? Etadaggaṃ, bhikkhave, attabhāvīnaṃ yadidaṃ – rāhu asurindo. Etadaggaṃ, bhikkhave, kāmabhogīnaṃ yadidaṃ – rājā mandhātā. Etadaggaṃ, bhikkhave, ādhipateyyānaṃ yadidaṃ – māro pāpimā. Sadevake, bhikkhave, loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya tathāgato aggamakkhāyati arahaṃ sammāsambuddho. Imā kho, bhikkhave, catasso aggapaññattiyo’’ti.",
+   "zh": "“诸比丘，有四种最上施设。哪四种？诸比丘，于有身者中，此为最上——阿修罗王拉胡。诸比丘，于欲乐享受者中，此为最上——曼陀多王。诸比丘，于支配者中，此为最上——恶魔魔罗。诸比丘，在含天、魔、梵天的世间，在沙门、婆罗门与天人的众生中，如来、阿拉汉、正自觉者被尊为最上。诸比丘，这便是四种最上施设。”",
+   "n": "15"
+  },
+  {
+   "idx": 45,
+   "pali": "‘‘Rāhuggaṃ attabhāvīnaṃ, mandhātā kāmabhoginaṃ;",
+   "zh": "“于有身中，拉胡最上；于欲乐中，曼陀多最上；”",
+   "type": "verse"
+  },
+  {
+   "idx": 46,
+   "pali": "Māro ādhipateyyānaṃ, iddhiyā yasasā jalaṃ.",
+   "zh": "于支配中，魔为最上，以神通、名声为网。",
+   "type": "verse"
+  },
+  {
+   "idx": 47,
+   "pali": "‘‘Uddhaṃ tiriyaṃ apācīnaṃ, yāvatā jagato gati;",
+   "zh": "“上方、横向与下方，凡世间一切所趋之处；",
+   "type": "verse"
+  },
+  {
+   "idx": 48,
+   "pali": "Sadevakassa lokassa, buddho aggo pavuccatī’’ti. pañcamaṃ;",
+   "zh": "在包含天人的世间，佛陀被尊为最上。”第五经。",
+   "type": "verse"
+  },
+  {
+   "idx": 49,
+   "pali": "6. Sokhummasuttaṃ",
+   "zh": "6. [[sokhummasutta|微细经]]"
+  },
+  {
+   "idx": 50,
+   "pali": "‘‘Cattārimāni, bhikkhave, sokhummāni. Katamāni cattāri? Idha, bhikkhave, bhikkhu rūpasokhummena samannāgato hoti paramena; tena ca rūpasokhummena aññaṃ rūpasokhummaṃ uttaritaraṃ vā paṇītataraṃ vā na samanupassati; tena ca rūpasokhummena aññaṃ rūpasokhummaṃ uttaritaraṃ vā paṇītataraṃ vā na pattheti. Vedanāsokhummena samannāgato hoti paramena; tena ca vedanāsokhummena aññaṃ vedanāsokhummaṃ uttaritaraṃ vā paṇītataraṃ vā na samanupassati; tena ca vedanāsokhummena aññaṃ vedanāsokhummaṃ uttaritaraṃ vā paṇītataraṃ vā na pattheti. Saññāsokhummena samannāgato hoti paramena; tena ca saññāsokhummena aññaṃ saññāsokhummaṃ uttaritaraṃ vā paṇītataraṃ vā na samanupassati; tena ca saññāsokhummena aññaṃ saññāsokhummaṃ uttaritaraṃ vā paṇītataraṃ vā na pattheti. Saṅkhārasokhummena samannāgato hoti paramena; tena ca saṅkhārasokhummena aññaṃ saṅkhārasokhummaṃ uttaritaraṃ vā paṇītataraṃ vā na samanupassati; tena ca saṅkhārasokhummena aññaṃ saṅkhārasokhummaṃ uttaritaraṃ vā paṇītataraṃ vā na pattheti. Imāni kho, bhikkhave, cattāri sokhummānī’’ti.",
+   "zh": "“诸比丘，有四种细微。哪四种呢？诸比丘，在此，比丘于色细微成就最上；以此色细微，他不见有其他更胜、更殊妙的色细微；由此色细微，他也不希求其他更胜、更殊妙的色细微。他于受细微成就最上；以此受细微，他不见有其他更胜、更殊妙的受细微；由此受细微，他也不希求其他更胜、更殊妙的受细微。他于想细微成就最上；以此想细微，他不见有其他更胜、更殊妙的想细微；由此想细微，他也不希求其他更胜、更殊妙的想细微。他于行细微成就最上；以此行细微，他不见有其他更胜、更殊妙的行细微；由此行细微，他也不希求其他更胜、更殊妙的行细微。诸比丘，这便是四种细微。”",
+   "n": "16"
+  },
+  {
+   "idx": 51,
+   "pali": "‘‘Rūpasokhummataṃ ñatvā, vedanānañca sambhavaṃ;",
+   "zh": "“了知色的细微性，以及诸受的生起；",
+   "type": "verse"
+  },
+  {
+   "idx": 52,
+   "pali": "Saññā yato samudeti, atthaṃ gacchati yattha ca;",
+   "zh": "想从何处生起，又于何处灭去；",
+   "type": "verse"
+  },
+  {
+   "idx": 53,
+   "pali": "Saṅkhāre parato ñatvā, dukkhato no ca attato.",
+   "zh": "了知诸行是异、是苦、非我。",
+   "type": "verse"
+  },
+  {
+   "idx": 54,
+   "pali": "‘‘Sa ve sammaddaso bhikkhu, santo santipade rato;",
+   "zh": "“那位正见比丘，寂静，乐于寂静道；",
+   "type": "verse"
+  },
+  {
+   "idx": 55,
+   "pali": "Dhāreti antimaṃ dehaṃ, jetvā māraṃ savāhini’’nti. chaṭṭhaṃ;",
+   "zh": "他持最后之身，已战胜魔王与魔军。”第六经",
+   "type": "verse"
+  },
+  {
+   "idx": 56,
+   "pali": "7. Paṭhamaagatisuttaṃ",
+    "zh": "7. 第一[[paṭhamaagatisutta|非道经]]"
+  },
+  {
+   "idx": 57,
+   "pali": "‘‘Cattārimāni, bhikkhave, agatigamanāni. Katamāni cattāri? Chandāgatiṃ gacchati, dosāgatiṃ gacchati, mohāgatiṃ gacchati, bhayāgatiṃ gacchati – imāni kho, bhikkhave, cattāri agatigamanānī’’ti.",
+   "zh": "“诸比丘，有这四种非道之行。哪四种？因贪欲而行非道，因嗔恚而行非道，因愚痴而行非道，因怖畏而行非道——诸比丘，这便是有四种非道之行。”",
+   "n": "17"
+  },
+  {
+   "idx": 58,
+   "pali": "‘‘Chandā dosā bhayā mohā, yo dhammaṃ ativattati;",
+   "zh": "“凡因欲、因嗔、因怖畏、因痴而违越正法者，",
+   "type": "verse"
+  },
+  {
+   "idx": 59,
+   "pali": "Nihīyati tassa yaso, kāḷapakkheva candimā’’ti. sattamaṃ;",
+   "zh": "他的名声衰减，犹如暗分时节的月亮。”第七经",
+   "type": "verse"
+  },
+  {
+   "idx": 60,
+   "pali": "8. Dutiyaagatisuttaṃ",
+   "zh": "8. [[dutiyaagatisutta|第二非道经]]"
+  },
+  {
+   "idx": 61,
+   "pali": "‘‘Cattārimāni , bhikkhave, nāgatigamanāni. Katamāni cattāri? Na chandāgatiṃ gacchati, na dosāgatiṃ gacchati, na mohāgatiṃ gacchati, na bhayāgatiṃ gacchati – imāni kho, bhikkhave, cattāri nāgatigamanānī’’ti.",
+   "zh": "“诸比丘，有此四种不行非道。哪四种？不因欲而行非道，不因嗔而行非道，不因痴而行非道，不因怖畏而行非道——诸比丘，这便是四种不行非道。”",
+   "n": "18"
+  },
+  {
+   "idx": 62,
+   "pali": "‘‘Chandā dosā bhayā mohā, yo dhammaṃ nātivattati;",
+   "zh": "“凡不因欲、因嗔、因怖畏、因痴而违越正法者，",
+   "type": "verse"
+  },
+  {
+   "idx": 63,
+   "pali": "Āpūrati tassa yaso, sukkapakkheva candimā’’ti. aṭṭhamaṃ;",
+   "zh": "他的名声日益增长，犹如明月在白分中渐满。”第八经",
+   "type": "verse"
+  },
+  {
+   "idx": 64,
+   "pali": "9. Tatiyaagatisuttaṃ",
+   "zh": "9. [[tatiyaagatisutta|第三非道经]]"
+  },
+  {
+   "idx": 65,
+   "pali": "‘‘Cattārimāni, bhikkhave, agatigamanāni. Katamāni cattāri? Chandāgatiṃ gacchati , dosāgatiṃ gacchati, mohāgatiṃ gacchati, bhayāgatiṃ gacchati – imāni kho, bhikkhave, cattāri agatigamanāni.",
+   "zh": "“诸比丘，有此四种非道之行。哪四种？因欲而行非道，因嗔而行非道，因痴而行非道，因怖畏而行非道——诸比丘，这便是四种非道之行。",
+   "n": "19"
+  },
+  {
+   "idx": 66,
+   "pali": "‘‘Cattārimāni, bhikkhave, nāgatigamanāni. Katamāni cattāri? Na chandāgatiṃ gacchati, na dosāgatiṃ gacchati, na mohāgatiṃ gacchati, na bhayāgatiṃ gacchati – imāni kho, bhikkhave, cattāri nāgatigamanānī’’ti.",
+   "zh": "“诸比丘，有此四种不趋非道。哪四种？不因欲而趋非道，不因嗔而趋非道，不因痴而趋非道，不因怖畏而趋非道——诸比丘，这便是四种不趋非道。”"
+  },
+  {
+   "idx": 67,
+   "pali": "‘‘Chandā dosā bhayā mohā, yo dhammaṃ ativattati;",
+   "zh": "“凡因欲、因嗔、因怖畏、因痴而违越正法者，",
+   "type": "verse"
+  },
+  {
+   "idx": 68,
+   "pali": "Nihīyati tassa yaso, kāḷapakkheva candimā.",
+   "zh": "他的名声衰损，犹如黑分时的月亮。",
+   "type": "verse"
+  },
+  {
+   "idx": 69,
+   "pali": "‘‘Chandā dosā bhayā mohā, yo dhammaṃ nātivattati;",
+   "zh": "“凡不因欲、因嗔、因怖畏、因痴而违越正法者，",
+   "type": "verse"
+  },
+  {
+   "idx": 70,
+   "pali": "Āpūrati tassa yaso, sukkapakkheva candimā’’ti. navamaṃ;",
+   "zh": "他的名声增长，犹如白分时的月亮。第九经。",
+   "type": "verse"
+  },
+  {
+   "idx": 71,
+   "pali": "10. Bhattuddesakasuttaṃ",
+   "zh": "10. [[bhattuddesakasutta|食物分配者经]]"
+  },
+  {
+   "idx": 72,
+   "pali": "‘‘Catūhi, bhikkhave, dhammehi samannāgato bhattuddesako yathābhataṃ nikkhitto evaṃ niraye. Katamehi catūhi? Chandāgatiṃ gacchati, dosāgatiṃ gacchati, mohāgatiṃ gacchati, bhayāgatiṃ gacchati – imehi kho, bhikkhave, catūhi dhammehi samannāgato bhattuddesako yathābhataṃ nikkhitto evaṃ niraye.",
+   "zh": "“诸比丘，具足四法的食物分配者，犹如被掷下一般，堕入地狱。哪四种？因欲而行非道，因嗔而行非道，因痴而行非道，因怖畏而行非道。诸比丘，具足这四法的食物分配者，犹如被掷下一般，堕入地狱。",
+   "n": "20"
+  },
+  {
+   "idx": 73,
+   "pali": "‘‘Catūhi, bhikkhave, dhammehi samannāgato bhattuddesako yathābhataṃ nikkhitto evaṃ sagge. Katamehi catūhi? Na chandāgatiṃ gacchati, na dosāgatiṃ gacchati, na mohāgatiṃ gacchati, na bhayāgatiṃ gacchati – imehi kho, bhikkhave, catūhi dhammehi samannāgato bhattuddesako yathābhataṃ nikkhitto evaṃ sagge’’ti.",
+   "zh": "“诸比丘，具足四法的食物分配者，犹如被掷下一般，生于天界。哪四种？不因欲而行非道，不因嗔而行非道，不因痴而行非道，不因怖畏而行非道。诸比丘，具足这四法的食物分配者，犹如被掷下一般，生于天界。”"
+  },
+  {
+   "idx": 74,
+   "pali": "‘‘Ye keci kāmesu asaññatā janā,",
+   "zh": "“凡于诸欲中不自制之人，",
+   "type": "verse"
+  },
+  {
+   "idx": 75,
+   "pali": "Adhammikā honti adhammagāravā;",
+   "zh": "便行非法，于法无敬；",
+   "type": "verse"
+  },
+  {
+   "idx": 76,
+   "pali": "Chandā dosā mohā ca bhayā gāmino ,",
+   "zh": "随贪、嗔、痴与怖畏而行。",
+   "type": "verse"
+  },
+  {
+   "idx": 77,
+   "pali": "Parisākasaṭo ca panesa vuccati.",
+   "zh": "他便被称为众会中的垢秽。",
+   "type": "verse"
+  },
+  {
+   "idx": 78,
+   "pali": "‘‘Evañhi vuttaṃ samaṇena jānatā,",
+   "zh": "“诚然，这是由知者沙门所说，",
+   "type": "verse"
+  },
+  {
+   "idx": 79,
+   "pali": "Tasmā hi te sappurisā pasaṃsiyā;",
+   "zh": "因此，那些善人确实值得赞叹。",
+   "type": "verse"
+  },
+  {
+   "idx": 80,
+   "pali": "Dhamme ṭhitā ye na karonti pāpakaṃ,",
+   "zh": "安住于法者，不作恶行；",
+   "type": "verse"
+  },
+  {
+   "idx": 81,
+   "pali": "Na chandā na dosā na mohā na bhayā ca gāmino ;",
+   "zh": "不为贪欲、嗔恚、愚痴、怖畏所驱使而行；",
+   "type": "verse"
+  },
+  {
+   "idx": 82,
+   "pali": "‘‘Parisāya maṇḍo ca panesa vuccati,",
+   "zh": "“这样的人，被称作集会中的精粹。”",
+   "type": "verse"
+  },
+  {
+   "idx": 83,
+   "pali": "Evañhi vuttaṃ samaṇena jānatā’’ti. dasamaṃ;",
+   "zh": "这便是那位知者——沙门所说。第十经",
+   "type": "verse"
+  },
+  {
+   "idx": 84,
+   "pali": "Caravaggo dutiyo.",
+   "zh": "第二 行品"
+  },
+  {
+   "idx": 85,
+   "pali": "Tassuddānaṃ –",
+   "zh": "其摄颂："
+  },
+  {
+   "idx": 86,
+   "pali": "Caraṃ sīlaṃ padhānāni, saṃvaraṃ paññatti pañcamaṃ;",
+   "zh": "行、戒、精勤，律仪，制定为第五",
+   "type": "verse"
+  },
+  {
+   "idx": 87,
+   "pali": "Sokhummaṃ tayo agatī, bhattuddesena te dasāti.",
+   "zh": "微细、三种不应行，以食事为十经",
+   "type": "verse"
+  }
+ ]
+}

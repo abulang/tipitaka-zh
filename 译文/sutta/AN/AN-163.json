@@ -1,0 +1,195 @@
+{
+ "uid": 163,
+ "title": "4. 优波离品",
+ "nik": "AN",
+ "segs": [
+  {
+   "idx": 0,
+   "pali": "4. Upālivaggo",
+   "zh": "4. 优波离品"
+  },
+  {
+   "idx": 1,
+   "pali": "1. Upālisuttaṃ",
+   "zh": "1. [[upālisutta|优波离经]]"
+  },
+  {
+   "idx": 2,
+   "pali": "Atha kho āyasmā upāli yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho āyasmā upāli bhagavantaṃ etadavoca – ‘‘kati nu kho, bhante, atthavase paṭicca tathāgatena sāvakānaṃ sikkhāpadaṃ paññattaṃ, pātimokkhaṃ uddiṭṭha’’nti?",
+   "zh": "那时，尊者优波离来到世尊前，礼敬世尊，在一旁坐下。坐在一旁的尊者优波离对世尊这样说：“尊者，如来是基于多少种义利，才为声闻弟子制定学处、诵出巴帝摩卡的呢？”",
+   "n": "31"
+  },
+  {
+   "idx": 3,
+   "pali": "‘‘Dasa kho, upāli, atthavase paṭicca tathāgatena sāvakānaṃ sikkhāpadaṃ paññattaṃ, pātimokkhaṃ uddiṭṭhaṃ. Katame dasa? Saṅghasuṭṭhutāya, saṅghaphāsutāya, dummaṅkūnaṃ puggalānaṃ niggahāya, pesalānaṃ bhikkhūnaṃ phāsuvihārāya, diṭṭhadhammikānaṃ āsavānaṃ saṃvarāya, samparāyikānaṃ āsavānaṃ paṭighātāya, appasannānaṃ pasādāya, pasannānaṃ bhiyyobhāvāya, saddhammaṭṭhitiyā, vinayānuggahāya – ime kho, upāli, dasa atthavase paṭicca tathāgatena sāvakānaṃ sikkhāpadaṃ paññattaṃ, pātimokkhaṃ uddiṭṭha’’nti. Paṭhamaṃ.",
+   "zh": "“优波离，如来正是基于十种义利，为声闻弟子制定学处、诵出巴帝摩卡。哪十种呢？为僧团的善好，为僧团的安乐，为折伏难调伏之人，为善行比丘的安稳住，为防护现前诸漏，为遮止当来诸漏，为令未信者生信，为令已信者增长，为令正法久住，为随顺于律。优波离，如来正是缘于这十种义利，为声闻弟子制定学处、诵出巴帝摩卡。”第一。"
+  },
+  {
+   "idx": 4,
+   "pali": "2. Pātimokkhaṭṭhapanāsuttaṃ",
+   "zh": "2. [[pātimokkhaṭṭhapanāsutta|巴帝摩卡止说经]]"
+  },
+  {
+   "idx": 5,
+   "pali": "‘‘Kati nu kho, bhante, pātimokkhaṭṭhapanā’’ti? ‘‘Dasa kho, upāli, pātimokkhaṭṭhapanā. Katame dasa? Pārājiko tassaṃ parisāyaṃ nisinno hoti , pārājikakathā vippakatā hoti, anupasampanno tassaṃ parisāyaṃ nisinno hoti, anupasampannakathā vippakatā hoti, sikkhaṃ paccakkhātako tassaṃ parisāyaṃ nisinno hoti, sikkhaṃ paccakkhātakakathā vippakatā hoti, paṇḍako tassaṃ parisāyaṃ nisinno hoti, paṇḍakakathā vippakatā hoti, bhikkhunidūsako tassaṃ parisāyaṃ nisinno hoti, bhikkhunidūsakakathā vippakatā hoti – ime kho, upāli, dasa pātimokkhaṭṭhapanā’’ti. Dutiyaṃ.",
+   "zh": "“尊者，有多少种情况会中止诵巴帝摩卡？” “优波离，有十种情况会中止诵巴帝摩卡。哪十种呢？犯波罗夷者坐在那比丘众中，关于波罗夷的讨论尚未结束；未受具足戒者坐在那比丘众中，关于未受具足戒者的讨论尚未结束；舍戒者坐在那比丘众中，关于舍戒者的讨论尚未结束；般荼咖坐在那比丘众中，关于般荼咖的讨论尚未结束；污染比丘尼者坐在那比丘众中，关于污染比丘尼者的讨论尚未结束——优波离，这便是十种中止诵巴帝摩卡的情形。第二。”",
+   "n": "32"
+  },
+  {
+   "idx": 6,
+   "pali": "3. Ubbāhikāsuttaṃ",
+   "zh": "3. [[ubbāhikāsutta|断事经]]"
+  },
+  {
+   "idx": 7,
+   "pali": "‘‘Katihi nu kho, bhante, dhammehi samannāgato bhikkhu ubbāhikāya sammannitabbo’’ti? ‘‘Dasahi kho, upāli, dhammehi samannāgato bhikkhu ubbāhikāya sammannitabbo. Katamehi dasahi? Idhupāli, bhikkhu sīlavā hoti; pātimokkhasaṃvarasaṃvuto viharati ācāragocarasampanno aṇumattesu vajjesu bhayadassāvī, samādāya sikkhati sikkhāpadesu; bahussuto hoti sutadharo sutasannicayo, ye te dhammā ādikalyāṇā majjhekalyāṇā pariyosānakalyāṇā sātthaṃ sabyañjanaṃ kevalaparipuṇṇaṃ parisuddhaṃ brahmacariyaṃ abhivadanti, tathārūpāssa dhammā bahussutā honti dhātā vacasā paricitā manasānupekkhitā diṭṭhiyā suppaṭividdhā; ubhayāni kho panassa pātimokkhāni vitthārena svāgatāni honti suvibhattāni suppavattīni suvinicchitāni suttaso anubyañjanaso; vinaye kho pana ṭhito hoti asaṃhīro; paṭibalo hoti ubho atthapaccatthike saññāpetuṃ paññāpetuṃ nijjhāpetuṃ pekkhetuṃ pasādetuṃ; adhikaraṇasamuppādavūpasamakusalo hoti – adhikaraṇaṃ jānāti; adhikaraṇasamudayaṃ jānāti; adhikaraṇanirodhaṃ jānāti; adhikaraṇanirodhagāminiṃ paṭipadaṃ jānāti. Imehi kho, upāli, dasahi dhammehi samannāgato bhikkhu ubbāhikāya sammannitabbo’’ti. Tatiyaṃ.",
+   "zh": "“尊者，具足多少法的比丘才应被指定为断事人？” “优波离，具足十法的比丘应被指定为断事人。哪十种呢？优波离，于此，比丘是持戒者，依巴帝摩卡防护而住，具足行与行处，于微细罪中见怖畏，受持学习诸学处；他是多闻者、持法者、集所闻者，那些法初善、中善、后善，有义有文，宣说完全圆满、遍净的梵行，他于这样的法多闻、忆持，以言语熟练，以意观察，以见解善通达；他的两部巴帝摩卡，已详细善学，分别论究，善通晓、善决择，依经依字而通达；他于律中安住不动摇；他能够劝导、教导，令双方争论者与反对者理解、看见、欢喜；他善巧于诤事的生起与止息：他知诤事，知诤事之集，知诤事之灭，知导向诤事灭之道。优波离，具足这十法的比丘应被指定为断事人。第三。”",
+   "n": "33"
+  },
+  {
+   "idx": 8,
+   "pali": "4. Upasampadāsuttaṃ",
+   "zh": "4. [[upasampadāsutta|具足戒经]]"
+  },
+  {
+   "idx": 9,
+   "pali": "‘‘Katihi nu kho, bhante, dhammehi samannāgatena bhikkhunā upasampādetabba’’nti? ‘‘Dasahi kho, upāli, dhammehi samannāgatena bhikkhunā upasampādetabbaṃ. Katamehi dasahi? Idhupāli, bhikkhu sīlavā hoti, pātimokkhasaṃvarasaṃvuto viharati ācāragocarasampanno aṇumattesu vajjesu bhayadassāvī, samādāya sikkhati sikkhāpadesu; bahussuto hoti sutadharo sutasannicayo, ye te dhammā ādikalyāṇā majjhekalyāṇā pariyosānakalyāṇā sātthaṃ sabyañjanaṃ kevalaparipuṇṇaṃ parisuddhaṃ brahmacariyaṃ abhivadanti, tathārūpāssa dhammā bahussutā honti dhātā vacasā paricitā manasānupekkhitā diṭṭhiyā suppaṭividdhā; pātimokkhaṃ kho panassa vitthārena svāgataṃ hoti suvibhattaṃ suppavattaṃ suvinicchitaṃ suttaso anubyañjanaso; paṭibalo hoti gilānaṃ upaṭṭhātuṃ vā upaṭṭhāpetuṃ vā; paṭibalo hoti anabhiratiṃ vūpakāsetuṃ vā vūpakāsāpetuṃ vā; paṭibalo hoti uppannaṃ kukkuccaṃ dhammato vinodetuṃ; paṭibalo hoti uppannaṃ diṭṭhigataṃ dhammato vivecetuṃ; paṭibalo hoti adhisīle samādapetuṃ; paṭibalo hoti adhicitte samādapetuṃ; paṭibalo hoti adhipaññāya samādapetuṃ. Imehi kho, upāli, dasahi dhammehi samannāgatena bhikkhunā upasampādetabba’’nti. Catutthaṃ.",
+   "zh": "“尊者，具足多少法的比丘应授人具足戒呢？”“优波离，具足十法的比丘应授人具足戒。哪十种呢？优波离，于此，比丘具戒，以巴帝摩卡防护而住，行与行处具足，于微细罪中见怖畏，受持而学于诸学处；他多闻、持法、积聚所闻，于初善、中善、后善，有义有文，宣说完全圆满、遍净梵行的诸法，他多闻、忆持、以语熟练、以意观察、以见善通达；他的巴帝摩卡已被详细善学、善分别、善通晓、善抉择，依经依句；他能看护病者，或令人看护；能除遣不乐，或令人除遣；能如法除去已生起的追悔；能如法舍离已生起的邪见；能令人入于增上戒；能令人入于增上心；能令人入于增上慧。优波离，具足这十法的比丘应授人具足戒。”第四。",
+   "n": "34"
+  },
+  {
+   "idx": 10,
+   "pali": "5. Nissayasuttaṃ",
+   "zh": "5. [[nissayasutta|依止经]]"
+  },
+  {
+   "idx": 11,
+   "pali": "‘‘Katihi nu kho, bhante, dhammehi samannāgatena bhikkhunā nissayo dātabbo’’ti? ‘‘Dasahi kho, upāli, dhammehi samannāgatena bhikkhunā nissayo dātabbo. Katamehi dasahi? Idhupāli, bhikkhu sīlavā hoti…pe… samādāya sikkhati sikkhāpadesu; bahussuto hoti…pe… diṭṭhiyā suppaṭividdhā; pātimokkhaṃ kho panassa vitthārena svāgataṃ hoti suvibhattaṃ suppavattaṃ suvinicchitaṃ suttaso anubyañjanaso; paṭibalo hoti gilānaṃ upaṭṭhātuṃ vā upaṭṭhāpetuṃ vā; paṭibalo hoti anabhiratiṃ vūpakāsetuṃ vā vūpakāsāpetuṃ vā; paṭibalo hoti uppannaṃ kukkuccaṃ dhammato vinodetuṃ; paṭibalo hoti uppannaṃ diṭṭhigataṃ dhammato vivecetuṃ; paṭibalo hoti adhisīle…pe… adhicitte… adhipaññāya samādapetuṃ. Imehi kho, upāli, dasahi dhammehi samannāgatena bhikkhunā nissayo dātabbo’’ti. Pañcamaṃ.",
+   "zh": "“尊者，具足多少法的比丘应给予依止呢？”“优波离，具足十法的比丘应给予依止。哪十种呢？优波离，于此，比丘具戒……（中略）……于诸学处受持修学；多闻……（中略）……以见善通达；他于巴帝摩卡，善学、善分别、善通晓、善抉择，依经文、依字句；能看护病人，或安排他人看护；能遣除不乐，或安排他人遣除；能如法平息已生起的追悔；能如法舍离已生起的邪见；能引导入于增上戒……增上心……增上慧。优波离，具足此十法的比丘应给予依止。第五。”",
+   "n": "35"
+  },
+  {
+   "idx": 12,
+   "pali": "6. Sāmaṇerasuttaṃ",
+   "zh": "6. [[sāmaṇerasutta|沙弥经]]"
+  },
+  {
+   "idx": 13,
+   "pali": "‘‘Katihi nu kho, bhante, dhammehi samannāgatena bhikkhunā sāmaṇero upaṭṭhāpetabbo’’ti? ‘‘Dasahi kho, upāli, dhammehi samannāgatena bhikkhunā sāmaṇero upaṭṭhāpetabbo. Katamehi dasahi? Idhupāli, bhikkhu sīlavā hoti…pe… samādāya sikkhati sikkhāpadesu; bahussuto hoti…pe… diṭṭhiyā suppaṭividdhā; pātimokkhaṃ kho panassa vitthārena svāgataṃ hoti suvibhattaṃ suppavattaṃ suvinicchitaṃ suttaso anubyañjanaso; paṭibalo hoti gilānaṃ upaṭṭhātuṃ vā upaṭṭhāpetuṃ vā; paṭibalo hoti anabhiratiṃ vūpakāsetuṃ vā vūpakāsāpetuṃ vā; paṭibalo hoti uppannaṃ kukkuccaṃ dhammato vinodetuṃ; paṭibalo hoti uppannaṃ diṭṭhigataṃ dhammato vivecetuṃ; paṭibalo hoti adhisīle samādapetuṃ; paṭibalo hoti adhicitte samādapetuṃ; paṭibalo hoti adhipaññāya samādapetuṃ. Imehi kho, upāli, dasahi dhammehi samannāgatena bhikkhunā sāmaṇero upaṭṭhāpetabbo’’ti. Chaṭṭhaṃ.",
+   "zh": "“尊者，具足多少法的比丘方可受沙弥侍奉？”“优波离，具足十法的比丘方可受沙弥侍奉。哪十种呢？优波离，于此，比丘具戒……（中略）……于诸学处受持修学；多闻……（中略）……以见善通达；他于巴帝摩卡，善学、善分别、善通晓、善抉择，依经文、依字句；能看护病人，或安排他人看护；能遣除不乐，或安排他人遣除；能如法平息已生起的追悔；能如法舍离已生起的邪见；能引导入于增上戒……增上心……增上慧。优波离，具足此十法的比丘方可受沙弥侍奉。第六。”",
+   "n": "36"
+  },
+  {
+   "idx": 14,
+   "pali": "7. Saṅghabhedasuttaṃ",
+   "zh": "7. [[saṅghabhedasutta|僧团破裂经]]"
+  },
+  {
+   "idx": 15,
+   "pali": "‘‘‘Saṅghabhedo saṅghabhedo’ti, bhante, vuccati. Kittāvatā nu kho, bhante, saṅgho bhinno hotī’’ti? ‘‘Idhupāli, bhikkhū adhammaṃ dhammoti dīpenti, dhammaṃ adhammoti dīpenti, avinayaṃ vinayoti dīpenti, vinayaṃ avinayoti dīpenti, abhāsitaṃ alapitaṃ tathāgatena bhāsitaṃ lapitaṃ tathāgatenāti dīpenti, bhāsitaṃ lapitaṃ tathāgatena abhāsitaṃ alapitaṃ tathāgatenāti dīpenti, anāciṇṇaṃ tathāgatena āciṇṇaṃ tathāgatenāti dīpenti, āciṇṇaṃ tathāgatena anāciṇṇaṃ tathāgatenāti dīpenti, apaññattaṃ tathāgatena paññattaṃ tathāgatenāti dīpenti , paññattaṃ tathāgatena apaññattaṃ tathāgatenāti dīpenti. Te imehi dasahi vatthūhi avakassanti apakassanti āveni kammāni karonti āveni pātimokkhaṃ uddisanti. Ettāvatā kho, upāli, saṅgho bhinno hotī’’ti. Sattamaṃ.",
+   "zh": "“尊者，常说‘僧团破裂、僧团破裂’。尊者，僧团裂至何种程度，才称为破裂呢？”“优波离，在此，比丘们将非法宣说为法，将法宣说为非法；将非律宣说为律，将律宣说为非律；将如来所未说、所未言者，宣说为如来已说、已言；将如来已说、已言者，宣说为如来未说、未言；将如来所未行持者，宣说为如来已行持；将如来已行持者，宣说为如来未行持；将如来所未制立者，宣说为如来已制立；将如来已制立者，宣说为如来未制立。他们以此十事而分裂、别离，行别众羯磨，诵别众巴帝摩卡。优波离，至此程度，僧团即为破裂。”第七。",
+   "n": "37"
+  },
+  {
+   "idx": 16,
+   "pali": "8. Saṅghasāmaggīsuttaṃ",
+   "zh": "8. [[saṅghasāmaggīsutta|僧团和合经]]"
+  },
+  {
+   "idx": 17,
+   "pali": "‘‘‘Saṅghasāmaggī saṅghasāmaggī’ti, bhante, vuccati. Kittāvatā nu kho, bhante, saṅgho samaggo hotī’’ti? ‘‘Idhupāli, bhikkhū adhammaṃ adhammoti dīpenti, dhammaṃ dhammoti dīpenti, avinayaṃ avinayoti dīpenti, vinayaṃ vinayoti dīpenti, abhāsitaṃ alapitaṃ tathāgatena abhāsitaṃ alapitaṃ tathāgatenāti dīpenti, bhāsitaṃ lapitaṃ tathāgatena bhāsitaṃ lapitaṃ tathāgatenāti dīpenti, anāciṇṇaṃ tathāgatena anāciṇṇaṃ tathāgatenāti dīpenti, āciṇṇaṃ tathāgatena āciṇṇaṃ tathāgatenāti dīpenti, apaññattaṃ tathāgatena apaññattaṃ tathāgatenāti dīpenti, paññattaṃ tathāgatena paññattaṃ tathāgatenāti dīpenti. Te imehi dasahi vatthūhi na avakassanti na apakassanti na āveni kammāni karonti na āveni pātimokkhaṃ uddisanti. Ettāvatā kho, upāli, saṅgho samaggo hotī’’ti. Aṭṭhamaṃ.",
+   "zh": "“尊者，常听闻‘僧团和合、僧团和合’。尊者，僧团在何种情况下，才堪称和合呢？”“优波离，在此，诸比丘将非法开示为非法，将法开示为法；将非律开示为非律，将律开示为律；将如来所未说、所未宣者，开示为如来所未说、所未宣；将如来所说、所宣者，开示为如来所说、所宣；将如来所未行者，开示为如来所未行；将如来所行者，开示为如来所行；将如来所未制定者，开示为如来所未制定；将如来所制定者，开示为如来所制定。他们依此十事，不相分离、不相乖离，不另作别众羯磨，不别诵别众巴帝摩卡。优波离，僧团至此，方堪称和合。”第八。",
+   "n": "38"
+  },
+  {
+   "idx": 18,
+   "pali": "9. Paṭhamaānandasuttaṃ",
+   "zh": "9. [[paṭhamaānandasutta|第一阿难经]]"
+  },
+  {
+   "idx": 19,
+   "pali": "Atha kho āyasmā ānando yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho āyasmā ānando bhagavantaṃ etadavoca – ‘‘‘saṅghabhedo saṅghabhedo’ti, bhante, vuccati. Kittāvatā nu kho, bhante, saṅgho bhinno hotī’’ti ? ‘‘Idhānanda, bhikkhū adhammaṃ dhammoti dīpenti, dhammaṃ adhammoti dīpenti, avinayaṃ vinayoti dīpenti…pe… paññattaṃ tathāgatena apaññattaṃ tathāgatenāti dīpenti. Te imehi dasahi vatthūhi avakassanti apakassanti āveni kammāni karonti āveni pātimokkhaṃ uddisanti. Ettāvatā kho, ānanda, saṅgho bhinno hotī’’ti.",
+   "zh": "那时，具寿[[ānanda|阿难]]往诣世尊处。到达之后，向世尊敬礼，退坐一面。一旁的具寿[[ānanda|阿难]]这样对世尊说：“尊者，常听闻‘僧团破裂、僧团破裂’。尊者，僧团在何种情况下，应视为破裂呢？”“[[ānanda|阿难]]，在此，诸比丘将非法宣说为正法，将正法宣说为非法；将非律宣说为正律……（中略）……将如来所制定者，宣说为如来所未制定。他们依此十种事，分离乖隔，各作别众羯磨，各诵别众巴帝摩卡。[[ānanda|阿难]]，僧团至此，应视为破裂。”",
+   "n": "39"
+  },
+  {
+   "idx": 20,
+   "pali": "‘‘Samaggaṃ pana, bhante, saṅghaṃ bhinditvā kiṃ so pasavatī’’ti? ‘‘Kappaṭṭhikaṃ, ānanda, kibbisaṃ pasavatī’’ti. ‘‘Kiṃ pana, bhante, kappaṭṭhikaṃ kibbisa’’nti? ‘‘Kappaṃ, ānanda, nirayamhi paccatīti –",
+   "zh": "“尊者，分裂和合的僧团，他造下的是什么罪？”“[[ānanda|阿难]]，他造下的是住劫之罪。”“尊者，什么是住劫之罪？”“[[ānanda|阿难]]，他在地狱中受煮整整一劫——”"
+  },
+  {
+   "idx": 21,
+   "pali": "‘‘Āpāyiko nerayiko, kappaṭṭho saṅghabhedako;",
+   "zh": "“破僧者堕恶趣、入地狱，长住一劫；",
+   "type": "verse"
+  },
+  {
+   "idx": 22,
+   "pali": "Vaggarato adhammaṭṭho, yogakkhemā padhaṃsati;",
+   "zh": "“乐于分裂、住于非法者，从离轭安稳退失；",
+   "type": "verse"
+  },
+  {
+   "idx": 23,
+   "pali": "Saṅghaṃ samaggaṃ bhinditvā kappaṃ nirayamhi paccatī’’ti. navamaṃ;",
+   "zh": "破坏和合的僧团后，在地狱中被烹煮一劫。第九。",
+   "type": "verse"
+  },
+  {
+   "idx": 24,
+   "pali": "10. Dutiyaānandasuttaṃ",
+   "zh": "10. [[dutiyaānandasutta|第二阿难经]]"
+  },
+  {
+   "idx": 25,
+   "pali": "‘‘‘Saṅghasāmaggī saṅghasāmaggī’ti, bhante, vuccati. Kittāvatā nu kho, bhante, saṅgho samaggo hotī’’ti? ‘‘Idhānanda, bhikkhū adhammaṃ adhammoti dīpenti, dhammaṃ dhammoti dīpenti, avinayaṃ avinayoti dīpenti , vinayaṃ vinayoti dīpenti, abhāsitaṃ alapitaṃ tathāgatena abhāsitaṃ alapitaṃ tathāgatenāti dīpenti, bhāsitaṃ lapitaṃ tathāgatena bhāsitaṃ lapitaṃ tathāgatenāti dīpenti, anāciṇṇaṃ tathāgatena anāciṇṇaṃ tathāgatenāti dīpenti, āciṇṇaṃ tathāgatena āciṇṇaṃ tathāgatenāti dīpenti, apaññattaṃ tathāgatena apaññattaṃ tathāgatenāti dīpenti, paññattaṃ tathāgatena paññattaṃ tathāgatenāti dīpenti. Te imehi dasahi vatthūhi na avakassanti na apakassanti na āveni kammāni karonti na āveni pātimokkhaṃ uddisanti. Ettāvatā kho, ānanda, saṅgho samaggo hotī’’ti.",
+   "zh": "“尊者，人们说‘僧团和合、僧团和合’。那么，尊者，僧团在怎样的程度上可以说是和合的呢？”\n“[[ānanda|阿难]]，于此，比丘们阐明非法为非法、阐明法为法，阐明非律为非律、阐明律为律，阐明如来未说未言者为如来未说未言、阐明如来已说已言者为如来已说已言，阐明如来未行者为如来未行、阐明如来已行者为如来已行，阐明如来未制者为如来未制、阐明如来已制者为如来已制。他们以此十事而不分离、不分裂，不作别众羯磨，不诵别众巴帝摩卡。[[ānanda|阿难]]，到这种程度，僧团便是和合的。”",
+   "n": "40"
+  },
+  {
+   "idx": 26,
+   "pali": "‘‘Bhinnaṃ pana, bhante, saṅghaṃ samaggaṃ katvā kiṃ so pasavatī’’ti? ‘‘Brahmaṃ, ānanda, puññaṃ pasavatī’’ti. ‘‘Kiṃ pana, bhante, brahmaṃ puñña’’nti? ‘‘Kappaṃ, ānanda, saggamhi modatīti –",
+   "zh": "“尊者，令破裂的僧团重归于和合，他会生起什么？”“[[ānanda|阿难]]，他会生起梵的福德。”“尊者，什么是梵的福德呢？”“[[ānanda|阿难]]，他在天界欢喜一劫——”"
+  },
+  {
+   "idx": 27,
+   "pali": "‘‘Sukhā saṅghassa sāmaggī, samaggānañca anuggaho;",
+   "zh": "“僧团和合是安乐，和合者彼此护持，”",
+   "type": "verse"
+  },
+  {
+   "idx": 28,
+   "pali": "Samaggarato dhammaṭṭho, yogakkhemā na dhaṃsati;",
+   "zh": "“乐于和合、安住于法者，于离轭安稳中不退堕。”",
+   "type": "verse"
+  },
+  {
+   "idx": 29,
+   "pali": "Saṅghaṃ samaggaṃ katvāna, kappaṃ saggamhi modatī’’ti. dasamaṃ;",
+   "zh": "令僧众和合，于天界欢喜一劫。第十经。",
+   "type": "verse"
+  },
+  {
+   "idx": 30,
+   "pali": "Upālivaggo catuttho.",
+   "zh": "优波离品第四"
+  },
+  {
+   "idx": 31,
+   "pali": "Tassuddānaṃ –",
+   "zh": "其摄颂："
+  },
+  {
+   "idx": 32,
+   "pali": "Upāli ṭhapanā ubbāho, upasampadanissayā;",
+   "zh": "优波离、遮止(诵戒)与移交，近圆与依止；",
+   "type": "verse"
+  },
+  {
+   "idx": 33,
+   "pali": "Sāmaṇero ca dve bhedā, ānandehi pare duveti.",
+   "zh": "沙弥及二种破僧，以[[ānanda|阿难]]等为其余二经。",
+   "type": "verse"
+  }
+ ]
+}

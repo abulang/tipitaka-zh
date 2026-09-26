@@ -1,0 +1,55 @@
+{
+  "uid": 157,
+  "title": "1. 学经",
+  "nik": "AN",
+  "segs": [
+    {
+      "idx": 0,
+      "pali": "(8) 3. Sammappadhānavaggo",
+      "zh": "（8） 3. 正勤品"
+    },
+    {
+      "idx": 1,
+      "pali": "1. Sikkhasuttaṃ",
+      "zh": "1. [[sikkhasutta|学经]]"
+    },
+    {
+      "idx": 2,
+      "pali": "‘‘Pañcimāni , bhikkhave, sikkhādubbalyāni. Katamāni pañca? Pāṇātipāto …pe… surāmerayamajjapamādaṭṭhānaṃ – imāni kho, bhikkhave, pañca sikkhādubbalyāni.",
+      "zh": "“诸比丘，有五种学处的羸弱。哪五种？即杀生……（中略）……成为放逸之因的诸酒类。诸比丘，此便是五种学处的羸弱。",
+      "n": "73"
+    },
+    {
+      "idx": 3,
+      "pali": "‘‘Imesaṃ kho, bhikkhave, pañcannaṃ sikkhādubbalyānaṃ pahānāya cattāro sammappadhānā bhāvetabbā. Katame cattāro? Idha, bhikkhave, bhikkhu anuppannānaṃ pāpakānaṃ akusalānaṃ dhammānaṃ anuppādāya chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati; uppannānaṃ pāpakānaṃ akusalānaṃ dhammānaṃ pahānāya chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati; anuppannānaṃ kusalānaṃ dhammānaṃ uppādāya chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati; uppannānaṃ kusalānaṃ dhammānaṃ ṭhitiyā asammosāya bhiyyobhāvāya vepullāya bhāvanāya pāripūriyā chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati. Imesaṃ kho, bhikkhave, pañcannaṃ sikkhādubbalyānaṃ pahānāya ime cattāro sammappadhānā bhāvetabbā’’ti. Paṭhamaṃ.",
+      "zh": "“诸比丘，为断此五种学处的羸弱，应当修习四正勤。何等为四？诸比丘，于此，为令未生的恶不善法不生起，比丘生起意欲、精勤努力、策励其心、殷勤用功；为断已生的恶不善法，生起意欲、精勤努力、策励其心、殷勤用功；为令未生的善法生起，生起意欲、精勤努力、策励其心、殷勤用功；为令已生的善法住持、不忘、增长、广大、修习圆满，生起意欲、精勤努力、策励其心、殷勤用功。诸比丘，为断此五种学处的羸弱，应当修习此四正勤。”第一经。"
+    },
+    {
+      "idx": 4,
+      "pali": "(Yathā satipaṭṭhānavagge tathā sammappadhānavasena vitthāretabbā.)",
+      "zh": "如念处品中所说，应依正勤而广说。",
+      "n": "74-81"
+    },
+    {
+      "idx": 5,
+      "pali": "10. Cetasovinibandhasuttaṃ",
+      "zh": "10. [[cetasovinibandhasutta|心缚经]]"
+    },
+    {
+      "idx": 6,
+      "pali": "‘‘Pañcime , bhikkhave, cetasovinibandhā. Katame pañca? Idha, bhikkhave, bhikkhu kāmesu avītarāgo hoti…pe… ime kho, bhikkhave, pañca cetasovinibandhā.",
+      "zh": "“诸比丘，有五种心之束缚。是哪五种？诸比丘，于此，比丘于诸欲未离贪……（中略）……诸比丘，这些便是五种心之束缚。",
+      "n": "82"
+    },
+    {
+      "idx": 7,
+      "pali": "‘‘Imesaṃ kho, bhikkhave, pañcannaṃ cetasovinibandhānaṃ pahānāya cattāro sammappadhānā bhāvetabbā . Katame cattāro? Idha, bhikkhave, bhikkhu anuppannānaṃ pāpakānaṃ akusalānaṃ dhammānaṃ anuppādāya chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati; uppannānaṃ pāpakānaṃ akusalānaṃ dhammānaṃ pahānāya… anuppannānaṃ kusalānaṃ dhammānaṃ uppādāya… uppannānaṃ kusalānaṃ dhammānaṃ ṭhitiyā asammosāya bhiyyobhāvāya vepullāya bhāvanāya pāripūriyā chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati . Imesaṃ kho, bhikkhave, pañcannaṃ cetasovinibandhānaṃ pahānāya ime cattāro sammappadhānā bhāvetabbā’’ti. Dasamaṃ.",
+      "zh": "“诸比丘，为了断除这五种心的束缚，应当修习四正勤。哪四种呢？诸比丘，在此，比丘为了使未生起的恶不善法不生起，发起意欲、奋力、激发精进、策励心、精勤修习；为了断除已生起的恶不善法……为了使未生起的善法生起……为了使已生起的善法安住、不忘失、增长、广大、修习圆满，发起意欲、奋力、激发精进、策励心、精勤修习。诸比丘，为了断除这五种心的束缚，应当修习这四正勤。”第十经。"
+    },
+    {
+      "idx": 8,
+      "pali": "Sammappadhānavaggo tatiyo.",
+      "zh": "正勤品第三"
+    }
+  ]
+}

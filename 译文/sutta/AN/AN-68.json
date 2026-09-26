@@ -1,0 +1,328 @@
+{
+ "uid": 68,
+ "title": "1. 第一云经",
+ "nik": "AN",
+ "segs": [
+  {
+   "idx": 0,
+   "pali": "(11) 1. Valāhakavaggo",
+   "zh": "（11） 1. 云之品"
+  },
+  {
+   "idx": 1,
+   "pali": "1. Paṭhamavalāhakasuttaṃ",
+   "zh": "1. [[paṭhamavalāhakasutta|第一云之经]]"
+  },
+  {
+   "idx": 2,
+   "pali": "Evaṃ me sutaṃ – ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Tatra kho bhagavā bhikkhū āmantesi – ‘‘bhikkhavo’’ti. ‘‘Bhadante’’ti te bhikkhū bhagavato paccassosuṃ. Bhagavā etadavoca –",
+   "zh": "如是我闻：一时，世尊住在[[sāvatthī|舍卫城]]祇树[[Anāthapiṇḍika|给孤独]]园。在那里，世尊称呼诸比丘：“诸比丘。”那些比丘回答世尊：“尊者。”世尊如是说：",
+   "n": "101"
+  },
+  {
+   "idx": 3,
+   "pali": "‘‘Cattārome, bhikkhave, valāhakā. Katame cattāro? Gajjitā no vassitā, vassitā no gajjitā, neva gajjitā no vassitā, gajjitā ca vassitā ca. Ime kho, bhikkhave, cattāro valāhakā. Evamevaṃ kho, bhikkhave, cattāro valāhakūpamā puggalā santo saṃvijjamānā lokasmiṃ. Katame cattāro? Gajjitā no vassitā, vassitā no gajjitā, neva gajjitā no vassitā, gajjitā ca vassitā ca.",
+   "zh": "“诸比丘，有四种云。哪四种？雷鸣而不降雨者，降雨而不雷鸣者，既不雷鸣亦不降雨者，又雷鸣又降雨者。诸比丘，这便是四种云。同样地，诸比丘，世间存有四种如云之人。哪四种？雷鸣而不降雨者，降雨而不雷鸣者，既不雷鸣亦不降雨者，又雷鸣又降雨者。”"
+  },
+  {
+   "idx": 4,
+   "pali": "‘‘Kathañca, bhikkhave, puggalo gajjitā hoti no vassitā? Idha, bhikkhave, ekacco puggalo bhāsitā hoti, no kattā. Evaṃ kho, bhikkhave, puggalo gajjitā hoti, no vassitā. Seyyathāpi so, bhikkhave, valāhako gajjitā, no vassitā; tathūpamāhaṃ, bhikkhave, imaṃ puggalaṃ vadāmi.",
+   "zh": "“诸比丘，怎样才算是只打雷而不下雨的人呢？诸比丘，这里有一种人，他是说者，却不是行者。诸比丘，这样的人便是只打雷而不下雨的人。诸比丘，就如同那种只打雷不下雨的云；诸比丘，我使用这个譬喻来形容这种人。"
+  },
+  {
+   "idx": 5,
+   "pali": "‘‘Kathañca, bhikkhave, puggalo vassitā hoti, no gajjitā? Idha, bhikkhave, ekacco puggalo kattā hoti, no bhāsitā. Evaṃ kho, bhikkhave, puggalo vassitā hoti, no gajjitā. Seyyathāpi so, bhikkhave, valāhako vassitā, no gajjitā; tathūpamāhaṃ, bhikkhave , imaṃ puggalaṃ vadāmi.",
+   "zh": "“诸比丘，怎样才算是只下雨而不打雷的人呢？诸比丘，这里有一种人，他是行者，却不是谈说者。诸比丘，这样的人便是只下雨而不打雷的人。诸比丘，就如同那种只下雨不打雷的云；诸比丘，我使用这个譬喻来形容这种人。"
+  },
+  {
+   "idx": 6,
+   "pali": "‘‘Kathañca , bhikkhave, puggalo neva gajjitā hoti, no vassitā? Idha, bhikkhave, ekacco puggalo neva bhāsitā hoti, no kattā. Evaṃ kho, bhikkhave, puggalo neva gajjitā hoti, no vassitā. Seyyathāpi so, bhikkhave, valāhako neva gajjitā , no vassitā; tathūpamāhaṃ, bhikkhave, imaṃ puggalaṃ vadāmi.",
+   "zh": "“诸比丘，怎样的人既不雷鸣，也不降雨？诸比丘，在此有一种人，既非言说者，亦非践行者。诸比丘，这样的人既不雷鸣，也不降雨。诸比丘，正如那云既不雷鸣，也不降雨；诸比丘，我说此人正是此譬喻所形容。"
+  },
+  {
+   "idx": 7,
+   "pali": "‘‘Kathañca, bhikkhave, puggalo gajjitā ca hoti vassitā ca? Idha, bhikkhave, ekacco puggalo bhāsitā ca hoti kattā ca. Evaṃ kho, bhikkhave, puggalo gajjitā ca hoti vassitā ca. Seyyathāpi so, bhikkhave, valāhako gajjitā ca vassitā ca; tathūpamāhaṃ, bhikkhave, imaṃ puggalaṃ vadāmi. Ime kho, bhikkhave, cattāro valāhakūpamā puggalā santo saṃvijjamānā lokasmi’’nti. Paṭhamaṃ.",
+   "zh": "“诸比丘，怎样的人既雷鸣，又降雨？诸比丘，在此有一种人，既是言说者，亦是践行者。诸比丘，这样的人既雷鸣，又降雨。诸比丘，正如那云既雷鸣，又降雨；诸比丘，我说此人正是此譬喻所形容。诸比丘，世间有这四种如云之人。”第一经。"
+  },
+  {
+   "idx": 8,
+   "pali": "2. Dutiyavalāhakasuttaṃ",
+   "zh": "2. [[dutiyavalāhakasutta|第二云经]]"
+  },
+  {
+   "idx": 9,
+   "pali": "‘‘Cattārome , bhikkhave, valāhakā. Katame cattāro? Gajjitā no vassitā, vassitā no gajjitā, neva gajjitā no vassitā gajjitā ca vassitā ca. Ime kho, bhikkhave, cattāro valāhakā. Evamevaṃ kho, bhikkhave, cattāro valāhakūpamā puggalā santo saṃvijjamānā lokasmiṃ. Katame cattāro? Gajjitā no vassitā, vassitā no gajjitā, neva gajjitā no vassitā, gajjitā ca vassitā ca.",
+   "zh": "“诸比丘，有四种云。哪四种？雷鸣而不降雨者，降雨而不雷鸣者，既不雷鸣亦不降雨者，又雷鸣又降雨者。诸比丘，这便是四种云。同样地，诸比丘，世间存有四种如云之人。哪四种？雷鸣而不降雨者，降雨而不雷鸣者，既不雷鸣亦不降雨者，又雷鸣又降雨者。”",
+   "n": "102"
+  },
+  {
+   "idx": 10,
+   "pali": "‘‘Kathañca, bhikkhave, puggalo gajjitā hoti, no vassitā? Idha, bhikkhave, ekacco puggalo dhammaṃ pariyāpuṇāti – suttaṃ, geyyaṃ, veyyākaraṇaṃ, gāthaṃ, udānaṃ, itivuttakaṃ, jātakaṃ, abbhutadhammaṃ, vedallaṃ. So ‘idaṃ dukkha’nti yathābhūtaṃ nappajānāti, ‘ayaṃ dukkhasamudayo’ti yathābhūtaṃ nappajānāti, ‘ayaṃ dukkhanirodho’ti yathābhūtaṃ nappajānāti, ‘ayaṃ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṃ nappajānāti. Evaṃ kho, bhikkhave, puggalo gajjitā hoti, no vassitā. Seyyathāpi so, bhikkhave, valāhako gajjitā, no vassitā; tathūpamāhaṃ, bhikkhave, imaṃ puggalaṃ vadāmi.",
+   "zh": "“诸比丘，怎样的人是只打雷而不下雨的呢？诸比丘，世间有一种人，他学习法——经、应颂、记说、偈颂、自说、如是语、本生、未曾有法、吠陀罗，却不能如实地了知‘这是苦’，不能如实地了知‘这是苦的集起’，不能如实地了知‘这是苦的息灭’，不能如实地了知‘这是导向苦灭的道路’。诸比丘，这样的人，就是只打雷而不下雨的人。诸比丘，如同那片只打雷而不下雨的云，我说此人，也正如那片云。”"
+  },
+  {
+   "idx": 11,
+   "pali": "‘‘Kathañca, bhikkhave, puggalo vassitā hoti, no gajjitā? Idha, bhikkhave, ekacco puggalo dhammaṃ na pariyāpuṇāti – suttaṃ, geyyaṃ, veyyākaraṇaṃ, gāthaṃ, udānaṃ, itivuttakaṃ, jātakaṃ, abbhutadhammaṃ, vedallaṃ. So ‘idaṃ dukkha’nti yathābhūtaṃ pajānāti…pe… ‘ayaṃ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṃ pajānāti. Evaṃ kho, bhikkhave, puggalo vassitā hoti, no gajjitā. Seyyathāpi so, bhikkhave, valāhako vassitā, no gajjitā; tathūpamāhaṃ, bhikkhave, imaṃ puggalaṃ vadāmi.",
+   "zh": "“诸比丘，怎样的人是只下雨而不打雷的呢？诸比丘，世间有一种人，他不学习法——经、应颂、记说、偈颂、自说、如是语、本生、未曾有法、吠陀罗，却能如实地了知‘这是苦’……如实地了知‘这是导向苦灭的道路’。诸比丘，这样的人，就是只下雨而不打雷的人。诸比丘，如同那片只下雨而不打雷的云，我说此人，也正如那片云。”"
+  },
+  {
+   "idx": 12,
+   "pali": "‘‘Kathañca, bhikkhave, puggalo neva gajjitā hoti, no vassitā? Idha, bhikkhave, ekacco puggalo neva dhammaṃ pariyāpuṇāti – suttaṃ, geyyaṃ, veyyākaraṇaṃ, gāthaṃ, udānaṃ, itivuttakaṃ, jātakaṃ, abbhutadhammaṃ, vedallaṃ. So ‘idaṃ dukkha’nti yathābhūtaṃ nappajānāti…pe… ‘ayaṃ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṃ nappajānāti. Evaṃ kho, bhikkhave, puggalo neva gajjitā hoti, no vassitā. Seyyathāpi so, bhikkhave, valāhako neva gajjitā, no vassitā; tathūpamāhaṃ, bhikkhave, imaṃ puggalaṃ vadāmi.",
+   "zh": "“诸比丘，怎样的人是既不打雷又不下雨的呢？诸比丘，世间有一种人，他既不学习法——经、应颂、记说、偈颂、自说、如是语、本生、未曾有法、吠陀罗，也不能如实地了知‘这是苦’……不能如实地了知‘这是导向苦灭的道路’。诸比丘，这样的人，就是既不打雷又不下雨的人。诸比丘，如同那片既不打雷又不下雨的云，我说此人，正如那云一般。”"
+  },
+  {
+   "idx": 13,
+   "pali": "‘‘Kathañca, bhikkhave, puggalo gajjitā ca hoti vassitā ca ? Idha, bhikkhave, ekacco puggalo dhammaṃ pariyāpuṇāti – suttaṃ, geyyaṃ, veyyākaraṇaṃ, gāthaṃ, udānaṃ, itivuttakaṃ, jātakaṃ, abbhutadhammaṃ, vedallaṃ. So ‘idaṃ dukkha’nti yathābhūtaṃ pajānāti…pe… ‘ayaṃ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṃ pajānāti. Evaṃ kho, bhikkhave, puggalo gajjitā ca hoti vassitā ca. Seyyathāpi so, bhikkhave, valāhako gajjitā ca vassitā ca; tathūpamāhaṃ, bhikkhave, imaṃ puggalaṃ vadāmi. Ime kho, bhikkhave, cattāro valāhakūpamā puggalā santo saṃvijjamānā lokasmi’’nti. Dutiyaṃ.",
+   "zh": "“诸比丘，什么样的人既打雷又下雨？诸比丘，在此，有人学习法——经、应颂、记说、偈颂、自说、如是语、本生、未曾有法、吠陀罗。他如实地了知‘此是苦’……如实地了知‘此是导向苦灭之道’。诸比丘，这样的人便是既打雷又下雨。诸比丘，正如那朵云既打雷又下雨，我说此人也是如此。诸比丘，这就是存在于世间、可见于世间的四种如云之人。”第二经。"
+  },
+  {
+   "idx": 14,
+   "pali": "3. Kumbhasuttaṃ",
+   "zh": "3. [[kumbhasutta|瓶经]]"
+  },
+  {
+   "idx": 15,
+   "pali": "‘‘Cattārome, bhikkhave, kumbhā. Katame cattāro? Tuccho pihito, pūro vivaṭo, tuccho vivaṭo, pūro pihito – ime kho, bhikkhave, cattāro kumbhā. Evamevaṃ kho, bhikkhave , cattāro kumbhūpamā puggalā santo saṃvijjamānā lokasmiṃ. Katame cattāro? Tuccho pihito, pūro vivaṭo, tuccho vivaṭo, pūro pihito.",
+   "zh": "“诸比丘，有四种瓶。哪四种？空而盖着、满而开着、空而开着、满而盖着。诸比丘，这便是四种瓶。同样地，诸比丘，有四种如瓶之人，存在于世间，可见于世间。哪四种？即空而盖着、满而开着、空而开着、满而盖着。”",
+   "n": "103"
+  },
+  {
+   "idx": 16,
+   "pali": "‘‘Kathañca, bhikkhave, puggalo tuccho hoti pihito? Idha, bhikkhave, ekaccassa puggalassa pāsādikaṃ hoti abhikkantaṃ paṭikkantaṃ ālokitaṃ vilokitaṃ samiñjitaṃ pasāritaṃ saṅghāṭipattacīvaradhāraṇaṃ. So ‘idaṃ dukkha’nti yathābhūtaṃ nappajānāti…pe… ‘ayaṃ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṃ nappajānāti. Evaṃ kho, bhikkhave, puggalo tuccho hoti pihito . Seyyathāpi so, bhikkhave, kumbho tuccho pihito; tathūpamāhaṃ, bhikkhave, imaṃ puggalaṃ vadāmi.",
+   "zh": "“诸比丘，什么样的人是空而盖着呢？诸比丘，在此，有人前行、后退、前视、旁视、屈伸、持僧伽梨、钵与衣，这种种威仪令人欢喜；然而他不如实了知‘这是苦’……不如实了知‘这是导至苦灭之道’。诸比丘，这样的人便叫做空而盖着。诸比丘，犹如一只瓶，内里是空的，却盖着盖子；诸比丘，我说此人正如那只瓶一样。”"
+  },
+  {
+   "idx": 17,
+   "pali": "‘‘Kathañca , bhikkhave, puggalo pūro hoti vivaṭo? Idha, bhikkhave, ekaccassa puggalassa na pāsādikaṃ hoti abhikkantaṃ paṭikkantaṃ ālokitaṃ vilokitaṃ samiñjitaṃ pasāritaṃ saṅghāṭipattacīvaradhāraṇaṃ. So ‘idaṃ dukkha’nti yathābhūtaṃ pajānāti…pe… ‘ayaṃ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṃ pajānāti. Evaṃ kho, bhikkhave, puggalo pūro hoti vivaṭo. Seyyathāpi so, bhikkhave, kumbho pūro vivaṭo; tathūpamāhaṃ, bhikkhave, imaṃ puggalaṃ vadāmi.",
+   "zh": "“诸比丘，什么样的人是满而开着呢？诸比丘，在此，有人前行、后退、前视、旁视、屈伸、持僧伽梨、钵与衣，这种种威仪不令人欢喜；他却如实了知‘这是苦’……如实了知‘这是导至苦灭之道’。诸比丘，这样的人便叫做满而开着。诸比丘，犹如一只瓶，里面是满的，又敞着口；诸比丘，我说此人正如那只瓶一样。”"
+  },
+  {
+   "idx": 18,
+   "pali": "‘‘Kathañca, bhikkhave, puggalo tuccho hoti vivaṭo? Idha, bhikkhave, ekaccassa puggalassa na pāsādikaṃ hoti abhikkantaṃ paṭikkantaṃ ālokitaṃ vilokitaṃ samiñjitaṃ pasāritaṃ saṅghāṭipattacīvaradhāraṇaṃ. So ‘idaṃ dukkha’nti yathābhūtaṃ nappajānāti…pe… ‘ayaṃ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṃ nappajānāti. Evaṃ kho, bhikkhave, puggalo tuccho hoti vivaṭo. Seyyathāpi so, bhikkhave, kumbho tuccho vivaṭo; tathūpamāhaṃ, bhikkhave, imaṃ puggalaṃ vadāmi.",
+   "zh": "“诸比丘，怎样的人是空而无遮的呢？诸比丘，在此，有人行住坐卧、瞻前顾后、屈伸俯仰、持僧伽梨、钵与衣时，威仪不令人欢喜。他不如实了知‘此是苦’……不如实了知‘此是通向苦灭之道’。诸比丘，这样的人便是空而无遮。诸比丘，就如同那只空而敞开的瓶；诸比丘，我说此人也是如此。”"
+  },
+  {
+   "idx": 19,
+   "pali": "‘‘Kathañca, bhikkhave, puggalo pūro hoti pihito? Idha, bhikkhave, ekaccassa puggalassa pāsādikaṃ hoti abhikkantaṃ paṭikkantaṃ ālokitaṃ vilokitaṃ samiñjitaṃ pasāritaṃ saṅghāṭipattacīvaradhāraṇaṃ. So ‘idaṃ dukkha’nti yathābhūtaṃ pajānāti…pe… ‘ayaṃ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṃ pajānāti. Evaṃ kho, bhikkhave, puggalo pūro hoti pihito. Seyyathāpi so, bhikkhave, kumbho pūro pihito; tathūpamāhaṃ, bhikkhave, imaṃ puggalaṃ vadāmi. Ime kho, bhikkhave, cattāro kumbhūpamā puggalā santo saṃvijjamānā lokasmi’’nti. Tatiyaṃ.",
+   "zh": "“诸比丘，怎样的人可谓满而覆呢？诸比丘，在此，有一类人，行、住、顾、视、屈、伸、搭衣持钵，皆令人欢喜。他如实了知‘此是苦’……如实了知‘此是导向苦灭之道’。诸比丘，这样的人便是满而覆者。诸比丘，正如那满而覆的瓶；诸比丘，我说此人亦复如是。诸比丘，世间有这四种如瓶之人，存在可见。”第三经。"
+  },
+  {
+   "idx": 20,
+   "pali": "4. Udakarahadasuttaṃ",
+   "zh": "4. [[udakarahadasutta|水池经]]"
+  },
+  {
+   "idx": 21,
+   "pali": "‘‘Cattārome, bhikkhave, udakarahadā. Katame cattāro? Uttāno gambhīrobhāso, gambhīro uttānobhāso, uttāno uttānobhāso, gambhīro gambhīrobhāso – ime kho, bhikkhave, cattāro udakarahadā. Evamevaṃ kho, bhikkhave, cattāro udakarahadūpamā puggalā santo saṃvijjamānā lokasmiṃ. Katame cattāro? Uttāno gambhīrobhāso , gambhīro uttānobhāso, uttāno uttānobhāso, gambhīro gambhīrobhāso.",
+   "zh": "“诸比丘，有此四种池。哪四种？浅而似深，深而似浅，浅而似浅，深而似深。诸比丘，这便是四种池。同样地，诸比丘，世间有这四种如池之人，可被发现。哪四种？浅而似深，深而似浅，浅而似浅，深而似深。”",
+   "n": "104"
+  },
+  {
+   "idx": 22,
+   "pali": "‘‘Kathañca, bhikkhave, puggalo uttāno hoti gambhīrobhāso? Idha, bhikkhave, ekaccassa puggalassa pāsādikaṃ hoti abhikkantaṃ paṭikkantaṃ ālokitaṃ vilokitaṃ samiñjitaṃ pasāritaṃ saṅghāṭipattacīvaradhāraṇaṃ. So ‘idaṃ dukkha’nti yathābhūtaṃ nappajānāti…pe… ‘ayaṃ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṃ nappajānāti. Evaṃ kho, bhikkhave, puggalo uttāno hoti gambhīrobhāso. Seyyathāpi so, bhikkhave, udakarahado uttāno gambhīrobhāso; tathūpamāhaṃ, bhikkhave, imaṃ puggalaṃ vadāmi.",
+   "zh": "“比丘们，怎样的人是浅却显为深的呢？比丘们，有一种人，他的进退、瞻视、屈伸俯仰，以及持僧伽梨、钵、衣的威仪，令人欢喜。然而，他不如实了知“这是苦”……不如实了知“这是导向苦灭之道”。比丘们，这样的人便是浅却显为深。正如那浅浅的水池却显得幽深，比丘们，我说此人正是以此作譬喻。”"
+  },
+  {
+   "idx": 23,
+   "pali": "‘‘Kathañca , bhikkhave, puggalo gambhīro hoti uttānobhāso? Idha, bhikkhave, ekaccassa puggalassa na pāsādikaṃ hoti abhikkantaṃ paṭikkantaṃ ālokitaṃ vilokitaṃ samiñjitaṃ pasāritaṃ saṅghāṭipattacīvaradhāraṇaṃ. So ‘idaṃ dukkha’nti yathābhūtaṃ pajānāti…pe… ‘ayaṃ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṃ pajānāti. Evaṃ kho, bhikkhave, puggalo gambhīro hoti uttānobhāso. Seyyathāpi so, bhikkhave, udakarahado gambhīro uttānobhāso; tathūpamāhaṃ, bhikkhave, imaṃ puggalaṃ vadāmi.",
+   "zh": "“比丘们，怎样的人又是深却显为浅的呢？比丘们，有一种人，他的进退、瞻视、屈伸俯仰，以及持僧伽梨、钵、衣的威仪，不令人欢喜。可是，他如实了知“这是苦”……如实了知“这是导向苦灭之道”。比丘们，这样的人便是深却显为浅。正如那幽深的水池却显得浅显，比丘们，我说此人正是以此作譬喻。”"
+  },
+  {
+   "idx": 24,
+   "pali": "‘‘Kathañca , bhikkhave, puggalo uttāno hoti uttānobhāso? Idha, bhikkhave, ekaccassa puggalassa na pāsādikaṃ hoti abhikkantaṃ paṭikkantaṃ ālokitaṃ vilokitaṃ samiñjitaṃ pasāritaṃ saṅghāṭipattacīvaradhāraṇaṃ. So ‘idaṃ dukkha’nti yathābhūtaṃ nappajānāti…pe… ‘ayaṃ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṃ nappajānāti. Evaṃ kho, bhikkhave, puggalo uttāno hoti uttānobhāso. Seyyathāpi so, bhikkhave, udakarahado uttāno uttānobhāso; tathūpamāhaṃ, bhikkhave, imaṃ puggalaṃ vadāmi.",
+   "zh": "“比丘们，怎样的人则是浅而显为浅的呢？比丘们，有一种人，他的进退、瞻视、屈伸俯仰，以及持僧伽梨、钵、衣的威仪，不令人欢喜。他不如实了知“这是苦”……不如实了知“这是导向苦灭之道”。比丘们，这样的人便是浅而显为浅。正如那浅的水池就显现为浅，比丘们，我说此人正是以此作譬喻。”"
+  },
+  {
+   "idx": 25,
+   "pali": "‘‘Kathañca, bhikkhave, puggalo gambhīro hoti gambhīrobhāso? Idha, bhikkhave, ekaccassa puggalassa pāsādikaṃ hoti abhikkantaṃ paṭikkantaṃ ālokitaṃ vilokitaṃ samiñjitaṃ pasāritaṃ saṅghāṭipattacīvaradhāraṇaṃ. So ‘idaṃ dukkha’nti yathābhūtaṃ pajānāti…pe… ‘ayaṃ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṃ pajānāti. Evaṃ kho, bhikkhave, puggalo gambhīro hoti gambhīrobhāso. Seyyathāpi so, bhikkhave, udakarahado gambhīro gambhīrobhāso; tathūpamāhaṃ, bhikkhave, imaṃ puggalaṃ vadāmi. Ime kho , bhikkhave, cattāro udakarahadūpamā puggalā santo saṃvijjamānā lokasmi’’nti. Catutthaṃ.",
+   "zh": "“诸比丘，怎样的人可谓深沉而彰显其深？在此，诸比丘，有一种人，行来去返、瞻前顾侧、屈伸俯仰、搭衣持钵，威仪安祥。他如实了知‘此是苦’……如实了知‘此是趣向苦灭之道’。诸比丘，如此之人，深沉而彰显其深。诸比丘，犹如深池，邃不可测而自显其深；我说此人，正可作此譬喻。诸比丘，世间有此四种如池之人存在、出现。”第四经。"
+  },
+  {
+   "idx": 26,
+   "pali": "5. Ambasuttaṃ",
+   "zh": "5. [[ambasutta|芒果经]]"
+  },
+  {
+   "idx": 27,
+   "pali": "‘‘Cattārimāni, bhikkhave, ambāni. Katamāni cattāri? Āmaṃ pakkavaṇṇi , pakkaṃ āmavaṇṇi , āmaṃ āmavaṇṇi, pakkaṃ pakkavaṇṇi – imāni kho, bhikkhave, cattāri ambāni. Evamevaṃ kho, bhikkhave, cattāro ambūpamā puggalā santo saṃvijjamānā lokasmiṃ. Katame cattāro? Āmo pakkavaṇṇī, pakko āmavaṇṇī, āmo āmavaṇṇī, pakko pakkavaṇṇī.",
+   "zh": "“诸比丘，有此四种芒果。哪四种？生而显熟相，熟而显生相，生而显生相，熟而显熟相——诸比丘，这便是四种芒果。同样地，诸比丘，世间存在着四种如芒果之人。哪四种？生而显熟相者，熟而显生相者，生而显生相者，熟而显熟相者。”",
+   "n": "105"
+  },
+  {
+   "idx": 28,
+   "pali": "‘‘Kathañca, bhikkhave, puggalo āmo hoti pakkavaṇṇī? Idha , bhikkhave, ekaccassa puggalassa pāsādikaṃ hoti abhikkantaṃ paṭikkantaṃ ālokitaṃ vilokitaṃ samiñjitaṃ pasāritaṃ saṅghāṭipattacīvaradhāraṇaṃ. So ‘idaṃ dukkha’nti yathābhūtaṃ nappajānāti…pe… ‘ayaṃ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṃ nappajānāti. Evaṃ kho, bhikkhave, puggalo āmo hoti pakkavaṇṇī. Seyyathāpi taṃ, bhikkhave, ambaṃ āmaṃ pakkavaṇṇi; tathūpamāhaṃ, bhikkhave, imaṃ puggalaṃ vadāmi.",
+   "zh": "“诸比丘，如何是人虽生涩却有熟相呢？诸比丘，于此，有人进退、顾视、屈伸、持僧伽梨与衣钵等威仪令人悦意，然而他不如实了知‘此是苦’……不如实了知‘此是趣向苦灭之道’。诸比丘，如此之人，便是虽生涩却有熟相。诸比丘，正如那芒果生涩却有熟相；我说此人正是这般譬喻。”"
+  },
+  {
+   "idx": 29,
+   "pali": "‘‘Kathañca, bhikkhave, puggalo pakko hoti āmavaṇṇī? Idha, bhikkhave, ekaccassa puggalassa na pāsādikaṃ hoti abhikkantaṃ paṭikkantaṃ ālokitaṃ vilokitaṃ samiñjitaṃ pasāritaṃ saṅghāṭipattacīvaradhāraṇaṃ. So ‘idaṃ dukkha’nti yathābhūtaṃ pajānāti…pe… ‘ayaṃ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṃ pajānāti. Evaṃ kho, bhikkhave, puggalo pakko hoti āmavaṇṇī. Seyyathāpi taṃ, bhikkhave, ambaṃ pakkaṃ āmavaṇṇi; tathūpamāhaṃ, bhikkhave, imaṃ puggalaṃ vadāmi.",
+   "zh": "“诸比丘，如何是人已熟却有生相呢？诸比丘，于此，有人进退、顾视、屈伸、持僧伽梨与衣钵等威仪不令人悦意，但他如实了知‘此是苦’……如实了知‘此是趣向苦灭之道’。诸比丘，如此之人，便是已熟却有生相。诸比丘，正如那芒果已熟却有生相；我说此人正是这般譬喻。”"
+  },
+  {
+   "idx": 30,
+   "pali": "‘‘Kathañca, bhikkhave, puggalo āmo hoti āmavaṇṇī? Idha, bhikkhave, ekaccassa puggalassa na pāsādikaṃ hoti abhikkantaṃ paṭikkantaṃ ālokitaṃ vilokitaṃ samiñjitaṃ pasāritaṃ saṅghāṭipattacīvaradhāraṇaṃ. So ‘idaṃ dukkha’nti yathābhūtaṃ nappajānāti…pe… ‘ayaṃ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṃ nappajānāti. Evaṃ kho, bhikkhave, puggalo āmo hoti āmavaṇṇī . Seyyathāpi taṃ, bhikkhave, ambaṃ āmaṃ āmavaṇṇi; tathūpamāhaṃ, bhikkhave, imaṃ puggalaṃ vadāmi.",
+   "zh": "“诸比丘，如何是人既生涩又有生相呢？诸比丘，于此，有人进退、顾视、屈伸、持僧伽梨与衣钵等威仪不令人悦意，他不如实了知‘此是苦’……不如实了知‘此是趣向苦灭之道’。诸比丘，如此之人，便是既生涩又有生相。诸比丘，正如那芒果既生涩又有生相；我说此人正是这般譬喻。”"
+  },
+  {
+   "idx": 31,
+   "pali": "‘‘Kathañca, bhikkhave, puggalo pakko hoti pakkavaṇṇī? Idha, bhikkhave, ekaccassa puggalassa pāsādikaṃ hoti abhikkantaṃ paṭikkantaṃ ālokitaṃ vilokitaṃ samiñjitaṃ pasāritaṃ saṅghāṭipattacīvaradhāraṇaṃ. So ‘idaṃ dukkha’nti yathābhūtaṃ pajānāti…pe… ‘ayaṃ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṃ pajānāti. Evaṃ kho, bhikkhave, puggalo pakko hoti pakkavaṇṇī. Seyyathāpi taṃ, bhikkhave, ambaṃ pakkaṃ pakkavaṇṇi; tathūpamāhaṃ, bhikkhave, imaṃ puggalaṃ vadāmi. Ime kho, bhikkhave, cattāro ambūpamā puggalā santo saṃvijjamānā lokasmi’’nti. Pañcamaṃ.",
+   "zh": "“诸比丘，怎样的人是成熟、具足熟相的呢？诸比丘，在此，有人进退回旋、瞻前顾后、屈伸俯仰，以及持僧伽梨、钵与衣的威仪，令人悦意。他如实了知‘这是苦’……如实了知‘这是导向苦灭之道’。诸比丘，这样的人便是成熟、具足熟相。诸比丘，犹如成熟的芒果是成熟、具足熟相，我说此人正如这个譬喻。诸比丘，这四种人便是在世间存在可见的芒果譬喻之人。”第五经。"
+  },
+  {
+   "idx": 32,
+   "pali": "6. Dutiyaambasuttaṃ",
+   "zh": "6. [[dutiyaambasutta|第二芒果经]]"
+  },
+  {
+   "idx": 33,
+   "pali": "(Chaṭṭhaṃ uttānatthamevāti aṭṭhakathāyaṃ dassitaṃ, pāḷipotthakesu pana katthacipi na dissati.)",
+   "zh": "（第六经在注释书中显示为“义理明显”，但在巴利经本中任何地方都未收录。）"
+  },
+  {
+   "idx": 34,
+   "pali": "7. Mūsikasuttaṃ",
+   "zh": "7. [[mūsikasutta|鼠经]]"
+  },
+  {
+   "idx": 35,
+   "pali": "‘‘Catasso imā, bhikkhave, mūsikā. Katamā catasso? Gādhaṃ kattā no vasitā, vasitā no gādhaṃ kattā, neva gādhaṃ kattā no vasitā, gādhaṃ kattā ca vasitā ca – imā kho, bhikkhave, catasso mūsikā. Evamevaṃ kho, bhikkhave, cattāro mūsikūpamā puggalā santo saṃvijjamānā lokasmiṃ. Katame cattāro? Gādhaṃ kattā no vasitā, vasitā no gādhaṃ kattā, neva gādhaṃ kattā no vasitā, gādhaṃ kattā ca vasitā ca.",
+   "zh": "“诸比丘，有此四种鼠。哪四种？掘洞而不居者、居而不掘洞者、既不掘洞亦不居者、既掘洞又居者——诸比丘，这便是四种鼠。同样地，诸比丘，世间可见四种如鼠譬喻之人。哪四种？掘洞而不居者、居而不掘洞者、既不掘洞亦不居者、既掘洞又居者。”",
+   "n": "107"
+  },
+  {
+   "idx": 36,
+   "pali": "‘‘Kathañca , bhikkhave, puggalo gādhaṃ kattā hoti no vasitā? Idha, bhikkhave, ekacco puggalo dhammaṃ pariyāpuṇāti – suttaṃ, geyyaṃ, veyyākaraṇaṃ, gāthaṃ, udānaṃ, itivuttakaṃ, jātakaṃ, abbhutadhammaṃ, vedallaṃ. So ‘idaṃ dukkha’nti yathābhūtaṃ nappajānāti…pe… ‘ayaṃ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṃ nappajānāti. Evaṃ kho, bhikkhave, puggalo gādhaṃ kattā hoti, no vasitā. Seyyathāpi sā , bhikkhave, mūsikā gādhaṃ kattā, no vasitā; tathūpamāhaṃ, bhikkhave, imaṃ puggalaṃ vadāmi.",
+   "zh": "“诸比丘，何等为掘洞而不居者？诸比丘，在此，有人学习法——经、祇夜、授记、伽陀、优陀那、如是语、本生、未曾有法、吠陀罗。他不如实了知‘此是苦’……不如实了知‘此是趣向苦灭之道’。诸比丘，如此之人便是掘洞而不居者。诸比丘，正如那只老鼠掘洞而不居住，我说此人即如彼譬喻。”"
+  },
+  {
+   "idx": 37,
+   "pali": "‘‘Kathañca, bhikkhave, puggalo vasitā hoti, no gādhaṃ kattā? Idha, bhikkhave, ekacco puggalo dhammaṃ na pariyāpuṇāti – suttaṃ, geyyaṃ, veyyākaraṇaṃ, gāthaṃ , udānaṃ, itivuttakaṃ, jātakaṃ, abbhutadhammaṃ, vedallaṃ. So ‘idaṃ dukkha’nti yathābhūtaṃ pajānāti…pe… ‘ayaṃ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṃ pajānāti. Evaṃ kho, bhikkhave, puggalo vasitā hoti, no gādhaṃ kattā. Seyyathāpi sā, bhikkhave, mūsikā vasitā hoti, no gādhaṃ kattā; tathūpamāhaṃ, bhikkhave, imaṃ, puggalaṃ vadāmi.",
+   "zh": "“诸比丘，何等为住而不掘洞之人？诸比丘，于此，有一类人不掌握法——经、应颂、记说、偈颂、自说、如是语、本生、未曾有法、吠陀罗。他如实了知‘此是苦’……如实了知‘此是趣向苦灭之道’。诸比丘，如是人便是住而不掘洞者。诸比丘，犹如那只老鼠只住不掘；诸比丘，我说此人同此譬喻。”"
+  },
+  {
+   "idx": 38,
+   "pali": "‘‘Kathañca, bhikkhave, puggalo neva gādhaṃ kattā hoti no vasitā? Idha, bhikkhave, ekacco puggalo dhammaṃ na pariyāpuṇāti – suttaṃ, geyyaṃ, veyyākaraṇaṃ, gāthaṃ, udānaṃ, itivuttakaṃ, jātakaṃ, abbhutadhammaṃ, vedallaṃ. So ‘idaṃ dukkha’nti yathābhūtaṃ nappajānāti…pe… ‘ayaṃ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṃ nappajānāti. Evaṃ kho, bhikkhave , puggalo neva gādhaṃ kattā hoti, no vasitā. Seyyathāpi sā, bhikkhave, mūsikā neva gādhaṃ kattā hoti, no vasitā; tathūpamāhaṃ, bhikkhave, imaṃ puggalaṃ vadāmi.",
+   "zh": "“诸比丘，何等为既不掘洞又不住之人？诸比丘，于此，有一类人不修学于法——经、应颂、记说、偈颂、自说、如是语、本生、未曾有法、吠陀罗。他不如实了知‘此是苦’……不如实了知‘此是趣向苦灭之道’。诸比丘，如是人便是既不掘洞又不住者。诸比丘，犹如那只老鼠既不掘洞又不住；诸比丘，我说此人同此譬喻。”"
+  },
+  {
+   "idx": 39,
+   "pali": "‘‘Kathañca, bhikkhave, puggalo gādhaṃ kattā ca hoti vasitā ca? Idha, bhikkhave, ekacco puggalo dhammaṃ pariyāpuṇāti – suttaṃ, geyyaṃ, veyyākaraṇaṃ, gāthaṃ, udānaṃ, itivuttakaṃ, jātakaṃ, abbhutadhammaṃ, vedallaṃ. So ‘idaṃ dukkha’nti yathābhūtaṃ pajānāti…pe… ‘ayaṃ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṃ pajānāti. Evaṃ kho, bhikkhave, puggalo gādhaṃ kattā ca hoti vasitā ca. Seyyathāpi sā, bhikkhave, mūsikā gādhaṃ kattā ca hoti vasitā ca; tathūpamāhaṃ, bhikkhave, imaṃ puggalaṃ vadāmi. Ime kho, bhikkhave, cattāro mūsikūpamā puggalā santo saṃvijjamānā lokasmi’’nti. Sattamaṃ.",
+   "zh": "“诸比丘，何等为既掘洞又住之人？诸比丘，于此，有一类人修学于法——经、应颂、记说、偈颂、自说、如是语、本生、未曾有法、吠陀罗。他如实了知‘此是苦’……如实了知‘此是趣向苦灭之道’。诸比丘，如是人便是既掘洞又住者。诸比丘，犹如那只老鼠既掘洞又住；诸比丘，我说此人同此譬喻。诸比丘，世间可见、可得的这四种人，即此四种老鼠譬喻之人。”第七经。"
+  },
+  {
+   "idx": 40,
+   "pali": "8. Balībaddasuttaṃ",
+   "zh": "8. [[balībaddasutta|公牛经]]"
+  },
+  {
+   "idx": 41,
+   "pali": "‘‘Cattārome, bhikkhave, balībaddā . Katame cattāro? Sagavacaṇḍo no paragavacaṇḍo, paragavacaṇḍo no sagavacaṇḍo, sagavacaṇḍo ca paragavacaṇḍo ca, neva sagavacaṇḍo no paragavacaṇḍo – ime kho, bhikkhave, cattāro balībaddā. Evamevaṃ kho, bhikkhave, cattāro balībaddūpamā puggalā santo saṃvijjamānā lokasmiṃ. Katame cattāro? Sagavacaṇḍo no paragavacaṇḍo, paragavacaṇḍo no sagavacaṇḍo, sagavacaṇḍo ca paragavacaṇḍo ca, neva sagavacaṇḍo no paragavacaṇḍo.",
+   "zh": "“诸比丘，有四种牛。哪四种呢？对自己的牛群凶暴、对他人的牛群则不凶暴者；对他人的牛群凶暴、对自己的牛群则不凶暴者；对自己的牛群凶暴、也对他人的牛群凶暴者；既不对自己的牛群凶暴、也不对他人的牛群凶暴者。诸比丘，这便是四种牛。同样地，诸比丘，世间存在着四种如牛之人。哪四种呢？对自己的眷众凶暴、对他人的眷众则不凶暴者；对他人的眷众凶暴、对自己的眷众则不凶暴者；对自己的眷众凶暴、也对他人的眷众凶暴者；既不对自己的眷众凶暴、也不对他人的眷众凶暴者。”",
+   "n": "108"
+  },
+  {
+   "idx": 42,
+   "pali": "‘‘Kathañca , bhikkhave, puggalo sagavacaṇḍo hoti, no paragavacaṇḍo? Idha, bhikkhave, ekacco puggalo sakaparisaṃ ubbejetā hoti, no paraparisaṃ. Evaṃ kho, bhikkhave, puggalo sagavacaṇḍo hoti, no paragavacaṇḍo. Seyyathāpi so, bhikkhave, balībaddo sagavacaṇḍo, no paragavacaṇḍo; tathūpamāhaṃ, bhikkhave, imaṃ puggalaṃ vadāmi.",
+   "zh": "“诸比丘，如何是对自己的眷众凶暴、对他人的眷众则不凶暴的人呢？诸比丘，在此，有一类人恐吓自己的眷众，却不恐吓他人的眷众。诸比丘，这便是对自己的眷众凶暴、对他人的眷众则不凶暴的人。诸比丘，正如那头牛对自己的牛群凶暴、对他人的牛群则不凶暴；诸比丘，我说此人正与此相同。”"
+  },
+  {
+   "idx": 43,
+   "pali": "‘‘Kathañca , bhikkhave, puggalo paragavacaṇḍo hoti, no sagavacaṇḍo? Idha, bhikkhave, ekacco puggalo paraparisaṃ ubbejetā hoti, no sakaparisaṃ. Evaṃ kho, bhikkhave, puggalo paragavacaṇḍo hoti, no sagavacaṇḍo. Seyyathāpi so, bhikkhave, balībaddo paragavacaṇḍo, no sagavacaṇḍo; tathūpamāhaṃ, bhikkhave, imaṃ puggalaṃ vadāmi.",
+   "zh": "“诸比丘，怎样的人只对别人的徒众凶悍，而不对自己的徒众凶悍呢？诸比丘，在此，有人恐吓别人的随众，却不恐吓自己的随众。诸比丘，这样的人便是只对别人的徒众凶悍，而不对自己的徒众凶悍。诸比丘，正如那头公牛只对别群的牛凶悍，而不对自己牛群的牛凶悍；诸比丘，我说此人正如此牛。”"
+  },
+  {
+   "idx": 44,
+   "pali": "‘‘Kathañca, bhikkhave, puggalo sagavacaṇḍo ca hoti paragavacaṇḍo ca? Idha, bhikkhave, ekacco puggalo sakaparisaṃ ubbejetā hoti paraparisañca. Evaṃ kho, bhikkhave, puggalo sagavacaṇḍo ca hoti paragavacaṇḍo ca. Seyyathāpi so, bhikkhave, balībaddo sagavacaṇḍo ca paragavacaṇḍo ca; tathūpamāhaṃ, bhikkhave, imaṃ puggalaṃ vadāmi.",
+   "zh": "“诸比丘，怎样的人既对自己的徒众凶悍，又对别人的徒众凶悍呢？诸比丘，在此，有人恐吓自己的随众，也恐吓别人的随众。诸比丘，这样的人便是既对自己的徒众凶悍，又对别人的徒众凶悍。诸比丘，正如那头公牛对自己牛群的牛凶悍，也对别群的牛凶悍；诸比丘，我说此人正如此牛。”"
+  },
+  {
+   "idx": 45,
+   "pali": "‘‘Kathañca, bhikkhave, puggalo neva sagavacaṇḍo hoti no paragavacaṇḍo? Idha, bhikkhave, ekacco puggalo neva sakaparisaṃ ubbejetā hoti, no paraparisañca. Evaṃ kho, bhikkhave, puggalo neva sagavacaṇḍo hoti, no paragavacaṇḍo. Seyyathāpi so, bhikkhave, balībaddo neva sagavacaṇḍo, no paragavacaṇḍo; tathūpamāhaṃ, bhikkhave, imaṃ puggalaṃ vadāmi. Ime kho, bhikkhave, cattāro balībaddūpamā puggalā santo saṃvijjamānā lokasmi’’nti. Aṭṭhamaṃ.",
+   "zh": "“诸比丘，怎样的人既不对自己的徒众凶悍，也不对别人的徒众凶悍呢？诸比丘，在此，有人既不恐吓自己的随众，也不恐吓别人的随众。诸比丘，这样的人便是既不对自己的徒众凶悍，也不对别人的徒众凶悍。诸比丘，正如那头公牛既不对自己牛群的牛凶悍，也不对别群的牛凶悍；诸比丘，我说此人正如此牛。诸比丘，这便是四种如牛的人存在、出现于世间。第八经。"
+  },
+  {
+   "idx": 46,
+   "pali": "9. Rukkhasuttaṃ",
+   "zh": "9. [[rukkhasutta|树经]]"
+  },
+  {
+   "idx": 47,
+   "pali": "‘‘Cattārome, bhikkhave, rukkhā. Katame cattāro? Pheggu phegguparivāro, pheggu sāraparivāro, sāro phegguparivāro, sāro sāraparivāro – ime kho, bhikkhave, cattāro rukkhā. Evamevaṃ kho, bhikkhave, cattāro rukkhūpamā puggalā santo saṃvijjamānā lokasmiṃ. Katame cattāro? Pheggu phegguparivāro, pheggu sāraparivāro, sāro phegguparivāro, sāro sāraparivāro.",
+   "zh": "“诸比丘，有四种树。哪四种？边材为边材所围绕，边材为实木所围绕，实木为边材所围绕，实木为实木所围绕——诸比丘，这便是四种树。同样地，诸比丘，有四种如树的补特伽罗出现于世间。哪四种？边材为边材所围绕，边材为实木所围绕，实木为边材所围绕，实木为实木所围绕。”",
+   "n": "109"
+  },
+  {
+   "idx": 48,
+   "pali": "‘‘Kathañca , bhikkhave, puggalo pheggu hoti phegguparivāro? Idha, bhikkhave, ekacco puggalo dussīlo hoti pāpadhammo; parisāpissa hoti dussīlā pāpadhammā. Evaṃ kho, bhikkhave, puggalo pheggu hoti phegguparivāro. Seyyathāpi so, bhikkhave, rukkho pheggu phegguparivāro; tathūpamāhaṃ, bhikkhave, imaṃ puggalaṃ vadāmi.",
+   "zh": "“诸比丘，怎样的补特伽罗是朽木为朽木所围绕的呢？诸比丘，在此，有一位补特伽罗破戒、具足恶法，他的随众也破戒、具足恶法。诸比丘，这便是朽木为朽木所围绕的补特伽罗。诸比丘，正如那棵树是朽木为朽木所围绕，我说此补特伽罗也是如此。”"
+  },
+  {
+   "idx": 49,
+   "pali": "‘‘Kathañca , bhikkhave, puggalo pheggu hoti sāraparivāro? Idha, bhikkhave, ekacco puggalo dussīlo hoti pāpadhammo; parisā ca khvassa hoti sīlavatī kalyāṇadhammā. Evaṃ kho, bhikkhave, puggalo pheggu hoti sāraparivāro. Seyyathāpi so, bhikkhave, rukkho pheggu sāraparivāro; tathūpamāhaṃ, bhikkhave, imaṃ puggalaṃ vadāmi.",
+   "zh": "“诸比丘，什么样的人是边材而为心材所围绕？诸比丘，在此，有人是破戒者、行恶法者，而他的随众却是持戒者、行善法者。诸比丘，如此之人便是边材而为心材所围绕。诸比丘，正如那棵树是边材而为心材所围绕；诸比丘，我说此人也是如此。"
+  },
+  {
+   "idx": 50,
+   "pali": "‘‘Kathañca, bhikkhave, puggalo sāro hoti phegguparivāro? Idha, bhikkhave, ekacco puggalo sīlavā hoti kalyāṇadhammo; parisā ca khvassa hoti dussīlā pāpadhammā. Evaṃ kho, bhikkhave, puggalo sāro hoti phegguparivāro. Seyyathāpi so, bhikkhave, rukkho sāro phegguparivāro; tathūpamāhaṃ, bhikkhave, imaṃ puggalaṃ vadāmi.",
+   "zh": "“诸比丘，什么样的人是心材而为边材所围绕？诸比丘，在此，有人是持戒者、行善法者，而他的随众却是破戒者、行恶法者。诸比丘，如此之人便是心材而为边材所围绕。诸比丘，正如那棵树是心材而为边材所围绕；诸比丘，我说此人也是如此。"
+  },
+  {
+   "idx": 51,
+   "pali": "‘‘Kathañca, bhikkhave, puggalo sāro hoti sāraparivāro? Idha bhikkhave, ekacco puggalo sīlavā hoti kalyāṇadhammo; parisāpissa hoti sīlavatī kalyāṇadhammā. Evaṃ kho, bhikkhave, puggalo sāro hoti sāraparivāro. Seyyathāpi so, bhikkhave, rukkho sāro sāraparivāro; tathūpamāhaṃ, bhikkhave, imaṃ puggalaṃ vadāmi. Ime kho, bhikkhave, cattāro rukkhūpamā puggalā santo saṃvijjamānā lokasmi’’nti . Navamaṃ.",
+   "zh": "“诸比丘，什么样的人是心材而为心材所围绕？诸比丘，在此，有人是持戒者、行善法者，而他的随众也是持戒者、行善法者。诸比丘，如此之人便是心材而为心材所围绕。诸比丘，正如那棵树是心材而为心材所围绕；诸比丘，我说此人也是如此。诸比丘，这四种树喻之人，存在于世间，可见于世间。第九经。"
+  },
+  {
+   "idx": 52,
+   "pali": "10. Āsīvisasuttaṃ",
+   "zh": "10. [[āsīvisasutta|蛇经]]"
+  },
+  {
+   "idx": 53,
+   "pali": "‘‘Cattārome, bhikkhave, āsīvisā . Katame cattāro? Āgataviso na ghoraviso, ghoraviso na āgataviso, āgataviso ca ghoraviso ca, nevāgataviso na ghoraviso – ime kho, bhikkhave, cattāro āsīvisā. Evamevaṃ kho, bhikkhave, cattāro āsīvisūpamā puggalā santo saṃvijjamānā lokasmiṃ. Katame cattāro? Āgataviso na ghoraviso, ghoraviso na āgataviso , āgataviso ca ghoraviso ca, nevāgataviso na ghoraviso.",
+   "zh": "“诸比丘，有四种毒蛇。哪四种呢？速发毒而非猛毒者，猛毒而非速发毒者，速发毒且猛毒者，既非速发毒也非猛毒者——诸比丘，这便是四种毒蛇。同样地，诸比丘，世间有四种如毒蛇喻之人，存于世间、可被见到。哪四种呢？速发毒而非猛毒者，猛毒而非速发毒者，速发毒且猛毒者，既非速发毒也非猛毒者。”",
+   "n": "110"
+  },
+  {
+   "idx": 54,
+   "pali": "‘‘Kathañca, bhikkhave, puggalo āgataviso hoti, na ghoraviso? Idha, bhikkhave, ekacco puggalo abhiṇhaṃ kujjhati. So ca khvassa kodho na dīgharattaṃ anuseti. Evaṃ kho , bhikkhave, puggalo āgataviso hoti, na ghoraviso. Seyyathāpi so, bhikkhave, āsīviso āgataviso, na ghoraviso; tathūpamāhaṃ, bhikkhave, imaṃ puggalaṃ vadāmi.",
+   "zh": "“诸比丘，如何是来毒而非猛毒的人呢？诸比丘，于此，有一类人时常生气，但他的怒气并不会长久持续。诸比丘，这样的人便是来毒而非猛毒。诸比丘，正如那条蛇是来毒而非猛毒；诸比丘，我以此喻此人。”"
+  },
+  {
+   "idx": 55,
+   "pali": "‘‘Kathañca, bhikkhave, puggalo ghoraviso hoti, na āgataviso? Idha, bhikkhave, ekacco puggalo na heva kho abhiṇhaṃ kujjhati. So ca khvassa kodho dīgharattaṃ anuseti. Evaṃ kho, bhikkhave, puggalo ghoraviso hoti, na āgataviso. Seyyathāpi so, bhikkhave, āsīviso ghoraviso, na āgataviso; tathūpamāhaṃ, bhikkhave, imaṃ puggalaṃ vadāmi.",
+   "zh": "“诸比丘，怎样的人称为猛毒而非来毒呢？诸比丘，有一种人不常发怒，但他的愤怒会长期潜伏随逐。诸比丘，这样的人就是猛毒而非来毒。诸比丘，正如那条毒蛇是猛毒而非来毒，我说此人也是如此。"
+  },
+  {
+   "idx": 56,
+   "pali": "‘‘Kathañca, bhikkhave, puggalo āgataviso ca hoti ghoraviso ca? Idha, bhikkhave, ekacco puggalo abhiṇhaṃ kujjhati. So ca khvassa kodho dīgharattaṃ anuseti. Evaṃ kho, bhikkhave, puggalo āgataviso ca hoti ghoraviso ca. Seyyathāpi so, bhikkhave, āsīviso āgataviso ca ghoraviso ca; tathūpamāhaṃ, bhikkhave, imaṃ puggalaṃ vadāmi.",
+   "zh": "“诸比丘，怎样的人称为来毒且猛毒呢？诸比丘，有一种人时常发怒，而且他的愤怒会长期潜伏随逐。诸比丘，这样的人就是来毒且猛毒。诸比丘，正如那条毒蛇是来毒且猛毒，我说此人也是如此。"
+  },
+  {
+   "idx": 57,
+   "pali": "‘‘Kathañca, bhikkhave, puggalo nevāgataviso hoti na ghoraviso? Idha, bhikkhave, ekacco puggalo na heva kho abhiṇhaṃ kujjhati. So ca khvassa kodho na dīgharattaṃ anuseti. Evaṃ kho, bhikkhave, puggalo nevāgataviso hoti, na ghoraviso. Seyyathāpi so, bhikkhave, āsīviso nevāgataviso na ghoraviso; tathūpamāhaṃ, bhikkhave, imaṃ puggalaṃ vadāmi. Ime kho, bhikkhave, cattāro āsīvisūpamā puggalā santo saṃvijjamānā lokasmi’’nti. Dasamaṃ.",
+   "zh": "“诸比丘，怎样的人称为既非速发毒也非猛毒呢？诸比丘，有一种人不常发怒，而且他的愤怒不会长期潜伏随逐。诸比丘，这样的人就是既非速发毒也非猛毒。诸比丘，正如那条毒蛇是非速发毒非猛毒，我说此人也是如此。诸比丘，这四种如毒蛇的人，确实可见于世间。”第十经。"
+  },
+  {
+   "idx": 58,
+   "pali": "Valāhakavaggo paṭhamo.",
+   "zh": "云品第一"
+  },
+  {
+   "idx": 59,
+   "pali": "Tassuddānaṃ –",
+   "zh": "其摄颂："
+  },
+  {
+   "idx": 60,
+   "pali": "Dve valāhā kumbha-udaka, rahadā dve honti ambāni;",
+   "zh": "两云、水瓮、两湖、芒果。",
+   "type": "verse"
+  },
+  {
+   "idx": 61,
+   "pali": "Mūsikā balībaddā rukkhā, āsīvisena te dasāti.",
+   "zh": "老鼠、公牛、树，以及毒蛇，合为十种。",
+   "type": "verse"
+  }
+ ]
+}

@@ -1,0 +1,95 @@
+{
+ "uid": 27,
+ "title": "2. 乐品",
+ "nik": "AN",
+ "segs": [
+  {
+   "idx": 0,
+   "pali": "(7) 2. Sukhavaggo",
+   "zh": "（7） 2. 乐品"
+  },
+  {
+   "idx": 1,
+   "pali": "‘‘Dvemāni , bhikkhave, sukhāni. Katamāni dve? Gihisukhañca pabbajitasukhañca. Imāni kho, bhikkhave, dve sukhāni. Etadaggaṃ, bhikkhave, imesaṃ dvinnaṃ sukhānaṃ yadidaṃ pabbajitasukha’’nti.",
+   "zh": "“诸比丘，有这两种乐。哪两种呢？在家乐与出家乐。诸比丘，这便是两种乐。诸比丘，在这两种乐中，最上者即是出家乐。”",
+   "n": "65"
+  },
+  {
+   "idx": 2,
+   "pali": "‘‘Dvemāni, bhikkhave, sukhāni. Katamāni dve? Kāmasukhañca nekkhammasukhañca. Imāni kho, bhikkhave, dve sukhāni. Etadaggaṃ, bhikkhave, imesaṃ dvinnaṃ sukhānaṃ yadidaṃ nekkhammasukha’’nti.",
+   "zh": "“诸比丘，有这两种乐。哪两种呢？欲乐与出离乐。诸比丘，这便是两种乐。诸比丘，在这两种乐中，最上者即是出离乐。”",
+   "n": "66"
+  },
+  {
+   "idx": 3,
+   "pali": "‘‘Dvemāni, bhikkhave, sukhāni. Katamāni dve? Upadhisukhañca nirupadhisukhañca. Imāni kho, bhikkhave, dve sukhāni. Etadaggaṃ, bhikkhave, imesaṃ dvinnaṃ sukhānaṃ yadidaṃ nirupadhisukha’’nti.",
+   "zh": "“诸比丘，有这两种乐。哪两种呢？有依乐与无依乐。诸比丘，这便是两种乐。诸比丘，在这两种乐中，最上者即是无依乐。”",
+   "n": "67"
+  },
+  {
+   "idx": 4,
+   "pali": "‘‘Dvemāni, bhikkhave, sukhāni. Katamāni dve? Sāsavasukhañca anāsavasukhañca. Imāni kho, bhikkhave, dve sukhāni. Etadaggaṃ, bhikkhave, imesaṃ dvinnaṃ sukhānaṃ yadidaṃ anāsavasukha’’nti.",
+   "zh": "“诸比丘，有这两种乐。哪两种呢？有漏乐与无漏乐。诸比丘，这便是两种乐。诸比丘，于此二乐中，无漏乐是为最上。”",
+   "n": "68"
+  },
+  {
+   "idx": 5,
+   "pali": "‘‘Dvemāni, bhikkhave, sukhāni. Katamāni dve? Sāmisañca sukhaṃ nirāmisañca sukhaṃ. Imāni kho, bhikkhave, dve sukhāni. Etadaggaṃ, bhikkhave, imesaṃ dvinnaṃ sukhānaṃ yadidaṃ nirāmisaṃ sukha’’nti.",
+   "zh": "“诸比丘，有这两种乐。哪两种呢？有食乐与无食乐。诸比丘，这便是两种乐。诸比丘，于此二乐中，无食乐是为最上。”",
+   "n": "69"
+  },
+  {
+   "idx": 6,
+   "pali": "‘‘Dvemāni, bhikkhave, sukhāni. Katamāni dve? Ariyasukhañca anariyasukhañca. Imāni kho, bhikkhave, dve sukhāni. Etadaggaṃ, bhikkhave, imesaṃ dvinnaṃ sukhānaṃ yadidaṃ ariyasukha’’nti.",
+   "zh": "“诸比丘，有这两种乐。哪两种呢？圣乐与非圣乐。诸比丘，这便是两种乐。诸比丘，于此二乐中，圣乐是为最上。”",
+   "n": "70"
+  },
+  {
+   "idx": 7,
+   "pali": "‘‘Dvemāni , bhikkhave, sukhāni. Katamāni dve? Kāyikañca sukhaṃ cetasikañca sukhaṃ. Imāni kho, bhikkhave, dve sukhāni. Etadaggaṃ, bhikkhave, imesaṃ dvinnaṃ sukhānaṃ yadidaṃ cetasikaṃ sukha’’nti.",
+   "zh": "“诸比丘，有两种乐。哪两种？身乐与心乐。诸比丘，这是两种乐。诸比丘，于这两种乐中，最上者即是心乐。”",
+   "n": "71"
+  },
+  {
+   "idx": 8,
+   "pali": "‘‘Dvemāni, bhikkhave, sukhāni. Katamāni dve? Sappītikañca sukhaṃ nippītikañca sukhaṃ. Imāni kho, bhikkhave, dve sukhāni. Etadaggaṃ, bhikkhave, imesaṃ dvinnaṃ sukhānaṃ yadidaṃ nippītikaṃ sukha’’nti.",
+   "zh": "“诸比丘，有两种乐。哪两种？有喜之乐与无喜之乐。诸比丘，这是两种乐。诸比丘，于这两种乐中，最上者即是无喜之乐。”",
+   "n": "72"
+  },
+  {
+   "idx": 9,
+   "pali": "‘‘Dvemāni, bhikkhave, sukhāni. Katamāni dve? Sātasukhañca upekkhāsukhañca . Imāni kho, bhikkhave, dve sukhāni. Etadaggaṃ, bhikkhave, imesaṃ dvinnaṃ sukhānaṃ yadidaṃ upekkhāsukha’’nti.",
+   "zh": "“诸比丘，有两种乐。哪两种？悦乐与舍乐。诸比丘，这是两种乐。诸比丘，于这两种乐中，最上者即是舍乐。”",
+   "n": "73"
+  },
+  {
+   "idx": 10,
+   "pali": "‘‘Dvemāni , bhikkhave, sukhāni. Katamāni dve? Samādhisukhañca asamādhisukhañca. Imāni kho, bhikkhave, dve sukhāni. Etadaggaṃ, bhikkhave, imesaṃ dvinnaṃ sukhānaṃ yadidaṃ samādhisukha’’nti.",
+   "zh": "“诸比丘，有两种乐。哪两种？定乐与非定乐。诸比丘，这便是两种乐。诸比丘，在这两种乐中，最上者，即是定乐。”",
+   "n": "74"
+  },
+  {
+   "idx": 11,
+   "pali": "‘‘Dvemāni, bhikkhave, sukhāni. Katamāni dve? Sappītikārammaṇañca sukhaṃ nippītikārammaṇañca sukhaṃ. Imāni kho, bhikkhave, dve sukhāni. Etadaggaṃ, bhikkhave, imesaṃ dvinnaṃ sukhānaṃ yadidaṃ nippītikārammaṇaṃ sukha’’nti.",
+   "zh": "“诸比丘，有两种乐。哪两种？有喜所缘的乐与无喜所缘的乐。诸比丘，这便是两种乐。诸比丘，在这两种乐中，最上者，即是无喜所缘的乐。”",
+   "n": "75"
+  },
+  {
+   "idx": 12,
+   "pali": "‘‘Dvemāni, bhikkhave, sukhāni. Katamāni dve? Sātārammaṇañca sukhaṃ upekkhārammaṇañca sukhaṃ. Imāni kho, bhikkhave, dve sukhāni. Etadaggaṃ, bhikkhave, imesaṃ dvinnaṃ sukhānaṃ yadidaṃ upekkhārammaṇaṃ sukha’’nti.",
+   "zh": "“诸比丘，有两种乐。哪两种？悦所缘的乐与舍所缘的乐。诸比丘，这便是两种乐。诸比丘，在这两种乐中，最上者，即是舍所缘的乐。”",
+   "n": "76"
+  },
+  {
+   "idx": 13,
+   "pali": "‘‘Dvemāni, bhikkhave, sukhāni. Katamāni dve? Rūpārammaṇañca sukhaṃ arūpārammaṇañca sukhaṃ. Imāni kho, bhikkhave, dve sukhāni. Etadaggaṃ, bhikkhave, imesaṃ dvinnaṃ sukhānaṃ yadidaṃ arūpārammaṇaṃ sukha’’nti.",
+   "zh": "“诸比丘，有这两种乐。哪两种呢？以色为所缘的乐，与以无色为所缘的乐。诸比丘，这便是两种乐。诸比丘，于此两种乐中，最上者，即是这以无色为所缘的乐。”",
+   "n": "77"
+  },
+  {
+   "idx": 14,
+   "pali": "Sukhavaggo dutiyo.",
+   "zh": "乐品 第二"
+  }
+ ]
+}

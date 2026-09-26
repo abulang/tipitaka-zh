@@ -1,0 +1,995 @@
+{
+ "uid": 20,
+ "title": "大会经",
+ "nik": "DN",
+ "segs": [
+  {
+   "idx": 165,
+   "pali": "7. Mahāsamayasuttaṃ",
+   "zh": "7. [[mahāsamayasutta|大会经]]",
+   "type": "subhead"
+  },
+  {
+   "idx": 1,
+   "pali": "Evaṃ me sutaṃ – ekaṃ samayaṃ bhagavā sakkesu viharati kapilavatthusmiṃ mahāvane mahatā bhikkhusaṅghena saddhiṃ pañcamattehi bhikkhusatehi sabbeheva arahantehi; dasahi ca lokadhātūhi devatā yebhuyyena sannipatitā honti bhagavantaṃ dassanāya bhikkhusaṅghañca. Atha kho catunnaṃ suddhāvāsakāyikānaṃ devatānaṃ etadahosi – ‘‘ayaṃ kho bhagavā sakkesu viharati kapilavatthusmiṃ mahāvane mahatā bhikkhusaṅghena saddhiṃ pañcamattehi bhikkhusatehi sabbeheva arahantehi; dasahi ca lokadhātūhi devatā yebhuyyena sannipatitā honti bhagavantaṃ dassanāya bhikkhusaṅghañca. Yaṃnūna mayampi yena bhagavā tenupasaṅkameyyāma; upasaṅkamitvā bhagavato santike paccekaṃ gāthaṃ bhāseyyāmā’’ti.",
+   "zh": "如是我闻：一时，世尊住在释迦国[[kapilavatthu|迦毗罗卫]]的大林，与约五百位比丘组成的大比丘僧团一起，全都是阿拉汉。十方世界的大多数天人都聚集而来，为瞻礼世尊与比丘僧团。其时，有四位净居天的天人心中生起如是念头：“世尊住在释迦国[[kapilavatthu|迦毗罗卫]]的大林，与约五百位比丘组成的大比丘僧团一起，全都是阿拉汉；十方世界的大多数天人都聚集前来，为瞻礼世尊与比丘僧团。我们何不也往诣世尊？到已，各自在世尊面前说一偈颂。”",
+   "n": "331"
+  },
+  {
+   "idx": 2,
+   "pali": "Atha kho tā devatā seyyathāpi nāma balavā puriso samiñjitaṃ vā bāhaṃ pasāreyya pasāritaṃ vā bāhaṃ samiñjeyya , evameva suddhāvāsesu devesu antarahitā bhagavato purato pāturahesuṃ. Atha kho tā devatā bhagavantaṃ abhivādetvā ekamantaṃ aṭṭhaṃsu. Ekamantaṃ ṭhitā kho ekā devatā bhagavato santike imaṃ gāthaṃ abhāsi –",
+   "zh": "那时，就如一位力士屈伸手臂那样，那些天人从净居天隐没，出现在世尊面前。他们向世尊顶礼后，立于一旁。站立一旁的一位天人，在世尊前诵出此偈——",
+   "n": "332"
+  },
+  {
+   "idx": 3,
+   "pali": "‘‘Mahāsamayo pavanasmiṃ, devakāyā samāgatā;",
+   "zh": "“林野中有大集会，诸天神众已聚集；",
+   "type": "verse"
+  },
+  {
+   "idx": 4,
+   "pali": "Āgatamha imaṃ dhammasamayaṃ, dakkhitāye aparājitasaṅgha’’nti.",
+   "zh": "我等来此正法集会，为瞻仰无敌之僧团。”",
+   "type": "verse"
+  },
+  {
+   "idx": 5,
+   "pali": "Atha kho aparā devatā bhagavato santike imaṃ gāthaṃ abhāsi –",
+   "zh": "那时，另一位天神在世尊面前诵出此偈："
+  },
+  {
+   "idx": 6,
+   "pali": "‘‘Tatra bhikkhavo samādahaṃsu, cittamattano ujukaṃ akaṃsu ;",
+   "zh": "“‘彼处诸比丘，入于定中，调直自心；",
+   "type": "verse"
+  },
+  {
+   "idx": 7,
+   "pali": "Sārathīva nettāni gahetvā, indriyāni rakkhanti paṇḍitā’’ti.",
+   "zh": "犹如御者执持缰绳，智者守护诸根。’",
+   "type": "verse"
+  },
+  {
+   "idx": 8,
+   "pali": "Atha kho aparā devatā bhagavato santike imaṃ gāthaṃ abhāsi –",
+   "zh": "那时，另一位天神在世尊面前诵出此偈："
+  },
+  {
+   "idx": 9,
+   "pali": "‘‘Chetvā khīlaṃ chetvā palighaṃ, indakhīlaṃ ūhacca manejā;",
+   "zh": "“断除桩，断除闩，拔去因陀罗柱，不为所动；",
+   "type": "verse"
+  },
+  {
+   "idx": 10,
+   "pali": "Te caranti suddhā vimalā, cakkhumatā sudantā susunāgā’’ti.",
+   "zh": "他们清净无垢，由具眼者善加调御，如良象而行。”",
+   "type": "verse"
+  },
+  {
+   "idx": 11,
+   "pali": "Atha kho aparā devatā bhagavato santike imaṃ gāthaṃ abhāsi –",
+   "zh": "那时，另一位天神在世尊面前诵出此偈："
+  },
+  {
+   "idx": 12,
+   "pali": "‘‘Yekeci buddhaṃ saraṇaṃ gatāse, na te gamissanti apāyabhūmiṃ;",
+   "zh": "“凡是已皈依佛陀者，不堕恶趣地；",
+   "type": "verse"
+  },
+  {
+   "idx": 13,
+   "pali": "Pahāya mānusaṃ dehaṃ, devakāyaṃ paripūressantī’’ti.",
+   "zh": "舍此人身已，便充盈天众。”",
+   "type": "verse"
+  },
+  {
+   "idx": 14,
+   "pali": "Devatāsannipātā",
+   "zh": "诸天神聚集",
+   "type": "subhead"
+  },
+  {
+   "idx": 15,
+   "pali": "Atha kho bhagavā bhikkhū āmantesi – ‘‘yebhuyyena, bhikkhave, dasasu lokadhātūsu devatā sannipatitā honti , tathāgataṃ dassanāya bhikkhusaṅghañca . Yepi te, bhikkhave, ahesuṃ atītamaddhānaṃ arahanto sammāsambuddhā, tesampi bhagavantānaṃ etaṃparamāyeva devatā sannipatitā ahesuṃ seyyathāpi mayhaṃ etarahi. Yepi te, bhikkhave, bhavissanti anāgatamaddhānaṃ arahanto sammāsambuddhā, tesampi bhagavantānaṃ etaṃparamāyeva devatā sannipatitā bhavissanti seyyathāpi mayhaṃ etarahi. Ācikkhissāmi, bhikkhave, devakāyānaṃ nāmāni; kittayissāmi, bhikkhave, devakāyānaṃ nāmāni; desessāmi, bhikkhave, devakāyānaṃ nāmāni. Taṃ suṇātha, sādhukaṃ manasikarotha, bhāsissāmī’’ti. ‘‘Evaṃ, bhante’’ti kho te bhikkhū bhagavato paccassosuṃ.",
+   "zh": "那时，世尊告诉比丘们：“诸比丘，十方世界的大多数天众已经聚集而来，为的是瞻仰如来及比丘僧团。诸比丘，过去世的那些阿拉汉、正自觉者世尊们，他们身边聚集的天众，最多也如同我今日这般。诸比丘，未来世的那些阿拉汉、正自觉者世尊们，他们身边聚集的天众，最多也必将如同我今日这般。诸比丘，我将宣说诸天神的名号；诸比丘，我将称述诸天神的名号；诸比丘，我将开示诸天神的名号。你们仔细聆听，善加作意，我就要说了。”那些比丘应道：“是的，尊者。”",
+   "n": "333"
+  },
+  {
+   "idx": 16,
+   "pali": "Bhagavā etadavoca –",
+   "zh": "世尊如是宣说：",
+   "n": "334"
+  },
+  {
+   "idx": 17,
+   "pali": "‘‘Silokamanukassāmi, yattha bhummā tadassitā;",
+   "zh": "“我将诵出偈颂：地居天人所依之处，",
+   "type": "verse"
+  },
+  {
+   "idx": 18,
+   "pali": "Ye sitā girigabbharaṃ, pahitattā samāhitā.",
+   "zh": "他们安住于山腹洞窟，精勤专注，心得定止。",
+   "type": "verse"
+  },
+  {
+   "idx": 19,
+   "pali": "‘‘Puthūsīhāva sallīnā, lomahaṃsābhisambhuno;",
+   "zh": "“如同众多狮子寂然潜伏，已降伏毛竖之怖；",
+   "type": "verse"
+  },
+  {
+   "idx": 20,
+   "pali": "Odātamanasā suddhā, vippasannamanāvilā’’ .",
+   "zh": "他们心地明亮清净，澄净无扰。”",
+   "type": "verse"
+  },
+  {
+   "idx": 21,
+   "pali": "Bhiyyo pañcasate ñatvā, vane kāpilavatthave;",
+   "zh": "导师了知迦毗罗卫林中，有逾五百人众，",
+   "type": "verse"
+  },
+  {
+   "idx": 22,
+   "pali": "Tato āmantayī satthā, sāvake sāsane rate.",
+   "zh": "于是导师便对乐住于法的弟子们说：",
+   "type": "verse"
+  },
+  {
+   "idx": 23,
+   "pali": "‘‘Devakāyā abhikkantā, te vijānātha bhikkhavo’’;",
+   "zh": "“诸天神众已到来，比丘们，你们应当了知他们。”",
+   "type": "verse"
+  },
+  {
+   "idx": 24,
+   "pali": "Te ca ātappamakaruṃ, sutvā buddhassa sāsanaṃ.",
+   "zh": "那些比丘听闻佛陀的教示后，便心生精勤。",
+   "type": "verse"
+  },
+  {
+   "idx": 25,
+   "pali": "Tesaṃ pāturahu ñāṇaṃ, amanussānadassanaṃ;",
+   "zh": "他们生起了照见非人众的智慧。",
+   "type": "verse"
+  },
+  {
+   "idx": 26,
+   "pali": "Appeke satamaddakkhuṃ, sahassaṃ atha sattariṃ.",
+   "zh": "有些见到一百位，有些见到一千位，乃至七十位；",
+   "type": "verse"
+  },
+  {
+   "idx": 27,
+   "pali": "Sataṃ eke sahassānaṃ, amanussānamaddasuṃ;",
+   "zh": "有些见到十万非人众；",
+   "type": "verse"
+  },
+  {
+   "idx": 28,
+   "pali": "Appekenantamaddakkhuṃ , disā sabbā phuṭā ahuṃ.",
+   "zh": "有些则见到无量之众，遍满一切方位。",
+   "type": "verse"
+  },
+  {
+   "idx": 29,
+   "pali": "Tañca sabbaṃ abhiññāya, vavatthitvāna cakkhumā;",
+   "zh": "具眼者以证智了知、辨明这一切后，",
+   "type": "verse"
+  },
+  {
+   "idx": 30,
+   "pali": "Tato āmantayī satthā, sāvake sāsane rate.",
+   "zh": "于是，世尊召唤爱乐教法的弟子：",
+   "type": "verse"
+  },
+  {
+   "idx": 31,
+   "pali": "‘‘Devakāyā abhikkantā, te vijānātha bhikkhavo;",
+   "zh": "“诸天神众已来临，比丘们，你们应当了知他们。”",
+   "type": "verse"
+  },
+  {
+   "idx": 32,
+   "pali": "Ye vohaṃ kittayissāmi, girāhi anupubbaso.",
+   "zh": "我将以言辞，次第为你们称扬赞叹。",
+   "type": "verse"
+  },
+  {
+   "idx": 33,
+   "pali": "‘‘Sattasahassā te yakkhā, bhummā kāpilavatthavā.",
+   "zh": "“有七千位地居夜叉，皆为迦毗罗卫之众。",
+   "n": "335"
+  },
+  {
+   "idx": 34,
+   "pali": "Iddhimanto jutimanto, vaṇṇavanto yasassino;",
+   "zh": "具足神通、光明、容色与名声；",
+   "type": "verse"
+  },
+  {
+   "idx": 35,
+   "pali": "Modamānā abhikkāmuṃ, bhikkhūnaṃ samitiṃ vanaṃ.",
+   "zh": "他们满心欢喜，来到比丘的林间集会。",
+   "type": "verse"
+  },
+  {
+   "idx": 36,
+   "pali": "‘‘Chasahassā hemavatā, yakkhā nānattavaṇṇino;",
+   "zh": "“六千位[[hemavata|雪山夜叉]]，形色各不相同，",
+   "type": "verse"
+  },
+  {
+   "idx": 37,
+   "pali": "Iddhimanto jutīmanto , vaṇṇavanto yasassino;",
+   "zh": "具足神通，光明照耀，容色端严，美誉远扬；",
+   "type": "verse"
+  },
+  {
+   "idx": 38,
+   "pali": "Modamānā abhikkāmuṃ, bhikkhūnaṃ samitiṃ vanaṃ.",
+   "zh": "他们满心欢喜，来到林中比丘的集会。",
+   "type": "verse"
+  },
+  {
+   "idx": 39,
+   "pali": "‘‘Sātāgirā tisahassā, yakkhā nānattavaṇṇino;",
+   "zh": "“来自萨答笈黎山的三千夜叉，形色各异，",
+   "type": "verse"
+  },
+  {
+   "idx": 40,
+   "pali": "Iddhimanto jutimanto, vaṇṇavanto yasassino;",
+   "zh": "具足神通，具足光辉，容貌端严，盛名远扬；",
+   "type": "verse"
+  },
+  {
+   "idx": 41,
+   "pali": "Modamānā abhikkāmuṃ, bhikkhūnaṃ samitiṃ vanaṃ.",
+   "zh": "满怀欢喜，他们前往林中比丘的集会。",
+   "type": "verse"
+  },
+  {
+   "idx": 42,
+   "pali": "‘‘Iccete soḷasasahassā, yakkhā nānattavaṇṇino;",
+   "zh": "“如是，这些一万六千位夜叉，形色各别，",
+   "type": "verse"
+  },
+  {
+   "idx": 43,
+   "pali": "Iddhimanto jutimanto, vaṇṇavanto yasassino;",
+   "zh": "具足神通，具足光辉，具足容色，具足名声；",
+   "type": "verse"
+  },
+  {
+   "idx": 44,
+   "pali": "Modamānā abhikkāmuṃ, bhikkhūnaṃ samitiṃ vanaṃ.",
+   "zh": "欢喜地来到林中比丘的集会。",
+   "type": "verse"
+  },
+  {
+   "idx": 45,
+   "pali": "‘‘Vessāmittā pañcasatā, yakkhā nānattavaṇṇino;",
+   "zh": "“来自韦萨密答山的五百位夜叉，容色种种，",
+   "type": "verse"
+  },
+  {
+   "idx": 46,
+   "pali": "Iddhimanto jutimanto, vaṇṇavanto yasassino;",
+   "zh": "他们具足神通与光明，容貌端严，声名远扬。",
+   "type": "verse"
+  },
+  {
+   "idx": 47,
+   "pali": "Modamānā abhikkāmuṃ, bhikkhūnaṃ samitiṃ vanaṃ.",
+   "zh": "心怀欢喜，前往林中比丘的集会之处。",
+   "type": "verse"
+  },
+  {
+   "idx": 48,
+   "pali": "‘‘Kumbhīro rājagahiko, vepullassa nivesanaṃ;",
+   "zh": "“王舍城的琨毗罗，以韦富罗山为住处；",
+   "type": "verse"
+  },
+  {
+   "idx": 49,
+   "pali": "Bhiyyo naṃ satasahassaṃ, yakkhānaṃ payirupāsati;",
+   "zh": "更有超过十万的夜叉恭敬随侍于他；",
+   "type": "verse"
+  },
+  {
+   "idx": 50,
+   "pali": "Kumbhīro rājagahiko, sopāgā samitiṃ vanaṃ.",
+   "zh": "王舍城的琨毗罗，也来到林中的集会。",
+   "type": "verse"
+  },
+  {
+   "idx": 51,
+   "pali": "‘‘Purimañca disaṃ rājā, dhataraṭṭho pasāsati.",
+   "zh": "“东方，由[[dhataraṭṭha|持国天王]]统领。",
+   "n": "336"
+  },
+  {
+   "idx": 52,
+   "pali": "Gandhabbānaṃ adhipati, mahārājā yasassiso.",
+   "zh": "为乾闼婆之主，是声名显赫的大王。",
+   "type": "verse"
+  },
+  {
+   "idx": 53,
+   "pali": "‘‘Puttāpi tassa bahavo, indanāmā mahabbalā;",
+   "zh": "“他子嗣众多，皆名因陀罗，具大力量；",
+   "type": "verse"
+  },
+  {
+   "idx": 54,
+   "pali": "Iddhimanto jutimanto, vaṇṇavanto yasassino;",
+   "zh": "具神通，耀光辉，容貌庄严，声名远扬；",
+   "type": "verse"
+  },
+  {
+   "idx": 55,
+   "pali": "Modamānā abhikkāmuṃ, bhikkhūnaṃ samitiṃ vanaṃ.",
+   "zh": "欢喜而来，至比丘林中集会。",
+   "type": "verse"
+  },
+  {
+   "idx": 56,
+   "pali": "‘‘Dakkhiṇañca disaṃ rājā, virūḷho taṃ pasāsati ;",
+   "zh": "“南方由增长天王统领其土；",
+   "type": "verse"
+  },
+  {
+   "idx": 57,
+   "pali": "Kumbhaṇḍānaṃ adhipati, mahārājā yasassiso.",
+   "zh": "他是鸠槃荼之主，具大威德的大王。",
+   "type": "verse"
+  },
+  {
+   "idx": 58,
+   "pali": "‘‘Puttāpi tassa bahavo, indanāmā mahabbalā;",
+   "zh": "“他拥有众多子，皆名因陀罗——具大威力。",
+   "type": "verse"
+  },
+  {
+   "idx": 59,
+   "pali": "Iddhimanto jutimanto, vaṇṇavanto yasassino;",
+   "zh": "具足神通、光辉、容色与名声；",
+   "type": "verse"
+  },
+  {
+   "idx": 60,
+   "pali": "Modamānā abhikkāmuṃ, bhikkhūnaṃ samitiṃ vanaṃ.",
+   "zh": "满怀欢喜，前来赴比丘的林中集会。",
+   "type": "verse"
+  },
+  {
+   "idx": 61,
+   "pali": "‘‘Pacchimañca disaṃ rājā, virūpakkho pasāsati;",
+   "zh": "“西方[[virūpakkha|广目天王]]，统御彼方；",
+   "type": "verse"
+  },
+  {
+   "idx": 62,
+   "pali": "Nāgānañca adhipati, mahārājā yasassiso.",
+   "zh": "他是诸龙之主，为大国王，具足荣光。",
+   "type": "verse"
+  },
+  {
+   "idx": 63,
+   "pali": "‘‘Puttāpi tassa bahavo, indanāmā mahabbalā;",
+   "zh": "“他子嗣众多，皆名因陀罗，具大威力。",
+   "type": "verse"
+  },
+  {
+   "idx": 64,
+   "pali": "Iddhimanto jutimanto, vaṇṇavanto yasassino;",
+   "zh": "他们具足神通，身光显耀，容貌端严，名声远扬。",
+   "type": "verse"
+  },
+  {
+   "idx": 65,
+   "pali": "Modamānā abhikkāmuṃ, bhikkhūnaṃ samitiṃ vanaṃ.",
+   "zh": "他们满怀欢喜，正向林中的比丘集会而来。",
+   "type": "verse"
+  },
+  {
+   "idx": 66,
+   "pali": "‘‘Uttarañca disaṃ rājā, kuvero taṃ pasāsati;",
+   "zh": "“北方由[[kuvera|多闻天王]]王统领，",
+   "type": "verse"
+  },
+  {
+   "idx": 67,
+   "pali": "Yakkhānañca adhipati, mahārājā yasassiso.",
+   "zh": "他是诸夜叉之主，威德显赫的大王。",
+   "type": "verse"
+  },
+  {
+   "idx": 68,
+   "pali": "‘‘Puttāpi tassa bahavo, indanāmā mahabbalā;",
+   "zh": "“他子嗣众多，皆名因陀罗，具大威力；",
+   "type": "verse"
+  },
+  {
+   "idx": 69,
+   "pali": "Iddhimanto jutimanto, vaṇṇavanto yasassino;",
+   "zh": "他们具足神通，具足光耀，具足美貌，具足名声；",
+   "type": "verse"
+  },
+  {
+   "idx": 70,
+   "pali": "Modamānā abhikkāmuṃ, bhikkhūnaṃ samitiṃ vanaṃ.",
+   "zh": "他们欢喜踊跃，来到林中的比丘集会。",
+   "type": "verse"
+  },
+  {
+   "idx": 71,
+   "pali": "‘‘Purimaṃ disaṃ dhataraṭṭho, dakkhiṇena virūḷhako;",
+   "zh": "“东方[[dhataraṭṭha|持国天王]]，南方[[virūḷhaka|增长天王]]，",
+   "type": "verse"
+  },
+  {
+   "idx": 72,
+   "pali": "Pacchimena virūpakkho, kuvero uttaraṃ disaṃ.",
+   "zh": "西方[[virūpakkha|广目天王]]，北方[[kuvera|多闻天王]]。",
+   "type": "verse"
+  },
+  {
+   "idx": 73,
+   "pali": "‘‘Cattāro te mahārājā, samantā caturo disā;",
+   "zh": "“此四大王，围绕四方，",
+   "type": "verse"
+  },
+  {
+   "idx": 74,
+   "pali": "Daddallamānā aṭṭhaṃsu, vane kāpilavatthave.",
+   "zh": "在迦毗罗卫的林中，光芒灿烂地伫立。",
+   "type": "verse"
+  },
+  {
+   "idx": 75,
+   "pali": "‘‘Tesaṃ māyāvino dāsā, āguṃ vañcanikā saṭhā.",
+   "zh": "“他们的幻术奴仆前来，欺诳狡诈之辈——",
+   "n": "337"
+  },
+  {
+   "idx": 76,
+   "pali": "Māyā kuṭeṇḍu viṭeṇḍu , viṭucca viṭuṭo saha.",
+   "zh": "摩耶、库碟度、维碟度，以及维图旃和维图多，",
+   "type": "verse"
+  },
+  {
+   "idx": 77,
+   "pali": "‘‘Candano kāmaseṭṭho ca, kinnighaṇḍu nighaṇḍu ca;",
+   "zh": "“栴檀、[[Kāmaseṭṭha|甘玛塞陀]]、金你甘度、尼甘度，",
+   "type": "verse"
+  },
+  {
+   "idx": 78,
+   "pali": "Panādo opamañño ca, devasūto ca mātali.",
+   "zh": "“巴那多、欧巴曼诺，以及天之御者摩得利，",
+   "type": "verse"
+  },
+  {
+   "idx": 79,
+   "pali": "‘‘Cittaseno ca gandhabbo, naḷorājā janesabho ;",
+   "zh": "“乾闼婆质多舍那、那罗王与遮那沙婆，",
+   "type": "verse"
+  },
+  {
+   "idx": 80,
+   "pali": "Āgā pañcasikho ceva, timbarū sūriyavaccasā .",
+   "zh": "五髻、耽婆噜与日光天女，亦一同前来。",
+   "type": "verse"
+  },
+  {
+   "idx": 81,
+   "pali": "‘‘Ete caññe ca rājāno, gandhabbā saha rājubhi;",
+   "zh": "“这些及其他诸王，乾闼婆众与其王，",
+   "type": "verse"
+  },
+  {
+   "idx": 82,
+   "pali": "Modamānā abhikkāmuṃ, bhikkhūnaṃ samitiṃ vanaṃ.",
+   "zh": "皆大欢喜，前来赴比丘的林中集会。",
+   "type": "verse"
+  },
+  {
+   "idx": 83,
+   "pali": "‘‘Athāguṃ nāgasā nāgā, vesālā sahatacchakā.",
+   "zh": "“接着，那伽娑湖的龙、毗舍离的龙，以及达恰西罗的龙一同来到。",
+   "n": "338"
+  },
+  {
+   "idx": 84,
+   "pali": "Kambalassatarā āguṃ, pāyāgā saha ñātibhi.",
+   "zh": "甘跋罗与阿萨答罗前来，巴亚伽的龙与亲族俱来。",
+   "type": "verse"
+  },
+  {
+   "idx": 85,
+   "pali": "‘‘Yāmunā dhataraṭṭhā ca, āgū nāgā yasassino;",
+   "zh": "“耶牟那河之龙、[[dhataraṭṭha|持国天]]之龙，威光赫赫而来；",
+   "type": "verse"
+  },
+  {
+   "idx": 86,
+   "pali": "Erāvaṇo mahānāgo, sopāgā samitiṃ vanaṃ.",
+   "zh": "大龙王伊罗瓦那，也来到了林中的集会。",
+   "type": "verse"
+  },
+  {
+   "idx": 87,
+   "pali": "‘‘Ye nāgarāje sahasā haranti, dibbā dijā pakkhi visuddhacakkhū;",
+   "zh": "“那些以强力捕捉龙王的天鸟——天上的再生鸟，具足清净的眼目——",
+   "type": "verse"
+  },
+  {
+   "idx": 88,
+   "pali": "Vehāyasā te vanamajjhapattā, citrā supaṇṇā iti tesa nāmaṃ.",
+   "zh": "从空中飞入树林的中央，名为彩金翅鸟。",
+   "type": "verse"
+  },
+  {
+   "idx": 89,
+   "pali": "‘‘Abhayaṃ tadā nāgarājānamāsi, supaṇṇato khemamakāsi buddho;",
+   "zh": "“那时，诸龙王已得无畏，佛陀使其从金翅鸟获得了安宁；",
+   "type": "verse"
+  },
+  {
+   "idx": 90,
+   "pali": "Saṇhāhi vācāhi upavhayantā, nāgā supaṇṇā saraṇamakaṃsu buddhaṃ.",
+   "zh": "龙与金翅鸟以柔和之声相召，一同皈依于佛陀。",
+   "type": "verse"
+  },
+  {
+   "idx": 91,
+   "pali": "‘‘Jitā vajirahatthena, samuddaṃ asurāsitā.",
+   "zh": "“‘为执金刚杵者所败，居于大海的阿修罗——’",
+   "n": "339"
+  },
+  {
+   "idx": 92,
+   "pali": "Bhātaro vāsavassete, iddhimanto yasassino.",
+   "zh": "他们是瓦萨瓦的兄弟，具足神通与名声。",
+   "type": "verse"
+  },
+  {
+   "idx": 93,
+   "pali": "‘‘Kālakañcā mahābhismā , asurā dānaveghasā;",
+   "zh": "“有极为可怖的咖拉甘迦，还有名为达那韦笈萨的持弓阿修罗们，",
+   "type": "verse"
+  },
+  {
+   "idx": 94,
+   "pali": "Vepacitti sucitti ca, pahārādo namucī saha.",
+   "zh": "[[vepacitti|毗摩质多]]罗与苏吉帝，巴哈拉达与那木吉。",
+   "type": "verse"
+  },
+  {
+   "idx": 95,
+   "pali": "‘‘Satañca baliputtānaṃ, sabbe verocanāmakā;",
+   "zh": "“跋利的百位儿子，皆名为维罗遮那；",
+   "type": "verse"
+  },
+  {
+   "idx": 96,
+   "pali": "Sannayhitvā balisenaṃ , rāhubhaddamupāgamuṃ;",
+   "zh": "巴离的军队武装齐备，便向罗睺贤者进发；",
+   "type": "verse"
+  },
+  {
+   "idx": 97,
+   "pali": "Samayodāni bhaddante, bhikkhūnaṃ samitiṃ vanaṃ.",
+   "zh": "尊者，此时正是比丘们林中集会之时。",
+   "type": "verse"
+  },
+  {
+   "idx": 98,
+   "pali": "‘‘Āpo ca devā pathavī, tejo vāyo tadāgamuṃ.",
+   "zh": "“那时，水、地、火、风的天神们都来到了那里。",
+   "n": "340"
+  },
+  {
+   "idx": 99,
+   "pali": "Varuṇā vāraṇā devā, somo ca yasasā saha.",
+   "zh": "[[varuṇa|婆楼那]]天神、瓦拉那天神，以及苏摩天神与耶舍天神一同前来。",
+   "type": "verse"
+  },
+  {
+   "idx": 100,
+   "pali": "‘‘Mettā karuṇā kāyikā, āguṃ devā yasassino;",
+   "zh": "“慈身天神、悲身天神，这些声名显赫的天神也来到了。",
+   "type": "verse"
+  },
+  {
+   "idx": 101,
+   "pali": "Dasete dasadhā kāyā, sabbe nānattavaṇṇino.",
+   "zh": "这十类天神，皆现种种容色。",
+   "type": "verse"
+  },
+  {
+   "idx": 102,
+   "pali": "‘‘Iddhimanto jutimanto, vaṇṇavanto yasassino;",
+   "zh": "“他们具足神通，光芒璀璨，容貌庄严，声名远扬；",
+   "type": "verse"
+  },
+  {
+   "idx": 103,
+   "pali": "Modamānā abhikkāmuṃ, bhikkhūnaṃ samitiṃ vanaṃ.",
+   "zh": "满怀欢喜，来到比丘众集会之林。",
+   "type": "verse"
+  },
+  {
+   "idx": 104,
+   "pali": "‘‘Veṇḍudevā sahali ca , asamā ca duve yamā;",
+   "zh": "“文度天神、萨哈离天神、无等天神，以及两类夜摩天神。",
+   "type": "verse"
+  },
+  {
+   "idx": 105,
+   "pali": "Candassūpanisā devā, candamāguṃ purakkhatvā.",
+   "zh": "依止月亮的天神们，以月为前导而来。",
+   "type": "verse"
+  },
+  {
+   "idx": 106,
+   "pali": "‘‘Sūriyassūpanisā devā, sūriyamāguṃ purakkhatvā;",
+   "zh": "“依止太阳的天神们，以日为前导而来。",
+   "type": "verse"
+  },
+  {
+   "idx": 107,
+   "pali": "Nakkhattāni purakkhatvā, āguṃ mandavalāhakā.",
+   "zh": "依止星宿的天神以星宿为前导，曼达瓦拉哈卡云神也来了。",
+   "type": "verse"
+  },
+  {
+   "idx": 108,
+   "pali": "‘‘Vasūnaṃ vāsavo seṭṭho, sakkopāgā purindado;",
+   "zh": "“诸瓦苏天神中最殊胜的瓦萨瓦——即帝释天神、施与者——也来了；",
+   "type": "verse"
+  },
+  {
+   "idx": 109,
+   "pali": "Dasete dasadhā kāyā, sabbe nānattavaṇṇino.",
+   "zh": "这十类天神，皆现种种容色。",
+   "type": "verse"
+  },
+  {
+   "idx": 110,
+   "pali": "‘‘Iddhimanto jutimanto, vaṇṇavanto yasassino;",
+   "zh": "“具足神通，身光赫奕，容貌端严，声名远闻；",
+   "type": "verse"
+  },
+  {
+   "idx": 111,
+   "pali": "Modamānā abhikkāmuṃ, bhikkhūnaṃ samitiṃ vanaṃ.",
+   "zh": "他们欢喜踊跃，前来林中比丘的集会。",
+   "type": "verse"
+  },
+  {
+   "idx": 112,
+   "pali": "‘‘Athāguṃ sahabhū devā, jalamaggisikhāriva;",
+   "zh": "“其后，萨哈跋天神们前来，光耀如火焰之巅；",
+   "type": "verse"
+  },
+  {
+   "idx": 113,
+   "pali": "Ariṭṭhakā ca rojā ca, umāpupphanibhāsino.",
+   "zh": "[[ariṭṭha|阿利吒]]咖与罗阇，身光如木槵子花。",
+   "type": "verse"
+  },
+  {
+   "idx": 114,
+   "pali": "‘‘Varuṇā sahadhammā ca, accutā ca anejakā;",
+   "zh": "“[[varuṇa|婆楼那]]天神与萨哈昙摩天神，以及阿周答天神、阿那者咖天神；",
+   "type": "verse"
+  },
+  {
+   "idx": 115,
+   "pali": "Sūleyyarucirā āguṃ, āguṃ vāsavanesino;",
+   "zh": "苏雷亚与卢吉拉前来，帝释天神的侍从天神们也前来；",
+   "type": "verse"
+  },
+  {
+   "idx": 116,
+   "pali": "Dasete dasadhā kāyā, sabbe nānattavaṇṇino.",
+   "zh": "这十类天神，皆现种种容色。",
+   "type": "verse"
+  },
+  {
+   "idx": 117,
+   "pali": "‘‘Iddhimanto jutimanto, vaṇṇavanto yasassino;",
+   "zh": "“具足神通，光辉灿烂，容色端严，名声显赫；",
+   "type": "verse"
+  },
+  {
+   "idx": 118,
+   "pali": "Modamānā abhikkāmuṃ, bhikkhūnaṃ samitiṃ vanaṃ.",
+   "zh": "满怀喜悦，来至比丘集会之林。",
+   "type": "verse"
+  },
+  {
+   "idx": 119,
+   "pali": "‘‘Samānā mahāsamanā, mānusā mānusuttamā;",
+   "zh": "“三摩那天神与大三摩那天神、摩奴沙天神与摩奴苏多摩天神也来了；",
+   "type": "verse"
+  },
+  {
+   "idx": 120,
+   "pali": "Khiḍḍāpadosikā āguṃ, āguṃ manopadosikā.",
+   "zh": "戏忘天神与意忿天神也都来了。",
+   "type": "verse"
+  },
+  {
+   "idx": 121,
+   "pali": "‘‘Athāguṃ harayo devā, ye ca lohitavāsino;",
+   "zh": "“随后，哈拉耶天神与赤衣天神也都来了；",
+   "type": "verse"
+  },
+  {
+   "idx": 122,
+   "pali": "Pāragā mahāpāragā, āguṃ devā yasassino;",
+   "zh": "波罗伽与大波罗伽，这些声名远播的天神前来；",
+   "type": "verse"
+  },
+  {
+   "idx": 123,
+   "pali": "Dasete dasadhā kāyā, sabbe nānattavaṇṇino.",
+   "zh": "这十类天神，皆现种种容色；",
+   "type": "verse"
+  },
+  {
+   "idx": 124,
+   "pali": "‘‘Iddhimanto jutimanto, vaṇṇavanto yasassino;",
+   "zh": "“他们具足神通，光明显赫，容颜庄严，声名远扬；",
+   "type": "verse"
+  },
+  {
+   "idx": 125,
+   "pali": "Modamānā abhikkāmuṃ, bhikkhūnaṃ samitiṃ vanaṃ.",
+   "zh": "满怀欢喜，他们前来参加林间的比丘集会。",
+   "type": "verse"
+  },
+  {
+   "idx": 126,
+   "pali": "‘‘Sukkā karambhā aruṇā, āguṃ veghanasā saha;",
+   "zh": "“苏咖、咖兰跋、阿卢那，与韦哈那萨一同前来；",
+   "type": "verse"
+  },
+  {
+   "idx": 127,
+   "pali": "Odātagayhā pāmokkhā, āguṃ devā vicakkhaṇā.",
+   "zh": "名为欧答答笈哈的上首天神来了，名为维遮卡那（明辨）的天神也来了。",
+   "type": "verse"
+  },
+  {
+   "idx": 128,
+   "pali": "‘‘Sadāmattā hāragajā, missakā ca yasassino;",
+   "zh": "“萨达玛答天神、哈拉笈阇天神，以及声名显赫的弥萨咖天神；",
+   "type": "verse"
+  },
+  {
+   "idx": 129,
+   "pali": "Thanayaṃ āga pajjunno, yo disā abhivassati.",
+   "zh": "天王巴周诺发出雷鸣而来，向诸方降雨。",
+   "type": "verse"
+  },
+  {
+   "idx": 130,
+   "pali": "‘‘Dasete dasadhā kāyā, sabbe nānattavaṇṇino;",
+   "zh": "“这十类天神，皆现种种容色；",
+   "type": "verse"
+  },
+  {
+   "idx": 131,
+   "pali": "Iddhimanto jutimanto, vaṇṇavanto yasassino;",
+   "zh": "具足神通、光耀、庄严、大名声；",
+   "type": "verse"
+  },
+  {
+   "idx": 132,
+   "pali": "Modamānā abhikkāmuṃ, bhikkhūnaṃ samitiṃ vanaṃ.",
+   "zh": "满怀欢喜，他们前来这林中比丘的集会。",
+   "type": "verse"
+  },
+  {
+   "idx": 133,
+   "pali": "‘‘Khemiyā tusitā yāmā, kaṭṭhakā ca yasassino;",
+   "zh": "“凯密亚天神、住[[tusita|兜率天]]城的天神、住夜摩天界的天神，以及声名显赫的咖塔咖天神，",
+   "type": "verse"
+  },
+  {
+   "idx": 134,
+   "pali": "Lambītakā lāmaseṭṭhā, jotināmā ca āsavā;",
+   "zh": "览比答迦天神、拉马塞达天神、乔提那摩天神、阿萨瓦天神；",
+   "type": "verse"
+  },
+  {
+   "idx": 135,
+   "pali": "Nimmānaratino āguṃ, athāguṃ paranimmitā.",
+   "zh": "[[nimmānarati|化乐天]]的天神前来，他化自在天的天神也前来。",
+   "type": "verse"
+  },
+  {
+   "idx": 136,
+   "pali": "‘‘Dasete dasadhā kāyā, sabbe nānattavaṇṇino;",
+   "zh": "“这十类天神，皆现种种容色；",
+   "type": "verse"
+  },
+  {
+   "idx": 137,
+   "pali": "Iddhimanto jutimanto, vaṇṇavanto yasassino;",
+   "zh": "他们具足神通，身光晃耀，容貌端严，名声远扬；",
+   "type": "verse"
+  },
+  {
+   "idx": 138,
+   "pali": "Modamānā abhikkāmuṃ, bhikkhūnaṃ samitiṃ vanaṃ.",
+   "zh": "满心欢喜，前往比丘集会之林。",
+   "type": "verse"
+  },
+  {
+   "idx": 139,
+   "pali": "‘‘Saṭṭhete devanikāyā, sabbe nānattavaṇṇino;",
+   "zh": "“这六十个天神部类，皆现种种容色；",
+   "type": "verse"
+  },
+  {
+   "idx": 140,
+   "pali": "Nāmanvayena āgacchuṃ , ye caññe sadisā saha.",
+   "zh": "他们依名次第而来，其余类似者也一同前来。",
+   "type": "verse"
+  },
+  {
+   "idx": 141,
+   "pali": "‘‘‘Pavuṭṭhajātimakhilaṃ , oghatiṇṇamanāsavaṃ;",
+   "zh": "“已断除生、无碍者，已度越暴流、无漏者；",
+   "type": "verse"
+  },
+  {
+   "idx": 142,
+   "pali": "Dakkhemoghataraṃ nāgaṃ, candaṃva asitātigaṃ’.",
+   "zh": "我等当见此度暴流之龙，犹如明月超越黑暗。",
+   "type": "verse"
+  },
+  {
+   "idx": 143,
+   "pali": "‘‘Subrahmā paramatto ca , puttā iddhimato saha.",
+   "zh": "“苏梵天神与巴拉麻答梵天神，偕同具神通者之子，一同到来。",
+   "n": "341"
+  },
+  {
+   "idx": 144,
+   "pali": "Sanaṅkumāro tisso ca, sopāga samitiṃ vanaṃ.",
+   "zh": "常童子梵天神与帝沙大梵天神，亦赴林间集会。",
+   "type": "verse"
+  },
+  {
+   "idx": 145,
+   "pali": "‘‘Sahassaṃ brahmalokānaṃ, mahābrahmābhitiṭṭhati;",
+   "zh": "“于千个梵天界中，大梵天神超然卓立。",
+   "type": "verse"
+  },
+  {
+   "idx": 146,
+   "pali": "Upapanno jutimanto, bhismākāyo yasassiso.",
+   "zh": "他由化生而出，光明赫奕，身形令人敬畏，声名显赫。",
+   "type": "verse"
+  },
+  {
+   "idx": 147,
+   "pali": "‘‘Dasettha issarā āguṃ, paccekavasavattino;",
+   "zh": "“有十位自在的大梵天神来到此处，各自掌握自在之力；",
+   "type": "verse"
+  },
+  {
+   "idx": 148,
+   "pali": "Tesañca majjhato āga, hārito parivārito.",
+   "zh": "在他们中央，哈利答大梵天神在随从簇拥下到来。",
+   "type": "verse"
+  },
+  {
+   "idx": 149,
+   "pali": "‘‘Te ca sabbe abhikkante, sainde deve sabrahmake.",
+   "zh": "“一切皆已前来——以帝释天神为首的诸天神与梵天神都已到齐；",
+   "n": "342"
+  },
+  {
+   "idx": 150,
+   "pali": "Mārasenā abhikkāmi, passa kaṇhassa mandiyaṃ.",
+   "zh": "魔军亦至：且看黑者的愚痴。",
+   "type": "verse"
+  },
+  {
+   "idx": 151,
+   "pali": "‘‘‘Etha gaṇhatha bandhatha, rāgena baddhamatthu vo;",
+   "zh": "“‘来啊！捉拿他们，捆绑他们！令其被贪欲所缚！’",
+   "type": "verse"
+  },
+  {
+   "idx": 152,
+   "pali": "Samantā parivāretha, mā vo muñcittha koci naṃ’.",
+   "zh": "四面合围，勿使一人逃脱。",
+   "type": "verse"
+  },
+  {
+   "idx": 153,
+   "pali": "‘‘Iti tattha mahāseno, kaṇho senaṃ apesayi;",
+   "zh": "“如是，黑者大将——魔罗于彼处派遣大军；",
+   "type": "verse"
+  },
+  {
+   "idx": 154,
+   "pali": "Pāṇinā talamāhacca, saraṃ katvāna bheravaṃ.",
+   "zh": "以掌击地，发出可怖畏声。",
+   "type": "verse"
+  },
+  {
+   "idx": 155,
+   "pali": "‘‘Yathā pāvussako megho, thanayanto savijjuko; +",
+   "zh": "“犹如雨季的云，雷鸣电闪，降下大雨；",
+   "type": "verse"
+  },
+  {
+   "idx": 156,
+   "pali": "Tadā so paccudāvatti, saṅkuddho asayaṃvase .",
+   "zh": "那时他退转回去，愤怒失控，难以自制。",
+   "type": "verse"
+  },
+  {
+   "type": "verse",
+   "idx": 157,
+   "pali": "Tañca sabbaṃ abhiññāya, vavatthitvāna cakkhumā.",
+   "zh": "具眼者以证智了知这一切，并善为决断。",
+   "n": "343"
+  },
+  {
+   "idx": 158,
+   "pali": "Tato āmantayī satthā, sāvake sāsane rate.",
+   "zh": "于是，世尊对乐于教法的弟子们说：",
+   "type": "verse"
+  },
+  {
+   "idx": 159,
+   "pali": "‘‘Mārasenā abhikkantā, te vijānātha bhikkhavo;",
+   "zh": "“魔军已至，诸比丘，你们应当觉知他们。”",
+   "type": "verse"
+  },
+  {
+   "idx": 160,
+   "pali": "Te ca ātappamakaruṃ, sutvā buddhassa sāsanaṃ;",
+   "zh": "那些比丘听闻佛陀的教示，即生起精勤。",
+   "type": "verse"
+  },
+  {
+   "idx": 161,
+   "pali": "Vītarāgehi pakkāmuṃ, nesaṃ lomāpi iñjayuṃ.",
+   "zh": "军队从离染者面前溃散，他们连一根汗毛都不曾动摇。",
+   "type": "verse"
+  },
+  {
+   "idx": 162,
+   "pali": "‘‘‘Sabbe vijitasaṅgāmā, bhayātītā yasassino;",
+   "zh": "“一切战斗胜者，超越怖畏，声名远扬；",
+   "type": "verse"
+  },
+  {
+   "idx": 163,
+   "pali": "Modanti saha bhūtehi, sāvakā te janesutā’’ti.",
+   "zh": "他们与诸众生同欢悦，这些弟子在人间享有盛誉。”",
+   "type": "verse"
+  },
+  {
+   "idx": 164,
+   "pali": "Mahāsamayasuttaṃ niṭṭhitaṃ sattamaṃ.",
+   "zh": "大会经第七终",
+   "type": "colophon"
+  }
+ ]
+}

@@ -1,0 +1,535 @@
+{
+  "uid": 37,
+  "title": "3. 女人相应",
+  "nik": "SN",
+  "segs": [
+    {
+      "idx": 94,
+      "pali": "3. Mātugāmasaṃyuttaṃ",
+      "zh": "3. 女人相应"
+    },
+    {
+      "idx": 95,
+      "pali": "1. Paṭhamapeyyālavaggo",
+      "zh": "第一略说品"
+    },
+    {
+      "idx": 96,
+      "pali": "1. Mātugāmasuttaṃ",
+      "zh": "1. [[mātugāmasutta|女人经]]"
+    },
+    {
+      "idx": 1,
+      "pali": "‘‘Pañcahi , bhikkhave, aṅgehi samannāgato mātugāmo ekantaamanāpo hoti purisassa. Katamehi pañcahi? Na ca rūpavā hoti, na ca bhogavā hoti, na ca sīlavā hoti, alaso ca hoti, pajañcassa na labhati – imehi kho, bhikkhave, pañcahi aṅgehi samannāgato mātugāmo ekantaamanāpo hoti purisassa. Pañcahi, bhikkhave, aṅgehi samannāgato mātugāmo ekantamanāpo hoti purisassa. Katamehi pañcahi? Rūpavā ca hoti, bhogavā ca hoti, sīlavā ca hoti, dakkho ca hoti analaso, pajañcassa labhati – imehi kho, bhikkhave, pañcahi aṅgehi samannāgato mātugāmo ekantamanāpo hoti purisassā’’ti. Paṭhamaṃ.",
+      "zh": "“诸比丘，具备五种特质的女子，对男子而言，实为极不可爱。哪五种？容色不美，没有财富，不具戒行，懒惰，不能为他生育子嗣。诸比丘，具备这五种特质的女子，对男子而言，实为极不可爱。诸比丘，具备五种特质的女子，对男子而言，实为极可爱。哪五种？容色美丽，拥有财富，具足戒行，勤勉不懒，能为他生育子嗣。诸比丘，具备这五种特质的女子，对男子而言，实为极可爱。第一经。”",
+      "n": "280"
+    },
+    {
+      "idx": 2,
+      "pali": "2. Purisasuttaṃ",
+      "zh": "2. [[purisasutta|男子经]]"
+    },
+    {
+      "idx": 3,
+      "pali": "‘‘Pañcahi, bhikkhave, aṅgehi samannāgato puriso ekantaamanāpo hoti mātugāmassa. Katamehi pañcahi? Na ca rūpavā hoti, na ca bhogavā hoti, na ca sīlavā hoti, alaso ca hoti, pajañcassa na labhati – imehi kho, bhikkhave, pañcahi aṅgehi samannāgato puriso ekantaamanāpo hoti mātugāmassa. Pañcahi, bhikkhave, aṅgehi samannāgato puriso ekantamanāpo hoti mātugāmassa. Katamehi pañcahi? Rūpavā ca hoti, bhogavā ca hoti, sīlavā ca hoti, dakkho ca hoti analaso, pajañcassa labhati – imehi kho, bhikkhave, pañcahi aṅgehi samannāgato puriso ekantamanāpo hoti mātugāmassā’’ti. Dutiyaṃ.",
+      "zh": "“诸比丘，具备五种特质的男子，对女子而言，实为极不可爱。哪五种？容貌不端严，没有财富，不具戒行，懒惰，不能与她生育子嗣。诸比丘，具备这五种特质的男子，对女子而言，实为极不可爱。诸比丘，具备五种特质的男子，对女子而言，实为极可爱。哪五种？容貌端严，拥有财富，具足戒行，勤勉不懒，能与她生育子嗣。诸比丘，具备这五种特质的男子，对女子而言，实为极可爱。第二经。”",
+      "n": "281"
+    },
+    {
+      "idx": 4,
+      "pali": "3. Āveṇikadukkhasuttaṃ",
+      "zh": "3. [[āveṇikadukkhasutta|特有苦经]]"
+    },
+    {
+      "idx": 5,
+      "pali": "‘‘Pañcimāni, bhikkhave, mātugāmassa āveṇikāni dukkhāni, yāni mātugāmo paccanubhoti, aññatreva purisehi. Katamāni pañca? Idha, bhikkhave , mātugāmo daharova samāno patikulaṃ gacchati, ñātakehi vinā hoti. Idaṃ, bhikkhave, mātugāmassa paṭhamaṃ āveṇikaṃ dukkhaṃ, yaṃ mātugāmo paccanubhoti, aññatreva purisehi. Puna caparaṃ, bhikkhave, mātugāmo utunī hoti. Idaṃ, bhikkhave, mātugāmassa dutiyaṃ āveṇikaṃ dukkhaṃ, yaṃ mātugāmo paccanubhoti, aññatreva purisehi. Puna caparaṃ, bhikkhave, mātugāmo gabbhinī hoti. Idaṃ, bhikkhave, mātugāmassa tatiyaṃ āveṇikaṃ dukkhaṃ, yaṃ mātugāmo paccanubhoti, aññatreva purisehi. Puna caparaṃ, bhikkhave, mātugāmo vijāyati. Idaṃ, bhikkhave, mātugāmassa catutthaṃ āveṇikaṃ dukkhaṃ, yaṃ mātugāmo paccanubhoti, aññatreva purisehi. Puna caparaṃ, bhikkhave, mātugāmo purisassa pāricariyaṃ upeti. Idaṃ kho, bhikkhave, mātugāmassa pañcamaṃ āveṇikaṃ dukkhaṃ, yaṃ mātugāmo paccanubhoti, aññatreva purisehi. Imāni kho, bhikkhave, pañca mātugāmassa āveṇikāni dukkhāni, yāni mātugāmo paccanubhoti, aññatreva purisehī’’ti. Tatiyaṃ.",
+      "zh": "“诸比丘，有五种女人所特有的苦，唯女人所经历，非男子所遭遇。哪五种呢？诸比丘，女人年纪尚幼便须往赴夫家，与亲族别离。诸比丘，这是女人第一种特有的苦，唯女人所经历，非男子所遭遇。复次，诸比丘，女人有月事。诸比丘，这是女人第二种特有的苦，唯女人所经历，非男子所遭遇。复次，诸比丘，女人有怀胎。诸比丘，这是女人第三种特有的苦，唯女人所经历，非男子所遭遇。复次，诸比丘，女人有分娩。诸比丘，这是女人第四种特有的苦，唯女人所经历，非男子所遭遇。复次，诸比丘，女人须服侍于男子。诸比丘，这是女人第五种特有的苦，唯女人所经历，非男子所遭遇。诸比丘，这便是五种女人所特有的苦，唯女人所经历，非男子所遭遇。第三经。”",
+      "n": "282"
+    },
+    {
+      "idx": 6,
+      "pali": "4. Tīhidhammehisuttaṃ",
+      "zh": "4. [[tīhidhammehisutta|三法经]]"
+    },
+    {
+      "idx": 7,
+      "pali": "‘‘Tīhi , bhikkhave, dhammehi samannāgato mātugāmo yebhuyyena kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjati. Katamehi tīhi? Idha, bhikkhave, mātugāmo pubbaṇhasamayaṃ maccheramalapariyuṭṭhitena cetasā agāraṃ ajjhāvasati. Majjhanhikasamayaṃ issāpariyuṭṭhitena cetasā agāraṃ ajjhāvasati. Sāyanhasamayaṃ kāmarāgapariyuṭṭhitena cetasā agāraṃ ajjhāvasati. Imehi kho, bhikkhave, tīhi dhammehi samannāgato mātugāmo yebhuyyena kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjatī’’ti. Catutthaṃ.",
+      "zh": "“诸比丘，具足三种法的女人，大多在身体破裂、命终之后，投生到苦界、恶趣、堕处、地狱。哪三种法呢？诸比丘，女人于上午，心被悭吝的污垢所缠，这样过着家庭生活；于正午，心被嫉妒所缠，这样过着家庭生活；于傍晚，心被欲贪所缠，这样过着家庭生活。诸比丘，具足这三种法的女人，大多在身体破裂、命终之后，投生到苦界、恶趣、堕处、地狱。第四经。”",
+      "n": "283"
+    },
+    {
+      "idx": 8,
+      "pali": "5. Kodhanasuttaṃ",
+      "zh": "5. [[kodhanasutta|易怒经]]"
+    },
+    {
+      "idx": 9,
+      "pali": "Atha kho āyasmā anuruddho yena bhagavā tenupasaṅkami; upasaṅkamitvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho āyasmā anuruddho bhagavantaṃ etadavoca – ‘‘idhāhaṃ, bhante, mātugāmaṃ passāmi dibbena cakkhunā visuddhena atikkantamānusakena kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjantaṃ. Katīhi nu kho, bhante, dhammehi samannāgato mātugāmo kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjatī’’ti?",
+      "zh": "那时，[[anuruddha|阿那律]]尊者前往世尊处，到后退坐一面。退坐一面的[[anuruddha|阿那律]]尊者对世尊说：“尊者，在此，我以清净、超越凡人的天眼，见有女子于身坏命终后，投生于苦界、恶趣、堕处、地狱。尊者，具足几种法的女子，于身坏命终后，会投生于苦界、恶趣、堕处、地狱？”",
+      "n": "284"
+    },
+    {
+      "idx": 10,
+      "pali": "‘‘Pañcahi kho, anuruddha, dhammehi samannāgato mātugāmo kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjati. Katamehi pañcahi? Assaddho ca hoti, ahiriko ca hoti, anottappī ca hoti, kodhano ca hoti, duppañño ca hoti – imehi kho, anuruddha, pañcahi dhammehi samannāgato mātugāmo kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjatī’’ti. Pañcamaṃ.",
+      "zh": "“[[anuruddha|阿那律]]，具足五法的女人，身坏命终之后，便会投生到苦界、恶趣、堕处、地狱。哪五种呢？她无信、无惭、无愧、易怒、智慧低劣。[[anuruddha|阿那律]]，具足这五法的女人，身坏命终之后，便会投生到苦界、恶趣、堕处、地狱。第五经。”"
+    },
+    {
+      "idx": 11,
+      "pali": "6. Upanāhīsuttaṃ",
+      "zh": "6. [[upanāhīsutta|怀恨经]]"
+    },
+    {
+      "idx": 12,
+      "pali": "‘‘Pañcahi , anuruddha, dhammehi samannāgato mātugāmo kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjati. Katamehi pañcahi? Assaddho ca hoti, ahiriko ca hoti, anottappī ca hoti, upanāhī ca hoti, duppañño ca hoti – imehi kho, anuruddha, pañcahi dhammehi samannāgato mātugāmo kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjatī’’ti. Chaṭṭhaṃ.",
+      "zh": "“[[anuruddha|阿那律]]，具足五法的女人，身坏命终之后，便会投生到苦界、恶趣、堕处、地狱。哪五种呢？她无信、无惭、无愧、心怀怨恨、智慧低劣。[[anuruddha|阿那律]]，具足这五法的女人，身坏命终之后，便会投生到苦界、恶趣、堕处、地狱。第六经。”",
+      "n": "285"
+    },
+    {
+      "idx": 13,
+      "pali": "7. Issukīsuttaṃ",
+      "zh": "7. [[issukīsutta|嫉妒经]]"
+    },
+    {
+      "idx": 14,
+      "pali": "‘‘Pañcahi, anuruddha, dhammehi samannāgato mātugāmo kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjati. Katamehi pañcahi? Assaddho ca hoti, ahiriko ca hoti, anottappī ca hoti, issukī ca hoti, duppañño ca hoti – imehi kho , anuruddha, pañcahi dhammehi samannāgato mātugāmo kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjatī’’ti. Sattamaṃ.",
+      "zh": "“[[anuruddha|阿那律]]，具足五法的女人，身坏命终后，将投生到苦界、恶趣、堕处、地狱。是哪五法？无信、无惭、无愧、嫉妒、劣慧。[[anuruddha|阿那律]]，正是具足这五法，女人身坏命终后，将投生到苦界、恶趣、堕处、地狱。”第七经。",
+      "n": "286"
+    },
+    {
+      "idx": 15,
+      "pali": "8. Maccharīsuttaṃ",
+      "zh": "8. [[maccharīsutta|悭吝经]]"
+    },
+    {
+      "idx": 16,
+      "pali": "‘‘Pañcahi, anuruddha, dhammehi samannāgato mātugāmo kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjati. Katamehi pañcahi? Assaddho ca hoti, ahiriko ca hoti, anottappī ca hoti, maccharī ca hoti, duppañño ca hoti – imehi kho, anuruddha, pañcahi dhammehi samannāgato mātugāmo…pe… apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjatī’’ti. Aṭṭhamaṃ.",
+      "zh": "“[[anuruddha|阿那律]]，具足五法的女人，身坏命终后，将堕入苦界、恶趣、堕处、地狱。哪五种法呢？无信、无惭、无愧、悭吝、智慧低劣。[[anuruddha|阿那律]]，具足这五法的女人，身坏命终后，将堕入苦界、恶趣、堕处、地狱。”第八经。",
+      "n": "287"
+    },
+    {
+      "idx": 17,
+      "pali": "9. Aticārīsuttaṃ",
+      "zh": "9. [[aticārīsutta|放逸经]]"
+    },
+    {
+      "idx": 18,
+      "pali": "‘‘Pañcahi , anuruddha, dhammehi samannāgato mātugāmo…pe… apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjati. Katamehi pañcahi? Assaddho ca hoti, ahiriko ca hoti, anottappī ca hoti, aticārī ca hoti, duppañño ca hoti – imehi kho, anuruddha, pañcahi dhammehi samannāgato mātugāmo…pe… upapajjatī’’ti. Navamaṃ.",
+      "zh": "“[[anuruddha|阿那律]]，具足五法的女人，身坏命终后，将堕入苦界、恶趣、堕处、地狱。哪五种法呢？无信、无惭、无愧、行邪行、智慧低劣。[[anuruddha|阿那律]]，具足这五法的女人，身坏命终后，将堕入苦界、恶趣、堕处、地狱。第九经。”",
+      "n": "288"
+    },
+    {
+      "idx": 19,
+      "pali": "10. Dussīlasuttaṃ",
+      "zh": "10. [[dussīlasutta|破戒经]]"
+    },
+    {
+      "idx": 20,
+      "pali": "‘‘Pañcahi, anuruddha, dhammehi samannāgato mātugāmo…pe… nirayaṃ upapajjati. Katamehi pañcahi? Assaddho ca hoti, ahiriko ca hoti, anottappī ca hoti, dussīlo ca hoti, duppañño ca hoti – imehi kho, anuruddha, pañcahi dhammehi samannāgato mātugāmo…pe… nirayaṃ upapajjatī’’ti. Dasamaṃ.",
+      "zh": "“[[anuruddha|阿那律]]，具足五法的女人……会投生地狱。哪五种呢？无信，无惭，无愧，戒行不善，智慧下劣。[[anuruddha|阿那律]]，具足这五法的女人……便投生地狱。第十经。”",
+      "n": "289"
+    },
+    {
+      "idx": 21,
+      "pali": "11. Appassutasuttaṃ",
+      "zh": "11. [[appassutasutta|少闻经]]"
+    },
+    {
+      "idx": 22,
+      "pali": "‘‘Pañcahi, anuruddha, dhammehi samannāgato mātugāmo…pe… nirayaṃ upapajjati . Katamehi pañcahi? Assaddho ca hoti, ahiriko ca hoti, anottappī ca hoti, appassuto ca hoti, duppañño ca hoti – imehi kho, anuruddha, pañcahi dhammehi samannāgato mātugāmo…pe… nirayaṃ upapajjatī’’ti. Ekādasamaṃ.",
+      "zh": "“[[anuruddha|阿那律]]，具足五法的女人，身坏命终后投生地狱。哪五种法呢？无信、无惭、无愧、少闻、劣慧。[[anuruddha|阿那律]]，女人正是具足这五法，身坏命终后投生地狱。第十一经”",
+      "n": "290"
+    },
+    {
+      "idx": 23,
+      "pali": "12. Kusītasuttaṃ",
+      "zh": "12. [[kusītasutta|懈怠经]]"
+    },
+    {
+      "idx": 24,
+      "pali": "‘‘Pañcahi, anuruddha, dhammehi samannāgato mātugāmo…pe… nirayaṃ upapajjati. Katamehi pañcahi? Assaddho ca hoti, ahiriko ca hoti, anottappī ca hoti, kusīto ca hoti, duppañño ca hoti – imehi kho, anuruddha, pañcahi dhammehi samannāgato mātugāmo…pe… apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjatī’’ti. Dvādasamaṃ.",
+      "zh": "“[[anuruddha|阿那律]]，具足五法的女人，身坏命终后投生地狱。哪五种法呢？无信、无惭、无愧、懈怠、劣慧。[[anuruddha|阿那律]]，女人正是具足这五法，身坏命终后投生到苦界、恶趣、堕处、地狱。第十二经”",
+      "n": "291"
+    },
+    {
+      "idx": 25,
+      "pali": "13. Muṭṭhassatisuttaṃ",
+      "zh": "13. [[muṭṭhassatisutta|失念经]]"
+    },
+    {
+      "idx": 26,
+      "pali": "‘‘Pañcahi , anuruddha, dhammehi samannāgato mātugāmo…pe… nirayaṃ upapajjati. Katamehi pañcahi? Assaddho ca hoti, ahiriko ca hoti, anottappī ca hoti, muṭṭhassati ca hoti, duppañño ca hoti – imehi kho, anuruddha, pañcahi dhammehi samannāgato mātugāmo…pe… nirayaṃ upapajjatī’’ti. Terasamaṃ.",
+      "zh": "“[[anuruddha|阿那律]]，具足五法的女人，身坏命终后，便投生地狱。哪五种？无信、无惭、无愧、失念、劣慧。[[anuruddha|阿那律]]，具足这五法的女人，身坏命终后，便投生地狱。” 第十三。第十三经。",
+      "n": "292"
+    },
+    {
+      "idx": 27,
+      "pali": "14. Pañcaverasuttaṃ",
+      "zh": "14. [[pañcaverasutta|五怖畏经]]"
+    },
+    {
+      "idx": 28,
+      "pali": "‘‘Pañcahi, anuruddha, dhammehi samannāgato mātugāmo…pe… nirayaṃ upapajjati. Katamehi pañcahi? Pāṇātipātī ca hoti, adinnādāyī ca hoti, kāmesumicchācārī ca hoti, musāvādī ca hoti, surāmerayamajjappamādaṭṭhāyī ca hoti – imehi kho, anuruddha, pañcahi dhammehi samannāgato mātugāmo kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjatī’’ti. Cuddasamaṃ.",
+      "zh": "“[[anuruddha|阿那律]]，具足五法的女人，身坏命终后，投生于苦界、恶趣、堕处、地狱。哪五种呢？她杀害生命，不告而取，行欲邪行，说妄语，以及饮用谷酒、果酒等令人放逸的酒类。[[anuruddha|阿那律]]，具足这五法的女人，身坏命终后，便投生于苦界、恶趣、堕处、地狱。”第十四经。",
+      "n": "293"
+    },
+    {
+      "idx": 29,
+      "pali": "Paṭhamapeyyālavaggo.",
+      "zh": "第一 第一略说品"
+    },
+    {
+      "idx": 30,
+      "pali": "Tassuddānaṃ –",
+      "zh": "其摄颂："
+    },
+    {
+      "idx": 31,
+      "pali": "Mātugāmo puriso ca, āveṇikā tidhammo ca ;",
+      "zh": "女人、男子，不共与三法，以及——",
+      "type": "verse"
+    },
+    {
+      "idx": 32,
+      "pali": "Kodhano upanāhī ca, issukī maccharena ca;",
+      "zh": "忿怒怀恨复嫉妒，悭吝不施一毫厘；",
+      "type": "verse"
+    },
+    {
+      "idx": 33,
+      "pali": "Aticārī ca dussīlo, appassuto ca kusīto;",
+      "zh": "行止放逸戒行秽，寡闻正法而懈怠；",
+      "type": "verse"
+    },
+    {
+      "idx": 34,
+      "pali": "Muṭṭhassati pañcaveraṃ, kaṇhapakkhe pakāsito.",
+      "zh": "失念与五怨，已于黑分中说明。",
+      "type": "verse"
+    },
+    {
+      "idx": 35,
+      "pali": "2. Dutiyapeyyālavaggo",
+      "zh": "第二略说品"
+    },
+    {
+      "idx": 36,
+      "pali": "1. Akkodhanasuttaṃ",
+      "zh": "1. [[akkodhanasutta|无怒经]]"
+    },
+    {
+      "idx": 37,
+      "pali": "Atha kho āyasmā anuruddho yena bhagavā tenupasaṅkami; upasaṅkamitvā…pe… ekamantaṃ nisinno kho āyasmā anuruddho bhagavantaṃ etadavoca – ‘‘idhāhaṃ, bhante, mātugāmaṃ passāmi dibbena cakkhunā visuddhena atikkantamānusakena kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjantaṃ. Katīhi nu kho, bhante, dhammehi samannāgato mātugāmo kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjatī’’ti?",
+      "zh": "那时，[[anuruddha|阿那律]]尊者来到世尊处，……在一旁坐下的[[anuruddha|阿那律]]尊者对世尊说：“尊者，我以清净、超越常人的天眼，看见有女人身坏命终后往生善趣、天界。请问，女人需要具足几法，才能在身坏命终后往生善趣、天界呢？”",
+      "n": "294"
+    },
+    {
+      "idx": 38,
+      "pali": "‘‘Pañcahi kho, anuruddha, dhammehi samannāgato mātugāmo kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjati. Katamehi pañcahi? Saddho ca hoti, hirimā ca hoti, ottappī ca hoti, akkodhano ca hoti, paññavā ca hoti – imehi kho, anuruddha, pañcahi dhammehi samannāgato mātugāmo kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjatī’’ti. Paṭhamaṃ.",
+      "zh": "“[[anuruddha|阿那律]]，具足五法的女人，身坏命终后，往生善趣、天界。哪五种法呢？有信、有惭、有愧、不忿怒、有慧。[[anuruddha|阿那律]]，具足这五法的女人，身坏命终后，往生善趣、天界。” 第一经。"
+    },
+    {
+      "idx": 39,
+      "pali": "2. Anupanāhīsuttaṃ",
+      "zh": "2. [[anupanāhīsutta|不怀恨经]]"
+    },
+    {
+      "idx": 40,
+      "pali": "‘‘Pañcahi, anuruddha, dhammehi samannāgato mātugāmo kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjati. Katamehi pañcahi? Saddho ca hoti, hirimā ca hoti, ottappī ca hoti, anupanāhī ca hoti, paññavā ca hoti – imehi kho, anuruddha, pañcahi dhammehi samannāgato mātugāmo kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjatī’’ti. Dutiyaṃ.",
+      "zh": "“[[anuruddha|阿那律]]，具足五法的女人，身坏命终之后，即往生善趣、天界。哪五种呢？有信、有惭、有愧、无恨、有慧。[[anuruddha|阿那律]]，具足这五法的女人，身坏命终之后，即往生善趣、天界。”第二经。",
+      "n": "295"
+    },
+    {
+      "idx": 41,
+      "pali": "3. Anissukīsuttaṃ",
+      "zh": "3. [[anissukīsutta|不嫉妒经]]"
+    },
+    {
+      "idx": 42,
+      "pali": "‘‘Pañcahi, anuruddha, dhammehi samannāgato mātugāmo kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjati. Katamehi pañcahi? Saddho ca hoti, hirimā ca hoti, ottappī ca hoti, anissukī ca hoti, paññavā ca hoti – imehi kho, anuruddha, pañcahi dhammehi samannāgato mātugāmo kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjatī’’ti. Tatiyaṃ.",
+      "zh": "“[[anuruddha|阿那律]]，具足五法的女人，身坏命终之后，即往生善趣、天界。哪五种呢？有信、有惭、有愧、不嫉妒、有慧。[[anuruddha|阿那律]]，具足这五法的女人，身坏命终之后，即往生善趣、天界。”第三经。",
+      "n": "296"
+    },
+    {
+      "idx": 43,
+      "pali": "4. Amaccharīsuttaṃ",
+      "zh": "4. [[amaccharīsutta|不悭吝经]]"
+    },
+    {
+      "idx": 44,
+      "pali": "Amaccharī ca hoti, paññavā ca hoti…pe…. Catutthaṃ.",
+      "zh": "她不悭吝，具足智慧……此为第四经。",
+      "n": "297"
+    },
+    {
+      "idx": 45,
+      "pali": "5. Anaticārīsuttaṃ",
+      "zh": "5. [[anaticārīsutta|不邪行经]]"
+    },
+    {
+      "idx": 46,
+      "pali": "Anaticārī ca hoti, paññavā ca hoti…pe…. Pañcamaṃ.",
+      "zh": "她有信、有惭、有愧、不邪淫、有智慧……第五经。",
+      "n": "298"
+    },
+    {
+      "idx": 47,
+      "pali": "6. Susīlasuttaṃ",
+      "zh": "6. [[susīlasutta|善戒经]]"
+    },
+    {
+      "idx": 48,
+      "pali": "Sīlavā ca hoti, paññavā ca hoti…pe…. Chaṭṭhaṃ.",
+      "zh": "她有信、有惭、有愧、持戒、有智慧……第六经。",
+      "n": "299"
+    },
+    {
+      "idx": 49,
+      "pali": "7. Bahussutasuttaṃ",
+      "zh": "7. [[bahussutasutta|多闻经]]"
+    },
+    {
+      "idx": 50,
+      "pali": "Bahussuto ca hoti, paññavā ca hoti…pe…. Sattamaṃ.",
+      "zh": "她具足多闻，亦有智慧……第七经。",
+      "n": "300"
+    },
+    {
+      "idx": 51,
+      "pali": "8. Āraddhavīriyasuttaṃ",
+      "zh": "8. [[āraddhavīriyasutta|已发精进经]]"
+    },
+    {
+      "idx": 52,
+      "pali": "Āraddhavīriyo ca hoti, paññavā ca hoti…pe…. Aṭṭhamaṃ.",
+      "zh": "精进，具足智慧……第八经。",
+      "n": "301"
+    },
+    {
+      "idx": 53,
+      "pali": "9. Upaṭṭhitassatisuttaṃ",
+      "zh": "9. [[upaṭṭhitassatisutta|念已现起经]]"
+    },
+    {
+      "idx": 54,
+      "pali": "‘‘Upaṭṭhitassati ca hoti, paññavā ca hoti – imehi kho, anuruddha, pañcahi dhammehi samannāgato mātugāmo kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjatī’’ti. Navamaṃ.",
+      "zh": "“念已现起，且有智慧——[[anuruddha|阿那律]]，具足此五法的女人，身坏命终后，往生善趣、天界。”第九经。",
+      "n": "302"
+    },
+    {
+      "idx": 55,
+      "pali": "Ime aṭṭha suttantasaṅkhepā.",
+      "zh": "此为八篇经文略摄。"
+    },
+    {
+      "idx": 56,
+      "pali": "10. Pañcasīlasuttaṃ",
+      "zh": "10. [[pañcasīlasutta|五戒经]]"
+    },
+    {
+      "idx": 57,
+      "pali": "‘‘Pañcahi, anuruddha, dhammehi samannāgato mātugāmo kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjati. Katamehi pañcahi? Pāṇātipātā paṭivirato ca hoti, adinnādānā paṭivirato ca hoti, kāmesumicchācārā paṭivirato ca hoti, musāvādā paṭivirato ca hoti, surāmerayamajjappamādaṭṭhānā paṭivirato ca hoti – imehi kho, anuruddha, pañcahi dhammehi samannāgato mātugāmo kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjatī’’ti. Dasamaṃ.",
+      "zh": "“[[anuruddha|阿那律]]，若女人具足五法，身坏命终后，当生于善趣、天界。何等为五？即：离杀生、离不与取、离欲邪行、离妄语、离谷酒、果酒及诸酒类放逸处。[[anuruddha|阿那律]]，女人若具足此五法，身坏命终后，当生于善趣、天界。”第十经。",
+      "n": "303"
+    },
+    {
+      "type": "title",
+      "idx": 58,
+      "pali": "Dutiyapeyyālavaggo.",
+      "zh": "第二略说品。"
+    },
+    {
+      "idx": 59,
+      "pali": "Tassuddānaṃ –",
+      "zh": "其摄颂："
+    },
+    {
+      "idx": 60,
+      "pali": "Dutiye ca akkodhano, anupanāhī anissukī;",
+      "zh": "于第二品，不怒、不怨、不嫉；",
+      "type": "verse"
+    },
+    {
+      "idx": 61,
+      "pali": "Amaccharī anaticārī, sīlavā ca bahussuto;",
+      "zh": "不悭、不邪，具戒且多闻；",
+      "type": "verse"
+    },
+    {
+      "idx": 62,
+      "pali": "Vīriyaṃ sati sīlañca, sukkapakkhe pakāsito.",
+      "zh": "精进、念与戒，已在白分中宣说。",
+      "type": "verse"
+    },
+    {
+      "idx": 63,
+      "pali": "3. Balavaggo",
+      "zh": "3. 力品"
+    },
+    {
+      "idx": 64,
+      "pali": "1. Visāradasuttaṃ",
+      "zh": "1. [[visāradasutta|无畏经]]"
+    },
+    {
+      "idx": 65,
+      "pali": "‘‘Pañcimāni , bhikkhave, mātugāmassa balāni. Katamāni pañca? Rūpabalaṃ, bhogabalaṃ, ñātibalaṃ, puttabalaṃ, sīlabalaṃ – imāni kho, bhikkhave, pañca mātugāmassa balāni. Imehi kho, bhikkhave, pañcahi balehi samannāgato mātugāmo visārado agāraṃ ajjhāvasatī’’ti. Paṭhamaṃ.",
+      "zh": "“诸比丘，有这五种女人之力。哪五种呢？色力、财力、亲族力、儿子力、戒力。诸比丘，这些就是女人的五种力。诸比丘，具足这五种力的女人，能无畏地在家安住。第一经。”",
+      "n": "304"
+    },
+    {
+      "idx": 66,
+      "pali": "2. Pasayhasuttaṃ",
+      "zh": "2. [[pasayhasutta|胜伏经]]"
+    },
+    {
+      "idx": 67,
+      "pali": "‘‘Pañcimāni, bhikkhave, mātugāmassa balāni. Katamāni pañca? Rūpabalaṃ, bhogabalaṃ, ñātibalaṃ, puttabalaṃ, sīlabalaṃ – imāni kho, bhikkhave, pañca mātugāmassa balāni. Imehi kho, bhikkhave, pañcahi balehi samannāgato mātugāmo sāmikaṃ pasayha agāraṃ ajjhāvasatī’’ti. Dutiyaṃ.",
+      "zh": "“比丘们，这是女人的五种力量。哪五种呢？色力、财力、亲族力、儿子力、戒力。比丘们，这就是女人的五种力量。比丘们，具备这五种力量的女人，能胜伏丈夫，安住家中。第二经。”",
+      "n": "305"
+    },
+    {
+      "idx": 68,
+      "pali": "3. Abhibhuyyasuttaṃ",
+      "zh": "3. [[abhibhuyyasutta|制伏经]]"
+    },
+    {
+      "idx": 69,
+      "pali": "‘‘Pañcimāni, bhikkhave, mātugāmassa balāni. Katamāni pañca? Rūpabalaṃ, bhogabalaṃ, ñātibalaṃ, puttabalaṃ, sīlabalaṃ – imāni kho, bhikkhave, pañca mātugāmassa balāni. Imehi kho, bhikkhave, pañcahi balehi samannāgato mātugāmo sāmikaṃ abhibhuyya vattatī’’ti. Tatiyaṃ.",
+      "zh": "“诸比丘，有五种女人之力。哪五种？色力、财力、亲族力、儿子力、戒力——诸比丘，这便是五种女人之力。诸比丘，女人若具备这五种力，便能制伏丈夫而行事。第三经。”",
+      "n": "306"
+    },
+    {
+      "idx": 70,
+      "pali": "4. Ekasuttaṃ",
+      "zh": "4. [[ekasutta|一经]]"
+    },
+    {
+      "idx": 71,
+      "pali": "‘‘Ekena ca kho, bhikkhave, balena samannāgato puriso mātugāmaṃ abhibhuyya vattati. Katamena ekena balena? Issariyabalena abhibhūtaṃ mātugāmaṃ neva rūpabalaṃ tāyati, na bhogabalaṃ tāyati, na ñātibalaṃ tāyati, na puttabalaṃ tāyati, na sīlabalaṃ tāyatī’’ti. Catutthaṃ.",
+      "zh": "“诸比丘，男子凭藉一种力量，便能制伏女人而行事。是哪一种力量呢？女人一旦被统治力所镇伏，她的色力便保护不了她，财力保护不了她，亲族力保护不了她，儿子力保护不了她，戒力也保护不了她。第四经。”",
+      "n": "307"
+    },
+    {
+      "idx": 72,
+      "pali": "5. Aṅgasuttaṃ",
+      "zh": "5. [[aṅgasutta|支经]]"
+    },
+    {
+      "idx": 73,
+      "pali": "‘‘Pañcimāni , bhikkhave, mātugāmassa balāni. Katamāni pañca? Rūpabalaṃ, bhogabalaṃ, ñātibalaṃ, puttabalaṃ, sīlabalaṃ. Rūpabalena ca, bhikkhave, mātugāmo samannāgato hoti, na ca bhogabalena – evaṃ so tenaṅgena aparipūro hoti. Yato ca kho, bhikkhave, mātugāmo rūpabalena ca samannāgato hoti, bhogabalena ca – evaṃ so tenaṅgena paripūro hoti. Rūpabalena ca, bhikkhave, mātugāmo samannāgato hoti, bhogabalena ca, na ca ñātibalena – evaṃ so tenaṅgena aparipūro hoti. Yato ca kho, bhikkhave, mātugāmo rūpabalena ca samannāgato hoti, bhogabalena ca, ñātibalena ca – evaṃ so tenaṅgena paripūro hoti. Rūpabalena ca, bhikkhave, mātugāmo samannāgato hoti, bhogabalena ca, ñātibalena ca, na ca puttabalena – evaṃ so tenaṅgena aparipūro hoti. Yato ca kho, bhikkhave, mātugāmo rūpabalena ca samannāgato hoti, bhogabalena ca, ñātibalena ca, puttabalena ca – evaṃ so tenaṅgena paripūro hoti. Rūpabalena ca, bhikkhave, mātugāmo samannāgato hoti, bhogabalena ca, ñātibalena ca, puttabalena ca, na ca sīlabalena – evaṃ so tenaṅgena aparipūro hoti. Yato ca kho, bhikkhave, mātugāmo rūpabalena ca samannāgato hoti, bhogabalena ca, ñātibalena ca, puttabalena ca, sīlabalena ca – evaṃ so tenaṅgena paripūro hoti. Imāni kho , bhikkhave, pañca mātugāmassa balānī’’ti. Pañcamaṃ.",
+      "zh": "“诸比丘，这是女人的五种力。哪五种？色力、财力、亲族力、儿子力、戒力。诸比丘，女人具备色力，但不具备财力——如此，她在那方面是不圆满的。诸比丘，当女人具备色力，也具备财力——如此，她在那方面是圆满的。诸比丘，女人具备色力，也具备财力，但不具备亲族力——如此，她在那方面是不圆满的。诸比丘，当女人具备色力，也具备财力，也具备亲族力——如此，她在那方面是圆满的。诸比丘，女人具备色力，也具备财力，也具备亲族力，但不具备儿子力——如此，她在那方面是不圆满的。诸比丘，当女人具备色力，也具备财力，也具备亲族力，也具备儿子力——如此，她在那方面是圆满的。诸比丘，女人具备色力，也具备财力，也具备亲族力，也具备儿子力，但不具备戒力——如此，她在那方面是不圆满的。诸比丘，当女人具备色力，也具备财力，也具备亲族力，也具备儿子力，也具备戒力——如此，她在那方面是圆满的。诸比丘，这是女人的五种力。”第五经。",
+      "n": "308"
+    },
+    {
+      "idx": 74,
+      "pali": "6. Nāsentisuttaṃ",
+      "zh": "6. [[nāsentisutta|驱除经]]"
+    },
+    {
+      "idx": 75,
+      "pali": "‘‘Pañcimāni, bhikkhave, mātugāmassa balāni. Katamāni pañca? Rūpabalaṃ, bhogabalaṃ, ñātibalaṃ, puttabalaṃ, sīlabalaṃ. Rūpabalena ca, bhikkhave, mātugāmo samannāgato hoti, na ca sīlabalena, nāsenteva naṃ, kule na vāsenti. Rūpabalena ca, bhikkhave, mātugāmo samannāgato hoti, bhogabalena ca, na ca sīlabalena, nāsenteva naṃ, kule na vāsenti. Rūpabalena ca, bhikkhave, mātugāmo samannāgato hoti, bhogabalena ca, ñātibalena ca, na ca sīlabalena, nāsenteva naṃ, kule na vāsenti. Rūpabalena ca, bhikkhave, mātugāmo samannāgato hoti, bhogabalena ca, ñātibalena ca , puttabalena ca, na ca sīlabalena, nāsenteva naṃ, kule na vāsenti. Sīlabalena ca, bhikkhave, mātugāmo samannāgato hoti, na ca rūpabalena, vāsenteva naṃ, kule na nāsenti. Sīlabalena ca, bhikkhave, mātugāmo samannāgato hoti, na ca bhogabalena, vāsenteva naṃ, kule na nāsenti. Sīlabalena ca, bhikkhave, mātugāmo samannāgato hoti, na ca ñātibalena, vāsenteva naṃ, kule na nāsenti. Sīlabalena ca, bhikkhave, mātugāmo samannāgato hoti, na ca puttabalena, vāsenteva naṃ, kule na nāsenti. Imāni kho, bhikkhave, pañca mātugāmassa balānī’’ti. Chaṭṭhaṃ.",
+      "zh": "“诸比丘，有这五种女人的力量。哪五种？色力、财力、亲族力、儿子力、戒力。诸比丘，若一个女人具备色力而不具备戒力，他们便不接纳她，不让她留在家中。诸比丘，若女人具备色力与财力，却不具备戒力，他们便不接纳她，不让她留在家中。诸比丘，若女人具备色力、财力与亲族力，却不具备戒力，他们便不接纳她，不让她留在家中。诸比丘，若女人具备色力、财力、亲族力与儿子力，却不具备戒力，他们便不接纳她，不让她留在家中。诸比丘，若女人具备戒力，却不具备色力，他们便会接纳她，留她住于家中。诸比丘，若女人具备戒力，却不具备财力，他们便会接纳她，留她住于家中。诸比丘，若女人具备戒力，却不具备亲族力，他们便会接纳她，留她住于家中。诸比丘，若女人具备戒力，却不具备儿子力，他们便会接纳她，留她住于家中。诸比丘，这便是女人的五种力量。第六经。”",
+      "n": "309"
+    },
+    {
+      "idx": 76,
+      "pali": "7. Hetusuttaṃ",
+      "zh": "7. [[hetusutta|因经]]"
+    },
+    {
+      "idx": 77,
+      "pali": "‘‘Pañcimāni , bhikkhave, mātugāmassa balāni. Katamāni pañca? Rūpabalaṃ, bhogabalaṃ, ñātibalaṃ, puttabalaṃ, sīlabalaṃ. Na, bhikkhave, mātugāmo rūpabalahetu vā bhogabalahetu vā ñātibalahetu vā puttabalahetu vā kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjati. Sīlabalahetu kho, bhikkhave, mātugāmo kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjati. Imāni kho, bhikkhave, pañca mātugāmassa balānī’’ti. Sattamaṃ.",
+      "zh": "“诸比丘，有这五种女人的力量。哪五种？色力、财力、亲族力、儿子力、戒力。诸比丘，女人并非因色力之故，非因财力之故，非因亲族力之故，非因儿子力之故，于身坏命终后得生善趣、天界。诸比丘，女人实因戒力之故，于身坏命终后得生善趣、天界。诸比丘，这便是女人的五种力量。第七经。”",
+      "n": "310"
+    },
+    {
+      "idx": 78,
+      "pali": "8. Ṭhānasuttaṃ",
+      "zh": "8. [[ṭhānasutta|处经]]"
+    },
+    {
+      "idx": 79,
+      "pali": "‘‘Pañcimāni , bhikkhave, ṭhānāni dullabhāni akatapuññena mātugāmena. Katamāni pañca? Patirūpe kule jāyeyyanti – idaṃ, bhikkhave, paṭhamaṃ ṭhānaṃ dullabhaṃ akatapuññena mātugāmena. Patirūpe kule jāyitvā patirūpaṃ kulaṃ gaccheyyanti – idaṃ, bhikkhave, dutiyaṃ ṭhānaṃ dullabhaṃ akatapuññena mātugāmena. Patirūpe kule jāyitvā, patirūpaṃ kulaṃ gantvā, asapatti agāraṃ ajjhāvaseyyanti – idaṃ, bhikkhave, tatiyaṃ ṭhānaṃ dullabhaṃ akatapuññena mātugāmena. Patirūpe kule jāyitvā, patirūpaṃ kulaṃ gantvā, asapatti agāraṃ ajjhāvasantī puttavatī assanti – idaṃ, bhikkhave, catutthaṃ ṭhānaṃ dullabhaṃ akatapuññena mātugāmena. Patirūpe kule jāyitvā, patirūpaṃ kulaṃ gantvā, asapatti agāraṃ ajjhāvasantī puttavatī samānā sāmikaṃ abhibhuyya vatteyyanti – idaṃ, bhikkhave, pañcamaṃ ṭhānaṃ dullabhaṃ akatapuññena mātugāmena . Imāni kho, bhikkhave, pañca ṭhānāni dullabhāni akatapuññena mātugāmenāti.",
+      "zh": "“诸比丘，对于未曾修积福德的女人，有五种情况是很难获得的。是哪五种呢？“愿我出生在合适的家庭”——诸比丘，这是未曾修积福德的女人难以获得的第一种情况。“愿我出生在合适的家庭之后，能嫁入合适的夫家”——诸比丘，这是未曾修积福德的女人难以获得的第二种情况。“愿我出生在合适的家庭，嫁入合适的夫家之后，能安居家中，不受共妻之扰”——诸比丘，这是未曾修积福德的女人难以获得的第三种情况。“愿我出生在合适的家庭，嫁入合适的夫家，安居家中、不受共妻之扰之后，能生下儿子”——诸比丘，这是未曾修积福德的女人难以获得的第四种情况。“愿我出生在合适的家庭，嫁入合适的夫家，安居家中、不受共妻之扰，生下儿子之后，能够摄御丈夫、当家作主”——诸比丘，这是未曾修积福德的女人难以获得的第五种情况。诸比丘，这些便是未曾修积福德的女人难以获得的五种情况。",
+      "n": "311"
+    },
+    {
+      "idx": 80,
+      "pali": "‘‘Pañcimāni, bhikkhave, ṭhānāni sulabhāni katapuññena mātugāmena. Katamāni pañca? Patirūpe kule jāyeyyanti – idaṃ, bhikkhave, paṭhamaṃ ṭhānaṃ sulabhaṃ katapuññena mātugāmena. Patirūpe kule jāyitvā patirūpaṃ kulaṃ gaccheyyanti – idaṃ, bhikkhave, dutiyaṃ ṭhānaṃ sulabhaṃ katapuññena mātugāmena. Patirūpe kule jāyitvā patirūpaṃ kulaṃ gantvā asapatti agāraṃ ajjhāvaseyyanti – idaṃ, bhikkhave, tatiyaṃ ṭhānaṃ sulabhaṃ katapuññena mātugāmena. Patirūpe kule jāyitvā patirūpaṃ kulaṃ gantvā asapatti agāraṃ ajjhāvasantī puttavatī assanti – idaṃ, bhikkhave, catutthaṃ ṭhānaṃ sulabhaṃ katapuññena mātugāmena. Patirūpe kule jāyitvā patirūpaṃ kulaṃ gantvā asapatti agāraṃ ajjhāvasantī puttavatī samānā sāmikaṃ abhibhuyya vatteyyanti – idaṃ, bhikkhave, pañcamaṃ ṭhānaṃ sulabhaṃ katapuññena mātugāmena. Imāni kho, bhikkhave, pañca ṭhānāni sulabhāni katapuññena mātugāmenā’’ti. Aṭṭhamaṃ.",
+      "zh": "“诸比丘，有五种事，是积集福德的女人容易获得的。哪五种呢？‘愿我生于合适的家庭’——诸比丘，这是积集福德的女人容易获得的第一事。‘愿我生于合适的家庭之后，嫁入合适的夫家’——诸比丘，这是积集福德的女人容易获得的第二事。‘愿我生于合适的家庭，嫁入合适的夫家之后，得以安住于无有敌手的家中’——诸比丘，这是积集福德的女人容易获得的第三事。‘愿我生于合适的家庭，嫁入合适的夫家，安住于无有敌手的家中，且能生育儿子’——诸比丘，这是积集福德的女人容易获得的第四事。‘愿我生于合适的家庭，嫁入合适的夫家，安住于无有敌手的家中，生育儿子之后，能够摄服丈夫、主持家事’——诸比丘，这是积集福德的女人容易获得的第五事。诸比丘，这便是积集福德的女人容易获得的五事。”第八经。"
+    },
+    {
+      "idx": 81,
+      "pali": "9. Pañcasīlavisāradasuttaṃ",
+      "zh": "9. [[pañcasīlavisāradasutta|五戒无畏经]]"
+    },
+    {
+      "idx": 82,
+      "pali": "‘‘Pañcahi, bhikkhave, dhammehi samannāgato mātugāmo visārado agāraṃ ajjhāvasati. Katamehi pañcahi? Pāṇātipātā paṭivirato ca hoti, adinnādānā paṭivirato ca hoti, kāmesumicchācārā paṭivirato ca hoti, musāvādā paṭivirato ca hoti , surāmerayamajjappamādaṭṭhānā paṭivirato ca hoti – imehi kho, bhikkhave, pañcahi dhammehi samannāgato mātugāmo visārado agāraṃ ajjhāvasatī’’ti. Navamaṃ.",
+      "zh": "“诸比丘，具足五法的女子，能自信地安住在家中。是哪五法呢？她远离杀生，远离不与取，远离邪淫，远离妄语，远离饮酒等导致放逸之事。诸比丘，女子具足这五法，便能自信地安住于家中。”第九经。",
+      "n": "312"
+    },
+    {
+      "idx": 83,
+      "pali": "10. Vaḍḍhīsuttaṃ",
+      "zh": "10. [[vaḍḍhīsutta|增长经]]"
+    },
+    {
+      "idx": 84,
+      "pali": "‘‘Pañcahi, bhikkhave, vaḍḍhīhi vaḍḍhamānā ariyasāvikā ariyāya vaḍḍhiyā vaḍḍhati sārādāyinī ca hoti varādāyinī ca kāyassa. Katamehi pañcahi? Saddhāya vaḍḍhati, sīlena vaḍḍhati, sutena vaḍḍhati, cāgena vaḍḍhati, paññāya vaḍḍhati – imehi kho, bhikkhave, pañcahi vaḍḍhīhi vaḍḍhamānā ariyasāvikā ariyāya vaḍḍhiyā vaḍḍhati, sārādāyinī ca hoti, varādāyinī ca kāyassā’’ti.",
+      "zh": "“诸比丘，圣弟子女若依五种增长而增长，便是依圣者的增长而增长，她即把握了生命的精髓与最殊胜的义利。哪五种？她增长于信，增长于戒，增长于多闻，增长于施舍，增长于智慧。诸比丘，圣弟子女若依此五种增长而增长，便是依圣者的增长而增长，她即把握了生命的精髓与最殊胜的义利。”",
+      "n": "313"
+    },
+    {
+      "idx": 85,
+      "pali": "‘‘Saddhāya sīlena ca yādha vaḍḍhati,",
+      "zh": "“她增长于信与戒，”",
+      "type": "verse"
+    },
+    {
+      "idx": 86,
+      "pali": "Paññāya cāgena sutena cūbhayaṃ;",
+      "zh": "增长于慧，以及施舍与多闻二者；",
+      "type": "verse"
+    },
+    {
+      "idx": 87,
+      "pali": "Sā tādisī sīlavatī upāsikā,",
+      "zh": "如是具戒的近事女，",
+      "type": "verse"
+    },
+    {
+      "idx": 88,
+      "pali": "Ādīyati sāramidheva attano’’ti. dasamaṃ;",
+      "zh": "她即于此世，为自己取得了精髓。第十经。",
+      "type": "verse"
+    },
+    {
+      "idx": 89,
+      "pali": "Balavaggo tatiyo.",
+      "zh": "力品第三。"
+    },
+    {
+      "idx": 90,
+      "pali": "Tassuddānaṃ –",
+      "zh": "其摄颂："
+    },
+    {
+      "idx": 91,
+      "pali": "Visāradā pasayha abhibhuyya, ekaṃ aṅgena pañcamaṃ;",
+      "zh": "无畏、制胜、征服，一与支分第五。",
+      "type": "verse"
+    },
+    {
+      "idx": 92,
+      "pali": "Nāsenti hetu ṭhānañca, visārado vaḍḍhinā dasāti.",
+      "zh": "驱逐、因与住处，无畏与增长，合为十经。",
+      "type": "verse"
+    },
+    {
+      "idx": 93,
+      "pali": "Mātugāmasaṃyuttaṃ samattaṃ.",
+      "zh": "妇女相应终"
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+ "uid": 125,
+ "title": "11. 三法品",
+ "nik": "AN",
+ "segs": [
+  {
+   "idx": 0,
+   "pali": "11. Tikavaggo",
+   "zh": "11. 三法品"
+  },
+  {
+   "idx": 1,
+   "pali": "1. Rāgasuttaṃ",
+   "zh": "1. [[rāgasutta|贪经]]"
+  },
+  {
+   "idx": 2,
+   "pali": "‘‘Tayome , bhikkhave, dhammā. Katame tayo? Rāgo, doso, moho. Ime kho, bhikkhave, tayo dhammā. Imesaṃ kho, bhikkhave, tiṇṇaṃ dhammānaṃ pahānāya tayo dhammā bhāvetabbā. Katame tayo? Rāgassa pahānāya asubhā bhāvetabbā, dosassa pahānāya mettā bhāvetabbā, mohassa pahānāya paññā bhāvetabbā. Imesaṃ kho, bhikkhave, tiṇṇaṃ dhammānaṃ pahānāya ime tayo dhammā bhāvetabbā’’ti. Paṭhamaṃ.",
+   "zh": "“诸比丘，有此三法。哪三种？贪、嗔、痴。诸比丘，这便是三法。诸比丘，为舍断此三法，应修习三法。哪三种？为舍断贪，应修习不净；为舍断嗔，应修习慈；为舍断痴，应修习慧。诸比丘，为舍断此三法，当修此三法。第一。”",
+   "n": "107"
+  },
+  {
+   "idx": 3,
+   "pali": "2. Duccaritasuttaṃ",
+   "zh": "2. [[duccaritasutta|恶行经]]"
+  },
+  {
+   "idx": 4,
+   "pali": "‘‘Tayome, bhikkhave, dhammā. Katame tayo? Kāyaduccaritaṃ, vacīduccaritaṃ, manoduccaritaṃ. Ime kho, bhikkhave, tayo dhammā. Imesaṃ kho, bhikkhave, tiṇṇaṃ dhammānaṃ pahānāya tayo dhammā bhāvetabbā. Katame tayo? Kāyaduccaritassa pahānāya kāyasucaritaṃ bhāvetabbaṃ, vacīduccaritassa pahānāya vacīsucaritaṃ bhāvetabbaṃ, manoduccaritassa pahānāya manosucaritaṃ bhāvetabbaṃ. Imesaṃ kho, bhikkhave, tiṇṇaṃ dhammānaṃ pahānāya ime tayo dhammā bhāvetabbā’’ti. Dutiyaṃ.",
+   "zh": "“诸比丘，有此三法。哪三种呢？身恶行、语恶行、意恶行。诸比丘，这便是三法。诸比丘，为断除这三法，应当修习三法。哪三种呢？为断除身恶行，应修习身善行；为断除语恶行，应修习语善行；为断除意恶行，应修习意善行。诸比丘，为断除这三法，应当修习这三法。第二。”",
+   "n": "108"
+  },
+  {
+   "idx": 5,
+   "pali": "3. Vitakkasuttaṃ",
+   "zh": "3. [[vitakkasutta|寻经]]"
+  },
+  {
+   "idx": 6,
+   "pali": "‘‘Tayome, bhikkhave, dhammā. Katame tayo? Kāmavitakko, byāpādavitakko, vihiṃsāvitakko. Ime kho, bhikkhave, tayo dhammā. Imesaṃ kho, bhikkhave, tiṇṇaṃ dhammānaṃ pahānāya tayo dhammā bhāvetabbā. Katame tayo? Kāmavitakkassa pahānāya nekkhammavitakko bhāvetabbo, byāpādavitakkassa pahānāya abyāpādavitakko bhāvetabbo, vihiṃsāvitakkassa pahānāya avihiṃsāvitakko bhāvetabbo. Imesaṃ kho, bhikkhave, tiṇṇaṃ dhammānaṃ pahānāya ime tayo dhammā bhāvetabbā’’ti. Tatiyaṃ.",
+   "zh": "“诸比丘，有三种法。哪三种？欲寻、恚寻、害寻。诸比丘，这便是三种法。诸比丘，为了断除这三种法，应当修习三种法。哪三种？为了断除欲寻，应当修习出离寻；为了断除恚寻，应当修习无恚寻；为了断除害寻，应当修习无害寻。诸比丘，为了断除这三种法，应当修习这三种法。第三。”",
+   "n": "109"
+  },
+  {
+   "idx": 7,
+   "pali": "4. Saññāsuttaṃ",
+   "zh": "4. [[saññāsutta|想经]]"
+  },
+  {
+   "idx": 8,
+   "pali": "‘‘Tayome , bhikkhave, dhammā. Katame tayo? Kāmasaññā, byāpādasaññā, vihiṃsāsaññā. Ime kho, bhikkhave, tayo dhammā. Imesaṃ kho, bhikkhave, tiṇṇaṃ dhammānaṃ pahānāya tayo dhammā bhāvetabbā. Katame tayo? Kāmasaññāya pahānāya nekkhammasaññā bhāvetabbā, byāpādasaññāya pahānāya abyāpādasaññā bhāvetabbā, vihiṃsāsaññāya pahānāya avihiṃsāsaññā bhāvetabbā. Imesaṃ kho, bhikkhave, tiṇṇaṃ dhammānaṃ pahānāya ime tayo dhammā bhāvetabbā’’ti. Catutthaṃ.",
+   "zh": "“诸比丘，有三种法。哪三种？欲想、恚想、害想。诸比丘，这便是三种法。诸比丘，为了断除这三种法，应当修习三种法。哪三种？为了断除欲想，应当修习出离想；为了断除恚想，应当修习无恚想；为了断除害想，应当修习无害想。诸比丘，为了断除这三种法，应当修习这三种法。第四。”",
+   "n": "110"
+  },
+  {
+   "idx": 9,
+   "pali": "5. Dhātusuttaṃ",
+   "zh": "5. [[dhātusutta|界经]]"
+  },
+  {
+   "idx": 10,
+   "pali": "‘‘Tayome, bhikkhave, dhammā. Katame tayo? Kāmadhātu, byāpādadhātu, vihiṃsādhātu. Ime kho, bhikkhave, tayo dhammā. Imesaṃ kho, bhikkhave, tiṇṇaṃ dhammānaṃ pahānāya tayo dhammā bhāvetabbā. Katame tayo? Kāmadhātuyā pahānāya nekkhammadhātu bhāvetabbā, byāpādadhātuyā pahānāya abyāpādadhātu bhāvetabbā, vihiṃsādhātuyā pahānāya avihiṃsādhātu bhāvetabbā. Imesaṃ kho, bhikkhave, tiṇṇaṃ dhammānaṃ pahānāya ime tayo dhammā bhāvetabbā’’ti. Pañcamaṃ.",
+   "zh": "“诸比丘，有此三法。何等为三？欲界、嗔恚界、害界。诸比丘，这便是三法。为断此三法，当修三法。何等为三？为断欲界，当修出离界；为断嗔恚界，当修无嗔恚界；为断害界，当修无害界。诸比丘，为断此三法，当修此三法。第五。”",
+   "n": "111"
+  },
+  {
+   "idx": 11,
+   "pali": "6. Assādasuttaṃ",
+   "zh": "6. [[assādasutta|味经]]"
+  },
+  {
+   "idx": 12,
+   "pali": "‘‘Tayome, bhikkhave, dhammā. Katame tayo? Assādadiṭṭhi, attānudiṭṭhi, micchādiṭṭhi. Ime kho, bhikkhave, tayo dhammā. Imesaṃ kho , bhikkhave, tiṇṇaṃ dhammānaṃ pahānāya tayo dhammā bhāvetabbā. Katame tayo? Assādadiṭṭhiyā pahānāya aniccasaññā bhāvetabbā, attānudiṭṭhiyā pahānāya anattasaññā bhāvetabbā, micchādiṭṭhiyā pahānāya sammādiṭṭhi bhāvetabbā . Imesaṃ kho, bhikkhave, tiṇṇaṃ dhammānaṃ pahānāya ime tayo dhammā bhāvetabbā’’ti. Chaṭṭhaṃ.",
+   "zh": "“诸比丘，有此三法。哪三种呢？味着见、我随见、邪见。诸比丘，这便是三法。诸比丘，为断除此三法，应修习三法。哪三种呢？为断除味着见，应修习无常想；为断除我随见，应修习无我想；为断除邪见，应修习正见。诸比丘，为断除此三法，应修习此三法。”第六。",
+   "n": "112"
+  },
+  {
+   "idx": 13,
+   "pali": "7. Aratisuttaṃ",
+   "zh": "7. [[aratisutta|不乐经]]"
+  },
+  {
+   "idx": 14,
+   "pali": "‘‘Tayome , bhikkhave, dhammā. Katame tayo? Arati, vihiṃsā , adhammacariyā. Ime kho, bhikkhave, tayo dhammā. Imesaṃ kho, bhikkhave, tiṇṇaṃ dhammānaṃ pahānāya tayo dhammā bhāvetabbā. Katame tayo? Aratiyā pahānāya muditā bhāvetabbā, vihiṃsāya pahānāya avihiṃsā bhāvetabbā, adhammacariyāya pahānāya dhammacariyā bhāvetabbā. Imesaṃ kho, bhikkhave, tiṇṇaṃ dhammānaṃ pahānāya ime tayo dhammā bhāvetabbā’’ti. Sattamaṃ.",
+   "zh": "“诸比丘，有此三法。哪三种呢？不乐、害、非法行。诸比丘，这便是三法。诸比丘，为断除此三法，应修习三法。哪三种呢？为断除不乐，应修习随喜；为断除害，应修习不害；为断除非法行，应修习法行。诸比丘，为断除此三法，应修习此三法。”第七。",
+   "n": "113"
+  },
+  {
+   "idx": 15,
+   "pali": "8. Santuṭṭhitāsuttaṃ",
+   "zh": "8. [[santuṭṭhitāsutta|知足经]]"
+  },
+  {
+   "idx": 16,
+   "pali": "‘‘Tayome, bhikkhave, dhammā. Katame tayo? Asantuṭṭhitā, asampajaññaṃ, mahicchatā. Ime kho, bhikkhave, tayo dhammā. Imesaṃ kho, bhikkhave, tiṇṇaṃ dhammānaṃ pahānāya tayo dhammā bhāvetabbā. Katame tayo? Asantuṭṭhitāya pahānāya santuṭṭhitā bhāvetabbā, asampajaññassa pahānāya sampajaññaṃ bhāvetabbaṃ, mahicchatāya pahānāya appicchatā bhāvetabbā. Imesaṃ kho, bhikkhave, tiṇṇaṃ dhammānaṃ pahānāya ime tayo dhammā bhāvetabbā’’ti. Aṭṭhamaṃ.",
+   "zh": "“诸比丘，有三法。哪三法？不知足、不正知、多欲。诸比丘，这便是三法。诸比丘，为断此三法，当修三法。哪三法？为断不知足，当修知足；为断不正知，当修正知；为断多欲，当修少欲。诸比丘，为断此三法，当修此三法。第八。”",
+   "n": "114"
+  },
+  {
+   "idx": 17,
+   "pali": "9. Dovacassatāsuttaṃ",
+   "zh": "9. [[dovacassatāsutta|难劝经]]"
+  },
+  {
+   "idx": 18,
+   "pali": "‘‘Tayome, bhikkhave, dhammā. Katame tayo? Dovacassatā, pāpamittatā, cetaso vikkhepo. Ime kho, bhikkhave, tayo dhammā. Imesaṃ kho, bhikkhave, tiṇṇaṃ dhammānaṃ pahānāya tayo dhammā bhāvetabbā. Katame tayo? Dovacassatāya pahānāya sovacassatā bhāvetabbā, pāpamittatāya pahānāya kalyāṇamittatā bhāvetabbā, cetaso vikkhepassa pahānāya ānāpānassati bhāvetabbā. Imesaṃ kho, bhikkhave, tiṇṇaṃ dhammānaṃ pahānāya ime tayo dhammā bhāvetabbā’’ti. Navamaṃ.",
+   "zh": "“诸比丘，有这三种法。是哪三种呢？难劝、恶友、心散乱。诸比丘，这便是三种法。诸比丘，为断除此三法，当修习三法。是哪三法呢？为断难劝，当修习易劝；为断恶友，当修习善友；为断心散乱，当修习入出息念。诸比丘，为断此三法，当修习此三法。”第九",
+   "n": "115"
+  },
+  {
+   "idx": 19,
+   "pali": "10. Uddhaccasuttaṃ",
+   "zh": "10. [[uddhaccasutta|掉举经]]"
+  },
+  {
+   "idx": 20,
+   "pali": "‘‘Tayome , bhikkhave, dhammā. Katame tayo? Uddhaccaṃ, asaṃvaro, pamādo. Ime kho, bhikkhave, tayo dhammā. Imesaṃ kho, bhikkhave, tiṇṇaṃ dhammānaṃ pahānāya tayo dhammā bhāvetabbā. Katame tayo? Uddhaccassa pahānāya samatho bhāvetabbo, asaṃvarassa pahānāya saṃvaro bhāvetabbo, pamādassa pahānāya appamādo bhāvetabbo. Imesaṃ kho, bhikkhave, tiṇṇaṃ dhammānaṃ pahānāya ime tayo dhammā bhāvetabbā’’ti. Dasamaṃ.",
+   "zh": "“诸比丘，有这三种法。是哪三种呢？掉举、不防护、放逸。诸比丘，这便是三种法。诸比丘，为断除此三法，当修习三法。是哪三法呢？为断掉举，当修习止；为断不防护，当修习防护；为断放逸，当修习不放逸。诸比丘，为断此三法，当修习此三法。”第十",
+   "n": "116"
+  },
+  {
+   "idx": 21,
+   "pali": "Tikavaggo ekādasamo.",
+   "zh": "三法品第十一"
+  },
+  {
+   "idx": 22,
+   "pali": "Tassuddānaṃ –",
+   "zh": "其摄颂："
+  },
+  {
+   "idx": 23,
+   "pali": "Rāgaduccaritavitakka, saññā dhātūti vuccati;",
+   "zh": "贪、恶行、寻、想、界，如是所说。",
+   "type": "verse"
+  },
+  {
+   "idx": 24,
+   "pali": "Assādaaratituṭṭhi, duve ca uddhaccena vaggoti.",
+   "zh": "味、不乐、满足，及二掉举品",
+   "type": "verse"
+  }
+ ]
+}

@@ -1,0 +1,184 @@
+{
+ "uid": 122,
+ "title": "8. 阿拉汉品",
+ "nik": "AN",
+ "segs": [
+  {
+   "idx": 0,
+   "pali": "8. Arahattavaggo",
+   "zh": "8. 阿拉汉品"
+  },
+  {
+   "idx": 1,
+   "pali": "1. Dukkhasuttaṃ",
+   "zh": "1. [[dukkhasutta|苦经]]"
+  },
+  {
+   "idx": 2,
+   "pali": "‘‘Chahi , bhikkhave, dhammehi samannāgato bhikkhu diṭṭheva dhamme dukkhaṃ viharati savighātaṃ saupāyāsaṃ sapariḷāhaṃ, kāyassa bhedā paraṃ maraṇā duggati pāṭikaṅkhā. Katamehi chahi? Kāmavitakkena, byāpādavitakkena, vihiṃsāvitakkena, kāmasaññāya, byāpādasaññāya, vihiṃsāsaññāya – imehi, kho, bhikkhave, chahi dhammehi samannāgato bhikkhu diṭṭheva dhamme dukkhaṃ viharati savighātaṃ saupāyāsaṃ sapariḷāhaṃ, kāyassa bhedā paraṃ maraṇā duggati pāṭikaṅkhā.",
+   "zh": "“诸比丘，具足六法的比丘，在现法中住于苦，有恼害、有忧恼、有热恼，身坏命终后，可预期恶趣。哪六法？即：欲寻、嗔寻、害寻，欲想、嗔想、害想。诸比丘，具足此六法者，在现法中住于苦，有恼害、有忧恼、有热恼，身坏命终后，可预期恶趣。”",
+   "n": "75"
+  },
+  {
+   "idx": 3,
+   "pali": "‘‘Chahi , bhikkhave, dhammehi samannāgato bhikkhu diṭṭheva dhamme sukhaṃ viharati avighātaṃ anupāyāsaṃ apariḷāhaṃ, kāyassa bhedā paraṃ maraṇā sugati pāṭikaṅkhā. Katamehi chahi? Nekkhammavitakkena, abyāpādavitakkena, avihiṃsāvitakkena, nekkhammasaññāya, abyāpādasaññāya, avihiṃsāsaññāya – imehi, kho, bhikkhave, chahi dhammehi samannāgato bhikkhu diṭṭheva dhamme sukhaṃ viharati avighātaṃ anupāyāsaṃ apariḷāhaṃ, kāyassa bhedā paraṃ maraṇā sugati pāṭikaṅkhā’’ti. Paṭhamaṃ.",
+   "zh": "“诸比丘！具足六法的比丘，于现法住于安乐，无有恼害、无忧愁、无热恼，身坏命终之后，可期待生于善趣。哪六种？出离寻、无嗔恚寻、无害寻、出离想、无嗔想、无害想。诸比丘！具足此六法的比丘，于现法住于安乐，无有恼害、无忧愁、无热恼，身坏命终之后，可期待生于善趣。”"
+  },
+  {
+   "idx": 4,
+   "pali": "2. Arahattasuttaṃ",
+   "zh": "2. [[arahattasutta|阿拉汉果经]]"
+  },
+  {
+   "idx": 5,
+   "pali": "‘‘Cha , bhikkhave, dhamme appahāya abhabbo arahattaṃ sacchikātuṃ. Katame cha? Mānaṃ, omānaṃ, atimānaṃ, adhimānaṃ, thambhaṃ, atinipātaṃ. Ime kho, bhikkhave, cha dhamme appahāya abhabbo arahattaṃ sacchikātuṃ.",
+   "zh": "“诸比丘！若不舍断六法，则不能证得阿拉汉果。哪六种？慢、卑慢、过慢、增上慢、顽固、过度卑屈。诸比丘！若不舍断此六法，则不能证得阿拉汉果。”",
+   "n": "76"
+  },
+  {
+   "idx": 6,
+   "pali": "‘‘Cha, bhikkhave, dhamme pahāya bhabbo arahattaṃ sacchikātuṃ. Katame cha? Mānaṃ, omānaṃ , atimānaṃ, adhimānaṃ, thambhaṃ, atinipātaṃ. Ime kho, bhikkhave, cha dhamme pahāya bhabbo arahattaṃ sacchikātu’’nti. Dutiyaṃ.",
+   "zh": "“诸比丘！若舍断六法，便能证得阿拉汉果。哪六法？慢、卑慢、过慢、增上慢、顽固、过度卑屈。诸比丘！依此舍断六法，能证阿拉汉果。”第二"
+  },
+  {
+   "idx": 7,
+   "pali": "3. Uttarimanussadhammasuttaṃ",
+   "zh": "3. [[uttarimanussadhammasutta|上人法经]]"
+  },
+  {
+   "idx": 8,
+   "pali": "‘‘Cha, bhikkhave, dhamme appahāya abhabbo uttarimanussadhammaṃ alamariyañāṇadassanavisesaṃ sacchikātuṃ. Katame cha? Muṭṭhassaccaṃ, asampajaññaṃ, indriyesu aguttadvārataṃ, bhojane amattaññutaṃ, kuhanaṃ, lapanaṃ. Ime kho, bhikkhave, cha dhamme appahāya abhabbo uttarimanussadhammaṃ alamariyañāṇadassanavisesaṃ sacchikātuṃ.",
+   "zh": "“诸比丘！若不舍断六法，则不能证得上人法、堪为圣者的智见殊胜。哪六法？失念、不正知、不守护根门、于食不知量、诡诈、虚谈。诸比丘！若不舍断此六法，则不能证得上人法、堪为圣者的智见殊胜。”",
+   "n": "77"
+  },
+  {
+   "idx": 9,
+   "pali": "‘‘Cha, bhikkhave, dhamme pahāya bhabbo uttarimanussadhammaṃ alamariyañāṇadassanavisesaṃ sacchikātuṃ. Katame cha? Muṭṭhassaccaṃ, asampajaññaṃ, indriyesu aguttadvārataṃ, bhojane amattaññutaṃ, kuhanaṃ, lapanaṃ. Ime kho, bhikkhave, cha dhamme pahāya bhabbo uttarimanussadhammaṃ alamariyañāṇadassanavisesaṃ sacchikātu’’nti. Tatiyaṃ.",
+   "zh": "“诸比丘！若能舍断六法，便能证得上人之法，成就足堪圣者的智见殊胜。哪六种？失念、不正知、不守护诸根门、于食不知量、诡诈、虚谈。诸比丘！若能舍断这六种法，便能证得上人之法，成就足堪圣者的智见殊胜。”第三经。"
+  },
+  {
+   "idx": 10,
+   "pali": "4. Sukhasomanassasuttaṃ",
+   "zh": "4. [[sukhasomanassasutta|乐与喜悦经]]"
+  },
+  {
+   "idx": 11,
+   "pali": "‘‘Chahi , bhikkhave, dhammehi samannāgato bhikkhu diṭṭheva dhamme sukhasomanassabahulo viharati, yoni cassa āraddhā hoti āsavānaṃ khayāya. Katamehi chahi? Idha, bhikkhave, bhikkhu dhammārāmo hoti, bhāvanārāmo hoti, pahānārāmo hoti, pavivekārāmo hoti , abyāpajjhārāmo hoti, nippapañcārāmo hoti. Imehi kho, bhikkhave, chahi dhammehi samannāgato bhikkhu diṭṭheva dhamme sukhasomanassabahulo viharati, yoni cassa āraddhā hoti āsavānaṃ khayāyā’’ti. Catutthaṃ.",
+   "zh": "“诸比丘！具足六法的比丘，于现法中多住于乐与喜悦，且已为诸漏的灭尽发起了正因。哪六种？诸比丘！于此，比丘乐于法、乐于修习、乐于舍断、乐于远离、乐于无恼害、乐于无戏论。诸比丘！具足这六法的比丘，于现法中多住于乐与喜悦，且已为诸漏的灭尽发起了正因。”第四经。",
+   "n": "78"
+  },
+  {
+   "idx": 12,
+   "pali": "5. Adhigamasuttaṃ",
+   "zh": "5. [[adhigamasutta|证得经]]"
+  },
+  {
+   "idx": 13,
+   "pali": "‘‘Chahi, bhikkhave, dhammehi samannāgato bhikkhu abhabbo anadhigataṃ vā kusalaṃ dhammaṃ adhigantuṃ, adhigataṃ vā kusalaṃ dhammaṃ phātiṃ kātuṃ . Katamehi chahi? Idha, bhikkhave, bhikkhu na āyakusalo ca hoti, na apāyakusalo ca hoti, na upāyakusalo ca hoti, anadhigatānaṃ kusalānaṃ dhammānaṃ adhigamāya na chandaṃ janeti, adhigate kusale dhamme na ārakkhati , sātaccakiriyāya na sampādeti. Imehi kho, bhikkhave, chahi dhammehi samannāgato bhikkhu abhabbo anadhigataṃ vā kusalaṃ dhammaṃ adhigantuṃ, adhigataṃ vā kusalaṃ dhammaṃ phātiṃ kātuṃ.",
+   "zh": "“比丘们，具足六法的比丘，不能证得未证得的善法，也不能令已证得的善法增长。哪六种呢？比丘们，在此，比丘于增益不善巧，于损减不善巧，于方便不善巧，对未证得的诸善法不生起欲求，对已证得的诸善法不加守护，不恒常精勤修习。比丘们，具足这六法的比丘，不能证得未证得的善法，也不能令已证得的善法增长。”",
+   "n": "79"
+  },
+  {
+   "idx": 14,
+   "pali": "‘‘Chahi , bhikkhave, dhammehi samannāgato bhikkhu bhabbo anadhigataṃ vā kusalaṃ dhammaṃ adhigantuṃ, adhigataṃ vā kusalaṃ dhammaṃ phātiṃ kātuṃ. Katamehi chahi? Idha, bhikkhave, bhikkhu āyakusalo ca hoti, apāyakusalo ca hoti, upāyakusalo ca hoti, anadhigatānaṃ kusalānaṃ dhammānaṃ adhigamāya chandaṃ janeti, adhigate kusale dhamme ārakkhati, sātaccakiriyāya sampādeti. Imehi kho, bhikkhave, chahi dhammehi samannāgato bhikkhu bhabbo anadhigataṃ vā kusalaṃ dhammaṃ adhigantuṃ, adhigataṃ vā kusalaṃ dhammaṃ phātiṃ kātu’’nti. Pañcamaṃ.",
+   "zh": "“比丘们，具足六法的比丘，能够证得未证得的善法，也能够令已证得的善法增长。哪六种呢？比丘们，在此，比丘于增益善巧，于损减善巧，于方便善巧，对未证得的诸善法生起欲求，守护已证得的诸善法，恒常精勤修习。比丘们，具足这六法的比丘，能够证得未证得的善法，也能够令已证得的善法增长。第五经。"
+  },
+  {
+   "idx": 15,
+   "pali": "6. Mahantattasuttaṃ",
+   "zh": "6. [[mahantattasutta|广大性经]]"
+  },
+  {
+   "idx": 16,
+   "pali": "‘‘Chahi, bhikkhave, dhammehi samannāgato bhikkhu nacirasseva mahantattaṃ vepullattaṃ pāpuṇāti dhammesu. Katamehi chahi? Idha, bhikkhave, bhikkhu ālokabahulo ca hoti yogabahulo ca vedabahulo ca asantuṭṭhibahulo ca anikkhittadhuro ca kusalesu dhammesu uttari ca patāreti . Imehi kho, bhikkhave, chahi dhammehi samannāgato bhikkhu nacirasseva mahantattaṃ vepullattaṃ pāpuṇāti dhammesū’’ti. Chaṭṭhaṃ.",
+   "zh": "“诸比丘，具足六法的比丘，不久即于诸法中得达广大、增盛。哪六种呢？诸比丘，于此，比丘多行光明，多修瑜伽，多生智悦，多不满足，于诸善法不舍重担，更向上精进。诸比丘，具足此六法的比丘，不久即于诸法中得达广大、增盛。”第六经。",
+   "n": "80"
+  },
+  {
+   "idx": 17,
+   "pali": "7. Paṭhamanirayasuttaṃ",
+   "zh": "7. [[paṭhamanirayasutta|第一地狱经]]"
+  },
+  {
+   "idx": 18,
+   "pali": "‘‘Chahi , bhikkhave, dhammehi samannāgato yathābhataṃ nikkhitto evaṃ niraye. Katamehi chahi? Pāṇātipātī hoti, adinnādāyī hoti, kāmesumicchācārī hoti, musāvādī hoti, pāpiccho ca, micchādiṭṭhi ca. Imehi kho, bhikkhave, chahi dhammehi samannāgato yathābhataṃ nikkhitto evaṃ niraye.",
+   "zh": "“诸比丘，具足六法者，如同被搬去投入地狱一般。哪六法呢？杀生、不与取、欲邪行、妄语、恶欲，以及邪见。诸比丘，正是具足这六法者，如同被搬去投入地狱一般。",
+   "n": "81"
+  },
+  {
+   "idx": 19,
+   "pali": "‘‘Chahi , bhikkhave, dhammehi samannāgato yathābhataṃ nikkhitto evaṃ sagge. Katamehi chahi? Pāṇātipātā paṭivirato hoti, adinnādānā paṭivirato hoti , kāmesumicchācārā paṭivirato hoti, musāvādā paṭivirato hoti, appiccho ca, sammādiṭṭhi ca. Imehi kho, bhikkhave, chahi dhammehi samannāgato yathābhataṃ nikkhitto evaṃ sagge’’ti. Sattamaṃ.",
+   "zh": "“诸比丘，具足六法者，如同被搬去升入天界一般。哪六法呢？离杀生、离不与取、离欲邪行、离妄语、少欲，以及正见。诸比丘，正是具足这六法者，如同被搬去升入天界一般。” 第七经"
+  },
+  {
+   "idx": 20,
+   "pali": "8. Dutiyanirayasuttaṃ",
+   "zh": "8. [[dutiyanirayasutta|第二地狱经]]"
+  },
+  {
+   "idx": 21,
+   "pali": "‘‘Chahi , bhikkhave, dhammehi samannāgato yathābhataṃ nikkhitto evaṃ niraye. Katamehi chahi ? Pāṇātipātī hoti, adinnādāyī hoti, kāmesumicchācārī hoti, musāvādī hoti , luddho ca, pagabbho ca. Imehi kho, bhikkhave, chahi dhammehi samannāgato yathābhataṃ nikkhitto evaṃ niraye.",
+   "zh": "“诸比丘，具足六法者，犹如被带来投入地狱。哪六法呢？即杀生、不与取、欲邪行、妄语、贪婪与傲慢。诸比丘，具足此六法者，犹如被带来投入地狱。",
+   "n": "82"
+  },
+  {
+   "idx": 22,
+   "pali": "‘‘Chahi, bhikkhave, dhammehi samannāgato yathābhataṃ nikkhitto evaṃ sagge. Katamehi chahi? Pāṇātipātā paṭivirato hoti, adinnādānā paṭivirato hoti, kāmesumicchācārā paṭivirato hoti, musāvādā paṭivirato hoti, aluddho ca, appagabbho ca. Imehi kho bhikkhave chahi dhammehi samannāgato yathābhataṃ nikkhitto evaṃ sagge’’ti. Aṭṭhamaṃ.",
+   "zh": "“诸比丘，具足六法者，犹如被带来投入天界。哪六法呢？即离杀生、离不与取、离欲邪行、离妄语、不贪婪、不傲慢。诸比丘，具足此六法者，犹如被带来投入天界。”第八经。"
+  },
+  {
+   "idx": 23,
+   "pali": "9. Aggadhammasuttaṃ",
+   "zh": "9. [[aggadhammasutta|最上法经]]"
+  },
+  {
+   "idx": 24,
+   "pali": "‘‘Chahi, bhikkhave, dhammehi samannāgato bhikkhu abhabbo aggaṃ dhammaṃ arahattaṃ sacchikātuṃ. Katamehi chahi? Idha, bhikkhave, bhikkhu assaddho hoti, ahiriko hoti, anottappī hoti, kusīto hoti, duppañño hoti, kāye ca jīvite ca sāpekkho hoti. Imehi kho, bhikkhave, chahi dhammehi samannāgato bhikkhu abhabbo aggaṃ dhammaṃ arahattaṃ sacchikātuṃ.",
+   "zh": "“诸比丘，具足六法的比丘，不能证悟最上法——阿拉汉果。哪六种呢？诸比丘，于此，比丘无信、无惭、无愧、懈怠、慧劣，并于身命有所贪着。诸比丘，具足此六法的比丘，不能证悟最上法——阿拉汉果。",
+   "n": "83"
+  },
+  {
+   "idx": 25,
+   "pali": "‘‘Chahi, bhikkhave, dhammehi samannāgato bhikkhu bhabbo aggaṃ dhammaṃ arahattaṃ sacchikātuṃ. Katamehi chahi? Idha , bhikkhave, bhikkhu saddho hoti, hirimā hoti, ottappī hoti, āraddhavīriyo hoti, paññavā hoti, kāye ca jīvite ca anapekkho hoti. Imehi kho, bhikkhave , chahi dhammehi samannāgato bhikkhu bhabbo aggaṃ dhammaṃ arahattaṃ sacchikātu’’nti. Navamaṃ.",
+   "zh": "“诸比丘，具足六法的比丘，能证悟最上法——阿拉汉果。哪六种呢？诸比丘，于此，比丘有信、有惭、有愧、精进、具慧，并于身命无所贪着。诸比丘，具足此六法的比丘，便能证悟最上法——阿拉汉果。”第九经。"
+  },
+  {
+   "idx": 26,
+   "pali": "10. Rattidivasasuttaṃ",
+   "zh": "10. [[rattidivasasutta|昼夜经]]"
+  },
+  {
+   "idx": 27,
+   "pali": "‘‘Chahi, bhikkhave, dhammehi samannāgatassa bhikkhuno yā ratti vā divaso vā āgacchati hāniyeva pāṭikaṅkhā kusalesu dhammesu, no vuddhi. Katamehi chahi? Idha, bhikkhave, bhikkhu mahiccho hoti, vighātavā, asantuṭṭho, itarītaracīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhārena, assaddho hoti, dussīlo hoti, kusīto hoti, muṭṭhassati hoti, duppañño hoti. Imehi kho, bhikkhave, chahi dhammehi samannāgatassa bhikkhuno yā ratti vā divaso vā āgacchati hāniyeva pāṭikaṅkhā kusalesu dhammesu, no vuddhi.",
+   "zh": "“诸比丘！具足六法的比丘，无论是夜晚还是白昼，所应期待的唯有诸善法的退失，而非增长。哪六种法？诸比丘！在此，比丘多欲、恼害、不知足，于衣、食、住处、病者所需之医药资具不知满足，无信，破戒，懈怠，失念，劣慧。诸比丘！具足这六法的比丘，无论是夜晚还是白昼，所应期待的唯有诸善法的退失，而非增长。”",
+   "n": "84"
+  },
+  {
+   "idx": 28,
+   "pali": "‘‘Chahi, bhikkhave, dhammehi samannāgatassa bhikkhuno yā ratti vā divaso vā āgacchati vuddhiyeva pāṭikaṅkhā kusalesu dhammesu, no parihāni. Katamehi chahi? Idha, bhikkhave, bhikkhu na mahiccho hoti, avighātavā, santuṭṭho, itarītaracīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhārena, saddho hoti, sīlavā hoti, āraddhavīriyo hoti, satimā hoti, paññavā hoti. Imehi kho, bhikkhave, chahi dhammehi samannāgatassa bhikkhuno yā ratti vā divaso vā āgacchati vuddhiyeva pāṭikaṅkhā , kusalesu dhammesu no parihānī’’ti. Dasamaṃ.",
+   "zh": "“诸比丘！具足六法的比丘，无论是夜晚还是白昼，所应期待的唯有诸善法的增长，而非退失。哪六种法？诸比丘！在此，比丘少欲、不恼害，于粗劣的衣、食、住处、病者所需之医药资具知足，有信，持戒，精勤，具念，有慧。诸比丘！具足这六法的比丘，无论是夜晚还是白昼，所应期待的唯有诸善法的增长，而非退失。”第十经。"
+  },
+  {
+   "idx": 29,
+   "pali": "Arahattavaggo aṭṭhamo.",
+   "zh": "第八 阿拉汉果品"
+  },
+  {
+   "idx": 30,
+   "pali": "Tassuddānaṃ –",
+   "zh": "其摄颂："
+  },
+  {
+   "idx": 31,
+   "pali": "Dukkhaṃ arahattaṃ uttari ca, sukhaṃ adhigamena ca;",
+   "zh": "苦、阿拉汉果与更上，乐与证得；",
+   "type": "verse"
+  },
+  {
+   "idx": 32,
+   "pali": "Mahantattaṃ dvayaṃ niraye , aggadhammañca rattiyoti.",
+   "zh": "大性、二种、地狱、最上法与夜。",
+   "type": "verse"
+  }
+ ]
+}

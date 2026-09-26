@@ -1,0 +1,77 @@
+{
+ "uid": 2,
+ "title": "2. 盖断品",
+ "nik": "AN",
+ "segs": [
+  {
+   "idx": 11,
+   "pali": "2. Nīvaraṇappahānavaggo",
+   "zh": "2. 盖断品"
+  },
+  {
+   "idx": 1,
+   "pali": "‘‘Nāhaṃ , bhikkhave, aññaṃ ekadhammampi samanupassāmi yena anuppanno vā kāmacchando uppajjati uppanno vā kāmacchando bhiyyobhāvāya vepullāya saṃvattati yathayidaṃ, bhikkhave, subhanimittaṃ. Subhanimittaṃ, bhikkhave, ayoniso manasi karoto anuppanno ceva kāmacchando uppajjati uppanno ca kāmacchando bhiyyobhāvāya vepullāya saṃvattatī’’ti. Paṭhamaṃ.",
+   "zh": "“诸比丘，我不见任何其他一法，能如净相一般，令未生的欲贪生起，令已生的欲贪增长广大。诸比丘，若对净相不如理作意，未生的欲贪便会生起，已生的欲贪也会增长广大。第一。”",
+   "n": "11"
+  },
+  {
+   "idx": 2,
+   "pali": "‘‘Nāhaṃ , bhikkhave, aññaṃ ekadhammampi samanupassāmi yena anuppanno vā byāpādo uppajjati uppanno vā byāpādo bhiyyobhāvāya vepullāya saṃvattati yathayidaṃ, bhikkhave, paṭighanimittaṃ. Paṭighanimittaṃ, bhikkhave, ayoniso manasi karoto anuppanno ceva byāpādo uppajjati uppanno ca byāpādo bhiyyobhāvāya vepullāya saṃvattatī’’ti. Dutiyaṃ.",
+   "zh": "“诸比丘，我不见有任何一法，能令未生起的嗔恚生起，或令已生起的嗔恚增长、扩大，如嗔恚相。诸比丘，对嗔恚相不如理作意者，未生起的嗔恚便会生起，已生起的嗔恚便会增长、扩大。第二。”",
+   "n": "12"
+  },
+  {
+   "idx": 3,
+   "pali": "‘‘Nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yena anuppannaṃ vā thinamiddhaṃ uppajjati uppannaṃ vā thinamiddhaṃ bhiyyobhāvāya vepullāya saṃvattati yathayidaṃ, bhikkhave, arati tandī vijambhitā bhattasammado cetaso ca līnattaṃ. Līnacittassa, bhikkhave, anuppannañceva thinamiddhaṃ uppajjati uppannañca thinamiddhaṃ bhiyyobhāvāya vepullāya saṃvattatī’’ti. Tatiyaṃ.",
+   "zh": "“诸比丘，我不见有任何一法，能令未生起的昏沉睡眠生起，或令已生起的昏沉睡眠增长、扩大，如这不乐、倦怠、哈欠、饱食后的昏沉与心的软弱。诸比丘，心软弱者，未生起的昏沉睡眠便会生起，已生起的昏沉睡眠便会增长、扩大。第三。”",
+   "n": "13"
+  },
+  {
+   "idx": 4,
+   "pali": "‘‘Nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yena anuppannaṃ vā uddhaccakukkuccaṃ uppajjati uppannaṃ vā uddhaccakukkuccaṃ bhiyyobhāvāya vepullāya saṃvattati yathayidaṃ, bhikkhave, cetaso avūpasamo. Avūpasantacittassa, bhikkhave, anuppannañceva uddhaccakukkuccaṃ uppajjati uppannañca uddhaccakukkuccaṃ bhiyyobhāvāya vepullāya saṃvattatī’’ti. Catutthaṃ.",
+   "zh": "“诸比丘，我不见有任何一法，能令未生起的掉举追悔生起，或令已生起的掉举追悔增长、扩大，如心的不寂止。诸比丘，心不寂静者，未生起的掉举追悔便会生起，已生起的掉举追悔便会增长、扩大。第四。”",
+   "n": "14"
+  },
+  {
+   "idx": 5,
+   "pali": "‘‘Nāhaṃ , bhikkhave, aññaṃ ekadhammampi samanupassāmi yena anuppannā vā vicikicchā uppajjati uppannā vā vicikicchā bhiyyobhāvāya vepullāya saṃvattati yathayidaṃ, bhikkhave, ayonisomanasikāro. Ayoniso, bhikkhave, manasi karoto anuppannā ceva vicikicchā uppajjati uppannā ca vicikicchā bhiyyobhāvāya vepullāya saṃvattatī’’ti. Pañcamaṃ.",
+   "zh": "“诸比丘，我不见有其他任何一法，能令未生起的疑生起，令已生起的疑增长广大，如同不如理作意。诸比丘，若人不如理作意，未生起的疑便会生起，已生起的疑则增长广大。第五。”",
+   "n": "15"
+  },
+  {
+   "idx": 6,
+   "pali": "‘‘Nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yena anuppanno vā kāmacchando nuppajjati uppanno vā kāmacchando pahīyati yathayidaṃ, bhikkhave, asubhanimittaṃ. Asubhanimittaṃ, bhikkhave, yoniso manasi karoto anuppanno ceva kāmacchando nuppajjati uppanno ca kāmacchando pahīyatī’’ti. Chaṭṭhaṃ.",
+   "zh": "“诸比丘，我不见有其他任何一法，能令未生起的欲贪不生，令已生起的欲贪断除，犹如不净相。诸比丘，若人于不净相如理作意，未生起的欲贪不会生起，已生起的欲贪亦得断除。第六。”",
+   "n": "16"
+  },
+  {
+   "idx": 7,
+   "pali": "‘‘Nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yena anuppanno vā byāpādo nuppajjati uppanno vā byāpādo pahīyati yathayidaṃ, bhikkhave, mettā cetovimutti. Mettaṃ, bhikkhave, cetovimuttiṃ yoniso manasi karoto anuppanno ceva byāpādo nuppajjati uppanno ca byāpādo pahīyatī’’ti. Sattamaṃ.",
+   "zh": "“诸比丘，我不见有其他任何一法，能令未生起的嗔恚不生，令已生起的嗔恚断除，如同慈心解脱。诸比丘，若人于慈心解脱如理作意，未生起的嗔恚不会生起，已生起的嗔恚亦得断除。第七。”",
+   "n": "17"
+  },
+  {
+   "idx": 8,
+   "pali": "‘‘Nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yena anuppannaṃ vā thinamiddhaṃ nuppajjati uppannaṃ vā thinamiddhaṃ pahīyati yathayidaṃ, bhikkhave, ārambhadhātu nikkamadhātu parakkamadhātu. Āraddhavīriyassa, bhikkhave, anuppannañceva thinamiddhaṃ nuppajjati uppannañca thinamiddhaṃ pahīyatī’’ti. Aṭṭhamaṃ.",
+   "zh": "“诸比丘，我不见有其他任何一法，能像发勤界、精勤界、勇猛界那样，使未生的昏沉睡眠不生起，令已生的昏沉睡眠得以断除。诸比丘，对于精进已发起的人，未生的昏沉睡眠便不会生起，已生的昏沉睡眠亦会被断除。第八。”",
+   "n": "18"
+  },
+  {
+   "idx": 9,
+   "pali": "‘‘Nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yena anuppannaṃ vā uddhaccakukkuccaṃ nuppajjati uppannaṃ vā uddhaccakukkuccaṃ pahīyati yathayidaṃ, bhikkhave, cetaso vūpasamo. Vūpasantacittassa, bhikkhave, anuppannañceva uddhaccakukkuccaṃ nuppajjati uppannañca uddhaccakukkuccaṃ pahīyatī’’ti. Navamaṃ.",
+   "zh": "“诸比丘，我不见有其他任何一法，能像心的寂止那样，使未生的掉举追悔不生起，令已生的掉举追悔得以断除。诸比丘，对于心得寂止的人，未生的掉举追悔便不会生起，已生的掉举追悔亦会被断除。第九。”",
+   "n": "19"
+  },
+  {
+   "idx": 10,
+   "pali": "‘‘Nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yena anuppannā vā vicikicchā nuppajjati uppannā vā vicikicchā pahīyati yathayidaṃ, bhikkhave, yonisomanasikāro . Yoniso, bhikkhave, manasi karoto anuppannā ceva vicikicchā nuppajjati uppannā ca vicikicchā pahīyatī’’ti. Dasamaṃ.",
+   "zh": "“诸比丘，我不见有其他任何一法，能像如理作意那样，使未生的疑不生起，令已生的疑得以断除。诸比丘，对于如理作意的人，未生的疑便不会生起，已生的疑亦会被断除。第十。”",
+   "n": "20"
+  },
+  {
+   "idx": 12,
+   "pali": "Nīvaraṇappahānavaggo dutiyo.",
+   "zh": "盖断品第二"
+  }
+ ]
+}

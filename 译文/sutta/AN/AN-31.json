@@ -1,0 +1,89 @@
+{
+ "uid": 31,
+ "title": "1. 希求难断品",
+ "nik": "AN",
+ "segs": [
+  {
+   "idx": 0,
+   "pali": "(11) 1. Āsāduppajahavaggo",
+   "zh": "（11） 1. 希求难断品"
+  },
+  {
+   "idx": 1,
+   "pali": "‘‘Dvemā , bhikkhave, āsā duppajahā. Katamā dve? Lābhāsā ca jīvitāsā ca. Imā kho, bhikkhave, dve āsā duppajahā’’ti.",
+   "zh": "“诸比丘，有这两种希求难以断除。哪两种？利养之希求与活命之希求。诸比丘，这两种希求正是难以断除的。”",
+   "n": "119"
+  },
+  {
+   "idx": 2,
+   "pali": "‘‘Dveme , bhikkhave, puggalā dullabhā lokasmiṃ. Katame dve ? Yo ca pubbakārī, yo ca kataññū katavedī. Ime kho, bhikkhave, dve puggalā dullabhā lokasmi’’nti.",
+   "zh": "“诸比丘，世间有两种人甚为难得。哪两种？先行者，以及知恩、知报恩者。诸比丘，这两种人于世间甚为难得。”",
+   "n": "120"
+  },
+  {
+   "idx": 3,
+   "pali": "‘‘Dveme, bhikkhave, puggalā dullabhā lokasmiṃ. Katame dve? Titto ca tappetā ca. Ime kho, bhikkhave, dve puggalā dullabhā lokasmi’’nti.",
+   "zh": "“诸比丘，世间有两种人甚为难得。哪两种？知足者，以及令满足者。诸比丘，这两种人于世间甚为难得。”",
+   "n": "121"
+  },
+  {
+   "idx": 4,
+   "pali": "‘‘Dveme, bhikkhave, puggalā duttappayā. Katame dve? Yo ca laddhaṃ laddhaṃ nikkhipati, yo ca laddhaṃ laddhaṃ vissajjeti. Ime kho, bhikkhave, dve puggalā duttappayā’’ti.",
+   "zh": "“诸比丘，这两种人难以被满足。哪两种？凡有所得便将其储藏的人，以及凡有所得便将其施舍的人。诸比丘，这两种人难以被满足。”",
+   "n": "122"
+  },
+  {
+   "idx": 5,
+   "pali": "‘‘Dveme, bhikkhave, puggalā sutappayā. Katame dve? Yo ca laddhaṃ laddhaṃ na nikkhipati, yo ca laddhaṃ laddhaṃ na vissajjeti. Ime kho, bhikkhave, dve puggalā sutappayā’’ti.",
+   "zh": "“诸比丘，有这两种容易满足的人。哪两种？于所得之物不加储藏者，于所得之物不分配者。诸比丘，这就是那两种容易满足的人。”",
+   "n": "123"
+  },
+  {
+   "idx": 6,
+   "pali": "‘‘Dveme, bhikkhave, paccayā rāgassa uppādāya. Katame dve? Subhanimittañca ayoniso ca manasikāro. Ime kho, bhikkhave, dve paccayā rāgassa uppādāyā’’ti.",
+   "zh": "“诸比丘，有这两种令贪生起的缘。哪两种？净相与不如理作意。诸比丘，这就是那两种令贪生起的缘。”",
+   "n": "124"
+  },
+  {
+   "idx": 7,
+   "pali": "‘‘Dveme , bhikkhave, paccayā dosassa uppādāya. Katame dve? Paṭighanimittañca ayoniso ca manasikāro. Ime kho, bhikkhave, dve paccayā dosassa uppādāyā’’ti.",
+   "zh": "“诸比丘，有这两种令嗔生起的缘。哪两种？嗔恚相与不如理作意。诸比丘，这就是那两种令嗔生起的缘。”",
+   "n": "125"
+  },
+  {
+   "idx": 8,
+   "pali": "‘‘Dveme, bhikkhave, paccayā micchādiṭṭhiyā uppādāya. Katame dve? Parato ca ghoso ayoniso ca manasikāro. Ime kho, bhikkhave, dve paccayā micchādiṭṭhiyā uppādāyā’’ti.",
+   "zh": "“诸比丘，有两种缘能引生邪见。哪两种？从他闻与不如理作意。诸比丘，这便是引生邪见的两种缘。”",
+   "n": "126"
+  },
+  {
+   "idx": 9,
+   "pali": "‘‘Dveme , bhikkhave, paccayā sammādiṭṭhiyā uppādāya. Katame dve? Parato ca ghoso, yoniso ca manasikāro. Ime kho, bhikkhave, dve paccayā sammādiṭṭhiyā uppādāyā’’ti.",
+   "zh": "“诸比丘，有两种缘能引生正见。哪两种？从他闻与如理作意。诸比丘，这便是引生正见的两种缘。”",
+   "n": "127"
+  },
+  {
+   "idx": 10,
+   "pali": "‘‘Dvemā, bhikkhave, āpattiyo. Katamā dve? Lahukā ca āpatti, garukā ca āpatti. Imā kho, bhikkhave, dve āpattiyo’’ti.",
+   "zh": "“诸比丘，有两种罪。哪两种？轻罪与重罪。诸比丘，这便是两种罪。”",
+   "n": "128"
+  },
+  {
+   "idx": 11,
+   "pali": "‘‘Dvemā, bhikkhave, āpattiyo. Katamā dve? Duṭṭhullā ca āpatti, aduṭṭhullā ca āpatti. Imā kho, bhikkhave, dve āpattiyo’’ti.",
+   "zh": "“诸比丘，有这两种罪。哪两种？粗恶罪与非粗恶罪。诸比丘，这就是两种罪。”",
+   "n": "129"
+  },
+  {
+   "idx": 12,
+   "pali": "‘‘Dvemā, bhikkhave, āpattiyo. Katamā dve? Sāvasesā ca āpatti, anavasesā ca āpatti. Imā kho, bhikkhave, dve āpattiyo’’ti.",
+   "zh": "“诸比丘，有这两种罪。哪两种？有余罪与无余罪。诸比丘，这就是两种罪。”",
+   "n": "130"
+  },
+  {
+   "idx": 13,
+   "pali": "Āsāduppajahavaggo paṭhamo.",
+   "zh": "第一 希求难断品"
+  }
+ ]
+}

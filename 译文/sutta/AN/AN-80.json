@@ -1,0 +1,161 @@
+{
+ "uid": 80,
+ "title": "1. 恶行经",
+ "nik": "AN",
+ "segs": [
+  {
+   "idx": 0,
+   "pali": "(23) 3. Duccaritavaggo",
+   "zh": "3. 恶行品"
+  },
+  {
+   "idx": 1,
+   "pali": "1. Duccaritasuttaṃ",
+   "zh": "1. [[duccaritasutta|恶行经]]"
+  },
+  {
+   "idx": 2,
+   "pali": "‘‘Cattārimāni , bhikkhave, vacīduccaritāni. Katamāni cattāri? Musāvādo, pisuṇā vācā, pharusā vācā, samphappalāpo – imāni kho, bhikkhave, cattāri vacīduccaritāni. Cattārimāni, bhikkhave, vacīsucaritāni. Katamāni cattāri? Saccavācā, apisuṇā vācā, saṇhā vācā, mantavācā – imāni kho, bhikkhave, cattāri vacīsucaritānī’’ti. Paṭhamaṃ.",
+   "zh": "“诸比丘，有四种语恶行。哪四种？妄语、两舌、粗恶语、杂秽语。诸比丘，这便是四种语恶行。诸比丘，有四种语善行。哪四种？真实语、不两舌、柔和语、有益语。诸比丘，这便是四种语善行。第一。”",
+   "n": "221",
+   "type": "verse"
+  },
+  {
+   "idx": 3,
+   "pali": "2. Diṭṭhisuttaṃ",
+   "zh": "2. [[diṭṭhisutta|见经]]"
+  },
+  {
+   "idx": 4,
+   "pali": "‘‘Catūhi, bhikkhave, dhammehi samannāgato bālo abyatto asappuriso khataṃ upahataṃ attānaṃ pariharati, sāvajjo ca hoti sānuvajjo ca viññūnaṃ; bahuñca apuññaṃ pasavati. Katamehi catūhi? Kāyaduccaritena, vacīduccaritena, manoduccaritena, micchādiṭṭhiyā – imehi kho, bhikkhave, catūhi dhammehi samannāgato bālo abyatto asappuriso khataṃ upahataṃ attānaṃ pariharati, sāvajjo ca hoti sānuvajjo ca viññūnaṃ, bahuñca apuññaṃ pasavati.",
+   "zh": "“诸比丘，具足四法的愚者、无能者、非善人，持守着已被毁坏、已被损害的自身，他有过失，受智者呵责，并造作众多非福。哪四种？身恶行、语恶行、意恶行、邪见。诸比丘，具足这四法的愚者、无能者、非善人，持守着已被毁坏、已被损害的自身，他有过失，受智者呵责，并造作众多非福。",
+   "n": "222"
+  },
+  {
+   "idx": 5,
+   "pali": "‘‘Catūhi, bhikkhave, dhammehi samannāgato paṇḍito viyatto sappuriso akkhataṃ anupahataṃ attānaṃ pariharati, anavajjo ca hoti ananuvajjo viññūnaṃ, bahuñca puññaṃ pasavati. Katamehi catūhi? Kāyasucaritena, vacīsucaritena, manosucaritena, sammādiṭṭhiyā – imehi kho, bhikkhave, catūhi dhammehi samannāgato paṇḍito viyatto sappuriso akkhataṃ anupahataṃ attānaṃ pariharati, anavajjo ca hoti ananuvajjo viññūnaṃ; bahuñca puññaṃ pasavatī’’ti. Dutiyaṃ.",
+   "zh": "“诸比丘，具足四法的有智之人、贤能善士，护持自身无有损坏、无有伤害，他清净无罪，不为智者所呵责，并能广积福德。哪四种？身善行、语善行、意善行、正见。诸比丘，具足这四法的有智之人、贤能善士，护持自身无有损坏、无有伤害，他清净无罪，不为智者所呵责，并能广积福德。”第二。"
+  },
+  {
+   "idx": 6,
+   "pali": "3. Akataññutāsuttaṃ",
+   "zh": "3. [[akataññutāsutta|不知恩经]]"
+  },
+  {
+   "idx": 7,
+   "pali": "‘‘Catūhi , bhikkhave, dhammehi samannāgato bālo abyatto asappuriso khataṃ upahataṃ attānaṃ pariharati, sāvajjo ca hoti sānuvajjo viññūnaṃ, bahuñca apuññaṃ pasavati. Katamehi catūhi? Kāyaduccaritena, vacīduccaritena, manoduccaritena, akataññutā akataveditā – imehi…pe… paṇḍito… kāyasucaritena, vacīsucaritena, manosucaritena kataññutākataveditā…pe…. Tatiyaṃ.",
+   "zh": "“诸比丘，具足四法的愚者、无能者、非善人，令自身陷于毁伤败坏，他有罪，为智者所呵责，并造作众多非福。哪四种？身恶行、语恶行、意恶行、忘恩不知报。以这四法，愚者如是。而智者则具足身善行、语善行、意善行、知恩知报。第三。",
+   "n": "223"
+  },
+  {
+   "idx": 8,
+   "pali": "4. Pāṇātipātīsuttaṃ",
+   "zh": "4. [[pāṇātipātīsutta|杀生者经]]"
+  },
+  {
+   "idx": 9,
+   "pali": "… Pāṇātipātī hoti, adinnādāyī hoti, kāmesumicchācārī hoti, musāvādī hoti…pe… pāṇātipātā paṭivirato hoti, adinnādānā paṭivirato hoti, kāmesumicchācārā paṭivirato hoti, musāvādā paṭivirato hoti…pe…. Catutthaṃ.",
+   "zh": "他杀生、不与取、行欲邪行、说妄语……他远离杀生、远离不与取、远离欲邪行、远离妄语……第四。",
+   "n": "224"
+  },
+  {
+   "idx": 10,
+   "pali": "5. Paṭhamamaggasuttaṃ",
+   "zh": "5. [[paṭhamamaggasutta|第一道经]]"
+  },
+  {
+   "idx": 11,
+   "pali": "… Micchādiṭṭhiko hoti, micchāsaṅkappo hoti, micchāvāco hoti, micchākammanto hoti…pe… sammādiṭṭhiko hoti, sammāsaṅkappo hoti, sammāvāco hoti, sammākammanto hoti…pe…. Pañcamaṃ.",
+   "zh": "……邪见者、邪思惟者、邪语者、邪业者……正见者、正思惟者、正语者、正业者……。第五。",
+   "n": "225"
+  },
+  {
+   "idx": 12,
+   "pali": "6. Dutiyamaggasuttaṃ",
+   "zh": "6. [[dutiyamaggasutta|第二道经]]"
+  },
+  {
+   "idx": 13,
+   "pali": "… Micchāājīvo hoti, micchāvāyāmo hoti, micchāsati hoti, micchāsamādhi hoti…pe… sammāājīvo hoti, sammāvāyāmo hoti, sammāsati hoti, sammāsamādhi hoti…pe…. Chaṭṭhaṃ.",
+   "zh": "……邪命者、邪精进者、邪念者、邪定者……正命者、正精进者、正念者、正定者……。第六。",
+   "n": "226"
+  },
+  {
+   "idx": 14,
+   "pali": "7. Paṭhamavohārapathasuttaṃ",
+   "zh": "7. [[paṭhamavohārapathasutta|第一言路经]]"
+  },
+  {
+   "idx": 15,
+   "pali": "… Adiṭṭhe diṭṭhavādī hoti, asute sutavādī hoti, amute mutavādī hoti, aviññāte viññātavādī hoti…pe… adiṭṭhe adiṭṭhavādī hoti, asute asutavādī hoti, amute amutavādī hoti, aviññāte aviññātavādī hoti…pe…. Sattamaṃ.",
+   "zh": "于未见而言已见，于未闻而言已闻，于未觉而言已觉，于未识而言已识……于未见而言未见，于未闻而言未闻，于未觉而言未觉，于未识而言未识……。第七。",
+   "n": "227"
+  },
+  {
+   "idx": 16,
+   "pali": "8. Dutiyavohārapathasuttaṃ",
+   "zh": "8. [[dutiyavohārapathasutta|第二言路经]]"
+  },
+  {
+   "idx": 17,
+   "pali": "… Diṭṭhe adiṭṭhavādī hoti, sute asutavādī hoti, mute amutavādī hoti, viññāte aviññātavādī hoti…pe… diṭṭhe diṭṭhavādī hoti, sute sutavādī hoti, mute mutavādī hoti, viññāte viññātavādī hoti…pe…. Aṭṭhamaṃ.",
+   "zh": "……于所见却说未所见，于所闻却说未所闻，于所觉却说未所觉，于所识却说未所识……于所见则如实见，于所闻则如实闻，于所觉则如实觉，于所识则如实识……第八。",
+   "n": "228"
+  },
+  {
+   "idx": 18,
+   "pali": "9. Ahirikasuttaṃ",
+   "zh": "9. [[ahirikasutta|无惭经]]"
+  },
+  {
+   "idx": 19,
+   "pali": "… Assaddho hoti, dussīlo hoti, ahiriko hoti, anottappī hoti…pe… saddho hoti, sīlavā hoti, hirimā hoti, ottappī hoti…pe…. Navamaṃ.",
+   "zh": "……无信者、破戒者、无惭者、无愧者……有信者、持戒者、具惭者、具愧者……第九。",
+   "n": "229"
+  },
+  {
+   "idx": 20,
+   "pali": "10. Duppaññasuttaṃ",
+   "zh": "10. [[duppaññasutta|劣慧经]]"
+  },
+  {
+   "idx": 21,
+   "pali": "… Assaddho hoti, dussīlo hoti, kusīto hoti, duppañño hoti…pe… saddho hoti, sīlavā hoti, āraddhavīriyo hoti, paññavā hoti – imehi kho, bhikkhave, catūhi dhammehi samannāgato paṇḍito viyatto sappuriso akkhataṃ anupahataṃ attānaṃ pariharati, anavajjo ca hoti ananuvajjo viññūnaṃ, bahuñca puññaṃ pasavatī’’ti. Dasamaṃ.",
+   "zh": "无信者、破戒者、懈怠者、劣慧者……有信者、持戒者、精勤者、有慧者——诸比丘，具足此四法，便是贤明、精通的善士，能令自己无有损伤、无有毁害，无罪无过，不被智者所指责，并能积聚广大的福德。”第十。",
+   "n": "230"
+  },
+  {
+   "idx": 22,
+   "pali": "11. Kavisuttaṃ",
+   "zh": "11. [[kavisutta|诗人经]]"
+  },
+  {
+   "idx": 23,
+   "pali": "‘‘Cattārome , bhikkhave, kavī. Katame cattāro? Cintākavi, sutakavi, atthakavi, paṭibhānakavi – ime kho, bhikkhave, cattāro kavī’’ti. Ekādasamaṃ.",
+   "zh": "“诸比丘，有四种诗人。何等为四？思惟诗人、多闻诗人、义理诗人、辩才诗人。诸比丘，是为四种诗人。”第十一。",
+   "n": "231"
+  },
+  {
+   "idx": 24,
+   "pali": "Duccaritavaggo tatiyo.",
+   "zh": "恶行品第三"
+  },
+  {
+   "idx": 25,
+   "pali": "Tassuddānaṃ –",
+   "zh": "其摄颂："
+  },
+  {
+   "idx": 26,
+   "pali": "Duccaritaṃ diṭṭhi akataññū ca, pāṇātipātāpi dve maggā;",
+   "zh": "恶行、邪见、忘恩，及杀生，此为二道；",
+   "type": "verse"
+  },
+  {
+   "idx": 27,
+   "pali": "Dve vohārapathā vuttā, ahirikaṃ duppaññakavinā cāti.",
+   "zh": "已说二种言说之道，无惭者、劣慧者与诗家。",
+   "type": "verse"
+  }
+ ]
+}

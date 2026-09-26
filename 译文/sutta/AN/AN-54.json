@@ -1,0 +1,241 @@
+{
+ "uid": 54,
+ "title": "1. 不善经",
+ "nik": "AN",
+ "segs": [
+  {
+   "idx": 0,
+   "pali": "(15) 5. Maṅgalavaggo",
+   "zh": "（15） 5. 吉祥品"
+  },
+  {
+   "idx": 1,
+   "pali": "1. Akusalasuttaṃ",
+   "zh": "1. [[akusalasutta|不善经]]"
+  },
+  {
+   "idx": 2,
+   "pali": "‘‘Tīhi , bhikkhave, dhammehi samannāgato yathābhataṃ nikkhitto evaṃ niraye. Katamehi tīhi? Akusalena kāyakammena, akusalena vacīkammena, akusalena manokammena – imehi kho, bhikkhave, tīhi dhammehi samannāgato yathābhataṃ nikkhitto evaṃ niraye.",
+   "zh": "“诸比丘，具足三法者，如同被带来般，投生于地狱。哪三法呢？不善的身业、不善的语业、不善的意业——诸比丘，具足这三法者，如同被带来般，投生于地狱。",
+   "n": "147"
+  },
+  {
+   "idx": 3,
+   "pali": "‘‘Tīhi, bhikkhave, dhammehi samannāgato yathābhataṃ nikkhitto evaṃ sagge. Katamehi tīhi? Kusalena kāyakammena, kusalena vacīkammena, kusalena manokammena – imehi kho , bhikkhave, tīhi dhammehi samannāgato yathābhataṃ nikkhitto evaṃ sagge’’ti. Paṭhamaṃ.",
+   "zh": "“诸比丘，具足三法者，如同被带来般，投生于天界。哪三法呢？善的身业、善的语业、善的意业——诸比丘，具足这三法者，如同被带来般，投生于天界。”第一。"
+  },
+  {
+   "idx": 4,
+   "pali": "2. Sāvajjasuttaṃ",
+   "zh": "2. [[sāvajjasutta|有罪经]]"
+  },
+  {
+   "idx": 5,
+   "pali": "‘‘Tīhi, bhikkhave, dhammehi samannāgato yathābhataṃ nikkhitto evaṃ niraye. Katamehi tīhi? Sāvajjena kāyakammena, sāvajjena vacīkammena, sāvajjena manokammena – imehi kho, bhikkhave, tīhi dhammehi samannāgato yathābhataṃ nikkhitto evaṃ niraye.",
+   "zh": "“诸比丘，具足三法者，如同被带来般，投生于地狱。哪三法？有过失的身业、有过失的语业、有过失的意业。诸比丘，具足这三法者，如同被带来般，投生于地狱。”",
+   "n": "148"
+  },
+  {
+   "idx": 6,
+   "pali": "‘‘Tīhi, bhikkhave, dhammehi samannāgato yathābhataṃ nikkhitto evaṃ sagge. Katamehi tīhi? Anavajjena kāyakammena, anavajjena vacīkammena, anavajjena manokammena – imehi kho…pe… evaṃ sagge’’ti. Dutiyaṃ.",
+   "zh": "“诸比丘，具足三法者，犹如被带来一般，投生天界。哪三法？无过失的身业、无过失的语业、无过失的意业。诸比丘，具足这三法者，犹如被带来一般，投生天界。”第二经。"
+  },
+  {
+   "idx": 7,
+   "pali": "3. Visamasuttaṃ",
+   "zh": "3. [[visamasutta|不平等经]]"
+  },
+  {
+   "idx": 8,
+   "pali": "‘‘Tīhi , bhikkhave…pe… visamena kāyakammena, visamena vacīkammena, visamena manokammena – imehi kho…pe… evaṃ niraye.",
+   "zh": "“诸比丘！……不平等的身业、不平等的语业、不平等的意业——诸比丘！具足这三法……如同被带来般，投生于地狱。",
+   "n": "149"
+  },
+  {
+   "idx": 9,
+   "pali": "‘‘Tīhi , bhikkhave, dhammehi…pe… samena kāyakammena, samena vacīkammena, samena manokammena – imehi kho…pe… evaṃ sagge’’ti. Tatiyaṃ.",
+   "zh": "“诸比丘！具足三法……平等的身业、平等的语业、平等的意业——诸比丘！具足这三法……便如是被带往天界。”第三。"
+  },
+  {
+   "idx": 10,
+   "pali": "4. Asucisuttaṃ",
+   "zh": "4. [[asucisutta|不净经]]"
+  },
+  {
+   "idx": 11,
+   "pali": "‘‘Tīhi, bhikkhave…pe… asucinā kāyakammena, asucinā vacīkammena, asucinā manokammena – imehi kho…pe… evaṃ niraye.",
+   "zh": "“诸比丘！……不净的身业、不净的语业、不净的意业——诸比丘！具足这些……如同被带来般，投生于地狱。”",
+   "n": "150"
+  },
+  {
+   "idx": 12,
+   "pali": "‘‘Tīhi, bhikkhave…pe… sucinā kāyakammena, sucinā vacīkammena, sucinā manokammena – imehi kho, bhikkhave, tīhi dhammehi samannāgato yathābhataṃ nikkhitto evaṃ sagge’’ti. Catutthaṃ.",
+   "zh": "“诸比丘！……清净的身业、清净的语业、清净的意业——诸比丘！具足这三法者，如同被带来般，投生于天界。”第四。"
+  },
+  {
+   "idx": 13,
+   "pali": "5. Paṭhamakhatasuttaṃ",
+   "zh": "5. 第一[[paṭhamakhatasutta|损坏经]]"
+  },
+  {
+   "idx": 14,
+   "pali": "‘‘Tīhi, bhikkhave, dhammehi samannāgato bālo abyatto asappuriso khataṃ upahataṃ attānaṃ pariharati, sāvajjo ca hoti sānuvajjo ca viññūnaṃ, bahuñca apuññaṃ pasavati. Katamehi tīhi? Akusalena kāyakammena, akusalena vacīkammena, akusalena manokammena – imehi kho, bhikkhave, tīhi dhammehi samannāgato bālo abyatto asappuriso khataṃ upahataṃ attānaṃ pariharati, sāvajjo ca hoti sānuvajjo ca viññūnaṃ, bahuñca apuññaṃ pasavati.",
+   "zh": "“诸比丘，具足三法的愚者、无能者、非善人，令自己受损、受害，有过失，为智者所呵责，并积聚众多非福。哪三种？不善的身业、不善的语业、不善的意业。诸比丘，具足这三法的愚者、无能者、非善人，令自己受损、受害，有过失，为智者所呵责，并积聚众多非福。”",
+   "n": "151"
+  },
+  {
+   "idx": 15,
+   "pali": "‘‘Tīhi, bhikkhave, dhammehi samannāgato paṇḍito viyatto sappuriso akkhataṃ anupahataṃ attānaṃ pariharati, anavajjo ca hoti ananuvajjo ca viññūnaṃ, bahuñca puññaṃ pasavati. Katamehi tīhi? Kusalena kāyakammena, kusalena vacīkammena, kusalena manokammena…pe…. Pañcamaṃ.",
+   "zh": "“诸比丘，具足三法的贤者、有能者、善人，令自己不受损、不受害，无过失，不为智者所呵责，并积聚众多福德。哪三种？善的身业、善的语业、善的意业……第五。"
+  },
+  {
+   "idx": 16,
+   "pali": "6. Dutiyakhatasuttaṃ",
+   "zh": "6. [[dutiyakhatasutta|第二掘经]]"
+  },
+  {
+   "idx": 17,
+   "pali": "‘‘Tīhi, bhikkhave…pe… sāvajjena kāyakammena, sāvajjena vacīkammena, sāvajjena manokammena…pe….",
+   "zh": "“诸比丘，具足三法者……以身之有罪业、语之有罪业、意之有罪业……”",
+   "n": "152"
+  },
+  {
+   "idx": 18,
+   "pali": "‘‘Tīhi , bhikkhave…pe… anavajjena kāyakammena, anavajjena vacīkammena, anavajjena manokammena…pe…. Chaṭṭhaṃ.",
+   "zh": "“诸比丘，具足三法者……以身之无罪业、语之无罪业、意之无罪业……第六。”"
+  },
+  {
+   "idx": 19,
+   "pali": "7. Tatiyakhatasuttaṃ",
+   "zh": "7. [[tatiyakhatasutta|第三损坏经]]"
+  },
+  {
+   "idx": 20,
+   "pali": "‘‘Tīhi, bhikkhave…pe… visamena kāyakammena, visamena vacīkammena, visamena manokammena…pe….",
+   "zh": "“诸比丘，……以不正当的身业、以不正当的语业、以不正当的意业……”",
+   "n": "153"
+  },
+  {
+   "idx": 21,
+   "pali": "‘‘Tīhi , bhikkhave…pe… samena kāyakammena, samena vacīkammena, samena manokammena…pe…. Sattamaṃ.",
+   "zh": "“诸比丘，……以正当的身业、以正当的语业、以正当的意业……第七。”"
+  },
+  {
+   "idx": 22,
+   "pali": "8. Catutthakhatasuttaṃ",
+   "zh": "8. [[catutthakhatasutta|第四损坏经]]"
+  },
+  {
+   "idx": 23,
+   "pali": "‘‘Tīhi, bhikkhave…pe… asucinā kāyakammena, asucinā vacīkammena, asucinā manokammena…pe….",
+   "zh": "“诸比丘，以三种……不清净的身业、不清净的语业、不清净的意业……”",
+   "n": "154"
+  },
+  {
+   "idx": 24,
+   "pali": "‘‘Tīhi, bhikkhave…pe… sucinā kāyakammena, sucinā vacīkammena, sucinā manokammena – imehi kho, bhikkhave, tīhi dhammehi samannāgato paṇḍito viyatto sappuriso akkhataṃ anupahataṃ attānaṃ pariharati, anavajjo ca hoti ananuvajjo ca viññūnaṃ, bahuñca puññaṃ pasavatī’’ti. Aṭṭhamaṃ.",
+   "zh": "“诸比丘，以三种……清净的身业、清净的语业、清净的意业——诸比丘，具足此三法者，是贤者、有能者、善人，他令自身不受损害、不受伤害，清净无过，不为智者所呵责，并生起广大福德。”第八。"
+  },
+  {
+   "idx": 25,
+   "pali": "9. Vandanāsuttaṃ",
+   "zh": "9. [[vandanāsutta|礼敬经]]"
+  },
+  {
+   "idx": 26,
+   "pali": "‘‘Tisso imā, bhikkhave, vandanā. Katamā tisso? Kāyena, vācāya, manasā – imā kho, bhikkhave, tisso vandanā’’ti. Navamaṃ.",
+   "zh": "“诸比丘，有三种礼敬。哪三种？身礼敬、语礼敬、意礼敬——诸比丘，这就是三种礼敬。”第九经。",
+   "n": "155"
+  },
+  {
+   "idx": 27,
+   "pali": "10. Pubbaṇhasuttaṃ",
+   "zh": "10. [[pubbaṇhasutta|上午经]]"
+  },
+  {
+   "idx": 28,
+   "pali": "‘‘Ye , bhikkhave, sattā pubbaṇhasamayaṃ kāyena sucaritaṃ caranti , vācāya sucaritaṃ caranti, manasā sucaritaṃ caranti, supubbaṇho, bhikkhave, tesaṃ sattānaṃ.",
+   "zh": "“诸比丘，若有众生在上午时分，以身行善，以语行善，以意行善，诸比丘，他们的上午便是善妙的。",
+   "n": "156"
+  },
+  {
+   "idx": 29,
+   "pali": "‘‘Ye, bhikkhave, sattā majjhanhikasamayaṃ kāyena sucaritaṃ caranti, vācāya sucaritaṃ caranti, manasā sucaritaṃ caranti, sumajjhanhiko, bhikkhave, tesaṃ sattānaṃ.",
+   "zh": "“诸比丘，凡在正午时分以身行善、以语行善、以意行善的众生，诸比丘，他们的正午便是善正午。"
+  },
+  {
+   "idx": 30,
+   "pali": "‘‘Ye , bhikkhave, sattā sāyanhasamayaṃ kāyena sucaritaṃ caranti, vācāya sucaritaṃ caranti, manasā sucaritaṃ caranti, susāyanho, bhikkhave, tesaṃ sattāna’’nti.",
+   "zh": "“诸比丘，凡在傍晚时分以身行善、以语行善、以意行善的众生，诸比丘，他们的傍晚便是善傍晚。”"
+  },
+  {
+   "idx": 31,
+   "pali": "‘‘Sunakkhattaṃ sumaṅgalaṃ, suppabhātaṃ suhuṭṭhitaṃ ;",
+   "zh": "“[[Sunakkhatta|善星]]宿、善吉祥，善黎明、善起身；",
+   "type": "verse"
+  },
+  {
+   "idx": 32,
+   "pali": "Sukhaṇo sumuhutto ca, suyiṭṭhaṃ brahmacārisu.",
+   "zh": "善时妙刻，是对梵行者们的善供奉。",
+   "type": "verse"
+  },
+  {
+   "idx": 33,
+   "pali": "‘‘Padakkhiṇaṃ kāyakammaṃ, vācākammaṃ padakkhiṇaṃ;",
+   "zh": "“身行是善净业，语行是善净业；",
+   "type": "verse"
+  },
+  {
+   "idx": 34,
+   "pali": "Padakkhiṇaṃ manokammaṃ, paṇīdhi te padakkhiṇe ;",
+   "zh": "“意行是善净业，你的志向亦是善净圆满。”",
+   "type": "verse"
+  },
+  {
+   "idx": 35,
+   "pali": "Padakkhiṇāni katvāna, labhantatthe padakkhiṇe.",
+   "zh": "行右绕已，于右绕中得获利益。",
+   "type": "verse"
+  },
+  {
+   "idx": 36,
+   "pali": "‘‘Te atthaladdhā sukhitā, viruḷhā buddhasāsane;",
+   "zh": "“他们已得利益，具足安乐，于佛陀教法中增长茂盛；",
+   "type": "verse"
+  },
+  {
+   "idx": 37,
+   "pali": "Arogā sukhitā hotha, saha sabbehi ñātibhī’’ti. dasamaṃ;",
+   "zh": "愿你们无病安乐，与一切亲眷共住。”第十经",
+   "type": "verse"
+  },
+  {
+   "idx": 38,
+   "pali": "Maṅgalavaggo pañcamo.",
+   "zh": "吉祥品第五"
+  },
+  {
+   "idx": 39,
+   "pali": "Tassuddānaṃ –",
+   "zh": "其摄颂："
+  },
+  {
+   "idx": 40,
+   "pali": "Akusalañca sāvajjaṃ, visamāsucinā saha;",
+   "zh": "不善与有过失，不正及不净；",
+   "type": "verse"
+  },
+  {
+   "idx": 41,
+   "pali": "Caturo khatā vandanā, pubbaṇhena ca te dasāti.",
+   "zh": "掘处有四，礼敬与午前，如是合为十。",
+   "type": "verse"
+  },
+  {
+   "idx": 42,
+   "pali": "Tatiyo paṇṇāsako samatto.",
+   "zh": "第三组五十经终"
+  }
+ ]
+}

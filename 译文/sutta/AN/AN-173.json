@@ -1,0 +1,143 @@
+{
+ "uid": 173,
+ "title": "1. 善经",
+ "nik": "AN",
+ "segs": [
+  {
+   "idx": 0,
+   "pali": "(14) 4. Sādhuvaggo",
+   "zh": "（14） 4. 善品"
+  },
+  {
+   "idx": 1,
+   "pali": "1. Sādhusuttaṃ",
+   "zh": "1. [[sādhusutta|善经]]"
+  },
+  {
+   "idx": 2,
+   "pali": "‘‘Sādhuñca vo, bhikkhave, desessāmi asādhuñca. Taṃ suṇātha, sādhukaṃ manasi karotha; bhāsissāmī’’ti. ‘‘Evaṃ, bhante’’ti kho te bhikkhū bhagavato paccassosuṃ. Bhagavā etadavoca –",
+   "zh": "“诸比丘，我将为你们解说善与不善。请谛听，善作意！我就要说了。”“是的，世尊。”那些比丘回应世尊。世尊这样说道：",
+   "n": "134"
+  },
+  {
+   "idx": 3,
+   "pali": "‘‘Katamañca, bhikkhave, asādhu? Micchādiṭṭhi, micchāsaṅkappo, micchāvācā, micchākammanto, micchāājīvo, micchāvāyāmo, micchāsati, micchāsamādhi, micchāñāṇaṃ, micchāvimutti – idaṃ vuccati, bhikkhave, asādhu. Katamañca, bhikkhave, sādhu? Sammādiṭṭhi , sammāsaṅkappo, sammāvācā sammākammanto, sammāājīvo, sammāvāyāmo, sammāsati, sammāsamādhi, sammāñāṇaṃ, sammāvimutti – idaṃ vuccati, bhikkhave, sādhū’’ti. Paṭhamaṃ.",
+   "zh": "“诸比丘，何谓不善？邪见、邪思惟、邪语、邪业、邪命、邪精进、邪念、邪定、邪智、邪解脱——诸比丘，是名不善。诸比丘，何谓善？正见、正思惟、正语、正业、正命、正精进、正念、正定、正智、正解脱——诸比丘，是名善。”第一。"
+  },
+  {
+   "idx": 4,
+   "pali": "2. Ariyadhammasuttaṃ",
+   "zh": "2. [[ariyadhammasutta|圣法经]]"
+  },
+  {
+   "idx": 5,
+   "pali": "‘‘Ariyadhammañca vo, bhikkhave, desessāmi anariyadhammañca. Taṃ suṇātha…pe… katamo ca, bhikkhave, anariyo dhammo? Micchādiṭṭhi…pe… micchāvimutti – ayaṃ vuccati, bhikkhave, anariyo dhammo. Katamo ca, bhikkhave, ariyo dhammo? Sammādiṭṭhi…pe… sammāvimutti – ayaṃ vuccati, bhikkhave, ariyo dhammo’’ti. Dutiyaṃ.",
+   "zh": "“诸比丘，我将为你们宣说圣法与非圣法。谛听！……诸比丘，何谓非圣法？邪见……邪解脱——诸比丘，是名非圣法。诸比丘，何谓圣法？正见……正解脱——诸比丘，是名圣法。”第二。",
+   "n": "135"
+  },
+  {
+   "idx": 6,
+   "pali": "3. Akusalasuttaṃ",
+   "zh": "3. [[akusalasutta|不善经]]"
+  },
+  {
+   "idx": 7,
+   "pali": "‘‘Akusalañca vo, bhikkhave, desessāmi kusalañca. Taṃ suṇātha …pe… katamañca, bhikkhave, akusalaṃ? Micchādiṭṭhi…pe… micchāvimutti – idaṃ vuccati, bhikkhave , akusalaṃ. Katamañca, bhikkhave, kusalaṃ? Sammādiṭṭhi…pe… sammāvimutti – idaṃ vuccati, bhikkhave, kusala’’nti. Tatiyaṃ.",
+   "zh": "“诸比丘，我将为你们讲说不善与善。请谛听！……诸比丘，什么是不善？邪见……乃至邪解脱——诸比丘，这便是不善。诸比丘，什么是善？正见……乃至正解脱——诸比丘，这便是善。第三。”",
+   "n": "136"
+  },
+  {
+   "idx": 8,
+   "pali": "4. Atthasuttaṃ",
+   "zh": "4. [[atthasutta|义经]]"
+  },
+  {
+   "idx": 9,
+   "pali": "‘‘Atthañca vo, bhikkhave, desessāmi anatthañca. Taṃ suṇātha…pe… katamo ca, bhikkhave, anattho? Micchādiṭṭhi …pe… micchāvimutti – ayaṃ vuccati, bhikkhave, anattho. Katamo ca, bhikkhave, attho? Sammādiṭṭhi…pe… sammāvimutti – ayaṃ vuccati, bhikkhave, attho’’ti. Catutthaṃ.",
+   "zh": "“诸比丘，我将为你们解了有义与无义。你们谛听…… 诸比丘，什么是无义？邪见……乃至邪解脱——诸比丘，这称为无义。诸比丘，什么是有义？正见……乃至正解脱——诸比丘，这称为有义。第四。”",
+   "n": "137"
+  },
+  {
+   "idx": 10,
+   "pali": "5. Dhammasuttaṃ",
+   "zh": "5. [[dhammasutta|法经]]"
+  },
+  {
+   "idx": 11,
+   "pali": "‘‘Dhammañca vo, bhikkhave, desessāmi adhammañca. Taṃ suṇātha…pe… katamo ca, bhikkhave, adhammo? Micchādiṭṭhi…pe… micchāvimutti – ayaṃ vuccati, bhikkhave, adhammo. Katamo ca, bhikkhave, dhammo? Sammādiṭṭhi…pe… sammāvimutti – ayaṃ vuccati, bhikkhave, dhammo’’ti. Pañcamaṃ.",
+   "zh": "“诸比丘，我将为你们解了法与非法。你们谛听…… 诸比丘，什么是非法？邪见……乃至邪解脱——诸比丘，这称为非法。诸比丘，什么是法？正见……乃至正解脱——诸比丘，这称为法。第五。”",
+   "n": "138"
+  },
+  {
+   "idx": 12,
+   "pali": "6. Sāsavasuttaṃ",
+   "zh": "6. [[sāsavasutta|有漏经]]"
+  },
+  {
+   "idx": 13,
+   "pali": "‘‘Sāsavañca vo, bhikkhave, dhammaṃ desessāmi anāsavañca. Taṃ suṇātha…pe… katamo ca, bhikkhave, sāsavo dhammo? Micchādiṭṭhi…pe… micchāvimutti – ayaṃ vuccati, bhikkhave, sāsavo dhammo. Katamo ca, bhikkhave, anāsavo dhammo? Sammādiṭṭhi…pe… sammāvimutti – ayaṃ vuccati, bhikkhave, anāsavo dhammo’’ti. Chaṭṭhaṃ.",
+   "zh": "“诸比丘，我将为你们宣说有漏法与无漏法。你们应当谛听。……诸比丘，什么是有漏法？即是邪见乃至邪解脱。诸比丘，这称为有漏法。诸比丘，什么是无漏法？即是正见乃至正解脱。诸比丘，这称为无漏法。第六。”",
+   "n": "139"
+  },
+  {
+   "idx": 14,
+   "pali": "7. Sāvajjasuttaṃ",
+   "zh": "7. [[sāvajjasutta|有罪经]]"
+  },
+  {
+   "idx": 15,
+   "pali": "‘‘Sāvajjañca vo, bhikkhave, dhammaṃ desessāmi anavajjañca. Taṃ suṇātha…pe… katamo ca, bhikkhave, sāvajjo dhammo? Micchādiṭṭhi…pe… micchāvimutti – ayaṃ vuccati, bhikkhave, sāvajjo dhammo. Katamo ca, bhikkhave, anavajjo dhammo? Sammādiṭṭhi…pe… sammāvimutti – ayaṃ vuccati, bhikkhave, anavajjo dhammo’’ti. Sattamaṃ.",
+   "zh": "“诸比丘，我将为你们讲说有过之法与无过之法。谛听……诸比丘，何谓有过法？邪见……乃至邪解脱——诸比丘，这便称为有过法。诸比丘，何谓无过法？正见……乃至正解脱——诸比丘，这便称为无过法。第七。”",
+   "n": "140"
+  },
+  {
+   "idx": 16,
+   "pali": "8. Tapanīyasuttaṃ",
+   "zh": "8. [[tapanīyasutta|热恼经]]"
+  },
+  {
+   "idx": 17,
+   "pali": "‘‘Tapanīyañca vo, bhikkhave, dhammaṃ desessāmi atapanīyañca. Taṃ suṇātha…pe… katamo ca, bhikkhave, tapanīyo dhammo? Micchādiṭṭhi…pe… micchāvimutti – ayaṃ vuccati, bhikkhave, tapanīyo dhammo. Katamo ca, bhikkhave, atapanīyo dhammo? Sammādiṭṭhi…pe… sammāvimutti – ayaṃ vuccati, bhikkhave, atapanīyo dhammo’’ti. Aṭṭhamaṃ.",
+   "zh": "“诸比丘，我将为你们讲说烧燃之法与不烧燃之法。谛听……诸比丘，何谓烧燃法？邪见……乃至邪解脱——诸比丘，这便称为烧燃法。诸比丘，何谓不烧燃法？正见……乃至正解脱——诸比丘，这便称为不烧燃法。第八。”",
+   "n": "141"
+  },
+  {
+   "idx": 18,
+   "pali": "9. Ācayagāmisuttaṃ",
+   "zh": "9. [[ācayagāmisutta|积集趣经]]"
+  },
+  {
+   "idx": 19,
+   "pali": "‘‘Ācayagāmiñca vo, bhikkhave, dhammaṃ desessāmi apacayagāmiñca. Taṃ suṇātha…pe… katamo ca, bhikkhave , ācayagāmī dhammo? Micchādiṭṭhi…pe… micchāvimutti – ayaṃ vuccati, bhikkhave, ācayagāmī dhammo. Katamo ca, bhikkhave , apacayagāmī dhammo? Sammādiṭṭhi…pe… sammāvimutti – ayaṃ vuccati, bhikkhave, apacayagāmī dhammo’’ti. Navamaṃ.",
+   "zh": "“诸比丘，我将为你们讲说导向积集之法与导向损减之法。你们仔细听……诸比丘，什么是导向积集法？即邪见……乃至邪解脱。诸比丘，这便名为导向积集法。诸比丘，什么是导向损减法？即正见……乃至正解脱。诸比丘，这便名为导向损减法。第九。”",
+   "n": "142"
+  },
+  {
+   "idx": 20,
+   "pali": "10. Dukkhudrayasuttaṃ",
+   "zh": "10. [[dukkhudrayasutta|苦生起经]]"
+  },
+  {
+   "idx": 21,
+   "pali": "‘‘Dukkhudrayañca vo, bhikkhave, dhammaṃ desessāmi sukhudrayañca. Taṃ suṇātha…pe… katamo ca, bhikkhave, dukkhudrayo dhammo? Micchādiṭṭhi…pe… micchāvimutti – ayaṃ vuccati, bhikkhave, dukkhudrayo dhammo. Katamo ca, bhikkhave, sukhudrayo dhammo? Sammādiṭṭhi…pe… sammāvimutti – ayaṃ vuccati, bhikkhave, sukhudrayo dhammo’’ti. Dasamaṃ.",
+   "zh": "“诸比丘，我将为你们宣说苦生起之法与乐生起之法。谛听……（中略）……诸比丘，何等为苦生起之法？邪见……（中略）……邪解脱——诸比丘，是名为苦生起之法。诸比丘，何等为乐生起之法？正见……（中略）……正解脱——诸比丘，是名为乐生起之法。”第十。",
+   "n": "143"
+  },
+  {
+   "idx": 22,
+   "pali": "11. Dukkhavipākasuttaṃ",
+   "zh": "11. [[dukkhavipākasutta|苦异熟经]]"
+  },
+  {
+   "idx": 23,
+   "pali": "‘‘Dukkhavipākañca vo, bhikkhave, dhammaṃ desessāmi sukhavipākañca. Taṃ suṇātha…pe… katamo ca, bhikkhave, dukkhavipāko dhammo? Micchādiṭṭhi…pe… micchāvimutti – ayaṃ vuccati, bhikkhave, dukkhavipāko dhammo. Katamo ca, bhikkhave, sukhavipāko dhammo? Sammādiṭṭhi…pe… sammāvimutti – ayaṃ vuccati, bhikkhave, sukhavipāko dhammo’’ti. Ekādasamaṃ.",
+   "zh": "“诸比丘，我将为你们宣说苦异熟之法与乐异熟之法。谛听……（中略）……诸比丘，何等为苦异熟之法？邪见……（中略）……邪解脱——诸比丘，是名为苦异熟之法。诸比丘，何等为乐异熟之法？正见……（中略）……正解脱——诸比丘，是名为乐异熟之法。”第十一。",
+   "n": "144"
+  },
+  {
+   "idx": 24,
+   "pali": "Sādhuvaggo catuttho.",
+   "zh": "善品第四"
+  }
+ ]
+}

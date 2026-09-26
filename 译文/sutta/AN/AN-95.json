@@ -1,0 +1,209 @@
+{
+ "uid": 95,
+ "title": "1. 第一成就经",
+ "nik": "AN",
+ "segs": [
+  {
+   "idx": 0,
+   "pali": "(10) 5. Kakudhavaggo",
+      "zh": "（十）第五 迦拘陀品"
+  },
+  {
+   "idx": 1,
+   "pali": "1. Paṭhamasampadāsuttaṃ",
+   "zh": "1. [[paṭhamasampadāsutta|第一成就经]]"
+  },
+  {
+   "idx": 2,
+   "pali": "‘‘Pañcimā , bhikkhave, sampadā. Katamā pañca? Saddhāsampadā, sīlasampadā, sutasampadā, cāgasampadā, paññāsampadā – imā kho, bhikkhave, pañca sampadā’’ti. Paṭhamaṃ.",
+   "zh": "“诸比丘，有此五种成就。哪五种？信成就、戒成就、闻成就、施成就、慧成就——诸比丘，这便是五种成就。第一”",
+   "n": "91"
+  },
+  {
+   "idx": 3,
+   "pali": "2. Dutiyasampadāsuttaṃ",
+   "zh": "2. [[dutiyasampadāsutta|第二成就经]]"
+  },
+  {
+   "idx": 4,
+   "pali": "‘‘Pañcimā , bhikkhave, sampadā. Katamā pañca? Sīlasampadā, samādhisampadā, paññāsampadā, vimuttisampadā, vimuttiñāṇadassanasampadā – imā kho, bhikkhave, pañca sampadā’’ti. Dutiyaṃ.",
+   "zh": "“诸比丘，有此五种成就。哪五种？戒成就、定成就、慧成就、解脱成就、解脱智见成就——诸比丘，这便是五种成就。第二”",
+   "n": "92"
+  },
+  {
+   "idx": 5,
+   "pali": "3. Byākaraṇasuttaṃ",
+   "zh": "3. [[byākaraṇasutta|记说经]]"
+  },
+  {
+   "idx": 6,
+   "pali": "‘‘Pañcimāni, bhikkhave, aññābyākaraṇāni. Katamāni pañca? Mandattā momūhattā aññaṃ byākaroti; pāpiccho icchāpakato aññaṃ byākaroti; ummādā cittakkhepā aññaṃ byākaroti; adhimānena aññaṃ byākaroti; sammadeva aññaṃ byākaroti. Imāni kho, bhikkhave, pañca aññābyākaraṇānī’’ti. Tatiyaṃ.",
+   "zh": "“诸比丘，有这五种记说智。哪五种？因愚钝与痴迷而记说智；因恶欲、为欲所制而记说智；因疯狂、心神散乱而记说智；因增上慢而记说智；正确地记说智。诸比丘，这些就是五种记说智。第三。”",
+   "n": "93"
+  },
+  {
+   "idx": 7,
+   "pali": "4. Phāsuvihārasuttaṃ",
+   "zh": "4. [[phāsuvihārasutta|安乐住经]]"
+  },
+  {
+   "idx": 8,
+   "pali": "‘‘Pañcime , bhikkhave, phāsuvihārā. Katame pañca? Idha, bhikkhave, bhikkhu vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṃ savicāraṃ vivekajaṃ pītisukhaṃ paṭhamaṃ jhānaṃ upasampajja viharati; vitakkavicārānaṃ vūpasamā…pe… dutiyaṃ jhānaṃ… tatiyaṃ jhānaṃ… catutthaṃ jhānaṃ upasampajja viharati; āsavānaṃ khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharati. Ime kho, bhikkhave, pañca phāsuvihārā’’ti. Catutthaṃ.",
+   "zh": "“诸比丘，有五种安住之乐。哪五种呢？诸比丘，在此，比丘远离诸欲，远离诸不善法，有寻有伺，由远离而生起的喜与乐，进入并安住于初禅；由于寻与伺的止息……进入并安住于第二禅……第三禅……第四禅；他由诸漏灭尽，在现法中，以证智自作证，具足无漏的心解脱与慧解脱而安住。诸比丘，这便是五种安住之乐。”第四经。",
+   "n": "94"
+  },
+  {
+   "idx": 9,
+   "pali": "5. Akuppasuttaṃ",
+   "zh": "5. [[akuppasutta|不动经]]"
+  },
+  {
+   "idx": 10,
+   "pali": "‘‘Pañcahi, bhikkhave, dhammehi samannāgato bhikkhu nacirasseva akuppaṃ paṭivijjhati. Katamehi pañcahi? Idha , bhikkhave, bhikkhu atthapaṭisambhidāpatto hoti, dhammapaṭisambhidāpatto hoti, niruttipaṭisambhidāpatto hoti, paṭibhānapaṭisambhidāpatto hoti, yathāvimuttaṃ cittaṃ paccavekkhati. Imehi kho, bhikkhave, pañcahi dhammehi samannāgato bhikkhu nacirasseva akuppaṃ paṭivijjhatī’’ti. Pañcamaṃ.",
+   "zh": "“诸比丘，具足五法的比丘，不久便能证得不动的境界。哪五种呢？诸比丘，在此，比丘具足义无碍解，具足法无碍解，具足词无碍解，具足辩无碍解，并且如其所证得的解脱，善省察自心。诸比丘，具足这五法的比丘，不久便能证得不动的境界。”第五经。",
+   "n": "95"
+  },
+  {
+   "idx": 11,
+   "pali": "6. Sutadharasuttaṃ",
+   "zh": "6. [[sutadharasutta|持闻经]]"
+  },
+  {
+   "idx": 12,
+   "pali": "‘‘Pañcahi, bhikkhave, dhammehi samannāgato bhikkhu ānāpānassatiṃ āsevanto nacirasseva akuppaṃ paṭivijjhati. Katamehi pañcahi? Idha, bhikkhave, bhikkhu appaṭṭho hoti appakicco subharo susantoso jīvitaparikkhāresu; appāhāro hoti anodarikattaṃ anuyutto; appamiddho hoti jāgariyaṃ anuyutto; bahussuto hoti sutadharo sutasannicayo, ye te dhammā ādikalyāṇā majjhekalyāṇā pariyosānakalyāṇā sātthaṃ sabyañjanaṃ kevalaparipuṇṇaṃ parisuddhaṃ brahmacariyaṃ abhivadanti, tathārūpāssa dhammā bahussutā honti dhātā vacasā paricitā manasānupekkhitā diṭṭhiyā suppaṭividdhā; yathāvimuttaṃ cittaṃ paccavekkhati. Imehi kho, bhikkhave, pañcahi dhammehi samannāgato bhikkhu ānāpānassatiṃ āsevanto nacirasseva akuppaṃ paṭivijjhatī’’ti. Chaṭṭhaṃ.",
+   "zh": "“诸比丘，具足五法的比丘修习入出息念，不久即能证得不动。哪五种法？诸比丘，在此，比丘少欲、少事务、易供养、于生活资具善知足；饮食知量、致力于不贪求口腹；少睡眠、致力于警寤；多闻、受持所闻、累积所闻，凡是那些初善、中善、后善，义理与文句具足，宣说完全圆满、清净的梵行之法，他于如是诸法多闻、忆持、以言语熟习、以意思惟、以正见善通达；并如实地省察解脱之心。诸比丘，具足此五法的比丘修习入出息念，不久即能证得不动。” 第六",
+   "n": "96"
+  },
+  {
+   "idx": 13,
+   "pali": "7. Kathāsuttaṃ",
+   "zh": "7. [[kathāsutta|论经]]"
+  },
+  {
+   "idx": 14,
+   "pali": "‘‘Pañcahi , bhikkhave, dhammehi samannāgato bhikkhu ānāpānassatiṃ bhāvento nacirasseva akuppaṃ paṭivijjhati. Katamehi pañcahi? Idha, bhikkhave, bhikkhu appaṭṭho hoti appakicco subharo susantoso jīvitaparikkhāresu; appāhāro hoti anodarikattaṃ anuyutto; appamiddho hoti jāgariyaṃ anuyutto; yāyaṃ kathā ābhisallekhikā cetovivaraṇasappāyā, seyyathidaṃ – appicchakathā…pe… vimuttiñāṇadassanakathā, evarūpiyā kathāya nikāmalābhī hoti akicchalābhī akasiralābhī; yathāvimuttaṃ cittaṃ paccavekkhati. Imehi kho, bhikkhave, pañcahi dhammehi samannāgato bhikkhu ānāpānassatiṃ bhāvento nacirasseva akuppaṃ paṭivijjhatī’’ti. Sattamaṃ.",
+   "zh": "“诸比丘，具足五法的比丘修习入出息念，不久便能证悟不动。哪五种？诸比丘，于此，比丘少欲、少务、易养、于生活资具容易满足；饮食知量，致力于不贪腹；少睡眠，致力于警寤；凡是那些能削减、能帮助心开显的言论，即：少欲论……解脱智见论，对这类言论他能随愿获得、无困难地获得、不费力地获得；他如实审察由解脱而生的心。诸比丘，具足这五法的比丘修习入出息念，不久便能证悟不动。”第七",
+   "n": "97"
+  },
+  {
+   "idx": 15,
+   "pali": "8. Āraññakasuttaṃ",
+   "zh": "8. [[āraññakasutta|住阿兰若者经]]"
+  },
+  {
+   "idx": 16,
+   "pali": "‘‘Pañcahi, bhikkhave, dhammehi samannāgato bhikkhu ānāpānassatiṃ bahulīkaronto nacirasseva akuppaṃ paṭivijjhati. Katamehi pañcahi? Idha, bhikkhave, bhikkhu appaṭṭho hoti appakicco subharo susantoso jīvitaparikkhāresu; appāhāro hoti anodarikattaṃ anuyutto; appamiddho hoti jāgariyaṃ anuyutto; āraññako hoti pantasenāsano; yathāvimuttaṃ cittaṃ paccavekkhati. Imehi kho, bhikkhave, pañcahi dhammehi samannāgato bhikkhu ānāpānassatiṃ bahulīkaronto nacirasseva akuppaṃ paṭivijjhatī’’ti. Aṭṭhamaṃ.",
+   "zh": "“诸比丘，具足五法的比丘多修习入出息念，不久便能证悟不动。哪五种？诸比丘，于此，比丘少欲、少务、易养、于生活资具容易满足；饮食知量，致力于不贪腹；少睡眠，致力于警寤；他是阿兰若住者，居于边远的卧坐之处；他如实审察已解脱的心。诸比丘，具足这五法的比丘多修习入出息念，不久便能证悟不动。”第八",
+   "n": "98"
+  },
+  {
+   "idx": 17,
+   "pali": "9. Sīhasuttaṃ",
+   "zh": "9. [[sīhasutta|狮子经]]"
+  },
+  {
+   "idx": 18,
+   "pali": "‘‘Sīho, bhikkhave, migarājā sāyanhasamayaṃ āsayā nikkhamati; āsayā nikkhamitvā vijambhati; vijambhitvā samantā catuddisaṃ anuviloketi; samantā catuddisaṃ anuviloketvā tikkhattuṃ sīhanādaṃ nadati; tikkhattuṃ sīhanādaṃ naditvā gocarāya pakkamati. So hatthissa cepi pahāraṃ deti, sakkaccaññeva pahāraṃ deti, no asakkaccaṃ; mahiṃsassa cepi pahāraṃ deti, sakkaccaññeva pahāraṃ deti, no asakkaccaṃ; gavassa cepi pahāraṃ deti, sakkaccaññeva pahāraṃ deti, no asakkaccaṃ; dīpissa cepi pahāraṃ deti, sakkaccaññeva pahāraṃ deti , no asakkaccaṃ; khuddakānañcepi pāṇānaṃ pahāraṃ deti antamaso sasabiḷārānampi , sakkaccaññeva pahāraṃ deti, no asakkaccaṃ. Taṃ kissa hetu? ‘Mā me yoggapatho nassā’ti.",
+   "zh": "“诸比丘！狮子，兽中之王，在傍晚时分从巢穴出来；出得巢穴，便舒展身体；舒展身体后，便环顾四方；环顾四方后，三次发出狮子吼；发出三次狮子吼后，才出发觅食。它若是攻击大象，必郑重其事地攻击，绝不轻率；若是攻击水牛，必郑重其事地攻击，绝不轻率；若是攻击牛，必郑重其事地攻击，绝不轻率；若是攻击豹，必郑重其事地攻击，绝不轻率；乃至攻击像兔、猫一般的小动物，也必郑重其事地攻击，绝不轻率。那是什么原因呢？‘为令我的训练之道不致失坏。’”",
+   "n": "99"
+  },
+  {
+   "idx": 19,
+   "pali": "‘‘Sīhoti kho, bhikkhave, tathāgatassetaṃ adhivacanaṃ arahato sammāsambuddhassa. Yaṃ kho, bhikkhave, tathāgato parisāya dhammaṃ deseti, idamassa hoti sīhanādasmiṃ. Bhikkhūnañcepi, bhikkhave, tathāgato dhammaṃ deseti, sakkaccaññeva tathāgato dhammaṃ deseti, no asakkaccaṃ; bhikkhunīnañcepi, bhikkhave, tathāgato dhammaṃ deseti, sakkaccaññeva tathāgato dhammaṃ deseti, no asakkaccaṃ; upāsakānañcepi, bhikkhave, tathāgato dhammaṃ deseti, sakkaccaññeva tathāgato dhammaṃ deseti, no asakkaccaṃ; upāsikānañcepi, bhikkhave, tathāgato dhammaṃ deseti, sakkaccaññeva tathāgato dhammaṃ deseti, no asakkaccaṃ; puthujjanānañcepi, bhikkhave, tathāgato dhammaṃ deseti antamaso annabhāranesādānampi , sakkaccaññeva tathāgato dhammaṃ deseti, no asakkaccaṃ. Taṃ kissa hetu? Dhammagaru, bhikkhave, tathāgato dhammagāravo’’ti. Navamaṃ.",
+   "zh": "“诸比丘！‘狮子’，正是如来、阿拉汉、正自觉者的同义语。诸比丘！当如来在大众中说法时，那便是他的狮子吼。诸比丘！如来若向诸比丘说法，如来必定殷重说法，从不轻率；诸比丘！如来若向诸比丘尼说法，如来必定殷重说法，从不轻率；诸比丘！如来若向诸近事男说法，如来必定殷重说法，从不轻率；诸比丘！如来若向诸近事女说法，如来必定殷重说法，从不轻率；诸比丘！如来若向诸凡夫说法，乃至向运送食物者与猎人说法，如来也同样必定殷重说法，从不轻率。这是什么原因呢？诸比丘！如来尊重法、尊敬法。”第九经。"
+  },
+  {
+   "idx": 20,
+   "pali": "10. Kakudhatherasuttaṃ",
+   "zh": "10. [[kakudhatherasutta|迦拘陀长老经]]"
+  },
+  {
+   "idx": 21,
+   "pali": "Evaṃ me sutaṃ – ekaṃ samayaṃ bhagavā kosambiyaṃ viharati ghositārāme. Tena kho pana samayena kakudho nāma koliyaputto āyasmato mahāmoggallānassa upaṭṭhāko adhunākālaṅkato aññataraṃ manomayaṃ kāyaṃ upapanno. Tassa evarūpo attabhāvapaṭilābho hoti – seyyathāpi nāma dve vā tīṇi vā māgadhakāni gāmakkhettāni. So tena attabhāvapaṭilābhena neva attānaṃ no paraṃ byābādheti.",
+   "zh": "如是我闻：一时，世尊住在[[kosambī|憍赏弥]]城的瞿师罗。那时，名叫迦拘陀的拘利耶族之子，是具寿[[mahāmoggallāna|大目犍连]]的侍者，刚刚命终，便投生到一种意生身之中。他所得的自体，其范围犹如两三个摩揭陀国的村落田地。他以这样的自体，既不损恼自己，也不损恼他人。",
+   "n": "100"
+  },
+  {
+   "idx": 22,
+   "pali": "Atha kho kakudho devaputto yenāyasmā mahāmoggallāno tenupasaṅkami; upasaṅkamitvā āyasmantaṃ mahāmoggallānaṃ abhivādetvā ekamantaṃ aṭṭhāsi. Ekamantaṃ ṭhito kho kakudho devaputto āyasmantaṃ mahāmoggallānaṃ etadavoca – ‘‘devadattassa, bhante, evarūpaṃ icchāgataṃ uppajji – ‘ahaṃ bhikkhusaṅghaṃ pariharissāmī’ti. Sahacittuppādā ca, bhante, devadatto tassā iddhiyā parihīno’’ti. Idamavoca kakudho devaputto. Idaṃ vatvā āyasmantaṃ mahāmoggallānaṃ abhivādetvā padakkhiṇaṃ katvā tatthevantaradhāyi.",
+   "zh": "这时，迦拘陀天子前往具寿[[mahāmoggallāna|大目犍连]]之处。到了之后，向具寿[[mahāmoggallāna|大目犍连]]顶礼，站在一旁。立于一旁的迦拘陀天子对具寿[[mahāmoggallāna|大目犍连]]这样说：“尊者，[[devadatta|提婆达多]]心中生起了这样的欲望：‘我来领导比丘僧团。’尊者，就在这心念生起的同时，[[devadatta|提婆达多]]便从那神通中退失了。”迦拘陀天子说了这番话。说完之后，他向具寿[[mahāmoggallāna|大目犍连]]顶礼，右绕之后，便在那里消失不见。"
+  },
+  {
+   "idx": 23,
+   "pali": "Atha kho āyasmā mahāmoggallāno yena bhagavā tenupasaṅkami ; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho āyasmā mahāmoggallāno bhagavantaṃ etadavoca –",
+   "zh": "那时，尊者[[mahāmoggallāna|大目犍连]]来到世尊处，顶礼世尊后，在一旁坐下。坐定之后，尊者[[mahāmoggallāna|大目犍连]]对世尊这样说："
+  },
+  {
+   "idx": 24,
+   "pali": "‘‘Kakudho nāma, bhante, koliyaputto mamaṃ upaṭṭhāko adhunākālaṅkato aññataraṃ manomayaṃ kāyaṃ upapanno hoti. Tassa evarūpo attabhāvapaṭilābho – seyyathāpi nāma dve vā tīṇi vā māgadhakāni gāmakkhettāni. So tena attabhāvapaṭilābhena neva attānaṃ no paraṃ byābādheti. Atha kho, bhante, kakudho devaputto yenāhaṃ tenupasaṅkami; upasaṅkamitvā maṃ abhivādetvā ekamantaṃ aṭṭhāsi. Ekamantaṃ ṭhito kho, bhante, kakudho devaputto maṃ etadavoca – ‘devadattassa, bhante, evarūpaṃ icchāgataṃ uppajji – ahaṃ bhikkhusaṅghaṃ pariharissāmīti. Sahacittuppādā ca, bhante, devadatto tassā iddhiyā parihīno’ti. Idamavoca, bhante, kakudho devaputto. Idaṃ vatvā maṃ abhivādetvā padakkhiṇaṃ katvā tatthevantaradhāyī’’ti.",
+   "zh": "“尊者！我的侍者，名为迦拘陀的果利亚子，刚刚命终，投生到一个意生身。他所获得的自体，大约如同两个或三个摩揭陀的村落田地。以那样的自体，他既不恼害自己，也不恼害他人。那时，尊者！迦拘陀天子来到我处，礼敬后，站在一旁。站定后，迦拘陀天子对我这样说：‘尊者！[[devadatta|提婆达多]]生起了这样的欲求：“我将领导比丘僧团。”尊者！就在那心生起的当下，[[devadatta|提婆达多]]便从那神通中退失了。’尊者！迦拘陀天子说了这番话。说完之后，礼敬我，右绕，就在那里消失不见了。”"
+  },
+  {
+   "idx": 25,
+   "pali": "‘‘Kiṃ pana te, moggallāna, kakudho devaputto cetasā ceto paricca vidito – ‘yaṃ kiñci kakudho devaputto bhāsati sabbaṃ taṃ tatheva hoti, no aññathā’’’ti? ‘‘Cetasā ceto paricca vidito me, bhante, kakudho devaputto – ‘yaṃ kiñci kakudho devaputto bhāsati sabbaṃ taṃ tatheva hoti, no aññathā’’’ti. ‘‘Rakkhassetaṃ, moggallāna, vācaṃ! (Rakkhassetaṃ, moggallāna, vācaṃ) ! Idāni so moghapuriso attanāva attānaṃ pātukarissati .",
+   "zh": "“[[moggallāna|目犍连]]！你是否以心遍知迦拘陀天子的心，而确知：‘迦拘陀天子所说的一切，都如实如此，没有异样’？”“尊者！我以心遍知迦拘陀天子的心，确知：‘迦拘陀天子所说的一切，都如实如此，没有异样。’”“[[moggallāna|目犍连]]！你应当守护这句话。[[moggallāna|目犍连]]！现在，那愚人已自己显露了自己。”"
+  },
+  {
+   "idx": 26,
+   "pali": "‘‘Pañcime, moggallāna, satthāro santo saṃvijjamānā lokasmiṃ. Katame pañca? Idha , moggallāna, ekacco satthā aparisuddhasīlo samāno ‘parisuddhasīlomhī’ti paṭijānāti ‘parisuddhaṃ me sīlaṃ pariyodātaṃ asaṃkiliṭṭha’nti. Tamenaṃ sāvakā evaṃ jānanti – ‘ayaṃ kho bhavaṃ satthā aparisuddhasīlo samāno parisuddhasīlomhī’ti paṭijānāti ‘parisuddhaṃ me sīlaṃ pariyodātaṃ asaṃkiliṭṭha’nti. Mayañceva kho pana gihīnaṃ āroceyyāma, nāssassa manāpaṃ. Yaṃ kho panassa amanāpaṃ, kathaṃ naṃ mayaṃ tena samudācareyyāma – ‘sammannati kho pana cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhārena; yaṃ tumo karissati tumova tena paññāyissatī’ti . Evarūpaṃ kho, moggallāna, satthāraṃ sāvakā sīlato rakkhanti; evarūpo ca pana satthā sāvakehi sīlato rakkhaṃ paccāsīsati .",
+   "zh": "“[[moggallāna|目犍连]]，世间有这五种导师。哪五种呢？[[moggallāna|目犍连]]，在此，有某位导师戒行不清净，却自称‘我戒行清净，我的戒行清净、洁白、无染’。他的弟子们这样了知：‘这位尊师戒行不清净，却自称戒行清净……。如果我们告知在家众，这对他不会是可意的。既然对他不中意，我们怎么能那样对待他呢？他受用衣服、饮食、坐卧处、病者所需的医药资具；他所作的一切，终将因此为人所知。’[[moggallāna|目犍连]]，弟子们正是这样从戒行方面保护这位导师；而这样的导师也期望弟子们从戒行方面加以保护。”"
+  },
+  {
+   "idx": 27,
+   "pali": "‘‘Puna caparaṃ, moggallāna, idhekacco satthā aparisuddhājīvo samāno ‘parisuddhājīvomhī’ti paṭijānāti ‘parisuddho me ājīvo pariyodāto asaṃkiliṭṭho’ti. Tamenaṃ sāvakā evaṃ jānanti – ‘ayaṃ kho bhavaṃ satthā aparisuddhājīvo samāno parisuddhājīvomhī’ti paṭijānāti ‘parisuddho me ājīvo pariyodāto asaṃkiliṭṭho’ti. Mayañceva kho pana gihīnaṃ āroceyyāma, nāssassa manāpaṃ. Yaṃ kho panassa amanāpaṃ, kathaṃ naṃ mayaṃ tena samudācareyyāma – ‘sammannati kho pana cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhārena; yaṃ tumo karissati tumova tena paññāyissatī’ti. Evarūpaṃ kho, moggallāna, satthāraṃ sāvakā ājīvato rakkhanti; evarūpo ca pana satthā sāvakehi ājīvato rakkhaṃ paccāsīsati.",
+   "zh": "“再者，[[moggallāna|目犍连]]，在此，有某位导师活命不清净，却自称‘我活命清净’，‘我的活命清净、无垢、无杂染’。他的弟子们这样了知：‘这位尊师活命不清净，却自称活命清净……。如果我们告知在家众，这对他不会是可意的。既然对他不中意，我们怎么能那样对待他呢？他受用衣服、饮食、坐卧处、病者所需的医药资具；他所作的一切，终将因此为人所知。’[[moggallāna|目犍连]]，弟子们正是这样从活命方面保护这位导师；而这样的导师也期望弟子们从活命方面加以保护。”"
+  },
+  {
+   "idx": 28,
+   "pali": "‘‘Puna caparaṃ, moggallāna, idhekacco satthā aparisuddhadhammadesano samāno ‘parisuddhadhammadesanomhī’ti paṭijānāti ‘parisuddhā me dhammadesanā pariyodātā asaṃkiliṭṭhā’ti. Tamenaṃ sāvakā evaṃ jānanti – ‘ayaṃ kho bhavaṃ satthā aparisuddhadhammadesano samāno parisuddhadhammadesanomhī’ti paṭijānāti ‘parisuddhā me dhammadesanā pariyodātā asaṃkiliṭṭhā’ti. Mayañceva kho pana gihīnaṃ āroceyyāma, nāssassa manāpaṃ. Yaṃ kho panassa amanāpaṃ, kathaṃ naṃ mayaṃ tena samudācareyyāma – ‘sammannati kho pana cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhārena; yaṃ tumo karissati tumova tena paññāyissatī’ti. Evarūpaṃ kho, moggallāna, satthāraṃ sāvakā dhammadesanato rakkhanti ; evarūpo ca pana satthā sāvakehi dhammadesanato rakkhaṃ paccāsīsati.",
+   "zh": "“再者，[[moggallāna|目犍连]]，在此，有某位导师说法不清净，却自称‘我说法清净’，‘我的说法清净、无垢、无杂染’。他的弟子们这样了知：‘这位尊师说法不清净，却自称说法清净……。如果我们告知在家众，这对他不会是可意的。既然对他不中意，我们怎么能那样对待他呢？他受用衣服、饮食、坐卧处、病者所需的医药资具；他所作的一切，终将因此为人所知。’[[moggallāna|目犍连]]，弟子们正是这样从说法方面保护这位导师；而这样的导师也期望弟子们从说法方面加以保护。”"
+  },
+  {
+   "idx": 29,
+   "pali": "‘‘Puna caparaṃ, moggallāna, idhekacco satthā aparisuddhaveyyākaraṇo samāno ‘parisuddhaveyyākaraṇomhī’ti paṭijānāti ‘parisuddhaṃ me veyyākaraṇaṃ pariyodātaṃ asaṃkiliṭṭha’nti. Tamenaṃ sāvakā evaṃ jānanti – ‘ayaṃ kho bhavaṃ satthā aparisuddhaveyyākaraṇo samāno parisuddhaveyyākaraṇomhī’ti paṭijānāti ‘parisuddhaṃ me veyyākaraṇaṃ pariyodātaṃ asaṃkiliṭṭha’nti. Mayañceva kho pana gihīnaṃ āroceyyāma, nāssassa manāpaṃ . Yaṃ kho panassa amanāpaṃ, kathaṃ naṃ mayaṃ tena samudācareyyāma – ‘sammannati kho pana cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhārena; yaṃ tumo karissati tumova tena paññāyissatī’ti. Evarūpaṃ kho, moggallāna, satthāraṃ sāvakā veyyākaraṇato rakkhanti; evarūpo ca pana satthā sāvakehi veyyākaraṇato rakkhaṃ paccāsīsati.",
+   "zh": "“再者，[[moggallāna|目犍连]]，世间有一类导师，自己的解释不清净，却宣称：‘我解释清净’，‘我的解释是清净、纯净、无杂染的。’他的弟子们这样知道：‘这位尊贵的导师，自己的解释不清净，却宣称“我解释清净”、“我的解释是清净、纯净、无杂染的”。如果我们对在家人说出来，这不会让他欢喜。我们怎能用不让他欢喜的事来对待他呢？——他确实受用衣服、饮食、坐卧处和病者所需的医药资具；他所作的事，自然将因此而被知晓。’就这样，[[moggallāna|目犍连]]，弟子们从解释方面护持导师；同样的，导师也期望弟子们从解释方面护持。”"
+  },
+  {
+   "idx": 30,
+   "pali": "‘‘Puna caparaṃ, moggallāna, idhekacco satthā aparisuddhañāṇadassano samāno ‘parisuddhañāṇadassanomhī’ti paṭijānāti ‘parisuddhaṃ me ñāṇadassanaṃ pariyodātaṃ asaṃkiliṭṭha’nti. Tamenaṃ sāvakā evaṃ jānanti – ‘ayaṃ kho bhavaṃ satthā aparisuddhañāṇadassano samāno parisuddhañāṇadassanomhī’ti paṭijānāti ‘parisuddhaṃ me ñāṇadassanaṃ pariyodātaṃ asaṃkiliṭṭha’nti. Mayañceva kho pana gihīnaṃ āroceyyāma, nāssassa manāpaṃ. Yaṃ kho panassa amanāpaṃ, kathaṃ naṃ mayaṃ tena samudācareyyāma – ‘sammannati kho pana cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhārena; yaṃ tumo karissati tumova tena paññāyissatī’ti. Evarūpaṃ kho, moggallāna, satthāraṃ sāvakā ñāṇadassanato rakkhanti; evarūpo ca pana satthā sāvakehi ñāṇadassanato rakkhaṃ paccāsīsati. Ime kho, moggallāna, pañca satthāro santo saṃvijjamānā lokasmiṃ.",
+   "zh": "“再者，[[moggallāna|目犍连]]，世间有一类导师，自己的智见不清净，却宣称：‘我智见清净’，‘我的智见是清净、纯净、无杂染的。’他的弟子们这样知道：‘这位尊贵的导师，自己的智见不清净，却宣称“我智见清净”、“我的智见是清净、纯净、无杂染的”。如果我们对在家人说出来，这不会让他欢喜。我们怎能用不让他欢喜的事来对待他呢？——他确实受用衣服、饮食、坐卧处和病者所需的医药资具；他所作的事，自然将因此而被知晓。’就这样，[[moggallāna|目犍连]]，弟子们从智见方面护持导师；同样的，导师也期望弟子们从智见方面护持。[[moggallāna|目犍连]]，这便是世间存在、出现的五种导师。”"
+  },
+  {
+   "idx": 31,
+   "pali": "‘‘Ahaṃ kho pana, moggallāna, parisuddhasīlo samāno ‘parisuddhasīlomhī’ti paṭijānāmi ‘parisuddhaṃ me sīlaṃ pariyodātaṃ asaṃkiliṭṭha’nti. Na ca maṃ sāvakā sīlato rakkhanti, na cāhaṃ sāvakehi sīlato rakkhaṃ paccāsīsāmi. Parisuddhājīvo samāno ‘parisuddhājīvomhī’ti paṭijānāmi ‘parisuddho me ājīvo pariyodāto asaṃkiliṭṭho’ti. Na ca maṃ sāvakā ājīvato rakkhanti, na cāhaṃ sāvakehi ājīvato rakkhaṃ paccāsīsāmi. Parisuddhadhammadesano samāno ‘parisuddhadhammadesanomhī’ti paṭijānāmi ‘parisuddhā me dhammadesanā pariyodātā asaṃkiliṭṭhā’ti. Na ca maṃ sāvakā dhammadesanato rakkhanti, na cāhaṃ sāvakehi dhammadesanato rakkhaṃ paccāsīsāmi. Parisuddhaveyyākaraṇo samāno ‘parisuddhaveyyākaraṇomhī’ti paṭijānāmi ‘parisuddhaṃ me veyyākaraṇaṃ pariyodātaṃ asaṃkiliṭṭha’nti. Na ca maṃ sāvakā veyyākaraṇato rakkhanti, na cāhaṃ sāvakehi veyyākaraṇato rakkhaṃ paccāsīsāmi. Parisuddhañāṇadassano samāno ‘parisuddhañāṇadassanomhī’ti paṭijānāmi ‘parisuddhaṃ me ñāṇadassanaṃ pariyodātaṃ asaṃkiliṭṭha’nti. Na ca maṃ sāvakā ñāṇadassanato rakkhanti, na cāhaṃ sāvakehi ñāṇadassanato rakkhaṃ paccāsīsāmī’’ti. Dasamaṃ.",
+   "zh": "“然而，[[moggallāna|目犍连]]，我自己戒清净，宣称‘我戒清净’，‘我的戒清净、净化、无杂染’。弟子们不从戒方面保护我，我也不期待弟子们从戒方面保护。我自己活命清净，宣称‘我活命清净’，‘我的活命清净、净化、无杂染’。弟子们不从活命方面保护我，我也不期待弟子们从活命方面保护。我自己说法清净，宣称‘我说法清净’，‘我的说法清净、净化、无杂染’。弟子们不从说法方面保护我，我也不期待弟子们从说法方面保护。我自己分别论清净，宣称‘我分别论清净’，‘我的分别论清净、净化、无杂染’。弟子们不从分别论方面保护我，我也不期待弟子们从分别论方面保护。我自己智见清净，宣称‘我智见清净’，‘我的智见清净、净化、无杂染’。弟子们不从智见方面保护我，我也不期待弟子们从智见方面保护。”第十经。"
+  },
+  {
+   "idx": 32,
+   "pali": "Kakudhavaggo pañcamo.",
+   "zh": "迦拘陀品第五"
+  },
+  {
+   "idx": 33,
+   "pali": "Tassuddānaṃ –",
+   "zh": "其摄颂："
+  },
+  {
+   "idx": 34,
+   "pali": "Dve sampadā byākaraṇaṃ, phāsu akuppapañcamaṃ;",
+   "zh": "二种具足、记说，安乐、不动为第五；",
+   "type": "verse"
+  },
+  {
+   "idx": 35,
+   "pali": "Sutaṃ kathā āraññako, sīho ca kakudho dasāti.",
+   "zh": "所闻、谈论、阿兰若者、狮子与迦拘陀，是为十。",
+   "type": "verse"
+  },
+  {
+   "idx": 36,
+   "pali": "Dutiyapaṇṇāsakaṃ samattaṃ.",
+   "zh": "第二组五十经终"
+  },
+  {
+   "idx": 37,
+   "pali": "3. Tatiyapaṇṇāsakaṃ",
+   "zh": "3. 第三组五十经"
+  }
+ ]
+}

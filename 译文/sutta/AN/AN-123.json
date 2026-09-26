@@ -1,0 +1,180 @@
+{
+ "uid": 123,
+ "title": "9. 清凉品",
+ "nik": "AN",
+ "segs": [
+  {
+   "idx": 0,
+   "pali": "9. Sītivaggo",
+   "zh": "9. 清凉品"
+  },
+  {
+   "idx": 1,
+   "pali": "1. Sītibhāvasuttaṃ",
+   "zh": "1. [[sītibhāvasutta|清凉经]]"
+  },
+  {
+   "idx": 2,
+   "pali": "‘‘Chahi , bhikkhave, dhammehi samannāgato bhikkhu abhabbo anuttaraṃ sītibhāvaṃ sacchikātuṃ. Katamehi chahi ? Idha, bhikkhave, bhikkhu yasmiṃ samaye cittaṃ niggahetabbaṃ tasmiṃ samaye cittaṃ na niggaṇhāti, yasmiṃ samaye cittaṃ paggahetabbaṃ tasmiṃ samaye cittaṃ na paggaṇhāti, yasmiṃ samaye cittaṃ sampahaṃsitabbaṃ tasmiṃ samaye cittaṃ na sampahaṃseti, yasmiṃ samaye cittaṃ ajjhupekkhitabbaṃ tasmiṃ samaye cittaṃ na ajjhupekkhati, hīnādhimuttiko ca hoti, sakkāyābhirato ca. Imehi kho, bhikkhave, chahi dhammehi samannāgato bhikkhu abhabbo anuttaraṃ sītibhāvaṃ sacchikātuṃ.",
+   "zh": "“诸比丘，具足六法的比丘，不能现证无上清凉。是哪六法呢？诸比丘，此处有比丘：当应抑制心时，不抑制心；当应策励心时，不策励心；当应鼓舞心时，不鼓舞心；当应舍置心时，不舍置心；且意乐低劣，乐著有身。诸比丘，具足此六法的比丘，不能现证无上清凉。”",
+   "n": "85"
+  },
+  {
+   "idx": 3,
+   "pali": "‘‘Chahi, bhikkhave, dhammehi samannāgato bhikkhu bhabbo anuttaraṃ sītibhāvaṃ sacchikātuṃ. Katamehi chahi? Idha, bhikkhave, bhikkhu yasmiṃ samaye cittaṃ niggahetabbaṃ tasmiṃ samaye cittaṃ niggaṇhāti, yasmiṃ samaye cittaṃ paggahetabbaṃ tasmiṃ samaye cittaṃ paggaṇhāti, yasmiṃ samaye cittaṃ sampahaṃsitabbaṃ tasmiṃ samaye cittaṃ sampahaṃseti, yasmiṃ samaye cittaṃ ajjhupekkhitabbaṃ tasmiṃ samaye cittaṃ ajjhupekkhati, paṇītādhimuttiko ca hoti, nibbānābhirato ca. Imehi kho, bhikkhave, chahi dhammehi samannāgato bhikkhu bhabbo anuttaraṃ sītibhāvaṃ sacchikātu’’nti. Paṭhamaṃ.",
+   "zh": "“诸比丘，具足六法的比丘，能证得无上清凉。哪六法呢？诸比丘，比丘于应抑制心时抑制心，于应策励心时策励心，于应鼓舞心时鼓舞心，于应舍置心时舍置心，并且志向殊胜，欣乐涅槃。诸比丘，具足此六法的比丘，能证得无上清凉。第一经。"
+  },
+  {
+   "idx": 4,
+   "pali": "2. Āvaraṇasuttaṃ",
+   "zh": "2. [[āvaraṇasutta|障碍经]]"
+  },
+  {
+   "idx": 5,
+   "pali": "‘‘Chahi, bhikkhave, dhammehi samannāgato suṇantopi saddhammaṃ abhabbo niyāmaṃ okkamituṃ kusalesu dhammesu sammattaṃ. Katamehi chahi ? Kammāvaraṇatāya samannāgato hoti, kilesāvaraṇatāya samannāgato hoti, vipākāvaraṇatāya samannāgato hoti, assaddho ca hoti, acchandiko ca, duppañño ca. Imehi kho, bhikkhave, chahi dhammehi samannāgato suṇantopi saddhammaṃ abhabbo niyāmaṃ okkamituṃ kusalesu dhammesu sammattaṃ.",
+   "zh": "“诸比丘，具足六法者，纵然听闻正法，也不能在诸善法上趣入正性决定。哪六法呢？为业障所障、为烦恼障所障、为果报障所障，且无信、无欲、慧力下劣。诸比丘，具足此六法者，纵然听闻正法，亦不能于诸善法趣入正性决定。”",
+   "n": "86"
+  },
+  {
+   "idx": 6,
+   "pali": "‘‘Chahi , bhikkhave, dhammehi samannāgato suṇanto saddhammaṃ bhabbo niyāmaṃ okkamituṃ kusalesu dhammesu sammattaṃ. Katamehi chahi? Na kammāvaraṇatāya samannāgato hoti, na kilesāvaraṇatāya samannāgato hoti, na vipākāvaraṇatāya samannāgato hoti, saddho ca hoti, chandiko ca, paññavā ca. Imehi kho, bhikkhave, chahi dhammehi samannāgato suṇanto saddhammaṃ bhabbo niyāmaṃ okkamituṃ kusalesu dhammesu sammatta’’nti. Dutiyaṃ.",
+   "zh": "“比丘们，具足六法的人，听闻正法时，便能于诸善法中趣入正性决定。哪六法呢？不具业障，不具烦恼障，不具异熟障；且具足信、欲、慧。比丘们，具足此六法者，听闻正法时，便能于诸善法中趣入正性决定。”第二经。"
+  },
+  {
+   "idx": 7,
+   "pali": "3. Voropitasuttaṃ",
+      "zh": "3. [[voropitasutta|夺命经]]"
+  },
+  {
+   "idx": 8,
+   "pali": "‘‘Chahi, bhikkhave, dhammehi samannāgato suṇantopi saddhammaṃ abhabbo niyāmaṃ okkamituṃ kusalesu dhammesu sammattaṃ. Katamehi chahi? Mātā jīvitā voropitā hoti, pitā jīvitā voropito hoti, arahaṃ jīvitā voropito hoti, tathāgatassa duṭṭhena cittena lohitaṃ uppāditaṃ hoti, saṅgho bhinno hoti, duppañño hoti jaḷo eḷamūgo. Imehi kho, bhikkhave, chahi dhammehi samannāgato suṇantopi saddhammaṃ abhabbo niyāmaṃ okkamituṃ kusalesu dhammesu sammattaṃ.",
+   "zh": "“比丘们，具足六法的人，即使听闻正法，亦不能于诸善法中趣入正性决定。哪六法呢？已夺取母亲的生命，已夺取父亲的生命，已夺取阿拉汉的生命，以恶心令如来出血，已分裂僧团，且慧劣、愚钝、暗昧。比丘们，具足此六法者，即使听闻正法，亦不能于诸善法中趣入正性决定。”",
+   "n": "87"
+  },
+  {
+   "idx": 9,
+   "pali": "‘‘Chahi, bhikkhave, dhammehi samannāgato suṇanto saddhammaṃ bhabbo niyāmaṃ okkamituṃ kusalesu dhammesu sammattaṃ. Katamehi chahi? Na mātā jīvitā voropitā hoti, na pitā jīvitā voropito hoti, na arahaṃ jīvitā voropito hoti, na tathāgatassa duṭṭhena cittena lohitaṃ uppāditaṃ hoti, na saṅgho bhinno hoti, paññavā hoti ajaḷo aneḷamūgo. Imehi kho, bhikkhave, chahi dhammehi samannāgato suṇanto saddhammaṃ bhabbo niyāmaṃ okkamituṃ kusalesu dhammesu sammatta’’nti. Tatiyaṃ.",
+   "zh": "“诸比丘，具足六法者，听闻正法时，能于诸善法中入正性决定。哪六法？未曾夺母之命，未曾夺父之命，未曾夺阿拉汉之命，未曾以恶心出如来身血，未曾破僧团，且具足智慧，不愚钝、不痴昧。诸比丘，具足此六法者，听闻正法时，能于诸善法中入正性决定。”第三"
+  },
+  {
+   "idx": 10,
+   "pali": "4. Sussūsatisuttaṃ",
+   "zh": "4. [[sussūsatisutta|乐闻经]]"
+  },
+  {
+   "idx": 11,
+   "pali": "‘‘Chahi, bhikkhave, dhammehi samannāgato suṇantopi saddhammaṃ abhabbo niyāmaṃ okkamituṃ kusalesu dhammesu sammattaṃ. Katamehi chahi? Tathāgatappavedite dhammavinaye desiyamāne na sussūsati, na sotaṃ odahati, na aññā cittaṃ upaṭṭhāpeti , anatthaṃ gaṇhāti, atthaṃ riñcati, ananulomikāya khantiyā samannāgato hoti. Imehi kho, bhikkhave, chahi dhammehi samannāgato suṇantopi saddhammaṃ abhabbo niyāmaṃ okkamituṃ kusalesu dhammesu sammattaṃ.",
+   "zh": "“诸比丘，具足六法者，纵闻正法，亦不能于诸善法中入正性决定。哪六法？当如来所开示之法与律被演说时，他不欲听闻，不倾耳谛听，不现起了知心，执取非义，弃舍真义，并具足不随顺之忍。诸比丘，具足此六法者，纵闻正法，亦不能于诸善法中入正性决定。",
+   "n": "88"
+  },
+  {
+   "idx": 12,
+   "pali": "‘‘Chahi , bhikkhave, dhammehi samannāgato suṇanto saddhammaṃ bhabbo niyāmaṃ okkamituṃ kusalesu dhammesu sammattaṃ. Katamehi chahi? Tathāgatappavedite dhammavinaye desiyamāne sussūsati, sotaṃ odahati, aññā cittaṃ upaṭṭhāpeti, atthaṃ gaṇhāti, anatthaṃ riñcati, anulomikāya khantiyā samannāgato hoti. Imehi kho, bhikkhave, chahi dhammehi samannāgato suṇanto saddhammaṃ bhabbo niyāmaṃ okkamituṃ kusalesu dhammesu sammatta’’nti. Catutthaṃ.",
+   "zh": "“诸比丘，具足六法者，于听闻正法时，便能于诸善法中入正性决定。哪六法呢？当如来所宣说的法与律被宣说时，他渴望听闻，倾耳恭听，生起了知之心，把握义理，舍弃非义，并具足随顺忍。诸比丘，具足此六法者，于听闻正法时，便能于诸善法中入正性决定。第四经。"
+  },
+  {
+   "idx": 13,
+   "pali": "5. Appahāyasuttaṃ",
+   "zh": "5. [[appahāyasutta|不舍断经]]"
+  },
+  {
+   "idx": 14,
+   "pali": "‘‘Cha , bhikkhave, dhamme appahāya abhabbo diṭṭhisampadaṃ sacchikātuṃ. Katame cha? Sakkāyadiṭṭhiṃ, vicikicchaṃ, sīlabbataparāmāsaṃ, apāyagamanīyaṃ rāgaṃ, apāyagamanīyaṃ dosaṃ, apāyagamanīyaṃ mohaṃ. Ime kho, bhikkhave, cha dhamme appahāya abhabbo diṭṭhisampadaṃ sacchikātuṃ.",
+   "zh": "“诸比丘，不舍断六法，则不能现证见具足。哪六法？有身见、疑、戒禁取、导向恶趣的贪、导向恶趣的嗔、导向恶趣的痴。诸比丘，不舍断此六法者，不能现证见具足。",
+   "n": "89"
+  },
+  {
+   "idx": 15,
+   "pali": "‘‘Cha, bhikkhave, dhamme pahāya bhabbo diṭṭhisampadaṃ sacchikātuṃ. Katame cha? Sakkāyadiṭṭhiṃ, vicikicchaṃ, sīlabbataparāmāsaṃ, apāyagamanīyaṃ rāgaṃ, apāyagamanīyaṃ dosaṃ, apāyagamanīyaṃ mohaṃ. Ime kho, bhikkhave, cha dhamme pahāya bhabbo diṭṭhisampadaṃ sacchikātu’’nti. Pañcamaṃ.",
+   "zh": "“诸比丘，舍断六法之人，便能够现证见具足。哪六种？有身见、疑、戒禁取、导向恶趣的贪、导向恶趣的嗔、导向恶趣的痴。诸比丘，舍断此六法者，便能现证见具足。第五经。"
+  },
+  {
+   "idx": 16,
+   "pali": "6. Pahīnasuttaṃ",
+   "zh": "6. [[pahīnasutta|已舍断经]]"
+  },
+  {
+   "idx": 17,
+   "pali": "‘‘Chayime , bhikkhave, dhammā diṭṭhisampannassa puggalassa pahīnā. Katame cha? Sakkāyadiṭṭhi, vicikicchā, sīlabbataparāmāso, apāyagamanīyo rāgo, apāyagamanīyo doso, apāyagamanīyo moho. Ime kho, bhikkhave, cha dhammā diṭṭhisampannassa puggalassa pahīnā’’ti. Chaṭṭhaṃ.",
+   "zh": "“诸比丘，见具足之人已舍断此六法。哪六种？有身见、疑、戒禁取、导向恶趣的贪、导向恶趣的嗔、导向恶趣的痴。诸比丘，见具足者已舍断这六法。”第六经。",
+   "n": "90"
+  },
+  {
+   "idx": 18,
+   "pali": "7. Abhabbasuttaṃ",
+   "zh": "7. [[abhabbasutta|不能经]]"
+  },
+  {
+   "idx": 19,
+   "pali": "‘‘Cha , bhikkhave, dhamme abhabbo diṭṭhisampanno puggalo uppādetuṃ . Katame cha? Sakkāyadiṭṭhiṃ, vicikicchaṃ, sīlabbataparāmāsaṃ, apāyagamanīyaṃ rāgaṃ, apāyagamanīyaṃ dosaṃ, apāyagamanīyaṃ mohaṃ. Ime kho, bhikkhave, cha dhamme abhabbo diṭṭhisampanno puggalo uppādetu’’nti. Sattamaṃ.",
+   "zh": "“诸比丘，见具足者无法生起六种法。哪六种呢？有身见、疑、戒禁取、导向恶趣的贪、导向恶趣的嗔、导向恶趣的痴。诸比丘，见具足者无法生起此六法。第七经。",
+   "n": "91"
+  },
+  {
+   "idx": 20,
+   "pali": "8. Paṭhamaabhabbaṭṭhānasuttaṃ",
+   "zh": "8. [[paṭhamaabhabbaṭṭhānasutta|第一不能处经]]"
+  },
+  {
+   "idx": 21,
+   "pali": "‘‘Chayimāni, bhikkhave, abhabbaṭṭhānāni. Katamāni cha? Abhabbo diṭṭhisampanno puggalo satthari agāravo viharituṃ appatisso, abhabbo diṭṭhisampanno puggalo dhamme agāravo viharituṃ appatisso, abhabbo diṭṭhisampanno puggalo saṅghe agāravo viharituṃ appatisso, abhabbo diṭṭhisampanno puggalo sikkhāya agāravo viharituṃ appatisso, abhabbo diṭṭhisampanno puggalo anāgamanīyaṃ vatthuṃ paccāgantuṃ, abhabbo diṭṭhisampanno puggalo aṭṭhamaṃ bhavaṃ nibbattetuṃ. Imāni kho, bhikkhave, cha abhabbaṭṭhānānī’’ti. Aṭṭhamaṃ.",
+   "zh": "“诸比丘，有六种不可能处。哪六种呢？具见之人不可能对导师不恭敬、无尊重而住；具见之人不可能对法不恭敬、无尊重而住；具见之人不可能对僧团不恭敬、无尊重而住；具见之人不可能对学处不恭敬、无尊重而住；具见之人不可能重返不应重返之处；具见之人不可能令第八有生起。诸比丘，这就是六种不可能处。” 第八。",
+   "n": "92"
+  },
+  {
+   "idx": 22,
+   "pali": "9. Dutiyaabhabbaṭṭhānasuttaṃ",
+   "zh": "9. [[dutiyaabhabbaṭṭhānasutta|第二不能处经]]"
+  },
+  {
+   "idx": 23,
+   "pali": "‘‘Chayimāni, bhikkhave, abhabbaṭṭhānāni. Katamāni cha? Abhabbo diṭṭhisampanno puggalo kañci saṅkhāraṃ niccato upagantuṃ, abhabbo diṭṭhisampanno puggalo kañci saṅkhāraṃ sukhato upagantuṃ, abhabbo diṭṭhisampanno puggalo kañci dhammaṃ attato upagantuṃ, abhabbo diṭṭhisampanno puggalo ānantariyaṃ kammaṃ kātuṃ, abhabbo diṭṭhisampanno puggalo kotūhalamaṅgalena suddhiṃ paccāgantuṃ , abhabbo diṭṭhisampanno puggalo ito bahiddhā dakkhiṇeyyaṃ gavesituṃ. Imāni kho, bhikkhave, cha abhabbaṭṭhānānī’’ti. Navamaṃ.",
+   "zh": "“诸比丘，有六种不可能处。哪六种呢？具见之人不可能将任何行视为常；具见之人不可能将任何行视为乐；具见之人不可能将任何法视为我；具见之人不可能造作无间业；具见之人不可能依奇兆、吉祥而求清净；具见之人不可能于此处之外寻求应供养处。诸比丘，这就是六种不可能处。” 第九经。",
+   "n": "93"
+  },
+  {
+   "idx": 24,
+   "pali": "10. Tatiyaabhabbaṭṭhānasuttaṃ",
+   "zh": "10. [[tatiyaabhabbaṭṭhānasutta|第三不可能处经]]"
+  },
+  {
+   "idx": 25,
+   "pali": "‘‘Chayimāni, bhikkhave, abhabbaṭṭhānāni. Katamāni cha? Abhabbo diṭṭhisampanno puggalo mātaraṃ jīvitā voropetuṃ, abhabbo diṭṭhisampanno puggalo pitaraṃ jīvitā voropetuṃ, abhabbo diṭṭhisampanno puggalo arahantaṃ jīvitā voropetuṃ, abhabbo diṭṭhisampanno puggalo tathāgatassa duṭṭhena cittena lohitaṃ uppādetuṃ, abhabbo diṭṭhisampanno puggalo saṅghaṃ bhindituṃ, abhabbo diṭṭhisampanno puggalo aññaṃ satthāraṃ uddisituṃ. Imāni kho, bhikkhave, cha abhabbaṭṭhānānī’’ti. Dasamaṃ.",
+   "zh": "“诸比丘，有六种不可能处。哪六种呢？具足正见者不可能夺取母亲的生命；具足正见者不可能夺取父亲的生命；具足正见者不可能夺取阿拉汉的生命；具足正见者不可能以恶心使如来出血；具足正见者不可能分裂僧团；具足正见者不可能推举其他导师。诸比丘，这就是六种不可能处。”第十。",
+   "n": "94"
+  },
+  {
+   "idx": 26,
+   "pali": "11. Catutthaabhabbaṭṭhānasuttaṃ",
+   "zh": "11. [[catutthaabhabbaṭṭhānasutta|第四不可能处经]]"
+  },
+  {
+   "idx": 27,
+   "pali": "‘‘Chayimāni , bhikkhave, abhabbaṭṭhānāni. Katamāni cha? Abhabbo diṭṭhisampanno puggalo sayaṃkataṃ sukhadukkhaṃ paccāgantuṃ, abhabbo diṭṭhisampanno puggalo paraṃkataṃ sukhadukkhaṃ paccāgantuṃ, abhabbo diṭṭhisampanno puggalo sayaṃkatañca paraṃkatañca sukhadukkhaṃ paccāgantuṃ, abhabbo diṭṭhisampanno puggalo asayaṃkāraṃ adhiccasamuppannaṃ sukhadukkhaṃ paccāgantuṃ, abhabbo diṭṭhisampanno puggalo aparaṃkāraṃ adhiccasamuppannaṃ sukhadukkhaṃ paccāgantuṃ, abhabbo diṭṭhisampanno puggalo asayaṃkārañca aparaṃkārañca adhiccasamuppannaṃ sukhadukkhaṃ paccāgantuṃ. Taṃ kissa hetu? Tathā hissa, bhikkhave, diṭṭhisampannassa puggalassa hetu ca sudiṭṭho hetusamuppannā ca dhammā. Imāni kho, bhikkhave, cha abhabbaṭṭhānānī’’ti. Ekādasamaṃ.",
+   "zh": "“诸比丘！有此六种不可能处。哪六种？具见者不可能执取‘苦乐唯自作’的见解，具见者不可能执取‘苦乐唯他作’的见解，具见者不可能执取‘苦乐既自作又他作’的见解，具见者不可能执取‘苦乐非自作，为无因生’的见解，具见者不可能执取‘苦乐非他作，为无因生’的见解，具见者不可能执取‘苦乐非自作亦非他作，为无因生’的见解。何以故？诸比丘！因为具见者已善见于因，亦已善见从因所生之法。诸比丘！这便是六种不可能处。”第十一经。",
+   "n": "95"
+  },
+  {
+   "idx": 28,
+   "pali": "Sītivaggo navamo.",
+   "zh": "第九清凉品"
+  },
+  {
+   "idx": 29,
+   "pali": "Tassuddānaṃ –",
+   "zh": "其摄颂："
+  },
+  {
+   "idx": 30,
+   "pali": "Sītibhāvaṃ āvaraṇaṃ, voropitā sussūsati;",
+   "zh": "清凉、障蔽、已害者、愿听闻；",
+   "type": "verse"
+  },
+  {
+   "idx": 31,
+   "pali": "Appahāya pahīnābhabbo, taṭṭhānā caturopi cāti.",
+   "zh": "未舍断、已舍断、不能、此等处、四种亦。",
+   "type": "verse"
+  }
+ ]
+}

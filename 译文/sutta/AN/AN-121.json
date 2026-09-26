@@ -1,0 +1,204 @@
+{
+ "uid": 121,
+ "title": "7. 天神品",
+ "nik": "AN",
+ "segs": [
+  {
+   "idx": 0,
+   "pali": "7. Devatāvaggo",
+   "zh": "7. 天神品"
+  },
+  {
+   "idx": 1,
+   "pali": "1. Anāgāmiphalasuttaṃ",
+   "zh": "1. [[anāgāmiphalasutta|不来果经]]"
+  },
+  {
+   "idx": 2,
+   "pali": "‘‘Cha , bhikkhave, dhamme appahāya abhabbo anāgāmiphalaṃ sacchikātuṃ. Katame cha? Assaddhiyaṃ, ahirikaṃ, anottappaṃ, kosajjaṃ, muṭṭhassaccaṃ, duppaññataṃ – ime kho, bhikkhave, cha dhamme appahāya abhabbo anāgāmiphalaṃ sacchikātuṃ.",
+   "zh": "“诸比丘，不舍断六法，则无法现证不来果。哪六法？无信、无惭、无愧、懈怠、失念与劣慧——诸比丘，不舍断这六法，便无法现证不来果。”",
+   "n": "65"
+  },
+  {
+   "idx": 3,
+   "pali": "‘‘Cha, bhikkhave, dhamme pahāya bhabbo anāgāmiphalaṃ sacchikātuṃ. Katame cha? Assaddhiyaṃ, ahirikaṃ, anottappaṃ, kosajjaṃ, muṭṭhassaccaṃ, duppaññataṃ – ime kho, bhikkhave, cha dhamme pahāya bhabbo anāgāmiphalaṃ sacchikātu’’nti. Paṭhamaṃ.",
+   "zh": "“诸比丘，舍断六法，则能现证不来果。哪六法？无信、无惭、无愧、懈怠、失念与劣慧——诸比丘，舍断这六法，便能现证不来果。”第一。"
+  },
+  {
+   "idx": 4,
+   "pali": "2. Arahattasuttaṃ",
+   "zh": "2. [[arahattasutta|阿拉汉果经]]"
+  },
+  {
+   "idx": 5,
+   "pali": "‘‘Cha, bhikkhave, dhamme appahāya abhabbo arahattaṃ sacchikātuṃ. Katame cha? Thinaṃ , middhaṃ, uddhaccaṃ, kukkuccaṃ, assaddhiyaṃ, pamādaṃ – ime kho, bhikkhave, cha dhamme appahāya abhabbo arahattaṃ sacchikātuṃ.",
+   "zh": "“诸比丘，若不舍断六法，则不能现证阿拉汉果。哪六法？昏沉、睡眠、掉举、追悔、无信、放逸——诸比丘，不舍断此六法者，不能现证阿拉汉果。",
+   "n": "66"
+  },
+  {
+   "idx": 6,
+   "pali": "‘‘Cha , bhikkhave, dhamme pahāya bhabbo arahattaṃ sacchikātuṃ. Katame cha? Thinaṃ, middhaṃ, uddhaccaṃ, kukkuccaṃ, assaddhiyaṃ, pamādaṃ – ime kho, bhikkhave, cha dhamme pahāya bhabbo arahattaṃ sacchikātu’’nti. Dutiyaṃ.",
+   "zh": "“诸比丘，若舍断六法，则能现证阿拉汉果。哪六法？昏沉、睡眠、掉举、追悔、无信、放逸——诸比丘，舍断此六法者，能现证阿拉汉果。”第二。"
+  },
+  {
+   "idx": 7,
+   "pali": "3. Mittasuttaṃ",
+   "zh": "3. [[mittasutta|友经]]"
+  },
+  {
+   "idx": 8,
+   "pali": "‘‘‘So vata, bhikkhave, bhikkhu pāpamitto pāpasahāyo pāpasampavaṅko, pāpamitte sevamāno bhajamāno payirupāsamāno, tesañca diṭṭhānugatiṃ āpajjamāno ābhisamācārikaṃ dhammaṃ paripūressatī’ti netaṃ ṭhānaṃ vijjati. ‘Ābhisamācārikaṃ dhammaṃ aparipūretvā sekhaṃ dhammaṃ paripūressatī’ti netaṃ ṭhānaṃ vijjati. ‘Sekhaṃ dhammaṃ aparipūretvā sīlāni paripūressatī’ti netaṃ ṭhānaṃ vijjati. ‘Sīlāni aparipūretvā kāmarāgaṃ vā rūparāgaṃ vā arūparāgaṃ vā pajahissatī’ti netaṃ ṭhānaṃ vijjati.",
+   "zh": "“诸比丘，若比丘是恶友、恶伴、近恶友者，亲近、承事、侍奉恶友，随顺其见，而能圆满增上行法，无有是处。未圆满增上行法而能圆满有学法，无有是处。未圆满有学法而能圆满诸戒，无有是处。未圆满诸戒而能舍离欲贪、色贪或无色贪，无有是处。”",
+   "n": "67"
+  },
+  {
+   "idx": 9,
+   "pali": "‘‘‘So vata, bhikkhave, bhikkhu kalyāṇamitto kalyāṇasahāyo kalyāṇasampavaṅko, kalyāṇamitte sevamāno bhajamāno payirupāsamāno, tesañca diṭṭhānugatiṃ āpajjamāno ābhisamācārikaṃ dhammaṃ paripūressatī’ti ṭhānametaṃ vijjati. ‘Ābhisamācārikaṃ dhammaṃ paripūretvā sekhaṃ dhammaṃ paripūressatī’ti ṭhānametaṃ vijjati. ‘Sekhaṃ dhammaṃ paripūretvā sīlāni paripūressatī’ti ṭhānametaṃ vijjati. ‘Sīlāni paripūretvā kāmarāgaṃ vā rūparāgaṃ vā arūparāgaṃ vā pajahissatī’ti ṭhānametaṃ vijjatī’’ti. Tatiyaṃ.",
+   "zh": "“诸比丘，若比丘是善友、善伴、近善友者，亲近、承事、侍奉善友，随顺其见，便能圆满增上行法，有是处。圆满增上行法便能圆满有学法，有是处。圆满有学法便能圆满诸戒，有是处。圆满诸戒便能舍离欲贪、色贪或无色贪，有是处。”第三。"
+  },
+  {
+   "idx": 10,
+   "pali": "4. Saṅgaṇikārāmasuttaṃ",
+   "zh": "4. [[saṅgaṇikārāmasutta|群聚乐经]]"
+  },
+  {
+   "idx": 11,
+   "pali": "‘‘‘So vata, bhikkhave, bhikkhu saṅgaṇikārāmo saṅgaṇikarato saṅgaṇikārāmataṃ anuyutto, gaṇārāmo gaṇarato gaṇārāmataṃ anuyutto, eko paviveke abhiramissatī’ti netaṃ ṭhānaṃ vijjati. ‘Eko paviveke anabhiramanto cittassa nimittaṃ gahessatī’ti netaṃ ṭhānaṃ vijjati. ‘Cittassa nimittaṃ agaṇhanto sammādiṭṭhiṃ paripūressatī’ti netaṃ ṭhānaṃ vijjati. ‘Sammādiṭṭhiṃ aparipūretvā sammāsamādhiṃ paripūressatī’ti netaṃ ṭhānaṃ vijjati. ‘Sammāsamādhiṃ aparipūretvā saṃyojanāni pajahissatī’ti netaṃ ṭhānaṃ vijjati. ‘Saṃyojanāni appahāya nibbānaṃ sacchikarissatī’ti netaṃ ṭhānaṃ vijjati.",
+   "zh": "“诸比丘，若一位比丘乐于群聚、喜于群聚、耽著群聚之乐，乐于众、喜于众、耽著众之乐，而能独自于远离中生欢喜，这是不可能的。独自于远离中不生欢喜，而能取心相，这是不可能的。不取心相，而能圆满正见，这是不可能的。不圆满正见，而能圆满正定，这是不可能的。不圆满正定，而能舍断诸结，这是不可能的。不舍断诸结，而能现证涅槃，这是不可能的。”",
+   "n": "68"
+  },
+  {
+   "idx": 12,
+   "pali": "‘‘‘So vata, bhikkhave, bhikkhu na saṅgaṇikārāmo na saṅgaṇikarato na saṅgaṇikārāmataṃ anuyutto, na gaṇārāmo na gaṇarato na gaṇārāmataṃ anuyutto, eko paviveke abhiramissatī’ti ṭhānametaṃ vijjati. ‘Eko paviveke abhiramanto cittassa nimittaṃ gahessatī’ti ṭhānametaṃ vijjati. ‘Cittassa nimittaṃ gaṇhanto sammādiṭṭhiṃ paripūressatī’ti ṭhānametaṃ vijjati. ‘Sammādiṭṭhiṃ paripūretvā sammāsamādhiṃ paripūressatī’ti ṭhānametaṃ vijjati. ‘Sammāsamādhiṃ paripūretvā saṃyojanāni pajahissatī’ti ṭhānametaṃ vijjati. ‘Saṃyojanāni pahāya nibbānaṃ sacchikarissatī’ti ṭhānametaṃ vijjatī’’ti. Catutthaṃ.",
+   "zh": "“诸比丘，若一位比丘不乐于群聚、不喜于群聚、不耽著群聚之乐，不乐于众、不喜于众、不耽著众之乐，则能独自于远离中生欢喜——这是可能的。独自于远离中生欢喜，则能取心相——这是可能的。取心相，则能圆满正见——这是可能的。圆满正见，则能圆满正定——这是可能的。圆满正定，则能舍断诸结——这是可能的。舍断诸结，则能现证涅槃——这是可能的。”第四。"
+  },
+  {
+   "idx": 13,
+   "pali": "5. Devatāsuttaṃ",
+   "zh": "5. [[devatāsutta|天人经]]"
+  },
+  {
+   "idx": 14,
+   "pali": "Atha kho aññatarā devatā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṃ jetavanaṃ obhāsetvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ aṭṭhāsi. Ekamantaṃ ṭhitā kho sā devatā bhagavantaṃ etadavoca – ‘‘chayime, bhante, dhammā bhikkhuno aparihānāya saṃvattanti. Katame cha? Satthugāravatā, dhammagāravatā, saṅghagāravatā, sikkhāgāravatā, sovacassatā, kalyāṇamittatā – ime kho, bhante, cha dhammā bhikkhuno aparihānāya saṃvattantī’’ti. Idamavoca sā devatā. Samanuñño satthā ahosi. Atha kho sā devatā ‘‘samanuñño me satthā’’ti bhagavantaṃ abhivādetvā padakkhiṇaṃ katvā tatthevantaradhāyi.",
+   "zh": "那时，有一位天人于夜深时分，以殊胜容色照亮整座祇园后，来到世尊之处，礼敬世尊，立于一旁。立于一旁的那位天人对世尊这样说：“尊者，有六法能令比丘不退失。哪六法？恭敬导师、恭敬法、恭敬僧团、恭敬学、恭敬易受教、恭敬善友——尊者，这六法能令比丘不退失。”那位天人说了这番话。导师予以认可。那时，那位天人心想“导师认可我了”，便礼敬世尊，右绕之后，就在那里消失了。",
+   "n": "69"
+  },
+  {
+   "idx": 15,
+   "pali": "Atha kho bhagavā tassā rattiyā accayena bhikkhū āmantesi – ‘‘imaṃ , bhikkhave, rattiṃ aññatarā devatā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṃ jetavanaṃ obhāsetvā yenāhaṃ tenupasaṅkami; upasaṅkamitvā maṃ abhivādetvā ekamantaṃ aṭṭhāsi. Ekamantaṃ ṭhitā kho, bhikkhave, sā devatā maṃ etadavoca – ‘chayime, bhante, dhammā bhikkhuno aparihānāya saṃvattanti. Katame cha? Satthugāravatā, dhammagāravatā, saṅghagāravatā, sikkhāgāravatā, sovacassatā, kalyāṇamittatā – ime kho, bhante, cha dhammā bhikkhuno aparihānāya saṃvattantī’ti. Idamavoca, bhikkhave, sā devatā. Idaṃ vatvā maṃ abhivādetvā padakkhiṇaṃ katvā tatthevantaradhāyī’’ti.",
+   "zh": "那时，世尊在那夜过后，召集比丘们说：“诸比丘，昨夜有一位天人于夜深时分，以殊胜容色照亮整座祇园后，来到我处，礼敬我后，立于一旁。诸比丘，那位立于一旁的天人对我说：‘尊者，有六法能令比丘不退失。哪六法？恭敬导师、恭敬法、恭敬僧团、恭敬学、易受教诫、恭敬善友——尊者，这六法能令比丘不退失。’诸比丘，那位天人说了这番话，说完后礼敬我，右绕后，就在那里消失了。”"
+  },
+  {
+   "idx": 16,
+   "pali": "Evaṃ vutte āyasmā sāriputto bhagavantaṃ abhivādetvā etadavoca – ‘‘imassa kho ahaṃ, bhante, bhagavatā saṃkhittena bhāsitassa evaṃ vitthārena atthaṃ ājānāmi. Idha, bhante, bhikkhu attanā ca satthugāravo hoti satthugāravatāya ca vaṇṇavādī. Ye caññe bhikkhū na satthugāravā te ca satthugāravatāya samādapeti. Ye caññe bhikkhū satthugāravā tesañca vaṇṇaṃ bhaṇati bhūtaṃ tacchaṃ kālena. Attanā ca dhammagāravo hoti…pe… saṅghagāravo hoti… sikkhāgāravo hoti … suvaco hoti… kalyāṇamitto hoti kalyāṇamittatāya ca vaṇṇavādī. Ye caññe bhikkhū na kalyāṇamittā te ca kalyāṇamittatāya samādapeti. Ye caññe bhikkhū kalyāṇamittā tesañca vaṇṇaṃ bhaṇati bhūtaṃ tacchaṃ kālena . Imassa kho ahaṃ, bhante, bhagavatā saṃkhittena bhāsitassa evaṃ vitthārena atthaṃ ājānāmī’’ti.",
+   "zh": "如此说时，[[Sāriputta|舍利弗]]尊者顶礼世尊已，如是说道：“尊者！世尊简略所说，我如是详了其义：于此，比丘自身恭敬导师，并赞叹恭敬导师之德。若有其他比丘不恭敬导师，他便劝导其恭敬导师；若有其他比丘已恭敬导师，他便于适当时机如实、称实而赞叹。自身恭敬法……恭敬僧……恭敬学……柔顺易教……亲近善友，并赞叹亲近善友之德。见有非善友之比丘，便劝导其亲近善友；见有是善友之比丘，便于适当时机如实、称实而赞叹。尊者！世尊简略所说，我如是详了其义。”"
+  },
+  {
+   "idx": 17,
+   "pali": "‘‘Sādhu sādhu, sāriputta! Sādhu kho tvaṃ, sāriputta, imassa mayā saṃkhittena bhāsitassa evaṃ vitthārena atthaṃ ājānāsi. Idha, sāriputta, bhikkhu attanā ca satthugāravo hoti satthugāravatāya ca vaṇṇavādī. Ye caññe bhikkhū na satthugāravā te ca satthugāravatāya samādapeti. Ye caññe bhikkhū satthugāravā tesañca vaṇṇaṃ bhaṇati bhūtaṃ tacchaṃ kālena. Attanā ca dhammagāravo hoti…pe… saṅghagāravo hoti… sikkhāgāravo hoti… suvaco hoti… kalyāṇamitto hoti kalyāṇamittatāya ca vaṇṇavādī. Ye caññe bhikkhū na kalyāṇamittā te ca kalyāṇamittatāya samādapeti. Ye caññe bhikkhū kalyāṇamittā tesañca vaṇṇaṃ bhaṇati bhūtaṃ tacchaṃ kālena. Imassa kho, sāriputta, mayā saṃkhittena bhāsitassa evaṃ vitthārena attho daṭṭhabbo’’ti. Pañcamaṃ.",
+   "zh": "“善哉，善哉，[[Sāriputta|舍利弗]]！善哉，[[Sāriputta|舍利弗]]，你能如此详了我简略所说之义。[[Sāriputta|舍利弗]]，于此，比丘自身恭敬导师，并赞叹恭敬导师之德；若有其他比丘不恭敬导师，便劝导其恭敬导师；若有其他比丘已恭敬导师，便于适当时机如实、称实而赞叹。自身恭敬法……恭敬僧……恭敬学……柔顺易教……亲近善友，并赞叹亲近善友之德；见有非善友之比丘，便劝导其亲近善友；见有是善友之比丘，便于适当时机如实、称实而赞叹。[[Sāriputta|舍利弗]]，我简略所说之义，当如此详观。”第五经。"
+  },
+  {
+   "idx": 18,
+   "pali": "6. Samādhisuttaṃ",
+   "zh": "6. [[samādhisutta|定经]]"
+  },
+  {
+   "idx": 19,
+   "pali": "‘‘‘So vata, bhikkhave, bhikkhu na santena samādhinā na paṇītena na paṭippassaddhiladdhena na ekodibhāvādhigatena anekavihitaṃ iddhividhaṃ paccanubhavissati – ekopi hutvā bahudhā bhavissati, bahudhāpi hutvā eko bhavissati…pe… yāva brahmalokāpi kāyena vasaṃ vattessatī’ti netaṃ ṭhānaṃ vijjati. ‘Dibbāya sotadhātuyā visuddhāya atikkantamānusikāya ubho sadde suṇissati – dibbe ca mānuse ca ye dūre santike cā’ti netaṃ ṭhānaṃ vijjati. ‘Parasattānaṃ parapuggalānaṃ cetasā ceto paricca pajānissati – sarāgaṃ vā cittaṃ sarāgaṃ cittanti pajānissati …pe… vimuttaṃ vā cittaṃ vimuttaṃ cittanti pajānissatī’ti netaṃ ṭhānaṃ vijjati. ‘Anekavihitaṃ pubbenivāsaṃ anussarissati, seyyathidaṃ – ekampi jātiṃ, dvepi jātiyo…pe… iti sākāraṃ sauddesaṃ anekavihitaṃ pubbenivāsaṃ anussarissatī’ti netaṃ ṭhānaṃ vijjati. ‘Dibbena cakkhunā visuddhena atikkantamānusakena satte passissati…pe… yathākammūpage satte pajānissatī’ti netaṃ ṭhānaṃ vijjati . ‘Āsavānaṃ khayā…pe… sacchikatvā upasampajja viharissatī’ti netaṃ ṭhānaṃ vijjati.",
+   "zh": "“诸比丘，若比丘不依那寂静、殊胜、轻安所生、心达一境之定，而欲体验种种神变——一身化作多身，多身合为一身……乃至以身自在行于梵天界”，此事无有是处。“不依此定，而以清净超越常人的天耳界，听闻两种声音——天界与人间的、远处与近处的”，此事无有是处。“不依此定，而以心了知其他众生、其他人的心——有贪心了知有贪心……解脱心了知解脱心”，此事无有是处。“不依此定，而随念种种宿住，即一生、二生……具足行相与细节地随念种种宿住”，此事无有是处。“不依此定，而以清净超越常人的天眼，见有情……如实了知随业而去的有情”，此事无有是处。“不依此定，而欲诸漏尽……作证具足而住”，此事无有是处。",
+   "n": "70"
+  },
+  {
+   "idx": 20,
+   "pali": "‘‘‘So vata, bhikkhave, bhikkhu santena samādhinā paṇītena paṭippassaddhiladdhena ekodibhāvādhigatena anekavihitaṃ iddhividhaṃ paccanubhavissati…pe… yāva brahmalokāpi kāyena vasaṃ vattessatī’ti ṭhānametaṃ vijjati. ‘Dibbāya sotadhātuyā visuddhāya atikkantamānusikāya ubho sadde suṇissati – dibbe ca mānuse ca ye dūre santike cā’ti ṭhānametaṃ vijjati. ‘Parasattānaṃ parapuggalānaṃ cetasā ceto paricca pajānissati – sarāgaṃ vā cittaṃ sarāgaṃ cittanti pajānissati…pe… vimuttaṃ vā cittaṃ vimuttaṃ cittanti pajānissatī’ti ṭhānametaṃ vijjati. ‘Anekavihitaṃ pubbenivāsaṃ anussarissati, seyyathidaṃ – ekampi jātiṃ, dvepi jātiyo…pe… iti sākāraṃ sauddesaṃ anekavihitaṃ pubbenivāsaṃ anussarissatī’ti ṭhānametaṃ vijjati. ‘Dibbena cakkhunā visuddhena atikkantamānusakena satte passissati cavamāne upapajjamāne hīne paṇīte suvaṇṇe dubbaṇṇe, sugate duggate yathākammūpage satte pajānissatī’ti ṭhānametaṃ vijjati . ‘Āsavānaṃ khayā anāsavaṃ cetovimuttiṃ…pe… sacchikatvā upasampajja viharissatī’ti ṭhānametaṃ vijjatī’’ti. Chaṭṭhaṃ.",
+   "zh": "“诸比丘，若比丘依那寂静、殊胜、轻安所生、心达一境之定，即能体验种种神变——一身化作多身，多身合为一身……乃至以身自在行于梵天界”，此事有是处。“依此定，以清净超越常人的天耳界，听闻两种声音——天界与人间的、远处与近处的”，此事有是处。“依此定，以心了知其他众生、其他人的心——有贪心了知有贪心……解脱心了知解脱心”，此事有是处。“依此定，随念种种宿住，即一生、二生……具足行相与细节地随念种种宿住”，此事有是处。“依此定，以清净超越常人的天眼，见有情死时、生时，卑贱、高贵，美好、丑陋，善趣、恶趣，如实了知随业而去的有情”，此事有是处。“依此定，诸漏尽，无漏心解脱……作证具足而住”，此事有是处。第六经。"
+  },
+  {
+   "idx": 21,
+   "pali": "7. Sakkhibhabbasuttaṃ",
+   "zh": "7. [[sakkhibhabbasutta|能作证经]]"
+  },
+  {
+   "idx": 22,
+   "pali": "‘‘Chahi, bhikkhave, dhammehi samannāgato bhikkhu abhabbo tatra tatreva sakkhibhabbataṃ pāpuṇituṃ sati sati āyatane. Katamehi chahi? Idha , bhikkhave, bhikkhu ‘ime hānabhāgiyā dhammā’ti yathābhūtaṃ nappajānāti, ‘ime ṭhitibhāgiyā dhammā’ti yathābhūtaṃ nappajānāti, ‘ime visesabhāgiyā dhammā’ti yathābhūtaṃ nappajānāti, ‘ime nibbedhabhāgiyā dhammā’ti yathābhūtaṃ nappajānāti, asakkaccakārī ca hoti, asappāyakārī ca. Imehi kho, bhikkhave, chahi dhammehi samannāgato bhikkhu abhabbo tatra tatreva sakkhibhabbataṃ pāpuṇituṃ sati sati āyatane.",
+   "zh": "“诸比丘，具足六法的比丘，不论在何种所缘现前之际，都无法获得现证的能力。哪六法呢？诸比丘，在此，比丘不如实了知“这些是导向退失的法”，不如实了知“这些是导向住立的法”，不如实了知“这些是导向殊胜的法”，不如实了知“这些是导向通达的法”，不行恭敬，不作合宜之行。诸比丘，具足此六法的比丘，不论在何种所缘现前之际，都无法获得现证的能力。”",
+   "n": "71"
+  },
+  {
+   "idx": 23,
+   "pali": "‘‘Chahi, bhikkhave, dhammehi samannāgato bhikkhu bhabbo tatra tatreva sakkhibhabbataṃ pāpuṇituṃ sati sati āyatane. Katamehi chahi? Idha, bhikkhave, bhikkhu ‘ime hānabhāgiyā dhammā’ti yathābhūtaṃ pajānāti, ‘ime ṭhitibhāgiyā dhammā’ti yathābhūtaṃ pajānāti, ‘ime visesabhāgiyā dhammā’ti yathābhūtaṃ pajānāti, ‘ime nibbedhabhāgiyā dhammā’ti yathābhūtaṃ pajānāti, sakkaccakārī ca hoti, sappāyakārī ca. Imehi kho, bhikkhave, chahi dhammehi samannāgato bhikkhu bhabbo tatra tatreva sakkhibhabbataṃ pāpuṇituṃ sati sati āyatane’’ti. Sattamaṃ.",
+   "zh": "“诸比丘，具足六法的比丘，不论在何种所缘现前之际，都能获得现证的能力。哪六法呢？诸比丘，在此，比丘如实了知“这些是导向退失的法”，如实了知“这些是导向住立的法”，如实了知“这些是导向殊胜的法”，如实了知“这些是导向通达的法”，行恭敬，作合宜之行。诸比丘，具足此六法的比丘，不论在何种所缘现前之际，都能获得现证的能力。”第七经。"
+  },
+  {
+   "idx": 24,
+   "pali": "8. Balasuttaṃ",
+   "zh": "8. [[balasutta|力经]]"
+  },
+  {
+   "idx": 25,
+   "pali": "‘‘Chahi, bhikkhave, dhammehi samannāgato bhikkhu abhabbo samādhismiṃ balataṃ pāpuṇituṃ. Katamehi chahi? Idha, bhikkhave, bhikkhu na samādhissa samāpattikusalo hoti, na samādhissa ṭhitikusalo hoti, na samādhissa vuṭṭhānakusalo hoti, asakkaccakārī ca hoti, asātaccakārī ca, asappāyakārī ca. Imehi kho, bhikkhave, chahi dhammehi samannāgato bhikkhu abhabbo samādhismiṃ balataṃ pāpuṇituṃ.",
+   "zh": "“诸比丘，成就六法的比丘，不能于定中证得定力。是哪六法呢？比丘们，于此，比丘不善于入定，不善于住定，不善于出定，且不恭敬而修，不能相续而修，不作适宜之行。诸比丘，成就此六法的比丘，便不能于定中证得定力。”",
+   "n": "72"
+  },
+  {
+   "idx": 26,
+   "pali": "‘‘Chahi, bhikkhave, dhammehi samannāgato bhikkhu bhabbo samādhismiṃ balataṃ pāpuṇituṃ. Katamehi chahi? Idha , bhikkhave, bhikkhu samādhissa samāpattikusalo hoti, samādhissa ṭhitikusalo hoti, samādhissa vuṭṭhānakusalo hoti, sakkaccakārī ca hoti, sātaccakārī ca, sappāyakārī ca. Imehi kho, bhikkhave, chahi dhammehi samannāgato bhikkhu bhabbo samādhismiṃ balataṃ pāpuṇitu’’nti. Aṭṭhamaṃ.",
+   "zh": "“诸比丘，成就六法的比丘，能于定中证得定力。是哪六法呢？比丘们，于此，比丘善于入定，善于住定，善于出定，且恭敬而修，相续而修，作适宜之行。诸比丘，成就此六法的比丘，便能于定中证得定力。第八经。"
+  },
+  {
+   "idx": 27,
+   "pali": "9. Paṭhamatajjhānasuttaṃ",
+   "zh": "9. [[paṭhamatajjhānasutta|初禅经]]"
+  },
+  {
+   "idx": 28,
+   "pali": "‘‘Cha, bhikkhave, dhamme appahāya abhabbo paṭhamaṃ jhānaṃ upasampajja viharituṃ. Katame cha? Kāmacchandaṃ, byāpādaṃ, thinamiddhaṃ, uddhaccakukkuccaṃ, vicikicchaṃ. Kāmesu kho panassa ādīnavo na yathābhūtaṃ sammappaññāya sudiṭṭho hoti. Ime kho, bhikkhave, cha dhamme appahāya abhabbo paṭhamaṃ jhānaṃ upasampajja viharituṃ.",
+   "zh": "“诸比丘，若不舍断六法，则不能进入并安住于初禅那。哪六种呢？欲欲、嗔恚、昏沉睡眠、掉举追悔、疑，以及不能以正慧如实善见诸欲的过患。诸比丘，若不舍断此六法，则不能进入并安住于初禅那。",
+   "n": "73"
+  },
+  {
+   "idx": 29,
+   "pali": "‘‘Cha, bhikkhave, dhamme pahāya bhabbo paṭhamaṃ jhānaṃ upasampajja viharituṃ. Katame cha? Kāmacchandaṃ, byāpādaṃ, thinamiddhaṃ, uddhaccakukkuccaṃ, vicikicchaṃ, kāmesu kho panassa ādīnavo na yathābhūtaṃ sammappaññāya sudiṭṭho hoti. Ime kho, bhikkhave, cha dhamme pahāya bhabbo paṭhamaṃ jhānaṃ upasampajja viharitu’’nti. Navamaṃ.",
+   "zh": "“诸比丘，舍断六法，便能进入并安住于初禅那。哪六种呢？欲欲、嗔恚、昏沉睡眠、掉举追悔、疑，以及不能以正慧如实善见诸欲的过患。诸比丘，舍断此六法，便能进入并安住于初禅那。第九经。"
+  },
+  {
+   "idx": 30,
+   "pali": "10. Dutiyatajjhānasuttaṃ",
+   "zh": "10. [[dutiyatajjhānasutta|第二禅那经]]"
+  },
+  {
+   "idx": 31,
+   "pali": "‘‘Cha , bhikkhave, dhamme appahāya abhabbo paṭhamaṃ jhānaṃ upasampajja viharituṃ. Katame cha? Kāmavitakkaṃ, byāpādavitakkaṃ, vihiṃsāvitakkaṃ, kāmasaññaṃ, byāpādasaññaṃ, vihiṃsāsaññaṃ – ime kho, bhikkhave, cha dhamme appahāya abhabbo paṭhamaṃ jhānaṃ upasampajja viharituṃ.",
+   "zh": "“诸比丘，若不舍断六种法，便不能证入初禅而安住。哪六种呢？欲寻、嗔恚寻、害寻、欲想、嗔恚想、害想。诸比丘，不舍断此六法，便不能证入初禅而安住。”",
+   "n": "74"
+  },
+  {
+   "idx": 32,
+   "pali": "‘‘Cha, bhikkhave, dhamme pahāya bhabbo paṭhamaṃ jhānaṃ upasampajja viharituṃ. Katame cha? Kāmavitakkaṃ, byāpādavitakkaṃ, vihiṃsāvitakkaṃ, kāmasaññaṃ, byāpādasaññaṃ, vihiṃsāsaññaṃ – ime kho, bhikkhave, cha dhamme pahāya bhabbo paṭhamaṃ jhānaṃ upasampajja viharitu’’nti. Dasamaṃ.",
+   "zh": "“诸比丘，舍断此六法后，便能证入初禅而安住。哪六种呢？欲寻、嗔恚寻、害寻、欲想、嗔恚想、害想。诸比丘，舍断此六法后，便能证入初禅而安住。”第十经。"
+  },
+  {
+   "idx": 33,
+   "pali": "Devatāvaggo sattamo.",
+   "zh": "天神品第七"
+  },
+  {
+   "idx": 34,
+   "pali": "Tassuddānaṃ –",
+   "zh": "其摄颂："
+  },
+  {
+   "idx": 35,
+   "pali": "Anāgāmi arahaṃ mittā, saṅgaṇikārāmadevatā;",
+   "zh": "“不来者、阿拉汉、朋友、喜群居、天神；”",
+   "type": "verse"
+  },
+  {
+   "idx": 36,
+   "pali": "Samādhi sakkhibhabbaṃ balaṃ, tajjhānā apare duveti.",
+   "zh": "定为应现证之力，依此禅那而余二者。",
+   "type": "verse"
+  }
+ ]
+}

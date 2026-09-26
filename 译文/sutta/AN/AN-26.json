@@ -1,0 +1,99 @@
+{
+ "uid": 26,
+ "title": "1. 人品",
+ "nik": "AN",
+ "segs": [
+  {
+   "idx": 0,
+   "pali": "(6) 1. Puggalavaggo",
+   "zh": "（6） 1. 补特伽罗品"
+  },
+  {
+   "idx": 1,
+   "pali": "‘‘Dveme , bhikkhave, puggalā loke uppajjamānā uppajjanti bahujanahitāya bahujanasukhāya, bahuno janassa atthāya hitāya sukhāya devamanussānaṃ. Katame dve? Tathāgato ca arahaṃ sammāsambuddho, rājā ca cakkavattī. Ime kho, bhikkhave, dve puggalā loke uppajjamānā uppajjanti bahujanahitāya bahujanasukhāya, bahuno janassa atthāya hitāya sukhāya devamanussāna’’nti.",
+   "zh": "“诸比丘，这两种人出现于世间，是为众人的利益、众人的快乐，为众多人的义利、利益与安乐，为天与人的义利、利益与安乐而出现。哪两种？如来、阿拉汉、正自觉者，以及转轮王。诸比丘，这两种人出现于世间，正是为了众人的利益、众人的快乐，为了众多人的义利、利益与安乐，为了天与人的义利、利益与安乐而出现。”",
+   "n": "53"
+  },
+  {
+   "idx": 2,
+   "pali": "‘‘Dveme, bhikkhave, puggalā loke uppajjamānā uppajjanti acchariyamanussā. Katame dve? Tathāgato ca arahaṃ sammāsambuddho, rājā ca cakkavattī. Ime kho, bhikkhave, dve puggalā loke uppajjamānā uppajjanti acchariyamanussā’’ti.",
+   "zh": "“诸比丘，世间有两种人出现时，是作为稀有之人出现的。哪两种呢？如来、阿拉汉、正自觉者，与转轮王。诸比丘，这两种人出现于世间时，是作为稀有之人出现的。”",
+   "n": "54"
+  },
+  {
+   "idx": 3,
+   "pali": "‘‘Dvinnaṃ, bhikkhave, puggalānaṃ kālakiriyā bahuno janassa anutappā hoti. Katamesaṃ dvinnaṃ? Tathāgatassa ca arahato sammāsambuddhassa, rañño ca cakkavattissa. Imesaṃ kho, bhikkhave, dvinnaṃ puggalānaṃ kālakiriyā bahuno janassa anutappā hotī’’ti.",
+   "zh": "“诸比丘，这两种人的逝世，令众多人感到哀伤。哪两种呢？如来、阿拉汉、正自觉者，及转轮王。诸比丘，这两种人的逝世，令众多人感到哀伤。”",
+   "n": "55"
+  },
+  {
+   "idx": 4,
+   "pali": "‘‘Dveme, bhikkhave, thūpārahā. Katame dve? Tathāgato ca arahaṃ sammāsambuddho, rājā ca cakkavattī. Ime kho, bhikkhave, dve thūpārahā’’ti.",
+   "zh": "“诸比丘，这两种人值得为之建塔。哪两种呢？如来、阿拉汉、正自觉者，与转轮王。诸比丘，这两种人值得为之建塔。”",
+   "n": "56"
+  },
+  {
+   "idx": 5,
+   "pali": "‘‘Dveme, bhikkhave, buddhā. Katame dve? Tathāgato ca arahaṃ sammāsambuddho, paccekabuddho ca. Ime kho, bhikkhave, dve buddhā’’ti.",
+   "zh": "“诸比丘，有两种佛。哪两种？如来、阿拉汉、正自觉者，以及独觉佛。诸比丘，这便是两种佛。”",
+   "n": "57"
+  },
+  {
+   "idx": 6,
+   "pali": "‘‘Dveme , bhikkhave, asaniyā phalantiyā na santasanti. Katame dve? Bhikkhu ca khīṇāsavo, hatthājānīyo ca. Ime kho, bhikkhave, dve asaniyā phalantiyā na santasantī’’ti.",
+   "zh": "“诸比丘，有两种不因雷电击落而惊惧者。哪两种？漏尽的比丘，与良种象。诸比丘，这便是两种不因雷电击落而惊惧者。”",
+   "n": "58"
+  },
+  {
+   "idx": 7,
+   "pali": "‘‘Dveme, bhikkhave, asaniyā phalantiyā na santasanti. Katame dve? Bhikkhu ca khīṇāsavo, assājānīyo ca. Ime kho, bhikkhave, dve asaniyā phalantiyā na santasantī’’ti.",
+   "zh": "“诸比丘，有两种不因雷电击落而惊惧者。哪两种？漏尽的比丘，与良种马。诸比丘，这便是两种不因雷电击落而惊惧者。”",
+   "n": "59"
+  },
+  {
+   "idx": 8,
+   "pali": "‘‘Dveme , bhikkhave, asaniyā phalantiyā na santasanti. Katame dve? Bhikkhu ca khīṇāsavo, sīho ca migarājā. Ime kho, bhikkhave, dve asaniyā phalantiyā na santasantī’’ti.",
+   "zh": "“诸比丘，有两种在雷电劈落时不生惊惧。哪两种？漏尽比丘，与狮子兽王。诸比丘，这两种在雷电劈落时不生惊惧。”",
+   "n": "60"
+  },
+  {
+   "idx": 9,
+   "pali": "‘‘Dveme, bhikkhave, atthavase sampassamānā kiṃpurisā mānusiṃ vācaṃ na bhāsanti. Katame dve? Mā ca musā bhaṇimhā, mā ca paraṃ abhūtena abbhācikkhimhāti. Ime kho, bhikkhave, dve atthavase sampassamānā kiṃpurisā mānusiṃ vācaṃ na bhāsantī’’ti.",
+   "zh": "“诸比丘，紧那罗观见两种利益，故不说人类语言。哪两种？‘我们不说妄语，不以不实之言诽谤他人。’诸比丘，紧那罗观见这两种利益，故不说人类语言。”",
+   "n": "61"
+  },
+  {
+   "idx": 10,
+   "pali": "‘‘Dvinnaṃ dhammānaṃ, bhikkhave, atitto appaṭivāno mātugāmo kālaṃ karoti. Katamesaṃ dvinnaṃ? Methunasamāpattiyā ca vijāyanassa ca. Imesaṃ kho, bhikkhave, dvinnaṃ dhammānaṃ atitto appaṭivāno mātugāmo kālaṃ karotī’’ti.",
+   "zh": "“诸比丘，女人对两种法不知满足、不知厌离而命终。哪两种？行淫与生育。诸比丘，女人对这两种法不知满足、不知厌离而命终。”",
+   "n": "62"
+  },
+  {
+   "idx": 11,
+   "pali": "‘‘Asantasannivāsañca vo, bhikkhave, desessāmi santasannivāsañca. Taṃ suṇātha, sādhukaṃ manasi karotha; bhāsissāmī’’ti. ‘‘Evaṃ, bhante’’ti kho te bhikkhū bhagavato paccassosuṃ. Bhagavā etadavoca –",
+   "zh": "“诸比丘，我将为你们开示非善共住与善共住。谛听！善作意！我当宣说。” “是的，尊者！”那些比丘回答世尊。世尊这样说：",
+   "n": "63"
+  },
+  {
+   "idx": 12,
+   "pali": "‘‘Kathañca, bhikkhave, asantasannivāso hoti, kathañca asanto sannivasanti? Idha, bhikkhave, therassa bhikkhuno evaṃ hoti – ‘theropi maṃ na vadeyya, majjhimopi maṃ na vadeyya, navopi maṃ na vadeyya; therampāhaṃ na vadeyyaṃ, majjhimampāhaṃ na vadeyyaṃ, navampāhaṃ na vadeyyaṃ. Thero cepi maṃ vadeyya ahitānukampī maṃ vadeyya no hitānukampī, noti naṃ vadeyyaṃ viheṭheyyaṃ passampissa nappaṭikareyyaṃ. Majjhimo cepi maṃ vadeyya…pe… navo cepi maṃ vadeyya ahitānukampī maṃ vadeyya no hitānukampī, noti naṃ vadeyyaṃ viheṭheyyaṃ passampissa nappaṭikareyyaṃ’ . Majjhimassapi bhikkhuno evaṃ hoti…pe… navassapi bhikkhuno evaṃ hoti – ‘theropi maṃ na vadeyya, majjhimopi maṃ na vadeyya, navopi maṃ na vadeyya; therampāhaṃ na vadeyyaṃ, majjhimampāhaṃ na vadeyyaṃ, navampāhaṃ na vadeyyaṃ. Thero cepi maṃ vadeyya ahitānukampī maṃ vadeyya no hitānukampī noti naṃ vadeyyaṃ viheṭheyyaṃ passampissa nappaṭikareyyaṃ. Majjhimo cepi maṃ vadeyya…pe… navo cepi maṃ vadeyya ahitānukampī maṃ vadeyya no hitānukampī, noti naṃ vadeyyaṃ viheṭheyyaṃ passampissa nappaṭikareyyaṃ’. Evaṃ kho, bhikkhave, asantasannivāso hoti, evañca asanto sannivasanti.",
+   "zh": "“诸比丘，什么是非善共住？非善者又是如何共住的？在此，诸比丘，有长老比丘这样想：‘长老不应教诫我，中座不应教诫我，新学不应教诫我；我也不应教诫长老，不应教诫中座，不应教诫新学。若长老教诫我，他必是出于非利益、非哀愍，而非出于利益哀愍。我会对他说“不”，会恼害他，即使见到过失也绝不改正。若中座教诫我……若新学教诫我，他必是出于非利益、非哀愍，而非出于利益哀愍。我会对他说“不”，会恼害他，即使见到过失也绝不改正。’中座比丘也这样想……新学比丘也这样想：‘长老不应教诫我，中座不应教诫我，新学不应教诫我；我也不应教诫长老，不应教诫中座，不应教诫新学。若长老教诫我……若中座教诫我……若新学教诫我，他必是出于非利益、非哀愍，而非出于利益哀愍。我会对他说“不”，会恼害他，即使见到过失也绝不改正。’诸比丘，这就是非善共住，这就是非善者共住的方式。"
+  },
+  {
+   "idx": 13,
+   "pali": "‘‘Kathañca, bhikkhave, santasannivāso hoti, kathañca santo sannivasanti? Idha, bhikkhave, therassa bhikkhuno evaṃ hoti – ‘theropi maṃ vadeyya, majjhimopi maṃ vadeyya, navopi maṃ vadeyya; therampāhaṃ vadeyyaṃ, majjhimampāhaṃ vadeyyaṃ, navampāhaṃ vadeyyaṃ. Thero cepi maṃ vadeyya hitānukampī maṃ vadeyya no ahitānukampī, sādhūti naṃ vadeyyaṃ na viheṭheyyaṃ passampissa paṭikareyyaṃ. Majjhimo cepi maṃ vadeyya…pe… navo cepi maṃ vadeyya hitānukampī maṃ vadeyya no ahitānukampī, sādhūti naṃ vadeyyaṃ na naṃ viheṭheyyaṃ passampissa paṭikareyyaṃ’. Majjhimassapi bhikkhuno evaṃ hoti…pe… navassapi bhikkhuno evaṃ hoti – ‘theropi maṃ vadeyya, majjhimopi maṃ vadeyya, navopi maṃ vadeyya; therampāhaṃ vadeyyaṃ, majjhimampāhaṃ vadeyyaṃ, navampāhaṃ vadeyyaṃ. Thero cepi maṃ vadeyya hitānukampī maṃ vadeyya no ahitānukampī, sādhūti naṃ vadeyyaṃ na naṃ viheṭheyyaṃ passampissa paṭikareyyaṃ. Majjhimo cepi maṃ vadeyya…pe… navo cepi maṃ vadeyya hitānukampī maṃ vadeyya no ahitānukampī, sādhūti naṃ vadeyyaṃ na naṃ viheṭheyyaṃ passampissa paṭikareyyaṃ’. Evaṃ kho, bhikkhave, santasannivāso hoti, evañca santo sannivasantī’’ti.",
+   "zh": "“诸比丘，什么是善共住？善者又是如何共住的？在此，诸比丘，有长老比丘这样想：‘长老应教诫我，中座应教诫我，新学应教诫我；我也应教诫长老，应教诫中座，应教诫新学。若长老教诫我，他必是出于利益、出于哀愍，而非出于非利益、非哀愍。我会对他说“善哉”，不会恼害他，见到过失即行改正。若中座教诫我……若新学教诫我，他必是出于利益、出于哀愍，而非出于非利益、非哀愍。我会对他说“善哉”，不会恼害他，见到过失即行改正。’中座比丘也这样想……新学比丘也这样想：‘长老应教诫我，中座应教诫我，新学应教诫我；我也应教诫长老，应教诫中座，应教诫新学。若长老教诫我……若中座教诫我……若新学教诫我，他必是出于利益、出于哀愍，而非出于非利益、非哀愍。我会对他说“善哉”，不会恼害他，见到过失即行改正。’诸比丘，这就是善共住，这就是善者共住的方式。”"
+  },
+  {
+   "idx": 14,
+   "pali": "‘‘Yasmiṃ, bhikkhave, adhikaraṇe ubhato vacīsaṃsāro diṭṭhipaḷāso cetaso āghāto appaccayo anabhiraddhi ajjhattaṃ avūpasantaṃ hoti, tasmetaṃ, bhikkhave, adhikaraṇe pāṭikaṅkhaṃ – ‘dīghattāya kharattāya vāḷattāya saṃvattissati, bhikkhū ca na phāsuṃ viharissanti’. Yasmiñca kho, bhikkhave, adhikaraṇe ubhato vacīsaṃsāro diṭṭhipaḷāso cetaso āghāto appaccayo anabhiraddhi ajjhattaṃ suvūpasantaṃ hoti, tasmetaṃ, bhikkhave, adhikaraṇe pāṭikaṅkhaṃ – ‘na dīghattāya kharattāya vāḷattāya saṃvattissati, bhikkhū ca phāsuṃ viharissantī’’’ti.",
+   "zh": "“诸比丘，若在某一诤事中，双方言语往返、见解缠缚、内心抗拒、不信任、不欣悦，内在躁动未息，诸比丘，对于这样的诤事，应当预期：‘它将变得长久、粗重、猛利，比丘们将不得安乐而住。’反之，诸比丘，若在某一诤事中，双方言语往返、见解缠缚、内心抗拒、不信任、不欣悦，内在已善平息，诸比丘，对于这样的诤事，应当预期：‘它将不致长久、粗重、猛利，比丘们将得以安乐而住。’”",
+   "n": "64"
+  },
+  {
+   "idx": 15,
+   "pali": "Puggalavaggo paṭhamo.",
+   "zh": "补特伽罗品第一"
+  }
+ ]
+}

@@ -1,0 +1,209 @@
+{
+ "uid": 40,
+ "title": "1. 愚者品",
+ "nik": "AN",
+ "segs": [
+  {
+   "idx": 0,
+   "pali": "1. Paṭhamapaṇṇāsakaṃ",
+   "zh": "1. 第一组五十经"
+  },
+  {
+   "idx": 1,
+   "pali": "1. Bālavaggo",
+   "zh": "1. 愚者品"
+  },
+  {
+   "idx": 2,
+   "pali": "1. Bhayasuttaṃ",
+   "zh": "1. [[bhayasutta|怖畏经]]"
+  },
+  {
+   "idx": 3,
+   "pali": "Evaṃ me sutaṃ – ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Tatra kho bhagavā bhikkhū āmantesi – ‘‘bhikkhavo’’ti. ‘‘Bhadante ’’ti te bhikkhū bhagavato paccassosuṃ. Bhagavā etadavoca –",
+   "zh": "如是我闻：一时，世尊住在[[sāvatthī|舍卫城]]祇树[[Anāthapiṇḍika|给孤独]]园。在那里，世尊称呼诸比丘：“诸比丘。”那些比丘回答世尊：“尊者。”世尊如是说：",
+   "n": "1"
+  },
+  {
+   "idx": 4,
+   "pali": "‘‘Yāni kānici, bhikkhave, bhayāni uppajjanti sabbāni tāni bālato uppajjanti, no paṇḍitato. Ye keci upaddavā uppajjanti sabbe te bālato uppajjanti, no paṇḍitato. Ye keci upasaggā uppajjanti sabbe te bālato uppajjanti, no paṇḍitato. Seyyathāpi, bhikkhave, naḷāgārā vā tiṇāgārā vā aggi mutto kūṭāgārānipi ḍahati ullittāvalittāni nivātāni phusitaggaḷāni pihitavātapānāni; evamevaṃ kho, bhikkhave, yāni kānici bhayāni uppajjanti sabbāni tāni bālato uppajjanti, no paṇḍitato. Ye keci upaddavā uppajjanti sabbe te bālato uppajjanti, no paṇḍitato. Ye keci upasaggā uppajjanti sabbe te bālato uppajjanti, no paṇḍitato.",
+   "zh": "“诸比丘，凡是生起的恐惧，一切皆从愚者而生，非从智者；凡是生起的灾祸，一切皆从愚者而生，非从智者；凡是生起的障碍，一切皆从愚者而生，非从智者。诸比丘，譬如从芦苇屋或草屋窜出的火，也能烧毁那些涂有灰泥、密不透风、门闩紧固、门窗紧闭的楼阁；正是如此，诸比丘，凡是生起的恐惧，一切皆从愚者而生，非从智者；凡是生起的灾祸，一切皆从愚者而生，非从智者；凡是生起的障碍，一切皆从愚者而生，非从智者。”"
+  },
+  {
+   "idx": 5,
+   "pali": "‘‘Iti kho, bhikkhave, sappaṭibhayo bālo, appaṭibhayo paṇḍito. Saupaddavo bālo, anupaddavo paṇḍito. Saupasaggo bālo, anupasaggo paṇḍito. Natthi, bhikkhave, paṇḍitato bhayaṃ, natthi paṇḍitato upaddavo, natthi paṇḍitato upasaggo.",
+   "zh": "“诸比丘，如此，愚者伴随恐惧，智者无有恐惧；愚者伴随灾祸，智者无有灾祸；愚者伴随障碍，智者无有障碍。诸比丘，从智者则无恐惧，从智者则无灾祸，从智者则无障碍。”"
+  },
+  {
+   "idx": 6,
+   "pali": "‘‘Tasmātiha, bhikkhave, evaṃ sikkhitabbaṃ – ‘yehi tīhi dhammehi samannāgato bālo veditabbo te tayo dhamme abhinivajjetvā, yehi tīhi dhammehi samannāgato paṇḍito veditabbo te tayo dhamme samādāya vattissāmā’ti. Evañhi vo, bhikkhave, sikkhitabba’’nti. Paṭhamaṃ.",
+   "zh": "“因此，诸比丘，应当这样修学：‘舍弃了知愚者所具足的三法，受持了知智者所具足的三法，我们将如此行道。’诸比丘，你们应当这样修学。第一经终。”"
+  },
+  {
+   "idx": 7,
+   "pali": "2. Lakkhaṇasuttaṃ",
+   "zh": "2. [[lakkhaṇasutta|相经]]"
+  },
+  {
+   "idx": 8,
+   "pali": "‘‘Kammalakkhaṇo , bhikkhave, bālo, kammalakkhaṇo paṇḍito, apadānasobhanī paññāti . Tīhi, bhikkhave, dhammehi samannāgato bālo veditabbo. Katamehi tīhi? Kāyaduccaritena, vacīduccaritena, manoduccaritena. Imehi kho, bhikkhave, tīhi dhammehi samannāgato bālo veditabbo.",
+   "zh": "“诸比丘，愚者以业为相，智者以业为相，慧以所行而庄严。诸比丘，成就三法者，当知是愚者。哪三法？身恶行、口恶行、意恶行。诸比丘，成就此三法者，当知是愚者。”",
+   "n": "2"
+  },
+  {
+   "idx": 9,
+   "pali": "‘‘Tīhi, bhikkhave, dhammehi samannāgato paṇḍito veditabbo. Katamehi tīhi? Kāyasucaritena, vacīsucaritena, manosucaritena. Imehi kho, bhikkhave, tīhi dhammehi samannāgato paṇḍito veditabbo.",
+   "zh": "“诸比丘，成就三法者，当知是智者。哪三法？身善行、口善行、意善行。诸比丘，成就此三法者，当知是智者。”"
+  },
+  {
+   "idx": 10,
+   "pali": "‘‘Tasmātiha, bhikkhave, evaṃ sikkhitabbaṃ – ‘yehi tīhi dhammehi samannāgato bālo veditabbo te tayo dhamme abhinivajjetvā, yehi tīhi dhammehi samannāgato paṇḍito veditabbo te tayo dhamme samādāya vattissāmā’ti. Evañhi vo, bhikkhave, sikkhitabba’’nti. Dutiyaṃ.",
+   "zh": "“因此，比丘们，你们应当这样修学：‘具足这三种法，可知为愚者——我们应舍弃那三种法；具足这三种法，可知为智者——我们应受持那三种法而安住。’比丘们，你们应当如此修学。” 第二经。"
+  },
+  {
+   "idx": 11,
+   "pali": "3. Cintīsuttaṃ",
+   "zh": "3. [[cintīsutta|思惟经]]"
+  },
+  {
+   "idx": 12,
+   "pali": "‘‘Tīṇimāni, bhikkhave, bālassa bālalakkhaṇāni bālanimittāni bālāpadānāni . Katamāni tīṇi? Idha, bhikkhave, bālo duccintitacintī ca hoti dubbhāsitabhāsī ca dukkaṭakammakārī ca. No cedaṃ , bhikkhave, bālo duccintitacintī ca abhavissa dubbhāsitabhāsī ca dukkaṭakammakārī ca, kena naṃ paṇḍitā jāneyyuṃ – ‘bālo ayaṃ bhavaṃ asappuriso’ti? Yasmā ca kho, bhikkhave, bālo duccintitacintī ca hoti dubbhāsitabhāsī ca dukkaṭakammakārī ca tasmā naṃ paṇḍitā jānanti – ‘bālo ayaṃ bhavaṃ asappuriso’ti. Imāni kho, bhikkhave, tīṇi bālassa bālalakkhaṇāni bālanimittāni bālāpadānāni.",
+   "zh": "“诸比丘，愚者有此三种愚者相、愚者之标志、愚者之特征。哪三种？诸比丘，此处，愚者是恶思者、恶语者、恶行者。诸比丘，假如愚者不是恶思者、恶语者、恶行者，智者如何能了知：‘这位具寿是愚者、非善士’？诸比丘，正因为愚者是恶思者、恶语者、恶行者，所以智者了知：‘这位具寿是愚者、非善士’。诸比丘，这就是愚者的三种愚者相、愚者之标志、愚者之特征。”",
+   "n": "3"
+  },
+  {
+   "idx": 13,
+   "pali": "‘‘Tīṇimāni, bhikkhave, paṇḍitassa paṇḍitalakkhaṇāni paṇḍitanimittāni paṇḍitāpadānāni. Katamāni tīṇi? Idha, bhikkhave, paṇḍito sucintitacintī ca hoti subhāsitabhāsī ca sukatakammakārī ca. No cedaṃ, bhikkhave, paṇḍito sucintitacintī ca abhavissa subhāsitabhāsī ca sukatakammakārī ca, kena naṃ paṇḍitā jāneyyuṃ – ‘paṇḍito ayaṃ bhavaṃ sappuriso’ti? Yasmā ca kho, bhikkhave, paṇḍito sucintitacintī ca hoti subhāsitabhāsī ca sukatakammakārī ca tasmā naṃ paṇḍitā jānanti – ‘paṇḍito ayaṃ bhavaṃ sappuriso’ti. Imāni kho, bhikkhave, tīṇi paṇḍitassa paṇḍitalakkhaṇāni paṇḍitanimittāni paṇḍitāpadānāni. Tasmātiha…. Tatiyaṃ.",
+   "zh": "“诸比丘，智者有三种智者之相、智者之标记、智者之特征。哪三种呢？诸比丘，于此，智者是善思者、善语者、善行者。诸比丘，如果智者不是善思者、善语者、善行者，智者又凭什么知道“这位贤者是智者、是善人”呢？诸比丘，正因为智者是善思者、善语者、善行者，所以智者知道“这位贤者是智者、是善人”。诸比丘，这就是智者的三种智者之相、智者之标记、智者之特征。因此，这是第三。”"
+  },
+  {
+   "idx": 14,
+   "pali": "4. Accayasuttaṃ",
+   "zh": "4. [[accayasutta|过失经]]"
+  },
+  {
+   "idx": 15,
+   "pali": "‘‘Tīhi , bhikkhave, dhammehi samannāgato bālo veditabbo. Katamehi tīhi? Accayaṃ accayato na passati, accayaṃ accayato disvā yathādhammaṃ nappaṭikaroti, parassa kho pana accayaṃ desentassa yathādhammaṃ nappaṭiggaṇhāti. Imehi kho, bhikkhave, tīhi dhammehi samannāgato bālo veditabbo.",
+   "zh": "“诸比丘，具足三法者，当知是愚者。哪三种呢？不视过失为过失；知道过失是过失，却不如法忏悔；当他人坦白（发露）其过失时，不如法接受。诸比丘，具足此三法者，当知是愚者。”",
+   "n": "4"
+  },
+  {
+   "idx": 16,
+   "pali": "‘‘Tīhi, bhikkhave, dhammehi samannāgato paṇḍito veditabbo. Katamehi tīhi? Accayaṃ accayato passati, accayaṃ accayato disvā yathādhammaṃ paṭikaroti, parassa kho pana accayaṃ desentassa yathādhammaṃ paṭiggaṇhāti. Imehi kho, bhikkhave, tīhi dhammehi samannāgato paṇḍito veditabbo. Tasmātiha…. Catutthaṃ.",
+   "zh": "“诸比丘，具足三法者，应知是智者。哪三种呢？见过失为过失；见过失为过失之后，如法纠正；他人坦白（发露）过失时，如法接受。诸比丘，具足这三法者，应知是智者。因此，于此……第四。”"
+  },
+  {
+   "idx": 17,
+   "pali": "5. Ayonisosuttaṃ",
+   "zh": "5. [[ayonisosutta|非如理经]]"
+  },
+  {
+   "idx": 18,
+   "pali": "‘‘Tīhi, bhikkhave, dhammehi samannāgato bālo veditabbo. Katamehi tīhi? Ayoniso pañhaṃ kattā hoti, ayoniso pañhaṃ vissajjetā hoti, parassa kho pana yoniso pañhaṃ vissajjitaṃ parimaṇḍalehi padabyañjanehi siliṭṭhehi upagatehi nābbhanumoditā hoti. Imehi kho, bhikkhave, tīhi dhammehi samannāgato bālo veditabbo.",
+   "zh": "“诸比丘，具足三法者，应知是愚者。哪三种呢？以非如理的方式提问，以非如理的方式作答；对于他人以圆满、连贯而流畅的词句如理作答，却不随喜。诸比丘，具足这三法者，应知是愚者。”",
+   "n": "5"
+  },
+  {
+   "idx": 19,
+   "pali": "‘‘Tīhi, bhikkhave, dhammehi samannāgato paṇḍito veditabbo. Katamehi tīhi? Yoniso pañhaṃ kattā hoti, yoniso pañhaṃ vissajjetā hoti, parassa kho pana yoniso pañhaṃ vissajjitaṃ parimaṇḍalehi padabyañjanehi siliṭṭhehi upagatehi abbhanumoditā hoti. Imehi kho, bhikkhave, tīhi dhammehi samannāgato paṇḍito veditabbo. Tasmātiha…. Pañcamaṃ.",
+   "zh": "“诸比丘，具足三法者，应知是智者。哪三种呢？如理提问，如理回答，并能随喜他人以圆满、连贯、流畅的言辞所如理作出的回答。诸比丘，具足此三法者，应知是智者。”第五经。"
+  },
+  {
+   "idx": 20,
+   "pali": "6. Akusalasuttaṃ",
+   "zh": "6. [[akusalasutta|不善经]]"
+  },
+  {
+   "idx": 21,
+   "pali": "‘‘Tīhi, bhikkhave, dhammehi samannāgato bālo veditabbo. Katamehi tīhi? Akusalena kāyakammena, akusalena vacīkammena, akusalena manokammena. Imehi kho, bhikkhave, tīhi dhammehi samannāgato bālo veditabbo.",
+   "zh": "“诸比丘，具足三法者，应知是愚者。哪三种呢？不善的身业、不善的语业、不善的意业。诸比丘，具足此三法者，应知是愚者。”",
+   "n": "6"
+  },
+  {
+   "idx": 22,
+   "pali": "‘‘Tīhi, bhikkhave, dhammehi samannāgato paṇḍito veditabbo. Katamehi tīhi? Kusalena kāyakammena , kusalena vacīkammena, kusalena manokammena. Imehi kho, bhikkhave, tīhi dhammehi samannāgato paṇḍito veditabbo. Tasmātiha…. Chaṭṭhaṃ.",
+   "zh": "“诸比丘，成就三法者，当知是智者。哪三种呢？善的身业、善的语业、善的意业。诸比丘，成就此三法者，当知是智者。因此……第六。”"
+  },
+  {
+   "idx": 23,
+   "pali": "7. Sāvajjasuttaṃ",
+   "zh": "7. [[sāvajjasutta|有罪经]]"
+  },
+  {
+   "idx": 24,
+   "pali": "‘‘Tīhi, bhikkhave, dhammehi samannāgato bālo veditabbo. Katamehi tīhi? Sāvajjena kāyakammena, sāvajjena vacīkammena, sāvajjena manokammena…pe… anavajjena kāyakammena, anavajjena vacīkammena, anavajjena manokammena…pe…. Sattamaṃ.",
+   "zh": "“诸比丘，成就三法者，当知是愚者。哪三种呢？有过失的身业、有过失的语业、有过失的意业……无过失的身业、无过失的语业、无过失的意业……第七。",
+   "n": "7"
+  },
+  {
+   "idx": 25,
+   "pali": "8. Sabyābajjhasuttaṃ",
+   "zh": "8. [[sabyābajjhasutta|有害经]]"
+  },
+  {
+   "idx": 26,
+   "pali": "‘‘Tīhi, bhikkhave, dhammehi samannāgato bālo veditabbo. Katamehi tīhi? Sabyābajjhena kāyakammena, sabyābajjhena vacīkammena, sabyābajjhena manokammena…pe… abyābajjhena kāyakammena, abyābajjhena vacīkammena , abyābajjhena manokammena. Imehi, kho, bhikkhave, tīhi dhammehi samannāgato paṇḍito veditabbo.",
+   "zh": "“诸比丘！具足三法者，当知是愚人。哪三种法？有害的身业、有害的语业、有害的意业。……无害的身业、无害的语业、无害的意业。诸比丘！具足这三种法者，当知是智者。",
+   "n": "8"
+  },
+  {
+   "idx": 27,
+   "pali": "‘‘Tasmātiha, bhikkhave, evaṃ sikkhitabbaṃ – ‘yehi tīhi dhammehi samannāgato bālo veditabbo te tayo dhamme abhinivajjetvā, yehi tīhi dhammehi samannāgato paṇḍito veditabbo te tayo dhamme samādāya vattissāmā’ti. Evañhi vo, bhikkhave, sikkhitabba’’nti. Aṭṭhamaṃ.",
+   "zh": "“诸比丘！因此，应当这样学：‘那三种法具足者可知为愚者，我们应避开那三种法；那三种法具足者可知为智者，我们应受持那三种法而安住。’诸比丘！你们应当这样学。”第八。"
+  },
+  {
+   "idx": 28,
+   "pali": "9. Khatasuttaṃ",
+   "zh": "9. [[khatasutta|毁损经]]"
+  },
+  {
+   "idx": 29,
+   "pali": "‘‘Tīhi , bhikkhave, dhammehi samannāgato bālo abyatto asappuriso khataṃ upahataṃ attānaṃ pariharati, sāvajjo ca hoti sānuvajjo ca viññūnaṃ, bahuñca apuññaṃ pasavati. Katamehi tīhi? Kāyaduccaritena, vacīduccaritena, manoduccaritena. Imehi kho, bhikkhave, tīhi dhammehi samannāgato bālo abyatto asappuriso khataṃ upahataṃ attānaṃ pariharati, sāvajjo ca hoti sānuvajjo ca viññūnaṃ, bahuñca apuññaṃ pasavati.",
+   "zh": "“诸比丘，具足三法，愚者、无能者、不善士，令自己毁损受害，有过失、应受谴责，为智者所呵责，并积集众多非福德。哪三法？身恶行、语恶行、意恶行。诸比丘，具足此三法，愚者、无能者、不善士，令自己毁损受害，有过失、应受谴责，为智者所呵责，并积集众多非福德。",
+   "n": "9"
+  },
+  {
+   "idx": 30,
+   "pali": "‘‘Tīhi , bhikkhave, dhammehi samannāgato paṇḍito viyatto sappuriso akkhataṃ anupahataṃ attānaṃ pariharati, anavajjo ca hoti ananuvajjo ca viññūnaṃ, bahuñca puññaṃ pasavati. Katamehi tīhi? Kāyasucaritena, vacīsucaritena, manosucaritena. Imehi kho, bhikkhave, tīhi dhammehi samannāgato paṇḍito viyatto sappuriso akkhataṃ anupahataṃ attānaṃ pariharati, anavajjo ca hoti ananuvajjo ca viññūnaṃ, bahuñca puññaṃ pasavatī’’ti. Navamaṃ.",
+   "zh": "“诸比丘，具足三法，智者、有能者、善士，守护自身无毁无损，无有过失，不为智者所苛责，并积集广大福德。哪三法？身正行、语正行、意正行。诸比丘，具足此三法，智者、有能者、善士，守护自身无毁无损，无有过失，不为智者所苛责，并积集广大福德。”"
+  },
+  {
+   "idx": 31,
+   "pali": "10. Malasuttaṃ",
+   "zh": "10. [[malasutta|垢经]]"
+  },
+  {
+   "idx": 32,
+   "pali": "‘‘Tīhi, bhikkhave, dhammehi samannāgato tayo male appahāya yathābhataṃ nikkhitto evaṃ niraye. Katamehi tīhi? Dussīlo ca hoti, dussīlyamalañcassa appahīnaṃ hoti; issukī ca hoti, issāmalañcassa appahīnaṃ hoti; maccharī ca hoti, maccheramalañcassa appahīnaṃ hoti. Imehi kho, bhikkhave, tīhi dhammehi samannāgato ime tayo male appahāya yathābhataṃ nikkhitto evaṃ niraye.",
+   "zh": "“比丘们，具足三法而未舍离三垢者，便会如被带往一般，投生地狱。哪三法？戒行不净，其戒行之垢未舍断；心怀嫉妒，其嫉妒之垢未舍断；悭吝不舍，其悭吝之垢未舍断。比丘们，具足此三法而未舍离三垢者，便会如被带往一般，投生地狱。”",
+   "n": "10"
+  },
+  {
+   "idx": 33,
+   "pali": "‘‘Tīhi , bhikkhave, dhammehi samannāgato tayo male pahāya yathābhataṃ nikkhitto evaṃ sagge. Katamehi tīhi? Sīlavā ca hoti, dussīlyamalañcassa pahīnaṃ hoti; anissukī ca hoti, issāmalañcassa pahīnaṃ hoti; amaccharī ca hoti, maccheramalañcassa pahīnaṃ hoti. Imehi kho, bhikkhave, tīhi dhammehi samannāgato ime tayo male pahāya yathābhataṃ nikkhitto evaṃ sagge’’ti. Dasamaṃ.",
+   "zh": "“比丘们，具足三法而已舍断三垢者，便会如被带往一般，投生天界。哪三法？持戒者，其破戒之垢已舍断；不嫉妒者，其嫉妒之垢已舍断；不悭吝者，其悭吝之垢已舍断。比丘们，具足此三法而已舍断三垢者，便会如被带往一般，投生天界。”第十。"
+  },
+  {
+   "idx": 34,
+   "pali": "Bālavaggo paṭhamo.",
+   "zh": "愚者品第一"
+  },
+  {
+   "idx": 35,
+   "pali": "Tassuddānaṃ –",
+   "zh": "其摄颂："
+  },
+  {
+   "idx": 36,
+   "pali": "Bhayaṃ lakkhaṇacintī ca, accayañca ayoniso;",
+   "zh": "怖畏、相-思惟者，及非如理之过患；",
+   "type": "verse"
+  },
+  {
+   "idx": 37,
+   "pali": "Akusalañca sāvajjaṃ, sabyābajjhakhataṃ malanti.",
+   "zh": "不善、有罪、有害、有恼、污秽。",
+   "type": "verse"
+  }
+ ]
+}

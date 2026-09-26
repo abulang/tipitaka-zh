@@ -1,0 +1,844 @@
+{
+ "uid": 9,
+ "title": "9. 林相应",
+ "nik": "SN",
+ "segs": [
+  {
+   "idx": 144,
+   "pali": "9. Vanasaṃyuttaṃ",
+   "zh": "9. 林相应"
+  },
+  {
+   "idx": 145,
+   "pali": "1. Vivekasuttaṃ",
+   "zh": "1. [[vivekasutta|远离经]]"
+  },
+  {
+   "idx": 2,
+   "pali": "Evaṃ me sutaṃ – ekaṃ samayaṃ aññataro bhikkhu kosalesu viharati aññatarasmiṃ vanasaṇḍe. Tena kho pana samayena so bhikkhu divāvihāragato pāpake akusale vitakke vitakketi gehanissite. Atha kho yā tasmiṃ vanasaṇḍe adhivatthā devatā tassa bhikkhuno anukampikā atthakāmā taṃ bhikkhuṃ saṃvejetukāmā yena so bhikkhu tenupasaṅkami; upasaṅkamitvā taṃ bhikkhuṃ gāthāhi ajjhabhāsi –",
+   "zh": "如是我闻：一时，有一位比丘住于憍萨罗国的一片丛林中。那时，这位比丘在日间禅坐时，生起了与居家有关的、恶劣不善的念头。当时，住于那片丛林的天神，出于对这位比丘的怜悯，希望他得利益，欲令他生起悚惧，便来到那位比丘跟前，以偈颂对他说：",
+   "n": "221"
+  },
+  {
+   "idx": 3,
+   "pali": "‘‘Vivekakāmosi vanaṃ paviṭṭho,",
+   "zh": "“你志求远离，进入山林，",
+   "type": "verse"
+  },
+  {
+   "idx": 4,
+   "pali": "Atha te mano niccharatī bahiddhā;",
+   "zh": "然而你的心却向外驰散。",
+   "type": "verse"
+  },
+  {
+   "idx": 5,
+   "pali": "Jano janasmiṃ vinayassu chandaṃ,",
+   "zh": "你当调伏对人群的欲爱，",
+   "type": "verse"
+  },
+  {
+   "idx": 6,
+   "pali": "Tato sukhī hohisi vītarāgo.",
+   "zh": "如此，你便能离欲，获得安乐。",
+   "type": "verse"
+  },
+  {
+   "idx": 7,
+   "pali": "‘‘Aratiṃ pajahāsi sato, bhavāsi sataṃ taṃ sārayāmase;",
+   "zh": "“你当舍弃不满，安住正念；我们要提醒你念念不忘，成为具念之人。",
+   "type": "verse"
+  },
+  {
+   "idx": 8,
+   "pali": "Pātālarajo hi duttaro, mā taṃ kāmarajo avāhari.",
+   "zh": "这深渊般的尘垢实在难以跨越，切莫让那欲尘把你拖下去。",
+   "type": "verse"
+  },
+  {
+   "idx": 9,
+   "pali": "‘‘Sakuṇo yathā paṃsukunthito , vidhunaṃ pātayati sitaṃ rajaṃ;",
+   "zh": "“犹如一只满身尘土的鸟，抖擞身体，便抖落了那黏附的灰尘；",
+   "type": "verse"
+  },
+  {
+   "idx": 10,
+   "pali": "Evaṃ bhikkhu padhānavā satimā, vidhunaṃ pātayati sitaṃ raja’’nti.",
+   "zh": "同样地，精进、具念的比丘，也这般抖落粘附的尘垢。”",
+   "type": "verse"
+  },
+  {
+   "idx": 11,
+   "pali": "Atha kho so bhikkhu tāya devatāya saṃvejito saṃvegamāpādīti.",
+   "zh": "那时，那位比丘因那位天神的激励，生起了悚惧感。"
+  },
+  {
+   "idx": 146,
+   "pali": "2. Upaṭṭhānasuttaṃ",
+   "zh": "2. [[upaṭṭhānasutta|侍奉经]]"
+  },
+  {
+   "idx": 13,
+   "pali": "Ekaṃ samayaṃ aññataro bhikkhu kosalesu viharati aññatarasmiṃ vanasaṇḍe. Tena kho pana samayena so bhikkhu divāvihāragato supati. Atha kho yā tasmiṃ vanasaṇḍe adhivatthā devatā tassa bhikkhuno anukampikā atthakāmā taṃ bhikkhuṃ saṃvejetukāmā yena so bhikkhu tenupasaṅkami; upasaṅkamitvā taṃ bhikkhuṃ gāthāhi ajjhabhāsi –",
+   "zh": "有一次，一位比丘住在憍萨罗国的一片丛林里。那时，那位比丘在白日静修时睡着了。当时，住在那片丛林中的一位天神，出于怜悯、冀望于他有利益，想令他心生紧迫感，便来到那位比丘跟前，以偈颂对他说：",
+   "n": "222"
+  },
+  {
+   "idx": 14,
+   "pali": "‘‘Uṭṭhehi bhikkhu kiṃ sesi, ko attho supitena te;",
+   "zh": "“起来，比丘！为何躺着？睡眠于你有何益？",
+   "type": "verse"
+  },
+  {
+   "idx": 15,
+   "pali": "Āturassa hi kā niddā, sallaviddhassa ruppato.",
+   "zh": "被箭所刺、身受剧痛的人，哪还能安睡？",
+   "type": "verse"
+  },
+  {
+   "idx": 16,
+   "pali": "‘‘Yāya saddhāya pabbajito , agārasmānagāriyaṃ;",
+   "zh": "“你正是凭着那份信心，从在家生活出家，进入无家之状态；",
+   "type": "verse"
+  },
+  {
+   "idx": 17,
+   "pali": "Tameva saddhaṃ brūhehi, mā niddāya vasaṃ gamī’’ti.",
+   "zh": "你应增长那份信心，莫让自己落入睡眠的掌控。”",
+   "type": "verse"
+  },
+  {
+   "idx": 18,
+   "pali": "‘‘Aniccā addhuvā kāmā, yesu mandova mucchito;",
+   "zh": "“诸欲乐是无常、不恒久的，愚人却为之沉溺。",
+   "type": "verse"
+  },
+  {
+   "idx": 19,
+   "pali": "Baddhesu muttaṃ asitaṃ, kasmā pabbajitaṃ tape.",
+   "zh": "在受束缚者中，他已得解脱，无所依着，为何还要折磨一位出家者？",
+   "type": "verse"
+  },
+  {
+   "idx": 20,
+   "pali": "‘‘Chandarāgassa vinayā, avijjāsamatikkamā;",
+   "zh": "“为调伏欲贪，为超越无明，",
+   "type": "verse"
+  },
+  {
+   "idx": 21,
+   "pali": "Taṃ ñāṇaṃ paramodānaṃ , kasmā pabbajitaṃ tape.",
+   "zh": "那智慧已得最上清净，为何还要折磨出家者？",
+   "type": "verse"
+  },
+  {
+   "idx": 22,
+   "pali": "‘‘Chetvā avijjaṃ vijjāya, āsavānaṃ parikkhayā;",
+   "zh": "“以智断除无明，由诸漏灭尽；",
+   "type": "verse"
+  },
+  {
+   "idx": 23,
+   "pali": "Asokaṃ anupāyāsaṃ, kasmā pabbajitaṃ tape.",
+   "zh": "无忧无恼，何故恼害出家者？",
+   "type": "verse"
+  },
+  {
+   "idx": 24,
+   "pali": "‘‘Āraddhavīriyaṃ pahitattaṃ, niccaṃ daḷhaparakkamaṃ;",
+   "zh": "“他精进勇猛，志向坚定，恒常坚固精勤；",
+   "type": "verse"
+  },
+  {
+   "idx": 25,
+   "pali": "Nibbānaṃ abhikaṅkhantaṃ, kasmā pabbajitaṃ tape’’ti.",
+   "zh": "心向涅槃之人，何苦为难出家人？”",
+   "type": "verse"
+  },
+  {
+   "idx": 147,
+   "pali": "3. Kassapagottasuttaṃ",
+   "zh": "3. [[kassapagottasutta|迦叶果答经]]"
+  },
+  {
+   "idx": 27,
+   "pali": "Ekaṃ samayaṃ āyasmā kassapagotto kosalesu viharati aññatarasmiṃ vanasaṇḍe. Tena kho pana samayena āyasmā kassapagotto divāvihāragato aññataraṃ chetaṃ ovadati. Atha kho yā tasmiṃ vanasaṇḍe adhivatthā devatā āyasmantaṃ kassapagottaṃ saṃvejetukāmā yenāyasmā kassapagotto tenupasaṅkami; upasaṅkamitvā āyasmantaṃ kassapagottaṃ gāthāhi ajjhabhāsi –",
+   "zh": "有一次，具寿迦叶果答住在憍萨罗国的一片丛林中。那时，具寿迦叶果答在白天的禅修中，教导一位猎人。住在那片丛林中的天神想激发具寿迦叶果答的悚惧心，便来到他面前，以偈颂对他说道：",
+   "n": "223"
+  },
+  {
+   "idx": 28,
+   "pali": "‘‘Giriduggacaraṃ chetaṃ, appapaññaṃ acetasaṃ;",
+   "zh": "“那穿行于险峻山地的猎人，缺少智慧，心无觉知。",
+   "type": "verse"
+  },
+  {
+   "idx": 29,
+   "pali": "Akāle ovadaṃ bhikkhu, mandova paṭibhāti maṃ.",
+   "zh": "比丘，于非时教诫他，在我看来就如愚人一般。",
+   "type": "verse"
+  },
+  {
+   "idx": 30,
+   "pali": "‘‘Suṇāti na vijānāti, āloketi na passati;",
+   "zh": "“他听而不解，看而不见。",
+   "type": "verse"
+  },
+  {
+   "idx": 31,
+   "pali": "Dhammasmiṃ bhaññamānasmiṃ, atthaṃ bālo na bujjhati.",
+   "zh": "当法正被宣说时，愚者不能通达其中的义理。",
+   "type": "verse"
+  },
+  {
+   "idx": 32,
+   "pali": "‘‘Sacepi dasa pajjote, dhārayissasi kassapa;",
+   "zh": "“迦叶，纵使你手持十盏灯，",
+   "type": "verse"
+  },
+  {
+   "idx": 33,
+   "pali": "Neva dakkhati rūpāni, cakkhu hissa na vijjatī’’ti.",
+   "zh": "他也看不见任何色，因为他没有眼睛。”",
+   "type": "verse"
+  },
+  {
+   "idx": 34,
+   "pali": "Atha kho āyasmā kassapagotto tāya devatāya saṃvejito saṃvegamāpādīti.",
+   "zh": "那时，具寿迦叶果答为那位天神所策励，心生悚惧。"
+  },
+  {
+   "idx": 148,
+   "pali": "4. Sambahulasuttaṃ",
+   "zh": "4. [[sambahulasutta|众多经]]"
+  },
+  {
+   "idx": 36,
+   "pali": "Ekaṃ samayaṃ sambahulā bhikkhū kosalesu viharanti aññatarasmiṃ vanasaṇḍe. Atha kho te bhikkhū vassaṃvuṭṭhā temāsaccayena cārikaṃ pakkamiṃsu. Atha kho yā tasmiṃ vanasaṇḍe adhivatthā devatā te bhikkhū apassantī paridevamānā tāyaṃ velāyaṃ imaṃ gāthaṃ abhāsi –",
+   "zh": "一时，众多比丘住在憍萨罗国的一座丛林里。在那三个月的雨季安居圆满后，比丘们便外出游行。当时，住在那座丛林的天神不见诸比丘，心生悲泣，在那时诵出此偈：",
+   "n": "224"
+  },
+  {
+   "idx": 37,
+   "pali": "‘‘Arati viya mejja khāyati,",
+   "zh": "“今日我仿佛只感到不悦，",
+   "type": "verse"
+  },
+  {
+   "idx": 38,
+   "pali": "Bahuke disvāna vivitte āsane;",
+   "zh": "望见这许多空寂的坐卧之处；",
+   "type": "verse"
+  },
+  {
+   "idx": 39,
+   "pali": "Te cittakathā bahussutā,",
+   "zh": "那些善巧言说、博学多闻的人，",
+   "type": "verse"
+  },
+  {
+   "idx": 40,
+   "pali": "Kome gotamasāvakā gatā’’ti.",
+   "zh": "乔达摩的弟子们，都去往何处了？”",
+   "type": "verse"
+  },
+  {
+   "idx": 41,
+   "pali": "Evaṃ vutte, aññatarā devatā taṃ devataṃ gāthāya paccabhāsi –",
+   "zh": "听闻此言，另一位天神便以偈颂回应她说："
+  },
+  {
+   "idx": 42,
+   "pali": "‘‘Māgadhaṃ gatā kosalaṃ gatā, ekacciyā pana vajjibhūmiyā;",
+   "zh": "“他们有的去了摩揭陀，有的去了[[kosala|憍萨罗]]，还有的住在跋耆地方。",
+   "type": "verse"
+  },
+  {
+   "idx": 43,
+   "pali": "Magā viya asaṅgacārino, aniketā viharanti bhikkhavo’’ti.",
+   "zh": "犹如无着之鹿，诸比丘游行无拘，无有固定住处。”",
+   "type": "verse"
+  },
+  {
+   "idx": 149,
+   "pali": "5. Ānandasuttaṃ",
+   "zh": "5. [[ānandasutta|阿难经]]"
+  },
+  {
+   "idx": 45,
+   "pali": "Ekaṃ samayaṃ āyasmā ānando kosalesu viharati aññatarasmiṃ vanasaṇḍe. Tena kho pana samayena āyasmā ānando ativelaṃ gihisaññattibahulo viharati. Atha kho yā tasmiṃ vanasaṇḍe adhivatthā devatā āyasmato ānandassa anukampikā atthakāmā āyasmantaṃ ānandaṃ saṃvejetukāmā yenāyasmā ānando tenupasaṅkami; upasaṅkamitvā āyasmantaṃ ānandaṃ gāthāya ajjhabhāsi –",
+   "zh": "一时，[[ānanda|阿难]]尊者住于憍萨罗国的一座丛林里。那时，[[ānanda|阿难]]尊者过度忙于教化在家信众。住在那片丛林中的天神，出于对[[ānanda|阿难]]尊者的怜悯，希望他得到善益，想要令他生起悚惧感，便来到[[ānanda|阿难]]尊者跟前。到了之后，以偈颂对[[ānanda|阿难]]尊者说：",
+   "n": "225"
+  },
+  {
+   "idx": 46,
+   "pali": "‘‘Rukkhamūlagahanaṃ pasakkiya, nibbānaṃ hadayasmiṃ opiya;",
+   "zh": "“深入树根盘结的林间，将涅槃安住于心中；",
+   "type": "verse"
+  },
+  {
+   "type": "verse",
+   "idx": 47,
+   "pali": "Jhā gotama mā pamādo , kiṃ te biḷibiḷikā karissatī’’ti.",
+   "zh": "禅修吧，[[gotama|乔达摩]]，切莫放逸！这些聒噪喧闹于你何益？”"
+  },
+  {
+   "idx": 48,
+   "pali": "Atha kho āyasmā ānando tāya devatāya saṃvejito saṃvegamāpādīti.",
+   "zh": "那时，[[ānanda|阿难]]尊者被那位天神所警策，心生悚惧。"
+  },
+  {
+   "idx": 150,
+   "pali": "6. Anuruddhasuttaṃ",
+   "zh": "6. [[anuruddha|阿那律]]经"
+  },
+  {
+   "idx": 50,
+   "pali": "Ekaṃ samayaṃ āyasmā anuruddho kosalesu viharati aññatarasmiṃ vanasaṇḍe. Atha kho aññatarā tāvatiṃsakāyikā devatā jālinī nāma āyasmato anuruddhassa purāṇadutiyikā yenāyasmā anuruddho tenupasaṅkami; upasaṅkamitvā āyasmantaṃ anuruddhaṃ gāthāya ajjhabhāsi –",
+   "zh": "一时，[[anuruddha|阿那律]]尊者住在憍萨罗国的一处丛林里。那时，一位名叫嘉利尼的三十三天女——她曾是[[anuruddha|阿那律]]尊者的前妻——来到[[anuruddha|阿那律]]尊者前，以偈颂对他说：",
+   "n": "226"
+  },
+  {
+   "idx": 51,
+   "pali": "‘‘Tattha cittaṃ paṇidhehi, yattha te vusitaṃ pure;",
+   "zh": "“将心念投向彼处，你曾居住之处；”",
+   "type": "verse"
+  },
+  {
+   "idx": 52,
+   "pali": "Tāvatiṃsesu devesu, sabbakāmasamiddhisu;",
+   "zh": "在[[tāvatiṃsa|三十三天]]诸天神之中，一切欲乐悉皆圆满具足，",
+   "type": "verse"
+  },
+  {
+   "idx": 53,
+   "pali": "Purakkhato parivuto, devakaññāhi sobhasī’’ti.",
+   "zh": "“你为天女众所拥护，居于其前，光耀照人。”",
+   "type": "verse"
+  },
+  {
+   "idx": 54,
+   "pali": "‘‘Duggatā devakaññāyo, sakkāyasmiṃ patiṭṭhitā;",
+   "zh": "“那些天女实为可悯，她们安住于有身之中；",
+   "type": "verse"
+  },
+  {
+   "idx": 55,
+   "pali": "Te cāpi duggatā sattā, devakaññāhi patthitā’’ti.",
+   "zh": "那些贪著天女的有情，也同样沉沦于苦厄之中。”",
+   "type": "verse"
+  },
+  {
+   "idx": 56,
+   "pali": "‘‘Na te sukhaṃ pajānanti, ye na passanti nandanaṃ;",
+   "zh": "“未曾见过欢喜园的人，便不了知何为快乐；",
+   "type": "verse"
+  },
+  {
+   "idx": 57,
+   "pali": "Āvāsaṃ naradevānaṃ, tidasānaṃ yasassina’’nti.",
+   "zh": "那是主神们的居处，名声显赫的三十三天。”",
+   "type": "verse"
+  },
+  {
+   "idx": 58,
+   "pali": "‘‘Na tvaṃ bāle vijānāsi, yathā arahataṃ vaco;",
+   "zh": "“愚痴的女子，你怎能了解阿拉汉所说的话语：",
+   "type": "verse"
+  },
+  {
+   "idx": 59,
+   "pali": "Aniccā sabbasaṅkhārā, uppādavayadhammino;",
+   "zh": "诸行无常，是生灭法；",
+   "type": "verse"
+  },
+  {
+   "idx": 60,
+   "pali": "Uppajjitvā nirujjhanti, tesaṃ vūpasamo sukho.",
+   "zh": "生已即灭，彼之寂静为乐。",
+   "type": "verse"
+  },
+  {
+   "idx": 61,
+   "pali": "‘‘Natthi dāni punāvāso, devakāyasmi jālini;",
+   "zh": "“织网者啊，如今天众之中，我已不再有再生；",
+   "type": "verse"
+  },
+  {
+   "idx": 62,
+   "pali": "Vikkhīṇo jātisaṃsāro, natthi dāni punabbhavo’’ti.",
+   "zh": "生死轮回已尽，不再有后有。”",
+   "type": "verse"
+  },
+  {
+   "idx": 151,
+   "pali": "7. Nāgadattasuttaṃ",
+   "zh": "7. [[nāgadattasutta|那伽达多经]]"
+  },
+  {
+   "idx": 64,
+   "pali": "Ekaṃ samayaṃ āyasmā nāgadatto kosalesu viharati aññatarasmiṃ vanasaṇḍe. Tena kho pana samayena āyasmā nāgadatto atikālena gāmaṃ pavisati, atidivā paṭikkamati. Atha kho yā tasmiṃ vanasaṇḍe adhivatthā devatā āyasmato nāgadattassa anukampikā atthakāmā āyasmantaṃ nāgadattaṃ saṃvejetukāmā yenāyasmā nāgadatto tenupasaṅkami; upasaṅkamitvā āyasmantaṃ nāgadattaṃ gāthāhi ajjhabhāsi –",
+   "zh": "一时，尊者那伽达多住在憍萨罗国的一座密林中。那时，尊者那伽达多太早进入村落，又过午才返回。住在那片林中的天神，出于对尊者那伽达多的怜悯与利益心，想令他心生警策，便来到尊者那伽达多跟前。到已，以偈颂对尊者那伽达多说：",
+   "n": "227"
+  },
+  {
+   "idx": 65,
+   "pali": "‘‘Kāle pavisa nāgadatta, divā ca āgantvā ativelacārī;",
+   "zh": "“那伽达多，你应当按时入村，白天回来后又在外游荡过久；",
+   "type": "verse"
+  },
+  {
+   "idx": 66,
+   "pali": "Saṃsaṭṭho gahaṭṭhehi, samānasukhadukkho.",
+   "zh": "与在家人交往过密，同甘共苦。",
+   "type": "verse"
+  },
+  {
+   "idx": 67,
+   "pali": "‘‘Bhāyāmi nāgadattaṃ suppagabbhaṃ, kulesu vinibaddhaṃ;",
+   "zh": "“我为那咖达答担忧；他过于放肆，为诸家所缠缚；",
+   "type": "verse"
+  },
+  {
+   "idx": 68,
+   "pali": "Mā heva maccurañño balavato, antakassa vasaṃ upesī’’ti .",
+   "zh": "切莫落入死王——那强力终结者的手中。”",
+   "type": "verse"
+  },
+  {
+   "idx": 69,
+   "pali": "Atha kho āyasmā nāgadatto tāya devatāya saṃvejito saṃvegamāpādīti.",
+   "zh": "那时，具寿那咖达答受到那位天神的策励，心生紧迫。"
+  },
+  {
+   "idx": 152,
+   "pali": "8. Kulagharaṇīsuttaṃ",
+   "zh": "8. [[kulagharaṇīsutta|家主妇经]]"
+  },
+  {
+   "idx": 71,
+   "pali": "Ekaṃ samayaṃ aññataro bhikkhu kosalesu viharati aññatarasmiṃ vanasaṇḍe. Tena kho pana samayena so bhikkhu aññatarasmiṃ kule ativelaṃ ajjhogāḷhappatto viharati. Atha kho yā tasmiṃ vanasaṇḍe adhivatthā devatā tassa bhikkhuno anukampikā atthakāmā taṃ bhikkhuṃ saṃvejetukāmā yā tasmiṃ kule kulagharaṇī, tassā vaṇṇaṃ abhinimminitvā yena so bhikkhu tenupasaṅkami; upasaṅkamitvā taṃ bhikkhuṃ gāthāya ajjhabhāsi –",
+   "zh": "一时，某位比丘住在憍萨罗国的一座丛林里。那时，这位比丘过度耽著于某个俗家。当时，住在那丛林中的天神，出于对这位比丘的同情，一心希望他得利，想要令他生起悚惧，便化作那户人家女主人的模样，来到那位比丘面前。走近后，以偈颂对他说道：",
+   "n": "228"
+  },
+  {
+   "idx": 72,
+   "pali": "‘‘Nadītīresu saṇṭhāne, sabhāsu rathiyāsu ca;",
+   "zh": "“河边与歇息处，  会堂中、街道上，",
+   "type": "verse"
+  },
+  {
+   "idx": 73,
+   "pali": "Janā saṅgamma mantenti, mañca tañca kimantara’’nti.",
+   "zh": "众人聚在一起，纷纷议论：‘你和我之间到底有什么事？’",
+   "type": "verse"
+  },
+  {
+   "idx": 74,
+   "pali": "‘‘Bahūhi saddā paccūhā, khamitabbā tapassinā;",
+   "zh": "“种种喧嚣之声与逆缘，修行者都须忍耐；",
+   "type": "verse"
+  },
+  {
+   "idx": 75,
+   "pali": "Na tena maṅku hotabbaṃ, na hi tena kilissati.",
+   "zh": "不应因此感到沮丧，因为他并不会因此被染污。",
+   "type": "verse"
+  },
+  {
+   "idx": 76,
+   "pali": "‘‘Yo ca saddaparittāsī, vane vātamigo yathā;",
+   "zh": "“若人因些许声响便惊惧不安，犹如林野中被风惊扰的鹿；",
+   "type": "verse"
+  },
+  {
+   "idx": 77,
+   "pali": "Lahucittoti taṃ āhu, nāssa sampajjate vata’’nti.",
+   "zh": "便称他为‘心思轻浮飘忽者’，他的修证终不能成就。”",
+   "type": "verse"
+  },
+  {
+   "idx": 153,
+   "pali": "9. Vajjiputtasuttaṃ",
+   "zh": "9. [[vajjiputtasutta|跋耆子经]]"
+  },
+  {
+   "idx": 79,
+   "pali": "Ekaṃ samayaṃ aññataro vajjiputtako bhikkhu vesāliyaṃ viharati aññatarasmiṃ vanasaṇḍe. Tena kho pana samayena vesāliyaṃ vajjiputtako sabbaratticāro hoti. Atha kho so bhikkhu vesāliyā tūriya-tāḷita-vādita-nigghosasaddaṃ sutvā paridevamāno tāyaṃ velāyaṃ imaṃ gāthaṃ abhāsi –",
+   "zh": "有一次，一位跋耆族比丘住在[[vesālī|毗舍离]]附近的一座丛林中。那时，[[vesālī|毗舍离]]城中正举行跋耆族的通宵庆典。那位比丘听到城中传来乐器击打、吹奏的喧闹声，心生悲叹，就在那时诵出这首偈颂：",
+   "n": "229"
+  },
+  {
+   "idx": 80,
+   "pali": "‘‘Ekakā mayaṃ araññe viharāma,",
+   "zh": "“我们孤身栖居林野，",
+   "type": "verse"
+  },
+  {
+   "idx": 81,
+   "pali": "Apaviddhaṃva vanasmiṃ dārukaṃ;",
+   "zh": "犹如被弃置林中的一截木块；",
+   "type": "verse"
+  },
+  {
+   "idx": 82,
+   "pali": "Etādisikāya rattiyā,",
+   "zh": "在这样的夜晚，",
+   "type": "verse"
+  },
+  {
+   "idx": 83,
+   "pali": "Ko su nāmamhehi pāpiyo’’ti.",
+   "zh": "还有谁比我们更困苦呢？”",
+   "type": "verse"
+  },
+  {
+   "idx": 84,
+   "pali": "Atha kho yā tasmiṃ vanasaṇḍe adhivatthā devatā tassa bhikkhuno anukampikā atthakāmā taṃ bhikkhuṃ saṃvejetukāmā yena so bhikkhu tenupasaṅkami; upasaṅkamitvā taṃ bhikkhuṃ gāthāya ajjhabhāsi –",
+   "zh": "那时，住在那片林中的一位天神，出于悲悯，希望那位比丘获得利益，欲令他生起紧迫感，便去到那位比丘那里，以偈颂对他说道——"
+  },
+  {
+   "idx": 85,
+   "pali": "‘‘Ekakova tvaṃ araññe viharasi, apaviddhaṃva vanasmiṃ dārukaṃ;",
+   "zh": "“你独自一人住在山林中，犹如弃置林间的一段木头。",
+   "type": "verse"
+  },
+  {
+   "idx": 86,
+   "pali": "Tassa te bahukā pihayanti, nerayikā viya saggagāmina’’nti.",
+   "zh": "许多人羡慕你，如同地狱众生羡慕生天者一般。”",
+   "type": "verse"
+  },
+  {
+   "idx": 102,
+   "pali": "Atha kho so bhikkhu tāya devatāya saṃvejito saṃvegamāpādīti.",
+   "zh": "那时，那位比丘因那位天神的激励，生起了悚惧感。"
+  },
+  {
+   "idx": 154,
+   "pali": "10. Sajjhāyasuttaṃ",
+   "zh": "10. [[sajjhāyasutta|诵习经]]"
+  },
+  {
+   "idx": 89,
+   "pali": "Ekaṃ samayaṃ aññataro bhikkhu kosalesu viharati aññatarasmiṃ vanasaṇḍe. Tena kho pana samayena so bhikkhu yaṃ sudaṃ pubbe ativelaṃ sajjhāyabahulo viharati so aparena samayena appossukko tuṇhībhūto saṅkasāyati. Atha kho yā tasmiṃ vanasaṇḍe adhivatthā devatā tassa bhikkhuno dhammaṃ asuṇantī yena so bhikkhu tenupasaṅkami; upasaṅkamitvā taṃ bhikkhuṃ gāthāya ajjhabhāsi –",
+   "zh": "一时，有一位比丘住在憍萨罗国的一座丛林里。那时，那位比丘先前曾过度精勤于持诵，但后来却变得懈怠、默然，陷于昏昧。当时，住在那片丛林中一位天神，因为听不到那位比丘的说法，便前往比丘处。来到后，以偈颂对比丘而说：",
+   "n": "230"
+  },
+  {
+   "idx": 90,
+   "pali": "‘‘Kasmā tuvaṃ dhammapadāni bhikkhu, nādhīyasi bhikkhūhi saṃvasanto;",
+   "zh": "“比丘，你与诸比丘共住，为何不诵习法句呢？",
+   "type": "verse"
+  },
+  {
+   "idx": 91,
+   "pali": "Sutvāna dhammaṃ labhatippasādaṃ, diṭṭheva dhamme labhatippasaṃsa’’nti.",
+   "zh": "听闻正法，即得胜信；于现法中，即获胜赞。”",
+   "type": "verse"
+  },
+  {
+   "idx": 92,
+   "pali": "‘‘Ahu pure dhammapadesu chando, yāva virāgena samāgamimha;",
+   "zh": "“往昔，我于法句经满怀热忱，直至与离欲相遇；",
+   "type": "verse"
+  },
+  {
+   "idx": 93,
+   "pali": "Yato virāgena samāgamimha, yaṃ kiñci diṭṭhaṃva sutaṃ mutaṃ vā;",
+   "zh": "自从与离欲相遇，凡所见、所闻、所觉，",
+   "type": "verse"
+  },
+  {
+   "idx": 94,
+   "pali": "Aññāya nikkhepanamāhu santo’’ti.",
+   "zh": "因了知而舍弃，寂静者如此说。”",
+   "type": "verse"
+  },
+  {
+   "idx": 155,
+   "pali": "11. Akusalavitakkasuttaṃ",
+   "zh": "11. [[akusalavitakkasutta|不善寻经]]"
+  },
+  {
+   "idx": 96,
+   "pali": "Ekaṃ samayaṃ aññataro bhikkhu kosalesu viharati aññatarasmiṃ vanasaṇḍe. Tena kho pana samayena so bhikkhu divāvihāragato pāpake akusale vitakke vitakketi, seyyathidaṃ – kāmavitakkaṃ, byāpādavitakkaṃ, vihiṃsāvitakkaṃ. Atha kho yā tasmiṃ vanasaṇḍe adhivatthā devatā tassa bhikkhuno anukampikā atthakāmā taṃ bhikkhuṃ saṃvejetukāmā yena so bhikkhu tenupasaṅkami; upasaṅkamitvā taṃ bhikkhuṃ gāthāhi ajjhabhāsi –",
+   "zh": "一时，有位比丘住在憍萨罗国的一座丛林中。那时，那比丘于日中分坐禅时，生起种种恶不善寻思，即：欲寻思、恚寻思、害寻思。当时，住在那丛林中的一位天神，出于对那比丘的怜悯，欲令他得真舍利益，为激发其悚惧心，便来到那比丘处。到后，以偈颂对他说：",
+   "n": "231"
+  },
+  {
+   "idx": 97,
+   "pali": "‘‘Ayoniso manasikārā, so vitakkehi khajjasi;",
+   "zh": "“由于不如理作意，你便为这些念头所啃噬；",
+   "type": "verse"
+  },
+  {
+   "idx": 98,
+   "pali": "Ayoniso paṭinissajja, yoniso anucintaya.",
+   "zh": "舍离不如理作意，当如理思惟。",
+   "type": "verse"
+  },
+  {
+   "idx": 99,
+   "pali": "‘‘Satthāraṃ dhammamārabbha, saṅghaṃ sīlāni attano;",
+   "zh": "“思惟导师、法、僧团，及自身戒行，",
+   "type": "verse"
+  },
+  {
+   "idx": 100,
+   "pali": "Adhigacchasi pāmojjaṃ, pītisukhamasaṃsayaṃ;",
+   "zh": "你必定获得欢喜、喜与乐，这是毫无疑问的。",
+   "type": "verse"
+  },
+  {
+   "idx": 101,
+   "pali": "Tato pāmojjabahulo, dukkhassantaṃ karissasī’’ti.",
+   "zh": "那时，满怀欢喜的你，便将终结苦。”",
+   "type": "verse"
+  },
+  {
+   "idx": 87,
+   "pali": "Atha kho so bhikkhu tāya devatāya saṃvejito saṃvegamāpādīti.",
+   "zh": "那时，那位比丘因那位天神的激励，生起了悚惧感。"
+  },
+  {
+   "idx": 156,
+   "pali": "12. Majjhanhikasuttaṃ",
+   "zh": "12. [[majjhanhikasutta|日中经]]"
+  },
+  {
+   "idx": 104,
+   "pali": "Ekaṃ samayaṃ aññataro bhikkhu kosalesu viharati aññatarasmiṃ vanasaṇḍe. Atha kho tasmiṃ vanasaṇḍe adhivatthā devatā yena so bhikkhu tenupasaṅkami; upasaṅkamitvā tassa bhikkhuno santike imaṃ gāthaṃ abhāsi –",
+   "zh": "一时，有位比丘住在憍萨罗国的一座丛林里。那时，守护那片丛林的天神来到那位比丘跟前，在他面前诵出此偈：",
+   "n": "232"
+  },
+  {
+   "idx": 105,
+   "pali": "‘‘Ṭhite majjhanhike kāle, sannisīvesu pakkhisu;",
+   "zh": "“正午时分，众鸟寂栖，",
+   "type": "verse"
+  },
+  {
+   "idx": 106,
+   "pali": "Saṇateva brahāraññaṃ, taṃ bhayaṃ paṭibhāti maṃ.",
+   "zh": "大丛林回响阵阵，这让我感到恐惧。",
+   "type": "verse"
+  },
+  {
+   "idx": 107,
+   "pali": "‘‘Ṭhite majjhanhike kāle, sannisīvesu pakkhisu;",
+   "zh": "〔比丘答：〕“正午时分，群鸟静栖，",
+   "type": "verse"
+  },
+  {
+   "idx": 108,
+   "pali": "Saṇateva brahāraññaṃ, sā rati paṭibhāti ma’’nti.",
+   "zh": "广大的森林飒飒作响，那声响令我心生喜悦。",
+   "type": "verse"
+  },
+  {
+   "idx": 157,
+   "pali": "13. Pākatindriyasuttaṃ",
+   "zh": "13. [[pākatindriyasutta|诸根放逸经]]"
+  },
+  {
+   "idx": 110,
+   "pali": "Ekaṃ samayaṃ sambahulā bhikkhū kosalesu viharanti aññatarasmiṃ vanasaṇḍe uddhatā unnaḷā capalā mukharā vikiṇṇavācā muṭṭhassatino asampajānā asamāhitā vibbhantacittā pākatindriyā. Atha kho yā tasmiṃ vanasaṇḍe adhivatthā devatā tesaṃ bhikkhūnaṃ anukampikā atthakāmā te bhikkhū saṃvejetukāmā yena te bhikkhū tenupasaṅkami; upasaṅkamitvā te bhikkhū gāthāhi ajjhabhāsi –",
+   "zh": "一时，众多比丘住于憍萨罗国某处丛林。他们躁动浮扬、傲慢自矜、掉举不宁、口不择言、言语涣散、正念丧失、没有正知、心不专一、心意驰荡、诸根放逸。那时，依止住于那片丛林的一位天神，出于对那些比丘的哀愍，愿其得利，欲令其心生起悚惧，便到诸比丘处。至已，以偈颂对诸比丘说：",
+   "n": "233"
+  },
+  {
+   "idx": 111,
+   "pali": "‘‘Sukhajīvino pure āsuṃ, bhikkhū gotamasāvakā;",
+   "zh": "“乔达摩的弟子诸比丘，往昔曾安忍乐住；",
+   "type": "verse"
+  },
+  {
+   "idx": 112,
+   "pali": "Anicchā piṇḍamesanā, anicchā sayanāsanaṃ;",
+   "zh": "乞食是无欲的，坐卧处是无欲的；",
+   "type": "verse"
+  },
+  {
+   "idx": 113,
+   "pali": "Loke aniccataṃ ñatvā, dukkhassantaṃ akaṃsu te.",
+   "zh": "了知世间无常之后，他们便成就了苦的终结。",
+   "type": "verse"
+  },
+  {
+   "idx": 114,
+   "pali": "‘‘Dupposaṃ katvā attānaṃ, gāme gāmaṇikā viya;",
+   "zh": "“如今却令自身难以侍奉，犹如村中的主事者一般；",
+   "type": "verse"
+  },
+  {
+   "idx": 115,
+   "pali": "Bhutvā bhutvā nipajjanti, parāgāresu mucchitā.",
+   "zh": "他们吃了又吃，随后便躺下，在他人家中放逸沉湎。",
+   "type": "verse"
+  },
+  {
+   "idx": 116,
+   "pali": "‘‘Saṅghassa añjaliṃ katvā, idhekacce vadāmahaṃ;",
+   "zh": "“我向僧团合掌礼敬后，在此仅就某些人说：",
+   "type": "verse"
+  },
+  {
+   "idx": 117,
+   "pali": "Apaviddhā anāthā te, yathā petā tatheva te.",
+   "zh": "他们被丢弃，无有依怙，犹如饿鬼一般。",
+   "type": "verse"
+  },
+  {
+   "idx": 118,
+   "pali": "‘‘Ye kho pamattā viharanti, te me sandhāya bhāsitaṃ;",
+   "zh": "“我所说的话，正是为那些住于放逸者而说；",
+   "type": "verse"
+  },
+  {
+   "idx": 119,
+   "pali": "Ye appamattā viharanti, namo tesaṃ karomaha’’nti.",
+   "zh": "至于那些住于不放逸者，我向他们恭敬顶礼。”",
+   "type": "verse"
+  },
+  {
+   "idx": 120,
+   "pali": "Atha kho te bhikkhū tāya devatāya saṃvejitā saṃvegamāpādunti.",
+   "zh": "那时，比丘们被那位天神所策励，心生悚惧，生起了紧迫感。"
+  },
+  {
+   "idx": 158,
+   "pali": "14. Gandhatthenasuttaṃ",
+   "zh": "14. [[gandhatthenasutta|盗香经]]"
+  },
+  {
+   "idx": 122,
+   "pali": "Ekaṃ samayaṃ aññataro bhikkhu kosalesu viharati aññatarasmiṃ vanasaṇḍe. Tena kho pana samayena so bhikkhu pacchābhattaṃ piṇḍapātapaṭikkanto pokkharaṇiṃ ogāhetvā padumaṃ upasiṅghati. Atha kho yā tasmiṃ vanasaṇḍe adhivatthā devatā tassa bhikkhuno anukampikā atthakāmā taṃ bhikkhuṃ saṃvejetukāmā yena so bhikkhu tenupasaṅkami; upasaṅkamitvā taṃ bhikkhuṃ gāthāya ajjhabhāsi –",
+   "zh": "有一次，一位比丘住在憍萨罗国的一座丛林里。那时，那位比丘食后，从托钵归来，进入池塘嗅闻莲花。当时，住在那片丛林里的天神，出于对那位比丘的悲悯，想饶益他，并欲令他生起悚惧，便来到那位比丘处，以偈颂对他说道：",
+   "n": "234"
+  },
+  {
+   "idx": 123,
+   "pali": "‘‘Yametaṃ vārijaṃ pupphaṃ, adinnaṃ upasiṅghasi;",
+   "zh": "“你嗅闻这朵未被施与的水生花；",
+   "type": "verse"
+  },
+  {
+   "idx": 124,
+   "pali": "Ekaṅgametaṃ theyyānaṃ, gandhatthenosi mārisā’’ti.",
+   "zh": "这是偷盗之一种，贤友，你是个盗香者。”",
+   "type": "verse"
+  },
+  {
+   "idx": 125,
+   "pali": "‘‘Na harāmi na bhañjāmi, ārā siṅghāmi vārijaṃ;",
+   "zh": "“我不取不折，只是远远嗅此水生花；",
+   "type": "verse"
+  },
+  {
+   "idx": 159,
+   "pali": "Atha kena nu vaṇṇena, gandhatthenoti vuccati.",
+   "zh": "那么，以何理由称我为盗香者？",
+   "type": "verse"
+  },
+  {
+   "idx": 160,
+   "pali": "‘‘Yvāyaṃ bhisāni khanati, puṇḍarīkāni bhañjati;",
+   "zh": "“此人掘取莲根，摧折白莲花，",
+   "type": "verse"
+  },
+  {
+   "idx": 161,
+   "pali": "Evaṃ ākiṇṇakammanto, kasmā eso na vuccatī’’ti.",
+   "zh": "所作如此秽杂，为何不称他为盗香者？”",
+   "type": "verse"
+  },
+  {
+   "idx": 129,
+   "pali": "‘‘Ākiṇṇaluddo puriso, dhāticelaṃva makkhito;",
+   "zh": "“一个行为残暴的人，犹如沾满污垢的育母之衣；",
+   "type": "verse"
+  },
+  {
+   "idx": 130,
+   "pali": "Tasmiṃ me vacanaṃ natthi, tvañcārahāmi vattave.",
+   "zh": "如同用过的尿布一般污秽，对这样的人，我无话可说；该受告诫的，是你。",
+   "type": "verse"
+  },
+  {
+   "idx": 131,
+   "pali": "‘‘Anaṅgaṇassa posassa, niccaṃ sucigavesino;",
+   "zh": "“对于无垢之人，恒求清净者，",
+   "type": "verse"
+  },
+  {
+   "idx": 132,
+   "pali": "Vālaggamattaṃ pāpassa, abbhāmattaṃva khāyatī’’ti.",
+   "zh": "即使微小如马尾尖端的恶，也显现得如同乌云密布。”",
+   "type": "verse"
+  },
+  {
+   "idx": 133,
+   "pali": "‘‘Addhā maṃ yakkha jānāsi, atho me anukampasi;",
+   "zh": "“夜叉啊，你确已了知我，并对我心怀悲悯；”",
+   "type": "verse"
+  },
+  {
+   "idx": 134,
+   "pali": "Punapi yakkha vajjāsi, yadā passasi edisa’’nti.",
+   "zh": "夜叉啊，若你再见到我这般情形，请再次对我这么说吧。",
+   "type": "verse"
+  },
+  {
+   "idx": 135,
+   "pali": "‘‘Neva taṃ upajīvāma, napi te bhatakāmhase;",
+   "zh": "“我们既不靠你过活，也非受你雇佣；",
+   "type": "verse"
+  },
+  {
+   "idx": 136,
+   "pali": "Tvameva bhikkhu jāneyya, yena gaccheyya suggati’’nti.",
+   "zh": "比丘，你应当自己了知，凭何业可往生善趣。”",
+   "type": "verse"
+  },
+  {
+   "idx": 137,
+   "pali": "Atha kho so bhikkhu tāya devatāya saṃvejito saṃvegamāpādīti.",
+   "zh": "那时，那位比丘因那位天神的激励，生起了悚惧感。"
+  },
+  {
+   "idx": 162,
+   "pali": "Vanasaṃyuttaṃ samattaṃ.",
+   "zh": "林相应品终"
+  },
+  {
+   "idx": 163,
+   "pali": "Tassuddānaṃ –",
+   "zh": "其摄颂："
+  },
+  {
+   "idx": 140,
+   "pali": "Vivekaṃ upaṭṭhānañca, kassapagottena sambahulā;",
+   "zh": "远离、承事，及迦叶种姓众多比丘；",
+   "type": "verse"
+  },
+  {
+   "idx": 141,
+   "pali": "Ānando anuruddho ca, nāgadattañca kulagharaṇī.",
+   "zh": "[[ānanda|阿难]]、[[anuruddha|阿那律]]，以及那伽达多与家妇。",
+   "type": "verse"
+  },
+  {
+   "idx": 142,
+   "pali": "Vajjiputto ca vesālī, sajjhāyena ayoniso;",
+   "zh": "跋耆子比丘在[[vesālī|毗舍离]]，以不如理的方式诵经；",
+   "type": "verse"
+  },
+  {
+   "idx": 143,
+   "pali": "Majjhanhikālamhi pākatindriya, padumapupphena cuddasa bhaveti.",
+   "zh": "日中时分，诸根放逸，莲花事至第十四。",
+   "type": "verse"
+  }
+ ]
+}

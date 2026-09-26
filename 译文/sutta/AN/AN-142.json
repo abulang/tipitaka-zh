@@ -1,0 +1,456 @@
+{
+ "uid": 142,
+ "title": "4. 布施品",
+ "nik": "AN",
+ "segs": [
+  {
+   "idx": 0,
+   "pali": "4. Dānavaggo",
+   "zh": "4. 布施品"
+  },
+  {
+   "idx": 1,
+   "pali": "1. Paṭhamadānasuttaṃ",
+   "zh": "1. [[paṭhamadānasutta|第一布施经]]"
+  },
+  {
+   "idx": 2,
+   "pali": "‘‘Aṭṭhimāni , bhikkhave, dānāni. Katamāni aṭṭha? Āsajja dānaṃ deti, bhayā dānaṃ deti, ‘adāsi me’ti dānaṃ deti, ‘dassati me’ti dānaṃ deti, ‘sāhu dāna’nti dānaṃ deti, ‘ahaṃ pacāmi, ime na pacanti; nārahāmi pacanto apacantānaṃ dānaṃ adātu’nti dānaṃ deti, ‘imaṃ me dānaṃ dadato kalyāṇo kittisaddo abbhuggacchatī’ti dānaṃ deti, cittālaṅkāracittaparikkhāratthaṃ dānaṃ deti. Imāni kho, bhikkhave, aṭṭha dānānī’’ti. Paṭhamaṃ.",
+   "zh": "“诸比丘，有这八种布施。哪八种呢？因侮辱而施，因恐惧而施，因‘他曾布施于我’而施，因‘他将布施于我’而施，因‘布施是善’而施，因‘我做饭，他们不做饭；我做饭者不应不施予不做饭者’而施，因‘我作此布施，美名将传扬’而施，为庄严心、为装备心而施。诸比丘，这便是八种布施。” 第一。",
+   "n": "31"
+  },
+  {
+   "idx": 3,
+   "pali": "2. Dutiyadānasuttaṃ",
+   "zh": "2. [[dutiyadānasutta|第二布施经]]"
+  },
+  {
+   "idx": 4,
+   "pali": "‘‘Saddhā hiriyaṃ kusalañca dānaṃ,",
+   "zh": "“信、惭愧与善施，",
+   "type": "verse",
+   "n": "32"
+  },
+  {
+   "idx": 5,
+   "pali": "Dhammā ete sappurisānuyātā;",
+   "zh": "这些法为善人所奉行；",
+   "type": "verse"
+  },
+  {
+   "idx": 6,
+   "pali": "Etañhi maggaṃ diviyaṃ vadanti,",
+   "zh": "他们称此为天道，",
+   "type": "verse"
+  },
+  {
+   "type": "verse",
+   "idx": 7,
+   "pali": "Etena hi gacchati devaloka’’nti. dutiyaṃ;",
+   "zh": "依此而往天界。”第二。"
+  },
+  {
+   "idx": 8,
+   "pali": "3. Dānavatthusuttaṃ",
+   "zh": "3. [[dānavatthusutta|施事经]]"
+  },
+  {
+   "idx": 9,
+   "pali": "‘‘Aṭṭhimāni , bhikkhave, dānavatthūni. Katamāni aṭṭha? Chandā dānaṃ deti, dosā dānaṃ deti, mohā dānaṃ deti, bhayā dānaṃ deti, ‘dinnapubbaṃ katapubbaṃ pitupitāmahehi, nārahāmi porāṇaṃ kulavaṃsaṃ hāpetu’nti dānaṃ deti, ‘imāhaṃ dānaṃ datvā kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjissāmī’ti dānaṃ deti, ‘imaṃ me dānaṃ dadato cittaṃ pasīdati, attamanatā somanassaṃ upajāyatī’ti dānaṃ deti, cittālaṅkāracittaparikkhāratthaṃ dānaṃ deti. Imāni kho, bhikkhave, aṭṭha dānavatthūnī’’ti. Tatiyaṃ.",
+   "zh": "“诸比丘，有这八种布施事。哪八种？因爱欲而施，因嗔恚而施，因愚痴而施，因怖畏而施，因‘过去父祖曾施、曾作，我不应废弃家族的古老传统’而施，因‘我以此布施，身坏命终当往生善趣、天界’而施，因‘我布施时，心清净，生起欢喜与喜悦’而施，为庄严心、为资益心而施。诸比丘，这就是八种布施事。”第三。",
+   "n": "33"
+  },
+  {
+   "idx": 10,
+   "pali": "4. Khettasuttaṃ",
+   "zh": "4. [[khettasutta|田经]]"
+  },
+  {
+   "idx": 11,
+   "pali": "‘‘Aṭṭhaṅgasamannāgate , bhikkhave, khette bījaṃ vuttaṃ na mahapphalaṃ hoti na mahassādaṃ na phātiseyyaṃ . Kathaṃ aṭṭhaṅgasamannāgate? Idha, bhikkhave, khettaṃ unnāmaninnāmi ca hoti, pāsāṇasakkharikañca hoti, ūsarañca hoti, na ca gambhīrasitaṃ hoti, na āyasampannaṃ hoti, na apāyasampannaṃ hoti, na mātikāsampannaṃ hoti, na mariyādasampannaṃ hoti. Evaṃ aṭṭhaṅgasamannāgate, bhikkhave, khette bījaṃ vuttaṃ na mahapphalaṃ hoti na mahassādaṃ na phātiseyyaṃ.",
+   "zh": "“诸比丘，在具足八支的田地里播下种子，不会得大果、不会得大利益，也不会繁茂生长。如何是具足八支呢？诸比丘，这里的田地高低不平，多有石块砂砾，土地贫瘠，未经深耕，没有进水，没有排水，没有沟渠，没有田界。诸比丘，在这样具足八支的田地里播下种子，不会得大果、不会得大利益，也不会繁茂生长。”",
+   "n": "34"
+  },
+  {
+   "idx": 12,
+   "pali": "‘‘Evamevaṃ kho, bhikkhave, aṭṭhaṅgasamannāgatesu samaṇabrāhmaṇesu dānaṃ dinnaṃ na mahapphalaṃ hoti na mahānisaṃsaṃ na mahājutikaṃ na mahāvipphāraṃ. Kathaṃ aṭṭhaṅgasamannāgatesu? Idha, bhikkhave, samaṇabrāhmaṇā micchādiṭṭhikā honti, micchāsaṅkappā, micchāvācā, micchākammantā, micchāājīvā, micchāvāyāmā, micchāsatino, micchāsamādhino. Evaṃ aṭṭhaṅgasamannāgatesu, bhikkhave, samaṇabrāhmaṇesu dānaṃ dinnaṃ na mahapphalaṃ hoti na mahānisaṃsaṃ na mahājutikaṃ na mahāvipphāraṃ.",
+   "zh": "“诸比丘，同样地，对具足八支的沙门婆罗门所施的布施，不会有大果、大利益、大光明、大广大。如何是具足八支呢？诸比丘，此处，沙门婆罗门具有邪见、邪思惟、邪语、邪业、邪命、邪精进、邪念、邪定。诸比丘，对这样具足八支的沙门婆罗门所施的布施，不会有大果、大利益、大光明、大广大。"
+  },
+  {
+   "idx": 13,
+   "pali": "‘‘Aṭṭhaṅgasamannāgate, bhikkhave, khette bījaṃ vuttaṃ mahapphalaṃ hoti mahassādaṃ phātiseyyaṃ. Kathaṃ aṭṭhaṅgasamannāgate? Idha, bhikkhave, khettaṃ anunnāmāninnāmi ca hoti, apāsāṇasakkharikañca hoti, anūsarañca hoti, gambhīrasitaṃ hoti, āyasampannaṃ hoti, apāyasampannaṃ hoti, mātikāsampannaṃ hoti, mariyādasampannaṃ hoti. Evaṃ aṭṭhaṅgasamannāgate, bhikkhave, khette bījaṃ vuttaṃ mahapphalaṃ hoti mahassādaṃ phātiseyyaṃ.",
+   "zh": "“诸比丘，在具足八支的田地里播下种子，会有大果、大利、大丰收。如何是具足八支呢？诸比丘，此处，田地既不高也不低，无石块瓦砾，无盐碱，深耕细作，水源具足，排水具足，沟渠具足，界埂具足。诸比丘，在这样具足八支的田地里播下种子，会有大果、大利、大丰收。"
+  },
+  {
+   "idx": 14,
+   "pali": "‘‘Evamevaṃ kho, bhikkhave, aṭṭhaṅgasamannāgatesu samaṇabrāhmaṇesu dānaṃ dinnaṃ mahapphalaṃ hoti mahānisaṃsaṃ mahājutikaṃ mahāvipphāraṃ. Kathaṃ aṭṭhaṅgasamannāgatesu? Idha, bhikkhave, samaṇabrāhmaṇā sammādiṭṭhikā honti, sammāsaṅkappā, sammāvācā, sammākammantā, sammāājīvā, sammāvāyāmā, sammāsatino, sammāsamādhino. Evaṃ aṭṭhaṅgasamannāgatesu, bhikkhave, samaṇabrāhmaṇesu dānaṃ dinnaṃ mahapphalaṃ hoti mahānisaṃsaṃ mahājutikaṃ mahāvipphāra’’nti.",
+   "zh": "“诸比丘，同样地，对具足八支的沙门婆罗门所施的布施，会有大果、大利益、大光明、大广大。如何是具足八支呢？诸比丘，此处，沙门婆罗门具有正见、正思惟、正语、正业、正命、正精进、正念、正定。诸比丘，对这样具足八支的沙门婆罗门所施的布施，会有大果、大利益、大光明、大广大。”"
+  },
+  {
+   "idx": 15,
+   "pali": "‘‘Yathāpi khette sampanne, pavuttā bījasampadā;",
+   "zh": "“正如良田具足，良种播下；",
+   "type": "verse"
+  },
+  {
+   "idx": 16,
+   "pali": "Deve sampādayantamhi , hoti dhaññassa sampadā.",
+   "zh": "天降及时雨，谷物得以丰收。",
+   "type": "verse"
+  },
+  {
+   "idx": 17,
+   "pali": "‘‘Anītisampadā hoti, virūḷhī bhavati sampadā;",
+   "zh": "“无有灾害，便得成就；作物生长，即获圆满。",
+   "type": "verse"
+  },
+  {
+   "idx": 18,
+   "pali": "Vepullasampadā hoti, phalaṃ ve hoti sampadā.",
+   "zh": "丰盛得以成就，果实确然成就。",
+   "type": "verse"
+  },
+  {
+   "idx": 19,
+   "pali": "‘‘Evaṃ sampannasīlesu, dinnā bhojanasampadā;",
+   "zh": "“同样，施与具足戒者的饮食成就；",
+   "type": "verse"
+  },
+  {
+   "idx": 20,
+   "pali": "Sampadānaṃ upaneti, sampannaṃ hissa taṃ kataṃ.",
+   "zh": "为施者带来成就，他所做的确实圆满。",
+   "type": "verse"
+  },
+  {
+   "idx": 21,
+   "pali": "‘‘Tasmā sampadamākaṅkhī, sampannatthūdha puggalo;",
+   "zh": "“因此，这渴望成就、愿于此处成就之人；",
+   "type": "verse"
+  },
+  {
+   "idx": 22,
+   "pali": "Sampannapaññe sevetha, evaṃ ijjhanti sampadā.",
+   "zh": "应亲近具足慧者，如此诸成就方得达成。",
+   "type": "verse"
+  },
+  {
+   "idx": 23,
+   "pali": "‘‘Vijjācaraṇasampanne, laddhā cittassa sampadaṃ;",
+   "zh": "“于明行具足者，已得心之成就；",
+   "type": "verse"
+  },
+  {
+   "idx": 24,
+   "pali": "Karoti kammasampadaṃ, labhati catthasampadaṃ.",
+   "zh": "成就业行，又获得利益成就。",
+   "type": "verse"
+  },
+  {
+   "idx": 25,
+   "pali": "‘‘Lokaṃ ñatvā yathābhūtaṃ, pappuyya diṭṭhisampadaṃ;",
+   "zh": "“如实了知世间，证得见成就；",
+   "type": "verse"
+  },
+  {
+   "idx": 26,
+   "pali": "Maggasampadamāgamma, yāti sampannamānaso.",
+   "zh": "依道成就，具足心者前行。",
+   "type": "verse"
+  },
+  {
+   "idx": 27,
+   "pali": "‘‘Odhunitvā malaṃ sabbaṃ, patvā nibbānasampadaṃ;",
+   "zh": "“抖落一切垢秽，证得涅槃成就；",
+   "type": "verse"
+  },
+  {
+   "idx": 28,
+   "pali": "Muccati sabbadukkhehi, sā hoti sabbasampadā’’ti. catutthaṃ;",
+   "zh": "解脱一切苦，此即一切成就。”第四经",
+   "type": "verse"
+  },
+  {
+   "idx": 29,
+   "pali": "5. Dānūpapattisuttaṃ",
+   "zh": "5. [[dānūpapattisutta|施生经]]"
+  },
+  {
+   "idx": 30,
+   "pali": "‘‘Aṭṭhimā, bhikkhave, dānūpapattiyo. Katamā aṭṭha? Idha, bhikkhave, ekacco dānaṃ deti samaṇassa vā brāhmaṇassa vā annaṃ pānaṃ vatthaṃ yānaṃ mālāgandhavilepanaṃ seyyāvasathapadīpeyyaṃ. So yaṃ deti taṃ paccāsīsati . So passati khattiyamahāsāle vā brāhmaṇamahāsāle vā gahapatimahāsāle vā pañcahi kāmaguṇehi samappite samaṅgībhūte paricārayamāne. Tassa evaṃ hoti – ‘aho vatāhaṃ kāyassa bhedā paraṃ maraṇā khattiyamahāsālānaṃ vā brāhmaṇamahāsālānaṃ vā gahapatimahāsālānaṃ vā sahabyataṃ upapajjeyya’nti! So taṃ cittaṃ dahati, taṃ cittaṃ adhiṭṭhāti, taṃ cittaṃ bhāveti. Tassa taṃ cittaṃ hīne vimuttaṃ , uttari abhāvitaṃ, tatrūpapattiyā saṃvattati. Kāyassa bhedā paraṃ maraṇā khattiyamahāsālānaṃ vā brāhmaṇamahāsālānaṃ vā gahapatimahāsālānaṃ vā sahabyataṃ upapajjati. Tañca kho sīlavato vadāmi, no dussīlassa. Ijjhati, bhikkhave, sīlavato cetopaṇidhi visuddhattā.",
+   "zh": "“诸比丘，有八种由布施所生的再生。是哪八种呢？比丘们，在此，有人以食物、饮品、衣服、车乘、花鬘、香膏、涂油、床座、住所、灯烛施与沙门或婆罗门。他对自己所施之物有所期求。他看见刹帝利巨富、婆罗门巨富或居士巨富具足五种欲功德，正受用欲乐。他便这样想：‘啊，愿我身坏命终后，能投生在刹帝利巨富、婆罗门巨富或居士巨富的行列中！’他安立此心，确立此心，修习此心。他的心从低劣处解脱，未修习更上的境界，只导向那处的再生。身坏命终之后，他便生于刹帝利巨富、婆罗门巨富或居士巨富的行列中。我说，这是就持戒者而言，而非破戒者。诸比丘，持戒者的心愿因清净而得成就。",
+   "n": "35"
+  },
+  {
+   "idx": 31,
+   "pali": "‘‘Idha pana, bhikkhave, ekacco dānaṃ deti samaṇassa vā brāhmaṇassa vā annaṃ pānaṃ vatthaṃ yānaṃ mālāgandhavilepanaṃ seyyāvasathapadīpeyyaṃ. So yaṃ deti taṃ paccāsīsati. Tassa sutaṃ hoti – ‘cātumahārājikā devā dīghāyukā vaṇṇavanto sukhabahulā’ti. Tassa evaṃ hoti – ‘aho vatāhaṃ kāyassa bhedā paraṃ maraṇā cātumahārājikānaṃ devānaṃ sahabyataṃ upapajjeyya’nti. So taṃ cittaṃ dahati, taṃ cittaṃ adhiṭṭhāti, taṃ cittaṃ bhāveti. Tassa taṃ cittaṃ hīne vimuttaṃ, uttari abhāvitaṃ, tatrūpapattiyā saṃvattati. Kāyassa bhedā paraṃ maraṇā cātumahārājikānaṃ devānaṃ sahabyataṃ upapajjati. Tañca kho sīlavato vadāmi, no dussīlassa. Ijjhati, bhikkhave, sīlavato cetopaṇidhi visuddhattā.",
+   "zh": "“诸比丘，又，有人以食物、饮品、衣服、车乘、花鬘、香膏、涂油、床座、住所、灯烛施与沙门或婆罗门。他对自己所施之物有所期求。他曾听闻：‘四大王天的天众长寿、相貌庄严、多受快乐。’他便这样想：‘啊，愿我身坏命终后，投生于四大王天天众的行列中！’他安立此心，确立此心，修习此心。他的心从低劣处解脱，未修习更上的境界，只导向那处的再生。身坏命终之后，他便生于四大王天天众的行列中。我说，这是就持戒者而言，而非破戒者。诸比丘，持戒者的心愿因清净而得成就。”"
+  },
+  {
+   "idx": 32,
+   "pali": "‘‘Idha pana, bhikkhave, ekacco dānaṃ deti samaṇassa vā brāhmaṇassa vā annaṃ pānaṃ vatthaṃ yānaṃ mālāgandhavilepanaṃ seyyāvasathapadīpeyyaṃ. So yaṃ deti taṃ paccāsīsati. Tassa sutaṃ hoti – tāvatiṃsā devā…pe… yāmā devā… tusitā devā… nimmānaratī devā… paranimmitavasavattī devā dīghāyukā vaṇṇavanto sukhabahulāti. Tassa evaṃ hoti – ‘aho vatāhaṃ kāyassa bhedā paraṃ maraṇā paranimmitavasavattīnaṃ devānaṃ sahabyataṃ upapajjeyya’nti. So taṃ cittaṃ dahati, taṃ cittaṃ adhiṭṭhāti , taṃ cittaṃ bhāveti. Tassa taṃ cittaṃ hīne vimuttaṃ, uttari abhāvitaṃ, tatrūpapattiyā saṃvattati. Kāyassa bhedā paraṃ maraṇā paranimmitavasavattīnaṃ devānaṃ sahabyataṃ upapajjati. Tañca kho sīlavato vadāmi, no dussīlassa. Ijjhati, bhikkhave, sīlavato cetopaṇidhi visuddhattā.",
+   "zh": "“诸比丘，又，有人以食物、饮品、衣服、车乘、花鬘、香膏、涂油、床座、住所、灯烛施与沙门或婆罗门。他对自己所施之物有所期求。他曾听闻：‘[[tāvatiṃsa|三十三天]]的天众……夜摩天的天众……[[tusita|兜率天]]的天众……[[nimmānarati|化乐天]]的天众……他化自在天的天众长寿、相貌庄严、多受快乐。’他便这样想：‘啊，愿我身坏命终后，投生在他化自在天天众的行列中！’他安立此心，确立此心，修习此心。他的心从低劣处解脱，未修习更上的境界，只导向那处的再生。身坏命终之后，他便生于他化自在天天众的行列中。我说，这是就持戒者而言，而非破戒者。诸比丘，持戒者的心愿因清净而得成就。"
+  },
+  {
+   "idx": 33,
+   "pali": "‘‘Idha pana, bhikkhave, ekacco dānaṃ deti samaṇassa vā brāhmaṇassa vā annaṃ pānaṃ vatthaṃ yānaṃ mālāgandhavilepanaṃ seyyāvasathapadīpeyyaṃ. So yaṃ deti taṃ paccāsīsati. Tassa sutaṃ hoti – ‘brahmakāyikā devā dīghāyukā vaṇṇavanto sukhabahulā’ti. Tassa evaṃ hoti – ‘aho vatāhaṃ kāyassa bhedā paraṃ maraṇā brahmakāyikānaṃ devānaṃ sahabyataṃ upapajjeyya’nti. So taṃ cittaṃ dahati, taṃ cittaṃ adhiṭṭhāti, taṃ cittaṃ bhāveti. Tassa taṃ cittaṃ hīne vimuttaṃ, uttari abhāvitaṃ, tatrūpapattiyā saṃvattati. Kāyassa bhedā paraṃ maraṇā brahmakāyikānaṃ devānaṃ sahabyataṃ upapajjati. Tañca kho sīlavato vadāmi, no dussīlassa; vītarāgassa, no sarāgassa. Ijjhati, bhikkhave, sīlavato cetopaṇidhi vītarāgattā. Imā kho, bhikkhave, aṭṭha dānūpapattiyo’’ti. Pañcamaṃ.",
+   "zh": "“诸比丘，然而在此，有人布施食物、饮料、衣服、车乘、花鬘、香料、涂油、卧具、住处、灯烛给沙门或婆罗门。他期望所施的果报。他听闻：‘梵身天的天众长寿、容貌端严、多享快乐。’他便这样想：‘啊！愿我身坏命终后，生于梵身天的天众中！’他安住此心，确立此心，修习此心。此心从下解脱，未修习上，便导向彼处再生。他身坏命终后，生于梵身天的天众中。我说，这是针对持戒者，而非破戒者；针对离贪者，而非有贪者而言。诸比丘，持戒者的心愿因离贪而成就。诸比丘，这些就是八种布施再生。”第五经。"
+  },
+  {
+   "idx": 34,
+   "pali": "6. Puññakiriyavatthusuttaṃ",
+   "zh": "6. [[puññakiriyavatthusutta|福业事经]]"
+  },
+  {
+   "idx": 35,
+   "pali": "‘‘Tīṇimāni, bhikkhave, puññakiriyavatthūni. Katamāni tīṇi? Dānamayaṃ puññakiriyavatthu , sīlamayaṃ puññakiriyavatthu, bhāvanāmayaṃ puññakiriyavatthu. Idha, bhikkhave, ekaccassa dānamayaṃ puññakiriyavatthu parittaṃ kataṃ hoti, sīlamayaṃ puññakiriyavatthu parittaṃ kataṃ hoti, bhāvanāmayaṃ puññakiriyavatthuṃ nābhisambhoti. So kāyassa bhedā paraṃ maraṇā manussadobhagyaṃ upapajjati.",
+   "zh": "“诸比丘，有三种福业事。哪三种？布施所成福业事、持戒所成福业事、修习所成福业事。诸比丘，在此，有人于布施所成福业事少分而作，于持戒所成福业事少分而作，未曾成就修习所成福业事。他身坏命终后，投生于人间的困厄之中。”",
+   "n": "36"
+  },
+  {
+   "idx": 36,
+   "pali": "‘‘Idha pana, bhikkhave, ekaccassa dānamayaṃ puññakiriyavatthu mattaso kataṃ hoti, sīlamayaṃ puññakiriyavatthu mattaso kataṃ hoti, bhāvanāmayaṃ puññakiriyavatthuṃ nābhisambhoti. So kāyassa bhedā paraṃ maraṇā manussasobhagyaṃ upapajjati.",
+   "zh": "“诸比丘，在此，有人于布施所成的福业事作了适度的修习，于持戒所成的福业事作了适度的修习，却未能成就修习所成的福业事。他身坏命终之后，便投生于人间，享有幸福。"
+  },
+  {
+   "idx": 37,
+   "pali": "‘‘Idha pana, bhikkhave , ekaccassa dānamayaṃ puññakiriyavatthu adhimattaṃ kataṃ hoti, sīlamayaṃ puññakiriyavatthu adhimattaṃ kataṃ hoti, bhāvanāmayaṃ puññakiriyavatthuṃ nābhisambhoti. So kāyassa bhedā paraṃ maraṇā cātumahārājikānaṃ devānaṃ sahabyataṃ upapajjati. Tatra, bhikkhave, cattāro mahārājāno dānamayaṃ puññakiriyavatthuṃ atirekaṃ karitvā, sīlamayaṃ puññakiriyavatthuṃ atirekaṃ karitvā, cātumahārājike deve dasahi ṭhānehi adhigaṇhanti – dibbena āyunā, dibbena vaṇṇena, dibbena sukhena, dibbena yasena, dibbena ādhipateyyena, dibbehi rūpehi, dibbehi saddehi, dibbehi gandhehi, dibbehi rasehi, dibbehi phoṭṭhabbehi.",
+   "zh": "“诸比丘，在此，有人于布施所成的福业事作了殊胜的修习，于持戒所成的福业事作了殊胜的修习，却未能成就修习所成的福业事。他身坏命终之后，便往生为四大王天的天人同伴。诸比丘，在那里，四大天王由于远远超越了布施所成福业事与持戒所成福业事，在十种事上胜于其他四大王天天人——天寿、天形色、天乐、天名声、天主权、天色、天声、天香、天味、天触。"
+  },
+  {
+   "idx": 38,
+   "pali": "‘‘Idha pana, bhikkhave, ekaccassa dānamayaṃ puññakiriyavatthu adhimattaṃ kataṃ hoti, sīlamayaṃ puññakiriyavatthu adhimattaṃ kataṃ hoti, bhāvanāmayaṃ puññakiriyavatthuṃ nābhisambhoti. So kāyassa bhedā paraṃ maraṇā tāvatiṃsānaṃ devānaṃ sahabyataṃ upapajjati. Tatra, bhikkhave, sakko devānamindo dānamayaṃ puññakiriyavatthuṃ atirekaṃ karitvā sīlamayaṃ puññakiriyavatthuṃ atirekaṃ karitvā tāvatiṃse deve dasahi ṭhānehi adhigaṇhāti – dibbena āyunā…pe… dibbehi phoṭṭhabbehi.",
+   "zh": "“诸比丘，在此，有人于布施所成的福业事作了殊胜的修习，于持戒所成的福业事作了殊胜的修习，却未能成就修习所成的福业事。他身坏命终之后，便往生为[[tāvatiṃsa|三十三天]]的天人同伴。诸比丘，在那里，帝释天王由于远远超越了布施所成福业事与持戒所成福业事，在十种事上胜于其他[[tāvatiṃsa|三十三天]]天人——天寿、天形色、天乐、天名声、天主权、天色、天声、天香、天味、天触。"
+  },
+  {
+   "idx": 39,
+   "pali": "‘‘Idha pana, bhikkhave, ekaccassa dānamayaṃ puññakiriyavatthu adhimattaṃ kataṃ hoti, sīlamayaṃ puññakiriyavatthu adhimattaṃ kataṃ hoti, bhāvanāmayaṃ puññakiriyavatthuṃ nābhisambhoti. So kāyassa bhedā paraṃ maraṇā yāmānaṃ devānaṃ sahabyataṃ upapajjati. Tatra, bhikkhave, suyāmo devaputto dānamayaṃ puññakiriyavatthuṃ atirekaṃ karitvā , sīlamayaṃ puññakiriyavatthuṃ atirekaṃ karitvā, yāme deve dasahi ṭhānehi adhigaṇhāti – dibbena āyunā…pe… dibbehi phoṭṭhabbehi.",
+   "zh": "“诸比丘，在此，有一种人，布施所成福业事已修得殊胜，戒所成福业事也已修得殊胜，却未能成就修习所成福业事。他身坏命终后，往生夜摩天众之中。诸比丘，在那里，善夜摩天子由于更殊胜地修习了布施所成福业事、戒所成福业事，以十种事胜过其他夜摩天——以天寿……（中略）……以天触。"
+  },
+  {
+   "idx": 40,
+   "pali": "‘‘Idha pana, bhikkhave, ekaccassa dānamayaṃ puññakiriyavatthu adhimattaṃ kataṃ hoti, sīlamayaṃ puññakiriyavatthu adhimattaṃ kataṃ hoti, bhāvanāmayaṃ puññakiriyavatthuṃ nābhisambhoti. So kāyassa bhedā paraṃ maraṇā tusitānaṃ devānaṃ sahabyataṃ upapajjati. Tatra , bhikkhave, santusito devaputto dānamayaṃ puññakiriyavatthuṃ atirekaṃ karitvā, sīlamayaṃ puññakiriyavatthuṃ atirekaṃ karitvā, tusite deve dasahi ṭhānehi adhigaṇhāti – dibbena āyunā…pe… dibbehi phoṭṭhabbehi.",
+   "zh": "“诸比丘，在此，有一种人，布施所成福业事已修得殊胜，戒所成福业事也已修得殊胜，却未能成就修习所成福业事。他身坏命终后，往生兜率天众之中。诸比丘，在那里，善满足天子由于更殊胜地修习了布施所成福业事、戒所成福业事，以十种事胜过其他兜率天——以天寿……（中略）……以天触。"
+  },
+  {
+   "idx": 41,
+   "pali": "‘‘Idha pana, bhikkhave, ekaccassa dānamayaṃ puññakiriyavatthu adhimattaṃ kataṃ hoti, sīlamayaṃ puññakiriyavatthu adhimattaṃ kataṃ hoti, bhāvanāmayaṃ puññakiriyavatthuṃ nābhisambhoti. So kāyassa bhedā paraṃ maraṇā nimmānaratīnaṃ devānaṃ sahabyataṃ upapajjati. Tatra, bhikkhave, sunimmito devaputto dānamayaṃ puññakiriyavatthuṃ atirekaṃ karitvā, sīlamayaṃ puññakiriyavatthuṃ atirekaṃ karitvā, nimmānaratīdeve dasahi ṭhānehi adhigaṇhāti – dibbena āyunā…pe… dibbehi phoṭṭhabbehi.",
+   "zh": "“诸比丘，在此，有一种人，布施所成福业事已修得殊胜，戒所成福业事也已修得殊胜，却未能成就修习所成福业事。他身坏命终后，往生[[nimmānarati|化乐天]]众之中。诸比丘，在那里，善[[nimmānarati|化乐天]]子由于更殊胜地修习了布施所成福业事、戒所成福业事，以十种事胜过其他[[nimmānarati|化乐天]]——以天寿……（中略）……以天触。"
+  },
+  {
+   "idx": 42,
+   "pali": "‘‘Idha pana, bhikkhave, ekaccassa dānamayaṃ puññakiriyavatthu adhimattaṃ kataṃ hoti, sīlamayaṃ puññakiriyavatthu adhimattaṃ kataṃ hoti, bhāvanāmayaṃ puññakiriyavatthuṃ nābhisambhoti. So kāyassa bhedā paraṃ maraṇā paranimmitavasavattīnaṃ devānaṃ sahabyataṃ upapajjati. Tatra, bhikkhave, vasavattī devaputto dānamayaṃ puññakiriyavatthuṃ atirekaṃ karitvā, sīlamayaṃ puññakiriyavatthuṃ atirekaṃ karitvā, paranimmitavasavattīdeve dasahi ṭhānehi adhigaṇhāti – dibbena āyunā, dibbena vaṇṇena, dibbena sukhena, dibbena yasena, dibbena ādhipateyyena, dibbehi rūpehi, dibbehi saddehi, dibbehi gandhehi, dibbehi rasehi, dibbehi phoṭṭhabbehi. Imāni kho, bhikkhave, tīṇi puññakiriyavatthūnī’’ti. Chaṭṭhaṃ.",
+   "zh": "“诸比丘，在此，有人已极尽布施所成的福业事，也极尽持戒所成的福业事，却未能成就修习所成的福业事。他身坏命终后，便往生到他化自在天众中。诸比丘，在那里，自在天子以超越常人的方式广修布施所成的福业事，广修持戒所成的福业事，在十处上胜过了他化自在诸天神：天寿、天容色、天乐、天名声、天主权、天色、天声、天香、天味、天触。诸比丘，这便是三种福业事。”第六经。"
+  },
+  {
+   "idx": 43,
+   "pali": "7. Sappurisadānasuttaṃ",
+   "zh": "7. [[sappurisadānasutta|善士施经]]"
+  },
+  {
+   "idx": 44,
+   "pali": "‘‘Aṭṭhimāni, bhikkhave, sappurisadānāni. Katamāni aṭṭha? Suciṃ deti, paṇītaṃ deti, kālena deti, kappiyaṃ deti, viceyya deti, abhiṇhaṃ deti, dadaṃ cittaṃ pasādeti, datvā attamano hoti. Imāni kho, bhikkhave, aṭṭha sappurisadānānī’’ti.",
+   "zh": "“诸比丘，有八种善士的布施。是哪八种？布施清净物，布施殊胜物，适时而施，布施如法物，审察而施，常行布施，施时心怀净信，施后心生欢喜。诸比丘，这便是八种善士之施。”",
+   "n": "37"
+  },
+  {
+   "idx": 45,
+   "pali": "‘‘Suciṃ paṇītaṃ kālena, kappiyaṃ pānabhojanaṃ;",
+   "zh": "“清净殊胜、随顺适时、如法之饮食，”",
+   "type": "verse"
+  },
+  {
+   "idx": 46,
+   "pali": "Abhiṇhaṃ dadāti dānaṃ, sukhettesu brahmacārisu.",
+   "zh": "“常于善田，行于布施，供养诸梵行者。”",
+   "type": "verse"
+  },
+  {
+   "idx": 47,
+   "pali": "‘‘Neva vippaṭisārissa, cajitvā āmisaṃ bahuṃ;",
+   "zh": "“虽舍众多资具，心无追悔，”",
+   "type": "verse"
+  },
+  {
+   "idx": 48,
+   "pali": "Evaṃ dinnāni dānāni, vaṇṇayanti vipassino.",
+   "zh": "如此所施的布施，诸观者皆加赞叹。",
+   "type": "verse"
+  },
+  {
+   "idx": 49,
+   "pali": "‘‘Evaṃ yajitvā medhāvī, saddho muttena cetasā;",
+   "zh": "“如是祭祀之后，具慧、具信的贤者，以解脱之心，",
+   "type": "verse"
+  },
+  {
+   "idx": 50,
+   "pali": "Abyābajjhaṃ sukhaṃ lokaṃ, paṇḍito upapajjatī’’ti. sattamaṃ;",
+   "zh": "贤智者投生于无恼害的安乐世间。第七经。",
+   "type": "verse"
+  },
+  {
+   "idx": 51,
+   "pali": "8. Sappurisasuttaṃ",
+   "zh": "8. [[sappurisasutta|善士经]]"
+  },
+  {
+   "idx": 52,
+   "pali": "‘‘Sappuriso , bhikkhave, kule jāyamāno bahuno janassa atthāya hitāya sukhāya hoti – mātāpitūnaṃ atthāya hitāya sukhāya hoti, puttadārassa atthāya hitāya sukhāya hoti , dāsakammakaraporisassa atthāya hitāya sukhāya hoti, mittāmaccānaṃ atthāya hitāya sukhāya hoti, pubbapetānaṃ atthāya hitāya sukhāya hoti, rañño atthāya hitāya sukhāya hoti, devatānaṃ atthāya hitāya sukhāya hoti, samaṇabrāhmaṇānaṃ atthāya hitāya sukhāya hoti.",
+   "zh": "“诸比丘，善士生于家族中，给众多人带来利益、福祉与安乐——给父母带来利益、福祉与安乐，给妻儿带来利益、福祉与安乐，给奴仆、雇工与仆役带来利益、福祉与安乐，给朋友、同僚带来利益、福祉与安乐，给先亡者带来利益、福祉与安乐，给国王带来利益、福祉与安乐，给诸天人带来利益、福祉与安乐，给诸沙门婆罗门带来利益、福祉与安乐。",
+   "n": "38"
+  },
+  {
+   "idx": 53,
+   "pali": "‘‘Seyyathāpi, bhikkhave, mahāmegho sabbasassāni sampādento bahuno janassa atthāya hitāya sukhāya hoti; evamevaṃ kho, bhikkhave, sappuriso kule jāyamāno bahuno janassa atthāya hitāya sukhāya hoti – mātāpitūnaṃ atthāya hitāya sukhāya hoti, puttadārassa atthāya hitāya sukhāya hoti, dāsakammakaraporisassa atthāya hitāya sukhāya hoti, mittāmaccānaṃ atthāya hitāya sukhāya hoti, pubbapetānaṃ atthāya hitāya sukhāya hoti, rañño atthāya hitāya sukhāya hoti, devatānaṃ atthāya hitāya sukhāya hoti, samaṇabrāhmaṇānaṃ atthāya hitāya sukhāya hotī’’ti.",
+   "zh": "“诸比丘，犹如大云成就一切庄稼，给众多人带来利益、福祉与安乐；同样地，诸比丘，善士生于家族中，也给众多人带来利益、福祉与安乐——给父母带来利益、福祉与安乐，给妻儿带来利益、福祉与安乐，给奴仆、雇工与仆役带来利益、福祉与安乐，给朋友、同僚带来利益、福祉与安乐，给先亡者带来利益、福祉与安乐，给国王带来利益、福祉与安乐，给诸天人带来利益、福祉与安乐，给诸沙门婆罗门带来利益、福祉与安乐。”"
+  },
+  {
+   "idx": 54,
+   "pali": "‘‘Bahūnaṃ vata atthāya, sappañño gharamāvasaṃ;",
+   "zh": "“具慧者安住家中，实为利益众人故；",
+   "type": "verse"
+  },
+  {
+   "idx": 55,
+   "pali": "Mātaraṃ pitaraṃ pubbe, rattindivamatandito.",
+   "zh": "于母于父先行礼敬，日夜勤行不怠倦；",
+   "type": "verse"
+  },
+  {
+   "idx": 56,
+   "pali": "‘‘Pūjeti sahadhammena, pubbekatamanussaraṃ;",
+   "zh": "“以法如斯行供养，随念先辈之所作。",
+   "type": "verse"
+  },
+  {
+   "idx": 57,
+   "pali": "Anāgāre pabbajite, apace brahmacārayo .",
+   "zh": "对于无家而出家，他敬重梵行者。",
+   "type": "verse"
+  },
+  {
+   "idx": 58,
+   "pali": "‘‘Niviṭṭhasaddho pūjeti, ñatvā dhamme ca pesalo ;",
+   "zh": "“信心坚固而清净善良者，知法后，便行供养；",
+   "type": "verse"
+  },
+  {
+   "idx": 59,
+   "pali": "Rañño hito devahito, ñātīnaṃ sakhinaṃ hito.",
+   "zh": "他利乐君王，有益于天人，有益于亲族与朋友。",
+   "type": "verse"
+  },
+  {
+   "idx": 60,
+   "pali": "‘‘Sabbesaṃ so hito hoti, saddhamme suppatiṭṭhito;",
+   "zh": "“他利益一切众生，善住立于正法；",
+   "type": "verse"
+  },
+  {
+   "idx": 61,
+   "pali": "Vineyya maccheramalaṃ, sa lokaṃ bhajate siva’’nti. aṭṭhamaṃ;",
+   "zh": "调伏了悭吝的垢秽，他便享有安乐的世间”。第八经。",
+   "type": "verse"
+  },
+  {
+   "idx": 62,
+   "pali": "9. Abhisandasuttaṃ",
+   "zh": "9. [[abhisandasutta|润泽经]]"
+  },
+  {
+   "idx": 63,
+   "pali": "‘‘Aṭṭhime , bhikkhave, puññābhisandā kusalābhisandā sukhassāhārā sovaggikā sukhavipākā saggasaṃvattanikā, iṭṭhāya kantāya manāpāya hitāya sukhāya saṃvattanti. Katame aṭṭha? Idha, bhikkhave, ariyasāvako buddhaṃ saraṇaṃ gato hoti. Ayaṃ, bhikkhave, paṭhamo puññābhisando kusalābhisando sukhassāhāro sovaggiko sukhavipāko saggasaṃvattaniko, iṭṭhāya kantāya manāpāya hitāya sukhāya saṃvattati.",
+   "zh": "“诸比丘，有八种福德之流、善之流、乐的资粮，能引生天界、有乐的果报、导向天界，能带来可爱、可喜、可意、利益与安乐。哪八种呢？诸比丘，于此，圣弟子已皈依佛，以此作为皈依处。诸比丘，这是第一种福德之流、善之流、乐的资粮，能引生天界、有乐的果报、导向天界，能带来可爱、可喜、可意、利益与安乐。",
+   "n": "39"
+  },
+  {
+   "idx": 64,
+   "pali": "‘‘Puna caparaṃ, bhikkhave, ariyasāvako dhammaṃ saraṇaṃ gato hoti. Ayaṃ, bhikkhave, dutiyo puññābhisando…pe… saṃvattati.",
+   "zh": "“再者，诸比丘，圣弟子已皈依法，以此作为皈依处。诸比丘，这是第二种福德之流……能带来利益与安乐。"
+  },
+  {
+   "idx": 65,
+   "pali": "‘‘Puna caparaṃ, bhikkhave, ariyasāvako saṅghaṃ saraṇaṃ gato hoti. Ayaṃ, bhikkhave, tatiyo puññābhisando kusalābhisando sukhassāhāro sovaggiko sukhavipāko saggasaṃvattaniko, iṭṭhāya kantāya manāpāya hitāya sukhāya saṃvattati.",
+   "zh": "“再者，诸比丘，圣弟子已皈依僧，以此作为皈依处。诸比丘，这是第三种福德之流、善之流、乐的资粮，能引生天界、有乐的果报、导向天界，能带来可爱、可喜、可意、利益与安乐。"
+  },
+  {
+   "idx": 66,
+   "pali": "‘‘Pañcimāni , bhikkhave, dānāni mahādānāni aggaññāni rattaññāni vaṃsaññāni porāṇāni asaṃkiṇṇāni asaṃkiṇṇapubbāni, na saṃkiyanti na saṃkiyissanti, appaṭikuṭṭhāni samaṇehi brāhmaṇehi viññūhi. Katamāni pañca? Idha, bhikkhave, ariyasāvako pāṇātipātaṃ pahāya pāṇātipātā paṭivirato hoti. Pāṇātipātā paṭivirato, bhikkhave, ariyasāvako aparimāṇānaṃ sattānaṃ abhayaṃ deti, averaṃ deti, abyābajjhaṃ deti. Aparimāṇānaṃ sattānaṃ abhayaṃ datvā averaṃ datvā abyābajjhaṃ datvā aparimāṇassa abhayassa averassa abyābajjhassa bhāgī hoti. Idaṃ, bhikkhave, paṭhamaṃ dānaṃ mahādānaṃ aggaññaṃ rattaññaṃ vaṃsaññaṃ porāṇaṃ asaṃkiṇṇaṃ asaṃkiṇṇapubbaṃ, na saṃkiyati na saṃkiyissati, appaṭikuṭṭhaṃ samaṇehi brāhmaṇehi viññūhi. Ayaṃ, bhikkhave, catuttho puññābhisando kusalābhisando sukhassāhāro sovaggiko sukhavipāko saggasaṃvattaniko, iṭṭhāya kantāya manāpāya hitāya sukhāya saṃvattati.",
+   "zh": "“诸比丘，这五种布施是大施、最上、久远、传统、古老、无杂、过去无杂，从未被混杂，也将永不混杂，不为沙门、婆罗门、智者所轻蔑。哪五种？诸比丘，在此，圣弟子舍断杀生，远离杀生。诸比丘，远离杀生的圣弟子给予无量众生无畏、无怨、无恼害。如此给予无量众生无畏、无怨、无恼害后，他便成为无量无畏、无怨、无恼害的共享者。诸比丘，这是第一种布施，即是大施、最上、久远、传统、古老、无杂、过去无杂，从未被混杂，也将永不混杂，不为沙门、婆罗门、智者所轻蔑。诸比丘，这是第四种福德之流、善之流，是乐的资粮，属于天界，有乐的果报，能导向天界，导向可爱、可喜、可意、利益与安乐。”"
+  },
+  {
+   "idx": 67,
+   "pali": "‘‘Puna caparaṃ, bhikkhave, ariyasāvako adinnādānaṃ pahāya adinnādānā paṭivirato hoti…pe… kāmesumicchācāraṃ pahāya kāmesumicchācārā paṭivirato hoti…pe… musāvādaṃ pahāya musāvādā paṭivirato hoti…pe… surāmerayamajjapamādaṭṭhānaṃ pahāya surāmerayamajjapamādaṭṭhānā paṭivirato hoti. Surāmerayamajjapamādaṭṭhānā paṭivirato, bhikkhave, ariyasāvako aparimāṇānaṃ sattānaṃ abhayaṃ deti averaṃ deti abyābajjhaṃ deti. Aparimāṇānaṃ sattānaṃ abhayaṃ datvā averaṃ datvā abyābajjhaṃ datvā, aparimāṇassa abhayassa averassa abyābajjhassa bhāgī hoti. Idaṃ, bhikkhave, pañcamaṃ dānaṃ mahādānaṃ aggaññaṃ rattaññaṃ vaṃsaññaṃ porāṇaṃ asaṃkiṇṇaṃ asaṃkiṇṇapubbaṃ, na saṃkiyati na saṃkiyissati, appaṭikuṭṭhaṃ samaṇehi brāhmaṇehi viññūhi. Ayaṃ kho, bhikkhave, aṭṭhamo puññābhisando kusalābhisando sukhassāhāro sovaggiko sukhavipāko saggasaṃvattaniko, iṭṭhāya kantāya manāpāya hitāya sukhāya saṃvattati. Ime kho, bhikkhave, aṭṭha puññābhisandā kusalābhisandā sukhassāhārā sovaggikā sukhavipākā saggasaṃvattanikā, iṭṭhāya kantāya manāpāya hitāya sukhāya saṃvattantī’’ti. Navamaṃ.",
+   "zh": "“再者，诸比丘！圣弟子舍断不与取，远离不与取……舍断欲邪行，远离欲邪行……舍断妄语，远离妄语……舍断放逸之因的诸酒类，远离放逸之因的诸酒类。诸比丘！离诸放逸因酒类的圣弟子，给予无量众生无畏、无怨、无恼害。给予无量众生无畏、无怨、无恼害之后，他便成为无量无畏、无怨、无恼害的分享者。诸比丘！这是第五种布施，是广大施、最上施、久远传承、传统、古老、无杂、过去无杂，现在不被混杂，未来亦不被混杂，不为沙门、婆罗门、智者所轻蔑。诸比丘！这是第八种福德之流、善之流、乐之资粮，属于天界，有乐的果报，导向天界，导向可爱的、可喜的、可意的、利益与安乐。诸比丘！这八种福德之流、善之流、乐之资粮，属于天界，有乐的果报，导向天界，导向可爱的、可喜的、可意的、利益与安乐。”第九经。"
+  },
+  {
+   "idx": 68,
+   "pali": "10. Duccaritavipākasuttaṃ",
+   "zh": "10. [[duccaritavipākasutta|恶行果报经]]"
+  },
+  {
+   "idx": 69,
+   "pali": "‘‘Pāṇātipāto, bhikkhave, āsevito bhāvito bahulīkato nirayasaṃvattaniko tiracchānayonisaṃvattaniko pettivisayasaṃvattaniko. Yo sabbalahuso pāṇātipātassa vipāko, manussabhūtassa appāyukasaṃvattaniko hoti.",
+   "zh": "“诸比丘，若人亲近、修习、多行杀生，则此业将导向地狱、畜生趣、饿鬼界。即便最轻微的杀生之果，当生而为人时，也会招致短命。”",
+   "n": "40"
+  },
+  {
+   "idx": 70,
+   "pali": "‘‘Adinnādānaṃ, bhikkhave, āsevitaṃ bhāvitaṃ bahulīkataṃ nirayasaṃvattanikaṃ tiracchānayonisaṃvattanikaṃ pettivisayasaṃvattanikaṃ. Yo sabbalahuso adinnādānassa vipāko, manussabhūtassa bhogabyasanasaṃvattaniko hoti.",
+   "zh": "“诸比丘，若人亲近、修习、多行不与取，则此业将导向地狱、畜生趣、饿鬼界。即便最轻微的不与取之果，当生而为人时，也会招致财产损失。”"
+  },
+  {
+   "idx": 71,
+   "pali": "‘‘Kāmesumicchācāro, bhikkhave, āsevito bhāvito bahulīkato nirayasaṃvattaniko tiracchānayonisaṃvattaniko pettivisayasaṃvattaniko. Yo sabbalahuso kāmesumicchācārassa vipāko, manussabhūtassa sapattaverasaṃvattaniko hoti.",
+   "zh": "“诸比丘，若人亲近、修习、多行欲邪行，则此业将导向地狱、畜生趣、饿鬼界。即便最轻微的欲邪行之果，当生而为人时，也会招致敌对与怨恨。”"
+  },
+  {
+   "idx": 72,
+   "pali": "‘‘Musāvādo , bhikkhave, āsevito bhāvito bahulīkato nirayasaṃvattaniko tiracchānayonisaṃvattaniko pettivisayasaṃvattaniko. Yo sabbalahuso musāvādassa vipāko, manussabhūtassa abhūtabbhakkhānasaṃvattaniko hoti.",
+   "zh": "“诸比丘！若常亲近、修习、多行妄语，则导向地狱、导向畜生趣、导向饿鬼界。其最轻微的果报，即使生而为人，亦会招致虚妄的诽谤。”"
+  },
+  {
+   "idx": 73,
+   "pali": "‘‘Pisuṇā , bhikkhave, vācā āsevitā bhāvitā bahulīkatā nirayasaṃvattanikā tiracchānayonisaṃvattanikā pettivisayasaṃvattanikā. Yo sabbalahuso pisuṇāya vācāya vipāko, manussabhūtassa mittehi bhedanasaṃvattaniko hoti.",
+   "zh": "“诸比丘！若常亲近、修习、多行两舌，则导向地狱、导向畜生趣、导向饿鬼界。其最轻微的果报，即使生而为人，亦会导致与朋友分离。”"
+  },
+  {
+   "idx": 74,
+   "pali": "‘‘Pharusā , bhikkhave, vācā āsevitā bhāvitā bahulīkatā nirayasaṃvattanikā tiracchānayonisaṃvattanikā pettivisayasaṃvattanikā. Yo sabbalahuso pharusāya vācāya vipāko, manussabhūtassa amanāpasaddasaṃvattaniko hoti.",
+   "zh": "“诸比丘！若常亲近、修习、多行粗恶语，则导向地狱、导向畜生趣、导向饿鬼界。其最轻微的果报，即使生而为人，亦会招致不悦耳的声音。”"
+  },
+  {
+   "idx": 75,
+   "pali": "‘‘Samphappalāpo, bhikkhave, āsevito bhāvito bahulīkato nirayasaṃvattaniko tiracchānayonisaṃvattaniko pettivisayasaṃvattaniko. Yo sabbalahuso samphappalāpassa vipāko, manussabhūtassa anādeyyavācāsaṃvattaniko hoti.",
+   "zh": "“诸比丘！杂秽语若亲近、修习、广为所作，则导向地狱、导向畜生界、导向饿鬼界。杂秽语最轻微的异熟，于生为人时，所招致的是言语不被信受。”"
+  },
+  {
+   "idx": 76,
+   "pali": "‘‘Surāmerayapānaṃ, bhikkhave , āsevitaṃ bhāvitaṃ bahulīkataṃ nirayasaṃvattanikaṃ tiracchānayonisaṃvattanikaṃ pettivisayasaṃvattanikaṃ. Yo sabbalahuso surāmerayapānassa vipāko, manussabhūtassa ummattakasaṃvattaniko hotī’’ti. Dasamaṃ.",
+   "zh": "“诸比丘！饮诸酒类若亲近、修习、广为所作，则导向地狱、导向畜生界、导向饿鬼界。饮诸酒类最轻微的异熟，于生为人时，所招致的是癫狂。”第十经。"
+  },
+  {
+   "idx": 77,
+   "pali": "Dānavaggo catuttho.",
+   "zh": "第四 布施品"
+  },
+  {
+   "idx": 78,
+   "pali": "Tassuddānaṃ –",
+   "zh": "其摄颂："
+  },
+  {
+   "idx": 79,
+   "pali": "Dve dānāni vatthuñca, khettaṃ dānūpapattiyo;",
+   "zh": "二种布施、事、田，施与往生；",
+   "type": "verse"
+  },
+  {
+   "idx": 80,
+   "pali": "Kiriyaṃ dve sappurisā, abhisando vipāko cāti.",
+   "zh": "业，二善士，流与果报。",
+   "type": "verse"
+  }
+ ]
+}

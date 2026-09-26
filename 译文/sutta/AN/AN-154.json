@@ -1,0 +1,293 @@
+{
+  "uid": 154,
+  "title": "5. 沙门品",
+  "nik": "AN",
+  "segs": [
+    {
+      "idx": 0,
+      "pali": "5. Sāmaññavaggo",
+      "zh": "5. 沙门品"
+    },
+    {
+      "idx": 1,
+      "pali": "1. Sambādhasuttaṃ",
+      "zh": "1. [[sambādhasutta|逼迫经]]"
+    },
+    {
+      "idx": 2,
+      "pali": "Ekaṃ samayaṃ āyasmā ānando kosambiyaṃ viharati ghositārāme. Atha kho āyasmā udāyī yenāyasmā ānando tenupasaṅkami; upasaṅkamitvā āyasmatā ānandena saddhiṃ sammodi. Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho āyasmā udāyī āyasmantaṃ ānandaṃ etadavoca – ‘‘vuttamidaṃ, āvuso, pañcālacaṇḍena devaputtena –",
+      "zh": "一时，具寿[[ānanda|阿难]]住在[[kosambī|憍赏弥]]的瞿师罗。那时，具寿[[udāyī|优陀夷]]来见具寿[[ānanda|阿难]]。见面后，与具寿[[ānanda|阿难]]共相问候，说了亲切、令人忆念的话语，之后在一旁坐下。在一旁坐下的具寿[[udāyī|优陀夷]]对具寿[[ānanda|阿难]]这样说：“贤友，般遮喇旃达天子曾这样说过——",
+      "n": "42"
+    },
+    {
+      "idx": 3,
+      "pali": "‘‘Sambādhe gataṃ okāsaṃ, avidvā bhūrimedhaso;",
+      "zh": "“无智者困于逼窄之地，大慧者却得通达空间；",
+      "type": "verse"
+    },
+    {
+      "idx": 4,
+      "pali": "Yo jhānamabujjhi buddho, paṭilīnanisabho munī’’ti.",
+      "zh": "已觉悟禅那的佛陀，隐退的无畏牟尼。”",
+      "type": "verse"
+    },
+    {
+      "idx": 5,
+      "pali": "‘‘Katamo, āvuso, sambādho, katamo sambādhe okāsādhigamo vutto bhagavatā’’ti? ‘‘Pañcime, āvuso, kāmaguṇā sambādho vutto bhagavatā. Katame pañca? Cakkhuviññeyyā rūpā iṭṭhā kantā manāpā piyarūpā kāmūpasaṃhitā rajanīyā, sotaviññeyyā saddā…pe… ghānaviññeyyā gandhā… jivhāviññeyyā rasā… kāyaviññeyyā phoṭṭhabbā iṭṭhā kantā manāpā piyarūpā kāmūpasaṃhitā rajanīyā. Ime kho, āvuso, pañca kāmaguṇā sambādho vutto bhagavatā.",
+      "zh": "“贤友，什么是‘狭窄处’？什么是世尊所说的‘于狭窄处获得空间’？”“贤友，世尊说，这五种欲的成分就是狭窄处。哪五种？眼所识知的色——可意、可爱、悦意、形色美妙、伴随欲乐、能令染著；耳所识知的声……鼻所识知的香……舌所识知的味……身所识知的触——可意、可爱、悦意、形色美妙、伴随欲乐、能令染著。贤友，这五种欲的成分，就是世尊所说的狭窄处。”"
+    },
+    {
+      "idx": 6,
+      "pali": "‘‘Idhāvuso, bhikkhu vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati. Ettāvatāpi kho, āvuso, sambādhe okāsādhigamo vutto bhagavatā pariyāyena. Tatrāpatthi sambādho. Kiñca tattha sambādho? Yadeva tattha vitakkavicārā aniruddhā honti, ayamettha sambādho.",
+      "zh": "“贤友，于此，比丘远离诸欲……具足初禅而住。贤友，仅就此程度而言，世尊已用权巧的方式开示了在狭窄处获得空间。然而，其中仍有狭窄。在那里，什么算是狭窄？凡是那里寻与伺尚未止息，这就是那里的狭窄。”"
+    },
+    {
+      "idx": 7,
+      "pali": "‘‘Puna caparaṃ, āvuso, bhikkhu vitakkavicārānaṃ vūpasamā…pe… dutiyaṃ jhānaṃ upasampajja viharati. Ettāvatāpi kho, āvuso, sambādhe okāsādhigamo vutto bhagavatā pariyāyena . Tatrāpatthi sambādho. Kiñca tattha sambādho? Yadeva tattha pīti aniruddhā hoti , ayamettha sambādho.",
+      "zh": "“再者，贤友，比丘因寻与伺的止息……具足第二禅而住。贤友，仅此程度，世尊便以方便教说了于逼窄中得获空间。然而，此处仍有逼窄。于彼处，何谓逼窄？但凡彼处喜尚未息灭，这便是彼处的逼窄。"
+    },
+    {
+      "idx": 8,
+      "pali": "‘‘Puna caparaṃ, āvuso, bhikkhu pītiyā ca virāgā…pe… tatiyaṃ jhānaṃ upasampajja viharati. Ettāvatāpi kho, āvuso, sambādhe okāsādhigamo vutto bhagavatā pariyāyena. Tatrāpatthi sambādho. Kiñca tattha sambādho? Yadeva tattha upekkhāsukhaṃ aniruddhaṃ hoti, ayamettha sambādho.",
+      "zh": "“再者，贤友，比丘因喜的离染……具足第三禅而住。贤友，仅此程度，世尊便以方便教说了于逼窄中得获空间。然而，此处仍有逼窄。于彼处，何谓逼窄？但凡彼处舍乐尚未息灭，这便是彼处的逼窄。"
+    },
+    {
+      "idx": 9,
+      "pali": "‘‘Puna caparaṃ, āvuso, bhikkhu sukhassa ca pahānā…pe… catutthaṃ jhānaṃ upasampajja viharati. Ettāvatāpi kho, āvuso, sambādhe okāsādhigamo vutto bhagavatā pariyāyena. Tatrāpatthi sambādho. Kiñca tattha sambādho? Yadeva tattha rūpasaññā aniruddhā hoti, ayamettha sambādho.",
+      "zh": "“再者，贤友，比丘因乐的断除……具足第四禅而住。贤友，仅此程度，世尊便以方便教说了于逼窄中得获空间。然而，此处仍有逼窄。于彼处，何谓逼窄？但凡彼处色想尚未息灭，这便是彼处的逼窄。"
+    },
+    {
+      "idx": 10,
+      "pali": "‘‘Puna caparaṃ, āvuso, bhikkhu sabbaso rūpasaññānaṃ samatikkamā paṭighasaññānaṃ atthaṅgamā nānattasaññānaṃ amanasikārā ‘ananto ākāso’ti ākāsānañcāyatanaṃ upasampajja viharati. Ettāvatāpi kho, āvuso, sambādhe okāsādhigamo vutto bhagavatā pariyāyena. Tatrāpatthi sambādho. Kiñca tattha sambādho? Yadeva tattha ākāsānañcāyatanasaññā aniruddhā hoti, ayamettha sambādho.",
+      "zh": "“再者，贤友，比丘完全超越色想，有对想灭没，不作意种种想，即‘空无边’而证得空无边处安住。贤友，在这意义上，世尊亦以方便说于狭窄中获得空间。然而，彼处仍有狭窄。什么是彼处的狭窄？凡是那里的空无边处想未灭尽，这即是彼处的狭窄。”"
+    },
+    {
+      "idx": 11,
+      "pali": "‘‘Puna caparaṃ, āvuso, bhikkhu sabbaso ākāsānañcāyatanaṃ samatikkamma ‘anantaṃ viññāṇa’nti viññāṇañcāyatanaṃ upasampajja viharati. Ettāvatāpi kho, āvuso, sambādhe okāsādhigamo vutto bhagavatā pariyāyena . Tatrāpatthi sambādho. Kiñca tattha sambādho? Yadeva tattha viññāṇañcāyatanasaññā aniruddhā hoti, ayamettha sambādho.",
+      "zh": "“再者，贤友，比丘完全超越空无边处，即‘识无边’而证得识无边处安住。贤友，在这意义上，世尊亦以方便说于狭窄中获得空间。然而，彼处仍有狭窄。什么是彼处的狭窄？凡是那里的识无边处想未灭尽，这即是彼处的狭窄。"
+    },
+    {
+      "idx": 12,
+      "pali": "‘‘Puna caparaṃ, āvuso, bhikkhu sabbaso viññāṇañcāyatanaṃ samatikkamma ‘natthi kiñcī’ti ākiñcaññāyatanaṃ upasampajja viharati. Ettāvatāpi kho, āvuso, sambādhe okāsādhigamo vutto bhagavatā pariyāyena. Tatrāpatthi sambādho. Kiñca tattha sambādho? Yadeva tattha ākiñcaññāyatanasaññā aniruddhā hoti, ayamettha sambādho.",
+      "zh": "“再者，贤友，比丘完全超越识无边处，即‘无所有’而证得无所有处安住。贤友，在这意义上，世尊亦以方便说于狭窄中获得空间。然而，彼处仍有狭窄。什么是彼处的狭窄？凡是那里的无所有处想未灭尽，这即是彼处的狭窄。”"
+    },
+    {
+      "idx": 13,
+      "pali": "‘‘Puna caparaṃ, āvuso, bhikkhu sabbaso ākiñcaññāyatanaṃ samatikkamma nevasaññānāsaññāyatanaṃ upasampajja viharati. Ettāvatāpi kho, āvuso, sambādhe okāsādhigamo vutto bhagavatā pariyāyena. Tatrāpatthi sambādho. Kiñca tattha sambādho? Yadeva tattha nevasaññānāsaññāyatanasaññā aniruddhā hoti, ayamettha sambādho.",
+      "zh": "“再者，贤友，比丘完全超越无所有处之后，证得并安住于非想非非想处。贤友，就这一意义而言，世尊以方便说为在逼窄中获得了空间。在那里，仍有逼窄。那里什么是逼窄呢？凡是那里非想非非想处想尚未灭尽者，这就是那里的逼窄。”"
+    },
+    {
+      "idx": 14,
+      "pali": "‘‘Puna caparaṃ, āvuso, bhikkhu sabbaso nevasaññānāsaññāyatanaṃ samatikkamma saññāvedayitanirodhaṃ upasampajja viharati, paññāya cassa disvā āsavā parikkhīṇā honti. Ettāvatāpi kho, āvuso, sambādhe okāsādhigamo vutto bhagavatā nippariyāyenā’’ti. Paṭhamaṃ.",
+      "zh": "“再者，贤友，比丘完全超越非想非非想处之后，证得并安住于想受灭，当他以慧见时，诸漏便灭尽。贤友，就这一意义而言，世尊以非权说的方式说为在逼窄中获得了空间。”第一经。"
+    },
+    {
+      "idx": 15,
+      "pali": "2. Kāyasakkhīsuttaṃ",
+      "zh": "2. [[kāyasakkhīsutta|身证者经]]"
+    },
+    {
+      "idx": 16,
+      "pali": "‘‘‘Kāyasakkhī kāyasakkhī’ti, āvuso, vuccati. Kittāvatā nu kho, āvuso, kāyasakkhī vutto bhagavatā’’ti? ‘‘Idhāvuso, bhikkhu vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati. Yathā yathā ca tadāyatanaṃ tathā tathā naṃ kāyena phusitvā viharati. Ettāvatāpi kho, āvuso, kāyasakkhī vutto bhagavatā pariyāyena.",
+      "zh": "“贤友，常说到‘身证者、身证者’。贤友，世尊所说的身证者，以什么为范围呢？”贤友，于此，比丘离诸欲……（中略）……证得初禅而住。他随其相应之境界，以身触证而住。贤友，就此程度，世尊以方便说名为身证者。",
+      "n": "43"
+    },
+    {
+      "idx": 17,
+      "pali": "‘‘Puna caparaṃ, āvuso, bhikkhu vitakkavicārānaṃ vūpasamā…pe… dutiyaṃ jhānaṃ… tatiyaṃ jhānaṃ… catutthaṃ jhānaṃ upasampajja viharati. Yathā yathā ca tadāyatanaṃ tathā tathā naṃ kāyena phusitvā viharati. Ettāvatāpi kho, āvuso, kāyasakkhī vutto bhagavatā pariyāyena.",
+      "zh": "“再者，贤友，比丘由寻伺止息故……（中略）……证得第二禅那……第三禅那……第四禅那而住。他随其相应之境界，以身触证而住。贤友，就此程度，世尊以方便说名为身证者。”"
+    },
+    {
+      "idx": 18,
+      "pali": "‘‘Puna caparaṃ, āvuso, bhikkhu sabbaso rūpasaññānaṃ samatikkamā paṭighasaññānaṃ atthaṅgamā nānattasaññānaṃ amanasikārā ‘ananto ākāso’ti ākāsānañcāyatanaṃ upasampajja viharati. Yathā yathā ca tadāyatanaṃ tathā tathā naṃ kāyena phusitvā viharati. Ettāvatāpi kho, āvuso, kāyasakkhī vutto bhagavatā pariyāyena…pe….",
+      "zh": "“再者，贤友，比丘完全超越色想，灭没有对想，不作意种种想，以‘虚空无边’故，证得空无边处而住。他随其相应之境界，以身触证而住。贤友，就此程度，世尊以方便说名为身证者……（中略）……”"
+    },
+    {
+      "idx": 19,
+      "pali": "‘‘Puna caparaṃ, āvuso, bhikkhu sabbaso nevasaññānāsaññāyatanaṃ samatikkamma saññāvedayitanirodhaṃ upasampajja viharati, paññāya cassa disvā āsavā parikkhīṇā honti. Yathā yathā ca tadāyatanaṃ tathā tathā naṃ kāyena phusitvā viharati. Ettāvatāpi kho, āvuso, kāyasakkhī vutto bhagavatā nippariyāyenā’’ti. Dutiyaṃ.",
+      "zh": "“再者，贤友，比丘彻底超越非想非非想处，进入想受灭定而住，以慧见后，诸漏便尽。他随顺着彼处，以身触证而安住。贤友，仅此程度，世尊便直接称其为身证者。”第二经。"
+    },
+    {
+      "idx": 20,
+      "pali": "3. Paññāvimuttasuttaṃ",
+      "zh": "3. [[paññāvimuttasutta|慧解脱者经]]"
+    },
+    {
+      "idx": 21,
+      "pali": "‘‘‘Paññāvimutto paññāvimutto’ti, āvuso, vuccati. Kittāvatā nu kho, āvuso, paññāvimutto vutto bhagavatā’’ti?",
+      "zh": "“贤友，常言‘慧解脱者、慧解脱者’。贤友，世尊是依何种程度而称说慧解脱者呢？”",
+      "n": "44"
+    },
+    {
+      "idx": 22,
+      "pali": "‘‘Idhāvuso, bhikkhu vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati, paññāya ca naṃ pajānāti. Ettāvatāpi kho, āvuso, paññāvimutto vutto bhagavatā pariyāyena…pe….",
+      "zh": "“贤友，于此，比丘远离欲……（中略）……进入并安住于初禅，并以慧了知它。贤友，到此程度，世尊以方便说为慧解脱者……（中略）……"
+    },
+    {
+      "idx": 23,
+      "pali": "‘‘Puna caparaṃ, āvuso, bhikkhu sabbaso nevasaññānāsaññāyatanaṃ samatikkamma saññāvedayitanirodhaṃ upasampajja viharati, paññāya cassa disvā āsavā parikkhīṇā honti, paññāya ca naṃ pajānāti. Ettāvatāpi kho, āvuso, paññāvimutto vutto bhagavatā nippariyāyenā’’ti. Tatiyaṃ.",
+      "zh": "“复次，贤友，比丘完全超越非想非非想处，进入并安住于想受灭定，以慧见已，诸漏灭尽，并以慧了知它。贤友，到此程度，世尊直说为慧解脱者。”第三经。"
+    },
+    {
+      "idx": 24,
+      "pali": "4. Ubhatobhāgavimuttasuttaṃ",
+      "zh": "4. [[ubhatobhāgavimuttasutta|俱分解脱者经]]"
+    },
+    {
+      "idx": 25,
+      "pali": "‘‘‘Ubhatobhāgavimutto ubhatobhāgavimutto’ti, āvuso, vuccati. Kittāvatā nu kho, āvuso, ubhatobhāgavimutto vutto bhagavatā’’ti?",
+      "zh": "“贤友，常言“俱分解脱者、俱分解脱者”。贤友，世尊依何而说为俱分解脱者呢？”",
+      "n": "45"
+    },
+    {
+      "idx": 26,
+      "pali": "‘‘Idhāvuso, bhikkhu vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati. Yathā yathā ca tadāyatanaṃ tathā tathā naṃ kāyena phusitvā viharati, paññāya ca naṃ pajānāti. Ettāvatāpi kho, āvuso, ubhatobhāgavimutto vutto bhagavatā pariyāyena…pe….",
+      "zh": "“贤友，于此，比丘离诸欲……进入并安住于初禅。随其所证之处，他即以身触证而住，以慧了知。贤友，依此程度，世尊方便说为俱分解脱者……"
+    },
+    {
+      "idx": 27,
+      "pali": "‘‘Puna caparaṃ, āvuso, bhikkhu sabbaso nevasaññānāsaññāyatanaṃ samatikkamma saññāvedayitanirodhaṃ upasampajja viharati, paññāya cassa disvā āsavā parikkhīṇā honti. Yathā yathā ca tadāyatanaṃ tathā tathā naṃ kāyena phusitvā viharati, paññāya ca naṃ pajānāti. Ettāvatāpi kho, āvuso, ubhatobhāgavimutto vutto bhagavatā nippariyāyenā’’ti. Catutthaṃ.",
+      "zh": "“再者，贤友，比丘完全超越非想非非想处，进入并安住于想受灭，以慧照见，诸漏已尽。随其所证之处，他即以身触证而住，以慧了知。贤友，至此程度，世尊不待方便说为俱分解脱者。”第四经。"
+    },
+    {
+      "idx": 28,
+      "pali": "5. Sandiṭṭhikadhammasuttaṃ",
+      "zh": "5. [[sandiṭṭhikadhammasutta|现见之法经]]"
+    },
+    {
+      "idx": 29,
+      "pali": "‘‘‘Sandiṭṭhiko dhammo sandiṭṭhiko dhammo’ti, āvuso, vuccati. Kittāvatā nu kho, āvuso, sandiṭṭhiko dhammo vutto bhagavatā’’ti?",
+      "zh": "“贤友，‘现见之法、现见之法’人们如此说。贤友，到怎样的程度，世尊才说到现见之法呢？”",
+      "n": "46"
+    },
+    {
+      "idx": 30,
+      "pali": "‘‘Idhāvuso, bhikkhu vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati. Ettāvatāpi kho, āvuso, sandiṭṭhiko dhammo vutto bhagavatā pariyāyena…pe….",
+      "zh": "“贤友，于此，比丘确实远离感官欲乐……于是……具足初禅而住。贤友，就这个程度而言，世尊已以权宜方便说现见之法了……（于是）……"
+    },
+    {
+      "idx": 31,
+      "pali": "‘‘Puna caparaṃ, āvuso, bhikkhu sabbaso nevasaññānāsaññāyatanaṃ samatikkamma saññāvedayitanirodhaṃ upasampajja viharati, paññāya cassa disvā āsavā parikkhīṇā honti. Ettāvatāpi kho, āvuso, sandiṭṭhiko dhammo vutto bhagavatā nippariyāyenā’’ti. Pañcamaṃ.",
+      "zh": "“再者，贤友！比丘完全超越非想非非想处，证入想受灭而安住，以慧见后，诸漏灭尽。贤友！至此，世尊以决定说宣示了现见法。”第五经。"
+    },
+    {
+      "idx": 32,
+      "pali": "6. Sandiṭṭhikanibbānasuttaṃ",
+      "zh": "6. [[sandiṭṭhikanibbānasutta|现见涅槃经]]"
+    },
+    {
+      "idx": 33,
+      "pali": "‘‘‘Sandiṭṭhikaṃ nibbānaṃ sandiṭṭhikaṃ nibbāna’nti, āvuso, vuccati. Kittāvatā nu kho, āvuso, sandiṭṭhikaṃ nibbānaṃ vuttaṃ bhagavatā’’ti?",
+      "zh": "“诸贤友！常言‘现见涅槃、现见涅槃’。诸贤友！世尊依何而说现见涅槃呢？”",
+      "n": "47"
+    },
+    {
+      "idx": 34,
+      "pali": "‘‘Idhāvuso, bhikkhu vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati. Ettāvatāpi kho, āvuso, sandiṭṭhikaṃ nibbānaṃ vuttaṃ bhagavatā pariyāyena…pe….",
+      "zh": "“诸贤友！于此，一位比丘远离诸欲……（中略）……进入并安住于初禅。诸贤友！依此而言，世尊以方便说现见涅槃……（中略）……"
+    },
+    {
+      "idx": 35,
+      "pali": "‘‘Puna caparaṃ, āvuso, bhikkhu sabbaso nevasaññānāsaññāyatanaṃ samatikkamma saññāvedayitanirodhaṃ upasampajja viharati, paññāya cassa disvā āsavā parikkhīṇā honti. Ettāvatāpi kho, āvuso, sandiṭṭhikaṃ nibbānaṃ vuttaṃ bhagavatā nippariyāyenā’’ti. Chaṭṭhaṃ.",
+      "zh": "“再者，诸贤友！一位比丘完全超越非想非非想处，进入并安住于想受灭定，以慧见而诸漏灭尽。诸贤友！依此，世尊以无方便说现见涅槃。”第六经。"
+    },
+    {
+      "idx": 36,
+      "pali": "7. Nibbānasuttaṃ",
+      "zh": "7. [[nibbānasutta|涅槃经]]"
+    },
+    {
+      "idx": 37,
+      "pali": "‘‘‘Nibbānaṃ nibbāna’nti, āvuso, vuccati…pe…. Sattamaṃ.",
+      "zh": "“贤友们，所谓“涅槃、涅槃”……（中略）……第七经。",
+      "n": "48"
+    },
+    {
+      "idx": 38,
+      "pali": "8. Parinibbānasuttaṃ",
+      "zh": "8. [[parinibbānasutta|般涅槃经]]"
+    },
+    {
+      "idx": 39,
+      "pali": "‘‘‘Parinibbānaṃ parinibbāna’nti…pe…. Aṭṭhamaṃ.",
+      "zh": "“般涅槃、般涅槃”……（中略）……第八经。",
+      "n": "49"
+    },
+    {
+      "idx": 40,
+      "pali": "9. Tadaṅganibbānasuttaṃ",
+      "zh": "9. [[tadaṅganibbānasutta|彼分涅槃经]]"
+    },
+    {
+      "idx": 41,
+      "pali": "‘‘‘Tadaṅganibbānaṃ tadaṅganibbāna’nti, āvuso, vuccati…pe…. Navamaṃ.",
+      "zh": "“诸贤友，所谓‘彼分涅槃、彼分涅槃’……第九经。”",
+      "n": "50"
+    },
+    {
+      "idx": 42,
+      "pali": "10. Diṭṭhadhammanibbānasuttaṃ",
+      "zh": "10. [[diṭṭhadhammanibbānasutta|现法涅槃经]]"
+    },
+    {
+      "idx": 43,
+      "pali": "‘‘‘Diṭṭhadhammanibbānaṃ diṭṭhadhammanibbāna’nti, āvuso, vuccati. Kittāvatā nu kho, āvuso diṭṭhadhammanibbānaṃ vuttaṃ bhagavatā’’ti?",
+      "zh": "“贤友，人们常说‘现法涅槃、现法涅槃’。贤友，世尊所说的现法涅槃，是在什么意义上说的呢？”",
+      "n": "51"
+    },
+    {
+      "idx": 44,
+      "pali": "‘‘Idhāvuso, bhikkhu vivicceva kāmehi …pe… paṭhamaṃ jhānaṃ upasampajja viharati. Ettāvatāpi kho, āvuso, diṭṭhadhammanibbānaṃ vuttaṃ bhagavatā pariyāyena …pe….",
+      "zh": "“贤友，在此，比丘远离诸欲……（中略）……进入并安住于初禅。贤友，依此意义，世尊以权宜方便说为现法涅槃。……（中略）……”"
+    },
+    {
+      "idx": 45,
+      "pali": "‘‘Puna caparaṃ, āvuso, bhikkhu sabbaso nevasaññānāsaññāyatanaṃ samatikkamma saññāvedayitanirodhaṃ upasampajja viharati, paññāya cassa disvā āsavā parikkhīṇā honti. Ettāvatāpi kho, āvuso, diṭṭhadhammanibbānaṃ vuttaṃ bhagavatā nippariyāyenā’’ti. Dasamaṃ.",
+      "zh": "“再者，贤友，比丘全然超越非想非非想处，进入并安住于想受灭尽，以慧照见后，一切漏尽无余。贤友，依此意义，世尊以非权宜、毫不保留的方式说为现法涅槃。”第十经。"
+    },
+    {
+      "idx": 46,
+      "pali": "Sāmaññavaggo pañcamo.",
+      "zh": "第五沙门品"
+    },
+    {
+      "idx": 47,
+      "pali": "Tassuddānaṃ –",
+      "zh": "其摄颂："
+    },
+    {
+      "idx": 48,
+      "pali": "Sambādho kāyasakkhī paññā,",
+      "zh": "障碍、身证、慧等，",
+      "type": "verse"
+    },
+    {
+      "idx": 49,
+      "pali": "Ubhatobhāgo sandiṭṭhikā dve;",
+      "zh": "俱分解脱、现见二者",
+      "type": "verse"
+    },
+    {
+      "idx": 50,
+      "pali": "Nibbānaṃ parinibbānaṃ,",
+      "zh": "涅槃及般涅槃",
+      "type": "verse"
+    },
+    {
+      "idx": 51,
+      "pali": "Tadaṅgadiṭṭhadhammikena cāti.",
+      "zh": "彼分及现法",
+      "type": "verse"
+    },
+    {
+      "idx": 52,
+      "pali": "Paṭhamapaṇṇāsakaṃ samattaṃ.",
+      "zh": "第一组五十经终"
+    },
+    {
+      "idx": 53,
+      "pali": "2. Dutiyapaṇṇāsakaṃ",
+      "zh": "2. 第二组五十经"
+    }
+  ]
+}

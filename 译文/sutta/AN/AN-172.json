@@ -1,0 +1,138 @@
+{
+  "uid": 172,
+  "title": "1. 第一经",
+  "nik": "AN",
+  "segs": [
+    {
+      "idx": 0,
+      "pali": "(13) 3. Parisuddhavaggo",
+      "zh": "（13） 3. 清净品"
+    },
+    {
+      "idx": 1,
+      "pali": "1. Paṭhamasuttaṃ",
+      "zh": "1. [[paṭhamasutta|第一经]]"
+    },
+    {
+      "idx": 2,
+      "pali": "‘‘Dasayime , bhikkhave, dhammā parisuddhā pariyodātā, nāññatra sugatavinayā. Katame dasa? Sammādiṭṭhi, sammāsaṅkappo, sammāvācā, sammākammanto, sammāājīvo, sammāvāyāmo, sammāsati, sammāsamādhi, sammāñāṇaṃ, sammāvimutti – ime kho, bhikkhave, dasa dhammā parisuddhā pariyodātā, nāññatra sugatavinayā’’ti. Paṭhamaṃ.",
+      "zh": "“诸比丘，此十法清净皎洁，唯在善逝律中而有，非余处有。何等为十？正见、正思惟、正语、正业、正命、正精进、正念、正定、正智、正解脱。诸比丘，此十法清净皎洁，唯在善逝律中而有，非余处有。”第一。",
+      "n": "123"
+    },
+    {
+      "idx": 3,
+      "pali": "2. Dutiyasuttaṃ",
+      "zh": "2. 第二[[dutiyasutta|经]]"
+    },
+    {
+      "idx": 4,
+      "pali": "‘‘Dasayime, bhikkhave, dhammā anuppannā uppajjanti, nāññatra sugatavinayā. Katame dasa? Sammādiṭṭhi …pe… sammāvimutti – ime kho, bhikkhave, dasa dhammā anuppannā uppajjanti, nāññatra sugatavinayā’’ti. Dutiyaṃ.",
+      "zh": "“诸比丘，此十法未生者则生起，唯于善逝律中。何等为十？正见……（中略）……正解脱。诸比丘，此十法未生者则生起，唯于善逝律中。第二。”",
+      "n": "124"
+    },
+    {
+      "idx": 5,
+      "pali": "3. Tatiyasuttaṃ",
+      "zh": "3. [[tatiyasutta|第三经]]"
+    },
+    {
+      "idx": 6,
+      "pali": "‘‘Dasayime , bhikkhave, dhammā mahapphalā mahānisaṃsā, nāññatra sugatavinayā. Katame dasa? Sammādiṭṭhi…pe… sammāvimutti – ime kho , bhikkhave, dasa dhammā mahapphalā mahānisaṃsā, nāññatra sugatavinayā’’ti. Tatiyaṃ.",
+      "zh": "“诸比丘，此十法有大果报、大利益，唯在善逝律中，非他处而有。哪十种？正见……乃至正解脱。诸比丘，此十法即有大果报、大利益，唯在善逝律中，非他处而有。第三。”",
+      "n": "125"
+    },
+    {
+      "idx": 7,
+      "pali": "4. Catutthasuttaṃ",
+      "zh": "4. [[catutthasutta|第四经]]"
+    },
+    {
+      "idx": 8,
+      "pali": "‘‘Dasayime, bhikkhave, dhammā rāgavinayapariyosānā honti dosavinayapariyosānā honti mohavinayapariyosānā honti, nāññatra sugatavinayā. Katame dasa? Sammādiṭṭhi…pe… sammāvimutti – ime kho, bhikkhave, dasa dhammā rāgavinayapariyosānā honti dosavinayapariyosānā honti mohavinayapariyosānā honti, nāññatra sugatavinayā’’ti. Catutthaṃ.",
+      "zh": "“诸比丘，此十法以调伏贪为究竟、以调伏嗔为究竟、以调伏痴为究竟，唯在善逝律中，非他处而有。哪十种？正见……乃至正解脱。诸比丘，此十法即以调伏贪为究竟、以调伏嗔为究竟、以调伏痴为究竟，唯在善逝律中，非他处而有。第四。”",
+      "n": "126"
+    },
+    {
+      "idx": 9,
+      "pali": "5. Pañcamasuttaṃ",
+      "zh": "5. [[pañcamasutta|第五经]]"
+    },
+    {
+      "idx": 10,
+      "pali": "‘‘Dasayime, bhikkhave, dhammā ekantanibbidāya virāgāya nirodhāya upasamāya abhiññāya sambodhāya nibbānāya saṃvattanti, nāññatra sugatavinayā. Katame dasa? Sammādiṭṭhi…pe… sammāvimutti – ime kho, bhikkhave, dasa dhammā ekantanibbidāya virāgāya nirodhāya upasamāya abhiññāya sambodhāya nibbānāya saṃvattanti, nāññatra sugatavinayā’’ti. Pañcamaṃ.",
+      "zh": "“诸比丘，这十种法唯一导向厌离、离贪、灭尽、寂止、证智、正觉、涅槃，不出善逝之律。哪十种？正见……正解脱——诸比丘，这十种法唯一导向厌离、离贪、灭尽、寂止、证智、正觉、涅槃，不出善逝之律。”第五经。",
+      "n": "127"
+    },
+    {
+      "idx": 11,
+      "pali": "6. Chaṭṭhasuttaṃ",
+      "zh": "6. [[chaṭṭhasutta|第六经]]"
+    },
+    {
+      "idx": 12,
+      "pali": "‘‘Dasayime, bhikkhave, dhammā bhāvitā bahulīkatā anuppannā uppajjanti, nāññatra sugatavinayā. Katame dasa? Sammādiṭṭhi …pe… sammāvimutti – ime kho, bhikkhave, dasa dhammā bhāvitā bahulīkatā anuppannā uppajjanti, nāññatra sugatavinayā’’ti. Chaṭṭhaṃ.",
+      "zh": "“诸比丘，这十法若修习、多修习，未生的便会生起，唯善逝律中方能如此。哪十种？即正见……正解脱。诸比丘，这十法若修习、多修习，未生的便会生起，唯善逝律中方能如此。” 第6经。",
+      "n": "128"
+    },
+    {
+      "idx": 13,
+      "pali": "7. Sattamasuttaṃ",
+      "zh": "7. [[sattamasutta|第七经]]"
+    },
+    {
+      "idx": 14,
+      "pali": "‘‘Dasayime, bhikkhave, dhammā bhāvitā bahulīkatā mahapphalā honti mahānisaṃsā, nāññatra sugatavinayā. Katame dasa? Sammādiṭṭhi…pe… sammāvimutti – ime kho, bhikkhave, dasa dhammā bhāvitā bahulīkatā mahapphalā honti mahānisaṃsā, nāññatra sugatavinayā’’ti. Sattamaṃ.",
+      "zh": "“诸比丘，这十法若修习、多修习，能得大果报、大利益，唯善逝律中方能如此。哪十种？即正见……正解脱。诸比丘，这十法若修习、多修习，能得大果报、大利益，唯善逝律中方能如此。” 第7经。",
+      "n": "129"
+    },
+    {
+      "idx": 15,
+      "pali": "8. Aṭṭhamasuttaṃ",
+      "zh": "8. [[aṭṭhamasutta|第八经]]"
+    },
+    {
+      "idx": 16,
+      "pali": "‘‘Dasayime , bhikkhave, dhammā bhāvitā bahulīkatā rāgavinayapariyosānā honti dosavinayapariyosānā honti mohavinayapariyosānā honti, nāññatra sugatavinayā. Katame dasa? Sammādiṭṭhi…pe… sammāvimutti – ime kho, bhikkhave, dasa dhammā bhāvitā bahulīkatā rāgavinayapariyosānā honti dosavinayapariyosānā honti mohavinayapariyosānā honti, nāññatra sugatavinayā’’ti. Aṭṭhamaṃ.",
+      "zh": "“诸比丘，有十法，若修习、多修习，则能究竟调伏贪、究竟调伏嗔、究竟调伏痴，此唯在善逝律中，非余处有。哪十种？正见……正解脱。诸比丘，这十法若修习、多修习，便能究竟调伏贪、究竟调伏嗔、究竟调伏痴，唯在善逝律中。”第八经。",
+      "n": "130"
+    },
+    {
+      "idx": 17,
+      "pali": "9. Navamasuttaṃ",
+      "zh": "9. [[navamasutta|第九经]]"
+    },
+    {
+      "idx": 18,
+      "pali": "‘‘Dasayime, bhikkhave, dhammā bhāvitā bahulīkatā ekantanibbidāya virāgāya nirodhāya upasamāya abhiññāya sambodhāya nibbānāya saṃvattanti, nāññatra sugatavinayā. Katame dasa? Sammādiṭṭhi…pe… sammāvimutti – ime kho, bhikkhave, dasa dhammā bhāvitā bahulīkatā ekantanibbidāya virāgāya nirodhāya upasamāya abhiññāya sambodhāya nibbānāya saṃvattanti, nāññatra sugatavinayā’’ti. Navamaṃ.",
+      "zh": "“诸比丘，这十法，若已修习、已多修习，便完全导向厌离、离贪、灭、寂止、证智、正觉、涅槃，不出于善逝之律。哪十法？正见……（中略）……正解脱。诸比丘，这十法，若已修习、已多修习，便完全导向厌离、离贪、灭、寂止、证智、正觉、涅槃，不出于善逝之律。第九经。”",
+      "n": "131"
+    },
+    {
+      "idx": 19,
+      "pali": "10. Dasamasuttaṃ",
+      "zh": "10. [[dasamasutta|第十经]]"
+    },
+    {
+      "idx": 20,
+      "pali": "‘‘Dasayime , bhikkhave, micchattā. Katame dasa? Micchādiṭṭhi, micchāsaṅkappo, micchāvācā, micchākammanto, micchāājīvo, micchāvāyāmo, micchāsati, micchāsamādhi, micchāñāṇaṃ, micchāvimutti – ime kho, bhikkhave, dasa micchattā’’ti. Dasamaṃ.",
+      "zh": "“诸比丘，这便是十邪性。哪十种？邪见、邪思惟、邪语、邪业、邪命、邪精进、邪念、邪定、邪智、邪解脱。诸比丘，这便是十邪性。第十经。”",
+      "n": "132"
+    },
+    {
+      "idx": 21,
+      "pali": "11. Ekādasamasuttaṃ",
+      "zh": "11. [[ekādasamasutta|第十一经]]"
+    },
+    {
+      "idx": 22,
+      "pali": "‘‘Dasayime, bhikkhave, sammattā. Katame dasa? Sammādiṭṭhi, sammāsaṅkappo, sammāvācā, sammākammanto, sammāājīvo, sammāvāyāmo, sammāsati, sammāsamādhi, sammāñāṇaṃ, sammāvimutti – ime kho , bhikkhave, dasa sammattā’’ti. Ekādasamaṃ.",
+      "zh": "“比丘们，有十种正性。是哪十种？即：正见、正思惟、正语、正业、正命、正精进、正念、正定、正智、正解脱。比丘们，这便称为十种正性。第十一经。”",
+      "n": "133"
+    },
+    {
+      "idx": 23,
+      "pali": "Parisuddhavaggo tatiyo.",
+      "zh": "第三品 清净品"
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+ "uid": 33,
+ "title": "12. 婆蹉相应",
+ "nik": "SN",
+ "segs": [
+  {
+   "idx": 48,
+   "pali": "12. Vacchagottasaṃyuttaṃ",
+   "zh": "12. 婆蹉相应"
+  },
+  {
+   "idx": 49,
+   "pali": "1. Rūpaaññāṇasuttaṃ",
+   "zh": "1. [[rūpaaññāṇasutta|不知色经]]"
+  },
+  {
+   "idx": 1,
+   "pali": "Ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Atha kho vacchagotto paribbājako yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṃ sammodi. Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho vacchagotto paribbājako bhagavantaṃ etadavoca – ‘‘ko nu kho, bho gotama, hetu, ko paccayo, yānimāni anekavihitāni diṭṭhigatāni loke uppajjanti – sassato lokoti vā, asassato lokoti vā, antavā lokoti vā, anantavā lokoti vā, taṃ jīvaṃ taṃ sarīranti vā, aññaṃ jīvaṃ aññaṃ sarīranti vā, hoti tathāgato paraṃ maraṇāti vā, na hoti tathāgato paraṃ maraṇāti vā, hoti ca na ca hoti tathāgato paraṃ maraṇāti vā, neva hoti na na hoti tathāgato paraṃ maraṇāti vā’’ti? ‘‘Rūpe kho, vaccha, aññāṇā, rūpasamudaye aññāṇā, rūpanirodhe aññāṇā, rūpanirodhagāminiyā paṭipadāya aññāṇā; evamimāni anekavihitāni diṭṭhigatāni loke uppajjanti – sassato lokoti vā…pe… neva hoti na na hoti tathāgato paraṃ maraṇāti vāti. Ayaṃ kho, vaccha, hetu, ayaṃ paccayo, yānimāni anekavihitāni diṭṭhigatāni loke uppajjanti – sassato lokoti vā, asassato lokoti vā…pe… neva hoti na na hoti tathāgato paraṃ maraṇāti vā’’ti. Paṭhamaṃ.",
+   "zh": "一时，世尊住在[[sāvatthī|舍卫城]]的祇树[[Anāthapiṇḍika|给孤独]]园。那时，游方者[[vacchagotta|婆蹉]]来到世尊所在之处；到了以后，与世尊共相问候，致意寒暄后，在一旁坐下。坐在一旁的游方者[[vacchagotta|婆蹉]]对世尊这样说：“[[gotama|乔达摩]]尊者，是什么因、什么缘，使得世间生起这样种种不同的见地——‘世间恒常’，或‘世间无常’，或‘世间有边’，或‘世间无边’，或‘命即是身’，或‘命是一者、身是另一者’，或‘如来死后有’，或‘如来死后无’，或‘如来死后亦有亦无’，或‘如来死后非有非无’？”“[[vacchagotta|婆蹉]]，是因为对色没有遍知，对色的生起没有遍知，对色的灭尽没有遍知，对导向色灭尽之道没有遍知；如此，世间便生起了这种种不同的见地——‘世间恒常’，或……（中略）……‘如来死后非有非无’。[[vacchagotta|婆蹉]]，正是这个因、这个缘，使得世间生起这样种种不同的见地——‘世间恒常’，或‘世间无常’，或……（中略）……‘如来死后非有非无’。”第一。",
+   "n": "607"
+  },
+  {
+   "idx": 2,
+   "pali": "2. Vedanāaññāṇasuttaṃ",
+   "zh": "2. [[vedanāaññāṇasutta|受不知经]]"
+  },
+  {
+   "idx": 3,
+   "pali": "Sāvatthinidānaṃ. Ekamantaṃ nisinno kho vacchagotto paribbājako bhagavantaṃ etadavoca – ‘‘ko nu kho, bho gotama, hetu, ko paccayo, yānimāni anekavihitāni diṭṭhigatāni loke uppajjanti – sassato lokoti vā, asassato lokoti vā…pe… neva hoti na na hoti tathāgato paraṃ maraṇāti vā’’ti? ‘‘Vedanāya kho, vaccha, aññāṇā, vedanāsamudaye aññāṇā, vedanānirodhe aññāṇā, vedanānirodhagāminiyā paṭipadāya aññāṇā; evamimāni anekavihitāni diṭṭhigatāni loke uppajjanti – sassato lokoti vā, asassato lokoti vā…pe… neva hoti na na hoti tathāgato paraṃ maraṇāti vāti. Ayaṃ kho, vaccha, hetu, ayaṃ paccayo, yānimāni anekavihitāni diṭṭhigatāni loke uppajjanti – sassato lokoti vā, asassato lokoti vā…pe… neva hoti na na hoti tathāgato paraṃ maraṇāti vā’’ti. Dutiyaṃ.",
+   "zh": "于[[sāvatthī|舍卫城]]。在一旁坐下的游方者[[vacchagotta|婆蹉]]对世尊这样说：“[[gotama|乔达摩]]尊者，是什么因、什么缘，使得世间生起这样种种不同的见地——‘世间恒常’，或‘世间无常’，或……（中略）……‘如来死后非有非无’？”“[[vacchagotta|婆蹉]]，是因为对受没有遍知，对受的生起没有遍知，对受的灭尽没有遍知，对导向受灭尽之道没有遍知；如此，世间便生起了这种种不同的见地——‘世间恒常’，或‘世间无常’，或……（中略）……‘如来死后非有非无’。[[vacchagotta|婆蹉]]，正是这个因、这个缘，使得世间生起这样种种不同的见地——‘世间恒常’，或‘世间无常’，或……（中略）……‘如来死后非有非无’。”第二。",
+   "n": "608"
+  },
+  {
+   "idx": 4,
+   "pali": "3. Saññāaññāṇasuttaṃ",
+   "zh": "3. [[saññāaññāṇasutta|于想无知经]]"
+  },
+  {
+   "idx": 5,
+   "pali": "Sāvatthinidānaṃ. Ekamantaṃ nisinno kho vacchagotto paribbājako bhagavantaṃ etadavoca – ‘‘ko nu kho, bho gotama, hetu, ko paccayo, yānimāni anekavihitāni diṭṭhigatāni loke uppajjanti – sassato lokoti vā, asassato lokoti vā…pe… neva hoti na na hoti tathāgato paraṃ maraṇāti vā’’ti? ‘‘Saññāya kho, vaccha, aññāṇā, saññāsamudaye aññāṇā, saññānirodhe aññāṇā, saññānirodhagāminiyā paṭipadāya aññāṇā; evamimāni anekavihitāni diṭṭhigatāni loke uppajjanti – sassato lokoti vā, asassato lokoti vā…pe… neva hoti na na hoti tathāgato paraṃ maraṇāti vāti. Ayaṃ kho, vaccha, hetu, ayaṃ paccayo, yānimāni anekavihitāni diṭṭhigatāni loke uppajjanti – sassato lokoti vā, asassato lokoti vā…pe… neva hoti na na hoti tathāgato paraṃ maraṇāti vā’’ti. Tatiyaṃ.",
+   "zh": "[[sāvatthī|舍卫城]]因缘。 在一旁坐下的[[vacchagotta|婆蹉]]游方者，对世尊这样说： “[[gotama|乔达摩]]尊者，是什么因，什么缘，使得世间这些种种的见解生起呢？——‘世间是常’，或‘世间是非常’，或……（中略）……‘如来死后既非存在又非不存在’？” “[[vacchagotta|婆蹉]]，正是由于对想无知，对想的集起无知，对想的灭尽无知，对导向想灭尽之道无知，才使得世间这些种种的见解生起——‘世间是常’，或‘世间是非常’，或……（中略）……‘如来死后既非存在又非不存在’。[[vacchagotta|婆蹉]]，这就是因，这就是缘，使得世间这些种种的见解生起——‘世间是常’，或‘世间是非常’，或……（中略）……‘如来死后既非存在又非不存在’。” 第三经。",
+   "n": "609"
+  },
+  {
+   "idx": 6,
+   "pali": "4. Saṅkhāraaññāṇasuttaṃ",
+   "zh": "4. [[saṅkhāraaññāṇasutta|于行无知经]]"
+  },
+  {
+   "idx": 7,
+   "pali": "Sāvatthinidānaṃ. Ekamantaṃ nisinno kho vacchagotto paribbājako bhagavantaṃ etadavoca – ‘‘ko nu kho, bho gotama, hetu, ko paccayo, yānimāni anekavihitāni diṭṭhigatāni loke uppajjanti – sassato lokoti vā, asassato lokoti vā…pe… neva hoti na na hoti tathāgato paraṃ maraṇāti vā’’ti? ‘‘Saṅkhāresu kho, vaccha, aññāṇā, saṅkhārasamudaye aññāṇā, saṅkhāranirodhe aññāṇā, saṅkhāranirodhagāminiyā paṭipadāya aññāṇā; evamimāni anekavihitāni diṭṭhigatāni loke uppajjanti – sassato lokoti vā, asassato lokoti vā…pe… neva hoti na na hoti tathāgato paraṃ maraṇāti vāti. Ayaṃ kho, vaccha, hetu, ayaṃ paccayo, yānimāni anekavihitāni diṭṭhigatāni loke uppajjanti – sassato lokoti vā, asassato lokoti vā…pe… neva hoti na na hoti tathāgato paraṃ maraṇāti vā’’ti. Catutthaṃ.",
+   "zh": "[[sāvatthī|舍卫城]]缘。[[vacchagotta|婆蹉]]游方者在一旁坐下后，对世尊这样说：“[[gotama|乔达摩]]尊者，是什么因，是什么缘，令世间生起如此种种不同的见解——‘世间是常恒的’，或‘世间是非常恒的’，或……（中略）……‘如来死后既非存在又非不存在’？”“[[vacchagotta|婆蹉]]，对诸行不能了知，对诸行集不能了知，对诸行灭不能了知，对导向诸行灭之道不能了知。正是如此，这些种种不同的见解在世间生起——‘世间是常恒的’，或‘世间是非常恒的’，或……（中略）……‘如来死后既非存在又非不存在’。[[vacchagotta|婆蹉]]，这便是令世间生起如此种种见解的因与缘——‘世间是常恒的’，或‘世间是非常恒的’，或……（中略）……‘如来死后既非存在又非不存在’。”第四经。",
+   "n": "610"
+  },
+  {
+   "idx": 8,
+   "pali": "5. Viññāṇaaññāṇasuttaṃ",
+   "zh": "5. [[viññāṇaaññāṇasutta|不知识经]]"
+  },
+  {
+   "idx": 9,
+   "pali": "Sāvatthinidānaṃ . Ekamantaṃ nisinno kho vacchagotto paribbājako bhagavantaṃ etadavoca – ‘‘ko nu kho, bho gotama, hetu, ko paccayo, yānimāni anekavihitāni diṭṭhigatāni loke uppajjanti – sassato lokoti vā, asassato lokoti vā …pe… neva hoti na na hoti tathāgato paraṃ maraṇāti vā’’ti? ‘‘Viññāṇe kho, vaccha, aññāṇā, viññāṇasamudaye aññāṇā, viññāṇanirodhe aññāṇā, viññāṇanirodhagāminiyā paṭipadāya aññāṇā; evamimāni anekavihitāni diṭṭhigatāni loke uppajjanti – sassato lokoti vā, asassato lokoti vā…pe… neva hoti na na hoti tathāgato paraṃ maraṇāti vāti. Ayaṃ kho, vaccha, hetu, ayaṃ paccayo, yānimāni anekavihitāni diṭṭhigatāni loke uppajjanti – sassato lokoti vā, asassato lokoti vā…pe… neva hoti na na hoti tathāgato paraṃ maraṇāti vā’’ti. Pañcamaṃ.",
+   "zh": "[[sāvatthī|舍卫城]]缘。[[vacchagotta|婆蹉]]游方者在一旁坐下后，对世尊这样说：“[[gotama|乔达摩]]尊者，是什么因，是什么缘，令世间生起如此种种不同的见解——‘世间是常恒的’，或‘世间是非常恒的’，或……（中略）……‘如来死后既非存在又非不存在’？”“[[vacchagotta|婆蹉]]，对识不能了知，对识集不能了知，对识灭不能了知，对导向识灭之道不能了知。正是如此，这些种种不同的见解在世间生起——‘世间是常恒的’，或‘世间是非常恒的’，或……（中略）……‘如来死后既非存在又非不存在’。[[vacchagotta|婆蹉]]，这便是令世间生起如此种种见解的因与缘——‘世间是常恒的’，或‘世间是非常恒的’，或……（中略）……‘如来死后既非存在又非不存在’。”第五经。",
+   "n": "611"
+  },
+  {
+   "idx": 10,
+   "pali": "6-10. Rūpaadassanādisuttapañcakaṃ",
+   "zh": "六—一〇 不见色等五经"
+  },
+  {
+   "idx": 11,
+   "pali": "Sāvatthinidānaṃ. Ekamantaṃ nisinno kho vacchagotto paribbājako bhagavantaṃ etadavoca – ‘‘ko nu kho, bho gotama, hetu, ko paccayo, yānimāni anekavihitāni diṭṭhigatāni loke uppajjanti – sassato lokoti vā, asassato lokoti vā…pe… neva hoti na na hoti tathāgato paraṃ maraṇāti vā’’ti? Rūpe kho, vaccha, adassanā…pe… rūpanirodhagāminiyā paṭipadāya adassanā…pe… vedanāya … saññāya … saṅkhāresu kho, vaccha, adassanā…pe… viññāṇe kho, vaccha, adassanā…pe… viññāṇanirodhagāminiyā paṭipadāya adassanā…pe…. Dasamaṃ.",
+   "zh": "[[sāvatthī|舍卫城]]因缘。[[vacchagotta|婆蹉]]游方者在一旁坐下后，对世尊这样说：“[[gotama|乔达摩]]尊者，由何因、何缘，令世间生起这许多不同的见处，诸如‘世间是常恒的’，或‘世间是非常恒的’……（中略）……‘如来死后既非存在又非不存在’呢？”“[[vacchagotta|婆蹉]]，于色不见……（中略）……于导向色灭之道不见……于受……于想……[[vacchagotta|婆蹉]]，于诸行不见……（中略）……[[vacchagotta|婆蹉]]，于识不见……（中略）……于导向识灭之道不见……（中略）……。”第十经。",
+   "n": "612-616"
+  },
+  {
+   "idx": 12,
+   "pali": "11-15. Rūpaanabhisamayādisuttapañcakaṃ",
+   "zh": "一一—一五 不现观色等五经"
+  },
+  {
+   "idx": 13,
+   "pali": "Sāvatthinidānaṃ . Rūpe kho, vaccha, anabhisamayā…pe… rūpanirodhagāminiyā paṭipadāya anabhisamayā…pe….",
+   "zh": "[[sāvatthī|舍卫城]]因缘。婆蹉，由于未能现观于色……乃至未能现观于导向色灭之道……（中略）……。",
+   "n": "617-621"
+  },
+  {
+   "idx": 14,
+   "pali": "Sāvatthinidānaṃ. Vedanāya kho, vaccha, anabhisamayā…pe….",
+   "zh": "[[sāvatthī|舍卫城]]因缘。婆蹉，由于未能现观于受……（中略）……。"
+  },
+  {
+   "idx": 15,
+   "pali": "Sāvatthinidānaṃ . Saññāya kho, vaccha, anabhisamayā…pe….",
+   "zh": "[[sāvatthī|舍卫城]]因缘。婆蹉，由于未能现观于想……（中略）……。"
+  },
+  {
+   "idx": 16,
+   "pali": "Sāvatthinidānaṃ. Saṅkhāresu kho, vaccha, anabhisamayā…pe….",
+   "zh": "[[sāvatthī|舍卫城]]因缘。婆蹉，由于对诸行的不现观……（中略）……。"
+  },
+  {
+   "idx": 17,
+   "pali": "Sāvatthinidānaṃ. Viññāṇe kho, vaccha, anabhisamayā…pe…. Pannarasamaṃ.",
+   "zh": "[[sāvatthī|舍卫城]]因缘。婆蹉，由于对识的不现观……（中略）……第十五经。"
+  },
+  {
+   "idx": 18,
+   "pali": "16-20. Rūpaananubodhādisuttapañcakaṃ",
+   "zh": "16-20. 色不随觉等五经"
+  },
+  {
+   "idx": 19,
+   "pali": "Sāvatthinidānaṃ . Ekamantaṃ nisinno kho vacchagotto paribbājako bhagavantaṃ etadavoca – ko nu kho, bho gotama, hetu, ko paccayo…pe… rūpe kho, vaccha, ananubodhā…pe… rūpanirodhagāminiyā paṭipadāya ananubodhā…pe….",
+   "zh": "一时，世尊在[[sāvatthī|舍卫城]]。[[vacchagotta|婆蹉]]游方者坐在一旁，对世尊这样说：“[[gotama|乔达摩]]尊者，什么是因，什么是缘……（中略）……[[vacchagotta|婆蹉]]，因对色不通达……（中略）……因对导向色灭之道不通达……（中略）……”",
+   "n": "622-626"
+  },
+  {
+   "idx": 20,
+   "pali": "Sāvatthinidānaṃ. Vedanāya kho, vaccha…pe….",
+   "zh": "一时，世尊在[[sāvatthī|舍卫城]]。世尊说：“婆蹉，因对受不通达……（中略）……”"
+  },
+  {
+   "idx": 21,
+   "pali": "Sāvatthinidānaṃ. Saññāya kho, vaccha…pe….",
+   "zh": "一时，世尊在[[sāvatthī|舍卫城]]。世尊说：“婆蹉，因对想不通达……（中略）……”"
+  },
+  {
+   "idx": 22,
+   "pali": "Sāvatthinidānaṃ. Saṅkhāresu kho, vaccha…pe….",
+   "zh": "一时，世尊住在[[sāvatthī|舍卫城]]。“婆蹉，对于诸行的不通达……”"
+  },
+  {
+   "idx": 23,
+   "pali": "Sāvatthinidānaṃ. Viññāṇe kho, vaccha ananubodhā…pe… viññāṇanirodhagāminiyā paṭipadāya ananubodhā. Vīsatimaṃ.",
+   "zh": "一时，世尊住在[[sāvatthī|舍卫城]]。“婆蹉，对于识的不通达，对于识集的不通达，对于识灭的不通达，对于导向识灭之道的不通达。”第二十经。"
+  },
+  {
+   "idx": 24,
+   "pali": "21-25. Rūpaappaṭivedhādisuttapañcakaṃ",
+   "zh": "21-25. 于色不通达等经五则"
+  },
+  {
+   "idx": 25,
+   "pali": "Sāvatthinidānaṃ. Ko nu kho, bho gotama, hetu, ko paccayo…pe… . Rūpe kho, vaccha, appaṭivedhā…pe… viññāṇe kho, vaccha, appaṭivedhā…pe…. Pañcavīsatimaṃ.",
+   "zh": "[[sāvatthī|舍卫城]]缘起。 “[[gotama|乔达摩]]尊者，是何因、何缘…… 婆蹉，对于色不通达…… 婆蹉，对于识不通达…… 第二十五经。”",
+   "n": "627-631"
+  },
+  {
+   "idx": 26,
+   "pali": "26-30. Rūpaasallakkhaṇādisuttapañcakaṃ",
+   "zh": "26-30. 色不观察等五经"
+  },
+  {
+   "idx": 27,
+   "pali": "Sāvatthinidānaṃ. Rūpe kho, vaccha, asallakkhaṇā…pe… viññāṇe kho, vaccha, asallakkhaṇā…pe…. Tiṃsatimaṃ.",
+   "zh": "[[sāvatthī|舍卫城]]缘起。 “婆蹉，对于色不观察…… 婆蹉，对于识不观察…… 第三十经。”",
+   "n": "632-636"
+  },
+  {
+   "idx": 28,
+   "pali": "31-35. Rūpaanupalakkhaṇādisuttapañcakaṃ",
+   "zh": "31-35. 色不观等五经"
+  },
+  {
+   "idx": 29,
+   "pali": "Sāvatthinidānaṃ . Rūpe kho, vaccha, anupalakkhaṇā…pe… viññāṇe kho, vaccha, anupalakkhaṇā…pe…. Pañcatiṃsatimaṃ.",
+   "zh": "[[sāvatthī|舍卫城]]因缘。“婆蹉，于色不察知……于识不察知……”第三十五经。",
+   "n": "637-641"
+  },
+  {
+   "idx": 30,
+   "pali": "36-40. Rūpaappaccupalakkhaṇādisuttapañcakaṃ",
+   "zh": "36-40. 色不辨别等五经"
+  },
+  {
+   "idx": 31,
+   "pali": "Sāvatthinidānaṃ . Rūpe kho, vaccha, appaccupalakkhaṇā…pe… viññāṇe kho, vaccha, appaccupalakkhaṇā…pe…. Cattālīsamaṃ.",
+   "zh": "[[sāvatthī|舍卫城]]因缘。“婆蹉，因对色未能如实观照……因对识未能如实观照……”——第四十经。",
+   "n": "642-646"
+  },
+  {
+   "idx": 32,
+   "pali": "41-45. Rūpaasamapekkhaṇādisuttapañcakaṃ",
+   "zh": "41-45. 不观察色等五经"
+  },
+  {
+   "idx": 33,
+   "pali": "Sāvatthinidānaṃ. Rūpe kho, vaccha, asamapekkhaṇā…pe… viññāṇe kho, vaccha, asamapekkhaṇā…pe…. Pañcacattālīsamaṃ.",
+   "zh": "[[sāvatthī|舍卫城]]因缘。“婆蹉，因对色未能正观察……因对识未能正观察……”——第四十五经。",
+   "n": "647-651"
+  },
+  {
+   "idx": 34,
+   "pali": "46-50. Rūpaappaccupekkhaṇādisuttapañcakaṃ",
+   "zh": "46–50. 不随观审察色等五经"
+  },
+  {
+   "idx": 35,
+   "pali": "Sāvatthinidānaṃ . Rūpe kho, vaccha, appaccupekkhaṇā…pe… viññāṇe kho, vaccha, appaccupekkhaṇā…pe…. Paññāsamaṃ.",
+   "zh": "[[sāvatthī|舍卫城]]因缘。婆蹉，于色不随观审察……于识不随观审察……是为第五十经。",
+   "n": "652-656"
+  },
+  {
+   "idx": 36,
+   "pali": "51-54. Rūpaappaccakkhakammādisuttacatukkaṃ",
+   "zh": "51–54. 色不现证业等四经"
+  },
+  {
+   "idx": 37,
+   "pali": "Sāvatthinidānaṃ. Atha kho vacchagotto paribbājako yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṃ sammodi. Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho vacchagotto paribbājako bhagavantaṃ etadavoca – ‘‘ko nu kho, bho gotama, hetu, ko paccayo, yānimāni anekavihitāni diṭṭhigatāni loke uppajjanti – sassato lokoti vā…pe… neva hoti na na hoti tathāgato paraṃ maraṇāti vā’’ti? Rūpe kho, vaccha, appaccakkhakammā, rūpasamudaye appaccakkhakammā , rūpanirodhe appaccakkhakammā, rūpanirodhagāminiyā paṭipadāya appaccakkhakammā…pe….",
+   "zh": "在[[sāvatthī|舍卫城]]。那时，游方者[[vacchagotta|婆蹉]]来到世尊处，与世尊互相问候。彼此叙过欢喜、可忆念的交谈后，便退坐一面。坐定之后，游方者[[vacchagotta|婆蹉]]问世尊：“[[gotama|乔达摩]]尊者，是什么因、什么缘，使这些种种见生起于世间——‘世间是常恒的’……（中略）……‘如来死后既非有也非非有’？”“[[vacchagotta|婆蹉]]，这是因为对色未亲证、对色集未亲证、对色灭未亲证、对导向色灭之道未亲证……（中略）……”",
+   "n": "657-660"
+  },
+  {
+   "idx": 38,
+   "pali": "Sāvatthinidānaṃ . Vedanāya kho, vaccha, appaccakkhakammā…pe… vedanānirodhagāminiyā paṭipadāya appaccakkhakammā…pe….",
+   "zh": "在[[sāvatthī|舍卫城]]。婆蹉，未亲证受……（中略）……未亲证导向受灭之道……"
+  },
+  {
+   "idx": 39,
+   "pali": "Sāvatthinidānaṃ. Saññāya kho, vaccha, appaccakkhakammā…pe… saññānirodhagāminiyā paṭipadāya appaccakkhakammā…pe….",
+   "zh": "在[[sāvatthī|舍卫城]]。婆蹉，未亲证想……（中略）……未亲证导向想灭之道……"
+  },
+  {
+   "idx": 40,
+   "pali": "Sāvatthinidānaṃ . Saṅkhāresu kho, vaccha, appaccakkhakammā…pe… saṅkhāranirodhagāminiyā paṭipadāya appaccakkhakammā…pe…. Catupaññāsamaṃ.",
+   "zh": "[[sāvatthī|舍卫城]]因缘。婆蹉，因于诸行未亲证……因于导向诸行灭之道未亲证……第五十四。"
+  },
+  {
+   "idx": 41,
+   "pali": "55. Viññāṇaappaccakkhakammasuttaṃ",
+   "zh": "55. [[viññāṇaappaccakkhakammasutta|识未亲证经]]"
+  },
+  {
+   "idx": 42,
+   "pali": "Sāvatthinidānaṃ. ‘‘Viññāṇe kho, vaccha, appaccakkhakammā, viññāṇasamudaye appaccakkhakammā, viññāṇanirodhe appaccakkhakammā, viññāṇanirodhagāminiyā paṭipadāya appaccakkhakammā; evamimāni anekavihitāni diṭṭhigatāni loke uppajjanti – sassato lokoti vā, asassato lokoti vā…pe… neva hoti na na hoti tathāgato paraṃ maraṇāti vāti. Ayaṃ kho, vaccha, hetu, ayaṃ paccayo , yānimāni anekavihitāni diṭṭhigatāni loke uppajjanti – sassato lokoti vā, asassato lokoti vā, antavā lokoti vā, anantavā lokoti vā, taṃ jīvaṃ taṃ sarīranti vā, aññaṃ jīvaṃ aññaṃ sarīranti vā, hoti tathāgato paraṃ maraṇāti vā, na hoti tathāgato paraṃ maraṇāti vā, hoti ca na ca hoti tathāgato paraṃ maraṇāti vā, neva hoti na na hoti tathāgato paraṃ maraṇāti vā’’ti. Pañcapaññāsamaṃ.",
+   "zh": "[[sāvatthī|舍卫城]]因缘。“婆蹉，正是由于对识未亲证、对识的集起未亲证、对识的灭尽未亲证、对导向识灭之道未亲证，世间便生起这些种种见解：诸如‘世间是常恒的’、‘世间是非常恒的’……乃至‘如来死后既非存在亦非不存在’。婆蹉，这就是因，这就是缘，令世间生起如此种种见解——或谓‘世间常恒’，或谓‘世间非常恒’，或谓‘世间有边’，或谓‘世间无边’，或谓‘命即是身’，或谓‘命与身异’，或谓‘如来死后存在’，或谓‘如来死后不存在’，或谓‘如来死后既存在又不存在’，或谓‘如来死后既非存在又非不存在’。” 第五十五。",
+   "n": "661"
+  },
+  {
+   "idx": 43,
+   "pali": "Vacchagottasaṃyuttaṃ samattaṃ.",
+   "zh": "《婆蹉相应》终"
+  },
+  {
+   "idx": 44,
+   "pali": "Tassuddānaṃ –",
+   "zh": "其摄颂："
+  },
+  {
+   "idx": 45,
+   "pali": "Aññāṇā adassanā ceva, anabhisamayā ananubodhā;",
+   "zh": "无智、无见，无现观、无随觉。",
+   "type": "verse"
+  },
+  {
+   "idx": 46,
+   "pali": "Appaṭivedhā asallakkhaṇā, anupalakkhaṇena appaccupalakkhaṇā;",
+   "zh": "不通达，不辨识，不观察，不审察；",
+   "type": "verse"
+  },
+  {
+   "idx": 47,
+   "pali": "Asamapekkhaṇā appaccupekkhaṇā, appaccakkhakammanti.",
+   "zh": "不遍观，不省察，即是未亲证。",
+   "type": "verse"
+  }
+ ]
+}

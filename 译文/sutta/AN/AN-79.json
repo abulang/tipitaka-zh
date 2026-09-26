@@ -1,0 +1,164 @@
+{
+ "uid": 79,
+ "title": "1. 众经",
+ "nik": "AN",
+ "segs": [
+  {
+   "idx": 0,
+   "pali": "(22) 2. Parisāvaggo",
+   "zh": "2. 众品"
+  },
+  {
+   "idx": 1,
+   "pali": "1. Parisāsuttaṃ",
+   "zh": "1. [[parisāsutta|众经]]"
+  },
+  {
+   "idx": 2,
+   "pali": "‘‘Cattārome , bhikkhave, parisadūsanā. Katame cattāro? Bhikkhu, bhikkhave , dussīlo pāpadhammo parisadūsano; bhikkhunī, bhikkhave, dussīlā pāpadhammā parisadūsanā; upāsako, bhikkhave, dussīlo pāpadhammo parisadūsano; upāsikā, bhikkhave, dussīlā pāpadhammā parisadūsanā. Ime kho, bhikkhave, cattāro parisadūsanā.",
+   "zh": "“诸比丘，有四种污染会众者。是哪四种？诸比丘，破戒、行恶法的比丘是污染会众者；诸比丘，破戒、行恶法的比丘尼是污染会众者；诸比丘，破戒、行恶法的近事男是污染会众者；诸比丘，破戒、行恶法的近事女是污染会众者。诸比丘，这四种便是污染会众者。”",
+   "n": "211"
+  },
+  {
+   "idx": 3,
+   "pali": "‘‘Cattārome, bhikkhave, parisasobhanā. Katame cattāro? Bhikkhu, bhikkhave, sīlavā kalyāṇadhammo parisasobhano ; bhikkhunī, bhikkhave, sīlavatī kalyāṇadhammā parisasobhanā; upāsako, bhikkhave, sīlavā kalyāṇadhammo parisasobhano; upāsikā, bhikkhave, sīlavatī kalyāṇadhammā parisasobhanā. Ime kho, bhikkhave, cattāro parisasobhanā’’ti. Paṭhamaṃ.",
+   "zh": "“诸比丘，有四种庄严会众者。是哪四种？诸比丘，持戒、行善法的比丘是庄严会众者；诸比丘，持戒、行善法的比丘尼是庄严会众者；诸比丘，持戒、行善法的近事男是庄严会众者；诸比丘，持戒、行善法的近事女是庄严会众者。诸比丘，这四种便是庄严会众者。”第一。"
+  },
+  {
+   "idx": 4,
+   "pali": "2. Diṭṭhisuttaṃ",
+   "zh": "2. [[diṭṭhisutta|见经]]"
+  },
+  {
+   "idx": 5,
+   "pali": "‘‘Catūhi, bhikkhave, dhammehi samannāgato yathābhataṃ nikkhitto evaṃ niraye. Katamehi catūhi? Kāyaduccaritena, vacīduccaritena, manoduccaritena, micchādiṭṭhiyā – imehi kho, bhikkhave, catūhi dhammehi samannāgato yathābhataṃ nikkhitto evaṃ niraye.",
+   "zh": "“诸比丘，成就四法者，犹如被搬运而弃置，即如此堕入地狱。哪四种呢？身恶行、语恶行、意恶行、邪见。诸比丘，成就此四法者，犹如被搬运而弃置，即如此堕入地狱。”",
+   "n": "212"
+  },
+  {
+   "idx": 6,
+   "pali": "‘‘Catūhi, bhikkhave, dhammehi samannāgato yathābhataṃ nikkhitto evaṃ sagge. Katamehi catūhi ? Kāyasucaritena, vacīsucaritena, manosucaritena, sammādiṭṭhiyā – imehi kho, bhikkhave, catūhi dhammehi samannāgato yathābhataṃ nikkhitto evaṃ sagge’’ti. Dutiyaṃ.",
+   "zh": "“诸比丘，成就四法者，犹如被搬运而弃置，即如此生于天界。哪四种呢？身善行、语善行、意善行、正见。诸比丘，成就此四法者，犹如被搬运而弃置，即如此生于天界。”第二。"
+  },
+  {
+   "idx": 7,
+   "pali": "3. Akataññutāsuttaṃ",
+   "zh": "3. [[akataññutāsutta|不知恩经]]"
+  },
+  {
+   "idx": 8,
+   "pali": "‘‘Catūhi , bhikkhave, dhammehi samannāgato yathābhataṃ nikkhitto evaṃ niraye. Katamehi catūhi? Kāyaduccaritena, vacīduccaritena, manoduccaritena, akataññutā akataveditā – imehi kho, bhikkhave, catūhi dhammehi samannāgato yathābhataṃ nikkhitto evaṃ niraye.",
+   "zh": "“诸比丘，具足四法者，犹如被弃置一般，就这样生于地狱。哪四种呢？身恶行、语恶行、意恶行、不知恩与不感恩——诸比丘，具足这四法者，犹如被弃置一般，就这样生于地狱。”",
+   "n": "213"
+  },
+  {
+   "idx": 9,
+   "pali": "‘‘Catūhi, bhikkhave, dhammehi samannāgato yathābhataṃ nikkhitto evaṃ sagge. Katamehi catūhi? Kāyasucaritena, vacīsucaritena, manosucaritena, kataññutākataveditā – imehi kho, bhikkhave, catūhi dhammehi samannāgato yathābhataṃ nikkhitto evaṃ sagge’’ti. Tatiyaṃ.",
+   "zh": "“诸比丘，具足四法者，犹如被奉送安置一般，就这样生于天界。哪四种呢？身善行、语善行、意善行、知恩与感恩——诸比丘，具足这四法者，犹如被奉送安置一般，就这样生于天界。”第三。"
+  },
+  {
+   "idx": 10,
+   "pali": "4. Pāṇātipātīsuttaṃ",
+   "zh": "4. [[pāṇātipātīsutta|杀生者经]]"
+  },
+  {
+   "idx": 11,
+   "pali": "…Pe… pāṇātipātī hoti, adinnādāyī hoti, kāmesumicchācārī hoti, musāvādī hoti…pe… pāṇātipātā paṭivirato hoti, adinnādānā paṭivirato hoti, kāmesumicchācārā paṭivirato hoti, musāvādā paṭivirato hoti. Catutthaṃ.",
+   "zh": "……他为杀生者，为不与取者，为欲邪行者，为妄语者……他则远离杀生，远离不与取，远离欲邪行，远离妄语。第四。",
+   "n": "214"
+  },
+  {
+   "idx": 12,
+   "pali": "5. Paṭhamamaggasuttaṃ",
+   "zh": "5. [[paṭhamamaggasutta|第一道经]]"
+  },
+  {
+   "idx": 13,
+   "pali": "…Pe… micchādiṭṭhiko hoti, micchāsaṅkappo hoti, micchāvāco hoti, micchākammanto hoti…pe… sammādiṭṭhiko hoti, sammāsaṅkappo hoti, sammāvāco hoti, sammākammanto hoti. Pañcamaṃ.",
+   "zh": "……是邪见者、邪思惟者、邪语者、邪业者……是正见者、正思惟者、正语者、正业者。第五。",
+   "n": "215"
+  },
+  {
+   "idx": 14,
+   "pali": "6. Dutiyamaggasuttaṃ",
+   "zh": "6. [[dutiyamaggasutta|第二道经]]"
+  },
+  {
+   "idx": 15,
+   "pali": "…Pe… micchāājīvo hoti, micchāvāyāmo hoti, micchāsati hoti, micchāsamādhi hoti…pe… sammāājīvo hoti, sammāvāyāmo hoti, sammāsati hoti, sammāsamādhi hoti. Chaṭṭhaṃ.",
+   "zh": "……是邪命、邪精进、邪念、邪定……是正命、正精进、正念、正定。第六。",
+   "n": "216"
+  },
+  {
+   "idx": 16,
+   "pali": "7. Paṭhamavohārapathasuttaṃ",
+   "zh": "7. [[paṭhamavohārapathasutta|第一言路经]]"
+  },
+  {
+   "idx": 17,
+   "pali": "…Pe… adiṭṭhe diṭṭhavādī hoti, asute sutavādī hoti, amute mutavādī hoti, aviññāte viññātavādī hoti…pe… adiṭṭhe adiṭṭhavādī hoti, asute asutavādī hoti, amute amutavādī hoti, aviññāte aviññātavādī hoti. Sattamaṃ.",
+   "zh": "……对于未见的，声称已见；对于未闻的，声称已闻；对于未觉的，声称已觉；对于未识的，声称已识。……对于未见的，说未见；对于未闻的，说未闻；对于未觉的，说未觉；对于未识的，说未识。第七经。",
+   "n": "217"
+  },
+  {
+   "idx": 18,
+   "pali": "8. Dutiyavohārapathasuttaṃ",
+   "zh": "8. [[dutiyavohārapathasutta|第二言路经]]"
+  },
+  {
+   "idx": 19,
+   "pali": "…Pe… diṭṭhe adiṭṭhavādī hoti, sute asutavādī hoti, mute amutavādī hoti, viññāte aviññātavādī hoti…pe… diṭṭhe diṭṭhavādī hoti, sute sutavādī hoti, mute mutavādī hoti, viññāte viññātavādī hoti. Aṭṭhamaṃ.",
+   "zh": "……于见说未见，于闻说未闻，于觉说未觉，于识说未识……于见说见，于闻说闻，于觉说觉，于识说识。第八。",
+   "n": "218"
+  },
+  {
+   "idx": 20,
+   "pali": "9. Ahirikasuttaṃ",
+   "zh": "9. [[ahirikasutta|无惭经]]"
+  },
+  {
+   "idx": 21,
+   "pali": "…Pe… assaddho hoti, dussīlo hoti, ahiriko hoti, anottappī hoti…pe… saddho hoti, sīlavā hoti, hirimā hoti, ottappī hoti. Navamaṃ.",
+   "zh": "……无信、恶戒、无惭、无愧……具信、持戒、有惭、有愧。第九。",
+   "n": "219"
+  },
+  {
+   "idx": 22,
+   "pali": "10. Dussīlasuttaṃ",
+   "zh": "10. [[dussīlasutta|破戒经]]"
+  },
+  {
+   "idx": 23,
+   "pali": "‘‘Catūhi , bhikkhave, dhammehi samannāgato yathābhataṃ nikkhitto evaṃ niraye. Katamehi catūhi? Assaddho hoti, dussīlo hoti, kusīto hoti, duppañño hoti – imehi kho, bhikkhave, catūhi dhammehi samannāgato yathābhataṃ nikkhitto evaṃ niraye.",
+   "zh": "“诸比丘，具足四法者，便如被搬运弃置一般，堕入地狱。哪四种？即无信、破戒、懈怠、劣慧——诸比丘，具足此四法者，便如被搬运弃置一般，堕入地狱。",
+   "n": "220"
+  },
+  {
+   "idx": 24,
+   "pali": "‘‘Catūhi, bhikkhave, dhammehi samannāgato yathābhataṃ nikkhitto evaṃ sagge. Katamehi catūhi ? Saddho hoti, sīlavā hoti, āraddhavīriyo hoti, paññavā hoti – imehi kho, bhikkhave, catūhi dhammehi samannāgato yathābhataṃ nikkhitto evaṃ sagge’’ti. Dasamaṃ.",
+   "zh": "“诸比丘，具足四法者，便如被搬运安置一般，生于天界。哪四种？即有信、持戒、已发精进、有慧——诸比丘，具足此四法者，便如被搬运安置一般，生于天界。”第十。"
+  },
+  {
+   "idx": 25,
+   "pali": "Parisāvaggo dutiyo.",
+   "zh": "第二 众品"
+  },
+  {
+   "idx": 26,
+   "pali": "Tassuddānaṃ –",
+   "zh": "其摄颂："
+  },
+  {
+   "idx": 27,
+   "pali": "Parisā diṭṭhi akataññutā, pāṇātipātāpi dve maggā;",
+   "zh": "众、见、忘恩，杀生及二道；",
+   "type": "verse"
+  },
+  {
+   "idx": 28,
+   "pali": "Dve vohārapathā vuttā, ahirikaṃ duppaññena cāti.",
+   "zh": "已宣说二种言说之道：无惭与劣慧。",
+   "type": "verse"
+  }
+ ]
+}

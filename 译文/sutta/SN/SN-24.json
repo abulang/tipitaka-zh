@@ -1,0 +1,776 @@
+{
+  "uid": 24,
+  "title": "3. 见相应",
+  "nik": "SN",
+  "segs": [
+    {
+      "idx": 140,
+      "pali": "3. Diṭṭhisaṃyuttaṃ",
+      "zh": "3. 见相应"
+    },
+    {
+      "idx": 141,
+      "pali": "1. Sotāpattivaggo",
+      "zh": "1. 入流品"
+    },
+    {
+      "idx": 142,
+      "pali": "1. Vātasuttaṃ",
+      "zh": "1. [[vātasutta|风经]]"
+    },
+    {
+      "idx": 1,
+      "pali": "Ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane. Bhagavā etadavoca – ‘‘kismiṃ nu kho, bhikkhave, sati, kiṃ upādāya, kiṃ abhinivissa evaṃ diṭṭhi uppajjati – ‘na vātā vāyanti, na najjo sandanti, na gabbhiniyo vijāyanti, na candimasūriyā udenti vā apenti vā esikaṭṭhāyiṭṭhitā’’’ti?",
+      "zh": "一时，世尊住在[[sāvatthī|舍卫城]]祇园。世尊如此说道：“诸比丘，当有什么存在时，执取什么、固执什么，而生起这样的见：风不吹，河流不流，孕妇不生产，日月既不升起也不落下，如竖立的柱子一般安住不动？”",
+      "n": "206"
+    },
+    {
+      "idx": 2,
+      "pali": "‘‘Bhagavaṃmūlakā no, bhante, dhammā bhagavaṃnettikā bhagavaṃpaṭisaraṇā. Sādhu vata, bhante, bhagavantaññeva paṭibhātu etassa bhāsitassa attho. Bhagavato sutvā bhikkhū dhāressantī’’ti. ‘‘Tena hi, bhikkhave, suṇātha, sādhukaṃ manasi karotha; bhāsissāmī’’ti. ‘‘Evaṃ, bhante’’ti kho te bhikkhū bhagavato paccassosuṃ. Bhagavā etadavoca –",
+      "zh": "“尊者，我们的法以世尊为根本，以世尊为导引，以世尊为皈依。善哉，尊者！愿世尊亲自阐明这番义理。比丘们听了世尊的教导，将会铭记受持。”“那么，诸比丘，你们仔细听，善加作意！我当宣说。”“是，尊者。”那些比丘回答世尊。世尊便这样说道："
+    },
+    {
+      "idx": 3,
+      "pali": "‘‘Rūpe kho, bhikkhave, sati, rūpaṃ upādāya, rūpaṃ abhinivissa evaṃ diṭṭhi uppajjati – ‘na vātā vāyanti, na najjo sandanti, na gabbhiniyo vijāyanti, na candimasūriyā udenti vā apenti vā esikaṭṭhāyiṭṭhitā’ti. Vedanāya sati…pe… saññāya sati… saṅkhāresu sati… viññāṇe sati, viññāṇaṃ upādāya, viññāṇaṃ abhinivissa evaṃ diṭṭhi uppajjati – ‘na vātā vāyanti, na najjo sandanti, na gabbhiniyo vijāyanti, na candimasūriyā udenti vā apenti vā esikaṭṭhāyiṭṭhitā’ti. Taṃ kiṃ maññatha, bhikkhave, rūpaṃ niccaṃ vā aniccaṃ vā’’ti? ‘‘Aniccaṃ, bhante’’. ‘‘Yaṃ panāniccaṃ, dukkhaṃ vā taṃ sukhaṃ vā’’ti? ‘‘Dukkhaṃ, bhante’’ . ‘‘Yaṃ panāniccaṃ, dukkhaṃ vipariṇāmadhammaṃ, api nu taṃ anupādāya evaṃ diṭṭhi uppajjeyya – ‘na vātā vāyanti, na najjo sandanti, na gabbhiniyo vijāyanti, na candimasūriyā udenti vā apenti vā esikaṭṭhāyiṭṭhitā’’’ti? ‘‘No hetaṃ, bhante’’.",
+      "zh": "“诸比丘，当有色的存在时，执取色、坚执于色，便会生起这样的见解：‘风不吹，河不流，孕妇不生产，日月不出没，如同立柱般稳固不动。’当有受的存在时……有想的存在时……有行的存在时……当有识的存在时，执取识、坚执于识，便会生起这样的见解：‘风不吹，河不流，孕妇不生产，日月不出没，如同立柱般稳固不动。’诸比丘，你们认为色是常还是无常？”“无常，尊者。”“那么，无常的是苦还是乐？”“苦，尊者。”“那么，对于无常、苦、变易之法，若不执取，还会生起这样的见解吗？”“不会，尊者。”"
+    },
+    {
+      "idx": 4,
+      "pali": "‘‘Vedanā niccā vā aniccā vā’’ti… ‘‘saññā… saṅkhārā… viññāṇaṃ niccaṃ vā aniccaṃ vā’’ti? ‘‘Aniccaṃ, bhante’’. ‘‘Yaṃ panāniccaṃ dukkhaṃ vā taṃ sukhaṃ vā’’ti? ‘‘Dukkhaṃ, bhante’’. ‘‘Yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ, api nu taṃ anupādāya evaṃ diṭṭhi uppajjeyya – ‘na vātā vāyanti, na najjo sandanti, na gabbhiniyo vijāyanti, na candimasūriyā udenti vā apenti vā esikaṭṭhāyiṭṭhitā’’’ti? ‘‘No hetaṃ, bhante’’. ‘‘Yampidaṃ diṭṭhaṃ sutaṃ mutaṃ viññātaṃ pattaṃ pariyesitaṃ anuvicaritaṃ manasā tampi niccaṃ vā aniccaṃ vā’’ti? ‘‘Aniccaṃ, bhante’’. ‘‘Yaṃ panāniccaṃ dukkhaṃ vā taṃ sukhaṃ vā’’ti? ‘‘Dukkhaṃ, bhante’’. ‘‘Yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ, api nu taṃ anupādāya evaṃ diṭṭhi uppajjeyya – ‘na vātā vāyanti, na najjo sandanti, na gabbhiniyo vijāyanti, na candimasūriyā udenti vā apenti vā esikaṭṭhāyiṭṭhitā’’’ti? ‘‘No hetaṃ, bhante’’.",
+      "zh": "“‘受是常还是无常？’……‘想是常还是无常？’……‘行是常还是无常？’……‘识是常还是无常？’”“无常，尊者。”“那么，无常的是苦还是乐？”“苦，尊者。”“那么，对于无常、苦、变易的事物，若不执取，还会生起这样的见解：‘风不吹……’吗？”“不会，尊者。”“诸比丘，凡是那些所见、所闻、所觉、所识、所得、所寻求，以及心所伺察的，是常还是无常？”“无常，尊者。”“那么，无常的是苦还是乐？”“苦，尊者。”“那么，对于无常、苦、变易的事物，若不执取，还会生起这样的见解：‘风不吹……’吗？”“不会，尊者。”"
+    },
+    {
+      "idx": 5,
+      "pali": "‘‘Yato kho, bhikkhave, ariyasāvakassa imesu ca ṭhānesu kaṅkhā pahīnā hoti, dukkhepissa kaṅkhā pahīnā hoti, dukkhasamudayepissa kaṅkhā pahīnā hoti, dukkhanirodhepissa kaṅkhā pahīnā hoti, dukkhanirodhagāminiyā paṭipadāyapissa kaṅkhā pahīnā hoti – ayaṃ vuccati, bhikkhave, ariyasāvako sotāpanno avinipātadhammo niyato sambodhiparāyano’’ti. Paṭhamaṃ.",
+      "zh": "“诸比丘，当圣弟子于这六处断除了疑惑，对于苦断除了疑惑，对于苦集断除了疑惑，对于苦灭断除了疑惑，对于导向苦灭之道也断除了疑惑——诸比丘，这就称为圣弟子、入流者，不堕恶道，决定趣向正觉。” 第一经。"
+    },
+    {
+      "idx": 6,
+      "pali": "2. Etaṃmamasuttaṃ",
+      "zh": "2. [[etaṃmamasutta|这是我所经]]"
+    },
+    {
+      "idx": 7,
+      "pali": "Sāvatthinidānaṃ. ‘‘Kismiṃ nu kho, bhikkhave, sati, kiṃ upādāya, kiṃ abhinivissa evaṃ diṭṭhi uppajjati – ‘etaṃ mama, esohamasmi, eso me attā’’’ti? Bhagavaṃmūlakā no, bhante, dhammā…pe… ‘‘rūpe kho, bhikkhave, sati, rūpaṃ upādāya, rūpaṃ abhinivissa evaṃ diṭṭhi uppajjati – ‘etaṃ mama, esohamasmi, eso me attā’ti. Vedanāya sati…pe… saññāya sati … saṅkhāresu sati… viññāṇe sati, viññāṇaṃ upādāya, viññāṇaṃ abhinivissa evaṃ diṭṭhi uppajjati – ‘etaṃ mama, esohamasmi, eso me attā’’’ti.",
+      "zh": "[[sāvatthī|舍卫城]]因缘。“诸比丘，当什么存在时，由于执取什么、固执什么，会生起这样的见：‘这是我的，这是我，这是我的自我’呢？”“尊者，我们的法以世尊为根本……”“诸比丘，当色存在时，由于执取色、固执色，便生起这样的见：‘这是我的，这是我，这是我的自我’。当受存在时……当想存在时……当行存在时……当识存在时，由于执取识、固执识，便生起这样的见：‘这是我的，这是我，这是我的自我’。”",
+      "n": "207"
+    },
+    {
+      "idx": 8,
+      "pali": "‘‘Taṃ kiṃ maññatha, bhikkhave, rūpaṃ niccaṃ vā aniccaṃ vā’’ti? ‘‘Aniccaṃ, bhante’’…pe… ‘‘vedanā… saññā… saṅkhārā… viññāṇaṃ niccaṃ vā aniccaṃ vā’’ti? ‘‘Aniccaṃ, bhante’’…pe… api nu taṃ anupādāya evaṃ diṭṭhi uppajjeyya – ‘etaṃ mama, esohamasmi, eso me attā’’’ti? ‘‘No hetaṃ, bhante’’. ‘‘Yampidaṃ diṭṭhaṃ sutaṃ mutaṃ viññātaṃ pattaṃ pariyesitaṃ anuvicaritaṃ manasā tampi niccaṃ vā aniccaṃ vā’’ti? ‘‘Aniccaṃ, bhante’’. ‘‘Yaṃ panāniccaṃ dukkhaṃ vā taṃ sukhaṃ vā’’ti? ‘‘Dukkhaṃ, bhante’’. ‘‘Yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ, api nu taṃ anupādāya evaṃ diṭṭhi uppajjeyya – ‘etaṃ mama, esohamasmi, eso me attā’’’ti? ‘‘No hetaṃ, bhante’’.",
+      "zh": "“诸比丘，你们认为色是常还是无常？”“无常，尊者。”“受……想……行……识是常还是无常？”“无常，尊者。”“若不执取，还会生起‘这是我的，这是我，这是我的我’这样的见吗？”“不会，尊者。”“凡是所见、所闻、所觉、所识、所得、所寻求，以及心中所思量者，这些也是常还是无常？”“无常，尊者。”“无常的是苦还是乐？”“苦，尊者。”“而这无常、苦、会变坏的法，若不执取，还会生起‘这是我的，这是我，这是我的我’的见吗？”“不会，尊者。”"
+    },
+    {
+      "idx": 9,
+      "pali": "‘‘Yato kho, bhikkhave, ariyasāvakassa imesu ca ṭhānesu kaṅkhā pahīnā hoti, dukkhepissa kaṅkhā pahīnā hoti…pe… dukkhanirodhagāminiyā paṭipadāyapissa kaṅkhā pahīnā hoti – ayaṃ vuccati, bhikkhave, ariyasāvako sotāpanno avinipātadhammo niyato sambodhiparāyano’’ti. Dutiyaṃ.",
+      "zh": "“诸比丘，当圣弟子对这些处的疑惑已经断除，对苦的疑惑也已断除……对导向苦灭之道的疑惑也已断除——诸比丘，这就称为入流的圣弟子，不再堕于恶趣，决定趣向正觉。”第二经。"
+    },
+    {
+      "idx": 10,
+      "pali": "3. Soattāsuttaṃ",
+      "zh": "3. [[soattāsutta|我即彼经]]"
+    },
+    {
+      "idx": 11,
+      "pali": "Sāvatthinidānaṃ. ‘‘Kismiṃ nu kho, bhikkhave, sati, kiṃ upādāya, kiṃ abhinivissa evaṃ diṭṭhi uppajjati – ‘so attā, so loko, so pecca bhavissāmi nicco dhuvo sassato avipariṇāmadhammo’’’ti? Bhagavaṃmūlakā no, bhante, dhammā…pe….",
+      "zh": "[[sāvatthī|舍卫城]]因缘。“诸比丘，当什么存在时，由于执取什么、依止什么，而生起这样的见：‘彼是我，彼是世间，我死后将成为恒常、坚固、永存、不变易法’？”“尊者，我们的教法以世尊为根本……”",
+      "n": "208"
+    },
+    {
+      "idx": 12,
+      "pali": "‘‘Rūpe kho, bhikkhave, sati, rūpaṃ upādāya, rūpaṃ abhinivissa evaṃ diṭṭhi uppajjati – ‘so attā, so loko, so pecca bhavissāmi nicco dhuvo sassato avipariṇāmadhammo’ti . Vedanāya sati…pe… saññāya sati… saṅkhāresu sati… viññāṇe sati, viññāṇaṃ upādāya, viññāṇaṃ abhinivissa evaṃ diṭṭhi uppajjati – ‘so attā, so loko, so pecca bhavissāmi nicco dhuvo sassato avipariṇāmadhammo’’’ti.",
+      "zh": "“诸比丘，当色存在时，由于执取色、依止色，而生起这样的见：‘彼是我，彼是世间，我死后将成为恒常、坚固、永存、不变易法’。当受存在时……当想存在时……当行存在时……当识存在时，由于执取识、依止识，而生起这样的见：‘彼是我，彼是世间，我死后将成为恒常、坚固、永存、不变易法’。”"
+    },
+    {
+      "idx": 13,
+      "pali": "‘‘Taṃ kiṃ maññatha, bhikkhave, rūpaṃ niccaṃ vā aniccaṃ vā’’ti? ‘‘Aniccaṃ bhante’’…pe… api nu taṃ anupādāya evaṃ diṭṭhi uppajjeyya – ‘so attā…pe… avipariṇāmadhammo’ti? ‘‘No hetaṃ, bhante’’. ‘‘Vedanā… saññā… saṅkhārā… viññāṇaṃ niccaṃ vā aniccaṃ vā’’ti? ‘‘Aniccaṃ bhante…pe… api nu taṃ anupādāya evaṃ diṭṭhi uppajjeyya – ‘so attā…pe… avipariṇāmadhammo’’’ti? ‘‘No hetaṃ, bhante’’. ‘‘Yampidaṃ diṭṭhaṃ sutaṃ mutaṃ viññātaṃ pattaṃ pariyesitaṃ anuvicaritaṃ manasā tampi niccaṃ vā aniccaṃ vā’’ti? ‘‘Aniccaṃ, bhante…pe… api nu taṃ anupādāya evaṃ diṭṭhi uppajjeyya – ‘so attā, so loko, so pecca bhavissāmi nicco dhuvo sassato avipariṇāmadhammo’’’ti? ‘‘No hetaṃ, bhante’’.",
+      "zh": "“诸比丘，你们如何思惟？色是常的呢，还是无常的？”“无常，尊者。”……“若不执取它，会生起这样的见：‘彼是我……不变易法’吗？”“不会，尊者。”“受……想……行……识是常的呢，还是无常的？”“无常，尊者。”……“若不执取它，会生起这样的见吗？”“不会，尊者。”“凡所见、所闻、所觉、所识、所得、所寻求，以及心意所伺察者，此为常呢，还是无常？”“无常，尊者。”……“若不执取它，会生起这样的见：‘彼是我，彼是世间，我死后将成为恒常、坚固、永存、不变易法’吗？”“不会，尊者。”"
+    },
+    {
+      "idx": 14,
+      "pali": "‘‘Yato kho, bhikkhave, ariyasāvakassa imesu ca ṭhānesu kaṅkhā pahīnā hoti, dukkhepissa kaṅkhā pahīnā hoti…pe… dukkhanirodhagāminiyā paṭipadāyapissa kaṅkhā pahīnā hoti – ayaṃ vuccati, bhikkhave, ariyasāvako sotāpanno avinipātadhammo niyato sambodhiparāyano’’ti. Tatiyaṃ.",
+      "zh": "“诸比丘，当圣弟子在这六处上的疑惑已经舍断，于苦的疑惑也已舍断……于苦之集、苦之灭、导至苦灭之道的疑惑也已舍断——诸比丘，这时，他就被称为入流者的圣弟子，不再堕入恶趣，决定，趋向正觉。” 第三经。"
+    },
+    {
+      "idx": 15,
+      "pali": "4. Nocamesiyāsuttaṃ",
+      "zh": "4. [[nocamesiyāsutta|非我、非我所经]]"
+    },
+    {
+      "idx": 16,
+      "pali": "Sāvatthinidānaṃ . ‘‘Kismiṃ nu kho, bhikkhave, sati, kiṃ upādāya, kiṃ abhinivissa evaṃ diṭṭhi uppajjati – ‘no cassaṃ, no ca me siyā, nābhavissa, na me bhavissatī’’’ti? Bhagavaṃmūlakā no, bhante, dhammā…pe….",
+      "zh": "[[sāvatthī|舍卫城]]因缘。 “诸比丘，当有什么存在时，执取什么，固执于什么，便会生起这样的见解：‘我将不存在，我也不将拥有；我过去不曾存在，我也不曾拥有’呢？”“尊者，我们的法以世尊为根本……（中略）……”",
+      "n": "209"
+    },
+    {
+      "idx": 17,
+      "pali": "‘‘Rūpe kho, bhikkhave, sati, rūpaṃ upādāya, rūpaṃ abhinivissa evaṃ diṭṭhi uppajjati – ‘no cassaṃ, no ca me siyā, nābhavissa, na me bhavissatī’ti. Vedanāya sati… saññāya sati… saṅkhāresu sati… viññāṇe sati, viññāṇaṃ upādāya, viññāṇaṃ abhinivissa evaṃ diṭṭhi uppajjati – ‘no cassaṃ, no ca me siyā, nābhavissa, na me bhavissatī’’’ti.",
+      "zh": "“诸比丘，当有色时，执取色、耽著于色，便会生起这样的见：“我或许不存在，或许不属于我；我将不存在，将不属于我。”当有受时……当有想时……当有诸行时……当有识时，执取识、耽著于识，便会生起这样的见：“我或许不存在，或许不属于我；我将不存在，将不属于我。”"
+    },
+    {
+      "idx": 18,
+      "pali": "‘‘Taṃ kiṃ maññatha, bhikkhave, rūpaṃ niccaṃ vā aniccaṃ vā’’ti? ‘‘Aniccaṃ, bhante’’…pe… api nu taṃ anupādāya evaṃ diṭṭhi uppajjeyya – ‘no cassaṃ, no ca me siyā, nābhavissa, na me bhavissatī’ti? ‘‘No hetaṃ, bhante’’. ‘‘Vedanā… saññā… saṅkhārā… viññāṇaṃ niccaṃ vā aniccaṃ vā’’ti? ‘‘Aniccaṃ, bhante…pe… api nu taṃ anupādāya evaṃ diṭṭhi uppajjeyya – ‘no cassaṃ, no ca me siyā, nābhavissa, na me bhavissatī’’’ti? ‘‘No hetaṃ, bhante’’. ‘‘Yampidaṃ diṭṭhaṃ sutaṃ mutaṃ viññātaṃ pattaṃ pariyesitaṃ anuvicaritaṃ manasā tampi niccaṃ vā aniccaṃ vā’’ti? ‘‘Aniccaṃ, bhante…pe… api nu taṃ anupādāya evaṃ diṭṭhi uppajjeyya – ‘no cassaṃ, no ca me siyā, nābhavissa, na me bhavissatī’’ti? ‘‘No hetaṃ, bhante’’.",
+      "zh": "“诸比丘，你们认为如何：色是常还是无常？”“无常，尊者。”……“若不执取它，会生起这样的见：‘我或许不存在，或许不属于我；我将不存在，将不属于我’吗？”“不会，尊者。”“受……想……行……识是常还是无常？”“无常，尊者。”……“若不执取它，会生起这样的见：‘我或许不存在，或许不属于我；我将不存在，将不属于我’吗？”“不会，尊者。”“凡所见、所闻、所觉、所识、所得、所寻求，以及心所思索者，是常还是无常？”“无常，尊者。”……“若不执取它，会生起这样的见：‘我或许不存在，或许不属于我；我将不存在，将不属于我’吗？”“不会，尊者。”"
+    },
+    {
+      "idx": 19,
+      "pali": "‘‘Yato kho, bhikkhave, ariyasāvakassa imesu ca ṭhānesu kaṅkhā pahīnā hoti, dukkhepissa kaṅkhā pahīnā hoti…pe… dukkhanirodhagāminiyā paṭipadāyapissa kaṅkhā pahīnā hoti – ayaṃ vuccati, bhikkhave, ariyasāvako sotāpanno avinipātadhammo niyato sambodhiparāyano’’ti. Catutthaṃ.",
+      "zh": "“诸比丘，当圣弟子对于这些处的疑惑已经断除，他于苦的疑惑已断……他于导向苦灭之道的疑惑已断——诸比丘，这称为入流者圣弟子，不堕恶趣，决定，以正觉为彼岸。”第四经。"
+    },
+    {
+      "idx": 20,
+      "pali": "5. Natthidinnasuttaṃ",
+      "zh": "5. [[natthidinnasutta|无布施经]]"
+    },
+    {
+      "idx": 21,
+      "pali": "Sāvatthinidānaṃ . ‘‘Kismiṃ nu kho, bhikkhave, sati kiṃ upādāya, kiṃ abhinivissa evaṃ diṭṭhi uppajjati – ‘natthi dinnaṃ, natthi yiṭṭhaṃ, natthi hutaṃ, natthi sukatadukkaṭānaṃ kammānaṃ phalaṃ vipāko; natthi ayaṃ loko, natthi paro loko, natthi mātā, natthi pitā, natthi sattā opapātikā; natthi loke samaṇabrāhmaṇā sammaggatā sammāpaṭipannā ye imañca lokaṃ parañca lokaṃ sayaṃ abhiññā sacchikatvā pavedenti. Cātumahābhūtiko ayaṃ puriso yadā kālaṅkaroti pathavī pathavīkāyaṃ anupeti anupagacchati, āpo āpokāyaṃ anupeti anupagacchati, tejo tejokāyaṃ anupeti anupagacchati, vāyo vāyokāyaṃ anupeti anupagacchati. Ākāsaṃ indriyāni saṅkamanti. Āsandipañcamā purisā mataṃ ādāya gacchanti. Yāva āḷāhanā padāni paññāyanti. Kāpotakāni aṭṭhīni bhavanti. Bhassantā āhutiyo. Dattupaññattaṃ yadidaṃ dānaṃ . Tesaṃ tucchaṃ musā vilāpo ye keci atthikavādaṃ vadanti. Bāle ca paṇḍite ca kāyassa bhedā ucchijjanti vinassanti na honti paraṃ maraṇā’’’ti? Bhagavaṃmūlakā no, bhante, dhammā…pe… ‘‘rūpe kho, bhikkhave, sati, rūpaṃ upādāya, rūpaṃ abhinivissa evaṃ diṭṭhi uppajjati – ‘natthi dinnaṃ, natthi yiṭṭhaṃ…pe… kāyassa bhedā ucchijjanti vinassanti na honti paraṃ maraṇā’ti. Vedanāya sati…pe… saññāya sati… saṅkhāresu sati… viññāṇe sati , viññāṇaṃ upādāya, viññāṇaṃ abhinivissa evaṃ diṭṭhi uppajjati – ‘natthi dinnaṃ, natthi yiṭṭhaṃ…pe… kāyassa bhedā ucchijjanti vinassanti na honti paraṃ maraṇā’’’ti.",
+      "zh": "[[sāvatthī|舍卫城]]因缘。“诸比丘，当有什么存在时，因执取什么、执著什么，而生起这样的见：‘无布施，无供养，无祭祀，善作恶作诸业无有果报；无此世，无他世；无母，无父；无化生众生；世间无有正行、行正道的沙门婆罗门，能以自证智证知此世他世而宣说。此人由四大所成，死时地大归入地体，水大归入水体，火大归入火体，风大归入风体，诸根转入虚空。以灵床为第五，众人抬着死者前往，直至火葬场，足迹方现。骨头成鸽色，供养成灰烬。布施是愚人所安立。凡说有之论，皆是虚妄、虚伪、戏论。愚者与智者，皆于身坏后断灭、消失，死后不复存在’？”“世尊是我们的根本，尊者……”“诸比丘，有色存在时，因执取色、执著色，而生起这样的见：‘无布施，无供养……身坏后断灭、消失，死后不复存在。’有受存在时……有想存在时……有诸行存在时……有识存在时，因执取识、执著识，而生起这样的见：‘无布施，无供养……身坏后断灭、消失，死后不复存在。’”",
+      "n": "210"
+    },
+    {
+      "idx": 22,
+      "pali": "‘‘Taṃ kiṃ maññatha, bhikkhave, rūpaṃ niccaṃ vā aniccaṃ vā’’ti? ‘‘Aniccaṃ, bhante…pe… api nu taṃ anupādāya evaṃ diṭṭhi uppajjeyya – ‘natthi dinnaṃ, natthi yiṭṭhaṃ…pe… kāyassa bhedā ucchijjanti vinassanti na honti paraṃ maraṇā’’’ti? ‘‘No hetaṃ, bhante’’. ‘‘Vedanā… saññā… saṅkhārā… viññāṇaṃ niccaṃ vā aniccaṃ vā’’ti? ‘‘Aniccaṃ, bhante…pe… api nu taṃ anupādāya evaṃ diṭṭhi uppajjeyya – ‘natthi dinnaṃ, natthi yiṭṭhaṃ…pe… kāyassa bhedā ucchijjanti vinassanti na honti paraṃ maraṇā’’’ti? ‘‘No hetaṃ, bhante’’. ‘‘Yampidaṃ diṭṭhaṃ sutaṃ mutaṃ viññātaṃ pattaṃ pariyesitaṃ anuvicaritaṃ manasā tampi niccaṃ vā aniccaṃ vā’’ti? ‘‘Aniccaṃ, bhante…pe… api nu taṃ anupādāya evaṃ diṭṭhi uppajjeyya – ‘natthi dinnaṃ, natthi yiṭṭhaṃ…pe… ye keci atthikavādaṃ vadanti; bāle ca paṇḍite ca kāyassa bhedā ucchijjanti vinassanti na honti paraṃ maraṇā’’’ti? ‘‘No hetaṃ, bhante’’.",
+      "zh": "“诸比丘，你们如何思惟？色是常还是无常？”“无常，尊者。”“……若不执取它，还会生起这样的见：‘无布施，无供养……身坏后断灭、消失，死后不复存在’吗？”“不会，尊者。”“受……想……行……识是常还是无常？”“无常，尊者。”“……若不执取它，还会生起这样的见：‘无布施，无供养……身坏后断灭、消失，死后不复存在’吗？”“不会，尊者。”“凡此所见、所闻、所觉、所识、所得、所寻求、以意所寻思者，是常还是无常？”“无常，尊者。”“……若不执取它，还会生起这样的见：‘无布施，无供养……凡说有之论……愚者与智者，身坏后断灭、消失，死后不复存在’吗？”“不会，尊者。”"
+    },
+    {
+      "idx": 23,
+      "pali": "‘‘Yato kho, bhikkhave, ariyasāvakassa imesu ca ṭhānesu kaṅkhā pahīnā hoti, dukkhepissa kaṅkhā pahīnā hoti…pe… dukkhanirodhagāminiyā paṭipadāyapissa kaṅkhā pahīnā hoti – ayaṃ vuccati, bhikkhave , ariyasāvako sotāpanno avinipātadhammo niyato sambodhiparāyano’’ti. Pañcamaṃ.",
+      "zh": "“诸比丘，当圣弟子断除了这些处的疑惑，断除了对苦的疑惑……断除了对导向苦灭之道的疑惑，他便被称为圣弟子入流者，不再堕入恶趣，决定趣向正觉。”第五经。"
+    },
+    {
+      "idx": 24,
+      "pali": "6. Karotosuttaṃ",
+      "zh": "6. [[karotosutta|作者经]]"
+    },
+    {
+      "idx": 25,
+      "pali": "Sāvatthinidānaṃ. ‘‘Kismiṃ nu kho, bhikkhave, sati, kiṃ upādāya, kiṃ abhinivissa evaṃ diṭṭhi uppajjati – ‘karoto kārayato chindato chedāpayato pacato pācāpayato socato socāpayato kilamato kilamāpayato phandato phandāpayato pāṇamatipātayato adinnaṃ ādiyato sandhiṃ chindato nillopaṃ harato ekāgārikaṃ karoto paripanthe tiṭṭhato paradāraṃ gacchato musā bhaṇato karoto na karīyati pāpaṃ. Khurapariyantena cepi cakkena yo imissā pathaviyā pāṇe ekamaṃsakhalaṃ ekamaṃsapuñjaṃ kareyya, natthi tatonidānaṃ pāpaṃ, natthi pāpassa āgamo. Dakkhiṇaṃ cepi gaṅgāya tīraṃ gaccheyya; hananto ghātento chindanto chedāpento pacanto pācento, natthi tatonidānaṃ pāpaṃ, natthi pāpassa āgamo. Uttaraṃ cepi gaṅgāya tīraṃ gaccheyya; dadanto dāpento yajanto yajāpento, natthi tatonidānaṃ puññaṃ, natthi puññassa āgamo. Dānena damena saṃyamena saccavajjena natthi puññaṃ natthi puññassa āgamo’’’ti. Bhagavaṃmūlakā no, bhante, dhammā…pe… ‘‘rūpe kho, bhikkhave, sati, rūpaṃ upādāya, rūpaṃ abhinivissa evaṃ diṭṭhi uppajjati – ‘karoto kārayato…pe… natthi puññaṃ natthi puññassa āgamo’ti. Vedanāya sati…pe… saññāya sati… saṅkhāresu sati… viññāṇe sati, viññāṇaṃ upādāya, viññāṇaṃ abhinivissa evaṃ diṭṭhi uppajjati – ‘karoto kārayato…pe… natthi puññaṃ natthi puññassa āgamo’’’ti.",
+      "zh": "[[sāvatthī|舍卫城]]因缘。“诸比丘，当有什么存在时，由于执取什么、坚持什么，会生起这样的见解：‘造业者、令造业者，斩者、令斩者，煮者、令煮者，悲者、令悲者，疲者、令疲者，颤者、令颤者，杀生者，取不与者，破门入屋者，掠夺者，洗劫人家者，拦路抢劫者，侵犯他人妻子者，说妄语者——作者并不作恶。即便用锋利如剃刀的轮，将此大地上的众生切成一个肉堆、一个肉聚，由此因缘也无有恶，亦无恶之果报来临。即便到恒河南岸，杀、令杀，斩、令斩，煮、令煮，由此因缘也无有恶，亦无恶之果报来临。即便到恒河北岸，施、令施，供养、令供养，由此因缘也无有福，亦无福之果报来临。布施、调御、自制、实语，皆无福，亦无福之果报来临。’”\n“尊者，我们的法以世尊为根本……比丘们。”\n“诸比丘，当有色存在时，执取色，坚持色，会生起这样的见解：‘造业者、令造业者……皆无福，亦无福之果报来临。’当有受存在时……当有想存在时……当有行存在时……当有识存在时，执取识，坚持识，会生起这样的见解：‘造业者、令造业者……皆无福，亦无福之果报来临。’”",
+      "n": "211"
+    },
+    {
+      "idx": 26,
+      "pali": "‘‘Taṃ kiṃ maññatha, bhikkhave, rūpaṃ niccaṃ vā aniccaṃ vā’’ti? ‘‘Aniccaṃ, bhante’’…pe… api nu taṃ anupādāya evaṃ diṭṭhi uppajjeyya – ‘karoto…pe… natthi puññaṃ natthi puññassa āgamo’’ti? ‘‘No hetaṃ, bhante’’. ‘‘Vedanā… saññā… saṅkhārā… viññāṇaṃ niccaṃ vā aniccaṃ vā’’ti? ‘‘Aniccaṃ, bhante…pe… api nu taṃ anupādāya evaṃ diṭṭhi uppajjeyya – ‘karoto kārayato …pe… natthi puññaṃ natthi puññassa āgamo’’’ti? ‘‘No hetaṃ, bhante’’. ‘‘Yampidaṃ diṭṭhaṃ sutaṃ mutaṃ viññātaṃ pattaṃ pariyesitaṃ anuvicaritaṃ manasā tampi niccaṃ vā aniccaṃ vā’’ti? ‘‘Aniccaṃ, bhante…pe… api nu taṃ anupādāya evaṃ diṭṭhi uppajjeyya – ‘karoto kārayato…pe… natthi puññaṃ natthi puññassa āgamo’’’ti? ‘‘No hetaṃ, bhante’’.",
+      "zh": "“诸比丘，你们认为如何，色是常还是无常？”“无常，尊者。”……“若对此不执取，会生起这样的见：‘作者……无福，亦无福的果报’吗？”“不会，尊者。”“受……想……行……识是常还是无常？”“无常，尊者。”……“若对此不执取，会生起这样的见：‘作者、令作者……无福，亦无福的果报’吗？”“不会，尊者。”“凡所见、所闻、所觉、所识、所得、所寻求、以意所寻思的，那也是常还是无常？”“无常，尊者。”……“若对此不执取，会生起这样的见：‘作者、令作者……无福，亦无福的果报’吗？”“不会，尊者。”"
+    },
+    {
+      "idx": 27,
+      "pali": "‘‘Yato kho, bhikkhave, ariyasāvakassa imesu ca ṭhānesu kaṅkhā pahīnā hoti, dukkhepissa kaṅkhā pahīnā hoti…pe… dukkhanirodhagāminiyā paṭipadāyapissa kaṅkhā pahīnā hoti – ayaṃ vuccati, bhikkhave, ariyasāvako sotāpanno avinipātadhammo niyato sambodhiparāyano’’ti. Chaṭṭhaṃ.",
+      "zh": "“诸比丘，当圣弟子对这些处的疑惑已断，于苦的疑惑已断……乃至对导至苦灭之道的疑惑也已断——诸比丘，他便称为入流圣弟子，不再堕入恶趣，必定以正觉为彼岸。” ”第六经。"
+    },
+    {
+      "idx": 28,
+      "pali": "7. Hetusuttaṃ",
+      "zh": "7. [[hetusutta|因经]]"
+    },
+    {
+      "idx": 29,
+      "pali": "Sāvatthinidānaṃ . ‘‘Kismiṃ nu kho, bhikkhave, sati, kiṃ upādāya, kiṃ abhinivissa evaṃ diṭṭhi uppajjati – ‘natthi hetu, natthi paccayo sattānaṃ saṃkilesāya. Ahetū appaccayā sattā saṃkilissanti. Natthi hetu, natthi paccayo sattānaṃ visuddhiyā. Ahetū appaccayā sattā visujjhanti. Natthi balaṃ natthi vīriyaṃ natthi purisathāmo natthi purisaparakkamo. Sabbe sattā sabbe pāṇā sabbe bhūtā sabbe jīvā avasā abalā avīriyā niyatisaṅgatibhāvapariṇatā chasvevābhijātīsu sukhadukkhaṃ paṭisaṃvedentī’’’ti? Bhagavaṃmūlakā no, bhante, dhammā…pe… ‘‘rūpe kho, bhikkhave, sati, rūpaṃ upādāya, rūpaṃ abhinivissa evaṃ diṭṭhi uppajjati – ‘natthi hetu, natthi paccayo…pe… sukhadukkhaṃ paṭisaṃvedentī’ti . Vedanāya sati…pe… saññāya sati… saṅkhāresu sati… viññāṇe sati, viññāṇaṃ upādāya, viññāṇaṃ abhinivissa evaṃ diṭṭhi uppajjati – ‘natthi hetu, natthi paccayo…pe… sukhadukkhaṃ paṭisaṃvedentī’’’ti.",
+      "zh": "[[sāvatthī|舍卫城]]之因缘。\n“诸比丘，当有什么存在时，由于执取什么、坚执什么，而生起这样的见解：‘没有因、没有缘可令众生杂染；众生无因无缘而杂染。没有因、没有缘可令众生清净；众生无因无缘而清净。无力，无精进，无人力，无人勤。一切众生、一切生类、一切有情、一切生命，皆无自在、无力、无精进，随命运、结合与自性的转变，在六种生处中感受苦乐。’？”\n“尊者，我们的法以世尊为根本……”\n“诸比丘，当有色存在时，由于执取色、坚执色，而生起这样的见解：‘没有因、没有缘……感受苦乐。’当有受存在时……当有想存在时……当有诸行存在时……当有识存在时，由于执取识、坚执识，而生起这样的见解：‘没有因、没有缘……感受苦乐。’”",
+      "n": "212"
+    },
+    {
+      "idx": 30,
+      "pali": "‘‘Taṃ kiṃ maññatha, bhikkhave, rūpaṃ niccaṃ vā aniccaṃ vā’’ti? ‘‘Aniccaṃ, bhante…pe… vipariṇāmadhammaṃ, api nu taṃ anupādāya evaṃ diṭṭhi uppajjeyya – ‘natthi hetu, natthi paccayo…pe… sukhadukkhaṃ paṭisaṃvedentī’’’ti? ‘‘No hetaṃ, bhante’’. ‘‘Vedanā… saññā… saṅkhārā… viññāṇaṃ niccaṃ vā aniccaṃ vā’’ti? ‘‘Aniccaṃ, bhante…pe… api nu taṃ anupādāya evaṃ diṭṭhi uppajjeyya – ‘natthi hetu, natthi paccayo…pe… sukhadukkhaṃ paṭisaṃvedentī’’’ti? ‘‘No hetaṃ, bhante’’. ‘‘Yampidaṃ diṭṭhaṃ sutaṃ mutaṃ viññātaṃ pattaṃ pariyesitaṃ anuvicaritaṃ manasā tampi niccaṃ vā aniccaṃ vā’’ti? ‘‘Aniccaṃ, bhante…pe… api nu taṃ anupādāya evaṃ diṭṭhi uppajjeyya – ‘natthi hetu natthi paccayo…pe… sukhadukkhaṃ paṭisaṃvedentī’’’ti? ‘‘No hetaṃ, bhante’’.",
+      "zh": "“诸比丘，你们怎么看呢？色是常还是无常？”\n“无常，尊者。”\n“……此是变易法，若不执取，会生起这样的见解吗：‘没有因、没有缘……感受苦乐’？”\n“不会这样，尊者。”\n“受……想……行……识是常还是无常？”\n“无常，尊者。”\n“……此是变易法，若不执取，会生起这样的见解吗：‘没有因、没有缘……感受苦乐’？”\n“不会这样，尊者。”\n“凡所见、所闻、所觉、所识、所得、所寻求、被意所寻察的，那也是常还是无常？”\n“无常，尊者。”\n“……此是变易法，若不执取，会生起这样的见解吗：‘没有因、没有缘……感受苦乐’？”\n“不会这样，尊者。”"
+    },
+    {
+      "idx": 31,
+      "pali": "‘‘Yato kho, bhikkhave, ariyasāvakassa imesu ca ṭhānesu kaṅkhā pahīnā hoti, dukkhepissa kaṅkhā pahīnā hoti …pe… dukkhanirodhagāminiyā paṭipadāyapissa kaṅkhā pahīnā hoti – ayaṃ vuccati, bhikkhave, ariyasāvako sotāpanno avinipātadhammo niyato sambodhiparāyano’’ti. Sattamaṃ.",
+      "zh": "“诸比丘，当圣弟子在这些处断除了疑惑，于苦断除了疑惑……于趣向苦灭之道断除了疑惑——诸比丘，这便称为入流者圣弟子，得不退堕法，决定趣向正觉，以正觉为彼岸。”\n第七经。"
+    },
+    {
+      "idx": 32,
+      "pali": "8. Mahādiṭṭhisuttaṃ",
+      "zh": "8. [[mahādiṭṭhisutta|大见经]]"
+    },
+    {
+      "idx": 33,
+      "pali": "Sāvatthinidānaṃ. ‘‘Kismiṃ nu kho, bhikkhave, sati, kiṃ upādāya, kiṃ abhinivissa evaṃ diṭṭhi uppajjati – ‘sattime kāyā akaṭā, akaṭavidhā, animmitā, animmātā, vañjhā, kūṭaṭṭhā, esikaṭṭhāyiṭṭhitā; te na iñjanti, na vipariṇamanti , na aññamaññaṃ byābādhenti; nālaṃ aññamaññassa sukhāya vā dukkhāya vā sukhadukkhāya vā. Katame satta? Pathavīkāyo, āpokāyo, tejokāyo, vāyokāyo, sukhe, dukkhe, jīve sattame. Ime satta kāyā akaṭā, akaṭavidhā, animmitā, animmātā, vañjhā, kūṭaṭṭhā esikaṭṭhāyiṭṭhitā; te na iñjanti, na vipariṇamanti, na aññamaññaṃ byābādhenti; nālaṃ aññamaññassa sukhāya vā dukkhāya vā sukhadukkhāya vā. Yopi tiṇhena satthena sīsaṃ chindati, na sopi kañci jīvitā voropeti; sattannaṃtveva kāyānamantarena satthaṃ vivaramanupavisati . Cuddasa kho panimāni yonipamukhasatasahassāni saṭṭhi ca satāni cha ca satāni pañca ca kammuno satāni pañca ca kammāni, tīṇi ca kammāni , kamme ca aḍḍhakamme ca dvaṭṭhipaṭipadā, dvaṭṭhantarakappā, chaḷābhijātiyo, aṭṭhapurisabhūmiyo, ekūnapaññāsa ājīvakasate, ekūnapaññāsa paribbājakasate, ekūnapaññāsa nāgavāsasate, vīse indriyasate, tiṃse nirayasate, chattiṃsarajodhātuyo, satta saññīgabbhā, satta asaññīgabbhā, satta nigaṇṭhigabbhā, satta devā , satta mānusā, satta pesācā, satta sarā, satta pavuṭā , satta papātā, satta ca papātasatāni, satta supinā, satta supinasatāni, cullāsīti mahākappino satasahassāni, yāni bāle ca paṇḍite ca sandhāvitvā saṃsaritvā dukkhassantaṃ karissanti. Tattha natthi imināhaṃ sīlena vā vatena vā tapena vā brahmacariyena vā aparipakkaṃ vā kammaṃ paripācessāmi; paripakkaṃ vā kammaṃ phussa phussa byantīkarissāmīti hevaṃ natthi doṇamite sukhadukkhe pariyantakate saṃsāre, natthi hāyanavaḍḍhane, natthi ukkaṃsāvakaṃse. Seyyathāpi nāma suttaguḷe khitte nibbeṭhiyamānameva paleti; evameva bāle ca paṇḍite ca nibbeṭhiyamānā sukhadukkhaṃ palentī’’’ti?",
+      "zh": "[[sāvatthī|舍卫城]]因缘。“诸比丘，由于什么存在，执取什么，执着什么，会生起这样的见呢？——‘有七身，非所作、非所作成、非所造、无创造者、不生、如山顶坚固、如柱安立；它们不移动、不变化、不相障碍；不能给彼此带来乐、苦或苦乐。哪七种呢？地身、水身、火身、风身，乐、苦，命为第七。此七身非所作、非所作成、非所造、无创造者、不生、如山顶坚固、如柱安立；它们不移动、不变化、不相障碍；不能给彼此带来乐、苦或苦乐。纵使以利剑斩首，也无人夺走生命；剑只是穿过七身之间的空隙而已。总共有一百四十万六千六百种主要胎生，又有五百业、五业、三业、一业、半业，六十二行道，六十二中间劫，六生类，八人地，四千九百种活命，四千九百种游方者，四千九百种龙之住处，二千根，三千地狱，三十六尘界，七有想胎，七无想胎，七离系胎，七种天，七种人，七种鬼，七湖，七结，七悬崖，七百悬崖，七梦，七百梦，八百四十万大劫；愚者与智者流转轮回之后，方作苦之终结。于此，绝无“我以此戒、或以此誓、或以此苦行、或以此梵行，令未熟之业成熟，或触证已熟之业而令其消尽”之事；苦与乐已度量，轮回已有定量，无有增减，无有上升下降。犹如线球抛出，舒展开来而转动；同样地，愚者与智者舒展开来，只是转出苦乐。’？”",
+      "n": "213"
+    },
+    {
+      "idx": 34,
+      "pali": "Bhagavaṃmūlakā no, bhante, dhammā…pe… ‘‘rūpe kho, bhikkhave, sati, rūpaṃ upādāya, rūpaṃ abhinivissa evaṃ diṭṭhi uppajjati – ‘sattime kāyā akaṭā, akaṭavidhā…pe… sukhadukkhaṃ palentī’ti. Vedanāya sati…pe… saññāya sati… saṅkhāresu sati… viññāṇe sati, viññāṇaṃ upādāya, viññāṇaṃ abhinivissa evaṃ diṭṭhi uppajjati – ‘sattime kāyā akaṭā, akaṭavidhā…pe… sukhadukkhaṃ palentī’’’ti. ‘‘Taṃ kiṃ maññatha, bhikkhave, rūpaṃ niccaṃ vā aniccaṃ vā’’ti? ‘‘Aniccaṃ, bhante’’…pe… ‘‘yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ, api nu taṃ anupādāya evaṃ diṭṭhi uppajjeyya – ‘sattime kāyā akaṭā akaṭavidhā…pe… sukhadukkhaṃ palentī’’’ti? ‘‘No hetaṃ, bhante’’. ‘‘Yampidaṃ diṭṭhaṃ sutaṃ mutaṃ viññātaṃ pattaṃ pariyesitaṃ anuvicaritaṃ manasā tampi niccaṃ vā aniccaṃ vā’’ti? ‘‘Aniccaṃ, bhante…pe… api nu taṃ anupādāya evaṃ diṭṭhi uppajjeyya – ‘sattime kāyā akaṭā akaṭavidhā…pe… nibbeṭhiyamānā sukhadukkhaṃ palentī’’’ti? ‘‘No hetaṃ, bhante’’.",
+      "zh": "“尊者，我们的法以世尊为根本……”……“诸比丘，有色存在，执取色，执着色，便会生起这样的见——‘有此七身，非所作，非所作成……转动苦乐’。有受存在……有想存在……有行存在……有识存在，执取识，执着识，便会生起这样的见——‘有此七身，非所作，非所作成……转动苦乐’。”“诸比丘，你们意下如何？色是常还是无常？”“无常，尊者。”……“凡是无常、苦、变易之法，若不执取，会生起这样的见吗——‘有此七身，非所作，非所作成……转动苦乐’？”“不会这样，尊者。”“凡是这些所见、所闻、所觉、所识、所得、所寻求、以意所寻察的，是常还是无常？”“无常，尊者。”……“若不执取，会生起这样的见吗——‘有此七身，非所作，非所作成……展开后转动苦乐’？”“不会这样，尊者。”"
+    },
+    {
+      "idx": 35,
+      "pali": "‘‘Yato kho, bhikkhave, ariyasāvakassa imesu ca ṭhānesu kaṅkhā pahīnā hoti, dukkhepissa kaṅkhā pahīnā hoti…pe… dukkhanirodhagāminiyā paṭipadāyapissa kaṅkhā pahīnā hoti – ayaṃ vuccati, bhikkhave, ariyasāvako sotāpanno avinipātadhammo niyato sambodhiparāyano’’ti. Aṭṭhamaṃ.",
+      "zh": "“诸比丘，当圣弟子于这些处已断疑惑，于苦已断疑惑，于苦集已断疑惑，于苦灭已断疑惑，于导至苦灭之道已断疑惑——诸比丘，这样的圣弟子即称为入流者，是不退堕法，决定，以正觉为彼岸。第八经。”"
+    },
+    {
+      "idx": 36,
+      "pali": "9. Sassatadiṭṭhisuttaṃ",
+      "zh": "9. [[sassatadiṭṭhisutta|常见经]]"
+    },
+    {
+      "idx": 37,
+      "pali": "Sāvatthinidānaṃ. ‘‘Kismiṃ nu kho, bhikkhave, sati, kiṃ upādāya, kiṃ abhinivissa evaṃ diṭṭhi uppajjati – ‘sassato loko’’’ti? Bhagavaṃmūlakā no, bhante, dhammā…pe… ‘‘rūpe kho, bhikkhave, sati, rūpaṃ upādāya, rūpaṃ abhinivissa evaṃ diṭṭhi uppajjati – ‘sassato loko’ti. Vedanāya sati…pe… saññāya sati… saṅkhāresu sati… viññāṇe sati, viññāṇaṃ upādāya, viññāṇaṃ abhinivissa evaṃ diṭṭhi uppajjati – ‘sassato loko’’’ti.",
+      "zh": "[[sāvatthī|舍卫城]]因缘。\n“诸比丘，以何物存在，执取何物，执著何物，便会生起这样的见——‘世间是常’？”\n“尊者，我们的法以世尊为根本……”\n……“诸比丘，当色存在时，执取色，执著色，便生起这样的见——‘世间是常’。当受存在时……当想存在时……当行存在时……当识存在时，执取识，执著识，便生起这样的见——‘世间是常’。”",
+      "n": "214"
+    },
+    {
+      "idx": 38,
+      "pali": "‘‘Taṃ kiṃ maññatha, bhikkhave, rūpaṃ niccaṃ vā aniccaṃ vā’’ti? ‘‘Aniccaṃ, bhante’’…pe… vipariṇāmadhammaṃ, api nu taṃ anupādāya evaṃ diṭṭhi uppajjeyya – ‘sassato loko’ti? ‘‘No hetaṃ, bhante’’. ‘‘Vedanā … saññā… saṅkhārā… viññāṇaṃ niccaṃ vā aniccaṃ vā’’ti? ‘‘Aniccaṃ, bhante…pe… api nu taṃ anupādāya evaṃ diṭṭhi uppajjeyya – ‘sassato loko’’’ti? ‘‘No hetaṃ, bhante’’. ‘‘Yampidaṃ diṭṭhaṃ sutaṃ mutaṃ viññātaṃ pattaṃ pariyesitaṃ anuvicaritaṃ manasā tampi niccaṃ vā aniccaṃ vā’’ti? ‘‘Aniccaṃ, bhante’’. ‘‘Yaṃ panāniccaṃ dukkhaṃ vā taṃ sukhaṃ vā’’ti? ‘‘Dukkhaṃ, bhante’’. ‘‘Yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ, api nu taṃ anupādāya evaṃ diṭṭhi uppajjeyya – ‘sassato loko’’’ti? ‘‘No hetaṃ, bhante’’.",
+      "zh": "“诸比丘，你们认为如何？色是常，还是无常？”“无常，尊者。”……“无常、苦、变易之法，若不执取，会生起‘世间是常’这样的见解吗？”“不会，尊者。”“受……想……行……识是常，还是无常？”“无常，尊者。”……“若不执取它，会生起‘世间是常’的见解吗？”“不会，尊者。”“凡此所见、所闻、所觉、所识、所得、所寻求，以及以意寻察的，是常，还是无常？”“无常，尊者。”“凡是无常，是苦，还是乐？”“苦，尊者。”“凡是无常、苦、变易之法，若不执取，会生起‘世间是常’的见解吗？”“不会，尊者。”"
+    },
+    {
+      "idx": 39,
+      "pali": "‘‘Yato kho, bhikkhave, ariyasāvakassa imesu ca ṭhānesu kaṅkhā pahīnā hoti, dukkhepissa kaṅkhā pahīnā hoti…pe… dukkhanirodhagāminiyā paṭipadāyapissa kaṅkhā pahīnā hoti – ayaṃ vuccati, bhikkhave, ariyasāvako sotāpanno avinipātadhammo niyato sambodhiparāyano’’ti. Navamaṃ.",
+      "zh": "“诸比丘，当圣弟子对这六处之疑惑已断，对苦的疑惑已断，对苦集的疑惑已断，对苦灭的疑惑已断，对导至苦灭之道的疑惑已断——诸比丘，这就称为入流的圣弟子，不退堕法，决定，以正觉为彼岸。”第九经。"
+    },
+    {
+      "idx": 40,
+      "pali": "10. Asassatadiṭṭhisuttaṃ",
+      "zh": "10. [[asassatadiṭṭhisutta|非常见经]]"
+    },
+    {
+      "idx": 41,
+      "pali": "Sāvatthinidānaṃ . ‘‘Kismiṃ nu kho, bhikkhave, sati, kiṃ upādāya, kiṃ abhinivissa evaṃ diṭṭhi uppajjati – ‘asassato loko’’’ti? Bhagavaṃmūlakā no, bhante, dhammā…pe… ‘‘rūpe kho, bhikkhave, sati…pe… viññāṇaṃ niccaṃ vā aniccaṃ vā’’ti? ‘‘Aniccaṃ, bhante’’…pe… api nu taṃ anupādāya evaṃ diṭṭhi uppajjeyya – asassato lokoti? ‘‘No hetaṃ, bhante’’. ‘‘Yampidaṃ diṭṭhaṃ sutaṃ mutaṃ viññātaṃ pattaṃ pariyesitaṃ anuvicaritaṃ manasā tampi niccaṃ vā aniccaṃ vā’’ti? ‘‘Aniccaṃ, bhante…pe… api nu taṃ anupādāya evaṃ diṭṭhi uppajjeyya – ‘asassato loko’’’ti? ‘‘No hetaṃ, bhante’’.",
+      "zh": "[[sāvatthī|舍卫城]]因缘。“诸比丘！当有什么存在，执取了什么，坚持了什么，便会生起这样的见解：‘世间是无常的’？”“尊者！我们的法以世尊为根本……”“诸比丘！当有色存在……识是常还是无常？”“无常，尊者。”……“若不执取它，会生起这样的见解：‘世间是无常的’吗？”“不会，尊者。”“那些所见、所闻、所觉、所识、所得、所寻，以及被意所寻察的，这些是常还是无常？”“无常，尊者。”……“若不执取它，会生起这样的见解：‘世间是无常的’吗？”“不会，尊者。”",
+      "n": "215"
+    },
+    {
+      "idx": 42,
+      "pali": "‘‘Yato kho, bhikkhave, ariyasāvakassa imesu ca ṭhānesu kaṅkhā pahīnā hoti, dukkhepissa kaṅkhā pahīnā hoti…pe… dukkhanirodhagāminiyā paṭipadāyapissa kaṅkhā pahīnā hoti – ayaṃ vuccati, bhikkhave, ariyasāvako sotāpanno avinipātadhammo niyato sambodhiparāyano’’ti. Dasamaṃ.",
+      "zh": "“诸比丘！当圣弟子对这些处的疑惑已断时，对苦的疑惑也已断，对苦的集的疑惑也已断，对苦的灭的疑惑也已断，对导至苦灭之道的疑惑也已断。诸比丘！这便称为入流者圣弟子，不退堕法，决定，以正觉为彼岸。”第十。"
+    },
+    {
+      "idx": 43,
+      "pali": "11. Antavāsuttaṃ",
+      "zh": "11. [[antavāsutta|有边经]]"
+    },
+    {
+      "idx": 44,
+      "pali": "Sāvatthinidānaṃ . ‘‘Kismiṃ nu kho, bhikkhave, sati, kiṃ upādāya, kiṃ abhinivissa evaṃ diṭṭhi uppajjati – ‘antavā loko’’’ti? Bhagavaṃmūlakā no, bhante, dhammā…pe… niyato sambodhiparāyano’’ti. Ekādasamaṃ.",
+      "zh": "[[sāvatthī|舍卫城]]因缘。“诸比丘！由于什么存在，执取什么，耽著什么，而生起这样的见：‘世间有边’？”“尊者！我等之法，以世尊为根本……（中略）……决定，以正觉为彼岸。”第十一。",
+      "n": "216"
+    },
+    {
+      "idx": 45,
+      "pali": "12. Anantavāsuttaṃ",
+      "zh": "12. [[anantavāsutta|无边经]]"
+    },
+    {
+      "idx": 46,
+      "pali": "Sāvatthinidānaṃ . ‘‘Kismiṃ nu kho, bhikkhave, sati, kiṃ upādāya, kiṃ abhinivissa evaṃ diṭṭhi uppajjati – ‘anantavā loko’’’ti? Bhagavaṃmūlakā no, bhante, dhammā…pe… niyato sambodhiparāyano’’ti. Dvādasamaṃ.",
+      "zh": "[[sāvatthī|舍卫城]]因缘。“诸比丘！由于什么存在，执取什么，耽著什么，而生起这样的见：‘世间无边’？”“尊者！我等之法，以世尊为根本……（中略）……决定，以正觉为彼岸。”第十二。",
+      "n": "217"
+    },
+    {
+      "idx": 47,
+      "pali": "13. Taṃjīvaṃtaṃsarīraṃsuttaṃ",
+      "zh": "13. [[taṃjīvaṃtaṃsarīraṃsutta|命即身经]]"
+    },
+    {
+      "idx": 48,
+      "pali": "Sāvatthinidānaṃ. ‘‘Kismiṃ nu kho, bhikkhave, sati, kiṃ upādāya, kiṃ abhinivissa evaṃ diṭṭhi uppajjati – ‘taṃ jīvaṃ taṃ sarīra’’’nti? Bhagavaṃmūlakā no, bhante, dhammā…pe… niyato sambodhiparāyano’’ti. Terasamaṃ.",
+      "zh": "[[sāvatthī|舍卫城]]因缘。\n“诸比丘！当有什么存在，执取什么，执著于什么时，会生起这样的见解：‘命即是身’呢？”\n“尊者！我们的法以世尊为根本……（中略）……决定，以正觉为彼岸。”\n第十三。",
+      "n": "218"
+    },
+    {
+      "idx": 49,
+      "pali": "14. Aññaṃjīvaṃaññaṃsarīraṃsuttaṃ",
+      "zh": "14. [[aññaṃjīvaṃaññaṃsarīraṃsutta|命异身异经]]"
+    },
+    {
+      "idx": 50,
+      "pali": "Sāvatthinidānaṃ. ‘‘Kismiṃ nu kho, bhikkhave, sati, kiṃ upādāya, kiṃ abhinivissa evaṃ diṭṭhi uppajjati – ‘aññaṃ jīvaṃ aññaṃ sarīra’’’nti? Bhagavaṃmūlakā no, bhante, dhammā…pe… niyato sambodhiparāyano’’ti. Cuddasamaṃ.",
+      "zh": "[[sāvatthī|舍卫城]]缘。“诸比丘！当有什么时，因执取什么、执著什么，而生起这样的见：‘命是此，身是彼’？”“尊者！我们的法以世尊为根本……（中略）……决定趣向正觉。”第十四。",
+      "n": "219"
+    },
+    {
+      "idx": 51,
+      "pali": "15. Hotitathāgatosuttaṃ",
+      "zh": "15. [[hotitathāgatosutta|如来有经]]"
+    },
+    {
+      "idx": 52,
+      "pali": "Sāvatthinidānaṃ. ‘‘Kismiṃ nu kho bhikkhave, sati, kiṃ upādāya, kiṃ abhinivissa evaṃ diṭṭhi uppajjati – ‘hoti tathāgato paraṃ maraṇā’’’ti? Bhagavaṃmūlakā no, bhante, dhammā…pe… niyato sambodhiparāyano’’ti. Pannarasamaṃ.",
+      "zh": "[[sāvatthī|舍卫城]]缘。“诸比丘！当有什么时，因执取什么、执著什么，而生起这样的见：‘如来死后存在’？”“尊者！我们的法以世尊为根本……（中略）……决定趣向正觉。”第十五。",
+      "n": "220"
+    },
+    {
+      "idx": 53,
+      "pali": "16. Nahotitathāgatosuttaṃ",
+      "zh": "16. [[nahotitathāgatosutta|如来无有经]]"
+    },
+    {
+      "idx": 54,
+      "pali": "Sāvatthinidānaṃ. ‘‘Kismiṃ nu kho, bhikkhave, sati, kiṃ upādāya, kiṃ abhinivissa evaṃ diṭṭhi uppajjati – ‘na hoti tathāgato paraṃ maraṇā’’’ti? Bhagavaṃmūlakā no, bhante, dhammā…pe… niyato sambodhiparāyano’’ti. Soḷasamaṃ.",
+      "zh": "于[[sāvatthī|舍卫城]]。“诸比丘！当有什么存在，因执取什么、固执什么，而生起这样的见解：‘如来死后不存在’？” “尊者！我们的法以世尊为根本……（中略）……决定，以正觉为彼岸。”第十六经。",
+      "n": "221"
+    },
+    {
+      "idx": 55,
+      "pali": "17. Hoticanacahotitathāgatosuttaṃ",
+      "zh": "17. [[hoticanacahotitathāgatosutta|如来亦有亦无有经]]"
+    },
+    {
+      "idx": 56,
+      "pali": "Sāvatthinidānaṃ . ‘‘Kismiṃ nu kho, bhikkhave, sati, kiṃ upādāya , kiṃ abhinivissa evaṃ diṭṭhi uppajjati – ‘hoti ca na ca hoti tathāgato paraṃ maraṇā’’’ti? Bhagavaṃmūlakā no, bhante, dhammā…pe… niyato sambodhiparāyano’’ti. Sattarasamaṃ.",
+      "zh": "[[sāvatthī|舍卫城]]因缘。“诸比丘！由于什么存在，执取什么，固执什么，而生起这样的见解：‘如来死后既存在又不存在’呢？”“尊者！我们的法以世尊为根本……（中略）……决定趣向正觉。”第十七。",
+      "n": "222"
+    },
+    {
+      "idx": 57,
+      "pali": "18. Nevahotinanahotitathāgatosuttaṃ",
+      "zh": "18. [[nevahotinanahotitathāgatosutta|如来既非存在亦非不存在经]]"
+    },
+    {
+      "idx": 58,
+      "pali": "Sāvatthinidānaṃ . ‘‘Kismiṃ nu kho, bhikkhave, sati, kiṃ upādāya, kiṃ abhinivissa evaṃ diṭṭhi uppajjati – ‘neva hoti, na na hoti tathāgato paraṃ maraṇā’’’ti? Bhagavaṃmūlakā no, bhante, dhammā…pe… ‘‘rūpe kho, bhikkhave, sati, rūpaṃ upādāya, rūpaṃ abhinivissa evaṃ diṭṭhi uppajjati – ‘neva hoti, na na hoti tathāgato paraṃ maraṇā’ti…pe….",
+      "zh": "[[sāvatthī|舍卫城]]因缘。“诸比丘！由于什么存在，执取什么，固执什么，而生起这样的见解：‘如来死后既非存在，亦非不存在’呢？”“尊者！我们的法以世尊为根本……（中略）……”“诸比丘！由于有色存在，执取色，固执色，而生起这样的见解：‘如来死后既非存在，亦非不存在’……（中略）……”",
+      "n": "223"
+    },
+    {
+      "idx": 59,
+      "pali": "‘‘Taṃ kiṃ maññatha, bhikkhave, rūpaṃ niccaṃ vā aniccaṃ vā’’ti? ‘‘Aniccaṃ, bhante’’…pe… vipariṇāmadhammaṃ, api nu taṃ anupādāya evaṃ diṭṭhi uppajjeyya – ‘neva hoti, na na hoti tathāgato paraṃ maraṇā’’ti? ‘‘No hetaṃ, bhante’’. ‘‘Yampidaṃ diṭṭhaṃ sutaṃ mutaṃ viññātaṃ pattaṃ pariyesitaṃ anuvicaritaṃ manasā tampi niccaṃ vā aniccaṃ vā’’ti? ‘‘Aniccaṃ, bhante’’. ‘‘Yaṃ panāniccaṃ dukkhaṃ vā taṃ sukhaṃ vā’’ti? ‘‘Dukkhaṃ, bhante’’. ‘‘Yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ, api nu taṃ anupādāya evaṃ diṭṭhi uppajjeyya – ‘neva hoti, na na hoti tathāgato paraṃ maraṇā’’’ti? ‘‘No hetaṃ, bhante’’.",
+      "zh": "“诸比丘！你们认为如何，色是常还是无常？”“无常，尊者。”……（中略）……“变易之法，若不执取它，会生起这样的见：‘如来死后既非存在，亦非不存在’吗？”“不会，尊者。”“凡所见、所闻、所觉、所识、所得、所寻求、为意所寻察的，是常还是无常？”“无常，尊者。”“凡无常者，是苦还是乐？”“苦，尊者。”“凡无常、苦、变易法，若不执取它，会生起这样的见：‘如来死后既非存在，亦非不存在’吗？”“不会，尊者。”"
+    },
+    {
+      "idx": 60,
+      "pali": "‘‘Yato kho, bhikkhave, ariyasāvakassa imesu ca ṭhānesu kaṅkhā pahīnā hoti, dukkhepissa kaṅkhā pahīnā hoti, dukkhasamudayepissa kaṅkhā pahīnā hoti, dukkhanirodhepissa kaṅkhā pahīnā hoti, dukkhanirodhagāminiyā paṭipadāyapissa kaṅkhā pahīnā hoti – ayaṃ vuccati, bhikkhave, ariyasāvako sotāpanno avinipātadhammo niyato sambodhiparāyano’’ti. Aṭṭhārasamaṃ .",
+      "zh": "“诸比丘！当圣弟子于这些处断除了疑惑，于苦断除了疑惑，于苦集断除了疑惑，于苦灭断除了疑惑，于导向苦灭之道断除了疑惑时——诸比丘！他便称为入流圣弟子，得不退堕法，决定趣向正觉。”第十八。"
+    },
+    {
+      "type": "title",
+      "idx": 61,
+      "pali": "Sotāpattivaggo.",
+      "zh": "入流品。"
+    },
+    {
+      "idx": 62,
+      "pali": "Aṭṭhārasaveyyākaraṇaṃ niṭṭhitaṃ.",
+      "zh": "十八记说终",
+      "type": "colophon"
+    },
+    {
+      "idx": 63,
+      "pali": "Tassuddānaṃ –",
+      "zh": "其摄颂："
+    },
+    {
+      "idx": 64,
+      "pali": "Vātaṃ etaṃ mama, so attā no ca me siyā;",
+      "zh": "风（经）、“此是我所”（经）、“彼是我”（经）、“或许我不存在”（经）；",
+      "type": "verse"
+    },
+    {
+      "idx": 65,
+      "pali": "Natthi karoto hetu ca, mahādiṭṭhena aṭṭhamaṃ.",
+      "zh": "无作者、无因，并以大见为第八。",
+      "type": "verse"
+    },
+    {
+      "idx": 66,
+      "pali": "Sassato loko ca, asassato ca antavā ca;",
+      "zh": "世间常、世间无常、世间有边；",
+      "type": "verse"
+    },
+    {
+      "idx": 67,
+      "pali": "Anantavā ca taṃ jīvaṃ taṃ sarīranti;",
+      "zh": "世间无边，以及命即是身；",
+      "type": "verse"
+    },
+    {
+      "idx": 68,
+      "pali": "Aññaṃ jīvaṃ aññaṃ sarīranti ca.",
+      "zh": "命与身是相异的。",
+      "type": "verse"
+    },
+    {
+      "idx": 69,
+      "pali": "Hoti tathāgato paraṃ maraṇāti;",
+      "zh": "如来死后存在。",
+      "type": "verse"
+    },
+    {
+      "idx": 70,
+      "pali": "Na hoti tathāgato paraṃ maraṇāti;",
+      "zh": "如来死后不存在。",
+      "type": "verse"
+    },
+    {
+      "idx": 71,
+      "pali": "Neva hoti na na hoti tathāgato paraṃ maraṇāti.",
+      "zh": "如来死后，既非存在，亦非不存在。",
+      "type": "verse"
+    },
+    {
+      "idx": 72,
+      "pali": "2. Dutiyagamanavaggo",
+      "zh": "2. 游行品"
+    },
+    {
+      "idx": 73,
+      "pali": "1. Vātasuttaṃ",
+      "zh": "1. [[vātasutta|风经]]"
+    },
+    {
+      "idx": 74,
+      "pali": "Sāvatthinidānaṃ . ‘‘Kismiṃ nu kho, bhikkhave, sati, kiṃ upādāya, kiṃ abhinivissa evaṃ diṭṭhi uppajjati – ‘na vātā vāyanti, na najjo sandanti, na gabbhiniyo vijāyanti, na candimasūriyā udenti vā apenti vā, esikaṭṭhāyiṭṭhitā’’’ti? Bhagavaṃmūlakā no, bhante, dhammā…pe… ‘‘rūpe kho, bhikkhave, sati, rūpaṃ upādāya, rūpaṃ abhinivissa evaṃ diṭṭhi uppajjati – ‘na vātā vāyanti…pe… esikaṭṭhāyiṭṭhitā’ti. Vedanāya sati…pe… saññāya sati…pe… saṅkhāresu sati… viññāṇe sati, viññāṇaṃ upādāya, viññāṇaṃ abhinivissa evaṃ diṭṭhi uppajjati – ‘na vātā vāyanti…pe… esikaṭṭhāyiṭṭhitā’’’ti.",
+      "zh": "在[[sāvatthī|舍卫城]]。“诸比丘！当有什么存在时，由于执取什么、于何而起执著，便会生起这样的见：‘风不吹动，河不奔流，孕妇不生产，日月不升起亦不落下，像柱子一样坚固不动’？”“尊者，我们的法以世尊为根本……（中略）……”“诸比丘！当有色时，由于执取色，于色而起执著，便会生起这样的见：‘风不吹动……（中略）……像柱子一样坚固不动’。当有受时……当有想时……当有行时……当有识时，由于执取识，于识而起执著，便会生起这样的见：‘风不吹动……（中略）……像柱子一样坚固不动’。”",
+      "n": "224"
+    },
+    {
+      "idx": 75,
+      "pali": "‘‘Taṃ kiṃ maññatha, bhikkhave, rūpaṃ niccaṃ vā aniccaṃ vā’’ti? ‘‘Aniccaṃ , bhante’’…pe… vipariṇāmadhammaṃ, api nu taṃ anupādāya evaṃ diṭṭhi uppajjeyya – na vātā vāyanti…pe… esikaṭṭhāyiṭṭhitā’’ti? ‘‘No hetaṃ, bhante’’. ‘‘Iti kho, bhikkhave, dukkhe sati, dukkhaṃ upādāya, dukkhaṃ abhinivissa evaṃ diṭṭhi uppajjati – ‘na vātā vāyanti…pe… esikaṭṭhāyiṭṭhitā’’’ti. ‘‘Vedanā… saññā… saṅkhārā… viññāṇaṃ niccaṃ vā aniccaṃ vā’’ti? ‘‘Aniccaṃ, bhante’’…pe… vipariṇāmadhammaṃ, api nu taṃ anupādāya evaṃ diṭṭhi uppajjeyya ‘na vātā vāyanti…pe… esikaṭṭhāyiṭṭhitā’’’ti? ‘‘No hetaṃ, bhante’’. ‘‘Iti kho, bhikkhave, dukkhe sati, dukkhaṃ upādāya, dukkhaṃ abhinivissa evaṃ diṭṭhi uppajjeyya – ‘na vātā vāyanti, na najjo sandanti, na gabbhiniyo vijāyanti, na candimasūriyā udenti vā apenti vā, esikaṭṭhāyiṭṭhitā’’’ti. Paṭhamaṃ.",
+      "zh": "“诸比丘！你们认为色是常还是无常？”“无常，尊者！”……（中略）……“它是变易法，如果不执取它，还会生起这样的见：‘风不吹动……像柱子一样坚固不动’吗？”“不会，尊者！”“如是，诸比丘！当有苦时，由于执取苦，于苦而起执著，便会生起这样的见：‘风不吹动……（中略）……像柱子一样坚固不动’。”……“受……想……行……识是常还是无常？”“无常，尊者！”……（中略）……“它是变易法，如果不执取它，还会生起这样的见吗？”“不会，尊者！”“如是，诸比丘！当有苦时，由于执取苦，于苦而起执著，便会生起这样的见：‘风不吹动，河不奔流，孕妇不生产，日月不升起亦不落下，像柱子一样坚固不动’。”第一"
+    },
+    {
+      "idx": 76,
+      "pali": "(Purimavagge viya aṭṭhārasa veyyākaraṇāni vitthāretabbānīti .) Sattarasamaṃ.",
+      "zh": "（应如前品，广说十八种记说。）第十七。",
+      "n": "225-240"
+    },
+    {
+      "idx": 77,
+      "pali": "18. Nevahotinanahotisuttaṃ",
+      "zh": "18. [[nevahotinanahotisutta|非有非非有经]]"
+    },
+    {
+      "idx": 78,
+      "pali": "Sāvatthinidānaṃ. ‘‘Kismiṃ nu kho, bhikkhave, sati, kiṃ upādāya, kiṃ abhinivissa evaṃ diṭṭhi uppajjati – ‘neva hoti na na hoti tathāgato paraṃ maraṇā’’’ti? Bhagavaṃmūlakā no, bhante, dhammā…pe… ‘‘rūpe kho, bhikkhave, sati, rūpaṃ upādāya, rūpaṃ abhinivissa evaṃ diṭṭhi uppajjati – ‘neva hoti, na na hoti tathāgato paraṃ maraṇā’ti. Vedanāya sati… saññāya sati… saṅkhāresu sati… viññāṇe sati, viññāṇaṃ upādāya, viññāṇaṃ abhinivissa evaṃ diṭṭhi uppajjati – ‘neva hoti, na na hoti tathāgato paraṃ maraṇā’’’ti.",
+      "zh": "于[[sāvatthī|舍卫城]]。“诸比丘！由于什么存在，执取什么，固执于什么，而会生起这样的见：‘如来死后非有非非有’呢？”“尊者！我们的诸法以世尊为根本……（中略）……‘诸比丘！当色存在时，由于执取色，固执于色，便会生起这样的见：“如来死后非有非非有”。当受存在时……当想存在时……当诸行存在时……当识存在时，由于执取识，固执于识，便会生起这样的见：“如来死后非有非非有”。’",
+      "n": "241"
+    },
+    {
+      "idx": 79,
+      "pali": "‘‘Taṃ kiṃ maññatha, bhikkhave, rūpaṃ niccaṃ vā aniccaṃ vā’’ti? ‘‘Aniccaṃ, bhante’’…pe… vipariṇāmadhammaṃ, api nu taṃ anupādāya evaṃ diṭṭhi uppajjeyya – ‘neva hoti, na na hoti tathāgato paraṃ maraṇā’’’ti? ‘‘No hetaṃ, bhante’’. ‘‘Iti kho, bhikkhave, dukkhe sati, dukkhaṃ upādāya, dukkhaṃ abhinivissa evaṃ diṭṭhi uppajjati – ‘neva hoti, na na hoti tathāgato paraṃ maraṇā’’’ti. ‘‘Vedanā… saññā … saṅkhārā… viññāṇaṃ niccaṃ vā aniccaṃ vā’’ti? ‘‘Aniccaṃ, bhante’’…pe… vipariṇāmadhammaṃ, api nu taṃ anupādāya evaṃ diṭṭhi uppajjeyya – ‘neva hoti, na na hoti tathāgato paraṃ maraṇā’’’ti? ‘‘No hetaṃ, bhante’’. ‘‘Iti kho, bhikkhave, dukkhe sati, dukkhaṃ upādāya dukkhaṃ abhinivissa evaṃ diṭṭhi uppajjati – ‘neva hoti, na na hoti tathāgato paraṃ maraṇā’’’ti. Aṭṭhārasamaṃ.",
+      "zh": "“诸比丘！你们认为如何，色是常，还是无常？”“无常，尊者！”……（中略）……“色是无常、变易法，若不执取它，还会生起这样的见：‘如来死后非有非非有’吗？”“不会，尊者！”“确实，诸比丘！当苦存在时，由于执取苦，固执于苦，便会生起这样的见：‘如来死后非有非非有’。”“受……想……诸行……识是常，还是无常？”“无常，尊者！”……（中略）……“识是无常、变易法，若不执取它，还会生起这样的见：‘如来死后非有非非有’吗？”“不会，尊者！”“确实，诸比丘！当苦存在时，由于执取苦，固执于苦，便会生起这样的见：‘如来死后非有非非有’。”第十八。"
+    },
+    {
+      "idx": 80,
+      "pali": "19. Rūpīattāsuttaṃ",
+      "zh": "19. [[rūpīattāsutta|有色我经]]"
+    },
+    {
+      "idx": 81,
+      "pali": "Sāvatthinidānaṃ. ‘‘Kismiṃ nu kho, bhikkhave, sati, kiṃ upādāya , kiṃ abhinivissa evaṃ diṭṭhi uppajjati – ‘rūpī attā hoti, arogo paraṃ maraṇā’’’ti? Bhagavaṃmūlakā no, bhante, dhammā…pe… ‘‘rūpe kho, bhikkhave, sati, rūpaṃ upādāya, rūpaṃ abhinivissa evaṃ diṭṭhi uppajjati – ‘rūpī attā hoti, arogo paraṃ maraṇā’ti. Vedanāya sati…pe… saññāya sati… saṅkhāresu sati… viññāṇe sati, viññāṇaṃ upādāya, viññāṇaṃ abhinivissa evaṃ diṭṭhi uppajjati – ‘rūpī attā hoti, arogo paraṃ maraṇā’’’ti.",
+      "zh": "[[sāvatthī|舍卫城]]因缘。\n“诸比丘！于何存在时，执取何物、坚执何物，而生起如是见：‘我死后有色、无病’？”\n“尊者！我们的法以世尊为根本……”（中略）\n“诸比丘！当有色存在，执取色、坚执色，便生起如是见：‘我死后有色、无病’。当有受存在……（中略）……当有想存在……当有行存在……当有识存在，执取识、坚执识，便生起如是见：‘我死后有色、无病’。”",
+      "n": "242"
+    },
+    {
+      "idx": 82,
+      "pali": "‘‘Taṃ kiṃ maññatha, bhikkhave, rūpaṃ niccaṃ vā aniccaṃ vā’’ti? ‘‘Aniccaṃ, bhante’’…pe… vipariṇāmadhammaṃ, api nu taṃ anupādāya evaṃ diṭṭhi uppajjeyya – ‘rūpī attā hoti, arogo paraṃ maraṇā’’’ti? ‘‘No hetaṃ, bhante’’. ‘‘Iti kho, bhikkhave, dukkhe sati, dukkhaṃ upādāya, dukkhaṃ abhinivissa evaṃ diṭṭhi uppajjati – ‘rūpī attā hoti, arogo paraṃ maraṇā’’’ti? ‘‘Vedanā…pe… ‘‘no hetaṃ, bhante’’. ‘‘Iti kho, bhikkhave, dukkhe sati, dukkhaṃ upādāya, dukkhaṃ abhinivissa evaṃ diṭṭhi uppajjati – ‘rūpī attā hoti, arogo paraṃ maraṇā’’’ti. Ekūnavīsatimaṃ.",
+      "zh": "“诸比丘！于意云何？色是常，还是无常？”\n“无常，世尊！”……（中略）……\n“而凡是无常、变易之法，不执取它，还会生起如是见：‘我死后有色、无病’吗？”\n“不会，世尊！”\n“如是，诸比丘！当苦存在，执取苦、坚执苦，便会生起如是见：‘我死后有色、无病’？”\n“受……（中略）……不会，世尊！如是，诸比丘！当苦存在，执取苦、坚执苦，便会生起如是见：‘我死后有色、无病’。”\n第十九。"
+    },
+    {
+      "idx": 83,
+      "pali": "20. Arūpīattāsuttaṃ",
+      "zh": "20. [[arūpīattāsutta|无色我经]]"
+    },
+    {
+      "idx": 84,
+      "pali": "Sāvatthinidānaṃ. ‘‘Kismiṃ nu kho, bhikkhave, sati, kiṃ upādāya, kiṃ abhinivissa evaṃ diṭṭhi uppajjati – ‘arūpī attā hoti arogo paraṃ maraṇā’’’ti? (Peyyālo) vīsatimaṃ.",
+      "zh": "[[sāvatthī|舍卫城]]因缘。“比丘们！依何而有，取著何者，依止何者，而生起如是见：‘我死后为无色、无病’？”（中略）第二十经。",
+      "n": "243"
+    },
+    {
+      "idx": 85,
+      "pali": "21. Rūpīcaarūpīcaattāsuttaṃ",
+      "zh": "21. [[rūpīcaarūpīcaattāsutta|有色及无色我经]]"
+    },
+    {
+      "idx": 86,
+      "pali": "Sāvatthinidānaṃ. ‘‘Rūpī ca arūpī ca attā hoti arogo paraṃ maraṇā’’ti…pe…. Ekavīsatimaṃ.",
+      "zh": "[[sāvatthī|舍卫城]]因缘。“我死后是有色又无色、无病之我”……（中略）……第二十一经。",
+      "n": "244"
+    },
+    {
+      "idx": 87,
+      "pali": "22. Nevarūpīnārūpīattāsuttaṃ",
+      "zh": "22. [[nevarūpīnārūpīattāsutta|非有色非无色我经]]"
+    },
+    {
+      "idx": 88,
+      "pali": "‘‘Neva rūpī nārūpī attā hoti arogo paraṃ maraṇā’’ti…pe…. Bāvīsatimaṃ.",
+      "zh": "“我非有色非无色，死后无病”……（广说）。”第二十二经。",
+      "n": "245"
+    },
+    {
+      "idx": 89,
+      "pali": "23. Ekantasukhīsuttaṃ",
+      "zh": "23. [[ekantasukhīsutta|一向乐经]]"
+    },
+    {
+      "idx": 90,
+      "pali": "‘‘Ekantasukhī attā hoti arogo paraṃ maraṇā’’ti…pe…. Tevīsatimaṃ.",
+      "zh": "“自我是一向乐的，死后无病”……（广说）。第二十三经。",
+      "n": "246"
+    },
+    {
+      "idx": 91,
+      "pali": "24. Ekantadukkhīsuttaṃ",
+      "zh": "24. [[ekantadukkhīsutta|一向苦经]]"
+    },
+    {
+      "idx": 92,
+      "pali": "‘‘Ekantadukkhī attā hoti arogo paraṃ maraṇā’’ti…pe…. Catuvīsatimaṃ.",
+      "zh": "“自我纯然是苦，死后方得无病痛”……（广说）。第二十四经。",
+      "n": "247"
+    },
+    {
+      "idx": 93,
+      "pali": "25. Sukhadukkhīsuttaṃ",
+      "zh": "25. [[sukhadukkhīsutta|苦乐经]]"
+    },
+    {
+      "idx": 94,
+      "pali": "‘‘Sukhadukkhī attā hoti arogo paraṃ maraṇā’’ti…pe…. Pañcavīsatimaṃ.",
+      "zh": "“自我兼具苦乐，死后则为健康”……（广说）。第二十五经。",
+      "n": "248"
+    },
+    {
+      "idx": 95,
+      "pali": "26. Adukkhamasukhīsuttaṃ",
+      "zh": "26. [[adukkhamasukhīsutta|不苦不乐经]]"
+    },
+    {
+      "idx": 96,
+      "pali": "‘‘Adukkhamasukhī attā hoti arogo paraṃ maraṇā’’ti? Bhagavaṃmūlakā no, bhante, dhammā…pe… ‘‘rūpe kho, bhikkhave, sati, rūpaṃ upādāya, rūpaṃ abhinivissa evaṃ diṭṭhi uppajjati – ‘adukkhamasukhī attā hoti arogo paraṃ maraṇā’ti. Vedanāya sati… saññāya sati… saṅkhāresu sati… viññāṇe sati, viññāṇaṃ upādāya, viññāṇaṃ abhinivissa evaṃ diṭṭhi uppajjati – ‘adukkhamasukhī attā hoti arogo paraṃ maraṇā’’’ti.",
+      "zh": "“‘我死后是不苦不乐的、无病的’吗？”“尊者，我们的法以世尊为根本……（中略）……”“诸比丘，当有色时，由于取着色、执着色，便生起这样的见解：‘我死后是不苦不乐的、无病的’。当有受时……当有想时……当有诸行时……当有识时，由于取着识、执着识，便生起这样的见解：‘我死后是不苦不乐的、无病的’。”",
+      "n": "249"
+    },
+    {
+      "idx": 97,
+      "pali": "‘‘Taṃ kiṃ maññatha, bhikkhave, rūpaṃ niccaṃ vā aniccaṃ vā’’ti? ‘‘Aniccaṃ, bhante’’…pe… vipariṇāmadhammaṃ, api nu taṃ anupādāya evaṃ diṭṭhi uppajjeyya – ‘adukkhamasukhī attā hoti arogo paraṃ maraṇā’’’ti? ‘‘No hetaṃ, bhante’’. ‘‘Iti kho, bhikkhave, dukkhe sati, dukkhaṃ upādāya, dukkhaṃ abhinivissa evaṃ diṭṭhi uppajjati – ‘adukkhamasukhī attā hoti arogo paraṃ maraṇā’’’ti. ‘‘Vedanā… saññā… saṅkhārā… viññāṇaṃ niccaṃ vā aniccaṃ vā’’ti? ‘‘Aniccaṃ, bhante’’…pe… vipariṇāmadhammaṃ, api nu taṃ anupādāya evaṃ diṭṭhi uppajjeyya – ‘adukkhamasukhī attā hoti arogo paraṃ maraṇā’’’ti? ‘‘No hetaṃ, bhante’’. ‘‘Iti kho, bhikkhave , dukkhe sati, dukkhaṃ upādāya, dukkhaṃ abhinivissa evaṃ diṭṭhi uppajjati – ‘adukkhamasukhī attā hoti arogo paraṃ maraṇā’’’ti. Chabbīsatimaṃ.",
+      "zh": "“诸比丘，你们认为如何，色是常的还是无常的？”“无常，尊者。”……（中略）……“变易之法，若不取着它，会生起这样的见解吗：‘我死后是不苦不乐的、无病的’？”“不会，尊者。”“如此，诸比丘，当有苦时，由于取着苦、执着苦，便生起这样的见解：‘我死后是不苦不乐的、无病的’。”“受……想……诸行……识是常的还是无常的？”“无常，尊者。”……（中略）……“变易之法，若不取着它，会生起这样的见解吗：‘我死后是不苦不乐的、无病的’？”“不会，尊者。”“如此，诸比丘，当有苦时，由于取着苦、执着苦，便生起这样的见解：‘我死后是不苦不乐的、无病的’。”第二十六。"
+    },
+    {
+      "idx": 98,
+      "pali": "Dutiyapeyyālo.",
+      "zh": "第二重诵"
+    },
+    {
+      "idx": 99,
+      "pali": "Tassuddānaṃ –",
+      "zh": "其摄颂："
+    },
+    {
+      "idx": 100,
+      "pali": "Vātaṃ etaṃ mama so, attā no ca me siyā;",
+      "zh": "风、此是我所，彼是我体，而彼不应为我所；",
+      "type": "verse"
+    },
+    {
+      "idx": 101,
+      "pali": "Natthi karoto hetu ca, mahādiṭṭhena aṭṭhamaṃ.",
+      "zh": "无作者、无因，以大见为第八。",
+      "type": "verse"
+    },
+    {
+      "idx": 102,
+      "pali": "Sassato asassato ceva, antānantavā ca vuccati;",
+      "zh": "常、无常，有边、无边，悉被宣说。",
+      "type": "verse"
+    },
+    {
+      "idx": 103,
+      "pali": "Taṃ jīvaṃ aññaṃ jīvañca, tathāgatena cattāro.",
+      "zh": "“命与身是同一的”以及“命与身是不同的”，如来所说四种。",
+      "type": "verse"
+    },
+    {
+      "idx": 104,
+      "pali": "Rūpī attā hoti, arūpī ca attā hoti;",
+      "zh": "有色之我存在，无色之我存在；",
+      "type": "verse"
+    },
+    {
+      "idx": 105,
+      "pali": "Rūpī ca arūpī ca attā hoti;",
+      "zh": "我既是有色的，又是无色的。",
+      "type": "verse"
+    },
+    {
+      "idx": 106,
+      "pali": "Neva rūpī nārūpī attā hoti, ekantasukhī attā hoti.",
+      "zh": "我既非有色，也非无色；我是一向乐的。",
+      "type": "verse"
+    },
+    {
+      "idx": 107,
+      "pali": "Ekantadukkhī attā hoti, sukhadukkhī attā hoti;",
+      "zh": "我是一向苦的，我既有乐又有苦。",
+      "type": "verse"
+    },
+    {
+      "idx": 108,
+      "pali": "Adukkhamasukhī attā hoti, arogo paraṃ maraṇāti;",
+      "zh": "无苦无乐之我存在，死后健康无病。",
+      "type": "verse"
+    },
+    {
+      "idx": 109,
+      "pali": "Ime chabbīsati suttā, dutiyavārena desitā.",
+      "zh": "此二十六经，以第二方式宣说。",
+      "type": "verse"
+    },
+    {
+      "idx": 110,
+      "pali": "3. Tatiyagamanavaggo",
+      "zh": "3. 去品"
+    },
+    {
+      "idx": 111,
+      "pali": "1. Navātasuttaṃ",
+      "zh": "1. [[navātasutta|无风经]]"
+    },
+    {
+      "idx": 112,
+      "pali": "Sāvatthinidānaṃ . ‘‘Kismiṃ nu kho, bhikkhave, sati, kiṃ upādāya, kiṃ abhinivissa evaṃ diṭṭhi uppajjati – ‘na vātā vāyanti, na najjo sandanti, na gabbhiniyo vijāyanti, na candimasūriyā udenti vā apenti vā esikaṭṭhāyiṭṭhitā’’’ti? Bhagavaṃmūlakā no, bhante, dhammā…pe….",
+      "zh": "[[sāvatthī|舍卫城]]因缘。“诸比丘，当有什么存在时，执取什么、依着于什么，而生起这样的见：‘风不吹，河不流，孕妇不生产，日月不升起也不落下，如竖立的石柱般屹立’？”“尊者，我们的法以世尊为根本……”",
+      "n": "250"
+    },
+    {
+      "idx": 113,
+      "pali": "‘‘Rūpe kho, bhikkhave, sati, rūpaṃ upādāya, rūpaṃ abhinivissa evaṃ diṭṭhi uppajjati – na vātā vāyanti…pe… vedanāya sati… saññāya sati… saṅkhāresu sati… viññāṇe sati, viññāṇaṃ upādāya, viññāṇaṃ abhinivissa evaṃ diṭṭhi uppajjati – ‘na vātā vāyanti…pe… esikaṭṭhāyiṭṭhitā’’’ti.",
+      "zh": "“诸比丘，当色存在时，因执取色、依着于色，而生起这样的见：‘风不吹……’当受存在时……当想存在时……当诸行存在时……当识存在时，因执取识、依着于识，而生起这样的见：‘风不吹……如竖立的石柱般屹立’。”"
+    },
+    {
+      "idx": 114,
+      "pali": "‘‘Taṃ kiṃ maññatha, bhikkhave, rūpaṃ niccaṃ vā aniccaṃ vā’’ti? ‘‘Aniccaṃ, bhante’’…pe… vipariṇāmadhammaṃ, api nu taṃ anupādāya evaṃ diṭṭhi uppajjeyya – ‘na vātā vāyanti…pe… esikaṭṭhāyiṭṭhitā’’’ti? ‘‘No hetaṃ, bhante’’. ‘‘Iti kho, bhikkhave, yadaniccaṃ taṃ dukkhaṃ. Tasmiṃ sati, tadupādāya, evaṃ diṭṭhi uppajjati – ‘na vātā vāyanti, na najjo sandanti, na gabbhiniyo vijāyanti, na candimasūriyā udenti vā apenti vā esikaṭṭhāyiṭṭhitā’’’ti. ‘‘Vedanā… saññā… saṅkhārā… viññāṇaṃ niccaṃ vā aniccaṃ vā’’ti? ‘‘Aniccaṃ , bhante’’…pe… vipariṇāmadhammaṃ, api nu taṃ anupādāya evaṃ diṭṭhi uppajjeyya – ‘na vātā vāyanti…pe… esikaṭṭhāyiṭṭhitā’’’ti? ‘‘No hetaṃ, bhante’’. ‘‘Iti kho, bhikkhave, yadaniccaṃ taṃ dukkhaṃ. Tasmiṃ sati, tadupādāya evaṃ diṭṭhi uppajjati – ‘na vātā vāyanti…pe… esikaṭṭhāyiṭṭhitā’’’ti. Paṭhamaṃ.",
+      "zh": "“诸比丘，你们对此作何思惟：色是常，还是无常？”“无常，尊者。”“……为变易法。若不执取它，会生起这样的见：‘风不吹，河不流，孕妇不生产，日月不出不没，犹如竖立的石柱般屹立’吗？”“不会，尊者。”“诸比丘，因此，凡是无常的，即是苦。当有此法存在并执取它时，便会生起这样的见：‘风不吹，河不流，孕妇不生产，日月不出不没，犹如竖立的石柱般屹立。’”“受……想……诸行……识是常，还是无常？”“无常，尊者。”“……为变易法。若不执取它，会生起这样的见：‘风不吹……犹如竖立的石柱般屹立’吗？”“不会，尊者。”“诸比丘，因此，凡是无常的，即是苦。当有此法存在并执取它时，便会生起这样的见：‘风不吹，河不流，孕妇不生产，日月不出不没，犹如竖立的石柱般屹立。’”第一经。"
+    },
+    {
+      "idx": 115,
+      "pali": "(Dutiyavagge viya catuvīsati suttāni pūretabbāni.) Pañcavīsatimaṃ.",
+      "zh": "应如第二品那样补足二十四经。第二十五经。",
+      "n": "251-274"
+    },
+    {
+      "idx": 116,
+      "pali": "26. Adukkhamasukhīsuttaṃ",
+      "zh": "26. [[adukkhamasukhīsutta|不苦不乐经]]"
+    },
+    {
+      "idx": 117,
+      "pali": "Sāvatthinidānaṃ . ‘‘Kismiṃ nu kho, bhikkhave, sati, kiṃ upādāya, kiṃ abhinivissa evaṃ diṭṭhi uppajjati – ‘adukkhamasukhī attā hoti arogo paraṃ maraṇā’’’ti? Bhagavaṃmūlakā no, bhante, dhammā…pe….",
+      "zh": "[[sāvatthī|舍卫城]]因缘。\n“诸比丘，当什么存在时，执取什么、耽著什么，而生起这样的见解：‘自我不苦不乐，死后无病’呢？”\n“尊者，我们的法以世尊为根本……”",
+      "n": "275"
+    },
+    {
+      "idx": 118,
+      "pali": "‘‘Rūpe kho, bhikkhave, sati, rūpaṃ upādāya, rūpaṃ abhinivissa evaṃ diṭṭhi uppajjati – ‘adukkhamasukhī attā hoti arogo paraṃ maraṇā’ti. Vedanāya sati …pe… saññāya sati… saṅkhāresu sati… viññāṇe sati, viññāṇaṃ upādāya, viññāṇaṃ abhinivissa evaṃ diṭṭhi uppajjati – ‘adukkhamasukhī attā hoti, arogo paraṃ maraṇā’’’ti.",
+      "zh": "“诸比丘，当色存在时，执取色、耽著色，而生起这样的见解：‘自我不苦不乐，死后无病’。当受存在时……当想存在时……当行存在时……当识存在时，执取识、耽著识，而生起这样的见解：‘自我不苦不乐，死后无病’。”"
+    },
+    {
+      "idx": 119,
+      "pali": "‘‘Taṃ kiṃ maññatha, bhikkhave, rūpaṃ niccaṃ vā aniccaṃ vā’’ti? ‘‘Aniccaṃ, bhante’’…pe… vipariṇāmadhammaṃ, api nu taṃ anupādāya evaṃ diṭṭhi uppajjeyya – ‘adukkhamasukhī attā hoti arogo paraṃ maraṇā’’’ti? ‘‘No hetaṃ, bhante’’. ‘‘Iti kho, bhikkhave, yadaniccaṃ taṃ dukkhaṃ. Tasmiṃ sati, tadupādāya evaṃ diṭṭhi uppajjati – ‘adukkhamasukhī attā hoti arogo paraṃ maraṇā’’’ti. ‘‘Vedanā…pe… saññā… saṅkhārā… viññāṇaṃ niccaṃ vā aniccaṃ vā’’ti? ‘‘Aniccaṃ, bhante’’…pe… vipariṇāmadhammaṃ , api nu taṃ anupādāya evaṃ diṭṭhi uppajjeyya – ‘adukkhamasukhī attā hoti, arogo paraṃ maraṇā’’’ti? ‘‘No hetaṃ, bhante’’. ‘‘Iti kho, bhikkhave, yadaniccaṃ taṃ dukkhaṃ. Tasmiṃ sati, tadupādāya evaṃ diṭṭhi uppajjati – ‘adukkhamasukhī attā hoti arogo paraṃ maraṇā’’’ti. Chabbīsatimaṃ.",
+      "zh": "“诸比丘，你们如何思惟？色是常还是无常？”\n“无常，尊者。”\n……\n“它是变易法，若不执取它，这样的见解会生起吗：‘自我不苦不乐，死后无病’？”\n“不会，尊者。”\n“诸比丘，如此，凡无常者即是苦。当它存在时，执取它，便生起这样的见解：‘自我不苦不乐，死后无病’。”\n“受……想……行……识是常还是无常？”\n“无常，尊者。”\n……\n“它是变易法，若不执取它，这样的见解会生起吗：‘自我不苦不乐，死后无病’？”\n“不会，尊者。”\n“诸比丘，如此，凡无常者即是苦。当它存在时，执取它，便生起这样的见解：‘自我不苦不乐，死后无病’。”\n第二十六经。"
+    },
+    {
+      "idx": 120,
+      "pali": "Tatiyapeyyālo.",
+      "zh": "第三诵"
+    },
+    {
+      "idx": 121,
+      "pali": "4. Catutthagamanavaggo",
+      "zh": "4. 游行品"
+    },
+    {
+      "idx": 122,
+      "pali": "1. Navātasuttaṃ",
+      "zh": "1. [[navātasutta|无风经]]"
+    },
+    {
+      "idx": 123,
+      "pali": "Sāvatthinidānaṃ . ‘‘Kismiṃ nu kho, bhikkhave, sati kiṃ upādāya, kiṃ abhinivissa evaṃ diṭṭhi uppajjati – ‘na vātā vāyanti, na najjo sandanti , na gabbhiniyo vijāyanti, na candimasūriyā udenti vā apenti vā esikaṭṭhāyiṭṭhitā’’’ti? Bhagavaṃmūlakā no, bhante, dhammā…pe….",
+      "zh": "[[sāvatthī|舍卫城]]因缘。“诸比丘，当什么存在时，由于执取什么、固执什么，而生起这样的见：‘风不吹，河不流，孕妇不生产，日月不升不落，如柱般稳固不动’？”“尊者，我们的法以世尊为根本……”",
+      "n": "276"
+    },
+    {
+      "idx": 124,
+      "pali": "‘‘Rūpe kho, bhikkhave, sati, rūpaṃ upādāya, rūpaṃ abhinivissa evaṃ diṭṭhi uppajjati – ‘na vātā vāyanti…pe… esikaṭṭhāyiṭṭhitā’ti. Vedanāya sati…pe… saññāya sati… saṅkhāresu sati… viññāṇe sati, viññāṇaṃ upādāya, viññāṇaṃ abhinivissa evaṃ diṭṭhi uppajjati – ‘na vātā vāyanti…pe… esikaṭṭhāyiṭṭhitā’’’ti. ‘‘Taṃ kiṃ maññatha, bhikkhave, rūpaṃ niccaṃ vā aniccaṃ vā’’ti? ‘‘Aniccaṃ, bhante’’. ‘‘Yaṃ panāniccaṃ, dukkhaṃ vā taṃ sukhaṃ vā’’ti? ‘‘Dukkhaṃ, bhante’’. ‘‘Yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ, kallaṃ nu taṃ samanupassituṃ – ‘etaṃ mama, esohamasmi, eso me attā’’’ti? ‘‘No hetaṃ, bhante’’. ‘‘Vedanā … saññā… saṅkhārā… viññāṇaṃ niccaṃ vā aniccaṃ vā’’ti? ‘‘Aniccaṃ, bhante’’. ‘‘Yaṃ panāniccaṃ, dukkhaṃ vā taṃ sukhaṃ vā’’ti? ‘‘Dukkhaṃ, bhante’’. ‘‘Yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ, kallaṃ nu taṃ samanupassituṃ – ‘etaṃ mama, esohamasmi, eso me attā’’’ti? ‘‘No hetaṃ, bhante’’.",
+      "zh": "“诸比丘，当有色存在时，由于执取色、固执色，便生起这样的见：‘风不吹……如柱般稳固不动。’当有受存在时……当有想存在时……当有诸行存在时……当有识存在时，由于执取识、固执识，便生起这样的见：‘风不吹……如柱般稳固不动。’”“诸比丘，你们认为如何，色是常的，还是无常的？”“无常的，尊者。”“凡无常的，是苦的，还是乐的？”“苦的，尊者。”“凡是无常、苦、变易法，适合将它视为‘这是我的，这是我，这是我的我’吗？”“不适合，尊者。”“受……想……诸行……识是常的，还是无常的？”“无常的，尊者。”“凡无常的，是苦的，还是乐的？”“苦的，尊者。”“凡是无常、苦、变易法，适合将它视为‘这是我的，这是我，这是我的我’吗？”“不适合，尊者。”"
+    },
+    {
+      "idx": 125,
+      "pali": "‘‘Tasmātiha , bhikkhave, yaṃ kiñci rūpaṃ atītānāgatapaccuppannaṃ ajjhattaṃ vā bahiddhā vā, oḷārikaṃ vā sukhumaṃ vā hīnaṃ vā paṇītaṃ vā yaṃ dūre santike vā, sabbaṃ rūpaṃ – ‘netaṃ mama , nesohamasmi, na meso attā’ti evametaṃ yathābhūtaṃ sammappaññāya daṭṭhabbaṃ. Yā kāci vedanā… yā kāci saññā… ye keci saṅkhārā… yaṃ kiñci viññāṇaṃ atītānāgatapaccuppannaṃ ajjhattaṃ vā bahiddhā vā oḷārikaṃ vā sukhumaṃ vā hīnaṃ vā paṇītaṃ vā yaṃ dūre santike vā, sabbaṃ viññāṇaṃ – ‘netaṃ mama, nesohamasmi, na meso attā’ti evametaṃ yathābhūtaṃ sammappaññāya daṭṭhabbaṃ.",
+      "zh": "“因此，诸比丘，凡是任何色——过去、未来、现在，或内、或外，或粗、或细，或劣、或胜，或远、或近——一切色，都应当以正慧如实见为：‘这不是我的，这不是我，这不是我的我。’凡是任何受……凡是任何想……凡是任何行……凡是任何识——过去、未来、现在，或内、或外，或粗、或细，或劣、或胜，或远、或近——一切识，都应当以正慧如实见为：‘这不是我的，这不是我，这不是我的我。’”"
+    },
+    {
+      "idx": 126,
+      "pali": "‘‘Evaṃ passaṃ…pe… nāparaṃ itthattāyāti pajānātī’’ti. Paṭhamaṃ.",
+      "zh": "“如是见者……（中略）……他了知：‘不再有此处的再生。’”第一经。"
+    },
+    {
+      "idx": 127,
+      "pali": "(Dutiyavagge viya catuvīsati suttāni pūretabbāni.) Pañcavīsatimaṃ.",
+      "zh": "如同第二品，应补足二十四部经。第二十五经。",
+      "n": "277-300"
+    },
+    {
+      "idx": 128,
+      "pali": "26. Adukkhamasukhīsuttaṃ",
+      "zh": "26. [[adukkhamasukhīsutta|不苦不乐经]]"
+    },
+    {
+      "idx": 129,
+      "pali": "Sāvatthinidānaṃ. ‘‘Kismiṃ nu kho, bhikkhave, sati, kiṃ upādāya, kiṃ abhinivissa evaṃ diṭṭhi uppajjati – ‘adukkhamasukhī attā hoti, arogo paraṃ maraṇā’’’ti? Bhagavaṃmūlakā no, bhante, dhammā…pe….",
+      "zh": "[[sāvatthī|舍卫城]]因缘。“诸比丘，当有什么时，执取什么，固执什么，会生起这样的见：‘我死后成为不苦不乐的我，无病’？”“尊者，我们的法以世尊为根本……（中略）……”",
+      "n": "301"
+    },
+    {
+      "idx": 130,
+      "pali": "‘‘Rūpe kho, bhikkhave, sati, rūpaṃ upādāya, rūpaṃ abhinivissa evaṃ diṭṭhi uppajjati – ‘adukkhamasukhī attā hoti, arogo paraṃ maraṇā’ti. Vedanāya sati… saññāya sati… saṅkhāresu sati… viññāṇe sati, viññāṇaṃ upādāya, viññāṇaṃ abhinivissa evaṃ diṭṭhi uppajjati – ‘adukkhamasukhī attā hoti, arogo paraṃ maraṇā’’’ti.",
+      "zh": "“诸比丘，当有色时，执取色，固执色，便会生起这样的见：‘我死后成为不苦不乐的我，无病。’当有受时……当有想时……当有诸行时……当有识时，执取识，固执识，便会生起这样的见：‘我死后成为不苦不乐的我，无病。’”"
+    },
+    {
+      "idx": 131,
+      "pali": "‘‘Taṃ kiṃ maññatha, bhikkhave, rūpaṃ niccaṃ vā aniccaṃ vā’’ti? ‘‘Aniccaṃ, bhante’’ . ‘‘Yaṃ panāniccaṃ, dukkhaṃ vā taṃ sukhaṃ vā’’ti? ‘‘Dukkhaṃ, bhante ’’. ‘‘Yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ, kallaṃ nu taṃ samanupassituṃ – ‘etaṃ mama, esohamasmi, eso me attā’’’ti? ‘‘No hetaṃ, bhante’’. ‘‘Vedanā… saññā… saṅkhārā… viññāṇaṃ niccaṃ vā aniccaṃ vā’’ti? ‘‘Aniccaṃ, bhante’’. ‘‘Yaṃ panāniccaṃ dukkhaṃ vā taṃ sukhaṃ vā’’ti? ‘‘Dukkhaṃ, bhante’’. ‘‘Yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ, kallaṃ nu taṃ samanupassituṃ – ‘etaṃ mama, esohamasmi, eso me attā’’’ti? ‘‘No hetaṃ, bhante’’.",
+      "zh": "“诸比丘，你们认为如何：色是常，还是无常？”“无常，尊者。”“那么，凡是无常的，是苦还是乐？”“是苦，尊者。”“那么，凡是无常、苦、变易法者，适合将它视为‘这是我的，这是我，这是我的我’吗？”“不适合，尊者。”“受……想……行……识是常，还是无常？”“无常，尊者。”“那么，凡是无常的，是苦还是乐？”“是苦，尊者。”“那么，凡是无常、苦、变易法者，适合将它视为‘这是我的，这是我，这是我的我’吗？”“不适合，尊者。”"
+    },
+    {
+      "idx": 132,
+      "pali": "‘‘Tasmātiha, bhikkhave, yaṃ kiñci rūpaṃ atītānāgatapaccuppannaṃ ajjhattaṃ vā bahiddhā vā oḷārikaṃ vā sukhumaṃ vā hīnaṃ vā paṇītaṃ vā yaṃ dūre santike vā, sabbaṃ rūpaṃ – ‘netaṃ mama, nesohamasmi, na meso attā’ti evametaṃ yathābhūtaṃ sammappaññāya daṭṭhabbaṃ. Yā kāci vedanā… yā kāci saññā… ye keci saṅkhārā… yaṃ kiñci viññāṇaṃ atītānāgatapaccuppannaṃ ajjhattaṃ vā bahiddhā vā, oḷārikaṃ vā sukhumaṃ vā hīnaṃ vā paṇītaṃ vā yaṃ dūre santike vā, sabbaṃ viññāṇaṃ – ‘netaṃ mama, nesohamasmi, na meso attā’’’ti evametaṃ yathābhūtaṃ sammappaññāya daṭṭhabbaṃ.",
+      "zh": "“因此，诸比丘，凡任何色，无论过去、未来、现在，内在或外在，粗或细，低劣或殊胜，远或近，一切色都应以正慧如实观照：‘这不是我的，我不是这个，这不是我的我。’凡任何受……任何想……任何行……凡任何识，无论过去、未来、现在，内在或外在，粗或细，低劣或殊胜，远或近，一切识都应以正慧如实观照：‘这不是我的，我不是这个，这不是我的我。’”"
+    },
+    {
+      "idx": 133,
+      "pali": "‘‘Evaṃ passaṃ, bhikkhave, sutavā ariyasāvako rūpasmimpi nibbindati, vedanāyapi nibbindati, saññāyapi nibbindati, saṅkhāresupi nibbindati, viññāṇasmimpi nibbindati. Nibbindaṃ virajjati; virāgā vimuccati. Vimuttasmiṃ vimuttamiti ñāṇaṃ hoti. ‘Khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ , nāparaṃ itthattāyā’ti pajānātī’’ti. Chabbīsatimaṃ.",
+      "zh": "“诸比丘，多闻圣弟子这样观察时，于色生厌离，于受生厌离，于想生厌离，于行生厌离，于识生厌离。因厌离而离染，因离染而解脱。解脱时，生起‘已得解脱’的了知。他了知：‘生已尽，梵行已立，应作已作，不受后有。’”第二十六经。"
+    },
+    {
+      "idx": 134,
+      "pali": "Tassuddānaṃ –",
+      "zh": "其摄颂："
+    },
+    {
+      "idx": 135,
+      "pali": "Purimagamane aṭṭhārasa veyyākaraṇā;",
+      "zh": "初至时，十八项分别论；",
+      "type": "verse"
+    },
+    {
+      "idx": 136,
+      "pali": "Dutiyagamane chabbīsaṃ vitthāretabbāni.",
+      "zh": "二至时，二十六项当广分别。",
+      "type": "verse"
+    },
+    {
+      "idx": 137,
+      "pali": "Tatiyagamane chabbīsaṃ vitthāretabbāni;",
+      "zh": "三至时，二十六项当广分别；",
+      "type": "verse"
+    },
+    {
+      "idx": 138,
+      "pali": "Catutthagamane chabbīsaṃ vitthāretabbāni.",
+      "zh": "在第四轮中，二十六种事应当详加解说。",
+      "type": "verse"
+    },
+    {
+      "idx": 139,
+      "pali": "Diṭṭhisaṃyuttaṃ samattaṃ.",
+      "zh": "《见相应》终"
+    }
+  ]
+}

@@ -1,0 +1,471 @@
+{
+ "uid": 13,
+ "title": "三明经",
+ "nik": "DN",
+ "segs": [
+  {
+   "idx": 78,
+   "pali": "13. Tevijjasuttaṃ",
+   "zh": "13. [[tevijjasutta|三明经]]"
+  },
+  {
+   "idx": 1,
+   "pali": "Evaṃ me sutaṃ – ekaṃ samayaṃ bhagavā kosalesu cārikaṃ caramāno mahatā bhikkhusaṅghena saddhiṃ pañcamattehi bhikkhusatehi yena manasākaṭaṃ nāma kosalānaṃ brāhmaṇagāmo tadavasari. Tatra sudaṃ bhagavā manasākaṭe viharati uttarena manasākaṭassa aciravatiyā nadiyā tīre ambavane.",
+   "zh": "如是我闻：一时，世尊与约五百位比丘组成的大比丘僧团一起，在憍萨罗国游行，来到一个名叫马那萨咖嗒的憍萨罗婆罗门村。世尊便住在马那萨咖嗒北方，[[aciravatī|阿致罗筏底]]河岸边的芒果园中。",
+   "n": "518"
+  },
+  {
+   "idx": 2,
+   "pali": "Tena kho pana samayena sambahulā abhiññātā abhiññātā brāhmaṇamahāsālā manasākaṭe paṭivasanti, seyyathidaṃ – caṅkī brāhmaṇo tārukkho brāhmaṇo pokkharasāti brāhmaṇo jāṇusoṇi brāhmaṇo todeyyo brāhmaṇo aññe ca abhiññātā abhiññātā brāhmaṇamahāsālā.",
+   "zh": "那时，有众多极为著名、富甲一方的婆罗门住在马那萨咖嗒，诸如：[[caṅkī|商吉]]婆罗门、达卢咖婆罗门、[[pokkharasāti|沸伽罗娑罗]]婆罗门、迦奴索宁婆罗门、[[todeyya|都提耶]]婆罗门等，以及其他极为著名、富甲一方的婆罗门。",
+   "n": "519"
+  },
+  {
+   "idx": 3,
+   "pali": "Atha kho vāseṭṭhabhāradvājānaṃ māṇavānaṃ jaṅghavihāraṃ anucaṅkamantānaṃ anuvicarantānaṃ maggāmagge kathā udapādi. Atha kho vāseṭṭho māṇavo evamāha – ‘‘ayameva ujumaggo, ayamañjasāyano niyyāniko niyyāti takkarassa brahmasahabyatāya, yvāyaṃ akkhāto brāhmaṇena pokkharasātinā’’ti. Bhāradvājopi māṇavo evamāha – ‘‘ayameva ujumaggo, ayamañjasāyano niyyāniko, niyyāti takkarassa brahmasahabyatāya, yvāyaṃ akkhāto brāhmaṇena tārukkhenā’’ti. Neva kho asakkhi vāseṭṭho māṇavo bhāradvājaṃ māṇavaṃ saññāpetuṃ, na pana asakkhi bhāradvājo māṇavopi vāseṭṭhaṃ māṇavaṃ saññāpetuṃ.",
+   "zh": "那时，青年[[vāseṭṭha|婆悉咤]]与[[bhāradvāja|婆罗堕阇]]正在散步、漫游，二人便谈论起“道与非道”。于是，青年[[vāseṭṭha|婆悉咤]]这样说：“只有这条是直路，这条是正道，是导向之道，能引导行道者达到与梵天共住——这正是由[[pokkharasāti|沸伽罗娑罗]]婆罗门所宣说的。”青年[[bhāradvāja|婆罗堕阇]]也这样说：“只有这条是直路，这条是正道，是导向之道，能引导行道者达到与梵天共住——这正是由达卢咖婆罗门所宣说的。”[[vāseṭṭha|婆悉咤]]无法说服[[bhāradvāja|婆罗堕阇]]，[[bhāradvāja|婆罗堕阇]]也无法说服[[vāseṭṭha|婆悉咤]]。",
+   "n": "520"
+  },
+  {
+   "idx": 4,
+   "pali": "Atha kho vāseṭṭho māṇavo bhāradvājaṃ māṇavaṃ āmantesi – ‘‘ayaṃ kho, bhāradvāja, samaṇo gotamo sakyaputto sakyakulā pabbajito manasākaṭe viharati uttarena manasākaṭassa aciravatiyā nadiyā tīre ambavane. Taṃ kho pana bhavantaṃ gotamaṃ evaṃ kalyāṇo kittisaddo abbhuggato – ‘‘itipi so bhagavā arahaṃ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṃ buddho bhagavā’’ti . Āyāma, bho bhāradvāja, yena samaṇo gotamo tenupasaṅkamissāma; upasaṅkamitvā etamatthaṃ samaṇaṃ gotamaṃ pucchissāma. Yathā no samaṇo gotamo byākarissati, tathā naṃ dhāressāmā’’ti. ‘‘Evaṃ, bho’’ti kho bhāradvājo māṇavo vāseṭṭhassa māṇavassa paccassosi.",
+   "zh": "这时，青年[[vāseṭṭha|婆悉咤]]对青年[[bhāradvāja|婆罗堕阇]]说：“[[bhāradvāja|婆罗堕阇]]，那位[[gotama|沙门乔达摩]]——释迦族的儿子，从释迦族出家——正住在马那萨咖嗒北方、[[aciravatī|阿致罗筏底]]河岸边的芒果园中。关于尊者乔达摩，这样美好的称誉已经传扬开来：“彼世尊是阿拉汉、正自觉者、明行足、善逝、世间解、无上士调御丈夫、天人师、佛陀、世尊。”来吧，朋友[[bhāradvāja|婆罗堕阇]]，我们一同去见[[gotama|沙门乔达摩]]。见过之后，便将此事向[[gotama|沙门乔达摩]]请教。[[gotama|沙门乔达摩]]如何回答，我们便如何信受。”“好的，朋友。”青年[[bhāradvāja|婆罗堕阇]]答道。",
+   "n": "521"
+  },
+  {
+   "idx": 79,
+   "pali": "Maggāmaggakathā",
+   "zh": "道非道论"
+  },
+  {
+   "idx": 6,
+   "pali": "Atha kho vāseṭṭhabhāradvājā māṇavā yena bhagavā tenupasaṅkamiṃsu; upasaṅkamitvā bhagavatā saddhiṃ sammodiṃsu. Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdiṃsu. Ekamantaṃ nisinno kho vāseṭṭho māṇavo bhagavantaṃ etadavoca – ‘‘idha, bho gotama, amhākaṃ jaṅghavihāraṃ anucaṅkamantānaṃ anuvicarantānaṃ maggāmagge kathā udapādi. Ahaṃ evaṃ vadāmi – ‘ayameva ujumaggo, ayamañjasāyano niyyāniko niyyāti takkarassa brahmasahabyatāya, yvāyaṃ akkhāto brāhmaṇena pokkharasātinā’ti. Bhāradvājo māṇavo evamāha – ‘ayameva ujumaggo ayamañjasāyano niyyāniko niyyāti takkarassa brahmasahabyatāya, yvāyaṃ akkhāto brāhmaṇena tārukkhenā’ti. Ettha, bho gotama, attheva viggaho, atthi vivādo, atthi nānāvādo’’ti.",
+   "zh": "于是，两位青年[[vāseṭṭha|婆悉咤]]与[[bhāradvāja|婆罗堕阇]]便前往世尊处。到了之后，与世尊互致问候。彼此叙过欢喜的、可忆念的寒暄语，便退坐一面。退坐一面的青年[[vāseṭṭha|婆悉咤]]对世尊这样说：“[[gotama|乔达摩尊]]者，当我们散步漫游时，我们之间生起了一场关于道与非道的讨论。我这样说：‘只有这条是笔直的道路，这是正道，是导向之道，能引导行道者与梵天共住，这条道正是由[[pokkharasāti|沸伽罗娑罗]]婆罗门所宣说的。’青年[[bhāradvāja|婆罗堕阇]]这样说：‘只有这条是笔直的道路，这是正道，是导向之道，能引导行道者与梵天共住，这条道正是由达卢咖婆罗门所宣说的。’[[gotama|乔达摩尊]]者，在这个问题上，我们有分歧，有争论，有不同的见解。",
+   "n": "522"
+  },
+  {
+   "idx": 7,
+   "pali": "‘‘Iti kira , vāseṭṭha, tvaṃ evaṃ vadesi – ‘‘ayameva ujumaggo, ayamañjasāyano niyyāniko niyyāti takkarassa brahmasahabyatāya, yvāyaṃ akkhāto brāhmaṇena pokkharasātinā’’ti. Bhāradvājo māṇavo evamāha – ‘‘ayameva ujumaggo ayamañjasāyano niyyāniko niyyāti takkarassa brahmasahabyatāya, yvāyaṃ akkhāto brāhmaṇena tārukkhenā’’ti. Atha kismiṃ pana vo, vāseṭṭha, viggaho, kismiṃ vivādo, kismiṃ nānāvādo’’ti?",
+   "zh": "“[[vāseṭṭha|婆悉咤]]，你这样说：“只有此是直道，此是正道，是能引导行道者达于梵天共住的出离之道，此道正是[[pokkharasāti|沸伽罗娑罗]]婆罗门所宣说的。”而青年[[bhāradvāja|婆罗堕阇]]则这样说：“只有此是直道，此是正道，是能引导行道者达于梵天共住的出离之道，此道正是达卢咖婆罗门所宣说的。”那么，[[vāseṭṭha|婆悉咤]]，你们究竟在争论什么？分歧何在？见解又有何不同？”",
+   "n": "523"
+  },
+  {
+   "idx": 8,
+   "pali": "‘‘Maggāmagge, bho gotama. Kiñcāpi, bho gotama, brāhmaṇā nānāmagge paññapenti, addhariyā brāhmaṇā tittiriyā brāhmaṇā chandokā brāhmaṇā bavhārijjhā brāhmaṇā, atha kho sabbāni tāni niyyānikā niyyanti takkarassa brahmasahabyatāya.",
+   "zh": "“我们所讨论的，正是道与非道的问题，[[gotama|乔达摩尊]]者。[[gotama|乔达摩尊]]者，虽然婆罗门们确实宣说了种种不同的道路——诸如[[addhariya|阿达利耶]]婆罗门、提提利耶婆罗门、禅多卡婆罗门、巴婆利迦婆罗门——然而，所有这些道路皆能导向其行者达于梵天共住。”",
+   "n": "524"
+  },
+  {
+   "idx": 9,
+   "pali": "‘‘Seyyathāpi , bho gotama, gāmassa vā nigamassa vā avidūre bahūni cepi nānāmaggāni bhavanti, atha kho sabbāni tāni gāmasamosaraṇāni bhavanti; evameva kho, bho gotama, kiñcāpi brāhmaṇā nānāmagge paññapenti, addhariyā brāhmaṇā tittiriyā brāhmaṇā chandokā brāhmaṇā bavhārijjhā brāhmaṇā, atha kho sabbāni tāni niyyānikā niyyanti takkarassa brahmasahabyatāyā’’ti.",
+   "zh": "“[[gotama|乔达摩尊]]者，譬如一村一镇附近，虽有许多条不同的路，但这些路最终都通往那个村落或集镇。同样地，[[gotama|乔达摩尊]]者，尽管婆罗门们宣说种种不同的道路——[[addhariya|阿达利耶]]婆罗门、提提利耶婆罗门、禅多卡婆罗门、巴婆利迦婆罗门——然而，所有这些道路皆能引导其行者达于梵天共住。”"
+  },
+  {
+   "idx": 80,
+   "pali": "Vāseṭṭhamāṇavānuyogo",
+   "zh": "[[vāseṭṭha|婆悉咤]]学童之问"
+  },
+  {
+   "idx": 11,
+   "pali": "‘‘Niyyantīti vāseṭṭha vadesi’’? ‘‘Niyyantīti, bho gotama, vadāmi’’. ‘‘Niyyantīti, vāseṭṭha, vadesi’’? ‘‘Niyyantīti, bho gotama, vadāmi’’. ‘‘Niyyantīti, vāseṭṭha, vadesi’’? ‘‘Niyyantī’’ti, bho gotama, vadāmi’’.",
+   "zh": "“[[vāseṭṭha|婆悉咤]]，你是说‘能导向’吗？”“[[gotama|乔达摩尊]]者，我是说‘能导向’。”“[[vāseṭṭha|婆悉咤]]，你是说‘能导向’吗？”“[[gotama|乔达摩尊]]者，我是说‘能导向’。”“[[vāseṭṭha|婆悉咤]]，你是说‘能导向’吗？”“[[gotama|乔达摩尊]]者，我是说‘能导向’。”",
+   "n": "525"
+  },
+  {
+   "idx": 12,
+   "pali": "‘‘Kiṃ pana, vāseṭṭha, atthi koci tevijjānaṃ brāhmaṇānaṃ ekabrāhmaṇopi, yena brahmā sakkhidiṭṭho’’ti? ‘‘No hidaṃ, bho gotama’’ .",
+   "zh": "“[[vāseṭṭha|婆悉咤]]，在那些精通三明的婆罗门当中，可曾有哪怕一位婆罗门，亲眼见过梵天神吗？”“没有，[[gotama|乔达摩]]尊者。”"
+  },
+  {
+   "idx": 13,
+   "pali": "‘‘Kiṃ pana, vāseṭṭha, atthi koci tevijjānaṃ brāhmaṇānaṃ ekācariyopi, yena brahmā sakkhidiṭṭho’’ti? ‘‘No hidaṃ, bho gotama’’.",
+   "zh": "“那么，[[vāseṭṭha|婆悉咤]]，在那些精通三明的婆罗门中，可曾有哪怕一位老师，亲眼见过梵天神吗？”“没有，[[gotama|乔达摩]]尊者。”"
+  },
+  {
+   "idx": 14,
+   "pali": "‘‘Kiṃ pana, vāseṭṭha, atthi koci tevijjānaṃ brāhmaṇānaṃ ekācariyapācariyopi, yena brahmā sakkhidiṭṭho’’ti? ‘‘No hidaṃ, bho gotama’’.",
+   "zh": "“那么，[[vāseṭṭha|婆悉咤]]，在那些精通三明的婆罗门中，可曾有哪怕一位老师的老师，亲眼见过梵天神吗？”“没有，[[gotama|乔达摩]]尊者。”"
+  },
+  {
+   "idx": 15,
+   "pali": "‘‘Kiṃ pana, vāseṭṭha, atthi koci tevijjānaṃ brāhmaṇānaṃ yāva sattamā ācariyāmahayugā yena brahmā sakkhidiṭṭho’’ti? ‘‘No hidaṃ, bho gotama’’.",
+   "zh": "“那么，[[vāseṭṭha|婆悉咤]]，在三明婆罗门中，上溯七代师承，有谁亲眼见过梵天神吗？”“[[gotama|乔达摩]]尊者，一位也没有。”"
+  },
+  {
+   "idx": 16,
+   "pali": "‘‘Kiṃ pana, vāseṭṭha, yepi tevijjānaṃ brāhmaṇānaṃ pubbakā isayo mantānaṃ kattāro mantānaṃ pavattāro, yesamidaṃ etarahi tevijjā brāhmaṇā porāṇaṃ mantapadaṃ gītaṃ pavuttaṃ samihitaṃ , tadanugāyanti, tadanubhāsanti, bhāsitamanubhāsanti, vācitamanuvācenti, seyyathidaṃ – aṭṭhako vāmako vāmadevo vessāmitto yamataggi aṅgīraso bhāradvājo vāseṭṭho kassapo bhagu. Tepi evamāhaṃsu – ‘mayametaṃ jānāma, mayametaṃ passāma, yattha vā brahmā, yena vā brahmā, yahiṃ vā brahmā’’’ti? ‘‘No hidaṃ, bho gotama’’.",
+   "zh": "“[[vāseṭṭha|婆悉咤]]，那些古昔的仙人，是三明婆罗门的先祖，他们是这些真言的创作者与传播者。那些古老的真言篇章，在往昔被咏唱、被弘传、被汇编；而今日的三明婆罗门，依随它而吟诵，依随它而讲说，依照所讲说的而讲说，依照所读诵的而读诵。他们即是：阿咤迦、[[vāmaka|瓦马咖]]、[[vāmadeva|瓦马迭瓦]]、毗沙密多、夜摩达吉、阿吉拉萨、[[bhāradvāja|婆罗堕阇]]、[[vāseṭṭha|婆悉咤]]、迦叶、婆咕。那么，这些仙人可曾这样说过：‘我们知见，我们亲眼目睹：梵天神在何处，梵天神从何处来，梵天神往何处去’吗？” “尊者[[gotama|乔达摩]]，他们未曾这样说。”",
+   "n": "526"
+  },
+  {
+   "idx": 17,
+   "pali": "‘‘Iti kira, vāseṭṭha, natthi koci tevijjānaṃ brāhmaṇānaṃ ekabrāhmaṇopi, yena brahmā sakkhidiṭṭho. Natthi koci tevijjānaṃ brāhmaṇānaṃ ekācariyopi, yena brahmā sakkhidiṭṭho . Natthi koci tevijjānaṃ brāhmaṇānaṃ ekācariyapācariyopi, yena brahmā sakkhidiṭṭho. Natthi koci tevijjānaṃ brāhmaṇānaṃ yāva sattamā ācariyāmahayugā yena brahmā sakkhidiṭṭho. Yepi kira tevijjānaṃ brāhmaṇānaṃ pubbakā isayo mantānaṃ kattāro mantānaṃ pavattāro, yesamidaṃ etarahi tevijjā brāhmaṇā porāṇaṃ mantapadaṃ gītaṃ pavuttaṃ samihitaṃ, tadanugāyanti, tadanubhāsanti, bhāsitamanubhāsanti, vācitamanuvācenti, seyyathidaṃ – aṭṭhako vāmako vāmadevo vessāmitto yamataggi aṅgīraso bhāradvājo vāseṭṭho kassapo bhagu, tepi na evamāhaṃsu – ‘mayametaṃ jānāma, mayametaṃ passāma, yattha vā brahmā, yena vā brahmā, yahiṃ vā brahmā’ti. Teva tevijjā brāhmaṇā evamāhaṃsu – ‘yaṃ na jānāma, yaṃ na passāma, tassa sahabyatāya maggaṃ desema. Ayameva ujumaggo ayamañjasāyano niyyāniko, niyyāti takkarassa brahmasahabyatāyā’’’ti.",
+   "zh": "“[[vāseṭṭha|婆悉咤]]，如此看来，在三明婆罗门中，未曾有任何一位婆罗门亲见过梵天神；在三明婆罗门中，未曾有任何一位老师亲见过梵天神；在三明婆罗门中，未曾有任何一位祖师亲见过梵天神；在三明婆罗门中，乃至上溯七代老师的传承中，也未有一人亲见过梵天神。而三明婆罗门中更为久远的古仙祖师们——正是现今三明婆罗门所追随吟唱的真言之创作者与传播者，即阿咤迦、[[vāmaka|瓦马咖]]、[[vāmadeva|瓦马迭瓦]]、毗沙密多、夜摩达吉、阿吉拉萨、[[bhāradvāja|婆罗堕阇]]、[[vāseṭṭha|婆悉咤]]、迦叶、婆咕——他们也未曾这样说过：‘我们知道，我们亲见了：梵天神在何处、从何路而来、往何方而去。’然而，如今这些三明婆罗门却这样说：‘对于我们所不知、所不见的，我们来教导通达与他共住的道路；这是唯一正道，这是笔直大道，这是导向解脱之路，能引导依此而行者达到与梵天共住。’”",
+   "n": "527"
+  },
+  {
+   "idx": 18,
+   "pali": "‘‘Taṃ kiṃ maññasi, vāseṭṭha, nanu evaṃ sante tevijjānaṃ brāhmaṇānaṃ appāṭihīrakataṃ bhāsitaṃ sampajjatī’’ti? ‘‘Addhā kho, bho gotama, evaṃ sante tevijjānaṃ brāhmaṇānaṃ appāṭihīrakataṃ bhāsitaṃ sampajjatī’’ti.",
+   "zh": "“[[vāseṭṭha|婆悉咤]]，你意下如何？既然事实如此，三明婆罗门的言论，岂不就成了毫无实据的虚言了吗？”“[[gotama|乔达摩]]尊者，的确，既然事实如此，三明婆罗门的言论，便成了毫无实据的虚言。”",
+   "n": "528"
+  },
+  {
+   "idx": 19,
+   "pali": "‘‘Sādhu, vāseṭṭha, te vata , vāseṭṭha, tevijjā brāhmaṇā yaṃ na jānanti, yaṃ na passanti, tassa sahabyatāya maggaṃ desessanti. ‘Ayameva ujumaggo, ayamañjasāyano niyyāniko, niyyāti takkarassa brahmasahabyatāyā’ti, netaṃ ṭhānaṃ vijjati.",
+   "zh": "“善哉，[[vāseṭṭha|婆悉咤]]。那些三明婆罗门，对于他们不知、不见的事物，竟教导与之共住的道路，并宣称：‘唯此是直道，此是正道，能令人出离，引导行道者通往与梵天共住。’[[vāseṭṭha|婆悉咤]]，这是绝无可能的。”"
+  },
+  {
+   "idx": 20,
+   "pali": "‘‘Seyyathāpi, vāseṭṭha, andhaveṇi paramparasaṃsattā purimopi na passati, majjhimopi na passati, pacchimopi na passati. Evameva kho, vāseṭṭha, andhaveṇūpamaṃ maññe tevijjānaṃ brāhmaṇānaṃ bhāsitaṃ, purimopi na passati, majjhimopi na passati, pacchimopi na passati. Tesamidaṃ tevijjānaṃ brāhmaṇānaṃ bhāsitaṃ hassakaññeva sampajjati, nāmakaññeva sampajjati, rittakaññeva sampajjati, tucchakaññeva sampajjati.",
+   "zh": "“[[vāseṭṭha|婆悉咤]]，犹如一队盲人，前后相牵：最前者看不见，中间者看不见，最后者也看不见。[[vāseṭṭha|婆悉咤]]，依我看来，三明婆罗门的言论正与此盲人队列无异：前者看不见，中间者看不见，后者也看不见。这些三明婆罗门的言论，最终沦为笑谈，徒有空名，虚诳无实。”",
+   "n": "529"
+  },
+  {
+   "idx": 21,
+   "pali": "‘‘Taṃ kiṃ maññasi, vāseṭṭha, passanti tevijjā brāhmaṇā candimasūriye, aññe cāpi bahujanā, yato ca candimasūriyā uggacchanti, yattha ca ogacchanti, āyācanti thomayanti pañjalikā namassamānā anuparivattantī’’ti?",
+   "zh": "“[[vāseṭṭha|婆悉咤]]，你意如何？这些三明婆罗门，如同其他许多人一样，也能看见日月吗？当太阳和月亮升沉之时，他们是否也祈祷、赞颂，合掌礼敬，并随其运行而绕行？”",
+   "n": "530"
+  },
+  {
+   "idx": 22,
+   "pali": "‘‘Evaṃ, bho gotama, passanti tevijjā brāhmaṇā candimasūriye, aññe cāpi bahujanā, yato ca candimasūriyā uggacchanti, yattha ca ogacchanti, āyācanti thomayanti pañjalikā namassamānā anuparivattantī’’ti.",
+   "zh": "“是的，[[gotama|乔达摩]]尊者。通达三明的婆罗门以及许多其他人，确实能看见日月。当日月升起时、落下时，他们会祈祷、赞颂、合掌礼敬，并绕行。”"
+  },
+  {
+   "idx": 23,
+   "pali": "‘‘Taṃ kiṃ maññasi, vāseṭṭha, yaṃ passanti tevijjā brāhmaṇā candimasūriye, aññe cāpi bahujanā, yato ca candimasūriyā uggacchanti, yattha ca ogacchanti, āyācanti thomayanti pañjalikā namassamānā anuparivattanti, pahonti tevijjā brāhmaṇā candimasūriyānaṃ sahabyatāya maggaṃ desetuṃ – ‘‘ayameva ujumaggo, ayamañjasāyano niyyāniko, niyyāti takkarassa candimasūriyānaṃ sahabyatāyā’’ti? ‘‘No hidaṃ, bho gotama’’.",
+   "zh": "“[[vāseṭṭha|婆悉咤]]，你意如何？通达三明的婆罗门以及许多其他人，确实能看见太阳和月亮，知道它们从何处升起、于何处落下，他们也祈祷、赞颂、合掌礼敬、并绕行，但他们有能力教导通往与日月共住之道，并宣称：‘这便是唯一的直道，这便是明了的路径，能引导修习者达至与日月共住’吗？”“不能，[[gotama|乔达摩]]尊者。”",
+   "n": "531"
+  },
+  {
+   "idx": 24,
+   "pali": "‘‘Iti kira, vāseṭṭha, yaṃ passanti tevijjā brāhmaṇā candimasūriye, aññe cāpi bahujanā, yato ca candimasūriyā uggacchanti, yattha ca ogacchanti, āyācanti thomayanti pañjalikā namassamānā anuparivattanti, tesampi nappahonti candimasūriyānaṃ sahabyatāya maggaṃ desetuṃ – ‘‘ayameva ujumaggo, ayamañjasāyano niyyāniko, niyyāti takkarassa candimasūriyānaṃ sahabyatāyā’’ti.",
+   "zh": "“如是，[[vāseṭṭha|婆悉咤]]，通达三明的婆罗门及其他众人，虽然看得见太阳和月亮，知道日月从何处升起、于何处落下，也向它们祈祷、赞叹、合掌礼敬、绕行，然而他们却无法宣说通往与日月共住之道：‘这便是唯一的直道，这便是明了的路径，能引导修习者达至与日月共住。’”"
+  },
+  {
+   "idx": 25,
+   "pali": "‘‘Iti pana na kira tevijjehi brāhmaṇehi brahmā sakkhidiṭṭho. Napi kira tevijjānaṃ brāhmaṇānaṃ ācariyehi brahmā sakkhidiṭṭho. Napi kira tevijjānaṃ brāhmaṇānaṃ ācariyapācariyehi brahmā sakkhidiṭṭho. Napi kira tevijjānaṃ brāhmaṇānaṃ yāva sattamā ācariyāmahayugehi brahmā sakkhidiṭṭho. Yepi kira tevijjānaṃ brāhmaṇānaṃ pubbakā isayo mantānaṃ kattāro mantānaṃ pavattāro, yesamidaṃ etarahi tevijjā brāhmaṇā porāṇaṃ mantapadaṃ gītaṃ pavuttaṃ samihitaṃ, tadanugāyanti, tadanubhāsanti, bhāsitamanubhāsanti, vācitamanuvācenti, seyyathidaṃ – aṭṭhako vāmako vāmadevo vessāmitto yamataggi aṅgīraso bhāradvājo vāseṭṭho kassapo bhagu, tepi na evamāhaṃsu – ‘‘mayametaṃ jānāma, mayametaṃ passāma, yattha vā brahmā, yena vā brahmā, yahiṃ vā brahmā’’ti. Teva tevijjā brāhmaṇā evamāhaṃsu – ‘‘yaṃ na jānāma, yaṃ na passāma, tassa sahabyatāya maggaṃ desema – ayameva ujumaggo ayamañjasāyano niyyāniko niyyāti takkarassa brahmasahabyatāyā’’ti.",
+   "zh": "“正是如此，三明婆罗门未曾亲见梵天神；三明婆罗门的师长们未曾亲见梵天神；三明婆罗门的师长之师长们未曾亲见梵天神；三明婆罗门上至第七代师承的大宗系，也都未曾亲见梵天神。那些往昔三明婆罗门的仙人——真言的创作者、真言的宣说者，也就是现今这些三明婆罗门所追随吟诵其古老真言辞句、所宣说、所汇集的，诸如阿他咖、[[vāmaka|瓦马咖]]、[[vāmadeva|瓦马迭瓦]]、毗沙密多、夜摩达吉、昂基拉萨、帕拉德瓦迦、[[vāseṭṭha|婆悉咤]]、迦叶、帕古——他们也未曾这样说过：‘我们知此、见此——梵天神在何处、梵天神从何来、梵天神在何方。’而如今这些三明婆罗门却这样说：‘我们未亲知的，我们未亲见的，我们却教导与之共住的道路——唯此是直道、是正道，能够出离，能令行道者通往与梵天共住。’”",
+   "n": "532"
+  },
+  {
+   "idx": 26,
+   "pali": "‘‘Taṃ kiṃ maññasi, vāseṭṭha, nanu evaṃ sante tevijjānaṃ brāhmaṇānaṃ appāṭihīrakataṃ bhāsitaṃ sampajjatī’’ti? ‘‘Addhā kho, bho gotama , evaṃ sante tevijjānaṃ brāhmaṇānaṃ appāṭihīrakataṃ bhāsitaṃ sampajjatī’’ti.",
+   "zh": "“[[vāseṭṭha|婆悉咤]]，你意下如何？既然如此，三明婆罗门所说的话，岂不是毫无实据？”“的确如此，[[gotama|乔达摩]]尊者。这样看来，三明婆罗门所说的话，确实是毫无实据。”",
+   "n": "533"
+  },
+  {
+   "idx": 27,
+   "pali": "‘‘Sādhu, vāseṭṭha, te vata, vāseṭṭha, tevijjā brāhmaṇā yaṃ na jānanti, yaṃ na passanti, tassa sahabyatāya maggaṃ desessanti – ‘‘ayameva ujumaggo, ayamañjasāyano niyyāniko, niyyāti takkarassa brahmasahabyatāyā’’ti, netaṃ ṭhānaṃ vijjati.",
+   "zh": "“善哉，[[vāseṭṭha|婆悉咤]]。那些三明婆罗门，对于他们不知、不见的事物，竟教导与之共住的道路，并宣称：‘唯此是直道，此是正道，能令人出离，引导行道者通往与梵天共住。’[[vāseṭṭha|婆悉咤]]，这是绝无可能的。”"
+  },
+  {
+   "idx": 81,
+   "pali": "Janapadakalyāṇīupamā",
+   "zh": "国中美女譬喻"
+  },
+  {
+   "idx": 29,
+   "pali": "‘‘Seyyathāpi, vāseṭṭha, puriso evaṃ vadeyya – ‘‘ahaṃ yā imasmiṃ janapade janapadakalyāṇī, taṃ icchāmi, taṃ kāmemī’’ti. Tamenaṃ evaṃ vadeyyuṃ – ‘‘ambho purisa, yaṃ tvaṃ janapadakalyāṇiṃ icchasi kāmesi, jānāsi taṃ janapadakalyāṇiṃ – khattiyī vā brāhmaṇī vā vessī vā suddī vā’’ti? Iti puṭṭho ‘‘no’’ti vadeyya.",
+   "zh": "“[[vāseṭṭha|婆悉咤]]，就像有人这样说：‘我想要这个国家中最美丽的那位女子，我爱慕她。’旁人便问他：‘喂，朋友，你爱慕的那位国中第一美女，你知道她是刹帝利女、婆罗门女、吠舍女，还是首陀罗女吗？’被这样问时，他回答说：‘不知道。’”",
+   "n": "534"
+  },
+  {
+   "idx": 30,
+   "pali": "‘‘Tamenaṃ evaṃ vadeyyuṃ – ‘‘ambho purisa, yaṃ tvaṃ janapadakalyāṇiṃ icchasi kāmesi, jānāsi taṃ janapadakalyāṇiṃ – evaṃnāmā evaṃgottāti vā, dīghā vā rassā vā majjhimā vā kāḷī vā sāmā vā maṅguracchavī vāti, amukasmiṃ gāme vā nigame vā nagare vā’’ti? Iti puṭṭho ‘no’ti vadeyya. Tamenaṃ evaṃ vadeyyuṃ – ‘‘ambho purisa, yaṃ tvaṃ na jānāsi na passasi, taṃ tvaṃ icchasi kāmesī’’ti? Iti puṭṭho ‘‘āmā’’ti vadeyya.",
+   "zh": "“他们又问他：‘喂，朋友，你爱慕的那位国中第一美女，你知道她姓甚名谁吗？是高、是矮，还是中等身材？肤色是黑、是褐，还是金褐色？她住在哪个村、哪个镇、哪座城？’被这样问时，他还是回答：‘不知道。’他们再问：‘喂，朋友，这么说，你既不认识她，也不曾见过她，却说你爱慕她、渴望她？’他回答：‘是的。’”"
+  },
+  {
+   "idx": 31,
+   "pali": "‘‘Taṃ kiṃ maññasi, vāseṭṭha, nanu evaṃ sante tassa purisassa appāṭihīrakataṃ bhāsitaṃ sampajjatī’’ti? ‘‘Addhā kho, bho gotama, evaṃ sante tassa purisassa appāṭihīrakataṃ bhāsitaṃ sampajjatī’’ti.",
+   "zh": "“[[vāseṭṭha|婆悉咤]]，你认为如何？果真如此的话，那个人所说的话，岂不就成了毫无凭据的虚言吗？”“[[gotama|乔达摩]]尊者，的确如此。果真如此的话，那个人所说的话，确实是毫无凭据的虚言。”",
+   "n": "535"
+  },
+  {
+   "idx": 32,
+   "pali": "‘‘Evameva kho, vāseṭṭha, na kira tevijjehi brāhmaṇehi brahmā sakkhidiṭṭho, napi kira tevijjānaṃ brāhmaṇānaṃ ācariyehi brahmā sakkhidiṭṭho, napi kira tevijjānaṃ brāhmaṇānaṃ ācariyapācariyehi brahmā sakkhidiṭṭho. Napi kira tevijjānaṃ brāhmaṇānaṃ yāva sattamā ācariyāmahayugehi brahmā sakkhidiṭṭho. Yepi kira tevijjānaṃ brāhmaṇānaṃ pubbakā isayo mantānaṃ kattāro mantānaṃ pavattāro, yesamidaṃ etarahi tevijjā brāhmaṇā porāṇaṃ mantapadaṃ gītaṃ pavuttaṃ samihitaṃ, tadanugāyanti, tadanubhāsanti, bhāsitamanubhāsanti, vācitamanuvācenti , seyyathidaṃ – aṭṭhako vāmako vāmadevo vessāmitto yamataggi aṅgīraso bhāradvājo vāseṭṭho kassapo bhagu, tepi na evamāhaṃsu – ‘‘mayametaṃ jānāma, mayametaṃ passāma, yattha vā brahmā, yena vā brahmā, yahiṃ vā brahmā’’ti. Teva tevijjā brāhmaṇā evamāhaṃsu – ‘‘yaṃ na jānāma, yaṃ na passāma, tassa sahabyatāya maggaṃ desema – ayameva ujumaggo ayamañjasāyano niyyāniko niyyāti takkarassa brahmasahabyatāyā’’ti.",
+   "zh": "“[[vāseṭṭha|婆悉咤]]，同样地，那些三明婆罗门确实未曾亲眼见过梵天神，他们的老师们也确实未曾亲眼见过梵天神，他们的祖师们也确实未曾亲眼见过梵天神，乃至向上追溯七代师长，也绝无一人亲眼见过梵天神。而三明婆罗门远古的仙人——那些真言的创作者、真言的传诵者，也就是如今这些三明婆罗门所追随、依照唱诵、依照讲说、重复其语、传诵其古老诗颂的人，即：阿达咖、[[vāmaka|瓦马咖]]、[[vāmadeva|瓦马迭瓦]]、毗沙密多、夜摩达吉、阿吉拉萨、[[bhāradvāja|婆罗堕阇]]、[[vāseṭṭha|婆悉咤]]、迦叶、婆咕——连他们也不曾这样说过：‘我们了知，我们亲见，梵天神在何处、从何而来、往何而去。’然而，这些三明婆罗门却这样说：‘为我们既不知晓、也未曾亲见的事物，我们宣说一条与之共住的道路——这就是唯一的直路，这就是直达的坦途，是导向解脱的，能令修行者通往与梵天共住。’”",
+   "n": "536"
+  },
+  {
+   "idx": 33,
+   "pali": "‘‘Taṃ kiṃ maññasi, vāseṭṭha, nanu evaṃ sante tevijjānaṃ brāhmaṇānaṃ appāṭihīrakataṃ bhāsitaṃ sampajjatī’’ti? ‘‘Addhā kho, bho gotama, evaṃ sante tevijjānaṃ brāhmaṇānaṃ appāṭihīrakataṃ bhāsitaṃ sampajjatī’’ti.",
+   "zh": "“[[vāseṭṭha|婆悉咤]]，你认为如何？果真如此的话，那些三明婆罗门所说的话，岂不就成了毫无凭据的虚言吗？”“[[gotama|乔达摩]]尊者，的确如此。果真如此的话，那些三明婆罗门所说的话，确实是毫无凭据的虚言。”",
+   "n": "537"
+  },
+  {
+   "idx": 34,
+   "pali": "‘‘Sādhu, vāseṭṭha, te vata, vāseṭṭha, tevijjā brāhmaṇā yaṃ na jānanti, yaṃ na passanti, tassa sahabyatāya maggaṃ desessanti – ayameva ujumaggo ayamañjasāyano niyyāniko niyyāti takkarassa brahmasahabyatāyāti netaṃ ṭhānaṃ vijjati.",
+   "zh": "“善哉，[[vāseṭṭha|婆悉咤]]。那些三明婆罗门，对于他们不知、不见的事物，竟教导与之共住的道路，并宣称：‘唯此是直道，此是正道，能令人出离，引导行道者通往与梵天共住。’[[vāseṭṭha|婆悉咤]]，这是绝无可能的。”"
+  },
+  {
+   "idx": 82,
+   "pali": "Nisseṇīupamā",
+   "zh": "阶梯的譬喻"
+  },
+  {
+   "idx": 36,
+   "pali": "‘‘Seyyathāpi , vāseṭṭha, puriso cātumahāpathe nisseṇiṃ kareyya – pāsādassa ārohaṇāya. Tamenaṃ evaṃ vadeyyuṃ – ‘‘ambho purisa, yassa tvaṃ pāsādassa ārohaṇāya nisseṇiṃ karosi, jānāsi taṃ pāsādaṃ – puratthimāya vā disāya dakkhiṇāya vā disāya pacchimāya vā disāya uttarāya vā disāya ucco vā nīco vā majjhimo vā’’ti? Iti puṭṭho ‘‘no’’ti vadeyya.",
+   "zh": "“[[vāseṭṭha|婆悉咤]]，譬如有人，为了登上一座楼阁，在十字街头造一架梯子。旁人这样问他：‘朋友，你要造梯子攀爬的那座楼阁，你可知道它在东方，还是在南、西、北方？是高耸的，还是低矮的，抑或是中等的？’他这样被问，却回答说：‘不知道。’”",
+   "n": "538"
+  },
+  {
+   "idx": 37,
+   "pali": "‘‘Tamenaṃ evaṃ vadeyyuṃ – ‘‘ambho purisa, yaṃ tvaṃ na jānāsi, na passasi, tassa tvaṃ pāsādassa ārohaṇāya nisseṇiṃ karosī’’ti? Iti puṭṭho ‘‘āmā’’ti vadeyya.",
+   "zh": "“人们便这样问他：‘朋友，你为你所不知、所不见的楼阁建造登上去的梯子吗？’被这样一问，他答道：‘是的。’”"
+  },
+  {
+   "idx": 38,
+   "pali": "‘‘Taṃ kiṃ maññasi, vāseṭṭha, nanu evaṃ sante tassa purisassa appāṭihīrakataṃ bhāsitaṃ sampajjatī’’ti? ‘‘Addhā kho, bho gotama, evaṃ sante tassa purisassa appāṭihīrakataṃ bhāsitaṃ sampajjatī’’ti.",
+   "zh": "“[[vāseṭṭha|婆悉咤]]，你认为如何？若果如此，那人所说的话岂非毫无根据？”“[[gotama|乔达摩]]尊者，确是如此，若果如此，那人所说便是毫无根据。”",
+   "n": "539"
+  },
+  {
+   "idx": 39,
+   "pali": "‘‘Evameva kho, vāseṭṭha, na kira tevijjehi brāhmaṇehi brahmā sakkhidiṭṭho, napi kira tevijjānaṃ brāhmaṇānaṃ ācariyehi brahmā sakkhidiṭṭho, napi kira tevijjānaṃ brāhmaṇānaṃ ācariyapācariyehi brahmā sakkhidiṭṭho, napi kira tevijjānaṃ brāhmaṇānaṃ yāva sattamā ācariyāmahayugehi brahmā sakkhidiṭṭho. Yepi kira tevijjānaṃ brāhmaṇānaṃ pubbakā isayo mantānaṃ kattāro mantānaṃ pavattāro, yesamidaṃ etarahi tevijjā brāhmaṇā porāṇaṃ mantapadaṃ gītaṃ pavuttaṃ samihitaṃ, tadanugāyanti, tadanubhāsanti, bhāsitamanubhāsanti, vācitamanuvācenti, seyyathidaṃ – aṭṭhako vāmako vāmadevo vessāmitto yamataggi aṅgīraso bhāradvājo vāseṭṭho kassapo bhagu, tepi na evamāhaṃsu – mayametaṃ jānāma , mayametaṃ passāma, yattha vā brahmā, yena vā brahmā, yahiṃ vā brahmāti. Teva tevijjā brāhmaṇā evamāhaṃsu – ‘‘yaṃ na jānāma, yaṃ na passāma, tassa sahabyatāya maggaṃ desema, ayameva ujumaggo ayamañjasāyano niyyāniko niyyāti takkarassa brahmasahabyatāyā’’ti.",
+   "zh": "“[[vāseṭṭha|婆悉咤]]，正是如此，那些通晓三明吠陀的婆罗门，其实并未亲见梵天神；那些三明婆罗门的老师们，其实也未亲见梵天神；那些三明婆罗门的祖师尊辈，其实也未亲见梵天神；就连那些三明婆罗门往上追溯七代的宗师们，其实也未亲见梵天神。就算是那些三明婆罗门在远古时代的仙人祖师——他们是真言的创作者、真言的传播者，如今的这些三明婆罗门，仍随其吟诵、随其念诵，重复着他们所念、重复着他们所教导的古老真言诗句——也就是阿达咖、[[vāmaka|瓦马咖]]、[[vāmadeva|瓦马迭瓦]]、毗沙密多、夜摩达吉、阿吉拉萨、[[bhāradvāja|婆罗堕阇]]、[[vāseṭṭha|婆悉咤]]、迦叶、婆咕这几位，他们也不曾这样说过：‘我们知道，我们见到，梵天神在哪里，梵天神向何处，梵天神在何处。’然而，正是这些三明婆罗门，却这样说：‘我们为所不知、所未见的，解说与之共住的道路；这就是唯一正直的道路，这就是直达之路、导向之路，能令行此法者导向与梵天共住。’”",
+   "n": "540"
+  },
+  {
+   "idx": 40,
+   "pali": "‘‘Taṃ kiṃ maññasi, vāseṭṭha, nanu evaṃ sante tevijjānaṃ brāhmaṇānaṃ appāṭihīrakataṃ bhāsitaṃ sampajjatī’’ti? ‘‘Addhā kho, bho gotama, evaṃ sante tevijjānaṃ brāhmaṇānaṃ appāṭihīrakataṃ bhāsitaṃ sampajjatī’’ti.",
+   "zh": "“[[vāseṭṭha|婆悉咤]]，你认为如何？事情若是这样，那些三明婆罗门所说的话，岂不成了毫无实据的言论吗？”“[[gotama|乔达摩]]尊者，确实如此。事情若是这样，那些三明婆罗门所说的话，便成了毫无实据的言论。”",
+   "n": "541"
+  },
+  {
+   "idx": 41,
+   "pali": "‘‘Sādhu, vāseṭṭha. Te vata, vāseṭṭha, tevijjā brāhmaṇā yaṃ na jānanti, yaṃ na passanti, tassa sahabyatāya maggaṃ desessanti. Ayameva ujumaggo ayamañjasāyano niyyāniko niyyāti takkarassa brahmasabyatāyāti, netaṃ ṭhānaṃ vijjati.",
+   "zh": "“善哉，[[vāseṭṭha|婆悉咤]]。[[vāseṭṭha|婆悉咤]]，那些三明婆罗门对于自己不知、不见的，却要教导通往与之共住的道路，还说：‘这正是直达的正道，这是笔直的道路，能引导修习者走向与梵天共住。’这是绝无可能的。"
+  },
+  {
+   "idx": 83,
+   "pali": "Aciravatīnadīupamā",
+   "zh": "阿致罗筏底河喻"
+  },
+  {
+   "idx": 43,
+   "pali": "‘‘Seyyathāpi, vāseṭṭha, ayaṃ aciravatī nadī pūrā udakassa samatittikā kākapeyyā. Atha puriso āgaccheyya pāratthiko pāragavesī pāragāmī pāraṃ taritukāmo. So orime tīre ṭhito pārimaṃ tīraṃ avheyya – ‘‘ehi pārāpāraṃ, ehi pārāpāra’’nti.",
+   "zh": "“[[vāseṭṭha|婆悉咤]]，譬如这条[[aciravatī|阿致罗筏底]]河，河水满盈，齐岸可饮，乌鸦亦能就饮。那时，有人欲往彼岸，寻求彼岸、向往彼岸、渴望渡过此河。他站在此岸，向彼岸呼唤：‘来吧，彼岸！来吧，彼岸！’",
+   "n": "542"
+  },
+  {
+   "idx": 44,
+   "pali": "‘‘Taṃ kiṃ maññasi, vāseṭṭha, api nu tassa purisassa avhāyanahetu vā āyācanahetu vā patthanahetu vā abhinandanahetu vā aciravatiyā nadiyā pārimaṃ tīraṃ orimaṃ tīraṃ āgaccheyyā’’ti? ‘‘No hidaṃ, bho gotama’’.",
+   "zh": "“[[vāseṭṭha|婆悉咤]]，你意如何？那人会因为他的召唤、祈求、期望或欢喜，便使[[aciravatī|阿致罗筏底]]河的对岸来到此岸吗？”“不会，[[gotama|乔达摩]]尊者。”",
+   "n": "543"
+  },
+  {
+   "idx": 45,
+   "pali": "‘‘Evameva kho, vāseṭṭha, tevijjā brāhmaṇā ye dhammā brāhmaṇakārakā te dhamme pahāya vattamānā, ye dhammā abrāhmaṇakārakā te dhamme samādāya vattamānā evamāhaṃsu – ‘‘indamavhayāma, somamavhayāma, varuṇamavhayāma, īsānamavhayāma, pajāpatimavhayāma, brahmamavhayāma, mahiddhimavhayāma, yamamavhayāmā’’ti.",
+   "zh": "“同样地，[[vāseṭṭha|婆悉咤]]，那些通达三明的婆罗门，舍弃了成就婆罗门之法，受持了非婆罗门之法，却如此说：‘我们呼求因达，呼求苏摩，呼求[[varuṇa|婆楼那]]，呼求伊萨那，呼求生主，呼求梵天，呼求大威力者，呼求夜摩。’”",
+   "n": "544"
+  },
+  {
+   "idx": 46,
+   "pali": "‘‘Te vata, vāseṭṭha, tevijjā brāhmaṇā ye dhammā brāhmaṇakārakā te dhamme pahāya vattamānā, ye dhammā abrāhmaṇakārakā te dhamme samādāya vattamānā avhāyanahetu vā āyācanahetu vā patthanahetu vā abhinandanahetu vā kāyassa bhedā paraṃ maraṇā brahmānaṃ sahabyūpagā bhavissantī’’ti, netaṃ ṭhānaṃ vijjati.",
+   "zh": "“[[vāseṭṭha|婆悉咤]]，那些三明婆罗门，舍弃了能成就婆罗门的法，行持着非婆罗门的法，却期待以呼唤、祈求、希冀、欢喜，在身坏命终之后，往生梵天共住——这是不可能的。”"
+  },
+  {
+   "idx": 47,
+   "pali": "‘‘Seyyathāpi, vāseṭṭha, ayaṃ aciravatī nadī pūrā udakassa samatittikā kākapeyyā. Atha puriso āgaccheyya pāratthiko pāragavesī pāragāmī pāraṃ taritukāmo. So orime tīre daḷhāya anduyā pacchābāhaṃ gāḷhabandhanaṃ baddho.",
+   "zh": "“[[vāseṭṭha|婆悉咤]]，譬如这条[[aciravatī|阿致罗筏底]]河，水满至岸，乃至乌鸦也能饮到水。那时有人前来，他欲至彼岸、寻求彼岸、向往彼岸、渴望渡过。但他就在此岸，双臂被一副坚固的枷牢牢反绑在背后。",
+   "n": "545"
+  },
+  {
+   "idx": 48,
+   "pali": "‘‘Taṃ kiṃ maññasi, vāseṭṭha, api nu so puriso aciravatiyā nadiyā orimā tīrā pārimaṃ tīraṃ gaccheyyā’’ti? ‘‘No hidaṃ, bho gotama’’.",
+   "zh": "“[[vāseṭṭha|婆悉咤]]，你认为如何？那人能渡至[[aciravatī|阿致罗筏底]]河的彼岸吗？”“不能，[[gotama|乔达摩尊]]者。”"
+  },
+  {
+   "idx": 49,
+   "pali": "‘‘Evameva kho, vāseṭṭha, pañcime kāmaguṇā ariyassa vinaye andūtipi vuccanti, bandhanantipi vuccanti. Katame pañca? Cakkhuviññeyyā rūpā iṭṭhā kantā manāpā piyarūpā kāmūpasaṃhitā rajanīyā. Sotaviññeyyā saddā…pe… ghānaviññeyyā gandhā… jivhāviññeyyā rasā… kāyaviññeyyā phoṭṭhabbā iṭṭhā kantā manāpā piyarūpā kāmūpasaṃhitā rajanīyā.",
+   "zh": "“正是如此，[[vāseṭṭha|婆悉咤]]，在圣者的律法中，这五种欲的享乐之物即称为“枷锁”，也称为“束缚”。哪五种呢？眼所识知的色，合意、可爱、令人喜悦、惹人贪恋、与欲乐相应、能激发贪染；耳所识知的声……鼻所识知的香……舌所识知的味……身所识知的触，合意、可爱、令人喜悦、惹人贪恋、与欲乐相应、能激发贪染。”",
+   "n": "546"
+  },
+  {
+   "idx": 50,
+   "pali": "‘‘Ime kho, vāseṭṭha, pañca kāmaguṇā ariyassa vinaye andūtipi vuccanti, bandhanantipi vuccanti . Ime kho vāseṭṭha pañca kāmaguṇe tevijjā brāhmaṇā gadhitā mucchitā ajjhopannā anādīnavadassāvino anissaraṇapaññā paribhuñjanti. Te vata, vāseṭṭha, tevijjā brāhmaṇā ye dhammā brāhmaṇakārakā, te dhamme pahāya vattamānā, ye dhammā abrāhmaṇakārakā, te dhamme samādāya vattamānā pañca kāmaguṇe gadhitā mucchitā ajjhopannā anādīnavadassāvino anissaraṇapaññā paribhuñjantā kāmandubandhanabaddhā kāyassa bhedā paraṃ maraṇā brahmānaṃ sahabyūpagā bhavissantī’’ti, netaṃ ṭhānaṃ vijjati.",
+   "zh": "“[[vāseṭṭha|婆悉咤]]，这五种欲乐之物，在圣者的律法中被称为“枷锁”，也被称为“束缚”。那些精通三明的婆罗门，正是执着、迷恋、沉溺于这五种欲乐之物，不见过患，无有出离之智而受用。[[vāseṭṭha|婆悉咤]]，他们舍弃了能使人成为真正婆罗门的法，而行持那些不能使人成为真正婆罗门的法。他们被欲乐之爱的束缚所捆绑，执着、迷恋、沉溺于五种欲乐之物，不见过患，无有出离之智而受用，却指望在身体崩解、死亡之后能与梵天共住——这是绝无可能之事。”"
+  },
+  {
+   "idx": 51,
+   "pali": "‘‘Seyyathāpi , vāseṭṭha, ayaṃ aciravatī nadī pūrā udakassa samatittikā kākapeyyā. Atha puriso āgaccheyya pāratthiko pāragavesī pāragāmī pāraṃ taritukāmo. So orime tīre sasīsaṃ pārupitvā nipajjeyya.",
+   "zh": "“[[vāseṭṭha|婆悉咤]]，譬如这条[[aciravatī|阿致罗筏底]]河，河水充盈，齐岸满溢，就连乌鸦也能饮到。此时，有一人来，欲至彼岸，寻求彼岸，向往彼岸，渴望渡过河去。他却在此岸用衣裹住头身，躺下睡觉。”",
+   "n": "547"
+  },
+  {
+   "idx": 52,
+   "pali": "‘‘Taṃ kiṃ maññasi, vāseṭṭha, api nu so puriso aciravatiyā nadiyā orimā tīrā pārimaṃ tīraṃ gaccheyyā’’ti? ‘‘No hidaṃ, bho gotama’’.",
+   "zh": "“[[vāseṭṭha|婆悉咤]]，你认为如何？那人能渡至[[aciravatī|阿致罗筏底]]河的彼岸吗？”“不能，[[gotama|乔达摩尊]]者。”"
+  },
+  {
+   "idx": 53,
+   "pali": "‘‘Evameva kho, vāseṭṭha, pañcime nīvaraṇā ariyassa vinaye āvaraṇātipi vuccanti, nīvaraṇātipi vuccanti, onāhanātipi vuccanti, pariyonāhanātipi vuccanti. Katame pañca? Kāmacchandanīvaraṇaṃ, byāpādanīvaraṇaṃ, thinamiddhanīvaraṇaṃ, uddhaccakukkuccanīvaraṇaṃ, vicikicchānīvaraṇaṃ. Ime kho, vāseṭṭha, pañca nīvaraṇā ariyassa vinaye āvaraṇātipi vuccanti, nīvaraṇātipi vuccanti, onāhanātipi vuccanti, pariyonāhanātipi vuccanti.",
+   "zh": "“同样地，[[vāseṭṭha|婆悉咤]]，在圣者的律法中，这五种盖，也称作“阻隔”，也称作“障碍”，也称作“缠缚”，也称作“覆藏”。哪五种呢？欲贪之盖、瞋恚之盖、昏沉睡眠之盖、掉举追悔之盖、疑惑之盖。[[vāseṭṭha|婆悉咤]]，此五种盖，在圣者的律法中，便称作“阻隔”，也称作“障碍”，也称作“缠缚”，也称作“覆藏”。”",
+   "n": "548"
+  },
+  {
+   "idx": 54,
+   "pali": "‘‘Imehi kho, vāseṭṭha, pañcahi nīvaraṇehi tevijjā brāhmaṇā āvuṭā nivuṭā onaddhā pariyonaddhā. Te vata, vāseṭṭha, tevijjā brāhmaṇā ye dhammā brāhmaṇakārakā te dhamme pahāya vattamānā, ye dhammā abrāhmaṇakārakā te dhamme samādāya vattamānā pañcahi nīvaraṇehi āvuṭā nivuṭā onaddhā pariyonaddhā kāyassa bhedā paraṃ maraṇā brahmānaṃ sahabyūpagā bhavissantī’’ti, netaṃ ṭhānaṃ vijjati.",
+   "zh": "“[[vāseṭṭha|婆悉咤]]，那些三明婆罗门正是被这五种盖障所覆盖、遮蔽、缠缚、重重包裹。他们舍弃了成就真正婆罗门的行持，反而依循非婆罗门的行持而住，被这五种盖障覆盖、遮蔽、缠缚、重重包裹，却期望身坏命终后往生梵天世间——那是绝无可能之事。”",
+   "n": "549"
+  },
+  {
+   "idx": 84,
+   "pali": "Saṃsandanakathā",
+   "zh": "合论"
+  },
+  {
+   "idx": 56,
+   "pali": "‘‘Taṃ kiṃ maññasi, vāseṭṭha, kinti te sutaṃ brāhmaṇānaṃ vuddhānaṃ mahallakānaṃ ācariyapācariyānaṃ bhāsamānānaṃ, sapariggaho vā brahmā apariggaho vā’’ti? ‘‘Apariggaho, bho gotama’’. ‘‘Saveracitto vā averacitto vā’’ti? ‘‘Averacitto, bho gotama’’. ‘‘Sabyāpajjacitto vā abyāpajjacitto vā’’ti? ‘‘Abyāpajjacitto, bho gotama’’. ‘‘Saṃkiliṭṭhacitto vā asaṃkiliṭṭhacitto vā’’ti? ‘‘Asaṃkiliṭṭhacitto, bho gotama’’. ‘‘Vasavattī vā avasavattī vā’’ti? ‘‘Vasavattī, bho gotama’’.",
+   "zh": "“[[vāseṭṭha|婆悉咤]]，你意如何？你可曾从那些年高德劭、师祖辈的婆罗门长老口中，听过他们这样说：梵天神是有妻子眷属，还是无所执取？”“无所执取，[[gotama|乔达摩尊]]者。”“是有嗔恨之心，还是无嗔恨之心？”“无嗔恨之心，[[gotama|乔达摩尊]]者。”“是有害心，还是无害心？”“无害心，[[gotama|乔达摩尊]]者。”“是心有污染，还是心无污染？”“心无污染，[[gotama|乔达摩尊]]者。”“是能自在主宰，还是不能自在主宰？”“能自在主宰，[[gotama|乔达摩尊]]者。”",
+   "n": "550"
+  },
+  {
+   "idx": 57,
+   "pali": "‘‘Taṃ kiṃ maññasi, vāseṭṭha, sapariggahā vā tevijjā brāhmaṇā apariggahā vā’’ti? ‘‘Sapariggahā, bho gotama’’. ‘‘Saveracittā vā averacittā vā’’ti? ‘‘Saveracittā, bho gotama’’ . ‘‘Sabyāpajjacittā vā abyāpajjacittā vā’’ti? ‘‘Sabyāpajjacittā, bho gotama’’. ‘‘Saṃkiliṭṭhacittā vā asaṃkiliṭṭhacittā vā’’ti? ‘‘Saṃkiliṭṭhacittā, bho gotama’’. ‘‘Vasavattī vā avasavattī vā’’ti? ‘‘Avasavattī, bho gotama’’.",
+   "zh": "“[[vāseṭṭha|婆悉咤]]，你意如何？那些三明婆罗门是有执取的，还是无执取的？”“有执取的，[[gotama|乔达摩尊]]者。”“是有嗔心的，还是无嗔心的？”“有嗔心的，[[gotama|乔达摩尊]]者。”“是有害心的，还是无害心的？”“有害心的，[[gotama|乔达摩尊]]者。”“是心有污染的，还是心无污染的？”“心有污染的，[[gotama|乔达摩尊]]者。”“是能自主的，还是不能自主的？”“不能自主的，[[gotama|乔达摩尊]]者。”"
+  },
+  {
+   "idx": 58,
+   "pali": "‘‘Iti kira, vāseṭṭha, sapariggahā tevijjā brāhmaṇā apariggaho brahmā. Api nu kho sapariggahānaṃ tevijjānaṃ brāhmaṇānaṃ apariggahena brahmunā saddhiṃ saṃsandati sametī’’ti? ‘‘No hidaṃ, bho gotama’’. ‘‘Sādhu, vāseṭṭha, te vata, vāseṭṭha, sapariggahā tevijjā brāhmaṇā kāyassa bhedā paraṃ maraṇā apariggahassa brahmuno sahabyūpagā bhavissantī’’ti, netaṃ ṭhānaṃ vijjati.",
+   "zh": "“如此，[[vāseṭṭha|婆悉咤]]，三明婆罗门是有执取的，而梵天神是无执取的。那么，有执取的三明婆罗门与无执取的梵天神，能相应、相合吗？”“这是不可能的，[[gotama|乔达摩]]尊者。”“善哉，[[vāseṭṭha|婆悉咤]]。既然如此，那些有执取的三明婆罗门，指望身坏命终后投生到无执取的梵天神那里——这实为不可能的事。”",
+   "n": "551"
+  },
+  {
+   "idx": 59,
+   "pali": "‘‘Iti kira, vāseṭṭha, saveracittā tevijjā brāhmaṇā, averacitto brahmā…pe… sabyāpajjacittā tevijjā brāhmaṇā abyāpajjacitto brahmā… saṃkiliṭṭhacittā tevijjā brāhmaṇā asaṃkiliṭṭhacitto brahmā… avasavattī tevijjā brāhmaṇā vasavattī brahmā, api nu kho avasavattīnaṃ tevijjānaṃ brāhmaṇānaṃ vasavattinā brahmunā saddhiṃ saṃsandati sametī’’ti? ‘‘No hidaṃ, bho gotama’’. ‘‘Sādhu, vāseṭṭha, te vata, vāseṭṭha, avasavattī tevijjā brāhmaṇā kāyassa bhedā paraṃ maraṇā vasavattissa brahmuno sahabyūpagā bhavissantī’’ti, netaṃ ṭhānaṃ vijjati.",
+   "zh": "“如此，[[vāseṭṭha|婆悉咤]]，三明婆罗门是有嗔心的，而梵天神是无嗔心的……三明婆罗门是有害心的，而梵天神是无害心的……三明婆罗门是心有污染的，而梵天神是心无污染的……三明婆罗门是不能自主的，而梵天神是能自主的。那么，不能自主的三明婆罗门与能自主的梵天神，能相应、相合吗？”“这是不可能的，[[gotama|乔达摩]]尊者。”“善哉，[[vāseṭṭha|婆悉咤]]。既然如此，那些不能自主的三明婆罗门，指望身坏命终后投生到能自主的梵天神那里——这实为不可能的事。”"
+  },
+  {
+   "idx": 60,
+   "pali": "‘‘Idha kho pana te, vāseṭṭha, tevijjā brāhmaṇā āsīditvā saṃsīdanti, saṃsīditvā visāraṃ pāpuṇanti, sukkhataraṃ maññe taranti. Tasmā idaṃ tevijjānaṃ brāhmaṇānaṃ tevijjāiriṇantipi vuccati, tevijjāvivanantipi vuccati, tevijjābyasanantipi vuccatī’’ti.",
+   "zh": "“[[vāseṭṭha|婆悉咤]]，那些三明婆罗门，一涉入其中便向下沉没，沉没之后便遭受肢体折损崩坏之苦，自以为能渡至干岸（但实际未渡）。因此，这些三明婆罗门的三明，被称为‘三明荒原’，被称为‘三明密林’，被称为‘三明灾难’。”",
+   "n": "552"
+  },
+  {
+   "idx": 61,
+   "pali": "Evaṃ vutte, vāseṭṭho māṇavo bhagavantaṃ etadavoca – ‘‘sutaṃ metaṃ, bho gotama, samaṇo gotamo brahmānaṃ sahabyatāya maggaṃ jānātī’’ti. ‘‘Taṃ kiṃ maññasi, vāseṭṭha. Āsanne ito manasākaṭaṃ, na ito dūre manasākaṭa’’nti? ‘‘Evaṃ, bho gotama, āsanne ito manasākaṭaṃ, na ito dūre manasākaṭa’’nti.",
+   "zh": "听了这话，[[vāseṭṭha|婆悉咤]]青年对世尊说：“[[gotama|乔达摩尊]]者，我听说[[gotama|沙门乔达摩]]知道通往与梵天共住的道路。”“[[vāseṭṭha|婆悉咤]]，你认为如何？马那萨咖嗒村离此不远吧？”“是的，[[gotama|乔达摩尊]]者，马那萨咖嗒离此不远。”",
+   "n": "553"
+  },
+  {
+   "idx": 62,
+   "pali": "‘‘Taṃ kiṃ maññasi, vāseṭṭha, idhassa puriso manasākaṭe jātasaṃvaddho. Tamenaṃ manasākaṭato tāvadeva avasaṭaṃ manasākaṭassa maggaṃ puccheyyuṃ. Siyā nu kho, vāseṭṭha, tassa purisassa manasākaṭe jātasaṃvaddhassa manasākaṭassa maggaṃ puṭṭhassa dandhāyitattaṃ vā vitthāyitattaṃ vā’’ti? ‘‘No hidaṃ, bho gotama’’. ‘‘Taṃ kissa hetu’’? ‘‘Amu hi, bho gotama, puriso manasākaṭe jātasaṃvaddho, tassa sabbāneva manasākaṭassa maggāni suviditānī’’ti.",
+   "zh": "“[[vāseṭṭha|婆悉咤]]，你认为如何？假如有个人在马那萨咖嗒出生、长大。有人在他刚离开马那萨咖嗒时，便问他去那里的路。[[vāseṭṭha|婆悉咤]]，这个在马那萨咖嗒出生、长大的人，被问及前往马那萨咖嗒的路时，会迟疑、会犹豫吗？”“不会，[[gotama|乔达摩尊]]者。”“为什么呢？”“因为这个人出生、成长于马那萨咖嗒，对通往那里的所有道路都了如指掌。”",
+   "n": "554"
+  },
+  {
+   "idx": 63,
+   "pali": "‘‘Siyā kho, vāseṭṭha, tassa purisassa manasākaṭe jātasaṃvaddhassa manasākaṭassa maggaṃ puṭṭhassa dandhāyitattaṃ vā vitthāyitattaṃ vā, na tveva tathāgatassa brahmaloke vā brahmalokagāminiyā vā paṭipadāya puṭṭhassa dandhāyitattaṃ vā vitthāyitattaṃ vā. Brahmānaṃ cāhaṃ, vāseṭṭha, pajānāmi brahmalokañca brahmalokagāminiñca paṭipadaṃ, yathā paṭipanno ca brahmalokaṃ upapanno, tañca pajānāmī’’ti.",
+   "zh": "“[[vāseṭṭha|婆悉咤]]，那个在马那萨卡嗒出生、长大的人，若被问到去那里的路，或许会犹豫、迟疑；但如来被问到梵天界或通往梵天界的修行之道时，绝不会犹豫、迟疑。[[vāseṭṭha|婆悉咤]]，我了知梵天神，了知梵天界，了知通往梵天界的修行之道，也了知如何修行方能投生梵天界。”"
+  },
+  {
+   "idx": 64,
+   "pali": "Evaṃ vutte, vāseṭṭho māṇavo bhagavantaṃ etadavoca – ‘‘sutaṃ metaṃ, bho gotama, samaṇo gotamo brahmānaṃ sahabyatāya maggaṃ desetī’’ti. ‘‘Sādhu no bhavaṃ gotamo brahmānaṃ sahabyatāya maggaṃ desetu ullumpatu bhavaṃ gotamo brāhmaṇiṃ paja’’nti. ‘‘Tena hi, vāseṭṭha, suṇāhi; sādhukaṃ manasi karohi; bhāsissāmī’’ti. ‘‘Evaṃ bho’’ti kho vāseṭṭho māṇavo bhagavato paccassosi.",
+   "zh": "听了这话，[[vāseṭṭha|婆悉咤]]青年对世尊说：“[[gotama|乔达摩尊]]者，我听说[[gotama|沙门乔达摩]]宣说与梵天共住之道。善哉！请[[gotama|乔达摩尊]]者教导我们与梵天共住之道，请[[gotama|乔达摩尊]]者救度婆罗门族众吧。”世尊说：“那么，[[vāseṭṭha|婆悉咤]]，仔细听，善加作意，我当解说。”“好的，尊者。”[[vāseṭṭha|婆悉咤]]青年回答世尊。",
+   "n": "555"
+  },
+  {
+   "idx": 85,
+   "pali": "Brahmalokamaggadesanā",
+   "zh": "梵天界道之开示"
+  },
+  {
+   "idx": 66,
+   "pali": "Bhagavā etadavoca – ‘‘idha, vāseṭṭha, tathāgato loke uppajjati arahaṃ, sammāsambuddho…pe… (yathā 190-212 anucchedesu evaṃ vitthāretabbaṃ). Evaṃ kho, vāseṭṭha, bhikkhu sīlasampanno hoti…pe… tassime pañca nīvaraṇe pahīne attani samanupassato pāmojjaṃ jāyati, pamuditassa pīti jāyati, pītimanassa kāyo passambhati, passaddhakāyo sukhaṃ vedeti, sukhino cittaṃ samādhiyati.",
+   "zh": "世尊这样说：“[[vāseṭṭha|婆悉咤]]，如来出现于世间，是阿拉汉、正自觉者……（如同第190-212段应予详述）。[[vāseṭṭha|婆悉咤]]，如此，比丘便具足戒行……当他见到自己已舍断这五盖，便生起欢喜；由欢喜而生起喜悦；由喜悦而身得轻安；身得轻安者感受快乐；由快乐而心得定。”",
+   "n": "556"
+  },
+  {
+   "idx": 67,
+   "pali": "‘‘So mettāsahagatena cetasā ekaṃ disaṃ pharitvā viharati . Tathā dutiyaṃ. Tathā tatiyaṃ. Tathā catutthaṃ. Iti uddhamadho tiriyaṃ sabbadhi sabbattatāya sabbāvantaṃ lokaṃ mettāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjena pharitvā viharati.",
+   "zh": "“他以慈俱行之心遍满一方而住，同样遍满第二方、第三方、第四方。如是向上、向下、横向，遍一切处，视一切众生如己，以广大、崇高、无量、无怨恨、无恼害的慈俱行之心遍满一切世间而住。”"
+  },
+  {
+   "idx": 68,
+   "pali": "‘‘Seyyathāpi, vāseṭṭha, balavā saṅkhadhamo appakasireneva catuddisā viññāpeyya; evameva kho, vāseṭṭha, evaṃ bhāvitāya mettāya cetovimuttiyā yaṃ pamāṇakataṃ kammaṃ na taṃ tatrāvasissati, na taṃ tatrāvatiṭṭhati. Ayampi kho, vāseṭṭha, brahmānaṃ sahabyatāya maggo.",
+   "zh": "“[[vāseṭṭha|婆悉咤]]，譬如一位强壮的吹螺手，能毫不费力地让四方都听到他的螺声。同样地，[[vāseṭṭha|婆悉咤]]，当慈心解脱如此修习后，任何有限的业行，都不会在那里残留，不会在那里立足。[[vāseṭṭha|婆悉咤]]，这也是一条通往梵天共住之路。"
+  },
+  {
+   "idx": 69,
+   "pali": "‘‘Puna caparaṃ, vāseṭṭha, bhikkhu karuṇāsahagatena cetasā…pe… muditāsahagatena cetasā…pe… upekkhāsahagatena cetasā ekaṃ disaṃ pharitvā viharati. Tathā dutiyaṃ. Tathā tatiyaṃ. Tathā catutthaṃ. Iti uddhamadho tiriyaṃ sabbadhi sabbattatāya sabbāvantaṃ lokaṃ upekkhāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjena pharitvā viharati.",
+   "zh": "“再者，[[vāseṭṭha|婆悉咤]]，比丘以悲俱行之心……以喜俱行之心……以舍俱行之心遍满一方而住，同样遍满第二方、第三方、第四方。如是向上、向下、横向，遍一切处，视一切众生如己，以广大、崇高、无量、无怨恨、无恼害的舍俱行之心遍满一切世间而住。"
+  },
+  {
+   "idx": 70,
+   "pali": "‘‘Seyyathāpi , vāseṭṭha, balavā saṅkhadhamo appakasireneva catuddisā viññāpeyya. Evameva kho, vāseṭṭha, evaṃ bhāvitāya upekkhāya cetovimuttiyā yaṃ pamāṇakataṃ kammaṃ na taṃ tatrāvasissati, na taṃ tatrāvatiṭṭhati. Ayaṃ kho, vāseṭṭha, brahmānaṃ sahabyatāya maggo.",
+   "zh": "“[[vāseṭṭha|婆悉咤]]，犹如一位力壮的吹螺者，可不费力气地让四方都听见他的声响。同样地，[[vāseṭṭha|婆悉咤]]，当舍心解脱如此修习之后，任何有限的业，都无法在那里残留，无法在那里立足。[[vāseṭṭha|婆悉咤]]，这也是一条通往与梵天共住的道路。"
+  },
+  {
+   "idx": 71,
+   "pali": "‘‘Taṃ kiṃ maññasi, vāseṭṭha, evaṃvihārī bhikkhu sapariggaho vā apariggaho vā’’ti? ‘‘Apariggaho, bho gotama’’. ‘‘Saveracitto vā averacitto vā’’ti? ‘‘Averacitto, bho gotama’’. ‘‘Sabyāpajjacitto vā abyāpajjacitto vā’’ti? ‘‘Abyāpajjacitto, bho gotama’’. ‘‘Saṃkiliṭṭhacitto vā asaṃkiliṭṭhacitto vā’’ti? ‘‘Asaṃkiliṭṭhacitto, bho gotama’’. ‘‘Vasavattī vā avasavattī vā’’ti? ‘‘Vasavattī, bho gotama’’.",
+   "zh": "“[[vāseṭṭha|婆悉咤]]，你如何看呢？如此安住的比丘，是有所取者还是无所取者？”\n“是无所取者，[[gotama|乔达摩尊]]者。”\n“是心怀怨恨者还是心无怨恨者？”\n“是心无怨恨者，[[gotama|乔达摩尊]]者。”\n“是心怀伤害者还是心无伤害者？”\n“是心无伤害者，[[gotama|乔达摩尊]]者。”\n“是心有染污者还是心无染污者？”\n“是心无染污者，[[gotama|乔达摩尊]]者。”\n“是不能自主者还是能自主者？”\n“是能自主者，[[gotama|乔达摩尊]]者。”",
+   "n": "557"
+  },
+  {
+   "idx": 72,
+   "pali": "‘‘Iti kira, vāseṭṭha, apariggaho bhikkhu, apariggaho brahmā. Api nu kho apariggahassa bhikkhuno apariggahena brahmunā saddhiṃ saṃsandati sametī’’ti? ‘‘Evaṃ, bho gotama’’. ‘‘Sādhu, vāseṭṭha, so vata vāseṭṭha apariggaho bhikkhu kāyassa bhedā paraṃ maraṇā apariggahassa brahmuno sahabyūpago bhavissatī’’ti, ṭhānametaṃ vijjati.",
+   "zh": "“[[vāseṭṭha|婆悉咤]]，这么说来，比丘无有执取，梵天神也无有执取。无执取的比丘与无执取的梵天神，能否相合相应呢？”“是的，[[gotama|乔达摩]]尊者。”“善哉，[[vāseṭṭha|婆悉咤]]。[[vāseṭṭha|婆悉咤]]，那位无执取的比丘，确实会在身坏命终之后，往生至无执取的梵天神，与之共住。这是可能的。”"
+  },
+  {
+   "idx": 73,
+   "pali": "‘‘Iti kira, vāseṭṭha, averacitto bhikkhu, averacitto brahmā…pe… abyāpajjacitto bhikkhu, abyāpajjacitto brahmā… asaṃkiliṭṭhacitto bhikkhu, asaṃkiliṭṭhacitto brahmā… vasavattī bhikkhu, vasavattī brahmā, api nu kho vasavattissa bhikkhuno vasavattinā brahmunā saddhiṃ saṃsandati sametī’’ti ? ‘‘Evaṃ, bho gotama’’. ‘‘Sādhu, vāseṭṭha, so vata, vāseṭṭha, vasavattī bhikkhu kāyassa bhedā paraṃ maraṇā vasavattissa brahmuno sahabyūpago bhavissatīti, ṭhānametaṃ vijjatī’’ti.",
+   "zh": "“[[vāseṭṭha|婆悉咤]]，这么说来，比丘心无怨恨，梵天神也是心无怨恨……（中略）……比丘心无瞋恼，梵天神也是心无瞋恼……比丘心无染污，梵天神也是心无染污……比丘是自主的，梵天神也是自主的。那么，自主的比丘与自主的梵天神，能否相合相应呢？”“是的，[[gotama|乔达摩]]尊者。”“善哉，[[vāseṭṭha|婆悉咤]]。[[vāseṭṭha|婆悉咤]]，那位自主的比丘，确实会在身坏命终之后，往生至自主的梵天神，与之共住。这是可能的。”",
+   "n": "558"
+  },
+  {
+   "idx": 74,
+   "pali": "Evaṃ vutte, vāseṭṭhabhāradvājā māṇavā bhagavantaṃ etadavocuṃ – ‘‘abhikkantaṃ, bho gotama, abhikkantaṃ, bho gotama! Seyyathāpi, bho gotama, nikkujjitaṃ vā ukkujjeyya, paṭicchannaṃ vā vivareyya, mūḷhassa vā maggaṃ ācikkheyya, andhakāre vā telapajjotaṃ dhāreyya ‘cakkhumanto rūpāni dakkhantī’ti. Evamevaṃ bhotā gotamena anekapariyāyena dhammo pakāsito . Ete mayaṃ bhavantaṃ gotamaṃ saraṇaṃ gacchāma, dhammañca bhikkhusaṅghañca. Upāsake no bhavaṃ gotamo dhāretu ajjatagge pāṇupete saraṇaṃ gate’’ti.",
+   "zh": "听了这话，两位青年[[vāseṭṭha|婆悉咤]]与[[bhāradvāja|婆罗堕阇]]对世尊说：“真是殊胜啊，[[gotama|乔达摩尊]]者！真是殊胜啊！[[gotama|乔达摩尊]]者，犹如有人将倒下的扶正，将隐藏的揭开，为迷路者指明道路，在黑暗中擎举油灯，令有眼者得见诸色。同样地，[[gotama|乔达摩尊]]者以种种方便阐明了法。我们愿皈依[[gotama|乔达摩尊]]者、皈依法、皈依比丘僧团。祈请[[gotama|乔达摩尊]]者接纳我们为近事男，从今日起，直到命终，我们都皈依。”",
+   "n": "559"
+  },
+  {
+   "idx": 86,
+   "pali": "Tevijjasuttaṃ niṭṭhitaṃ terasamaṃ.",
+   "zh": "《三明经》第十三终",
+   "type": "colophon"
+  },
+  {
+   "idx": 87,
+   "pali": "Sīlakkhandhavaggo niṭṭhito.",
+   "zh": "《戒蕴品》终",
+   "type": "colophon"
+  },
+  {
+   "idx": 88,
+   "pali": "Tassuddānaṃ –",
+   "zh": "其摄颂："
+  },
+  {
+   "idx": 89,
+   "pali": "Brahmāsāmaññaambaṭṭha ,",
+   "zh": "梵网、沙门果、[[Ambaṭṭha|阿摩昼]]，",
+   "type": "verse"
+  },
+  {
+   "idx": 90,
+   "pali": "Soṇakūṭamahālijālinī;",
+   "zh": "种德、究罗檀头、摩诃梨、阇利。",
+   "type": "verse"
+  },
+  {
+   "idx": 91,
+   "pali": "Sīhapoṭṭhapādasubho kevaṭṭo,",
+   "zh": "狮子、[[Poṭṭhapāda|布吒婆楼]]、苏婆、坚固，",
+   "type": "verse"
+  },
+  {
+   "idx": 92,
+   "pali": "Lohiccatevijjā terasāti.",
+   "zh": "[[Lohicca|露遮]]、三明，共十三经。",
+   "type": "verse"
+  },
+  {
+   "idx": 93,
+   "pali": "Sīlakkhandhavaggapāḷi niṭṭhitā.",
+   "zh": "戒蕴品终",
+   "type": "colophon"
+  }
+ ]
+}

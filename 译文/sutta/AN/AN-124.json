@@ -1,0 +1,176 @@
+{
+ "uid": 124,
+ "title": "10. 利益品",
+ "nik": "AN",
+ "segs": [
+  {
+   "idx": 0,
+   "pali": "10. Ānisaṃsavaggo",
+   "zh": "10. 利益品"
+  },
+  {
+   "idx": 1,
+   "pali": "1. Pātubhāvasuttaṃ",
+   "zh": "1. [[pātubhāvasutta|出现经]]"
+  },
+  {
+   "idx": 2,
+   "pali": "‘‘Channaṃ , bhikkhave, pātubhāvo dullabho lokasmiṃ. Katamesaṃ channaṃ? Tathāgatassa arahato sammāsambuddhassa pātubhāvo dullabho lokasmiṃ, tathāgatappaveditassa dhammavinayassa desetā puggalo dullabho lokasmiṃ, ariyāyatane paccājāti dullabhā lokasmiṃ, indriyānaṃ avekallatā dullabhā lokasmiṃ, ajaḷatā aneḷamūgatā dullabhā lokasmiṃ, kusale dhamme chando dullabho lokasmiṃ. Imesaṃ kho, bhikkhave, channaṃ pātubhāvo dullabho lokasmi’’nti. Paṭhamaṃ.",
+   "zh": "“诸比丘，有六种出现于世间，是极为难得的。哪六种呢？如来、阿拉汉、正自觉者出现于世间，是难得的；能够宣说如来所教导之法与律的人，是难得的；投生于圣地，是难得的；诸根完备，是难得的；不愚痴、不哑默，是难得的；于善法生起意欲，是难得的。诸比丘，这六种出现于世间，确实是难得的。”第一。",
+   "n": "96"
+  },
+  {
+   "idx": 3,
+   "pali": "2. Ānisaṃsasuttaṃ",
+   "zh": "2. [[ānisaṃsasutta|利益经]]"
+  },
+  {
+   "idx": 4,
+   "pali": "‘‘Chayime, bhikkhave, ānisaṃsā sotāpattiphalasacchikiriyāya. Katame cha? Saddhammaniyato hoti, aparihānadhammo hoti, pariyantakatassa dukkhaṃ hoti , asādhāraṇena ñāṇena samannāgato hoti, hetu cassa sudiṭṭho, hetusamuppannā ca dhammā. Ime kho, bhikkhave, cha ānisaṃsā sotāpattiphalasacchikiriyāyā’’ti. Dutiyaṃ.",
+   "zh": "“诸比丘，有六种利益能现证入流果。哪六种？于正法决定不动，为不退法，苦是有限的；具足不共智，因已善见，见因所生法。诸比丘，这便是现证入流果的六种利益。”第二经。",
+   "n": "97"
+  },
+  {
+   "idx": 5,
+   "pali": "3. Aniccasuttaṃ",
+   "zh": "3. [[aniccasutta|无常经]]"
+  },
+  {
+   "idx": 6,
+   "pali": "‘‘‘So vata, bhikkhave, bhikkhu kañci saṅkhāraṃ niccato samanupassanto anulomikāya khantiyā samannāgato bhavissatī’ti netaṃ ṭhānaṃ vijjati. ‘Anulomikāya khantiyā asamannāgato sammattaniyāmaṃ okkamissatī’ti netaṃ ṭhānaṃ vijjati. ‘Sammattaniyāmaṃ anokkamamāno sotāpattiphalaṃ vā sakadāgāmiphalaṃ vā anāgāmiphalaṃ vā arahattaṃ vā sacchikarissatī’ti netaṃ ṭhānaṃ vijjati.",
+   "zh": "“诸比丘，若有比丘观诸行为常，而谓‘彼将具足随顺忍’，这是不可能的。若不具足随顺忍，而谓‘彼将入正性决定’，这是不可能的。若不入正性决定，而谓‘彼将现证入流果、一来果、不来果或阿拉汉果’，这是不可能的。”",
+   "n": "98"
+  },
+  {
+   "idx": 7,
+   "pali": "‘‘‘So vata, bhikkhave, bhikkhu sabbasaṅkhāre aniccato samanupassanto anulomikāya khantiyā samannāgato bhavissatī’ti ṭhānametaṃ vijjati. ‘Anulomikāya khantiyā samannāgato sammattaniyāmaṃ okkamissatī’ti ṭhānametaṃ vijjati. ‘Sammattaniyāmaṃ okkamamāno sotāpattiphalaṃ vā sakadāgāmiphalaṃ vā anāgāmiphalaṃ vā arahattaṃ vā sacchikarissatī’ti ṭhānametaṃ vijjatī’’ti. Tatiyaṃ.",
+   "zh": "“诸比丘，那位比丘随观一切行无常，便会具足随顺忍，这是可能的。具足随顺忍，便会进入正性决定，这是可能的。进入正性决定，便会证得入流果、一来果、不来果或阿拉汉果，这是可能的。”第三。"
+  },
+  {
+   "idx": 8,
+   "pali": "4. Dukkhasuttaṃ",
+   "zh": "4. [[dukkhasutta|苦经]]"
+  },
+  {
+   "idx": 9,
+   "pali": "‘‘So vata, bhikkhave, bhikkhu kañci saṅkhāraṃ sukhato samanupassanto…pe… sabbasaṅkhāre dukkhato samanupassanto…pe… ṭhānametaṃ vijjati’’. Catutthaṃ.",
+   "zh": "“诸比丘，那位比丘随观任何行是乐……（中略）……随观一切行是苦……（中略）……这是可能的。第四。",
+   "n": "99"
+  },
+  {
+   "idx": 10,
+   "pali": "5. Anattasuttaṃ",
+   "zh": "5. [[anattasutta|无我经]]"
+  },
+  {
+   "idx": 11,
+   "pali": "‘‘So vata, bhikkhave, bhikkhu kañci dhammaṃ attato samanupassanto…pe… sabbadhamme anattato samanupassanto…pe… ṭhānametaṃ vijjati’’. Pañcamaṃ.",
+   "zh": "“诸比丘，若有比丘于任何法随观为“我”……（中略）……于一切法随观为“无我”……（中略）……这是可能的。 第五。",
+   "n": "100"
+  },
+  {
+   "idx": 12,
+   "pali": "6. Nibbānasuttaṃ",
+   "zh": "6. [[nibbānasutta|涅槃经]]"
+  },
+  {
+   "idx": 13,
+   "pali": "‘‘‘So vata, bhikkhave, bhikkhu nibbānaṃ dukkhato samanupassanto anulomikāya khantiyā samannāgato bhavissatī’ti netaṃ ṭhānaṃ vijjati. ‘Anulomikāya khantiyā asamannāgato sammattaniyāmaṃ okkamissatī’ti netaṃ ṭhānaṃ vijjati. ‘Sammattaniyāmaṃ anokkamamāno sotāpattiphalaṃ vā sakadāgāmiphalaṃ vā anāgāmiphalaṃ vā arahattaṃ vā sacchikarissatī’ti netaṃ ṭhānaṃ vijjati.",
+   "zh": "“诸比丘，若有比丘随观涅槃为苦而能具足随顺忍者，无有是处。不具足随顺忍而能进入正性决定者，无有是处。不进入正性决定而能现证入流果、一来果、不来果或阿拉汉果者，无有是处。”",
+   "n": "101"
+  },
+  {
+   "idx": 14,
+   "pali": "‘‘‘So vata, bhikkhave, bhikkhu nibbānaṃ sukhato samanupassanto anulomikāya khantiyā samannāgato bhavissatī’ti ṭhānametaṃ vijjati. ‘Anulomikāya khantiyā samannāgato sammattaniyāmaṃ okkamissatī’ti ṭhānametaṃ vijjati. ‘Sammattaniyāmaṃ okkamamāno sotāpattiphalaṃ vā sakadāgāmiphalaṃ vā anāgāmiphalaṃ vā arahattaṃ vā sacchikarissatī’ti ṭhānametaṃ vijjatī’’ti. Chaṭṭhaṃ.",
+   "zh": "“诸比丘，若有比丘随观涅槃为乐，则能具足随顺忍，这是可能的。具足随顺忍者，则能进入正性决定，这是可能的。进入正性决定者，则能现证入流果、一来果、不来果或阿拉汉果，这是可能的。”第六。"
+  },
+  {
+   "idx": 15,
+   "pali": "7. Anavatthitasuttaṃ",
+   "zh": "7. [[anavatthitasutta|不住经]]"
+  },
+  {
+   "idx": 16,
+   "pali": "‘‘Cha , bhikkhave, ānisaṃse sampassamānena alameva bhikkhunā sabbasaṅkhāresu anodhiṃ karitvā aniccasaññaṃ upaṭṭhāpetuṃ. Katame cha? ‘Sabbasaṅkhārā ca me anavatthitā khāyissanti, sabbaloke ca me mano nābhiramissati , sabbalokā ca me mano vuṭṭhahissati, nibbānapoṇañca me mānasaṃ bhavissati, saṃyojanā ca me pahānaṃ gacchissanti , paramena ca sāmaññena samannāgato bhavissāmī’ti. Ime kho, bhikkhave, cha ānisaṃse sampassamānena alameva bhikkhunā sabbasaṅkhāresu anodhiṃ karitvā aniccasaññaṃ upaṭṭhāpetu’’nti. Sattamaṃ.",
+   "zh": "“诸比丘！见到六种利益，比丘便足以在一切诸行中无有界限地修习无常想。哪六种呢？‘一切诸行对我将显现为不稳固，我的心于一切世间将不喜乐，我的心将从一切世间出离，我的心将倾向于涅槃，我的诸结将趋于断尽，我将具足最上的沙门性。’诸比丘！见到这六种利益，比丘便足以在一切诸行中无有界限地修习无常想。”第七经。",
+   "n": "102"
+  },
+  {
+   "idx": 17,
+   "pali": "8. Ukkhittāsikasuttaṃ",
+   "zh": "8. [[ukkhittāsikasutta|举剑者经]]"
+  },
+  {
+   "idx": 18,
+   "pali": "‘‘Cha, bhikkhave, ānisaṃse sampassamānena alameva bhikkhunā sabbasaṅkhāresu anodhiṃ karitvā dukkhasaññaṃ upaṭṭhāpetuṃ. Katame cha? ‘Sabbasaṅkhāresu ca me nibbidasaññā paccupaṭṭhitā bhavissati, seyyathāpi ukkhittāsike vadhake. Sabbalokā ca me mano vuṭṭhahissati, nibbāne ca santadassāvī bhavissāmi, anusayā ca me samugghātaṃ gacchissanti , kiccakārī ca bhavissāmi, satthā ca me pariciṇṇo bhavissati mettāvatāyā’ti. Ime kho, bhikkhave, cha ānisaṃse sampassamānena alameva bhikkhunā sabbasaṅkhāresu anodhiṃ karitvā dukkhasaññaṃ upaṭṭhāpetu’’nti. Aṭṭhamaṃ.",
+   "zh": "“诸比丘！见到六种利益，比丘便足以在一切诸行中无有界限地修习苦想。哪六种呢？‘在一切诸行中，我将现起厌离想，犹如面对举刀的杀戮者；我的心将从一切世间出离；我将在涅槃中见到寂静；我的诸随眠将趋于根除；我将成为作所应作者；我当以慈爱承事导师。’诸比丘！见到这六种利益，比丘便足以在一切诸行中无有界限地修习苦想。”第八经。",
+   "n": "103"
+  },
+  {
+   "idx": 19,
+   "pali": "9. Atammayasuttaṃ",
+   "zh": "9. [[atammayasutta|非彼所成经]]"
+  },
+  {
+   "idx": 20,
+   "pali": "‘‘Cha, bhikkhave, ānisaṃse sampassamānena alameva bhikkhunā sabbadhammesu anodhiṃ karitvā anattasaññaṃ upaṭṭhāpetuṃ. Katame cha? Sabbaloke ca atammayo bhavissāmi, ahaṅkārā ca me uparujjhissanti, mamaṅkārā ca me uparujjhissanti, asādhāraṇena ca ñāṇena samannāgato bhavissāmi, hetu ca me sudiṭṭho bhavissati, hetusamuppannā ca dhammā. Ime kho, bhikkhave, cha ānisaṃse sampassamānena alameva bhikkhunā sabbadhammesu anodhiṃ karitvā anattasaññaṃ upaṭṭhāpetu’’nti. Navamaṃ.",
+   "zh": "“诸比丘！见到六种利益，便足以令比丘于一切法无有简择地修习无我想。哪六种呢？我将于一切世间非彼所成；我的我执将止息，我的我所执将止息；我将成就与众不同的智慧；我将善见因与因所生之法。诸比丘！见到这六种利益，便足以令比丘于一切法无有简择地修习无我想。第九经。",
+   "n": "104"
+  },
+  {
+   "idx": 21,
+   "pali": "10. Bhavasuttaṃ",
+   "zh": "10. [[bhavasutta|有经]]"
+  },
+  {
+   "idx": 22,
+   "pali": "‘‘Tayome , bhikkhave, bhavā pahātabbā, tīsu sikkhāsu sikkhitabbaṃ. Katame tayo bhavā pahātabbā? Kāmabhavo, rūpabhavo, arūpabhavo – ime tayo bhavā pahātabbā. Katamāsu tīsu sikkhāsu sikkhitabbaṃ? Adhisīlasikkhāya, adhicittasikkhāya, adhipaññāsikkhāya – imāsu tīsu sikkhāsu sikkhitabbaṃ. Yato kho, bhikkhave, bhikkhuno ime tayo bhavā pahīnā honti, imāsu ca tīsu sikkhāsu sikkhitasikkho hoti – ayaṃ vuccati, bhikkhave, bhikkhu acchecchi taṇhaṃ, vivattayi saṃyojanaṃ, sammā mānābhisamayā antamakāsi dukkhassā’’ti. Dasamaṃ.",
+   "zh": "“诸比丘，应当断除这三种有，应当于三学中修学。哪三种有应当断除呢？欲有、色有、无色有——应断除此三种有。哪三学应当修学呢？增上戒学、增上心学、增上慧学——应当于此三学中修学。诸比丘，当比丘已断此三种有，并且于这三学中学已成就时——诸比丘，这位比丘便被称为：已断渴爱，已解结缚，以正现观而尽慢，已作苦之终结。”",
+   "n": "105"
+  },
+  {
+   "idx": 23,
+   "pali": "11. Taṇhāsuttaṃ",
+   "zh": "11. [[taṇhāsutta|渴爱经]]"
+  },
+  {
+   "idx": 24,
+   "pali": "‘‘Tisso imā, bhikkhave, taṇhā pahātabbā, tayo ca mānā. Katamā tisso taṇhā pahātabbā? Kāmataṇhā, bhavataṇhā, vibhavataṇhā – imā tisso taṇhā pahātabbā. Katame tayo mānā pahātabbā? Māno, omāno, atimāno – ime tayo mānā pahātabbā. Yato kho, bhikkhave, bhikkhuno imā tisso taṇhā pahīnā honti, ime ca tayo mānā; ayaṃ vuccati, bhikkhave, bhikkhu acchecchi taṇhaṃ, vivattayi saṃyojanaṃ, sammā mānābhisamayā antamakāsi dukkhassā’’ti. Ekādasamaṃ.",
+   "zh": "“诸比丘，应当断除这三种渴爱，以及三种慢。哪三种渴爱应当断除呢？欲爱、有爱、无有爱——应断除此三种渴爱。哪三种慢应当断除呢？慢、卑慢、过慢——应断除此三种慢。诸比丘，当一位比丘已断此三种渴爱，并且断除此三种慢时——诸比丘，这位比丘便被称为：已断渴爱，已解结缚，以正现观而尽慢，已作苦之终结。”",
+   "n": "106"
+  },
+  {
+   "idx": 25,
+   "pali": "Ānisaṃsavaggo dasamo.",
+   "zh": "利益品"
+  },
+  {
+   "idx": 26,
+   "pali": "Tassuddānaṃ –",
+   "zh": "其摄颂："
+  },
+  {
+   "idx": 27,
+   "pali": "Pātubhāvo ānisaṃso, aniccadukkhaanattato;",
+   "zh": "现起与利益，及无常、苦、无我；",
+   "type": "verse"
+  },
+  {
+   "idx": 28,
+   "pali": "Nibbānaṃ anavatthi, ukkhittāsi atammayo;",
+   "zh": "涅槃无所住，举慧刀，无彼类、不参与、不干预；",
+   "type": "verse"
+  },
+  {
+   "idx": 29,
+   "pali": "Bhavā taṇhāyekā dasāti.",
+   "zh": "有、渴爱、十一。",
+   "type": "verse"
+  },
+  {
+   "idx": 30,
+   "pali": "Dutiyapaṇṇāsakaṃ samattaṃ.",
+   "zh": "第二组五十经终"
+  }
+ ]
+}

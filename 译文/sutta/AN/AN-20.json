@@ -1,0 +1,99 @@
+{
+ "uid": 20,
+ "title": "20. 不死品",
+ "nik": "AN",
+ "segs": [
+  {
+   "idx": 14,
+   "pali": "20. Amatavaggo",
+   "zh": "20. 不死品"
+  },
+  {
+   "idx": 1,
+   "pali": "‘‘Amataṃ te, bhikkhave, na paribhuñjanti ye kāyagatāsatiṃ na paribhuñjanti. Amataṃ te, bhikkhave, paribhuñjanti ye kāyagatāsatiṃ paribhuñjantī’’ti.",
+   "zh": "“诸比丘，不修习身至念者，便不受用不死；诸比丘，修习身至念者，便受用不死。”",
+   "n": "600"
+  },
+  {
+   "idx": 2,
+   "pali": "‘‘Amataṃ tesaṃ, bhikkhave, aparibhuttaṃ yesaṃ kāyagatāsati aparibhuttā. Amataṃ tesaṃ, bhikkhave, paribhuttaṃ yesaṃ kāyagatāsati paribhuttā’’ti.",
+   "zh": "“诸比丘，未修习身至念者，其不死即未得受用；诸比丘，已修习身至念者，其不死即已得受用。”",
+   "n": "601"
+  },
+  {
+   "idx": 3,
+   "pali": "‘‘Amataṃ tesaṃ, bhikkhave, parihīnaṃ yesaṃ kāyagatāsati parihīnā. Amataṃ tesaṃ, bhikkhave, aparihīnaṃ yesaṃ kāyagatāsati aparihīnā’’ti.",
+   "zh": "“诸比丘，身至念退失者，其不死亦随之退失；诸比丘，身至念不退失者，其不死亦不退失。”",
+   "n": "602"
+  },
+  {
+   "idx": 4,
+   "pali": "‘‘Amataṃ tesaṃ, bhikkhave, viraddhaṃ yesaṃ kāyagatāsati viraddhā. Amataṃ tesaṃ, bhikkhave, āraddhaṃ yesaṃ kāyagatāsati āraddhā’’ti.",
+   "zh": "“诸比丘，忽略身至念者，即忽略不死；勤修身至念者，即成就不死。”",
+   "n": "603"
+  },
+  {
+   "idx": 5,
+   "pali": "‘‘Amataṃ te, bhikkhave, pamādiṃsu ye kāyagatāsatiṃ pamādiṃsu. Amataṃ te, bhikkhave, na pamādiṃsu ye kāyagatāsatiṃ na pamādiṃsu’’.",
+   "zh": "“诸比丘，于身至念放逸者，即于不死放逸；于身至念不放逸者，即于不死不放逸。”",
+   "n": "604"
+  },
+  {
+   "idx": 6,
+   "pali": "‘‘Amataṃ tesaṃ, bhikkhave, pamuṭṭhaṃ yesaṃ kāyagatāsati pamuṭṭhā. Amataṃ tesaṃ, bhikkhave, appamuṭṭhaṃ yesaṃ kāyagatāsati appamuṭṭhā’’ti.",
+   "zh": "“诸比丘，忘失身至念者，即忘失不死；不忘失身至念者，即不忘失不死。”",
+   "n": "605"
+  },
+  {
+   "idx": 7,
+   "pali": "‘‘Amataṃ tesaṃ, bhikkhave, anāsevitaṃ yesaṃ kāyagatāsati anāsevitā. Amataṃ tesaṃ, bhikkhave, āsevitaṃ yesaṃ kāyagatāsati āsevitā’’ti.",
+   "zh": "“诸比丘，未曾亲近身至念者，即未曾亲近不死；亲近身至念者，即亲近了不死。”",
+   "n": "606"
+  },
+  {
+   "idx": 8,
+   "pali": "‘‘Amataṃ tesaṃ, bhikkhave, abhāvitaṃ yesaṃ kāyagatāsati abhāvitā. Amataṃ tesaṃ, bhikkhave, bhāvitaṃ yesaṃ kāyagatāsati bhāvitā’’ti.",
+   "zh": "“诸比丘，不曾修习身至念者，即不曾修习不死；修习身至念者，即修习了不死。”",
+   "n": "607"
+  },
+  {
+   "idx": 9,
+   "pali": "‘‘Amataṃ tesaṃ, bhikkhave, abahulīkataṃ yesaṃ kāyagatāsati abahulīkatā . Amataṃ tesaṃ, bhikkhave, bahulīkataṃ yesaṃ kāyagatāsati bahulīkatā’’ti.",
+   "zh": "“诸比丘，不曾多作身至念者，即不曾多作不死；多作身至念者，即多作了不死。”",
+   "n": "608"
+  },
+  {
+   "idx": 10,
+   "pali": "‘‘Amataṃ tesaṃ, bhikkhave, anabhiññātaṃ yesaṃ kāyagatāsati anabhiññātā. Amataṃ tesaṃ, bhikkhave, abhiññātaṃ yesaṃ kāyagatāsati abhiññātā’’ti.",
+   "zh": "“诸比丘，那些尚未证知身至念的人，则未证知不死。诸比丘，那些已证知身至念的人，则已证知不死。”",
+   "n": "609"
+  },
+  {
+   "idx": 11,
+   "pali": "‘‘Amataṃ tesaṃ, bhikkhave, apariññātaṃ yesaṃ kāyagatāsati apariññātā. Amataṃ tesaṃ, bhikkhave, pariññātaṃ yesaṃ kāyagatāsati pariññātā’’ti.",
+   "zh": "“诸比丘，那些尚未遍知身至念的人，则未遍知不死。诸比丘，那些已遍知身至念的人，则已遍知不死。”",
+   "n": "610"
+  },
+  {
+   "idx": 12,
+   "pali": "‘‘Amataṃ tesaṃ, bhikkhave, asacchikataṃ yesaṃ kāyagatāsati asacchikatā. Amataṃ tesaṃ, bhikkhave, sacchikataṃ yesaṃ kāyagatāsati sacchikatā’’ti. (….)",
+   "zh": "“诸比丘，那些尚未证得身至念的人，则未证得不死。诸比丘，那些已证得身至念的人，则已证得不死。”",
+   "n": "611"
+  },
+  {
+   "idx": 13,
+   "pali": "(Idamavoca bhagavā. Attamanā te bhikkhū bhagavato bhāsitaṃ abhinandunti.)",
+   "zh": "世尊如是说。那些比丘心满意足，对世尊所说欢喜信受。"
+  },
+  {
+   "idx": 15,
+   "pali": "Amatavaggo vīsatimo.",
+   "zh": "不死品第二十"
+  },
+  {
+   "idx": 16,
+   "pali": "Ekakanipātapāḷi niṭṭhitā.",
+   "zh": "一集终"
+  }
+ ]
+}

@@ -1,0 +1,241 @@
+{
+ "uid": 86,
+ "title": "1. 有学力品",
+ "nik": "AN",
+ "segs": [
+  {
+   "idx": 0,
+   "pali": "1. Paṭhamapaṇṇāsakaṃ",
+   "zh": "1. 第一组五十经"
+  },
+  {
+   "idx": 1,
+   "pali": "1. Sekhabalavaggo",
+   "zh": "1. 有学力品"
+  },
+  {
+   "idx": 2,
+   "pali": "1. Saṃkhittasuttaṃ",
+   "zh": "1. [[saṃkhittasutta|略说经]]"
+  },
+  {
+   "idx": 3,
+   "pali": "Evaṃ me sutaṃ – ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Tatra kho bhagavā bhikkhū āmantesi – ‘‘bhikkhavo’’ti. ‘‘Bhadante’’ti te bhikkhū bhagavato paccassosuṃ. Bhagavā etadavoca –",
+   "zh": "如是我闻：一时，世尊住在[[sāvatthī|舍卫城]]祇树[[Anāthapiṇḍika|给孤独]]园。在那里，世尊称呼诸比丘：“诸比丘。”那些比丘回答世尊：“尊者。”世尊如是说：",
+   "n": "1"
+  },
+  {
+   "idx": 4,
+   "pali": "‘‘Pañcimāni, bhikkhave, sekhabalāni . Katamāni pañca? Saddhābalaṃ, hirībalaṃ , ottappabalaṃ, vīriyabalaṃ , paññābalaṃ – imāni kho, bhikkhave, pañca sekhabalāni.",
+   "zh": "“诸比丘，有五种有学力。哪五种？信力、惭力、愧力、精进力、慧力。诸比丘，这便是五种有学力。”"
+  },
+  {
+   "idx": 5,
+   "pali": "‘‘Tasmātiha , bhikkhave, evaṃ sikkhitabbaṃ – ‘saddhābalena samannāgatā bhavissāma sekhabalena, hirībalena samannāgatā bhavissāma sekhabalena, ottappabalena samannāgatā bhavissāma sekhabalena, vīriyabalena samannāgatā bhavissāma sekhabalena, paññābalena samannāgatā bhavissāma sekhabalenā’ti. Evañhi vo, bhikkhave, sikkhitabba’’nti. Idamavoca bhagavā. Attamanā te bhikkhū bhagavato bhāsitaṃ abhinandunti. Paṭhamaṃ.",
+   "zh": "“因此，诸比丘，应当这样学：‘我们应当具足有学的信力、具足有学的惭力、具足有学的愧力、具足有学的精进力、具足有学的慧力。’诸比丘，你们确实应这样学。”世尊说了此语。那些比丘心满意足，欢喜世尊所说。第一经。"
+  },
+  {
+   "idx": 6,
+   "pali": "2. Vitthatasuttaṃ",
+   "zh": "2. [[vitthatasutta|广说经]]"
+  },
+  {
+   "idx": 7,
+   "pali": "‘‘Pañcimāni , bhikkhave, sekhabalāni. Katamāni pañca? Saddhābalaṃ, hirībalaṃ, ottappabalaṃ, vīriyabalaṃ, paññābalaṃ. Katamañca, bhikkhave, saddhābalaṃ? Idha, bhikkhave, ariyasāvako saddho hoti, saddahati tathāgatassa bodhiṃ – ‘itipi so bhagavā arahaṃ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṃ buddho bhagavā’ti. Idaṃ vuccati, bhikkhave, saddhābalaṃ.",
+   "zh": "“诸比丘，有五种有学力。哪五种？信力、惭力、愧力、精进力、慧力。诸比丘，什么是信力？诸比丘，在此，圣弟子具足信，于如来的觉悟生起信心，即：‘这位世尊是阿拉汉、正自觉者、明行足、善逝、世间解、无上士调御丈夫、天人师、佛陀、世尊。’诸比丘，这称为信力。”",
+   "n": "2",
+   "type": "verse"
+  },
+  {
+   "idx": 8,
+   "pali": "‘‘Katamañca, bhikkhave, hirībalaṃ? Idha, bhikkhave, ariyasāvako hirimā hoti, hirīyati kāyaduccaritena vacīduccaritena manoduccaritena, hirīyati pāpakānaṃ akusalānaṃ dhammānaṃ samāpattiyā. Idaṃ vuccati, bhikkhave, hirībalaṃ.",
+   "zh": "“诸比丘，什么是惭力？诸比丘，在此，圣弟子具惭，于身恶行、语恶行、意恶行，及成就诸恶不善法，皆生惭耻。诸比丘，这称为惭力。"
+  },
+  {
+   "idx": 9,
+   "pali": "‘‘Katamañca, bhikkhave, ottappabalaṃ? Idha, bhikkhave, ariyasāvako ottappī hoti, ottappati kāyaduccaritena vacīduccaritena manoduccaritena, ottappati pāpakānaṃ akusalānaṃ dhammānaṃ samāpattiyā. Idaṃ vuccati, bhikkhave, ottappabalaṃ.",
+   "zh": "“诸比丘，什么是愧力？在此，诸比丘，圣弟子心怀惭愧，愧于身恶行，愧于语恶行，愧于意恶行，愧于造作诸恶不善法。诸比丘，这便称为愧力。"
+  },
+  {
+   "idx": 10,
+   "pali": "‘‘Katamañca, bhikkhave, vīriyabalaṃ? Idha, bhikkhave, ariyasāvako āraddhavīriyo viharati akusalānaṃ dhammānaṃ pahānāya, kusalānaṃ dhammānaṃ upasampadāya, thāmavā daḷhaparakkamo anikkhittadhuro kusalesu dhammesu. Idaṃ vuccati, bhikkhave, vīriyabalaṃ.",
+   "zh": "“诸比丘，什么是精进力？在此，诸比丘，圣弟子为断除诸不善法、成就诸善法，精进策励而住，勇猛坚毅，于诸善法不舍其轭。诸比丘，这便称为精进力。"
+  },
+  {
+   "idx": 11,
+   "pali": "‘‘Katamañca, bhikkhave, paññābalaṃ? Idha, bhikkhave, ariyasāvako paññavā hoti udayatthagāminiyā paññāya samannāgato ariyāya nibbedhikāya sammā dukkhakkhayagāminiyā. Idaṃ vuccati, bhikkhave, paññābalaṃ. Imāni kho, bhikkhave, pañca sekhabalāni.",
+   "zh": "“诸比丘，什么是慧力？在此，诸比丘，圣弟子有智慧，具足以通达生灭、属圣者、能洞彻、正导向苦灭的智慧。诸比丘，这便称为慧力。诸比丘，这就是五种有学力。"
+  },
+  {
+   "idx": 12,
+   "pali": "‘‘Tasmātiha, bhikkhave, evaṃ sikkhitabbaṃ – ‘saddhābalena samannāgatā bhavissāma sekhabalena, hirībalena… ottappabalena … vīriyabalena… paññābalena samannāgatā bhavissāma sekhabalenā’ti. Evañhi kho, bhikkhave, sikkhitabba’’nti. Dutiyaṃ.",
+   "zh": "“诸比丘，因此，你们应当这样学：‘我们将具足信力，成就此有学之力；具足惭力……具足愧力……具足精进力……具足慧力，成就此有学之力。’诸比丘，你们应当这样学。” 第二经。"
+  },
+  {
+   "idx": 13,
+   "pali": "3. Dukkhasuttaṃ",
+   "zh": "3. [[dukkhasutta|苦经]]"
+  },
+  {
+   "idx": 14,
+   "pali": "‘‘Pañcahi, bhikkhave, dhammehi samannāgato bhikkhu diṭṭheva dhamme dukkhaṃ viharati savighātaṃ saupāyāsaṃ sapariḷāhaṃ, kāyassa ca bhedā paraṃ maraṇā duggati pāṭikaṅkhā. Katamehi pañcahi? Idha, bhikkhave, bhikkhu assaddho hoti, ahiriko hoti, anottappī hoti, kusīto hoti, duppañño hoti. Imehi kho, bhikkhave, pañcahi dhammehi samannāgato bhikkhu diṭṭheva dhamme dukkhaṃ viharati savighātaṃ saupāyāsaṃ sapariḷāhaṃ, kāyassa ca bhedā paraṃ maraṇā duggati pāṭikaṅkhā.",
+   "zh": "“诸比丘，具足五法的比丘，于现法伴随着逼恼、忧恼、热恼而住于苦，身坏命终后，当可预期堕于恶趣。哪五种呢？诸比丘，此处有比丘，无信、无惭、无愧、懈怠、劣慧。诸比丘，具足此五法的比丘，于现法伴随着逼恼、忧恼、热恼而住于苦，身坏命终后，当可预期堕于恶趣。”",
+   "n": "3"
+  },
+  {
+   "idx": 15,
+   "pali": "‘‘Pañcahi, bhikkhave, dhammehi samannāgato bhikkhu diṭṭheva dhamme sukhaṃ viharati avighātaṃ anupāyāsaṃ apariḷāhaṃ, kāyassa ca bhedā paraṃ maraṇā sugati pāṭikaṅkhā. Katamehi pañcahi? Idha, bhikkhave, bhikkhu saddho hoti, hirīmā hoti, ottappī hoti, āraddhavīriyo hoti, paññavā hoti. Imehi kho, bhikkhave, pañcahi dhammehi samannāgato bhikkhu diṭṭheva dhamme sukhaṃ viharati avighātaṃ anupāyāsaṃ apariḷāhaṃ, kāyassa ca bhedā paraṃ maraṇā sugati pāṭikaṅkhā’’ti. Tatiyaṃ.",
+   "zh": "“诸比丘，具足五法的比丘，于现法中便得安乐而住，没有恼害、没有忧结、没有热恼，身坏命终后，善趣当可期许。哪五种法？诸比丘，于此法中，比丘具足信、具足惭、具足愧、精进策发、具足慧。诸比丘，正是具足这五法的比丘，于现法中便得安乐而住，没有恼害、没有忧结、没有热恼，身坏命终后，善趣当可期许。”第三经。"
+  },
+  {
+   "idx": 16,
+   "pali": "4. Yathābhatasuttaṃ",
+   "zh": "4. [[yathābhatasutta|如所搬运经]]"
+  },
+  {
+   "idx": 17,
+   "pali": "‘‘Pañcahi, bhikkhave, dhammehi samannāgato bhikkhu yathābhataṃ nikkhitto evaṃ niraye. Katamehi pañcahi? Idha, bhikkhave, bhikkhu assaddho hoti, ahiriko hoti, anottappī hoti , kusīto hoti , duppañño hoti. Imehi kho, bhikkhave, pañcahi dhammehi samannāgato bhikkhu yathābhataṃ nikkhitto evaṃ niraye.",
+   "zh": "“诸比丘，具足五法的比丘，就如被搬运的货物般弃置在地狱。哪五种法？诸比丘，于此法中，比丘无信、无惭、无愧、懈怠、劣慧。诸比丘，正是具足这五法的比丘，就如被搬运的货物般弃置在地狱。”",
+   "n": "4"
+  },
+  {
+   "idx": 18,
+   "pali": "‘‘Pañcahi , bhikkhave, dhammehi samannāgato bhikkhu yathābhataṃ nikkhitto evaṃ sagge. Katamehi pañcahi? Idha, bhikkhave, bhikkhu saddho hoti, hirīmā hoti, ottappī hoti, āraddhavīriyo hoti, paññavā hoti. Imehi kho, bhikkhave, pañcahi dhammehi samannāgato bhikkhu yathābhataṃ nikkhitto evaṃ sagge’’ti. Catutthaṃ.",
+   "zh": "“诸比丘，具足五法的比丘，犹如被安放一般，决定生于天界。哪五种呢？在此，比丘有信心，有惭，有愧，已发精进，具足智慧。诸比丘，具足此五法的比丘，犹如被安放一般，决定生于天界。”第四经。"
+  },
+  {
+   "idx": 19,
+   "pali": "5. Sikkhāsuttaṃ",
+   "zh": "5. [[sikkhāsutta|学经]]"
+  },
+  {
+   "idx": 20,
+   "pali": "‘‘Yo hi koci, bhikkhave, bhikkhu vā bhikkhunī vā sikkhaṃ paccakkhāya hīnāyāvattati, tassa diṭṭheva dhamme pañca sahadhammikā vādānupātā gārayhā ṭhānā āgacchanti. Katame pañca? Saddhāpi nāma te nāhosi kusalesu dhammesu, hirīpi nāma te nāhosi kusalesu dhammesu, ottappampi nāma te nāhosi kusalesu dhammesu, vīriyampi nāma te nāhosi kusalesu dhammesu, paññāpi nāma te nāhosi kusalesu dhammesu. Yo hi koci, bhikkhave, bhikkhu vā bhikkhunī vā sikkhaṃ paccakkhāya hīnāyāvattati, tassa diṭṭheva dhamme ime pañca sahadhammikā vādānupātā gārayhā ṭhānā āgacchanti.",
+   "zh": "“诸比丘，任何比丘或比丘尼若舍弃学处，退堕于下劣，在现法中便会招来五种如法、正当的呵责。哪五种呢？‘你于善法确实没有信心，于善法确实没有惭耻，于善法确实没有愧惧，于善法确实没有精进，于善法确实没有智慧。’诸比丘，任何比丘或比丘尼若舍弃学处，退堕于下劣，在现法中便会招来这五种如法、正当的呵责。",
+   "n": "5"
+  },
+  {
+   "idx": 21,
+   "pali": "‘‘Yo hi koci, bhikkhave, bhikkhu vā bhikkhunī vā sahāpi dukkhena sahāpi domanassena assumukho rudamāno paripuṇṇaṃ parisuddhaṃ brahmacariyaṃ carati, tassa diṭṭheva dhamme pañca sahadhammikā pāsaṃsā ṭhānā āgacchanti. Katame pañca? Saddhāpi nāma te ahosi kusalesu dhammesu, hirīpi nāma te ahosi kusalesu dhammesu, ottappampi nāma te ahosi kusalesu dhammesu, vīriyampi nāma te ahosi kusalesu dhammesu, paññāpi nāma te ahosi kusalesu dhammesu. Yo hi koci, bhikkhave, bhikkhu vā bhikkhunī vā sahāpi dukkhena sahāpi domanassena assumukho rudamāno paripuṇṇaṃ parisuddhaṃ brahmacariyaṃ carati, tassa diṭṭheva dhamme ime pañca sahadhammikā pāsaṃsā ṭhānā āgacchantī’’ti. Pañcamaṃ.",
+   "zh": "“诸比丘，任何比丘或比丘尼，即使伴随着苦与忧，含泪哭泣而行圆满清净的梵行，于此现法中，有五种如法、应受赞叹之事生起。哪五种呢？‘你对善法确实有信，对善法确实有惭，对善法确实有愧，对善法确实有精进，对善法确实有慧。’诸比丘，任何比丘或比丘尼，即使伴随着苦与忧，含泪哭泣而行圆满清净的梵行，于此现法中，这五种如法、应受赞叹之事便会生起。”第五经。"
+  },
+  {
+   "idx": 22,
+   "pali": "6. Samāpattisuttaṃ",
+   "zh": "6. [[samāpattisutta|等至经]]"
+  },
+  {
+   "idx": 23,
+   "pali": "‘‘Na tāva, bhikkhave, akusalassa samāpatti hoti yāva saddhā paccupaṭṭhitā hoti kusalesu dhammesu. Yato ca kho, bhikkhave, saddhā antarahitā hoti, asaddhiyaṃ pariyuṭṭhāya tiṭṭhati; atha akusalassa samāpatti hoti.",
+   "zh": "“诸比丘，只要对善法的信现前，便不会有不善的等至。然而，诸比丘，当信消失，被不信缠缚而住时，那时便会有不善的等至生起。”",
+   "n": "6"
+  },
+  {
+   "idx": 24,
+   "pali": "‘‘Na tāva, bhikkhave, akusalassa samāpatti hoti yāva hirī paccupaṭṭhitā hoti kusalesu dhammesu. Yato ca kho, bhikkhave, hirī antarahitā hoti, ahirikaṃ pariyuṭṭhāya tiṭṭhati; atha akusalassa samāpatti hoti.",
+   "zh": "“诸比丘，只要惭在善法上现前，不善便不会现前；然而，诸比丘，当惭消失，无惭便遍取而住时，不善便会现前。"
+  },
+  {
+   "idx": 25,
+   "pali": "‘‘Na tāva, bhikkhave, akusalassa samāpatti hoti yāva ottappaṃ paccupaṭṭhitaṃ hoti kusalesu dhammesu. Yato ca kho, bhikkhave, ottappaṃ antarahitaṃ hoti, anottappaṃ pariyuṭṭhāya tiṭṭhati; atha akusalassa samāpatti hoti.",
+   "zh": "“诸比丘，只要愧在善法上现前，不善便不会现前；然而，诸比丘，当愧消失，无愧便遍取而住时，不善便会现前。"
+  },
+  {
+   "idx": 26,
+   "pali": "‘‘Na tāva, bhikkhave, akusalassa samāpatti hoti yāva vīriyaṃ paccupaṭṭhitaṃ hoti kusalesu dhammesu. Yato ca kho, bhikkhave, vīriyaṃ antarahitaṃ hoti, kosajjaṃ pariyuṭṭhāya tiṭṭhati; atha akusalassa samāpatti hoti.",
+   "zh": "“诸比丘，只要精进在善法中现前，不善便不会现前；然而，诸比丘，当精进消失，懈怠便遍取而住时，不善便会现前。"
+  },
+  {
+   "idx": 27,
+   "pali": "‘‘Na tāva, bhikkhave, akusalassa samāpatti hoti yāva paññā paccupaṭṭhitā hoti kusalesu dhammesu. Yato ca kho, bhikkhave, paññā antarahitā hoti, duppaññā pariyuṭṭhāya tiṭṭhati; atha akusalassa samāpatti hotī’’ti. Chaṭṭhaṃ.",
+   "zh": "“诸比丘！只要智慧现前于善法，不善便不能成就。然而，诸比丘！当智慧悄然隐没，被劣慧所缠缚而住时，不善便得以成就了。”第六。"
+  },
+  {
+   "idx": 28,
+   "pali": "7. Kāmasuttaṃ",
+   "zh": "7. [[kāmasutta|欲经]]"
+  },
+  {
+   "idx": 29,
+   "pali": "‘‘Yebhuyyena, bhikkhave, sattā kāmesu laḷitā . Asitabyābhaṅgiṃ , bhikkhave, kulaputto ohāya agārasmā anagāriyaṃ pabbajito hoti, ‘saddhāpabbajito kulaputto’ti alaṃ vacanāya. Taṃ kissa hetu? Labbhā , bhikkhave, yobbanena kāmā te ca kho yādisā vā tādisā vā. Ye ca, bhikkhave, hīnā kāmā ye ca majjhimā kāmā ye ca paṇītā kāmā , sabbe kāmā ‘kāmā’tveva saṅkhaṃ gacchanti. Seyyathāpi , bhikkhave, daharo kumāro mando uttānaseyyako dhātiyā pamādamanvāya kaṭṭhaṃ vā kaṭhalaṃ vā mukhe āhareyya. Tamenaṃ dhāti sīghaṃ sīghaṃ manasi kareyya; sīghaṃ sīghaṃ manasi karitvā sīghaṃ sīghaṃ āhareyya. No ce sakkuṇeyya sīghaṃ sīghaṃ āharituṃ, vāmena hatthena sīsaṃ pariggahetvā dakkhiṇena hatthena vaṅkaṅguliṃ karitvā salohitampi āhareyya. Taṃ kissa hetu? ‘Atthesā, bhikkhave, kumārassa vihesā; nesā natthī’ti vadāmi. Karaṇīyañca kho etaṃ , bhikkhave, dhātiyā atthakāmāya hitesiniyā anukampikāya, anukampaṃ upādāya. Yato ca kho, bhikkhave, so kumāro vuddho hoti alaṃpañño, anapekkhā dāni , bhikkhave, dhāti tasmiṃ kumāre hoti – ‘attagutto dāni kumāro nālaṃ pamādāyā’ti.",
+   "zh": "“诸比丘，世间大多数众生都耽著于欲乐。诸比丘，一位善男子舍弃镰刀连枷等农具，从在家而出家，过无家生活，他足以被称为‘出于信心而出家的善男子’。这是什么缘故呢？诸比丘，凭着年轻，的确可以获取种种欲乐，无论那是何种的欲乐。而诸比丘，不论下等的欲、中等的欲、还是上等的欲，都被统称为‘欲’。诸比丘，譬如一个仰卧的幼小婴儿，因乳母的疏忽而将木片或石头放入口中。乳母会立刻注意到，注意到后便即刻取出。如果无法立刻取出，她便用左手扶住他的头，弯曲右手的手指，即使带血也要将它取出。那是什么缘故？诸比丘，因为我说：‘此事对婴儿有伤害，绝非无害。’诸比丘，这是念及慈悲、希求利益、探寻饶益的乳母所当行之事。然而，诸比丘，当那个婴儿渐渐长大，智慧具足，乳母对那个婴儿便不再有任何忧虑，心想：‘如今孩子已能自我防护，不再放逸了。’”",
+   "n": "7"
+  },
+  {
+   "idx": 30,
+   "pali": "‘‘Evamevaṃ kho, bhikkhave, yāvakīvañca bhikkhuno saddhāya akataṃ hoti kusalesu dhammesu, hiriyā akataṃ hoti kusalesu dhammesu, ottappena akataṃ hoti kusalesu dhammesu, vīriyena akataṃ hoti kusalesu dhammesu, paññāya akataṃ hoti kusalesu dhammesu, anurakkhitabbo tāva me so, bhikkhave, bhikkhu hoti. Yato ca kho, bhikkhave, bhikkhuno saddhāya kataṃ hoti kusalesu dhammesu, hiriyā kataṃ hoti kusalesu dhammesu, ottappena kataṃ hoti kusalesu dhammesu, vīriyena kataṃ hoti kusalesu dhammesu, paññāya kataṃ hoti kusalesu dhammesu, anapekkho dānāhaṃ, bhikkhave , tasmiṃ bhikkhusmiṃ homi – ‘attagutto dāni bhikkhu nālaṃ pamādāyā’’’ti. Sattamaṃ.",
+   "zh": "“诸比丘，同样地，只要比丘尚未以信成就诸善法、尚未以惭成就诸善法、尚未以愧成就诸善法、尚未以精进成就诸善法、尚未以慧成就诸善法，诸比丘，那位比丘便应受我守护。诸比丘，当比丘已以信成就诸善法、已以惭成就诸善法、已以愧成就诸善法、已以精进成就诸善法、已以慧成就诸善法时，诸比丘，我于彼比丘即不复顾虑——‘如今比丘自能守护，不复放逸。’”第七经。"
+  },
+  {
+   "idx": 31,
+   "pali": "8. Cavanasuttaṃ",
+   "zh": "8. [[cavanasutta|死没经]]"
+  },
+  {
+   "idx": 32,
+   "pali": "‘‘Pañcahi, bhikkhave, dhammehi samannāgato bhikkhu cavati, nappatiṭṭhāti saddhamme. Katamehi pañcahi? Asaddho, bhikkhave, bhikkhu cavati, nappatiṭṭhāti saddhamme . Ahiriko, bhikkhave, bhikkhu cavati, nappatiṭṭhāti saddhamme. Anottappī, bhikkhave, bhikkhu cavati, nappatiṭṭhāti saddhamme. Kusīto, bhikkhave, bhikkhu cavati, nappatiṭṭhāti saddhamme. Duppañño, bhikkhave, bhikkhu cavati, nappatiṭṭhāti saddhamme. Imehi kho, bhikkhave, pañcahi dhammehi samannāgato bhikkhu cavati, nappatiṭṭhāti saddhamme.",
+   "zh": "“诸比丘，具足五法的比丘便会退堕，不能安住于正法。哪五种呢？诸比丘，无信的比丘退堕，不能安住于正法；无惭的比丘退堕，不能安住于正法；无愧的比丘退堕，不能安住于正法；懈怠的比丘退堕，不能安住于正法；慧劣的比丘退堕，不能安住于正法。诸比丘，具足此五法的比丘退堕，不能安住于正法。”",
+   "n": "8"
+  },
+  {
+   "idx": 33,
+   "pali": "‘‘Pañcahi , bhikkhave, dhammehi samannāgato bhikkhu na cavati, patiṭṭhāti saddhamme. Katamehi pañcahi? Saddho, bhikkhave, bhikkhu na cavati , patiṭṭhāti saddhamme. Hirīmā, bhikkhave, bhikkhu na cavati, patiṭṭhāti saddhamme. Ottappī, bhikkhave, bhikkhu na cavati, patiṭṭhāti saddhamme. Āraddhavīriyo, bhikkhave, bhikkhu na cavati, patiṭṭhāti saddhamme. Paññavā, bhikkhave, bhikkhu na cavati, patiṭṭhāti saddhamme. Imehi kho, bhikkhave, pañcahi dhammehi samannāgato bhikkhu na cavati, patiṭṭhāti saddhamme’’ti. Aṭṭhamaṃ.",
+   "zh": "“诸比丘，具足五法的比丘不退堕，安住于正法。是哪五种？诸比丘，有信的比丘不退堕，安住于正法。有惭的比丘不退堕，安住于正法。有愧的比丘不退堕，安住于正法。精进的比丘不退堕，安住于正法。有慧的比丘不退堕，安住于正法。诸比丘，具足这五法的比丘不退堕，安住于正法。”第八经。"
+  },
+  {
+   "idx": 34,
+   "pali": "9. Paṭhamaagāravasuttaṃ",
+   "zh": "9. [[paṭhamaagāravasutta|第一不恭敬经]]"
+  },
+  {
+   "idx": 35,
+   "pali": "‘‘Pañcahi, bhikkhave, dhammehi samannāgato bhikkhu agāravo appatisso cavati, nappatiṭṭhāti saddhamme. Katamehi pañcahi? Assaddho, bhikkhave, bhikkhu agāravo appatisso cavati, nappatiṭṭhāti saddhamme. Ahiriko, bhikkhave, bhikkhu agāravo appatisso cavati, nappatiṭṭhāti saddhamme. Anottappī, bhikkhave, bhikkhu agāravo appatisso cavati, nappatiṭṭhāti saddhamme. Kusīto , bhikkhave, bhikkhu agāravo appatisso cavati, nappatiṭṭhāti saddhamme. Duppañño, bhikkhave, bhikkhu agāravo appatisso cavati, nappatiṭṭhāti saddhamme. Imehi kho, bhikkhave, pañcahi dhammehi samannāgato bhikkhu agāravo appatisso cavati, nappatiṭṭhāti saddhamme.",
+   "zh": "“诸比丘，具足五法的比丘不恭敬、不尊重，便会退堕，不安住于正法。是哪五种？诸比丘，无信的比丘不恭敬、不尊重，退堕，不安住于正法。无惭的比丘不恭敬、不尊重，退堕，不安住于正法。无愧的比丘不恭敬、不尊重，退堕，不安住于正法。懈怠的比丘不恭敬、不尊重，退堕，不安住于正法。劣慧的比丘不恭敬、不尊重，退堕，不安住于正法。诸比丘，具足这五法的比丘不恭敬、不尊重，退堕，不安住于正法。",
+   "n": "9"
+  },
+  {
+   "idx": 36,
+   "pali": "‘‘Pañcahi , bhikkhave, dhammehi samannāgato bhikkhu sagāravo sappatisso na cavati, patiṭṭhāti saddhamme. Katamehi pañcahi? Saddho, bhikkhave, bhikkhu sagāravo sappatisso na cavati, patiṭṭhāti saddhamme. Hirimā, bhikkhave, bhikkhu sagāravo sappatisso na cavati, patiṭṭhāti saddhamme. Ottappī, bhikkhave, bhikkhu sagāravo sappatisso na cavati, patiṭṭhāti saddhamme. Āraddhavīriyo, bhikkhave, bhikkhu sagāravo sappatisso na cavati, patiṭṭhāti saddhamme. Paññavā, bhikkhave, bhikkhu sagāravo sappatisso na cavati, patiṭṭhāti saddhamme. Imehi kho, bhikkhave, pañcahi dhammehi samannāgato bhikkhu sagāravo sappatisso na cavati, patiṭṭhāti saddhamme’’ti. Navamaṃ.",
+   "zh": "“诸比丘，具足五法的比丘，心怀恭敬与尊重，不退堕，安住于正法。哪五种？诸比丘，有信的比丘，心怀恭敬与尊重，不退堕，安住于正法。有惭的比丘，心怀恭敬与尊重，不退堕，安住于正法。有愧的比丘，心怀恭敬与尊重，不退堕，安住于正法。精进的比丘，心怀恭敬与尊重，不退堕，安住于正法。有慧的比丘，心怀恭敬与尊重，不退堕，安住于正法。诸比丘，具足此五法的比丘，心怀恭敬与尊重，不退堕，安住于正法。”第九经。"
+  },
+  {
+   "idx": 37,
+   "pali": "10. Dutiyaagāravasuttaṃ",
+   "zh": "10. [[dutiyaagāravasutta|第二不恭敬经]]"
+  },
+  {
+   "idx": 38,
+   "pali": "‘‘Pañcahi , bhikkhave, dhammehi samannāgato bhikkhu agāravo appatisso abhabbo imasmiṃ dhammavinaye vuddhiṃ virūḷhiṃ vepullaṃ āpajjituṃ. Katamehi pañcahi? Assaddho, bhikkhave, bhikkhu agāravo appatisso abhabbo imasmiṃ dhammavinaye vuddhiṃ virūḷhiṃ vepullaṃ āpajjituṃ. Ahiriko, bhikkhave, bhikkhu agāravo appatisso abhabbo imasmiṃ dhammavinaye vuddhiṃ virūḷhiṃ vepullaṃ āpajjituṃ. Anottappī, bhikkhave, bhikkhu agāravo appatisso abhabbo imasmiṃ dhammavinaye vuddhiṃ virūḷhiṃ vepullaṃ āpajjituṃ. Kusīto, bhikkhave, bhikkhu agāravo appatisso abhabbo imasmiṃ dhammavinaye vuddhiṃ virūḷhiṃ vepullaṃ āpajjituṃ. Duppañño, bhikkhave, bhikkhu agāravo appatisso abhabbo imasmiṃ dhammavinaye vuddhiṃ virūḷhiṃ vepullaṃ āpajjituṃ. Imehi kho, bhikkhave, pañcahi dhammehi samannāgato bhikkhu agāravo appatisso abhabbo imasmiṃ dhammavinaye vuddhiṃ virūḷhiṃ vepullaṃ āpajjituṃ.",
+   "zh": "“诸比丘，具足五法的比丘，无恭敬、无尊重，不能于此法律中获得增长、增广、圆满。哪五种？诸比丘，无信的比丘，无恭敬、无尊重，不能于此法律中获得增长、增广、圆满。无惭的比丘，无恭敬、无尊重，不能于此法律中获得增长、增广、圆满。无愧的比丘，无恭敬、无尊重，不能于此法律中获得增长、增广、圆满。懈怠的比丘，无恭敬、无尊重，不能于此法律中获得增长、增广、圆满。劣慧的比丘，无恭敬、无尊重，不能于此法律中获得增长、增广、圆满。诸比丘，具足此五法的比丘，无恭敬、无尊重，不能于此法律中获得增长、增广、圆满。",
+   "n": "10",
+   "type": "verse"
+  },
+  {
+   "idx": 39,
+   "pali": "‘‘Pañcahi, bhikkhave, dhammehi samannāgato bhikkhu sagāravo sappatisso bhabbo imasmiṃ dhammavinaye vuddhiṃ virūḷhiṃ vepullaṃ āpajjituṃ. Katamehi pañcahi? Saddho, bhikkhave, bhikkhu sagāravo sappatisso bhabbo imasmiṃ dhammavinaye vuddhiṃ virūḷhiṃ vepullaṃ āpajjituṃ. Hirīmā, bhikkhave, bhikkhu…pe… ottappī, bhikkhave , bhikkhu…pe… āraddhavīriyo, bhikkhave, bhikkhu…pe… paññavā, bhikkhave, bhikkhu sagāravo sappatisso bhabbo imasmiṃ dhammavinaye vuddhiṃ virūḷhiṃ vepullaṃ āpajjituṃ. Imehi kho, bhikkhave , pañcahi dhammehi samannāgato bhikkhu sagāravo sappatisso bhabbo imasmiṃ dhammavinaye vuddhiṃ virūḷhiṃ vepullaṃ āpajjitu’’nti. Dasamaṃ.",
+   "zh": "“诸比丘，比丘具足五法，便有恭敬、有尊重，能于此法律中获得增长、增广、圆满。哪五种？诸比丘，有信的比丘有恭敬、有尊重，能于此法律中获得增长、增广、圆满。诸比丘，有惭的比丘……诸比丘，有愧的比丘……诸比丘，精进的比丘……诸比丘，有慧的比丘有恭敬、有尊重，能于此法律中获得增长、增广、圆满。诸比丘，比丘具足这五法，便有恭敬、有尊重，能于此法律中获得增长、增广、圆满。”第十经。"
+  },
+  {
+   "idx": 40,
+   "pali": "Sekhabalavaggo paṭhamo.",
+   "zh": "有学力品第一"
+  },
+  {
+   "idx": 41,
+   "pali": "Tassuddānaṃ –",
+   "zh": "其摄颂："
+  },
+  {
+   "type": "verse",
+   "idx": 42,
+   "pali": "Saṃkhittaṃ vitthataṃ dukkhā, bhataṃ sikkhāya pañcamaṃ;",
+   "zh": "略说、广说、苦、受持，学为第五；"
+  },
+  {
+   "idx": 43,
+   "pali": "Samāpatti ca kāmesu, cavanā dve agāravāti.",
+   "zh": "等至与诸欲，退堕二种、无恭敬。",
+   "type": "verse"
+  }
+ ]
+}

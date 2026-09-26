@@ -1,0 +1,2555 @@
+{
+ "uid": 30,
+ "title": "三十二相经",
+ "nik": "DN",
+ "segs": [
+  {
+   "idx": 432,
+   "pali": "7. Lakkhaṇasuttaṃ",
+   "zh": "7. 三十二[[lakkhaṇasutta|相经]]"
+  },
+  {
+   "idx": 1,
+   "pali": "Dvattiṃsamahāpurisalakkhaṇāni",
+   "zh": "三十二种大人相"
+  },
+  {
+   "idx": 2,
+   "pali": "Evaṃ me sutaṃ – ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme. Tatra kho bhagavā bhikkhū āmantesi – ‘‘bhikkhavo’’ti. ‘‘Bhaddante’’ti te bhikkhū bhagavato paccassosuṃ. Bhagavā etadavoca –",
+   "zh": "如是我闻：一时，世尊住在[[sāvatthī|舍卫城]]的祇树[[Anāthapiṇḍika|给孤独]]园。于其处，世尊对比丘们说：“诸比丘。”比丘们回答：“尊者。”世尊这样说道：",
+   "n": "198"
+  },
+  {
+   "idx": 3,
+   "pali": "‘‘Dvattiṃsimāni, bhikkhave, mahāpurisassa mahāpurisalakkhaṇāni, yehi samannāgatassa mahāpurisassa dveva gatiyo bhavanti anaññā. Sace agāraṃ ajjhāvasati, rājā hoti cakkavattī dhammiko dhammarājā cāturanto vijitāvī janapadatthāvariyappatto sattaratanasamannāgato. Tassimāni satta ratanāni bhavanti; seyyathidaṃ, cakkaratanaṃ hatthiratanaṃ assaratanaṃ maṇiratanaṃ itthiratanaṃ gahapatiratanaṃ pariṇāyakaratanameva sattamaṃ. Parosahassaṃ kho panassa puttā bhavanti sūrā vīraṅgarūpā parasenappamaddanā. So imaṃ pathaviṃ sāgarapariyantaṃ adaṇḍena asatthena dhammena abhivijiya ajjhāvasati. Sace kho pana agārasmā anagāriyaṃ pabbajati, arahaṃ hoti sammāsambuddho loke vivaṭṭacchado .",
+   "zh": "“诸比丘，此三十二相，即是大丈夫之相。具足这些相的大丈夫，唯有两种去处，再无其他。若他居于家中，则成为转轮王，如法的法王，威服四方，国土安稳，具足七宝。彼有此七宝，即：轮宝、象宝、马宝、摩尼宝、女宝、居士宝、将军宝为第七。其子超逾千人，皆勇健英武，身姿雄猛，能摧伏敌军。他无需用杖、用剑，唯以正法统御此大地，至于大海边际。若他从在家生活出家，过无家的生活，则成为阿拉汉、正自觉者，揭开世间的覆障。”",
+   "n": "199"
+  },
+  {
+   "idx": 4,
+   "pali": "‘‘Katamāni ca tāni, bhikkhave, dvattiṃsa mahāpurisassa mahāpurisalakkhaṇāni, yehi samannāgatassa mahāpurisassa dveva gatiyo bhavanti anaññā? Sace agāraṃ ajjhāvasati, rājā hoti cakkavattī…pe… sace kho pana agārasmā anagāriyaṃ pabbajati, arahaṃ hoti sammāsambuddho loke vivaṭṭacchado.",
+   "zh": "“诸比丘，什么是大丈夫的三十二种大人相，令具足者唯有两种去处，别无其他？若在家，则成为转轮王……若离家而出家，过无家生活，则成为阿拉汉、正自觉者，为世间揭开覆盖。”",
+   "n": "200"
+  },
+  {
+   "idx": 5,
+   "pali": "‘‘Idha, bhikkhave, mahāpuriso suppatiṭṭhitapādo hoti. Yampi, bhikkhave, mahāpuriso suppatiṭṭhitapādo hoti, idampi, bhikkhave, mahāpurisassa mahāpurisalakkhaṇaṃ bhavati.",
+   "zh": "“诸比丘，大丈夫有平稳安立的脚掌。诸比丘，大丈夫有平稳安立的脚掌，这就是大丈夫的一种大人相。”"
+  },
+  {
+   "idx": 6,
+   "pali": "‘‘Puna caparaṃ, bhikkhave, mahāpurisassa heṭṭhāpādatalesu cakkāni jātāni honti sahassārāni sanemikāni sanābhikāni sabbākāraparipūrāni . Yampi , bhikkhave, mahāpurisassa heṭṭhāpādatalesu cakkāni jātāni honti sahassārāni sanemikāni sanābhikāni sabbākāraparipūrāni, idampi, bhikkhave, mahāpurisassa mahāpurisalakkhaṇaṃ bhavati.",
+   "zh": "“复次，诸比丘，大丈夫的脚掌下方生有千辐轮相，具足轮辋与轮毂，一切形相圆满。诸比丘，大丈夫脚掌下方生有千辐、轮辋、轮毂、一切形相圆满的轮相，这也是大丈夫的一种大人相。”"
+  },
+  {
+   "idx": 7,
+   "pali": "‘‘Puna caparaṃ, bhikkhave, mahāpuriso āyatapaṇhi hoti…pe… dīghaṅguli hoti… mudutalunahatthapādo hoti… jālahatthapādo hoti… ussaṅkhapādo hoti… eṇijaṅgho hoti… ṭhitakova anonamanto ubhohi pāṇitalehi jaṇṇukāni parimasati parimajjati… kosohitavatthaguyho hoti… suvaṇṇavaṇṇo hoti kañcanasannibhattaco… sukhumacchavi hoti, sukhumattā chaviyā rajojallaṃ kāye na upalimpati… ekekalomo hoti, ekekāni lomāni lomakūpesu jātāni… uddhaggalomo hoti, uddhaggāni lomāni jātāni nīlāni añjanavaṇṇāni kuṇḍalāvaṭṭāni dakkhiṇāvaṭṭakajātāni … brahmujugatto hoti… sattussado hoti… sīhapubbaddhakāyo hoti… citantaraṃso hoti… nigrodhaparimaṇḍalo hoti, yāvatakvassa kāyo tāvatakvassa byāmo yāvatakvassa byāmo tāvatakvassa kāyo… samavaṭṭakkhandho hoti… rasaggasaggī hoti… sīhahanu hoti… cattālīsadanto hoti … samadanto hoti… aviraḷadanto hoti… susukkadāṭho hoti… pahūtajivho hoti… brahmassaro hoti karavīkabhāṇī… abhinīlanetto hoti… gopakhumo hoti… uṇṇā bhamukantare jātā hoti, odātā mudutūlasannibhā. Yampi, bhikkhave, mahāpurisassa uṇṇā bhamukantare jātā hoti, odātā mudutūlasannibhā, idampi, bhikkhave, mahāpurisassa mahāpurisalakkhaṇaṃ bhavati.",
+   "zh": "“再者，诸比丘，大丈夫足跟平整……手指修长……手足柔软细嫩……手足如网缦……足踝高起……小腿如伊尼鹿……站立时不须弯腰，双手掌即能触摸膝盖……阴藏隐秘……身色金黄，如黄金之色……皮肤细滑，皮肤细滑故，尘垢不沾于身……一毛孔生一毛，毛孔各各生毛……身毛上旋，诸毛向上而住，色青如眼药色，右旋成螺旋状……身直如梵……七处隆满……上半身如师子……肩膊饱满……身如榕树树般周正，身高等于两臂展开之长，两臂展开之长亦等于身高……肩膊平整……味中最上……颔如师子……有四十齿……齿平齐……齿无间缝……齿极洁白……舌广长……梵音声如迦罗频伽鸟……眼色深青……睫毛如牛王……眉间生白毫，洁白柔软如绵絮。诸比丘，大丈夫眉间生白毫，洁白柔软如绵絮，诸比丘，此亦是大丈夫之大人相。"
+  },
+  {
+   "idx": 8,
+   "pali": "‘‘Puna caparaṃ, bhikkhave, mahāpuriso uṇhīsasīso hoti. Yampi, bhikkhave, mahāpuriso uṇhīsasīso hoti, idampi, bhikkhave, mahāpurisassa mahāpurisalakkhaṇaṃ bhavati.",
+   "zh": "“复次，诸比丘，大丈夫顶如头巾。诸比丘，大丈夫顶如头巾，这也是大丈夫的大人相。"
+  },
+  {
+   "idx": 9,
+   "pali": "‘‘Imāni kho tāni, bhikkhave, dvattiṃsa mahāpurisassa mahāpurisalakkhaṇāni, yehi samannāgatassa mahāpurisassa dveva gatiyo bhavanti anaññā. Sace agāraṃ ajjhāvasati, rājā hoti cakkavattī…pe… sace kho pana agārasmā anagāriyaṃ pabbajati, arahaṃ hoti sammāsambuddho loke vivaṭṭacchado.",
+   "zh": "“诸比丘，这便是大丈夫的三十二种大人相。具足这些相的大丈夫，唯有两种趣向，别无其他。若居家，则为转轮王……（中略）……若从在家出家而过无家生活，则成为阿拉汉、正自觉者，在世间揭开覆盖者。"
+  },
+  {
+   "idx": 10,
+   "pali": "‘‘Imāni kho, bhikkhave, dvattiṃsa mahāpurisassa mahāpurisalakkhaṇāni bāhirakāpi isayo dhārenti, no ca kho te jānanti – ‘imassa kammassa kaṭattā idaṃ lakkhaṇaṃ paṭilabhatī’ti.",
+   "zh": "“比丘们，这三十二大人相，外道的修行者们也记得，但他们并未了知：“因造何业，而得此相。””"
+  },
+  {
+   "idx": 11,
+   "pali": "(1) Suppatiṭṭhitapādatālakkhaṇaṃ",
+   "zh": "（1） 足善安立相"
+  },
+  {
+   "idx": 12,
+   "pali": "‘‘Yampi, bhikkhave, tathāgato purimaṃ jātiṃ purimaṃ bhavaṃ purimaṃ niketaṃ pubbe manussabhūto samāno daḷhasamādāno ahosi kusalesu dhammesu, avatthitasamādāno kāyasucarite vacīsucarite manosucarite dānasaṃvibhāge sīlasamādāne uposathupavāse matteyyatāya petteyyatāya sāmaññatāya brahmaññatāya kule jeṭṭhāpacāyitāya aññataraññataresu ca adhikusalesu dhammesu . So tassa kammassa kaṭattā upacitattā ussannattā vipulattā kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjati. So tattha aññe deve dasahi ṭhānehi adhiggaṇhāti dibbena āyunā dibbena vaṇṇena dibbena sukhena dibbena yasena dibbena ādhipateyyena dibbehi rūpehi dibbehi saddehi dibbehi gandhehi dibbehi rasehi dibbehi phoṭṭhabbehi. So tato cuto itthattaṃ āgato samāno imaṃ mahāpurisalakkhaṇaṃ paṭilabhati. Suppatiṭṭhitapādo hoti. Samaṃ pādaṃ bhūmiyaṃ nikkhipati, samaṃ uddharati, samaṃ sabbāvantehi pādatalehi bhūmiṃ phusati.",
+   "zh": "“比丘们，如来在过去无量的生世、存在、居所中，往昔生于人间时，于善法坚固受持、坚住不移；于身善行、语善行、意善行、布施分享、持守戒律、布萨斋戒、尊敬父母、恭敬沙门、尊崇婆罗门、敬重族中长者，以及种种增上善法，皆坚守护持。他造作、累积、增长、圆满这些业；身坏命终之后，投生到善趣、天界。彼处，他以十种方式超胜于其他诸天神：天寿、天颜、天乐、天誉、天主权、天色、天声、天香、天味、天触。从彼处殁后，来到现世，获得此大人相：足善安立。他平正下足，平正抬足，以整个脚掌平正触地。",
+   "n": "201"
+  },
+  {
+   "idx": 13,
+   "pali": "‘‘So tena lakkhaṇena samannāgato sace agāraṃ ajjhāvasati, rājā hoti cakkavattī dhammiko dhammarājā cāturanto vijitāvī janapadatthāvariyappatto sattaratanasamannāgato. Tassimāni satta ratanāni bhavanti; seyyathidaṃ, cakkaratanaṃ hatthiratanaṃ assaratanaṃ maṇiratanaṃ itthiratanaṃ gahapatiratanaṃ pariṇāyakaratanameva sattamaṃ. Parosahassaṃ kho panassa puttā bhavanti sūrā vīraṅgarūpā parasenappamaddanā. So imaṃ pathaviṃ sāgarapariyantaṃ akhilamanimittamakaṇṭakaṃ iddhaṃ phītaṃ khemaṃ sivaṃ nirabbudaṃ adaṇḍena asatthena dhammena abhivijiya ajjhāvasati . Rājā samāno kiṃ labhati? Akkhambhiyo hoti kenaci manussabhūtena paccatthikena paccāmittena. Rājā samāno idaṃ labhati. ‘‘Sace kho pana agārasmā anagāriyaṃ pabbajati, arahaṃ hoti sammāsambuddho loke vivaṭṭacchado. Buddho samāno kiṃ labhati? Akkhambhiyo hoti abbhantarehi vā bāhirehi vā paccatthikehi paccāmittehi rāgena vā dosena vā mohena vā samaṇena vā brāhmaṇena vā devena vā mārena vā brahmunā vā kenaci vā lokasmiṃ. Buddho samāno idaṃ labhati’’. Etamatthaṃ bhagavā avoca.",
+   "zh": "“具足此相之人，若在家生活，便成为转轮王、如法的法王，征服四方，国土安稳，具足七宝。他所拥有的七宝是：轮宝、象宝、马宝、摩尼宝、女宝、居士宝、将军宝为第七。他育有千子以上，个个勇猛、英武雄健、能摧破敌军。他不依刀杖，唯以法征服此直至海际的大地，令其无荒芜、无灾兆、无荆棘，繁荣、富足、安稳、吉祥、无有祸患，并安住其中。作为王，他获得什么？他不为任何身为人类的怨敌、对手所动摇。作为王，他获得的就是这些。若他离家过无家的生活，则成为阿拉汉、正自觉者，为世间揭开覆盖。作为佛陀，他获得什么？他不为任何内在或外在的怨敌、对手所动摇，不为贪、不为嗔、不为痴，不为沙门、不为婆罗门、不为天、不为魔、不为梵天神，不为世间任何人所动摇。作为佛陀，他获得的就是这些。”世尊如此宣说了这个义理。",
+   "n": "202"
+  },
+  {
+   "idx": 14,
+   "pali": "Tatthetaṃ vuccati –",
+   "zh": "关于此，有偈颂如是说：",
+   "n": "203"
+  },
+  {
+   "idx": 15,
+   "pali": "‘‘Sacce ca dhamme ca dame ca saṃyame,",
+   "zh": "“真谛、正法、调御与自制，",
+   "type": "verse"
+  },
+  {
+   "idx": 16,
+   "pali": "Soceyyasīlālayuposathesu ca;",
+   "zh": "清净、持戒、布萨，",
+   "type": "verse"
+  },
+  {
+   "idx": 17,
+   "pali": "Dāne ahiṃsāya asāhase rato,",
+   "zh": "乐行布施、不害、不粗暴，",
+   "type": "verse"
+  },
+  {
+   "idx": 18,
+   "pali": "Daḷhaṃ samādāya samattamācari .",
+   "zh": "坚固受持后，圆满而行。",
+   "type": "verse"
+  },
+  {
+   "idx": 19,
+   "pali": "‘‘So tena kammena divaṃ samakkami ,",
+   "zh": "“他以此业往生天界，”",
+   "type": "verse"
+  },
+  {
+   "idx": 20,
+   "pali": "Sukhañca khiḍḍāratiyo ca anvabhi ;",
+   "zh": "“得享喜乐与嬉戏；”",
+   "type": "verse"
+  },
+  {
+   "idx": 21,
+   "pali": "Tato cavitvā punarāgato idha,",
+   "zh": "“从彼处命终，又复还归此间。”",
+   "type": "verse"
+  },
+  {
+   "idx": 22,
+   "pali": "Samehi pādehi phusī vasundharaṃ.",
+   "zh": "“以平稳的双足安踏于大地。”",
+   "type": "verse"
+  },
+  {
+   "idx": 23,
+   "pali": "‘‘Byākaṃsu veyyañjanikā samāgatā,",
+   "zh": "“相师们齐聚，宣说：”",
+   "type": "verse"
+  },
+  {
+   "idx": 24,
+   "pali": "Samappatiṭṭhassa na hoti khambhanā;",
+   "zh": "“步伐平稳者，无有滞碍；”",
+   "type": "verse"
+  },
+  {
+   "idx": 25,
+   "pali": "Gihissa vā pabbajitassa vā puna ,",
+   "zh": "无论在家者还是出家者，",
+   "type": "verse"
+  },
+  {
+   "idx": 26,
+   "pali": "Taṃ lakkhaṇaṃ bhavati tadatthajotakaṃ.",
+   "zh": "“此相即显示其义。”",
+   "type": "verse"
+  },
+  {
+   "idx": 27,
+   "pali": "‘‘Akkhambhiyo hoti agāramāvasaṃ,",
+   "zh": "“他安住家中，不可动摇。",
+   "type": "verse"
+  },
+  {
+   "idx": 28,
+   "pali": "Parābhibhū sattubhi nappamaddano;",
+   "zh": "他降伏众敌，而不为所败；",
+   "type": "verse"
+  },
+  {
+   "idx": 29,
+   "pali": "Manussabhūtenidha hoti kenaci,",
+   "zh": "他生而为人时，无论何人，",
+   "type": "verse"
+  },
+  {
+   "idx": 30,
+   "pali": "Akkhambhiyo tassa phalena kammuno.",
+   "zh": "以此业果，他不可摧伏。",
+   "type": "verse"
+  },
+  {
+   "idx": 31,
+   "pali": "‘‘Sace ca pabbajjamupeti tādiso,",
+   "zh": "“若这些人选择出家，",
+   "type": "verse"
+  },
+  {
+   "idx": 32,
+   "pali": "Nekkhammachandābhirato vicakkhaṇo;",
+   "zh": "欣乐出离，明见具慧者；",
+   "type": "verse"
+  },
+  {
+   "idx": 33,
+   "pali": "Aggo na so gacchati jātu khambhanaṃ,",
+   "zh": "此最胜者，绝不动摇。",
+   "type": "verse"
+  },
+  {
+   "idx": 34,
+   "pali": "Naruttamo esa hi tassa dhammatā’’ti.",
+   "zh": "此人中至上者，这确实是他的法性。”",
+   "type": "verse"
+  },
+  {
+   "idx": 35,
+   "pali": "(2) Pādatalacakkalakkhaṇaṃ",
+   "zh": "（2）足底轮相"
+  },
+  {
+   "idx": 36,
+   "pali": "‘‘Yampi, bhikkhave, tathāgato purimaṃ jātiṃ purimaṃ bhavaṃ purimaṃ niketaṃ pubbe manussabhūto samāno bahujanassa sukhāvaho ahosi, ubbegauttāsabhayaṃ apanuditā, dhammikañca rakkhāvaraṇaguttiṃ saṃvidhātā, saparivārañca dānaṃ adāsi. So tassa kammassa kaṭattā upacitattā ussannattā vipulattā kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjati…pe… so tato cuto itthattaṃ āgato samāno imaṃ mahāpurisalakkhaṇaṃ paṭilabhati. Heṭṭhāpādatalesu cakkāni jātāni honti sahassārāni sanemikāni sanābhikāni sabbākāraparipūrāni suvibhattantarāni.",
+   "zh": "“诸比丘！如来于过去生、过去有、过去住处，往昔作为人时，曾为众人带来安乐，消除惊惶、恐惧与怖畏，施设如法的守护、防护与保护，并给予有眷属的布施。以此业已作、已累积、已增长、已广大的缘故，身坏命终后往生善趣、天界……从彼处死后转生至此，获得此大人相：足底有千辐轮，具足轮辋、轮毂，一切形相圆满，各部分分明。”",
+   "n": "204"
+  },
+  {
+   "idx": 37,
+   "pali": "‘‘So tena lakkhaṇena samannāgato sace agāraṃ ajjhāvasati, rājā hoti cakkavattī…pe… rājā samāno kiṃ labhati? Mahāparivāro hoti; mahāssa honti parivārā brāhmaṇagahapatikā negamajānapadā gaṇakamahāmattā anīkaṭṭhā dovārikā amaccā pārisajjā rājāno bhogiyā kumārā. Rājā samāno idaṃ labhati. Sace kho pana agārasmā anagāriyaṃ pabbajati, arahaṃ hoti sammāsambuddho loke vivaṭṭacchado. Buddho samāno kiṃ labhati? Mahāparivāro hoti; mahāssa honti parivārā bhikkhū bhikkhuniyo upāsakā upāsikāyo devā manussā asurā nāgā gandhabbā. Buddho samāno idaṃ labhati’’. Etamatthaṃ bhagavā avoca.",
+   "zh": "“具足此相者，若居住在家，则成为转轮王……作为王，他获得什么？他拥有大眷属——有众多的婆罗门、居士、城乡民众、财务大臣、军队统帅、守门人、大臣、随从、诸王、富豪与王子。作为王，他获得的就是这些。若他离家过无家的生活，则成为阿拉汉、正自觉者，为世间揭开覆盖。作为佛陀，他获得什么？他拥有大眷属——有众多的比丘、比丘尼、近事男、近事女、天、人、阿修罗、龙、乾闼婆。作为佛陀，他获得的就是这些。”世尊如此宣说了这个义理。"
+  },
+  {
+   "idx": 38,
+   "pali": "Tatthetaṃ vuccati –",
+   "zh": "于此，有偈颂说：",
+   "n": "205"
+  },
+  {
+   "idx": 39,
+   "pali": "‘‘Pure puratthā purimāsu jātisu,",
+   "zh": "“往昔，从前，在过去的诸生之中，",
+   "type": "verse"
+  },
+  {
+   "idx": 40,
+   "pali": "Manussabhūto bahunaṃ sukhāvaho;",
+   "zh": "“生而为人，为大众带来安乐；”",
+   "type": "verse"
+  },
+  {
+   "idx": 41,
+   "pali": "Ubbhegauttāsabhayāpanūdano,",
+   "zh": "“驱除惊慌、恐惧与怖畏，”",
+   "type": "verse"
+  },
+  {
+   "idx": 42,
+   "pali": "Guttīsu rakkhāvaraṇesu ussuko.",
+   "zh": "精勤于守护、保护与防护。",
+   "type": "verse"
+  },
+  {
+   "idx": 43,
+   "pali": "‘‘So tena kammena divaṃ samakkami,",
+   "zh": "“他以此业往生天界，”",
+   "type": "verse"
+  },
+  {
+   "idx": 44,
+   "pali": "Sukhañca khiḍḍāratiyo ca anvabhi;",
+   "zh": "他受用喜乐与欢娱；",
+   "type": "verse"
+  },
+  {
+   "idx": 45,
+   "pali": "Tato cavitvā punarāgato idha,",
+   "zh": "从那里命终，还生此处；",
+   "type": "verse"
+  },
+  {
+   "idx": 46,
+   "pali": "Cakkāni pādesu duvesu vindati.",
+   "zh": "双足呈现轮相。",
+   "type": "verse"
+  },
+  {
+   "idx": 47,
+   "pali": "‘‘Samantanemīni sahassarāni ca,",
+   "zh": "“轮辋圆满，千辐具足，",
+   "type": "verse"
+  },
+  {
+   "idx": 48,
+   "pali": "Byākaṃsu veyyañjanikā samāgatā;",
+   "zh": "聚集的相师们解说道：",
+   "type": "verse"
+  },
+  {
+   "idx": 49,
+   "pali": "Disvā kumāraṃ satapuññalakkhaṇaṃ,",
+   "zh": "见到那位具足百福德相的童子",
+   "type": "verse"
+  },
+  {
+   "idx": 50,
+   "pali": "Parivāravā hessati sattumaddano.",
+   "zh": "降伏敌人者，将有眷属围绕",
+   "type": "verse"
+  },
+  {
+   "idx": 51,
+   "pali": "Tathā hī cakkāni samantanemini,",
+   "zh": "确实如此，此轮相具足周匝轮辋",
+   "type": "verse"
+  },
+  {
+   "idx": 52,
+   "pali": "Sace na pabbajjamupeti tādiso;",
+   "zh": "倘若如此之人不出家，",
+   "type": "verse"
+  },
+  {
+   "idx": 53,
+   "pali": "Vatteti cakkaṃ pathaviṃ pasāsati,",
+   "zh": "他将转轮，统理大地，",
+   "type": "verse"
+  },
+  {
+   "idx": 54,
+   "pali": "Tassānuyantādha bhavanti khattiyā.",
+   "zh": "刹帝利众皆为其随从。",
+   "type": "verse"
+  },
+  {
+   "idx": 55,
+   "pali": "‘‘Mahāyasaṃ saṃparivārayanti naṃ,",
+   "zh": "“大众簇拥其荣光，",
+   "type": "verse"
+  },
+  {
+   "idx": 56,
+   "pali": "Sace ca pabbajjamupeti tādiso;",
+   "zh": "如此之人，若选择出家的生活，",
+   "type": "verse"
+  },
+  {
+   "idx": 57,
+   "pali": "Nekkhammachandābhirato vicakkhaṇo,",
+   "zh": "他明见而喜乐于出离，具足智慧，",
+   "type": "verse"
+  },
+  {
+   "idx": 58,
+   "pali": "Devāmanussāsurasakkarakkhasā .",
+   "zh": "天人、世人、阿修罗、帝释天神、罗刹，",
+   "type": "verse"
+  },
+  {
+   "idx": 59,
+   "pali": "‘‘Gandhabbanāgā vihagā catuppadā,",
+   "zh": "“乾闼婆、龙、飞鸟、四足之兽，",
+   "type": "verse"
+  },
+  {
+   "idx": 60,
+   "pali": "Anuttaraṃ devamanussapūjitaṃ;",
+   "zh": "皆归向那无上尊荣、为天人所礼敬者。",
+   "type": "verse"
+  },
+  {
+   "idx": 61,
+   "pali": "Mahāyasaṃ saṃparivārayanti na’’nti.",
+   "zh": "大名声者，众所归仰。”",
+   "type": "verse"
+  },
+  {
+   "idx": 62,
+   "pali": "(3-5) Āyatapaṇhitāditilakkhaṇaṃ",
+   "zh": "（3-5）长足跟等三相"
+  },
+  {
+   "idx": 63,
+   "pali": "‘‘Yampi, bhikkhave, tathāgato purimaṃ jātiṃ purimaṃ bhavaṃ purimaṃ niketaṃ pubbe manussabhūto samāno pāṇātipātaṃ pahāya pāṇātipātā paṭivirato ahosi nihitadaṇḍo nihitasattho lajjī dayāpanno, sabbapāṇabhūtahitānukampī vihāsi. So tassa kammassa kaṭattā upacitattā ussannattā vipulattā…pe… so tato cuto itthattaṃ āgato samāno imāni tīṇi mahāpurisalakkhaṇāni paṭilabhati. Āyatapaṇhi ca hoti, dīghaṅguli ca brahmujugatto ca.",
+   "zh": "“诸比丘！如来在过去生、过去有、过去住处，曾为人时，舍断杀生，远离杀生，放下棍棒与刀剑，具惭耻，具悲悯，为利益与哀愍一切众生而安住。由于此业已作、已积集、已增盛、已广大……从彼处命终后，来到此处，获得此三种大人相：足跟长、手指长、身躯正直。",
+   "n": "206"
+  },
+  {
+   "idx": 64,
+   "pali": "‘‘So tehi lakkhaṇehi samannāgato sace agāraṃ ajjhāvasati, rājā hoti cakkavattī…pe… rājā samāno kiṃ labhati? Dīghāyuko hoti ciraṭṭhitiko, dīghamāyuṃ pāleti, na sakkā hoti antarā jīvitā voropetuṃ kenaci manussabhūtena paccatthikena paccāmittena . Rājā samāno idaṃ labhati… buddho samāno kiṃ labhati? Dīghāyuko hoti ciraṭṭhitiko, dīghamāyuṃ pāleti, na sakkā hoti antarā jīvitā voropetuṃ paccatthikehi paccāmittehi samaṇena vā brāhmaṇena vā devena vā mārena vā brahmunā vā kenaci vā lokasmiṃ. Buddho samāno idaṃ labhati’’. Etamatthaṃ bhagavā avoca.",
+   "zh": "“具足这些相好，他若在家住，便成为转轮王。作为国王，他得到什么？他寿命绵长、久住世间，护持长久的寿命，没有任何人间的仇敌怨家能中途夺去他的生命。这是作为国王所能得到的。作为佛陀，他得到什么？他寿命绵长、久住世间，护持长久的寿命，没有任何仇敌怨家，无论是沙门、婆罗门、天、魔、梵天神，还是世间的任何人，能中途夺去他的生命。这是作为佛陀所能得到的。这便是世尊所说的义理。"
+  },
+  {
+   "idx": 65,
+   "pali": "Tatthetaṃ vuccati –",
+   "zh": "此处如是说：",
+   "n": "207"
+  },
+  {
+   "idx": 66,
+   "pali": "‘‘Māraṇavadhabhayattano viditvā,",
+   "zh": "“他彻见了杀生害命的怖畏后，",
+   "type": "verse"
+  },
+  {
+   "idx": 67,
+   "pali": "Paṭivirato paraṃ māraṇāyahosi;",
+   "zh": "他远离杀害他人；",
+   "type": "verse"
+  },
+  {
+   "idx": 68,
+   "pali": "Tena sucaritena saggamagamā ,",
+   "zh": "依此善行，得生天界，",
+   "type": "verse"
+  },
+  {
+   "idx": 69,
+   "pali": "Sukataphalavipākamanubhosi.",
+   "zh": "他领受善行所感得的果报。",
+   "type": "verse"
+  },
+  {
+   "idx": 70,
+   "pali": "‘‘Caviya punaridhāgato samāno,",
+   "zh": "“从彼处殁，复还来此世间，",
+   "type": "verse"
+  },
+  {
+   "idx": 71,
+   "pali": "Paṭilabhati idha tīṇi lakkhaṇāni;",
+   "zh": "他于此世获得三种相：",
+   "type": "verse"
+  },
+  {
+   "idx": 72,
+   "pali": "Bhavati vipuladīghapāsaṇhiko,",
+   "zh": "成就广大、修长、圆满的脚跟。",
+   "type": "verse"
+  },
+  {
+   "idx": 73,
+   "pali": "Brahmāva suju subho sujātagatto.",
+   "zh": "如梵天神般正直、端严，肢体善美。",
+   "type": "verse"
+  },
+  {
+   "idx": 74,
+   "pali": "‘‘Subhujo susu susaṇṭhito sujāto,",
+   "zh": "“双臂善美，年轻，身形安立，体态端严，",
+   "type": "verse"
+  },
+  {
+   "idx": 75,
+   "pali": "Mudutalunaṅguliyassa honti;",
+   "zh": "他手指柔软而细嫩；",
+   "type": "verse"
+  },
+  {
+   "idx": 76,
+   "pali": "Dīghā tībhi purisavaraggalakkhaṇehi,",
+   "zh": "手指修长，具足三种上士之相。",
+   "type": "verse"
+  },
+  {
+   "idx": 77,
+   "pali": "Cirayapanāya kumāramādisanti.",
+   "zh": "他们预言童子将得长寿久住。",
+   "type": "verse"
+  },
+  {
+   "idx": 78,
+   "pali": "‘‘Bhavati yadi gihī ciraṃ yapeti,",
+   "zh": "“若为在家者，他将得享长久寿命；",
+   "type": "verse"
+  },
+  {
+   "idx": 79,
+   "pali": "Cirataraṃ pabbajati yadi tato hi;",
+   "zh": "若由此出家，寿命则更为久长；",
+   "type": "verse"
+  },
+  {
+   "idx": 80,
+   "pali": "Yāpayati ca vasiddhibhāvanāya,",
+   "zh": "且依神通自在的修习而延续寿命；",
+   "type": "verse"
+  },
+  {
+   "idx": 81,
+   "pali": "Iti dīghāyukatāya taṃ nimitta’’nti.",
+   "zh": "这即是长寿之相。”",
+   "type": "verse"
+  },
+  {
+   "idx": 82,
+   "pali": "(6) Sattussadatālakkhaṇaṃ",
+   "zh": "（6） 七处隆满相"
+  },
+  {
+   "idx": 83,
+   "pali": "‘‘Yampi , bhikkhave, tathāgato purimaṃ jātiṃ purimaṃ bhavaṃ purimaṃ niketaṃ pubbe manussabhūto samāno dātā ahosi paṇītānaṃ rasitānaṃ khādanīyānaṃ bhojanīyānaṃ sāyanīyānaṃ lehanīyānaṃ pānānaṃ. So tassa kammassa kaṭattā…pe… so tato cuto itthattaṃ āgato samāno imaṃ mahāpurisalakkhaṇaṃ paṭilabhati, sattussado hoti, sattassa ussadā honti; ubhosu hatthesu ussadā honti, ubhosu pādesu ussadā honti, ubhosu aṃsakūṭesu ussadā honti, khandhe ussado hoti.",
+   "zh": "“诸比丘，如来在过去世、过去有、过去的住处，尚为人身时，是上妙美味的嚼食、啖食、尝食、舐食及饮料的施与者。由于他造作并累积了这些业，从那里死后，生于此世，便得此大人相：七处隆满。所谓七处隆满，即两手隆满、两足隆满、两肩隆满、颈项隆满。",
+   "n": "208"
+  },
+  {
+   "idx": 84,
+   "pali": "‘‘So tena lakkhaṇena samannāgato sace agāraṃ ajjhāvasati, rājā hoti cakkavattī…pe… rājā samāno kiṃ labhati? Lābhī hoti paṇītānaṃ rasitānaṃ khādanīyānaṃ bhojanīyānaṃ sāyanīyānaṃ lehanīyānaṃ pānānaṃ. Rājā samāno idaṃ labhati… buddho samāno kiṃ labhati? Lābhī hoti paṇītānaṃ rasitānaṃ khādanīyānaṃ bhojanīyānaṃ sāyanīyānaṃ lehanīyānaṃ pānānaṃ. Buddho samāno idaṃ labhati’’. Etamatthaṃ bhagavā avoca.",
+   "zh": "“若具足此相，居家则为转轮王……为国王时，获得何物？获得上妙美味的嚼食、啖食、尝食、舐食及饮料。为国王时，即得这些。……为佛陀时，获得何物？获得上妙美味的嚼食、啖食、尝食、舐食及饮料。为佛陀时，即得这些。”世尊如是宣说此义。"
+  },
+  {
+   "idx": 85,
+   "pali": "Tatthetaṃ vuccati –",
+   "zh": "于此，即如是说：",
+   "n": "209"
+  },
+  {
+   "idx": 86,
+   "pali": "‘‘Khajjabhojjamatha leyya sāyiyaṃ,",
+   "zh": "“嚼食、啖食、舐食与尝食，",
+   "type": "verse"
+  },
+  {
+   "idx": 87,
+   "pali": "Uttamaggarasadāyako ahu;",
+   "zh": "他曾是最上味的施与者；",
+   "type": "verse"
+  },
+  {
+   "idx": 88,
+   "pali": "Tena so sucaritena kammunā,",
+   "zh": "藉由那善行之业，",
+   "type": "verse"
+  },
+  {
+   "idx": 89,
+   "pali": "Nandane ciramabhippamodati.",
+   "zh": "他于难陀园长久欢喜。",
+   "type": "verse"
+  },
+  {
+   "idx": 90,
+   "pali": "‘‘Satta cussade idhādhigacchati,",
+   "zh": "“他在此世获得七处隆满，",
+   "type": "verse"
+  },
+  {
+   "idx": 91,
+   "pali": "Hatthapādamudutañca vindati;",
+   "zh": "他获得手足柔软；",
+   "type": "verse"
+  },
+  {
+   "idx": 92,
+   "pali": "Āhu byañjananimittakovidā,",
+   "zh": "精通相好者说：",
+   "type": "verse"
+  },
+  {
+   "idx": 93,
+   "pali": "Khajjabhojjarasalābhitāya naṃ.",
+   "zh": "这是由于获得嚼食、啖食之美味。",
+   "type": "verse"
+  },
+  {
+   "idx": 94,
+   "pali": "‘‘Yaṃ gihissapi tadatthajotakaṃ,",
+   "zh": "“若处在家，此相即表明其义，",
+   "type": "verse"
+  },
+  {
+   "idx": 95,
+   "pali": "Pabbajjampi ca tadādhigacchati;",
+   "zh": "若出家者，亦能证得彼果；",
+   "type": "verse"
+  },
+  {
+   "idx": 96,
+   "pali": "Khajjabhojjarasalābhiruttamaṃ,",
+   "zh": "获得最上的嚼食、啖食与美味，",
+   "type": "verse"
+  },
+  {
+   "idx": 97,
+   "pali": "Āhu sabbagihibandhanacchida’’nti.",
+   "zh": "他们说：他是断除一切在家束缚者。”",
+   "type": "verse"
+  },
+  {
+   "type": "subhead",
+   "idx": 98,
+   "pali": "(7-8) Karacaraṇamudujālatālakkhaṇāni",
+   "zh": "（7-8）手足柔软、指间缦网相"
+  },
+  {
+   "idx": 99,
+   "pali": "‘‘Yampi , bhikkhave, tathāgato purimaṃ jātiṃ purimaṃ bhavaṃ purimaṃ niketaṃ pubbe manussabhūto samāno catūhi saṅgahavatthūhi janaṃ saṅgāhako ahosi – dānena peyyavajjena atthacariyāya samānattatāya. So tassa kammassa kaṭattā…pe… so tato cuto itthattaṃ āgato samāno imāni dve mahāpurisalakkhaṇāni paṭilabhati. Mudutalunahatthapādo ca hoti jālahatthapādo ca.",
+   "zh": "“诸比丘！如来于过去生、过去有、过去住处，往昔为人时，以四摄事摄受大众——布施、爱语、利行、同事。以此业之所成熟……从彼处命终，生于此世后，获得此二大人相：手足柔软与手足缦网。”",
+   "n": "210"
+  },
+  {
+   "idx": 100,
+   "pali": "‘‘So tehi lakkhaṇehi samannāgato sace agāraṃ ajjhāvasati, rājā hoti cakkavattī…pe… rājā samāno kiṃ labhati? Susaṅgahitaparijano hoti, susaṅgahitāssa honti brāhmaṇagahapatikā negamajānapadā gaṇakamahāmattā anīkaṭṭhā dovārikā amaccā pārisajjā rājāno bhogiyā kumārā. Rājā samāno idaṃ labhati… buddho samāno kiṃ labhati? Susaṅgahitaparijano hoti, susaṅgahitāssa honti bhikkhū bhikkhuniyo upāsakā upāsikāyo devā manussā asurā nāgā gandhabbā. Buddho samāno idaṃ labhati’’. Etamatthaṃ bhagavā avoca.",
+   "zh": "“具足这些相者，若居家，便成为转轮王……作为王，他获得什么？他的眷属和睦融洽，皆被善加摄受：婆罗门、居士、城邑乡民、财政大臣、军官、守门人、大臣、随从、诸王、封君、王子，皆被善加摄受。作为王，他获得这些。……作为佛陀，他获得什么？他的随众和睦融洽，皆被善加摄受：比丘、比丘尼、近事男、近事女、天人、人、阿修罗、龙、乾闼婆，皆被善加摄受。作为佛陀，他获得这些。”世尊如是宣说了此义。"
+  },
+  {
+   "idx": 101,
+   "pali": "Tatthetaṃ vuccati –",
+   "zh": "关于此，有偈颂说：",
+   "n": "211"
+  },
+  {
+   "idx": 102,
+   "pali": "‘‘Dānampi catthacariyatañca ,",
+   "zh": "“布施与利行，",
+   "type": "verse"
+  },
+  {
+   "idx": 103,
+   "pali": "Piyavāditañca samānattatañca ;",
+   "zh": "与和雅的言语与平等心；",
+   "type": "verse"
+  },
+  {
+   "idx": 104,
+   "pali": "Kariyacariyasusaṅgahaṃ bahūnaṃ,",
+   "zh": "正是这些对众人的行谊、品行与善摄，",
+   "type": "verse"
+  },
+  {
+   "idx": 105,
+   "pali": "Anavamatena guṇena yāti saggaṃ.",
+   "zh": "以如此无过的德行，他生于天界。",
+   "type": "verse"
+  },
+  {
+   "idx": 106,
+   "pali": "‘‘Caviya punaridhāgato samāno,",
+   "zh": "“从彼处殁，复还来此世间，",
+   "type": "verse"
+  },
+  {
+   "idx": 107,
+   "pali": "Karacaraṇamudutañca jālino ca;",
+   "zh": "手足柔软，且有网缦；",
+   "type": "verse"
+  },
+  {
+   "idx": 108,
+   "pali": "Atirucirasuvaggudassaneyyaṃ,",
+   "zh": "十分明净悦目、令人喜见，",
+   "type": "verse"
+  },
+  {
+   "idx": 109,
+   "pali": "Paṭilabhati daharo susu kumāro.",
+   "zh": "年幼的童子便能获得。",
+   "type": "verse"
+  },
+  {
+   "idx": 110,
+   "pali": "‘‘Bhavati parijanassavo vidheyyo,",
+   "zh": "“为随从所顺从，堪受教导；",
+   "type": "verse"
+  },
+  {
+   "idx": 111,
+   "pali": "Mahimaṃ āvasito susaṅgahito;",
+   "zh": "住于大地，善得摄持；",
+   "type": "verse"
+  },
+  {
+   "idx": 112,
+   "pali": "Piyavadū hitasukhataṃ jigīsamāno ,",
+   "zh": "他说亲切语，希求利益与安乐。",
+   "type": "verse"
+  },
+  {
+   "idx": 113,
+   "pali": "Abhirucitāni guṇāni ācarati.",
+   "zh": "他行持可悦的功德。",
+   "type": "verse"
+  },
+  {
+   "idx": 114,
+   "pali": "‘‘Yadi ca jahati sabbakāmabhogaṃ,",
+   "zh": "“然而，若他舍离一切欲乐，",
+   "type": "verse"
+  },
+  {
+   "idx": 115,
+   "pali": "Kathayati dhammakathaṃ jino janassa;",
+   "zh": "胜者为人们宣说法语；",
+   "type": "verse"
+  },
+  {
+   "idx": 116,
+   "pali": "Vacanapaṭikarassābhippasannā ,",
+   "zh": "于其言教，净信回应；",
+   "type": "verse"
+  },
+  {
+   "idx": 117,
+   "pali": "Sutvāna dhammānudhammamācarantī’’ti.",
+   "zh": "听闻之后，随法而行。”",
+   "type": "verse"
+  },
+  {
+   "type": "subhead",
+   "idx": 118,
+   "pali": "(9-10) Ussaṅkhapādauddhaggalomatālakkhaṇāni",
+   "zh": "（9-10）足踝高隆、身毛上向相"
+  },
+  {
+   "idx": 119,
+   "pali": "‘‘Yampi, bhikkhave, tathāgato purimaṃ jātiṃ purimaṃ bhavaṃ purimaṃ niketaṃ pubbe manussabhūto samāno atthūpasaṃhitaṃ dhammūpasaṃhitaṃ vācaṃ bhāsitā ahosi, bahujanaṃ nidaṃsesi, pāṇīnaṃ hitasukhāvaho dhammayāgī. So tassa kammassa kaṭattā…pe… so tato cuto itthattaṃ āgato samāno imāni dve mahāpurisalakkhaṇāni paṭilabhati. Ussaṅkhapādo ca hoti, uddhaggalomo ca.",
+   "zh": "“诸比丘，如来在过去生、过去有、过去住处，曾生为人的时候，宣说与义相应、与法相应之语，教导大众，为有情带来利益安乐，行法之施。由彼业所作故……从彼处死后，来生此世，即得此二大人相：足踝高隆，身毛上向。”",
+   "n": "212"
+  },
+  {
+   "idx": 120,
+   "pali": "‘‘So tehi lakkhaṇehi samannāgato, sace agāraṃ ajjhāvasati, rājā hoti cakkavattī…pe… rājā samāno kiṃ labhati? Aggo ca hoti seṭṭho ca pāmokkho ca uttamo ca pavaro ca kāmabhogīnaṃ. Rājā samāno idaṃ labhati… buddho samāno kiṃ labhati? Aggo ca hoti seṭṭho ca pāmokkho ca uttamo ca pavaro ca sabbasattānaṃ. Buddho samāno idaṃ labhati’’. Etamatthaṃ bhagavā avoca.",
+   "zh": "“具足这些相者，若居家，则成为转轮王……作为国王，他得到什么呢？在诸享欲乐者中，他为最上、最胜、最尊、最妙、最殊胜。这是作为国王所得……作为佛陀，他得到什么呢？在一切有情中，他为最上、最胜、最尊、最妙、最殊胜。这是作为佛陀所得。此即世尊所说明之义。"
+  },
+  {
+   "idx": 121,
+   "pali": "Tatthetaṃ vuccati –",
+   "zh": "于此，有偈颂言：",
+   "n": "213"
+  },
+  {
+   "idx": 122,
+   "pali": "‘‘Atthadhammasahitaṃ pure giraṃ,",
+   "zh": "“往昔具足义与法之言语，",
+   "type": "verse"
+  },
+  {
+   "idx": 123,
+   "pali": "Erayaṃ bahujanaṃ nidaṃsayi;",
+   "zh": "向大众开示宣说。",
+   "type": "verse"
+  },
+  {
+   "idx": 124,
+   "pali": "Pāṇinaṃ hitasukhāvaho ahu,",
+   "zh": "他为众生带来利益与安乐，",
+   "type": "verse"
+  },
+  {
+   "idx": 125,
+   "pali": "Dhammayāgamayajī amaccharī.",
+   "zh": "以法为祭，心无悭吝。",
+   "type": "verse"
+  },
+  {
+   "idx": 126,
+   "pali": "‘‘Tena so sucaritena kammunā,",
+   "zh": "“由此所行之善业，",
+   "type": "verse"
+  },
+  {
+   "idx": 127,
+   "pali": "Suggatiṃ vajati tattha modati;",
+   "zh": "他往生善趣，于彼处得欢喜；",
+   "type": "verse"
+  },
+  {
+   "idx": 128,
+   "pali": "Lakkhaṇāni ca duve idhāgato,",
+   "zh": "若他来到此世间，具足二种相，",
+   "type": "verse"
+  },
+  {
+   "idx": 129,
+   "pali": "Uttamappamukhatāya vindati.",
+   "zh": "便获得最上、最尊的殊胜位。",
+   "type": "verse"
+  },
+  {
+   "idx": 130,
+   "pali": "‘‘Ubbhamuppatitalomavā saso,",
+   "zh": "“身毛如兔毫，向上耸立；",
+   "type": "verse"
+  },
+  {
+   "idx": 131,
+   "pali": "Pādagaṇṭhirahu sādhusaṇṭhitā;",
+   "zh": "足踝平坦无节，善得安立；",
+   "type": "verse"
+  },
+  {
+   "idx": 132,
+   "pali": "Maṃsalohitācitā tacotthatā,",
+   "zh": "血肉充盈，肌肤覆裹；",
+   "type": "verse"
+  },
+  {
+   "idx": 133,
+   "pali": "Uparicaraṇasobhanā ahu.",
+   "zh": "他身形端严，上身殊妙。",
+   "type": "verse"
+  },
+  {
+   "idx": 134,
+   "pali": "‘‘Gehamāvasati ce tathāvidho,",
+   "zh": "“若如是之人安住家中，",
+   "type": "verse"
+  },
+  {
+   "idx": 135,
+   "pali": "Aggataṃ vajati kāmabhoginaṃ;",
+   "zh": "便能在一切受用欲乐者中，达到最上、最胜。",
+   "type": "verse"
+  },
+  {
+   "idx": 136,
+   "pali": "Tena uttaritaro na vijjati,",
+   "zh": "由此，更无超越者。",
+   "type": "verse"
+  },
+  {
+   "idx": 137,
+   "pali": "Jambudīpamabhibhuyya iriyati.",
+   "zh": "征服赡部洲，游行世间。",
+   "type": "verse"
+  },
+  {
+   "idx": 138,
+   "pali": "‘‘Pabbajampi ca anomanikkamo,",
+   "zh": "“出家亦是无上精进。",
+   "type": "verse"
+  },
+  {
+   "idx": 139,
+   "pali": "Aggataṃ vajati sabbapāṇinaṃ;",
+   "zh": "成为一切有情中的最胜者；",
+   "type": "verse"
+  },
+  {
+   "idx": 140,
+   "pali": "Tena uttaritaro na vijjati,",
+   "zh": "由此，无有更超越者，",
+   "type": "verse"
+  },
+  {
+   "idx": 141,
+   "pali": "Sabbalokamabhibhuyya viharatī’’ti.",
+   "zh": "降伏一切世间而安住。”",
+   "type": "verse"
+  },
+  {
+   "idx": 142,
+   "pali": "(11) Eṇijaṅghalakkhaṇaṃ",
+   "zh": "（11） 鹿王腨相"
+  },
+  {
+   "idx": 143,
+   "pali": "‘‘Yampi, bhikkhave, tathāgato purimaṃ jātiṃ purimaṃ bhavaṃ purimaṃ niketaṃ pubbe manussabhūto samāno sakkaccaṃ vācetā ahosi sippaṃ vā vijjaṃ vā caraṇaṃ vā kammaṃ vā – ‘kiṃ time khippaṃ vijāneyyuṃ, khippaṃ paṭipajjeyyuṃ, na ciraṃ kilisseyyu’’nti. So tassa kammassa kaṭattā…pe… so tato cuto itthattaṃ āgato samāno imaṃ mahāpurisalakkhaṇaṃ paṭilabhati. Eṇijaṅgho hoti.",
+   "zh": "“诸比丘！如来在过去生、过去有、过去住处，往昔为人时，是殷切教导技艺、明、行或业的老师，心中思惟：‘愿他们能快速了知，快速实践，而不致长久疲劳。’由该业已作……他从彼处死后，来到此处，获得此大人相：他有着如鹿王般的腨腿。",
+   "n": "214"
+  },
+  {
+   "idx": 144,
+   "pali": "‘‘So tena lakkhaṇena samannāgato sace agāraṃ ajjhāvasati, rājā hoti cakkavattī…pe… rājā samāno kiṃ labhati? Yāni tāni rājārahāni rājaṅgāni rājūpabhogāni rājānucchavikāni tāni khippaṃ paṭilabhati. Rājā samāno idaṃ labhati… buddho samāno kiṃ labhati? Yāni tāni samaṇārahāni samaṇaṅgāni samaṇūpabhogāni samaṇānucchavikāni, tāni khippaṃ paṭilabhati. Buddho samāno idaṃ labhati’’. Etamatthaṃ bhagavā avoca.",
+   "zh": "“具足此相者，若选择在家生活，便成为转轮王……作为王获得什么？那些适合王者的王支、王所受用、与王相应之事，皆能迅速获得。作为王，他获得这些……成为佛陀后获得什么？那些适合沙门的沙门支、沙门所受用、与沙门相应之事，皆能迅速获得。作为佛陀，他获得这些。世尊如此宣说了其中的义理。"
+  },
+  {
+   "idx": 145,
+   "pali": "Tatthetaṃ vuccati –",
+   "zh": "对此，这样说——",
+   "n": "215"
+  },
+  {
+   "idx": 146,
+   "pali": "‘‘Sippesu vijjācaraṇesu kammesu ,",
+   "zh": "“对于种种工巧、明行与业，",
+   "type": "verse"
+  },
+  {
+   "idx": 147,
+   "pali": "Kathaṃ vijāneyyuṃ lahunti icchati;",
+   "zh": "他希望：‘如何能让他们迅速通达呢？’",
+   "type": "verse"
+  },
+  {
+   "idx": 148,
+   "pali": "Yadūpaghātāya na hoti kassaci,",
+   "zh": "他所教导的，都是不会给任何人带来伤害的事。",
+   "type": "verse"
+  },
+  {
+   "idx": 149,
+   "pali": "Vāceti khippaṃ na ciraṃ kilissati.",
+   "zh": "他迅速施教，毫不拖延，学人不久便得通达。",
+   "type": "verse"
+  },
+  {
+   "idx": 150,
+   "pali": "‘‘Taṃ kammaṃ katvā kusalaṃ sukhudrayaṃ ,",
+   "zh": "“行此善业已，感得安乐果，",
+   "type": "verse"
+  },
+  {
+   "idx": 151,
+   "pali": "Jaṅghā manuññā labhate susaṇṭhitā;",
+   "zh": "他获得可爱、端严挺拔的小腿；",
+   "type": "verse"
+  },
+  {
+   "idx": 152,
+   "pali": "Vaṭṭā sujātā anupubbamuggatā,",
+   "zh": "腿肚圆润优美，如旋纹次第隆起，",
+   "type": "verse"
+  },
+  {
+   "idx": 153,
+   "pali": "Uddhaggalomā sukhumattacotthatā.",
+   "zh": "体毛向上竖立，皮肤细滑柔软。",
+   "type": "verse"
+  },
+  {
+   "idx": 154,
+   "pali": "‘‘Eṇeyyajaṅghoti tamāhu puggalaṃ,",
+   "zh": "“他们称此人为“鹿王腨”，",
+   "type": "verse"
+  },
+  {
+   "idx": 155,
+   "pali": "Sampattiyā khippamidhāhu lakkhaṇaṃ;",
+   "zh": "并说这是迅速成就之相。",
+   "type": "verse"
+  },
+  {
+   "idx": 156,
+   "pali": "Gehānulomāni yadābhikaṅkhati,",
+   "zh": "若他希求与在家相应之事，",
+   "type": "verse"
+  },
+  {
+   "idx": 157,
+   "pali": "Apabbajaṃ khippamidhādhigacchati .",
+   "zh": "若不出家，于此世间，则速为他所得。",
+   "type": "verse"
+  },
+  {
+   "idx": 158,
+   "pali": "‘‘Sace ca pabbajjamupeti tādiso,",
+   "zh": "“若如是之人趣向出家，",
+   "type": "verse"
+  },
+  {
+   "idx": 159,
+   "pali": "Nekkhammachandābhirato vicakkhaṇo;",
+   "zh": "爱乐出离，明察聪慧，",
+   "type": "verse"
+  },
+  {
+   "idx": 160,
+   "pali": "Anucchavikassa yadānulomikaṃ,",
+   "zh": "凡与此相应、随顺之法，",
+   "type": "verse"
+  },
+  {
+   "idx": 161,
+   "pali": "Taṃ vindati khippamanomavikkamo ’’ti.",
+   "zh": "具不凡英勇威力者，能迅速证得此[果]。”",
+   "type": "verse"
+  },
+  {
+   "idx": 162,
+   "pali": "(12) Sukhumacchavilakkhaṇaṃ",
+   "zh": "（十二）皮肤细滑相"
+  },
+  {
+   "idx": 163,
+   "pali": "‘‘Yampi, bhikkhave, tathāgato purimaṃ jātiṃ purimaṃ bhavaṃ purimaṃ niketaṃ pubbe manussabhūto samāno samaṇaṃ vā brāhmaṇaṃ vā upasaṅkamitvā paripucchitā ahosi – ‘‘kiṃ, bhante, kusalaṃ, kiṃ akusalaṃ, kiṃ sāvajjaṃ, kiṃ anavajjaṃ, kiṃ sevitabbaṃ, kiṃ na sevitabbaṃ, kiṃ me karīyamānaṃ dīgharattaṃ ahitāya dukkhāya assa, kiṃ vā pana me karīyamānaṃ dīgharattaṃ hitāya sukhāya assā’’ti. So tassa kammassa kaṭattā…pe… so tato cuto itthattaṃ āgato samāno imaṃ mahāpurisalakkhaṇaṃ paṭilabhati. Sukhumacchavi hoti, sukhumattā chaviyā rajojallaṃ kāye na upalimpati.",
+   "zh": "“诸比丘，如来在前生、前有、前住处，往昔曾为人身时，前往沙门或婆罗门处，恭敬请问：‘尊者，何为善？何为不善？何为有罪？何为无过？何者应亲近修习？何者不应亲近修习？行什么样的事会导致我长久不利与苦？行什么样的事能令我长夜得利与安乐？’由于他造作了那样的业……（中略）……从彼处死后来生于此，获得此大人之相：他皮肤细滑，因皮肤细滑故，尘垢不沾着于身。”",
+   "n": "216"
+  },
+  {
+   "idx": 164,
+   "pali": "‘‘So tena lakkhaṇena samannāgato sace agāraṃ ajjhāvasati, rājā hoti cakkavattī…pe… rājā samāno kiṃ labhati? Mahāpañño hoti, nāssa hoti koci paññāya sadiso vā seṭṭho vā kāmabhogīnaṃ. Rājā samāno idaṃ labhati… buddho samāno kiṃ labhati? Mahāpañño hoti puthupañño hāsapañño javanapañño tikkhapañño nibbedhikapañño, nāssa hoti koci paññāya sadiso vā seṭṭho vā sabbasattānaṃ. Buddho samāno idaṃ labhati’’. Etamatthaṃ bhagavā avoca.",
+   "zh": "“具足此相者，若居家，则为转轮王……（中略）……他作王时得到什么？他有大智慧，在诸享受欲乐者中，无有任何人在智慧上等同或超越于他。他作王时得到这个……他作佛陀时得到什么？他有大智慧、广智慧、敏锐的智慧、迅捷的智慧、锋利的智慧、能抉择诸法的智慧，于一切有情中，无有任何人在智慧上等同或超越于他。他作佛陀时得到这个。”世尊如此开示此义。"
+  },
+  {
+   "idx": 165,
+   "pali": "Tatthetaṃ vuccati –",
+   "zh": "于此，世尊说道：",
+   "n": "217"
+  },
+  {
+   "idx": 166,
+   "pali": "‘‘Pure puratthā purimāsu jātisu,",
+   "zh": "“往昔，从前，在过去的诸生之中，",
+   "type": "verse"
+  },
+  {
+   "idx": 167,
+   "pali": "Aññātukāmo paripucchitā ahu;",
+   "zh": "他心怀求知，曾向人请问求教；",
+   "type": "verse"
+  },
+  {
+   "idx": 168,
+   "pali": "Sussūsitā pabbajitaṃ upāsitā,",
+   "zh": "他恭敬听闻、亲近出家行者，",
+   "type": "verse"
+  },
+  {
+   "idx": 169,
+   "pali": "Atthantaro atthakathaṃ nisāmayi.",
+   "zh": "他洞彻义理，谛听义理的分别论说。”",
+   "type": "verse"
+  },
+  {
+   "idx": 170,
+   "pali": "‘‘Paññāpaṭilābhagatena kammunā,",
+   "zh": "“以得慧之业，",
+   "type": "verse"
+  },
+  {
+   "idx": 171,
+   "pali": "Manussabhūto sukhumacchavī ahu;",
+   "zh": "他生而为人，皮肤细嫩；",
+   "type": "verse"
+  },
+  {
+   "idx": 172,
+   "pali": "Byākaṃsu uppādanimittakovidā,",
+   "zh": "善巧于辨认出生之相者这样预言：",
+   "type": "verse"
+  },
+  {
+   "idx": 173,
+   "pali": "Sukhumāni atthāni avecca dakkhiti.",
+   "zh": "通达微细之义后，他将彻见。",
+   "type": "verse"
+  },
+  {
+   "idx": 174,
+   "pali": "‘‘Sace na pabbajjamupeti tādiso,",
+   "zh": "“若如此之人不出家，",
+   "type": "verse"
+  },
+  {
+   "idx": 175,
+   "pali": "Vatteti cakkaṃ pathaviṃ pasāsati;",
+   "zh": "他转动轮宝，统治大地；",
+   "type": "verse"
+  },
+  {
+   "idx": 176,
+   "pali": "Atthānusiṭṭhīsu pariggahesu ca,",
+   "zh": "于利益、教诫与摄受之中，",
+   "type": "verse"
+  },
+  {
+   "idx": 177,
+   "pali": "Na tena seyyo sadiso ca vijjati.",
+   "zh": "无人能胜过他，亦无人能与他相比。",
+   "type": "verse"
+  },
+  {
+   "idx": 178,
+   "pali": "‘‘Sace ca pabbajjamupeti tādiso,",
+   "zh": "“若是这样的人选择出家，”",
+   "type": "verse"
+  },
+  {
+   "idx": 179,
+   "pali": "Nekkhammachandābhirato vicakkhaṇo;",
+   "zh": "“明察者欣乐出离，”",
+   "type": "verse"
+  },
+  {
+   "idx": 180,
+   "pali": "Paññāvisiṭṭhaṃ labhate anuttaraṃ,",
+   "zh": "“便获得无上的殊胜智慧，”",
+   "type": "verse"
+  },
+  {
+   "idx": 181,
+   "pali": "Pappoti bodhiṃ varabhūrimedhaso’’ti.",
+   "zh": "“这位具足殊胜广大智慧者证得菩提。”",
+   "type": "verse"
+  },
+  {
+   "idx": 182,
+   "pali": "(13) Suvaṇṇavaṇṇalakkhaṇaṃ",
+   "zh": "（13） 金色相"
+  },
+  {
+   "idx": 183,
+   "pali": "‘‘Yampi , bhikkhave, tathāgato purimaṃ jātiṃ purimaṃ bhavaṃ purimaṃ niketaṃ pubbe manussabhūto samāno akkodhano ahosi anupāyāsabahulo, bahumpi vutto samāno nābhisajji na kuppi na byāpajji na patitthīyi, na kopañca dosañca appaccayañca pātvākāsi. Dātā ca ahosi sukhumānaṃ mudukānaṃ attharaṇānaṃ pāvuraṇānaṃ khomasukhumānaṃ kappāsikasukhumānaṃ koseyyasukhumānaṃ kambalasukhumānaṃ. So tassa kammassa kaṭattā upacitattā…pe… so tato cuto itthattaṃ āgato samāno imaṃ mahāpurisalakkhaṇaṃ paṭilabhati. Suvaṇṇavaṇṇo hoti kañcanasannibhattaco.",
+   "zh": "“诸比丘，如来在过去生、过去有、过去住处，往昔为人时，无有嗔怒，极少忧恼。即使被人再三恶语相向，亦不愤怒、不生气、不嗔恨、不固执，不显露嗔怒、憎恨与不满。他常行布施，施与柔软细滑的敷具与覆盖物，如细亚麻布、细棉布、细丝绸、细毛毯等。由于那业的已作、已积集……从彼处死后来到此，获得此大人相——身真金色，肤如黄金。”",
+   "n": "218"
+  },
+  {
+   "idx": 184,
+   "pali": "‘‘So tena lakkhaṇena samannāgato sace agāraṃ ajjhāvasati, rājā hoti cakkavattī…pe… rājā samāno kiṃ labhati? Lābhī hoti sukhumānaṃ mudukānaṃ attharaṇānaṃ pāvuraṇānaṃ khomasukhumānaṃ kappāsikasukhumānaṃ koseyyasukhumānaṃ kambalasukhumānaṃ. Rājā samāno idaṃ labhati… buddho samāno kiṃ labhati? Lābhī hoti sukhumānaṃ mudukānaṃ attharaṇānaṃ pāvuraṇānaṃ khomasukhumānaṃ kappāsikasukhumānaṃ koseyyasukhumānaṃ kambalasukhumānaṃ. Buddho samāno idaṃ labhati’’. Etamatthaṃ bhagavā avoca.",
+   "zh": "“具足此相者，若居家，则成转轮王……身为王时，得何等？得细软柔滑的敷具、覆物、细麻布、细棉布、细绢布与细毛毯。此为为王所得……若成佛时，得何等？得细软柔滑的敷具、覆物、细麻布、细棉布、细绢布与细毛毯。此为成佛所得。”世尊如是宣说此义。"
+  },
+  {
+   "idx": 185,
+   "pali": "Tatthetaṃ vuccati –",
+   "zh": "于此，宣说如是：",
+   "n": "219"
+  },
+  {
+   "idx": 186,
+   "pali": "‘‘Akkodhañca adhiṭṭhahi adāsi ,",
+   "zh": "“他安住于无嗔，并行布施，”",
+   "type": "verse"
+  },
+  {
+   "idx": 187,
+   "pali": "Dānañca vatthāni sukhumāni succhavīni;",
+   "zh": "他布施精细柔软的衣服；",
+   "type": "verse"
+  },
+  {
+   "idx": 188,
+   "pali": "Purimatarabhave ṭhito abhivissaji,",
+   "zh": "于往昔生中，他安住而施，",
+   "type": "verse"
+  },
+  {
+   "idx": 189,
+   "pali": "Mahimiva suro abhivassaṃ.",
+   "zh": "犹如天神在广袤大地上普降甘霖。",
+   "type": "verse"
+  },
+  {
+   "idx": 190,
+   "pali": "‘‘Taṃ katvāna ito cuto dibbaṃ,",
+   "zh": "“如此行已，从彼处殁，往生天界，",
+   "type": "verse"
+  },
+  {
+   "idx": 191,
+   "pali": "Upapajji sukataphalavipākamanubhutvā;",
+   "zh": "受用善作之果报已，",
+   "type": "verse"
+  },
+  {
+   "idx": 192,
+   "pali": "Kanakatanusannibho idhābhibhavati,",
+   "zh": "于此世间，以纯金般之身而胜显超越。",
+   "type": "verse"
+  },
+  {
+   "idx": 193,
+   "pali": "Suravarataroriva indo.",
+   "zh": "如诸天神中最殊胜的因陀罗。",
+   "type": "verse"
+  },
+  {
+   "idx": 194,
+   "pali": "‘‘Gehañcāvasati naro apabbajja,",
+   "zh": "“若有人居家而住、不出家，",
+   "type": "verse"
+  },
+  {
+   "idx": 195,
+   "pali": "Micchaṃ mahatimahiṃ anusāsati ;",
+   "zh": "便能非法治化、统领这广袤大地，",
+   "type": "verse"
+  },
+  {
+   "idx": 196,
+   "pali": "Pasayha sahidha sattaratanaṃ ,",
+   "zh": "以力克胜此世间的七宝，",
+   "type": "verse"
+  },
+  {
+   "idx": 197,
+   "pali": "Paṭilabhati vimala sukhumacchaviṃ suciñca.",
+   "zh": "获得无垢、细滑且清净的肌肤。",
+   "type": "verse"
+  },
+  {
+   "idx": 198,
+   "pali": "‘‘Lābhī acchādanavatthamokkhapāvuraṇānaṃ,",
+   "zh": "“得获衣服、布料与最上等的披覆，",
+   "type": "verse"
+  },
+  {
+   "idx": 199,
+   "pali": "Bhavati yadi anāgāriyataṃ upeti;",
+   "zh": "若他选择出家，成为无家者；",
+   "type": "verse"
+  },
+  {
+   "idx": 200,
+   "pali": "Sahito purimakataphalaṃ anubhavati,",
+   "zh": "他仍具足受用往昔所作之果，",
+   "type": "verse"
+  },
+  {
+   "idx": 201,
+   "pali": "Na bhavati katassa panāso’’ti.",
+   "zh": "所作绝不会失坏。”",
+   "type": "verse"
+  },
+  {
+   "idx": 202,
+   "pali": "(14) Kosohitavatthaguyhalakkhaṇaṃ",
+   "zh": "（14） 马阴藏相"
+  },
+  {
+   "idx": 203,
+   "pali": "Yampi, bhikkhave, tathāgato purimaṃ jātiṃ purimaṃ bhavaṃ purimaṃ niketaṃ pubbe manussabhūto samāno cirappanaṭṭhe sucirappavāsino ñātimitte suhajje sakhino samānetā ahosi. Mātarampi puttena samānetā ahosi, puttampi mātarā samānetā ahosi, pitarampi puttena samānetā ahosi, puttampi pitarā samānetā ahosi, bhātarampi bhātarā samānetā ahosi, bhātarampi bhaginiyā samānetā ahosi, bhaginimpi bhātarā samānetā ahosi, bhaginimpi bhaginiyā samānetā ahosi, samaṅgīkatvā ca abbhanumoditā ahosi. So tassa kammassa kaṭattā…pe… so tato cuto itthattaṃ āgato samāno imaṃ mahāpurisalakkhaṇaṃ paṭilabhati – kosohitavatthaguyho hoti.",
+   "zh": "诸比丘，如来在过去生、过去有、过去住处，尚生为人时，曾令长久失散、长久别离的亲戚、朋友、伙伴与同道重新聚合。他令母亲与子女聚合，子女与母亲聚合；令父亲与子女聚合，子女与父亲聚合；令兄弟与兄弟聚合，兄弟与姐妹聚合，姐妹与兄弟聚合，姐妹与姐妹聚合，并促成和合，心生随喜。由于此业已造作……（中略）……从彼处死后，来生于此，获得此大人相——阴藏隐密。",
+   "n": "220"
+  },
+  {
+   "idx": 204,
+   "pali": "‘‘So tena lakkhaṇena samannāgato sace agāraṃ ajjhāvasati, rājā hoti cakkavattī…pe… rājā samāno kiṃ labhati? Pahūtaputto hoti, parosahassaṃ kho panassa puttā bhavanti sūrā vīraṅgarūpā parasenappamaddanā. Rājā samāno idaṃ labhati… buddho samāno kiṃ labhati? Pahūtaputto hoti, anekasahassaṃ kho panassa puttā bhavanti sūrā vīraṅgarūpā parasenappamaddanā. Buddho samāno idaṃ labhati’’. Etamatthaṃ bhagavā avoca.",
+   "zh": "“他具足此相，若居家，则成为转轮王……（中略）……成为国王时，他得到什么？他会有众多子嗣，有超过一千位儿子，个个勇猛、具足英雄之姿，能摧破敌军。成为国王，他得到此成就。……成为佛陀时，他得到什么？他会有众多子嗣，有数千位儿子，个个勇猛、具足英雄之姿，能摧破敌军。成为佛陀，他得到此成就。”世尊这样说完此义。"
+  },
+  {
+   "idx": 205,
+   "pali": "Tatthetaṃ vuccati –",
+   "zh": "对此，有偈颂说：",
+   "n": "221"
+  },
+  {
+   "idx": 206,
+   "pali": "‘‘Pure puratthā purimāsu jātisu,",
+   "zh": "“往昔，从前，在过去的诸生之中，",
+   "type": "verse"
+  },
+  {
+   "idx": 207,
+   "pali": "Cirappanaṭṭhe sucirappavāsino;",
+   "zh": "长久离散、久远漂泊者；",
+   "type": "verse"
+  },
+  {
+   "idx": 208,
+   "pali": "Ñātī suhajje sakhino samānayi,",
+   "zh": "使亲族、挚友、伴侣得以聚合，",
+   "type": "verse"
+  },
+  {
+   "idx": 209,
+   "pali": "Samaṅgikatvā anumoditā ahu.",
+   "zh": "聚集之后，心生随喜。",
+   "type": "verse"
+  },
+  {
+   "idx": 210,
+   "pali": "‘‘So tena kammena divaṃ samakkami,",
+   "zh": "“他以此业往生天界，”",
+   "type": "verse"
+  },
+  {
+   "idx": 211,
+   "pali": "Sukhañca khiḍḍāratiyo ca anvabhi;",
+   "zh": "享受快乐与种种嬉戏之乐；",
+   "type": "verse"
+  },
+  {
+   "idx": 212,
+   "pali": "Tato cavitvā punarāgato idha,",
+   "zh": "从彼处命终后，再来此世间，",
+   "type": "verse"
+  },
+  {
+   "idx": 213,
+   "pali": "Kosohitaṃ vindati vatthachādiyaṃ.",
+   "zh": "他具足阴藏隐密之相，如衣遮蔽。",
+   "type": "verse"
+  },
+  {
+   "idx": 214,
+   "pali": "‘‘Pahūtaputto bhavatī tathāvidho,",
+   "zh": "“如是之人，子嗣众多，",
+   "type": "verse"
+  },
+  {
+   "idx": 215,
+   "pali": "Parosahassañca bhavanti atrajā;",
+   "zh": "有超过千数之子；",
+   "type": "verse"
+  },
+  {
+   "idx": 216,
+   "pali": "Sūrā ca vīrā ca amittatāpanā,",
+   "zh": "他们勇敢、雄健，能摧伏怨敌，",
+   "type": "verse"
+  },
+  {
+   "idx": 217,
+   "pali": "Gihissa pītiṃjananā piyaṃvadā.",
+   "zh": "令在家人心生欢喜、言词亲切者。",
+   "type": "verse"
+  },
+  {
+   "idx": 218,
+   "pali": "‘‘Bahūtarā pabbajitassa iriyato,",
+   "zh": "“出家的修行者会得到更多追随他教诲的弟子。",
+   "type": "verse"
+  },
+  {
+   "idx": 219,
+   "pali": "Bhavanti puttā vacanānusārino;",
+   "zh": "（与218合译）",
+   "type": "verse"
+  },
+  {
+   "idx": 220,
+   "pali": "Gihissa vā pabbajitassa vā puna,",
+   "zh": "无论在家者还是出家者，",
+   "type": "verse"
+  },
+  {
+   "idx": 221,
+   "pali": "Taṃ lakkhaṇaṃ jāyati tadatthajotaka’’nti.",
+   "zh": "此相生起，即明其义。”",
+   "type": "verse"
+  },
+  {
+   "idx": 222,
+   "pali": "Paṭhamabhāṇavāro niṭṭhito.",
+   "zh": "第一诵分终",
+   "type": "colophon"
+  },
+  {
+   "idx": 223,
+   "pali": "(15-16) Parimaṇḍalaanonamajaṇṇuparimasanalakkhaṇāni",
+   "zh": "（15-16）身形匀圆相与不弯腰手触膝相"
+  },
+  {
+   "idx": 224,
+   "pali": "‘‘Yampi , bhikkhave, tathāgato purimaṃ jātiṃ purimaṃ bhavaṃ purimaṃ niketaṃ pubbe manussabhūto samāno mahājanasaṅgahaṃ samekkhamāno samaṃ jānāti sāmaṃ jānāti, purisaṃ jānāti purisavisesaṃ jānāti – ‘ayamidamarahati ayamidamarahatī’ti tattha tattha purisavisesakaro ahosi. So tassa kammassa kaṭattā…pe… so tato cuto itthattaṃ āgato samāno imāni dve mahāpurisalakkhaṇāni paṭilabhati. Nigrodha parimaṇḍalo ca hoti, ṭhitakoyeva ca anonamanto ubhohi pāṇitalehi jaṇṇukāni parimasati parimajjati.",
+   "zh": "“诸比丘！如来曾在过去生、过去有、过去住处，为人时，观察集会的大众，了知共同处，也亲自了知各别；他知人，也知人的差别──谓：‘此人堪任此，此人堪任彼’，于一切处成为辨别人之优劣者。以此业的已作、积集故……（中略）……从彼处没后，来至此间，获得此二大人相：身形圆满如榕树树，直立不弯腰，双手触膝，以掌抚膝。”",
+   "n": "222"
+  },
+  {
+   "idx": 225,
+   "pali": "‘‘So tehi lakkhaṇehi samannāgato sace agāraṃ ajjhāvasati, rājā hoti cakkavattī…pe… rājā samāno kiṃ labhati ? Aḍḍho hoti mahaddhano mahābhogo pahūtajātarūparajato pahūtavittūpakaraṇo pahūtadhanadhañño paripuṇṇakosakoṭṭhāgāro. Rājā samāno idaṃ labhati…pe… buddho samāno kiṃ labhati? Aḍḍho hoti mahaddhano mahābhogo. Tassimāni dhanāni honti, seyyathidaṃ, saddhādhanaṃ sīladhanaṃ hiridhanaṃ ottappadhanaṃ sutadhanaṃ cāgadhanaṃ paññādhanaṃ. Buddho samāno idaṃ labhati’’. Etamatthaṃ bhagavā avoca.",
+   "zh": "“若具足这些相而住于家中，则成为转轮王……（中略）……为王时，得何所获？得富有、大富、大财，金银众多，财物资具无量，谷物丰足，库藏仓库充满。为王时，即得此……（中略）……为佛陀时，得何所获？得富有、大富、大财。他所拥有之财，谓：信财、戒财、惭财、愧财、闻财、施财、慧财。为佛陀时，即获此。”世尊宣说此义。"
+  },
+  {
+   "idx": 226,
+   "pali": "Tatthetaṃ vuccati –",
+   "zh": "对此，有偈言：",
+   "n": "223"
+  },
+  {
+   "idx": 227,
+   "pali": "‘‘Tuliya paṭivicaya cintayitvā,",
+   "zh": "“以秤量、审察、思惟已，",
+   "type": "verse"
+  },
+  {
+   "idx": 228,
+   "pali": "Mahājanasaṅgahanaṃ samekkhamāno;",
+   "zh": "观察大众的摄受；",
+   "type": "verse"
+  },
+  {
+   "idx": 229,
+   "pali": "Ayamidamarahati tattha tattha,",
+   "zh": "此人处处堪配于此。",
+   "type": "verse"
+  },
+  {
+   "idx": 230,
+   "pali": "Purisavisesakaro pure ahosi.",
+   "zh": "他往昔是分别人之做区别者。",
+   "type": "verse"
+  },
+  {
+   "idx": 231,
+   "pali": "‘‘Mahiñca pana ṭhito anonamanto,",
+   "zh": "“且立于大地，并不弯腰。”",
+   "type": "verse"
+  },
+  {
+   "idx": 232,
+   "pali": "Phusati karehi ubhohi jaṇṇukāni;",
+   "zh": "双手触膝",
+   "type": "verse"
+  },
+  {
+   "idx": 233,
+   "pali": "Mahiruhaparimaṇḍalo ahosi,",
+   "zh": "他的身量周圆，宛如大树",
+   "type": "verse"
+  },
+  {
+   "idx": 234,
+   "pali": "Sucaritakammavipākasesakena.",
+   "zh": "此乃善行果报的余荫。",
+   "type": "verse"
+  },
+  {
+   "idx": 235,
+   "pali": "‘‘Bahuvividhanimittalakkhaṇaññū,",
+   "zh": "“通晓种种外相与特征，",
+   "type": "verse"
+  },
+  {
+   "idx": 236,
+   "pali": "Atinipuṇā manujā byākariṃsu;",
+   "zh": "那些极为精妙的人曾这样解说；",
+   "type": "verse"
+  },
+  {
+   "idx": 237,
+   "pali": "Bahuvividhā gihīnaṃ arahāni,",
+   "zh": "在家者所应得的种种众具，",
+   "type": "verse"
+  },
+  {
+   "idx": 238,
+   "pali": "Paṭilabhati daharo susu kumāro.",
+   "zh": "年幼的童子便获得。",
+   "type": "verse"
+  },
+  {
+   "idx": 239,
+   "pali": "‘‘Idha ca mahīpatissa kāmabhogī,",
+   "zh": "“而在此，享受欲乐的大王，",
+   "type": "verse"
+  },
+  {
+   "idx": 240,
+   "pali": "Gihipatirūpakā bahū bhavanti;",
+   "zh": "现居士相者甚多；",
+   "type": "verse"
+  },
+  {
+   "idx": 241,
+   "pali": "Yadi ca jahati sabbakāmabhogaṃ,",
+   "zh": "若舍弃一切欲乐享受，",
+   "type": "verse"
+  },
+  {
+   "idx": 242,
+   "pali": "Labhati anuttaraṃ uttamadhanagga’’nti.",
+   "zh": "他便获得无上、最殊胜的财富之巅。”",
+   "type": "verse"
+  },
+  {
+   "idx": 243,
+   "pali": "(17-19) Sīhapubbaddhakāyāditilakkhaṇaṃ",
+   "zh": "(17-19) 狮子般雄健的上半身等三相"
+  },
+  {
+   "idx": 244,
+   "pali": "‘‘Yampi , bhikkhave, tathāgato purimaṃ jātiṃ purimaṃ bhavaṃ purimaṃ niketaṃ pubbe manussabhūto samāno bahujanassa atthakāmo ahosi hitakāmo phāsukāmo yogakkhemakāmo – ‘kintime saddhāya vaḍḍheyyuṃ, sīlena vaḍḍheyyuṃ, sutena vaḍḍheyyuṃ , cāgena vaḍḍheyyuṃ, dhammena vaḍḍheyyuṃ, paññāya vaḍḍheyyuṃ, dhanadhaññena vaḍḍheyyuṃ, khettavatthunā vaḍḍheyyuṃ, dvipadacatuppadehi vaḍḍheyyuṃ, puttadārehi vaḍḍheyyuṃ, dāsakammakaraporisehi vaḍḍheyyuṃ, ñātīhi vaḍḍheyyuṃ, mittehi vaḍḍheyyuṃ, bandhavehi vaḍḍheyyu’nti. So tassa kammassa kaṭattā…pe… so tato cuto itthattaṃ āgato samāno imāni tīṇi mahāpurisalakkhaṇāni paṭilabhati. Sīhapubbaddhakāyo ca hoti citantaraṃso ca samavaṭṭakkhandho ca.",
+   "zh": "“诸比丘！如来在过去生、过去有、过去住处，往昔为人时，便希愿大众的利益、幸福、安乐与安稳，心想：‘愿他们依信心而增长，依戒而增长，依闻而增长，依施而增长，依法而增长，依慧而增长；依财谷、田地而增长，依二足四足、子妻、奴仆与劳作人众而增长，依亲族、朋友与亲属而增长。’由于他造作了那样的业……从彼处死后，再生于此有，获得这三种大人相：狮子般的上身、肩间饱满、两肩圆满。",
+   "n": "224"
+  },
+  {
+   "idx": 245,
+   "pali": "‘‘So tehi lakkhaṇehi samannāgato sace agāraṃ ajjhāvasati, rājā hoti cakkavattī…pe… rājā samāno kiṃ labhati? Aparihānadhammo hoti, na parihāyati dhanadhaññena khettavatthunā dvipadacatuppadehi puttadārehi dāsakammakaraporisehi ñātīhi mittehi bandhavehi, na parihāyati sabbasampattiyā. Rājā samāno idaṃ labhati… buddho samāno kiṃ labhati? Aparihānadhammo hoti, na parihāyati saddhāya sīlena sutena cāgena paññāya, na parihāyati sabbasampattiyā. Buddho samāno idaṃ labhati’’. Etamatthaṃ bhagavā avoca.",
+   "zh": "“具足这些相的人，若住于家，便成为转轮王……他作王时获得什么？他成为不衰退者，于财谷、田地、二足四足、子妻、奴仆劳作人众、亲族、朋友、亲属皆不衰退，于一切成就皆不衰退。这是他作王时的所得。……他作佛时获得什么？他成为不衰退者，于信、戒、闻、施、慧皆不衰退，于一切成就皆不衰退。这是他作佛时的所得。”世尊宣说了此义。"
+  },
+  {
+   "idx": 246,
+   "pali": "Tatthetaṃ vuccati –",
+   "zh": "于此，有偈颂说：",
+   "n": "225"
+  },
+  {
+   "idx": 247,
+   "pali": "‘‘Saddhāya sīlena sutena buddhiyā,",
+   "zh": "“以信、戒、闻、慧，",
+   "type": "verse"
+  },
+  {
+   "idx": 248,
+   "pali": "Cāgena dhammena bahūhi sādhuhi;",
+   "zh": "以布施、正法与众多善德，",
+   "type": "verse"
+  },
+  {
+   "idx": 249,
+   "pali": "Dhanena dhaññena ca khettavatthunā,",
+   "zh": "以财富、谷物与田地，",
+   "type": "verse"
+  },
+  {
+   "idx": 250,
+   "pali": "Puttehi dārehi catuppadehi ca.",
+   "zh": "以儿女、妻子与四足牲畜。",
+   "type": "verse"
+  },
+  {
+   "idx": 251,
+   "pali": "‘‘Ñātīhi mittehi ca bandhavehi ca,",
+   "zh": "“以亲族、朋友与眷属，",
+   "type": "verse"
+  },
+  {
+   "idx": 252,
+   "pali": "Balena vaṇṇena sukhena cūbhayaṃ;",
+   "zh": "以体力，以及容貌和快乐这两者；",
+   "type": "verse"
+  },
+  {
+   "idx": 253,
+   "pali": "Kathaṃ na hāyeyyuṃ pareti icchati,",
+   "zh": "他希望：他人如何不致衰减？",
+   "type": "verse"
+  },
+  {
+   "idx": 254,
+   "pali": "Atthassa middhī ca panābhikaṅkhati.",
+   "zh": "他也常期望它们增长。",
+   "type": "verse"
+  },
+  {
+   "idx": 255,
+   "pali": "‘‘Sa sīhapubbaddhasusaṇṭhito ahu,",
+   "zh": "“他具有如狮般的上半身，善妙端正，肩间充实饱满，身躯圆实。",
+   "type": "verse"
+  },
+  {
+   "idx": 256,
+   "pali": "Samavaṭṭakkhandho ca citantaraṃso;",
+   "zh": "双肩圆整，胸膛开阔；",
+   "type": "verse"
+  },
+  {
+   "idx": 257,
+   "pali": "Pubbe suciṇṇena katena kammunā,",
+   "zh": "由往昔修集的善业，",
+   "type": "verse"
+  },
+  {
+   "idx": 258,
+   "pali": "Ahāniyaṃ pubbanimittamassa taṃ.",
+   "zh": "那是他必不退失的瑞相。",
+   "type": "verse"
+  },
+  {
+   "idx": 259,
+   "pali": "‘‘Gihīpi dhaññena dhanena vaḍḍhati,",
+   "zh": "“在家者以谷物、财富而增长，",
+   "type": "verse"
+  },
+  {
+   "idx": 260,
+   "pali": "Puttehi dārehi catuppadehi ca;",
+   "zh": "以儿女、妻子与四足牲畜。",
+   "type": "verse"
+  },
+  {
+   "idx": 261,
+   "pali": "Akiñcano pabbajito anuttaraṃ,",
+   "zh": "一无所有的出家者，却能证得无上。",
+   "type": "verse"
+  },
+  {
+   "idx": 262,
+   "pali": "Pappoti bodhiṃ asahānadhammata’’nti .",
+   "zh": "证得菩提，即不退失之法性。”",
+   "type": "verse"
+  },
+  {
+   "idx": 263,
+   "pali": "(20) Rasaggasaggitālakkhaṇaṃ",
+   "zh": "（20） 味中得上味相"
+  },
+  {
+   "idx": 264,
+   "pali": "‘‘Yampi , bhikkhave, tathāgato purimaṃ jātiṃ purimaṃ bhavaṃ purimaṃ niketaṃ pubbe manussabhūto samāno sattānaṃ aviheṭhakajātiko ahosi pāṇinā vā leḍḍunā vā daṇḍena vā satthena vā. So tassa kammassa kaṭattā upacitattā…pe… so tato cuto itthattaṃ āgato samāno imaṃ mahāpurisalakkhaṇaṃ paṭilabhati, rasaggasaggī hoti, uddhaggāssa rasaharaṇīyo gīvāya jātā honti samābhivāhiniyo .",
+   "zh": "“诸比丘！如来于过去生、过去有、过去住处，往昔为人时，具不恼害众生之性，不以手、石块、棍杖或刀剑伤害众生。由彼业已作、已积集……（中略）……他从彼处死后转生此处，获得此大人相：他具有味中得上味相，向上的味脉从颈部生起，遍满全身。”",
+   "n": "226"
+  },
+  {
+   "idx": 265,
+   "pali": "‘‘So tena lakkhaṇena samannāgato sace agāraṃ ajjhāvasati, rājā hoti cakkavattī…pe… rājā samāno kiṃ labhati? Appābādho hoti appātaṅko, samavepākiniyā gahaṇiyā samannāgato nātisītāya nāccuṇhāya. Rājā samāno idaṃ labhati… buddho samāno kiṃ labhati? Appābādho hoti appātaṅko samavepākiniyā gahaṇiyā samannāgato nātisītāya nāccuṇhāya majjhimāya padhānakkhamāya. Buddho samāno idaṃ labhati’’. Etamatthaṃ bhagavā avoca.",
+   "zh": "“具足此相者，若居家，便成为转轮王……（中略）……作为国王，他得到什么？少病少恼，拥有既不过冷也不过热的均衡消化力。这是作为国王所得……作为佛陀，他又得到什么？少病少恼，拥有既不过冷也不过热、中道而适于精进的均衡消化力。这是作为佛陀所得。”这是世尊所宣说的义理。"
+  },
+  {
+   "idx": 266,
+   "pali": "Tatthetaṃ vuccati –",
+   "zh": "于此，这样说：",
+   "n": "227"
+  },
+  {
+   "idx": 267,
+   "pali": "‘‘Na pāṇidaṇḍehi panātha leḍḍunā,",
+   "zh": "“不用手、不用棍，也不用土块，”",
+   "type": "verse"
+  },
+  {
+   "idx": 268,
+   "pali": "Satthena vā maraṇavadhena vā pana;",
+   "zh": "“或以刀剑，或以死刑，”",
+   "type": "verse"
+  },
+  {
+   "idx": 269,
+   "pali": "Ubbādhanāya paritajjanāya vā,",
+   "zh": "“或为驱逐，或为恐吓，”",
+   "type": "verse"
+  },
+  {
+   "idx": 270,
+   "pali": "Na heṭhayī janatamaheṭhako ahu.",
+   "zh": "“他不曾恼害众人，是不恼害者。”",
+   "type": "verse"
+  },
+  {
+   "idx": 271,
+   "pali": "‘‘Teneva so sugatimupecca modati,",
+   "zh": "“由此，他到达善趣而欢悦。”",
+   "type": "verse"
+  },
+  {
+   "idx": 272,
+   "pali": "Sukhapphalaṃ kariya sukhāni vindati;",
+   "zh": "造作乐果之业，便感受诸乐；",
+   "type": "verse"
+  },
+  {
+   "idx": 273,
+   "pali": "Samojasā rasaharaṇī susaṇṭhitā,",
+   "zh": "味根殊胜，营养输布匀调，善得安立。",
+   "type": "verse"
+  },
+  {
+   "idx": 274,
+   "pali": "Idhāgato labhati rasaggasaggitaṃ.",
+   "zh": "来此之人，便获得最上味的荟萃。",
+   "type": "verse"
+  },
+  {
+   "idx": 275,
+   "pali": "‘‘Tenāhu naṃ atinipuṇā vicakkhaṇā,",
+   "zh": "“因此，那些极善巧、具足慧眼的人这样说：",
+   "type": "verse"
+  },
+  {
+   "idx": 276,
+   "pali": "Ayaṃ naro sukhabahulo bhavissati;",
+   "zh": "此人将拥有丰足的快乐；",
+   "type": "verse"
+  },
+  {
+   "idx": 277,
+   "pali": "Gihissa vā pabbajitassa vā puna ,",
+   "zh": "无论在家者还是出家者，",
+   "type": "verse"
+  },
+  {
+   "idx": 278,
+   "pali": "Taṃ lakkhaṇaṃ bhavati tadatthajotaka’’nti.",
+   "zh": "这便是此相所昭示的意义。”",
+   "type": "verse"
+  },
+  {
+   "type": "subhead",
+   "idx": 279,
+   "pali": "(21-22) Abhinīlanettagopakhumalakkhaṇāni",
+   "zh": "(21-22) 绀青眼、牛王睫相"
+  },
+  {
+   "idx": 280,
+   "pali": "‘‘Yampi, bhikkhave, tathāgato purimaṃ jātiṃ purimaṃ bhavaṃ purimaṃ niketaṃ pubbe manussabhūto samāno na ca visaṭaṃ, na ca visāci , na ca pana viceyya pekkhitā, ujuṃ tathā pasaṭamujumano, piyacakkhunā bahujanaṃ udikkhitā ahosi. So tassa kammassa kaṭattā…pe… so tato cuto itthattaṃ āgato samāno imāni dve mahāpurisalakkhaṇāni paṭilabhati. Abhinīlanetto ca hoti gopakhumo ca.",
+   "zh": "“诸比丘！再者，如来于过去生、过去有、过去住处，以前生为人时，不曾散乱游移、四处顾盼，也从不以心机窥察；他为人正直，心地坦直，常以亲切慈爱的目光看待众人。由于那业已成熟……（中略）……他从彼处命终，转生到此，得此二种大人相：绀青色眼与牛王睫。",
+   "n": "228"
+  },
+  {
+   "idx": 281,
+   "pali": "‘‘So tehi lakkhaṇehi samannāgato, sace agāraṃ ajjhāvasati, rājā hoti cakkavattī…pe… rājā samāno kiṃ labhati? Piyadassano hoti bahuno janassa, piyo hoti manāpo brāhmaṇagahapatikānaṃ negamajānapadānaṃ gaṇakamahāmattānaṃ anīkaṭṭhānaṃ dovārikānaṃ amaccānaṃ pārisajjānaṃ rājūnaṃ bhogiyānaṃ kumārānaṃ. Rājā samāno idaṃ labhati…pe… buddho samāno kiṃ labhati? Piyadassano hoti bahuno janassa, piyo hoti manāpo bhikkhūnaṃ bhikkhunīnaṃ upāsakānaṃ upāsikānaṃ devānaṃ manussānaṃ asurānaṃ nāgānaṃ gandhabbānaṃ. Buddho samāno idaṃ labhati’’. Etamatthaṃ bhagavā avoca.",
+   "zh": "“具足这些相好者，若居家在俗，则为转轮王……（中略）……作为王，他所获得的又是什么？他得以为众人所喜见，得婆罗门、居士、城邑与乡野之人、掌数大臣、军队将士、守门之人、辅相、随侍、王族、富豪及王子们所喜爱、所悦纳。作为王，他所获得的是此……（中略）……作为佛陀，他所获得的又是什么？他得以为众人所喜见，得比丘、比丘尼、近事男、近事女、天、人、阿修罗、龙及乾闼婆所喜爱、所悦纳。作为佛，他所获得的是此。”世尊宣说了此义。"
+  },
+  {
+   "idx": 282,
+   "pali": "Tatthetaṃ vuccati –",
+   "zh": "关于此义，世尊说偈如下：",
+   "n": "229"
+  },
+  {
+   "idx": 283,
+   "pali": "‘‘Na ca visaṭaṃ na ca visāci , na ca pana viceyyapekkhitā;",
+   "zh": "“他不散乱、不东张西望，也不回避目光；",
+   "type": "verse"
+  },
+  {
+   "idx": 284,
+   "pali": "Ujuṃ tathā pasaṭamujumano, piyacakkhunā bahujanaṃ udikkhitā.",
+   "zh": "他为人正直，心地坦直，以慈爱的眼目注视众人。",
+   "type": "verse"
+  },
+  {
+   "idx": 285,
+   "pali": "‘‘Sugatīsu so phalavipākaṃ,",
+   "zh": "“他于善趣中，领受此果报。",
+   "type": "verse"
+  },
+  {
+   "idx": 286,
+   "pali": "Anubhavati tattha modati;",
+   "zh": "在那里，他受用果报，心生欢喜；",
+   "type": "verse"
+  },
+  {
+   "idx": 287,
+   "pali": "Idha ca pana bhavati gopakhumo,",
+   "zh": "而在此处，他便具足如牛王般的睫毛，",
+   "type": "verse"
+  },
+  {
+   "idx": 288,
+   "pali": "Abhinīlanettanayano sudassano.",
+   "zh": "眼目深蓝，容貌端严。”",
+   "type": "verse"
+  },
+  {
+   "idx": 289,
+   "pali": "‘‘Abhiyogino ca nipuṇā,",
+   "zh": "“相师与善巧者，",
+   "type": "verse"
+  },
+  {
+   "idx": 290,
+   "pali": "Bahū pana nimittakovidā;",
+   "zh": "众多善巧于相者；",
+   "type": "verse"
+  },
+  {
+   "idx": 291,
+   "pali": "Sukhumanayanakusalā manujā,",
+   "zh": "善巧于微细观察的人们。",
+   "type": "verse"
+  },
+  {
+   "idx": 292,
+   "pali": "Piyadassanoti abhiniddisanti naṃ.",
+   "zh": "世人称他为“可喜见者”。",
+   "type": "verse"
+  },
+  {
+   "idx": 293,
+   "pali": "‘‘Piyadassano gihīpi santo ca,",
+   "zh": "“可喜见者虽为在家人，",
+   "type": "verse"
+  },
+  {
+   "idx": 294,
+   "pali": "Bhavati bahujanapiyāyito;",
+   "zh": "也受到众人的喜爱。",
+   "type": "verse"
+  },
+  {
+   "idx": 295,
+   "pali": "Yadi ca na bhavati gihī samaṇo hoti,",
+   "zh": "若他不做在家人，而成为沙门，",
+   "type": "verse"
+  },
+  {
+   "idx": 296,
+   "pali": "Piyo bahūnaṃ sokanāsano’’ti.",
+   "zh": "便是众人所爱的除忧者。”",
+   "type": "verse"
+  },
+  {
+   "idx": 297,
+   "pali": "(23) Uṇhīsasīsalakkhaṇaṃ",
+   "zh": "（23） 肉髻相"
+  },
+  {
+   "idx": 298,
+   "pali": "‘‘Yampi, bhikkhave, tathāgato purimaṃ jātiṃ purimaṃ bhavaṃ purimaṃ niketaṃ pubbe manussabhūto samāno bahujanapubbaṅgamo ahosi kusalesu dhammesu bahujanapāmokkho kāyasucarite vacīsucarite manosucarite dānasaṃvibhāge sīlasamādāne uposathupavāse matteyyatāya petteyyatāya sāmaññatāya brahmaññatāya kule jeṭṭhāpacāyitāya aññataraññataresu ca adhikusalesu dhammesu. So tassa kammassa kaṭattā…pe… so tato cuto itthattaṃ āgato samāno imaṃ mahāpurisalakkhaṇaṃ paṭilabhati – uṇhīsasīso hoti.",
+   "zh": "“诸比丘！如来在过去生中，往昔为人时，于诸善法为大众的前导与首领——以身善行、语善行、意善行，布施分享，受持戒律，守护布萨，孝敬母亲，恭敬父亲，尊事沙门，尊事婆罗门，尊敬族中长者，乃至其他种种殊胜善法。他因造作斯业……（中略）……从彼处命终，转生于此，获得此大人相——顶上有肉髻。",
+   "n": "230"
+  },
+  {
+   "idx": 299,
+   "pali": "‘‘So tena lakkhaṇena samannāgato sace agāraṃ ajjhāvasati, rājā hoti cakkavattī…pe… rājā samāno kiṃ labhati? Mahāssa jano anvāyiko hoti, brāhmaṇagahapatikā negamajānapadā gaṇakamahāmattā anīkaṭṭhā dovārikā amaccā pārisajjā rājāno bhogiyā kumārā. Rājā samāno idaṃ labhati… buddho samāno kiṃ labhati? Mahāssa jano anvāyiko hoti, bhikkhū bhikkhuniyo upāsakā upāsikāyo devā manussā asurā nāgā gandhabbā. Buddho samāno idaṃ labhati’’. Etamatthaṃ bhagavā avoca.",
+   "zh": "“具足此相者，若居家，则成为转轮王……为国王时，他得到什么？他拥有广大随众——婆罗门、居士、城乡民众、理财政要、禁卫军官、守门人、辅臣、顾问、诸小国王、富豪、王子等。作为国王，他得到这些成就……成佛时，他得到什么？他拥有广大随众——比丘、比丘尼、近事男、近事女、天、人、阿修罗、龙、乾闼婆。成佛时，他得到这些成就。”世尊如此宣说了此义。"
+  },
+  {
+   "idx": 300,
+   "pali": "Tatthetaṃ vuccati –",
+   "zh": "于此，说道：",
+   "n": "231"
+  },
+  {
+   "idx": 301,
+   "pali": "‘‘Pubbaṅgamo sucaritesu ahu,",
+   "zh": "“他曾是一切善行的前导者，",
+   "type": "verse"
+  },
+  {
+   "idx": 302,
+   "pali": "Dhammesu dhammacariyābhirato;",
+   "zh": "于诸法中爱乐法行；",
+   "type": "verse"
+  },
+  {
+   "idx": 303,
+   "pali": "Anvāyiko bahujanassa ahu,",
+   "zh": "他曾受大众所追随，",
+   "type": "verse"
+  },
+  {
+   "idx": 304,
+   "pali": "Saggesu vedayittha puññaphalaṃ.",
+   "zh": "于诸天界，感得福果。",
+   "type": "verse"
+  },
+  {
+   "idx": 305,
+   "pali": "‘‘Veditvā so sucaritassa phalaṃ,",
+   "zh": "“了知善行之果后，",
+   "type": "verse"
+  },
+  {
+   "idx": 306,
+   "pali": "Uṇhīsasīsattamidhajjhagamā;",
+   "zh": "他已证得顶如头巾，",
+   "type": "verse"
+  },
+  {
+   "idx": 307,
+   "pali": "Byākaṃsu byañjananimittadharā,",
+   "zh": "诸相师如是宣说诸相：",
+   "type": "verse"
+  },
+  {
+   "idx": 308,
+   "pali": "Pubbaṅgamo bahujanaṃ hessati.",
+   "zh": "“他将成为众人的最先导者。”",
+   "type": "verse"
+  },
+  {
+   "idx": 309,
+   "pali": "‘‘Paṭibhogiyā manujesu idha,",
+   "zh": "“在此人间，众人中的侍从，",
+   "type": "verse"
+  },
+  {
+   "idx": 310,
+   "pali": "Pubbeva tassa abhiharanti tadā;",
+   "zh": "那时，众人预先便向他呈献；",
+   "type": "verse"
+  },
+  {
+   "idx": 311,
+   "pali": "Yadi khattiyo bhavati bhūmipati,",
+   "zh": "倘若他成为刹帝利、大地之主，",
+   "type": "verse"
+  },
+  {
+   "idx": 312,
+   "pali": "Paṭihārakaṃ bahujane labhati.",
+   "zh": "便在众人之中获得随从。",
+   "type": "verse"
+  },
+  {
+   "idx": 313,
+   "pali": "‘‘Atha cepi pabbajati so manujo,",
+   "zh": "“倘若那人出家，",
+   "type": "verse"
+  },
+  {
+   "idx": 314,
+   "pali": "Dhammesu hoti paguṇo visavī;",
+   "zh": "他于诸法中通达纯熟；",
+   "type": "verse"
+  },
+  {
+   "idx": 315,
+   "pali": "Tassānusāsaniguṇābhirato,",
+   "zh": "对他教诫的功德深生喜乐；",
+   "type": "verse"
+  },
+  {
+   "idx": 316,
+   "pali": "Anvāyiko bahujano bhavatī’’ti.",
+   "zh": "大众都成为他的随从。”",
+   "type": "verse"
+  },
+  {
+   "type": "subhead",
+   "idx": 317,
+   "pali": "(24-25) Ekekalomatāuṇṇālakkhaṇāni",
+   "zh": "（24-25）一一毛孔生一毛，眉间白毫相"
+  },
+  {
+   "idx": 318,
+   "pali": "‘‘Yampi, bhikkhave, tathāgato purimaṃ jātiṃ purimaṃ bhavaṃ purimaṃ niketaṃ pubbe manussabhūto samāno musāvādaṃ pahāya musāvādā paṭivirato ahosi, saccavādī saccasandho theto paccayiko avisaṃvādako lokassa . So tassa kammassa kaṭattā upacitattā…pe… so tato cuto itthattaṃ āgato samāno imāni dve mahāpurisalakkhaṇāni paṭilabhati. Ekekalomo ca hoti, uṇṇā ca bhamukantare jātā hoti odātā mudutūlasannibhā.",
+   "zh": "“诸比丘！如来于过去生、过去有、过去住处，往昔生为人类时，舍断妄语，远离妄语，是真实语者、信实者、坚固者、可信赖者，不以言语欺诳世间。由彼业之造作、累积……从彼处命终后，来生于此，获得此二种大人相：一一毛孔各生一毛，眉间生白毫，其毫柔细，如兜罗绵。",
+   "n": "232"
+  },
+  {
+   "idx": 319,
+   "pali": "‘‘So tehi lakkhaṇehi samannāgato, sace agāraṃ ajjhāvasati, rājā hoti cakkavattī…pe… rājā samāno kiṃ labhati? Mahāssa jano upavattati, brāhmaṇagahapatikā negamajānapadā gaṇakamahāmattā anīkaṭṭhā dovārikā amaccā pārisajjā rājāno bhogiyā kumārā. Rājā samāno idaṃ labhati… buddho samāno kiṃ labhati? Mahāssa jano upavattati, bhikkhū bhikkhuniyo upāsakā upāsikāyo devā manussā asurā nāgā gandhabbā. Buddho samāno idaṃ labhati’’. Etamatthaṃ bhagavā avoca.",
+   "zh": "“具足这些相的人，若居家度日，便成为转轮王……他身为国王时获得什么？大众前来侍奉：婆罗门与居士、城镇居民与乡村百姓、财务官、武将、守门人、大臣、随从、诸王、富豪及王子们——这便是他身为国王时所获。……他身为佛陀时获得什么？大众前来侍奉：比丘、比丘尼、近事男、近事女、天、人、阿修罗、龙、乾闼婆——这便是他身为佛陀时所获。世尊宣说了此义。"
+  },
+  {
+   "idx": 320,
+   "pali": "Tatthetaṃ vuccati –",
+   "zh": "在此，如是说：",
+   "n": "233"
+  },
+  {
+   "idx": 321,
+   "pali": "‘‘Saccappaṭiñño purimāsu jātisu,",
+   "zh": "“前生诸世中，真实持承诺者，",
+   "type": "verse"
+  },
+  {
+   "idx": 322,
+   "pali": "Advejjhavāco alikaṃ vivajjayi;",
+   "zh": "他不说谎话，远离虚妄；",
+   "type": "verse"
+  },
+  {
+   "idx": 323,
+   "pali": "Na so visaṃvādayitāpi kassaci,",
+   "zh": "他不欺诳任何人，",
+   "type": "verse"
+  },
+  {
+   "idx": 324,
+   "pali": "Bhūtena tacchena tathena bhāsayi .",
+   "zh": "唯以真实、确切、如实之语而说。",
+   "type": "verse"
+  },
+  {
+   "idx": 325,
+   "pali": "‘‘Setā susukkā mudutūlasannibhā,",
+   "zh": "“洁白极净，犹如柔软棉花；",
+   "type": "verse"
+  },
+  {
+   "idx": 326,
+   "pali": "Uṇṇā sujātā bhamukantare ahu;",
+   "zh": "眉间生有善妙的毫毛；",
+   "type": "verse"
+  },
+  {
+   "idx": 327,
+   "pali": "Na lomakūpesu duve ajāyisuṃ,",
+   "zh": "毛孔中不并生二毛；",
+   "type": "verse"
+  },
+  {
+   "idx": 328,
+   "pali": "Ekekalomūpacitaṅgavā ahu.",
+   "zh": "他身具一一毛孔各生一毛之相。",
+   "type": "verse"
+  },
+  {
+   "idx": 329,
+   "pali": "‘‘Taṃ lakkhaṇaññū bahavo samāgatā,",
+   "zh": "“众多知相者聚集在一起，",
+   "type": "verse"
+  },
+  {
+   "idx": 330,
+   "pali": "Byākaṃsu uppādanimittakovidā;",
+   "zh": "那些精通出生征相者记说道：",
+   "type": "verse"
+  },
+  {
+   "idx": 331,
+   "pali": "Uṇṇā ca lomā ca yathā susaṇṭhitā,",
+   "zh": "他的毛发善好安立，",
+   "type": "verse"
+  },
+  {
+   "idx": 332,
+   "pali": "Upavattatī īdisakaṃ bahujjano.",
+   "zh": "这样的他，为众人所亲近侍奉。",
+   "type": "verse"
+  },
+  {
+   "idx": 333,
+   "pali": "‘‘Gihimpi santaṃ upavattatī jano,",
+   "zh": "“虽为在家寂静者，众人亦来亲近侍奉，",
+   "type": "verse"
+  },
+  {
+   "idx": 334,
+   "pali": "Bahu puratthāpakatena kammunā;",
+   "zh": "由往昔众多所作之业，",
+   "type": "verse"
+  },
+  {
+   "idx": 335,
+   "pali": "Akiñcanaṃ pabbajitaṃ anuttaraṃ,",
+   "zh": "无所有的出家者、无上者，",
+   "type": "verse"
+  },
+  {
+   "idx": 336,
+   "pali": "Buddhampi santaṃ upavattati jano’’ti.",
+   "zh": "人们归向寂静的佛陀。”",
+   "type": "verse"
+  },
+  {
+   "idx": 337,
+   "pali": "(26-27) Cattālīsaaviraḷadantalakkhaṇāni",
+   "zh": "（26-27）四十齿相与齿无间隙相"
+  },
+  {
+   "idx": 338,
+   "pali": "‘‘Yampi, bhikkhave tathāgato purimaṃ jātiṃ purimaṃ bhavaṃ purimaṃ niketaṃ pubbe manussabhūto samāno pisuṇaṃ vācaṃ pahāya pisuṇāya vācāya paṭivirato ahosi. Ito sutvā na amutra akkhātā imesaṃ bhedāya, amutra vā sutvā na imesaṃ akkhātā amūsaṃ bhedāya , iti bhinnānaṃ vā sandhātā, sahitānaṃ vā anuppadātā, samaggārāmo samaggarato samagganandī samaggakaraṇiṃ vācaṃ bhāsitā ahosi. So tassa kammassa kaṭattā…pe… so tato cuto itthattaṃ āgato samāno imāni dve mahāpurisalakkhaṇāni paṭilabhati. Cattālīsadanto ca hoti aviraḷadanto ca.",
+   "zh": "“诸比丘！如来于前生、前有、前住处，往昔为人时，舍离两舌，远离两舌。从此处听闻，不往彼处宣说以离间这些；或于彼处听闻，不向这些宣说以离间他们。如此，他是分裂者的和合者，和合者的支持者，乐和合、喜和合、慕和合，说和合语。他由造作、增长彼业，……（中略）……从彼处死后，来生此处，获得此二种大人相：具四十齿，齿无间隙。",
+   "n": "234"
+  },
+  {
+   "idx": 339,
+   "pali": "‘‘So tehi lakkhaṇehi samannāgato sace agāraṃ ajjhāvasati, rājā hoti cakkavattī…pe… rājā samāno kiṃ labhati? Abhejjapariso hoti, abhejjāssa honti parisā, brāhmaṇagahapatikā negamajānapadā gaṇakamahāmattā anīkaṭṭhā dovārikā amaccā pārisajjā rājāno bhogiyā kumārā. Rājā samāno idaṃ labhati … buddho samāno kiṃ labhati? Abhejjapariso hoti, abhejjāssa honti parisā, bhikkhū bhikkhuniyo upāsakā upāsikāyo devā manussā asurā nāgā gandhabbā. Buddho samāno idaṃ labhati’’. Etamatthaṃ bhagavā avoca.",
+   "zh": "“具足这些相者，若处在家，则为转轮王……（中略）……作王时，得何果报？其众不可分裂，其部属不可分裂，即：婆罗门、居士、城邑人与乡民、财务大臣、将军、守门人、大臣、随从、诸王、富豪、王子。作王时，得此……作佛陀时，得何果报？其众不可分裂，其部属不可分裂，即：比丘、比丘尼、近事男、近事女、天、人、阿修罗、龙、乾闼婆。作佛陀时，得此。”世尊如是宣说此义。"
+  },
+  {
+   "idx": 340,
+   "pali": "Tatthetaṃ vuccati –",
+   "zh": "于此，即如是说：",
+   "n": "235"
+  },
+  {
+   "idx": 341,
+   "pali": "‘‘Vebhūtiyaṃ sahitabhedakāriṃ,",
+   "zh": "“破坏和合、好为离间者，",
+   "type": "verse"
+  },
+  {
+   "idx": 342,
+   "pali": "Bhedappavaḍḍhanavivādakāriṃ;",
+   "zh": "助长分裂、制造争论者；",
+   "type": "verse"
+  },
+  {
+   "idx": 343,
+   "pali": "Kalahappavaḍḍhanaākiccakāriṃ,",
+   "zh": "行不应行，增长争论者",
+   "type": "verse"
+  },
+  {
+   "idx": 344,
+   "pali": "Sahitānaṃ bhedajananiṃ na bhaṇi.",
+   "zh": "不说令和合破裂之语",
+   "type": "verse"
+  },
+  {
+   "idx": 345,
+   "pali": "‘‘Avivādavaḍḍhanakariṃ sugiraṃ,",
+   "zh": "“增长无诤的善语",
+   "type": "verse"
+  },
+  {
+   "idx": 346,
+   "pali": "Bhinnānusandhijananiṃ abhaṇi;",
+   "zh": "他说出能令分裂者重归和合之语；",
+   "type": "verse"
+  },
+  {
+   "idx": 347,
+   "pali": "Kalahaṃ janassa panudī samaṅgī,",
+   "zh": "驱除人们的纷争，成为和合者，”",
+   "type": "verse"
+  },
+  {
+   "idx": 348,
+   "pali": "Sahitehi nandati pamodati ca.",
+   "zh": "他与和合者一同欢喜、喜悦。",
+   "type": "verse"
+  },
+  {
+   "idx": 349,
+   "pali": "‘‘Sugatīsu so phalavipākaṃ,",
+   "zh": "“他于善趣中领受其果报，",
+   "type": "verse"
+  },
+  {
+   "idx": 350,
+   "pali": "Anubhavati tattha modati;",
+   "zh": "于彼处，受用而心生欢喜；",
+   "type": "verse"
+  },
+  {
+   "idx": 351,
+   "pali": "Dantā idha honti aviraḷā sahitā,",
+   "zh": "于此，齿不稀疏，紧密和合。",
+   "type": "verse"
+  },
+  {
+   "idx": 352,
+   "pali": "Caturo dasassa mukhajā susaṇṭhitā.",
+   "zh": "他口中生有四十颗牙齿，善为安立。",
+   "type": "verse"
+  },
+  {
+   "idx": 353,
+   "pali": "‘‘Yadi khattiyo bhavati bhūmipati,",
+   "zh": "“若他成为刹帝利、大地之主，",
+   "type": "verse"
+  },
+  {
+   "idx": 354,
+   "pali": "Avibhediyāssa parisā bhavati;",
+   "zh": "他的部众不可分裂；",
+   "type": "verse"
+  },
+  {
+   "idx": 355,
+   "pali": "Samaṇo ca hoti virajo vimalo,",
+   "zh": "他作为沙门，离尘无垢，",
+   "type": "verse"
+  },
+  {
+   "idx": 356,
+   "pali": "Parisāssa hoti anugatā acalā’’ti.",
+   "zh": "他的大众随顺于他，坚稳不动。”",
+   "type": "verse"
+  },
+  {
+   "idx": 357,
+   "pali": "(28-29) Pahūtajivhābrahmassaralakkhaṇāni",
+   "zh": "（28-29）广长舌梵音声相"
+  },
+  {
+   "idx": 358,
+   "pali": "‘‘Yampi , bhikkhave, tathāgato purimaṃ jātiṃ purimaṃ bhavaṃ purimaṃ niketaṃ pubbe manussabhūto samāno pharusaṃ vācaṃ pahāya pharusāya vācāya paṭivirato ahosi. Yā sā vācā nelā kaṇṇasukhā pemanīyā hadayaṅgamā porī bahujanakantā bahujanamanāpā, tathārūpiṃ vācaṃ bhāsitā ahosi. So tassa kammassa kaṭattā upacitattā…pe… so tato cuto itthattaṃ āgato samāno imāni dve mahāpurisalakkhaṇāni paṭilabhati. Pahūtajivho ca hoti brahmassaro ca karavīkabhāṇī.",
+   "zh": "“诸比丘！如来在过去生，曾投生为人时，舍离了粗恶语，远离粗暴的言语。他所说的话语，柔和、悦耳、亲切、深入人心、优雅有礼，为众人所喜爱、所乐闻。由于此业已作、已积集，……从彼处死后，来到此处，他便获得这两种大人相：广长舌，以及梵音声，如迦陵频伽之音。",
+   "n": "236"
+  },
+  {
+   "idx": 359,
+   "pali": "‘‘So tehi lakkhaṇehi samannāgato sace agāraṃ ajjhāvasati, rājā hoti cakkavattī…pe… rājā samāno kiṃ labhati? Ādeyyavāco hoti, ādiyantissa vacanaṃ brāhmaṇagahapatikā negamajānapadā gaṇakamahāmattā anīkaṭṭhā dovārikā amaccā pārisajjā rājāno bhogiyā kumārā. Rājā samāno idaṃ labhati… buddho samāno kiṃ labhati? Ādeyyavāco hoti, ādiyantissa vacanaṃ bhikkhū bhikkhuniyo upāsakā upāsikāyo devā manussā asurā nāgā gandhabbā. Buddho samāno idaṃ labhati’’. Etamatthaṃ bhagavā avoca.",
+   "zh": "“具足这些相好，若他居家，便成为转轮王。……作为国王，他获得什么呢？他的言辞具足摄受之力，婆罗门、居士、城镇与乡村的人、财务官、将领、守门者、大臣、随从、诸王、富豪、王子，都接受他的言语。作为国王，他获得此果。……作为佛陀，他获得什么呢？他的言辞具足摄受之力，比丘、比丘尼、近事男、近事女、天、人、阿修罗、龙、乾闼婆，都接受他的言语。作为佛陀，他获得此果。”世尊如此宣说了此义。"
+  },
+  {
+   "idx": 360,
+   "pali": "Tatthetaṃ vuccati –",
+   "zh": "对此，有偈颂言：",
+   "n": "237"
+  },
+  {
+   "idx": 361,
+   "pali": "‘‘Akkosabhaṇḍanavihesakāriṃ,",
+   "zh": "“辱骂、争执、伤害他人者，",
+   "type": "verse"
+  },
+  {
+   "idx": 362,
+   "pali": "Ubbādhikaṃ bahujanappamaddanaṃ;",
+   "zh": "欺压、摧伏众人者；",
+   "type": "verse"
+  },
+  {
+   "idx": 363,
+   "pali": "Abāḷhaṃ giraṃ so na bhaṇi pharusaṃ,",
+   "zh": "他绝不说粗鲁、尖刻的话语，",
+   "type": "verse"
+  },
+  {
+   "idx": 364,
+   "pali": "Madhuraṃ bhaṇi susaṃhitaṃ sakhilaṃ.",
+   "zh": "他说的话语柔和、有益而温雅。",
+   "type": "verse"
+  },
+  {
+   "idx": 365,
+   "pali": "‘‘Manaso piyā hadayagāminiyo,",
+   "zh": "“悦意、深入人心，",
+   "type": "verse"
+  },
+  {
+   "idx": 366,
+   "pali": "Vācā so erayati kaṇṇasukhā;",
+   "zh": "他说的话语悦耳。",
+   "type": "verse"
+  },
+  {
+   "idx": 367,
+   "pali": "Vācāsuciṇṇaphalamanubhavi,",
+   "zh": "他受用语善行之果，",
+   "type": "verse"
+  },
+  {
+   "idx": 368,
+   "pali": "Saggesu vedayatha puññaphalaṃ.",
+   "zh": "在诸天界受用福德之果。",
+   "type": "verse"
+  },
+  {
+   "idx": 369,
+   "pali": "‘‘Veditvā so sucaritassa phalaṃ,",
+   "zh": "“了知善行之果后，”",
+   "type": "verse"
+  },
+  {
+   "idx": 370,
+   "pali": "Brahmassarattamidhamajjhagamā;",
+   "zh": "他获得了梵天的音声；",
+   "type": "verse"
+  },
+  {
+   "idx": 371,
+   "pali": "Jivhāssa hoti vipulā puthulā,",
+   "zh": "他的舌头变得宽阔广厚；",
+   "type": "verse"
+  },
+  {
+   "idx": 372,
+   "pali": "Ādeyyavākyavacano bhavati.",
+   "zh": "他所说的话语令人信受。",
+   "type": "verse"
+  },
+  {
+   "idx": 373,
+   "pali": "‘‘Gihinopi ijjhati yathā bhaṇato,",
+   "zh": "“如所说，在家者亦得成就；",
+   "type": "verse"
+  },
+  {
+   "idx": 374,
+   "pali": "Atha ce pabbajati so manujo;",
+   "zh": "‘倘若此人出家，’",
+   "type": "verse"
+  },
+  {
+   "idx": 375,
+   "pali": "Ādiyantissa vacanaṃ janatā,",
+   "zh": "‘众人便敬受其语，’",
+   "type": "verse"
+  },
+  {
+   "idx": 376,
+   "pali": "Bahuno bahuṃ subhaṇitaṃ bhaṇato’’ti.",
+   "zh": "他说出种种善妙之语时，众人便为他的妙语所折服。”",
+   "type": "verse"
+  },
+  {
+   "idx": 377,
+   "pali": "(30) Sīhahanulakkhaṇaṃ",
+   "zh": "（30）狮子颊相"
+  },
+  {
+   "idx": 378,
+   "pali": "‘‘Yampi , bhikkhave, tathāgato purimaṃ jātiṃ purimaṃ bhavaṃ purimaṃ niketaṃ pubbe manussabhūto samāno samphappalāpaṃ pahāya samphappalāpā paṭivirato ahosi kālavādī bhūtavādī atthavādī dhammavādī vinayavādī, nidhānavatiṃ vācaṃ bhāsitā ahosi kālena sāpadesaṃ pariyantavatiṃ atthasaṃhitaṃ. So tassa kammassa kaṭattā…pe… so tato cuto itthattaṃ āgato samāno imaṃ mahāpurisalakkhaṇaṃ paṭilabhati, sīhahanu hoti.",
+   "zh": "“比丘们！如来在过去生、过去有、过去住处，尚为人时，便舍离杂秽语、远离杂秽语。他说话适时、真实、有义，如法、如律；他所宣说的是含藏深义之语，于恰当时机，有根据、有节制、与义利相应。由造作、累积了那样的业……从彼处命终之后转生此处，得成此大人相——狮子颊。”",
+   "n": "238"
+  },
+  {
+   "idx": 379,
+   "pali": "‘‘So tena lakkhaṇena samannāgato sace agāraṃ ajjhāvasati, rājā hoti cakkavattī…pe… rājā samāno kiṃ labhati? Appadhaṃsiyo hoti kenaci manussabhūtena paccatthikena paccāmittena. Rājā samāno idaṃ labhati… buddho samāno kiṃ labhati? Appadhaṃsiyo hoti abbhantarehi vā bāhirehi vā paccatthikehi paccāmittehi, rāgena vā dosena vā mohena vā samaṇena vā brāhmaṇena vā devena vā mārena vā brahmunā vā kenaci vā lokasmiṃ. Buddho samāno idaṃ labhati’’. Etamatthaṃ bhagavā avoca.",
+   "zh": "“具足此相者，若住于在家，则成为转轮王……作为国王，他获得什么？他不会被任何人类的仇敌所击败。这就是他作为国王所获得的。……作为佛陀，他获得什么？他不会被内在或外在的仇敌，或被贪、嗔、痴，或沙门、婆罗门、天人、魔罗、梵天神，或世间中任何众生所击败。这就是他作为佛陀所获得的。世尊宣说了此义。”"
+  },
+  {
+   "idx": 380,
+   "pali": "Tatthetaṃ vuccati –",
+   "zh": "“对此，有偈颂说道：”",
+   "n": "239"
+  },
+  {
+   "idx": 381,
+   "pali": "‘‘Na samphappalāpaṃ na muddhataṃ ,",
+   "zh": "“不绮语，不愚痴，”",
+   "type": "verse"
+  },
+  {
+   "idx": 382,
+   "pali": "Avikiṇṇavacanabyappatho ahosi;",
+   "zh": "他言辞清晰，条理分明；",
+   "type": "verse"
+  },
+  {
+   "idx": 383,
+   "pali": "Ahitamapi ca apanudi,",
+   "zh": "他也摒除无益之物，",
+   "type": "verse"
+  },
+  {
+   "idx": 384,
+   "pali": "Hitamapi ca bahujanasukhañca abhaṇi.",
+   "zh": "而说有益且令大众安乐的话。",
+   "type": "verse"
+  },
+  {
+   "idx": 385,
+   "pali": "‘‘Taṃ katvā ito cuto divamupapajji,",
+   "zh": "“依此所行，从此世殁后，往生天上，",
+   "type": "verse"
+  },
+  {
+   "idx": 386,
+   "pali": "Sukataphalavipākamanubhosi;",
+   "zh": "领受善行所感之异熟；",
+   "type": "verse"
+  },
+  {
+   "idx": 387,
+   "pali": "Caviya punaridhāgato samāno,",
+   "zh": "“从彼处殁，复还来此世间，",
+   "type": "verse"
+  },
+  {
+   "idx": 388,
+   "pali": "Dvidugamavaratarahanuttamalattha.",
+   "zh": "他获得了四足中最殊胜者——狮子那样的颊颚。",
+   "type": "verse"
+  },
+  {
+   "idx": 389,
+   "pali": "‘‘Rājā hoti suduppadhaṃsiyo,",
+   "zh": "“他成为极难为敌所胜的国王，",
+   "type": "verse"
+  },
+  {
+   "idx": 390,
+   "pali": "Manujindo manujādhipati mahānubhāvo;",
+   "zh": "人中之王、人中之主，具大威神力；",
+   "type": "verse"
+  },
+  {
+   "idx": 391,
+   "pali": "Tidivapuravarasamo bhavati,",
+   "zh": "他等同三十三天城中的最胜者",
+   "type": "verse"
+  },
+  {
+   "idx": 392,
+   "pali": "Suravarataroriva indo.",
+   "zh": "犹如天中至尊帝释天神",
+   "type": "verse"
+  },
+  {
+   "idx": 393,
+   "pali": "‘‘Gandhabbāsurayakkharakkhasebhi ,",
+   "zh": "“乾闼婆、阿修罗、夜叉、罗刹诸众",
+   "type": "verse"
+  },
+  {
+   "idx": 394,
+   "pali": "Surehi na hi bhavati suppadhaṃsiyo;",
+   "zh": "诸天亦不能轻易征服他；",
+   "type": "verse"
+  },
+  {
+   "idx": 395,
+   "pali": "Tathatto yadi bhavati tathāvidho,",
+   "zh": "若他成为如此之类，",
+   "type": "verse"
+  },
+  {
+   "idx": 396,
+   "pali": "Idha disā ca paṭidisā ca vidisā cā’’ti.",
+   "zh": "照亮此方、彼方及诸方。”",
+   "type": "verse"
+  },
+  {
+   "type": "subhead",
+   "idx": 397,
+   "pali": "(31-32) Samadantasusukkadāṭhālakkhaṇāni",
+   "zh": "(31-32) 牙齿平整、极为白净相"
+  },
+  {
+   "idx": 398,
+   "pali": "‘‘Yampi, bhikkhave, tathāgato purimaṃ jātiṃ purimaṃ bhavaṃ purimaṃ niketaṃ pubbe manussabhūto samāno micchājīvaṃ pahāya sammāājīvena jīvikaṃ kappesi, tulākūṭa kaṃsakūṭa mānakūṭa ukkoṭana vañcana nikati sāciyoga chedana vadha bandhana viparāmosa ālopa sahasākārā paṭivirato ahosi. So tassa kammassa kaṭattā upacitattā ussannattā vipulattā kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjati. So tattha aññe deve dasahi ṭhānehi adhigaṇhāti dibbena āyunā dibbena vaṇṇena dibbena sukhena dibbena yasena dibbena ādhipateyyena dibbehi rūpehi dibbehi saddehi dibbehi gandhehi dibbehi rasehi dibbehi phoṭṭhabbehi. So tato cuto itthattaṃ āgato samāno imāni dve mahāpurisalakkhaṇāni paṭilabhati, samadanto ca hoti susukkadāṭho ca.",
+   "zh": "“诸比丘！如来在往昔生、往昔有、往昔住处，生为人之时，舍弃邪命，依正命而活。他远离在秤、币、尺上欺诈，远离贿赂、欺诳、诈伪、割截、杀害、捆绑、掠夺、抢劫与暴行。由于彼业已经造作、累积、增长、广大，身坏命终之后，往生善趣、天界。彼处，他以十种事超胜其余诸天神：天寿、天色、天乐、天名声、天主权、天形色、天声、天香、天味、天触。从彼处命终，来至此处，他获得此二大人相：牙齿平整、牙齿极为白净。",
+   "n": "240"
+  },
+  {
+   "idx": 399,
+   "pali": "‘‘So tehi lakkhaṇehi samannāgato sace agāraṃ ajjhāvasati, rājā hoti cakkavattī dhammiko dhammarājā cāturanto vijitāvī janapadatthāvariyappatto sattaratanasamannāgato. Tassimāni satta ratanāni bhavanti, seyyathidaṃ – cakkaratanaṃ hatthiratanaṃ assaratanaṃ maṇiratanaṃ itthiratanaṃ gahapatiratanaṃ pariṇāyakaratanameva sattamaṃ. Parosahassaṃ kho panassa puttā bhavanti sūrā vīraṅgarūpā parasenappamaddanā. So imaṃ pathaviṃ sāgarapariyantaṃ akhilamanimittamakaṇṭakaṃ iddhaṃ phītaṃ khemaṃ sivaṃ nirabbudaṃ adaṇḍena asatthena dhammena abhivijiya ajjhāvasati. Rājā samāno kiṃ labhati? Suciparivāro hoti sucissa honti parivārā brāhmaṇagahapatikā negamajānapadā gaṇakamahāmattā anīkaṭṭhā dovārikā amaccā pārisajjā rājāno bhogiyā kumārā. Rājā samāno idaṃ labhati.",
+   "zh": "“具足如是相者，若居家中，则成为转轮王——如法的法王，征服四方，国土安稳，具足七宝。他所拥有七宝，即：轮宝、象宝、马宝、摩尼宝、女宝、居士宝、将军宝为第七宝。他还有一千多位儿子，个个勇健、英武、能摧破敌军。他以法征服此大地，直至海际，令其无荆棘、无盗贼，繁荣、兴盛、安稳、吉祥、无有恐怖，不依刀杖而治。作为王，他获得何等果报？他拥有清净的眷属——婆罗门、居士、城乡人民、会计大臣、军队长官、守门者、大臣、随从、诸封王、富豪、王子等，一切清净者皆随侍围绕。如此，成为王的他获得这些。”"
+  },
+  {
+   "idx": 400,
+   "pali": "‘‘Sace kho pana agārasmā anagāriyaṃ pabbajati, arahaṃ hoti sammāsambuddho loke vivaṭṭacchado. Buddho samāno kiṃ labhati? Suciparivāro hoti, sucissa honti parivārā, bhikkhū bhikkhuniyo upāsakā upāsikāyo devā manussā asurā nāgā gandhabbā. Buddho samāno idaṃ labhati’’. Etamatthaṃ bhagavā avoca.",
+   "zh": "“若他从家走向无家而过出家生活，他便成为世间掀去世间之覆的阿拉汉、正自觉者。成为佛陀，他得到什么呢？他的随众清净，围绕他的皆是清净者：比丘、比丘尼、近事男、近事女、天、人、阿修罗、龙、乾闼婆。这便是成佛所得。"
+  },
+  {
+   "idx": 401,
+   "pali": "Tatthetaṃ vuccati –",
+   "zh": "于此有偈颂曰：",
+   "n": "241"
+  },
+  {
+   "idx": 402,
+   "pali": "‘‘Micchājīvañca avassaji samena vuttiṃ,",
+   "zh": "“他舍离邪命，以平等的方式安住，",
+   "type": "verse"
+  },
+  {
+   "idx": 403,
+   "pali": "Sucinā so janayittha dhammikena;",
+   "zh": "他过着清净、如法的生活；",
+   "type": "verse"
+  },
+  {
+   "idx": 404,
+   "pali": "Ahitamapi ca apanudi,",
+   "zh": "他亦舍弃了无益之事；",
+   "type": "verse"
+  },
+  {
+   "idx": 405,
+   "pali": "Hitamapi ca bahujanasukhañca acari.",
+   "zh": "并为大众的利益与安乐而住世。",
+   "type": "verse"
+  },
+  {
+   "idx": 406,
+   "pali": "‘‘Sagge vedayati naro sukhapphalāni,",
+   "zh": "“此人便在天界感受乐果。”",
+   "type": "verse"
+  },
+  {
+   "idx": 407,
+   "pali": "Karitvā nipuṇebhi vidūhi sabbhi;",
+   "zh": "他依循明察者、智者与善人所称赞而行，",
+   "type": "verse"
+  },
+  {
+   "idx": 408,
+   "pali": "Vaṇṇitāni tidivapuravarasamo,",
+   "zh": "受赞叹，犹如三十三天中最胜者；",
+   "type": "verse"
+  },
+  {
+   "idx": 409,
+   "pali": "Abhiramati ratikhiḍḍāsamaṅgī.",
+   "zh": "他具足喜乐与嬉戏，欢欣怡然。",
+   "type": "verse"
+  },
+  {
+   "idx": 410,
+   "pali": "‘‘Laddhānaṃ mānusakaṃ bhavaṃ tato,",
+   "zh": "“由此获得人的存在后，",
+   "type": "verse"
+  },
+  {
+   "idx": 411,
+   "pali": "Cavitvāna sukataphalavipākaṃ;",
+   "zh": "命终之后，善业果报的异熟，",
+   "type": "verse"
+  },
+  {
+   "idx": 412,
+   "pali": "Sesakena paṭilabhati lapanajaṃ,",
+   "zh": "凭借残余的业，他获得由言语所生、",
+   "type": "verse"
+  },
+  {
+   "idx": 413,
+   "pali": "Samamapi sucisusukkaṃ .",
+   "zh": "平整、洁净而极为洁白的牙齿。",
+   "type": "verse"
+  },
+  {
+   "idx": 414,
+   "pali": "‘‘Taṃ veyyañjanikā samāgatā bahavo,",
+   "zh": "“那些相师们，成群聚集，",
+   "type": "verse"
+  },
+  {
+   "idx": 415,
+   "pali": "Byākaṃsu nipuṇasammatā manujā;",
+   "zh": "为诸智者所赞叹者宣说：",
+   "type": "verse"
+  },
+  {
+   "idx": 416,
+   "pali": "Sucijanaparivāragaṇo bhavati,",
+   "zh": "得清净众人随从围绕，",
+   "type": "verse"
+  },
+  {
+   "idx": 417,
+   "pali": "Dijasamasukkasucisobhanadanto.",
+   "zh": "齿如鸟齿，平齐、洁白、清净而庄严。",
+   "type": "verse"
+  },
+  {
+   "idx": 418,
+   "pali": "‘‘Rañño hoti bahujano,",
+   "zh": "“国王有众多人民",
+   "type": "verse"
+  },
+  {
+   "idx": 419,
+   "pali": "Suciparivāro mahatiṃ mahiṃ anusāsato;",
+   "zh": "当他征服此广土而统治时，便有清净的随众：",
+   "type": "verse"
+  },
+  {
+   "idx": 420,
+   "pali": "Pasayha na ca janapadatudanaṃ,",
+   "zh": "不以暴力摧残国土与人民，",
+   "type": "verse"
+  },
+  {
+   "idx": 421,
+   "pali": "Hitamapi ca bahujanasukhañca caranti.",
+   "zh": "为大众行利益与安乐。",
+   "type": "verse"
+  },
+  {
+   "idx": 422,
+   "pali": "‘‘Atha ce pabbajati bhavati vipāpo,",
+   "zh": "“若他出家，便是一位无恶者，",
+   "type": "verse"
+  },
+  {
+   "idx": 423,
+   "pali": "Samaṇo samitarajo vivaṭṭacchado;",
+   "zh": "沙门已平息尘垢，已掀开覆盖；",
+   "type": "verse"
+  },
+  {
+   "idx": 424,
+   "pali": "Vigatadarathakilamatho,",
+   "zh": "已远离忧恼与疲劳，",
+   "type": "verse"
+  },
+  {
+   "idx": 425,
+   "pali": "Imamapi ca paramapi ca passati lokaṃ.",
+   "zh": "他见此世与彼世。",
+   "type": "verse"
+  },
+  {
+   "idx": 426,
+   "pali": "‘‘Tassovādakarā bahugihī ca pabbajitā ca,",
+   "zh": "“众多在家人与出家者，皆奉行他的教诫，",
+   "type": "verse"
+  },
+  {
+   "idx": 427,
+   "pali": "Asuciṃ garahitaṃ dhunanti pāpaṃ;",
+   "zh": "抖落不净、应被呵责的罪恶；",
+   "type": "verse"
+  },
+  {
+   "idx": 428,
+   "pali": "Sa hi sucibhi parivuto bhavati,",
+   "zh": "他确实为清净者所围绕，",
+   "type": "verse"
+  },
+  {
+   "idx": 429,
+   "pali": "Malakhilakalikilese panudehī’’ti .",
+   "zh": "应驱除垢秽、障碍、罪过与烦恼。”",
+   "type": "verse"
+  },
+  {
+   "idx": 430,
+   "pali": "Idamavoca bhagavā. Attamanā te bhikkhū bhagavato bhāsitaṃ abhinandunti.",
+   "zh": "世尊如是说。那些比丘心满意足，对世尊所说欢喜信受。"
+  },
+  {
+   "idx": 431,
+   "pali": "Lakkhaṇasuttaṃ niṭṭhitaṃ sattamaṃ.",
+   "zh": "《三十二相经》第七终",
+   "type": "colophon"
+  }
+ ]
+}
