@@ -1,10 +1,19 @@
 {
-  "title": "巴利三藏中文译本（Tipiṭaka, Chinese translation）",
+  "title": "巴利三藏中文译本",
   "description": "上座部佛教巴利三藏的中文译本与典藏排版。底本为第六次结集本（CSCD）。含 40 卷典藏排版 PDF、40 卷 EPUB，以及经藏结构化译文（逐段巴汉对照 JSON）。译经依据巴利原文、义注、复注与 nissaya 逐词对照。译文为持续校对中的成果，初稿不等于定稿。",
   "license": "CC-BY-NC-ND-4.0",
   "upload_type": "publication",
   "publication_type": "book",
   "language": "zho",
-  "keywords": ["巴利三藏", "Tipitaka", "Pali Canon", "Theravada", "上座部", "佛教", "汉译", "Buddhism"],
+  "keywords": [
+    "巴利三藏",
+    "Tipitaka",
+    "Pali Canon",
+    "Theravada",
+    "上座部",
+    "佛教",
+    "汉译",
+    "Buddhism"
+  ],
   "access_right": "open"
 }
